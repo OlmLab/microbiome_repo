@@ -15,9 +15,10 @@
 <link rel="stylesheet" href="../static/vendor/dataTables.dataTables-2.1.8.min.css" integrity="sha384-bK2L0Q3Sn2fB8YZTIjKejpTUJXd8xNtKn4RcIm7KM3EX3orMlOI31hwtNH0iyky/" crossorigin="anonymous">
 
 
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 
 </head>
-<body>
+<body class="wide">
 <nav class="topnav"><div class="in">
 <a class="brand" href="../index.html">Microbiome Repo</a>
 <a href="../index.html" >Home</a>
@@ -82,7 +83,7 @@ fetch('../data/studies_index.json').then(r => r.json()).then(rows => {
   };
   DataTable.ext.search.push((settings, data, i, row) => settings.nTable.id !== 'studies' || ok(row));
   const tbl = new DataTable('#studies', {
-    data: rows, pageLength: 50, lengthMenu: [25, 50, 100, 500], order: [[2, 'desc']], deferRender: true,
+    data: rows, scrollX: true, autoWidth: false, pageLength: 50, lengthMenu: [25, 50, 100, 500], order: [[2, 'desc']], deferRender: true,
     columns: [
       {data: 'a', render: (d, t) => t === 'display' ? '<a href="' + h(d) + '.html">' + h(d) + '</a>' : d},
       {data: 't', render: (d, t) => t === 'display' ? '<span class="small clip" title="' + h(d) + '">' + h(d) + '</span>' : d},
