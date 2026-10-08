@@ -1,0 +1,40 @@
+# Microbiome Repo — instructions for LLMs and agents
+> Evidence-linked metadata for every public human gut shotgun metagenome (all ages): 2,883 projects (INSDC BioProjects), 580,407 samples. Release R2026.17 (package 1.16.0).
+
+Use ONLY the files below; fetch them, do not guess accessions or counts. All files are plain JSON / CSV at stable URLs.
+
+## How to search (do this in order)
+1. Choose the most specific slice and fetch it:
+   - by intervention the study administered: https://olmlab.github.io/microbiome_repo/api/by-intervention/<code>.json   (codes: fmt, probiotic, prebiotic_or_fibre, synbiotic, live_biotherapeutic, antibiotic, diet_intervention, dietary_supplement, drug_therapy, surgery, bowel_preparation, exercise, vaccine, phage_therapy, other_intervention)
+   - by health condition: https://olmlab.github.io/microbiome_repo/api/by-condition/<code>.json   (codes in https://olmlab.github.io/microbiome_repo/api/vocabularies.json, e.g. ulcerative_colitis, crohns_disease, ibd_unspecified, colorectal_cancer, type2_diabetes, obesity, healthy_control)
+   - by age category: https://olmlab.github.io/microbiome_repo/api/by-age/<neonate|infant|child|adolescent|adult|elderly>.json
+   - everything (large, ~2 MB): https://olmlab.github.io/microbiome_repo/api/projects.json
+2. Filter the slice's `projects` on the other keys: `health_conditions` (code -> samples), `interventions`, `intervention_design`, `trial_population_condition`,
+   `sample_intervention_arms`, `has_cases_and_healthy_controls`, `has_treated_and_control_arms`, `n_samples`, `countries`, `age_categories`, `gbp_per_sample_median`.
+3. For each candidate fetch `urls.samples_csv` (https://olmlab.github.io/microbiome_repo/api/samples/<ACCESSION>.csv): one row per sample with subject_id, timepoint_label, age_category,
+   age_at_collection_days, sex, country, health_condition, intervention (this sample's arm), antibiotic_exposure, collection_date, n_runs, seq_gbp.
+4. Answer with accessions, sample counts per group/arm, and links (`urls.page`, `urls.ena`). Say when a value is missing rather than inferring it.
+
+## Meaning of the key fields
+- `interventions` = what the investigators ADMINISTERED (FMT, probiotic, diet, drug …), study level, read from the abstract / BioProject description. [] = none stated.
+- `sample_intervention_arms` / sample column `intervention` = the arm recorded in the archive for that sample; `placebo` and `no_intervention` are the controls / baselines.
+- `health_conditions` counts each sample's own condition; `trial_population_condition` is the condition of a trial's participants (e.g. ulcerative_colitis for a UC FMT trial).
+- An "IBD + FMT study" = by-intervention/fmt.json filtered to projects whose health_conditions or trial_population_condition include ulcerative_colitis, crohns_disease or ibd_unspecified.
+
+## Worked examples
+- "Probiotic trials where both treated and control samples have metagenomes": fetch https://olmlab.github.io/microbiome_repo/api/by-intervention/probiotic.json; keep projects with
+  intervention_design in (randomized_controlled_trial, crossover, non_randomized_controlled) OR has_treated_and_control_arms = true. has_treated_and_control_arms = true
+  means the archive labels each sample's arm (best case); for the others read the samples_csv (intervention, timepoint_label, subject_id) and the paper to split arms.
+- "Ulcerative colitis FMT studies": fetch https://olmlab.github.io/microbiome_repo/api/by-intervention/fmt.json; keep trial_population_condition = ulcerative_colitis or health_conditions containing ulcerative_colitis.
+- "Adult colorectal-cancer case-control cohorts with healthy controls": fetch https://olmlab.github.io/microbiome_repo/api/by-condition/colorectal_cancer.json; keep has_cases_and_healthy_controls = true and age_categories containing adult.
+- "Infant gut samples from Finland": fetch https://olmlab.github.io/microbiome_repo/api/by-age/infant.json; keep countries containing Finland; then read samples_csv.
+
+## For code-running agents
+DuckDB can query the full per-sample table over HTTP:
+  INSTALL httpfs; LOAD httpfs;
+  SELECT study_accession, intervention, count(*) FROM read_parquet('https://olmlab.github.io/microbiome_repo/data/gut_sample_metadata_wide.parquet') WHERE health_condition IN ('ulcerative_colitis','crohns_disease') GROUP BY ALL;
+Study-level columns (interventions, intervention_design, population_condition …): https://olmlab.github.io/microbiome_repo/data/gut_studies.parquet. Field definitions: https://olmlab.github.io/microbiome_repo/fields/index.html.
+
+## Caveats
+Values are evidence-linked claims (route R1 archive attribute > R2 supplementary table > R3 paper text > R4 abstract), not ground truth; study-level
+interventions come from abstracts and may miss arms; every value's evidence is on the project page. Cite: Microbiome Repo, release R2026.17 (data package 1.16.0), OlmLab, 2026-10-08.

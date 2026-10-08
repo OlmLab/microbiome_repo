@@ -1,0 +1,245 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA6512916,PRJEB33500,D1,4 weeks,adult,15696.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.995
+SAMEA6512998,PRJEB33500,D1,8 weeks,adult,15696.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.082
+SAMEA6512834,PRJEB33500,D1,baseline,adult,15696.8,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,2.932
+SAMEA6512925,PRJEB33500,D10,4 weeks,adult,6574.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.03
+SAMEA6513007,PRJEB33500,D10,8 weeks,adult,6574.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.015
+SAMEA6512843,PRJEB33500,D10,baseline,adult,6574.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.211
+SAMEA6512926,PRJEB33500,D11,4 weeks,adult,20820.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.097
+SAMEA6513008,PRJEB33500,D11,8 weeks,adult,20820.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.212
+SAMEA6512844,PRJEB33500,D11,baseline,adult,20820.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.1
+SAMEA6512927,PRJEB33500,D12,4 weeks,adult,19706.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.142
+SAMEA6513009,PRJEB33500,D12,8 weeks,adult,19706.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.044
+SAMEA6512845,PRJEB33500,D12,baseline,adult,19706.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.008
+SAMEA6512928,PRJEB33500,D13,4 weeks,adult,10601.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.98
+SAMEA6513010,PRJEB33500,D13,8 weeks,adult,10601.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.885
+SAMEA6512846,PRJEB33500,D13,baseline,adult,10601.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.141
+SAMEA6512929,PRJEB33500,D14,4 weeks,adult,20088.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.1
+SAMEA6513011,PRJEB33500,D14,8 weeks,adult,20088.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.09
+SAMEA6512847,PRJEB33500,D14,baseline,adult,20088.8,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.139
+SAMEA6512930,PRJEB33500,D15,4 weeks,adult,18627.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.087
+SAMEA6513012,PRJEB33500,D15,8 weeks,adult,18627.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.156
+SAMEA6512848,PRJEB33500,D15,baseline,adult,18627.8,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.043
+SAMEA6512931,PRJEB33500,D16,4 weeks,adult,20088.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.129
+SAMEA6513013,PRJEB33500,D16,8 weeks,adult,20088.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.114
+SAMEA6512849,PRJEB33500,D16,baseline,adult,20088.8,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.067
+SAMEA6512932,PRJEB33500,D17,4 weeks,adult,8035.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.192
+SAMEA6513014,PRJEB33500,D17,8 weeks,adult,8035.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.029
+SAMEA6512850,PRJEB33500,D17,baseline,adult,8035.5,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.214
+SAMEA6512933,PRJEB33500,D18,4 weeks,adult,7670.2,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.101
+SAMEA6513015,PRJEB33500,D18,8 weeks,adult,8035.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.935
+SAMEA6512851,PRJEB33500,D18,baseline,adult,7670.2,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.057
+SAMEA6512934,PRJEB33500,D19,4 weeks,adult,16791.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.998
+SAMEA6513016,PRJEB33500,D19,8 weeks,adult,16791.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.098
+SAMEA6512852,PRJEB33500,D19,baseline,adult,16791.5,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,2.94
+SAMEA6512917,PRJEB33500,D2,4 weeks,adult,19706.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.07
+SAMEA6512999,PRJEB33500,D2,8 weeks,adult,19706.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.006
+SAMEA6512835,PRJEB33500,D2,baseline,adult,19706.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.063
+SAMEA6512935,PRJEB33500,D20,4 weeks,adult,14610.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.021
+SAMEA6513017,PRJEB33500,D20,8 weeks,adult,14610.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.1
+SAMEA6512853,PRJEB33500,D20,baseline,adult,14610.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.138
+SAMEA6512936,PRJEB33500,D21,4 weeks,adult,21549.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.984
+SAMEA6513018,PRJEB33500,D21,8 weeks,adult,21549.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,6.0,3.141
+SAMEA6512854,PRJEB33500,D21,baseline,adult,21549.8,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,6.0,3.054
+SAMEA6512937,PRJEB33500,D22,4 weeks,adult,7670.2,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.181
+SAMEA6513019,PRJEB33500,D22,8 weeks,adult,7670.2,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.086
+SAMEA6512855,PRJEB33500,D22,baseline,adult,7670.2,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,2.98
+SAMEA6512938,PRJEB33500,D24,4 weeks,adult,15330.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.069
+SAMEA6513020,PRJEB33500,D24,8 weeks,adult,15330.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.97
+SAMEA6512856,PRJEB33500,D24,baseline,adult,15330.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.014
+SAMEA6512939,PRJEB33500,D25,4 weeks,adult,16791.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.104
+SAMEA6513021,PRJEB33500,D25,8 weeks,adult,16791.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.391
+SAMEA6512857,PRJEB33500,D25,baseline,adult,16791.5,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.082
+SAMEA6512940,PRJEB33500,D26,4 weeks,adult,10601.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.142
+SAMEA6513022,PRJEB33500,D26,8 weeks,adult,10601.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.085
+SAMEA6512858,PRJEB33500,D26,baseline,adult,10601.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.023
+SAMEA6512941,PRJEB33500,D27,4 weeks,adult,16069.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.184
+SAMEA6513023,PRJEB33500,D27,8 weeks,adult,16069.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.115
+SAMEA6512859,PRJEB33500,D27,baseline,adult,16069.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.185
+SAMEA6512942,PRJEB33500,D28,4 weeks,adult,17151.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.184
+SAMEA6513024,PRJEB33500,D28,8 weeks,adult,17151.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.17
+SAMEA6512860,PRJEB33500,D28,baseline,adult,17151.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.278
+SAMEA6512943,PRJEB33500,D29,4 weeks,adult,16436.2,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,2.963
+SAMEA6513025,PRJEB33500,D29,8 weeks,adult,16436.2,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.097
+SAMEA6512861,PRJEB33500,D29,baseline,adult,16436.2,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.04
+SAMEA6512918,PRJEB33500,D3,4 weeks,adult,15330.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,0.97
+SAMEA6513000,PRJEB33500,D3,8 weeks,adult,15330.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.084
+SAMEA6512836,PRJEB33500,D3,baseline,adult,15330.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.016
+SAMEA6512944,PRJEB33500,D30,4 weeks,adult,15330.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.166
+SAMEA6513026,PRJEB33500,D30,8 weeks,adult,15330.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.173
+SAMEA6512862,PRJEB33500,D30,baseline,adult,15330.0,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.129
+SAMEA6512945,PRJEB33500,D31,4 weeks,adult,14975.2,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.156
+SAMEA6513028,PRJEB33500,D31,8 weeks,adult,14975.2,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.089
+SAMEA6512863,PRJEB33500,D31,baseline,adult,14975.2,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.116
+SAMEA6512946,PRJEB33500,D32,4 weeks,adult,19706.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.117
+SAMEA6513029,PRJEB33500,D32,8 weeks,adult,19706.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.216
+SAMEA6512864,PRJEB33500,D32,baseline,adult,19706.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.05
+SAMEA6512947,PRJEB33500,D33,4 weeks,adult,16791.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.137
+SAMEA6513030,PRJEB33500,D33,8 weeks,adult,16791.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.184
+SAMEA6512865,PRJEB33500,D33,baseline,adult,16791.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.106
+SAMEA6512948,PRJEB33500,D34,4 weeks,adult,14975.2,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.069
+SAMEA6513031,PRJEB33500,D34,8 weeks,adult,14975.2,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.104
+SAMEA6512866,PRJEB33500,D34,baseline,adult,14975.2,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.073
+SAMEA6512949,PRJEB33500,D35,4 weeks,adult,12043.2,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.072
+SAMEA6513032,PRJEB33500,D35,8 weeks,adult,12043.2,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.046
+SAMEA6512867,PRJEB33500,D35,baseline,adult,12043.2,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.086
+SAMEA6512950,PRJEB33500,D36,4 weeks,adult,14610.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.228
+SAMEA6513033,PRJEB33500,D36,8 weeks,adult,14610.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.106
+SAMEA6512868,PRJEB33500,D36,baseline,adult,14610.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.123
+SAMEA6512951,PRJEB33500,D37,4 weeks,adult,6939.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.072
+SAMEA6513034,PRJEB33500,D37,8 weeks,adult,6939.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.082
+SAMEA6512869,PRJEB33500,D37,baseline,adult,6939.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.025
+SAMEA6512952,PRJEB33500,D38,4 weeks,adult,6939.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.067
+SAMEA6513035,PRJEB33500,D38,8 weeks,adult,6939.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.132
+SAMEA6512870,PRJEB33500,D38,baseline,adult,6939.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.223
+SAMEA6512953,PRJEB33500,D39,4 weeks,adult,18262.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.105
+SAMEA6513036,PRJEB33500,D39,8 weeks,adult,18262.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.113
+SAMEA6512871,PRJEB33500,D39,baseline,adult,18262.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.087
+SAMEA6512919,PRJEB33500,D4,4 weeks,adult,14610.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.104
+SAMEA6513001,PRJEB33500,D4,8 weeks,adult,14610.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.848
+SAMEA6512837,PRJEB33500,D4,baseline,adult,14610.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,3.0,3.113
+SAMEA6512954,PRJEB33500,D40,4 weeks,elderly,23741.2,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.543
+SAMEA6513037,PRJEB33500,D40,8 weeks,elderly,23741.2,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.624
+SAMEA6512872,PRJEB33500,D40,baseline,elderly,23741.2,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.41
+SAMEA6512955,PRJEB33500,D41,4 weeks,adult,9496.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,2.871
+SAMEA6513038,PRJEB33500,D41,8 weeks,adult,9496.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.278
+SAMEA6512873,PRJEB33500,D41,baseline,adult,9496.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.127
+SAMEA6512956,PRJEB33500,D42,4 weeks,adult,23376.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,3.0,5.041
+SAMEA6513039,PRJEB33500,D42,8 weeks,adult,23376.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,3.0,5.009
+SAMEA6512874,PRJEB33500,D42,baseline,adult,22980.8,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,3.0,4.804
+SAMEA6512957,PRJEB33500,D43,4 weeks,adult,23376.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,3.0,4.36
+SAMEA6513040,PRJEB33500,D43,8 weeks,adult,23376.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,3.0,4.29
+SAMEA6512875,PRJEB33500,D43,baseline,adult,23376.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,3.0,5.182
+SAMEA6512958,PRJEB33500,D44,4 weeks,adult,15696.8,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.198
+SAMEA6513041,PRJEB33500,D44,8 weeks,adult,15696.8,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.096
+SAMEA6512876,PRJEB33500,D44,baseline,adult,15696.8,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.237
+SAMEA6512959,PRJEB33500,D46,4 weeks,adult,19706.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.15
+SAMEA6513042,PRJEB33500,D46,8 weeks,adult,19706.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.171
+SAMEA6512877,PRJEB33500,D46,baseline,adult,19706.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.129
+SAMEA6512960,PRJEB33500,D47,4 weeks,adult,8391.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.238
+SAMEA6513043,PRJEB33500,D47,8 weeks,adult,8766.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.18
+SAMEA6512878,PRJEB33500,D47,baseline,adult,8391.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.118
+SAMEA6512961,PRJEB33500,D48,4 weeks,adult,16791.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.293
+SAMEA6513044,PRJEB33500,D48,8 weeks,adult,16791.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.048
+SAMEA6512879,PRJEB33500,D48,baseline,adult,16436.2,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.229
+SAMEA6512962,PRJEB33500,D49,4 weeks,adult,16069.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.121
+SAMEA6513045,PRJEB33500,D49,8 weeks,adult,16069.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.044
+SAMEA6512880,PRJEB33500,D49,baseline,adult,16069.0,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,2.989
+SAMEA6512920,PRJEB33500,D5,4 weeks,adult,11688.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.059
+SAMEA6513002,PRJEB33500,D5,8 weeks,adult,11688.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.08
+SAMEA6512838,PRJEB33500,D5,baseline,adult,11688.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.111
+SAMEA6512963,PRJEB33500,D50,4 weeks,adult,13504.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.13
+SAMEA6513046,PRJEB33500,D50,8 weeks,adult,13504.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.028
+SAMEA6512881,PRJEB33500,D50,baseline,adult,13504.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.0
+SAMEA6512964,PRJEB33500,D51,4 weeks,adult,16069.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.305
+SAMEA6513047,PRJEB33500,D51,8 weeks,adult,16069.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.186
+SAMEA6512882,PRJEB33500,D51,baseline,adult,16069.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.276
+SAMEA6512965,PRJEB33500,D52,4 weeks,adult,21549.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.157
+SAMEA6513048,PRJEB33500,D52,8 weeks,adult,21549.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.113
+SAMEA6512883,PRJEB33500,D52,baseline,adult,21177.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.112
+SAMEA6512966,PRJEB33500,D53,4 weeks,adult,17151.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.174
+SAMEA6513049,PRJEB33500,D53,8 weeks,adult,17151.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.148
+SAMEA6512884,PRJEB33500,D53,baseline,adult,16791.5,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.162
+SAMEA6512967,PRJEB33500,D54,4 weeks,adult,16069.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.431
+SAMEA6513050,PRJEB33500,D54,8 weeks,adult,16069.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.147
+SAMEA6512885,PRJEB33500,D54,baseline,adult,16069.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.254
+SAMEA6512968,PRJEB33500,D55,4 weeks,adult,18262.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.125
+SAMEA6513051,PRJEB33500,D55,8 weeks,adult,18627.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.183
+SAMEA6512886,PRJEB33500,D55,baseline,adult,18262.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.184
+SAMEA6512921,PRJEB33500,D6,4 weeks,adult,15330.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.016
+SAMEA6513003,PRJEB33500,D6,8 weeks,adult,15330.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.999
+SAMEA6512839,PRJEB33500,D6,baseline,adult,14975.2,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,2.933
+SAMEA6512922,PRJEB33500,D7,4 weeks,adult,11312.8,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.047
+SAMEA6513004,PRJEB33500,D7,8 weeks,adult,11312.8,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.034
+SAMEA6512840,PRJEB33500,D7,baseline,adult,11312.8,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,2.939
+SAMEA6512923,PRJEB33500,D8,4 weeks,adult,21177.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.095
+SAMEA6513005,PRJEB33500,D8,8 weeks,adult,21177.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.064
+SAMEA6512841,PRJEB33500,D8,baseline,adult,21177.0,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.193
+SAMEA6512924,PRJEB33500,D9,4 weeks,adult,10957.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.141
+SAMEA6513006,PRJEB33500,D9,8 weeks,adult,10957.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.075
+SAMEA6512842,PRJEB33500,D9,baseline,adult,10957.5,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.075
+SAMEA6512969,PRJEB33500,P1,4 weeks,adult,19358.2,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.956
+SAMEA6513052,PRJEB33500,P1,8 weeks,adult,19358.2,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.01
+SAMEA6512887,PRJEB33500,P1,baseline,adult,19358.2,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.053
+SAMEA6512977,PRJEB33500,P10,4 weeks,adult,8766.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.056
+SAMEA6513060,PRJEB33500,P10,8 weeks,adult,8766.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.154
+SAMEA6512895,PRJEB33500,P10,baseline,adult,8766.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.108
+SAMEA6512978,PRJEB33500,P11,4 weeks,adult,9131.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.129
+SAMEA6513061,PRJEB33500,P11,8 weeks,adult,9131.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.111
+SAMEA6512896,PRJEB33500,P11,baseline,adult,9131.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.253
+SAMEA6512979,PRJEB33500,P12,4 weeks,adult,16069.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.231
+SAMEA6513062,PRJEB33500,P12,8 weeks,adult,16069.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.18
+SAMEA6512897,PRJEB33500,P12,baseline,adult,16069.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.121
+SAMEA6512980,PRJEB33500,P13,4 weeks,adult,16791.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.155
+SAMEA6513063,PRJEB33500,P13,8 weeks,adult,16791.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.187
+SAMEA6512898,PRJEB33500,P13,baseline,adult,16791.5,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.265
+SAMEA6512981,PRJEB33500,P14,4 weeks,adult,21177.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,3.0,3.086
+SAMEA6513064,PRJEB33500,P14,8 weeks,adult,21177.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,3.0,3.007
+SAMEA6512899,PRJEB33500,P14,baseline,adult,21177.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.212
+SAMEA6512982,PRJEB33500,P15,4 weeks,adult,21915.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,3.0,3.125
+SAMEA6513065,PRJEB33500,P15,8 weeks,adult,21915.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,3.0,3.052
+SAMEA6512900,PRJEB33500,P15,baseline,adult,21915.0,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,3.0,3.126
+SAMEA6512983,PRJEB33500,P16,4 weeks,adult,10234.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.843
+SAMEA6513066,PRJEB33500,P16,8 weeks,adult,10234.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.934
+SAMEA6512901,PRJEB33500,P16,baseline,adult,10234.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.875
+SAMEA6512984,PRJEB33500,P17,4 weeks,adult,9496.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.179
+SAMEA6513067,PRJEB33500,P17,8 weeks,adult,9857.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.181
+SAMEA6512902,PRJEB33500,P17,baseline,adult,9496.5,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.185
+SAMEA6512985,PRJEB33500,P18,4 weeks,adult,14610.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.177
+SAMEA6513068,PRJEB33500,P18,8 weeks,adult,14610.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.21
+SAMEA6512903,PRJEB33500,P18,baseline,adult,14610.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.18
+SAMEA6513069,PRJEB33500,P19,8 weeks,adult,13878.5,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.309
+SAMEA6512904,PRJEB33500,P19,baseline,adult,13878.5,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,4.0,3.061
+SAMEA6512970,PRJEB33500,P2,4 weeks,adult,13149.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.928
+SAMEA6513053,PRJEB33500,P2,8 weeks,adult,13149.0,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,2.993
+SAMEA6512888,PRJEB33500,P2,baseline,adult,12783.8,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,2.926
+SAMEA6512987,PRJEB33500,P20,4 weeks,adult,11312.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.54
+SAMEA6513070,PRJEB33500,P20,8 weeks,adult,11312.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.252
+SAMEA6512905,PRJEB33500,P20,baseline,adult,10957.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,2.0,3.216
+SAMEA6512988,PRJEB33500,P21,4 weeks,adult,21915.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.477
+SAMEA6513071,PRJEB33500,P21,8 weeks,adult,21915.0,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.809
+SAMEA6512906,PRJEB33500,P21,baseline,adult,21915.0,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.308
+SAMEA6512989,PRJEB33500,P22,4 weeks,adult,18262.5,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.714
+SAMEA6513072,PRJEB33500,P22,8 weeks,adult,18262.5,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,4.0,3.076
+SAMEA6512907,PRJEB33500,P22,baseline,adult,18262.5,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.486
+SAMEA6512990,PRJEB33500,P23,4 weeks,adult,18262.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.101
+SAMEA6513073,PRJEB33500,P23,8 weeks,adult,18262.5,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.747
+SAMEA6512908,PRJEB33500,P23,baseline,adult,18262.5,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,3.058
+SAMEA6512991,PRJEB33500,P25,4 weeks,adult,18627.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.517
+SAMEA6513074,PRJEB33500,P25,8 weeks,adult,18627.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.25
+SAMEA6512909,PRJEB33500,P25,baseline,adult,18627.8,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.61
+SAMEA6512992,PRJEB33500,P26,4 weeks,adult,12043.2,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.396
+SAMEA6513075,PRJEB33500,P26,8 weeks,adult,12043.2,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.368
+SAMEA6512910,PRJEB33500,P26,baseline,adult,12043.2,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.35
+SAMEA6512993,PRJEB33500,P27,4 weeks,adult,21549.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.421
+SAMEA6513076,PRJEB33500,P27,8 weeks,adult,21549.8,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.782
+SAMEA6512911,PRJEB33500,P27,baseline,adult,21549.8,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.226
+SAMEA6512994,PRJEB33500,P28,4 weeks,adult,21549.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.649
+SAMEA6513077,PRJEB33500,P28,8 weeks,adult,21549.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.831
+SAMEA6512912,PRJEB33500,P28,baseline,adult,21549.8,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,2.0,3.607
+SAMEA6512995,PRJEB33500,P29,4 weeks,adult,13878.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.137
+SAMEA6513078,PRJEB33500,P29,8 weeks,adult,13878.5,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,2.0,3.195
+SAMEA6512913,PRJEB33500,P29,baseline,adult,13878.5,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,2.0,3.434
+SAMEA6512971,PRJEB33500,P3,4 weeks,adult,15696.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.116
+SAMEA6513054,PRJEB33500,P3,8 weeks,adult,15696.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.954
+SAMEA6512889,PRJEB33500,P3,baseline,adult,15696.8,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.077
+SAMEA6512996,PRJEB33500,P30,4 weeks,adult,9857.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.511
+SAMEA6513079,PRJEB33500,P30,8 weeks,adult,9857.0,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,2.0,3.544
+SAMEA6512914,PRJEB33500,P30,baseline,adult,9857.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,2.0,3.609
+SAMEA6513080,PRJEB33500,P31,8 weeks,adult,18627.8,male,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,3.11
+SAMEA6512915,PRJEB33500,P31,baseline,adult,18627.8,male,IT,obesity,,no_intervention,before diet intervention,,2016,primary,2.0,3.562
+SAMEA6512972,PRJEB33500,P4,4 weeks,adult,13878.5,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.009
+SAMEA6513055,PRJEB33500,P4,8 weeks,adult,13878.5,female,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.946
+SAMEA6512890,PRJEB33500,P4,baseline,adult,13878.5,female,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,2.991
+SAMEA6512973,PRJEB33500,P5,4 weeks,adult,21549.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.938
+SAMEA6513056,PRJEB33500,P5,8 weeks,adult,21549.8,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,2.938
+SAMEA6512891,PRJEB33500,P5,baseline,adult,21177.0,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.009
+SAMEA6512974,PRJEB33500,P6,4 weeks,adult,9496.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.005
+SAMEA6513057,PRJEB33500,P6,8 weeks,adult,9496.5,male,IT,obesity,,diet_intervention,Mediterranean diet arm,,2016,primary,5.0,3.025
+SAMEA6512892,PRJEB33500,P6,baseline,adult,9496.5,male,IT,obesity,,no_intervention,before diet intervention; assigned arm: Mediterranean diet arm,,2016,primary,5.0,3.026
+SAMEA6512975,PRJEB33500,P8,4 weeks,adult,17151.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,2.786
+SAMEA6513058,PRJEB33500,P8,8 weeks,adult,17151.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,4.0,2.724
+SAMEA6512893,PRJEB33500,P8,baseline,adult,17151.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,4.0,2.75
+SAMEA6512976,PRJEB33500,P9,4 weeks,adult,20820.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.144
+SAMEA6513059,PRJEB33500,P9,8 weeks,adult,20820.0,female,IT,obesity,,no_intervention,control diet arm (no Mediterranean diet),,2016,primary,5.0,3.173
+SAMEA6512894,PRJEB33500,P9,baseline,adult,20820.0,female,IT,obesity,,no_intervention,before diet intervention,,2016,primary,5.0,3.172

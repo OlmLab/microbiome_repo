@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — Microbiome Repo</title>
+<meta name="description" content="Who built Microbiome Repo and who funds it; scope, methods, sources and acknowledgements, field documentation and how to cite.">
+<meta name="catalog-release" content="data-v1.16.0">
+<meta name="catalog-release-id" content="R2026.17">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/about/index.html">
+<meta name="catalog-package-version" content="1.16.0">
+<meta name="catalog-build-date" content="2026-10-08">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html" class="active">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › About</div>
+
+<h1>About</h1>
+<p class="lead">Microbiome Repo was created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a> and is funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a>. It has two tiers: a <b>registry</b> of every shotgun-metagenome study reached in ENA — INSDC BioProjects deposited in ENA, NCBI SRA or DDBJ — classified for human host, body site, life stage, assay and access (6,905 human studies of 64,369), and a curated <b>catalog</b> of the human-gut studies among them, all ages (2,883 studies, 580,407 samples), with per-sample metadata in which every value carries a verbatim evidence quote, a route and a confidence.</p>
+<div class="sections">
+<a class="card" href="scope.html"><b>Scope</b><br>How the 2,883 catalog studies are cut from the registry: the study rule, the funnel, and the gut studies left out and why.</a>
+<a class="card" href="methods.html"><b>Methods</b><br>Registry enumeration and classification, the four curation routes (R1–R4) and their precedence, evidence and confidence rules, cohorts, releases, limitations.</a>
+<a class="card" href="sources.html"><b>Sources &amp; acknowledgements</b><br>Archives, literature, software and models behind the catalog; the external curated resources incorporated as R2 evidence; funding.</a>
+<a class="card" href="../fields/index.html"><b>Fields documentation</b><br>All 37 fields grouped core / key / infant extension with vocabulary, coverage, route mix and confidence; the package data dictionary.</a>
+<a class="card" href="../downloads/index.html"><b>Downloads &amp; releases</b><br>The data package, per-table downloads, the release history and what changed in each release.</a>
+<a class="card" href="../contribute/index.html"><b>Contribute</b><br>Studies whose core fields are still missing, and how a per-sample table or a paper pointer unlocks them.</a>
+</div>
+<h2 id="funnel">Registry → catalog in numbers</h2>
+<table class="tbl small" style="max-width:720px"><tbody><tr><td>registry studies (every ENA shotgun-metagenome study reached by the enumeration)</td><td class="num">64,369</td></tr><tr><td>host human = yes or mixed</td><td class="num">6,905</td></tr><tr><td>… with gut / stool among the body sites</td><td class="num">3,557</td></tr><tr><td>… host human AND assay shotgun (catalog rule)</td><td class="num">2,883</td></tr><tr><td>catalog studies</td><td class="num">2,883</td></tr></tbody></table>
+<h2 id="funding">Funding</h2>
+<p class="note">Development of Microbiome Repo is supported by a grant from Anthropic to the Olm Lab (University of Colorado Boulder) for organising human microbiome metadata.</p>
+<h2 id="cite">How to cite</h2>
+
+<div class="cite note" id="cite">
+<b>Cite this release.</b> <i>Microbiome Repo, release R2026.17 (data package 1.16.0), OlmLab, 2026-10-08.</i>
+<div class="small" style="margin-top:.3rem">
+<a href="https://zenodo.org/badge/latestdoi/1389758854"><img src="https://zenodo.org/badge/1389758854.svg" alt="Zenodo DOI badge (latest release of OlmLab/microbiome_repo-data)" height="20"></a>
+ Concept DOI (all versions, resolves to the latest archived release): <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a>.
+</div>
+<div class="small" style="margin-top:.3rem">Also cite the upstream sources this catalog is built on:
+<ul style="margin:.2rem 0 0 1rem"></ul></div>
+</div>
+<h2 id="docs">Documents</h2>
+<ul class="small"><li><a href="../docs/README.html">README</a> <span class="mono">(README.md)</span></li><li><a href="../docs/DATA_DICTIONARY.html">Data dictionary</a> <span class="mono">(DATA_DICTIONARY.md)</span></li><li><a href="../docs/CHANGELOG.html">Changelog</a> <span class="mono">(CHANGELOG.md)</span></li><li><a href="../docs/REGISTRY_REPORT.html">Registry report</a> <span class="mono">(REGISTRY_REPORT.md)</span></li><li><a href="../docs/SANDPIPER_REPORT.html">Sandpiper report</a> <span class="mono">(SANDPIPER_REPORT.md)</span></li><li><a href="../docs/AUTHORS_REPORT.html">Authors report (infant extension)</a> <span class="mono">(AUTHORS_REPORT.md)</span></li><li><a href="../docs/DATA_MODEL_FIX_REPORT.html">Data-model fix report (infant extension)</a> <span class="mono">(DATA_MODEL_FIX_REPORT.md)</span></li><li><a href="../docs/CATALOG_REPORT.html">Infant-extension catalog report</a> <span class="mono">(CATALOG_REPORT.md)</span></li><li><a href="../docs/EXTRACTION_REPORT.html">Infant-field extraction report</a> <span class="mono">(EXTRACTION_REPORT.md)</span></li><li><a href="../docs/COLLECTIONS.html">Collections: how membership rules work and how to propose one</a> <span class="mono">(COLLECTIONS.md)</span></li><li><a href="../docs/GUT_SANDPIPER_REPORT.html">Sandpiper profiles for the whole catalog (report)</a> <span class="mono">(GUT_SANDPIPER_REPORT.md)</span></li></ul>
+<p class="small">Code, configuration and vocabularies: <a href="https://github.com/OlmLab/microbiome_repo-pipeline">microbiome_repo-pipeline</a>; data packages: <a href="https://github.com/OlmLab/microbiome_repo-data">OlmLab/microbiome_repo-data</a>. Found an error? Use the <b>Flag an issue</b> link on a study or cohort page — it opens a short prefilled GitHub issue.</p>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.17"><span class="mono">R2026.17</span></a> · package <span class="mono">1.16.0</span> · build <span class="mono">bccd4b5</span> · built 2026-10-08 · data tag <span class="mono">data-v1.16.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.17.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.17 (data package 1.16.0), OlmLab, 2026-10-08.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.16.0',release:'data-v1.16.0',releaseId:'R2026.17',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

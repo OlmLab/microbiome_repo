@@ -1,0 +1,392 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN46716206,PRJNA1220341,001-003,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,16.522
+SAMN46716207,PRJNA1220341,001-003,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.226
+SAMN46716208,PRJNA1220341,001-003,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.775
+SAMN46716209,PRJNA1220341,001-003,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.293
+SAMN46716210,PRJNA1220341,001-003,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,3.205
+SAMN46716211,PRJNA1220341,001-003,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.079
+SAMN46716212,PRJNA1220341,001-003,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,4.615
+SAMN46716213,PRJNA1220341,001-003,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,6.758
+SAMN46716214,PRJNA1220341,001-003,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,21.804
+SAMN46716215,PRJNA1220341,001-003,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,10.124
+SAMN46716216,PRJNA1220341,001-003,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.445
+SAMN46716217,PRJNA1220341,001-007,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,18.529
+SAMN46716218,PRJNA1220341,001-007,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,14.171
+SAMN46716219,PRJNA1220341,001-007,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,25.214
+SAMN46716220,PRJNA1220341,001-007,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,3.179
+SAMN46716221,PRJNA1220341,001-007,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,14.834
+SAMN46716222,PRJNA1220341,001-007,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,24.803
+SAMN46716223,PRJNA1220341,001-007,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,21.105
+SAMN46716224,PRJNA1220341,001-007,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,19.947
+SAMN46716225,PRJNA1220341,001-007,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,22.698
+SAMN46716226,PRJNA1220341,001-007,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,12.581
+SAMN46716227,PRJNA1220341,001-007,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,13.477
+SAMN46716228,PRJNA1220341,001-037,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.975
+SAMN46716229,PRJNA1220341,001-037,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,16.063
+SAMN46716230,PRJNA1220341,001-037,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,17.86
+SAMN46716231,PRJNA1220341,001-037,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,13.7
+SAMN46716232,PRJNA1220341,001-037,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,18.322
+SAMN46716233,PRJNA1220341,001-037,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,24.114
+SAMN46716234,PRJNA1220341,001-037,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,21.178
+SAMN46716235,PRJNA1220341,001-037,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,15.574
+SAMN46716236,PRJNA1220341,001-037,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.879
+SAMN46716237,PRJNA1220341,001-037,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,13.609
+SAMN46716238,PRJNA1220341,001-037,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,23.143
+SAMN46716239,PRJNA1220341,001-045,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,25.734
+SAMN46716240,PRJNA1220341,001-045,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,12.906
+SAMN46716241,PRJNA1220341,001-045,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,15.816
+SAMN46716242,PRJNA1220341,001-045,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,19.826
+SAMN46716243,PRJNA1220341,001-045,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,15.099
+SAMN46716244,PRJNA1220341,001-045,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,23.508
+SAMN46716245,PRJNA1220341,001-045,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.439
+SAMN46716246,PRJNA1220341,001-045,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.269
+SAMN46716247,PRJNA1220341,001-045,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,13.729
+SAMN46716248,PRJNA1220341,001-045,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,3.672
+SAMN46716249,PRJNA1220341,001-045,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,18.843
+SAMN46716250,PRJNA1220341,001-047,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,22.084
+SAMN46716251,PRJNA1220341,001-047,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,16.79
+SAMN46716252,PRJNA1220341,001-047,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.569
+SAMN46716253,PRJNA1220341,001-047,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,10.195
+SAMN46716254,PRJNA1220341,001-047,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,2.795
+SAMN46716255,PRJNA1220341,001-047,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,17.63
+SAMN46716256,PRJNA1220341,001-047,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,18.476
+SAMN46716257,PRJNA1220341,001-047,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,19.739
+SAMN46716258,PRJNA1220341,001-047,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,18.193
+SAMN46716259,PRJNA1220341,001-047,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,14.534
+SAMN46716260,PRJNA1220341,001-047,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,16.173
+SAMN46716261,PRJNA1220341,001-054,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,24.451
+SAMN46716262,PRJNA1220341,001-054,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,14.937
+SAMN46716263,PRJNA1220341,001-054,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.75
+SAMN46716264,PRJNA1220341,001-054,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,11.589
+SAMN46716265,PRJNA1220341,001-054,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,13.71
+SAMN46716266,PRJNA1220341,001-054,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,23.08
+SAMN46716267,PRJNA1220341,001-054,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,16.21
+SAMN46716268,PRJNA1220341,001-054,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,18.833
+SAMN46716269,PRJNA1220341,001-054,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,21.474
+SAMN46716270,PRJNA1220341,001-054,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,24.713
+SAMN46716271,PRJNA1220341,001-054,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,16.966
+SAMN46716272,PRJNA1220341,001-056,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,15.743
+SAMN46716273,PRJNA1220341,001-056,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,3.653
+SAMN46716274,PRJNA1220341,001-056,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,19.961
+SAMN46716275,PRJNA1220341,001-056,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,8.714
+SAMN46716276,PRJNA1220341,001-056,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,5.546
+SAMN46716277,PRJNA1220341,001-056,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,15.71
+SAMN46716278,PRJNA1220341,001-056,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,25.711
+SAMN46716279,PRJNA1220341,001-056,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,7.609
+SAMN46716280,PRJNA1220341,001-056,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,13.548
+SAMN46716281,PRJNA1220341,001-056,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,17.284
+SAMN46716282,PRJNA1220341,001-056,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,12.914
+SAMN46716283,PRJNA1220341,001-082,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.149
+SAMN46716284,PRJNA1220341,001-082,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.05
+SAMN46716285,PRJNA1220341,001-082,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,16.267
+SAMN46716286,PRJNA1220341,001-082,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,18.964
+SAMN46716287,PRJNA1220341,001-082,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,6.628
+SAMN46716288,PRJNA1220341,001-082,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,15.112
+SAMN46716289,PRJNA1220341,001-082,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,20.807
+SAMN46716290,PRJNA1220341,001-082,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,17.861
+SAMN46716291,PRJNA1220341,001-082,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,19.293
+SAMN46716292,PRJNA1220341,001-082,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,1.533
+SAMN46716293,PRJNA1220341,001-082,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e8 PFU,,2022,primary,1.0,21.725
+SAMN46716294,PRJNA1220341,001-091,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,21.663
+SAMN46716295,PRJNA1220341,001-091,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,9.763
+SAMN46716296,PRJNA1220341,001-091,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,22.465
+SAMN46716297,PRJNA1220341,001-091,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,11.257
+SAMN46716298,PRJNA1220341,001-091,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,5.616
+SAMN46716299,PRJNA1220341,001-091,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,12.754
+SAMN46716300,PRJNA1220341,001-091,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,18.445
+SAMN46716301,PRJNA1220341,001-091,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,12.453
+SAMN46716302,PRJNA1220341,001-091,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.138
+SAMN46716303,PRJNA1220341,001-091,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,24.458
+SAMN46716304,PRJNA1220341,001-091,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,18.557
+SAMN46716305,PRJNA1220341,001-095,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,15.456
+SAMN46716306,PRJNA1220341,001-095,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,9.512
+SAMN46716307,PRJNA1220341,001-095,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,9.716
+SAMN46716308,PRJNA1220341,001-095,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,23.194
+SAMN46716309,PRJNA1220341,001-095,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,0.323
+SAMN46716310,PRJNA1220341,001-095,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,10.781
+SAMN46716311,PRJNA1220341,001-095,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,10.337
+SAMN46716312,PRJNA1220341,001-095,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,20.608
+SAMN46716313,PRJNA1220341,001-095,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,18.554
+SAMN46716314,PRJNA1220341,001-095,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,27.246
+SAMN46716315,PRJNA1220341,001-095,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,22.604
+SAMN46716316,PRJNA1220341,001-118,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,9.811
+SAMN46716317,PRJNA1220341,001-118,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,13.653
+SAMN46716318,PRJNA1220341,001-118,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,12.165
+SAMN46716319,PRJNA1220341,001-118,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,30.14
+SAMN46716320,PRJNA1220341,001-118,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,21.637
+SAMN46716321,PRJNA1220341,001-118,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,18.473
+SAMN46716322,PRJNA1220341,001-118,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,12.593
+SAMN46716323,PRJNA1220341,001-118,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,10.087
+SAMN46716324,PRJNA1220341,001-118,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,11.839
+SAMN46716325,PRJNA1220341,001-118,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,19.842
+SAMN46716326,PRJNA1220341,001-118,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,21.355
+SAMN46716327,PRJNA1220341,001-137,-2,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,18.687
+SAMN46716328,PRJNA1220341,001-137,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,10.309
+SAMN46716329,PRJNA1220341,001-137,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,18.513
+SAMN46716330,PRJNA1220341,001-137,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,15.884
+SAMN46716331,PRJNA1220341,001-137,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,22.302
+SAMN46716332,PRJNA1220341,001-137,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,19.419
+SAMN46716333,PRJNA1220341,001-137,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,17.195
+SAMN46716334,PRJNA1220341,001-137,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,12.003
+SAMN46716335,PRJNA1220341,001-137,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,20.118
+SAMN46716336,PRJNA1220341,001-137,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,6.809
+SAMN46716337,PRJNA1220341,001-137,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,12.04
+SAMN46716338,PRJNA1220341,001-152,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.527
+SAMN46716339,PRJNA1220341,001-152,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.392
+SAMN46716340,PRJNA1220341,001-152,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,10.316
+SAMN46716341,PRJNA1220341,001-152,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,10.206
+SAMN46716342,PRJNA1220341,001-152,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,18.214
+SAMN46716343,PRJNA1220341,001-152,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,8.313
+SAMN46716344,PRJNA1220341,001-152,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,13.821
+SAMN46716345,PRJNA1220341,001-152,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,14.187
+SAMN46716346,PRJNA1220341,001-152,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.998
+SAMN46716347,PRJNA1220341,001-152,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.152
+SAMN46716348,PRJNA1220341,001-152,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,11.64
+SAMN46716349,PRJNA1220341,001-189,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.847
+SAMN46716350,PRJNA1220341,001-189,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,4.032
+SAMN46716351,PRJNA1220341,001-189,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,16.105
+SAMN46716352,PRJNA1220341,001-189,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,3.731
+SAMN46716353,PRJNA1220341,001-189,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,5.622
+SAMN46716354,PRJNA1220341,001-189,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.039
+SAMN46716355,PRJNA1220341,001-189,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,18.244
+SAMN46716356,PRJNA1220341,001-189,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.619
+SAMN46716357,PRJNA1220341,001-189,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,11.778
+SAMN46716358,PRJNA1220341,001-189,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.113
+SAMN46716359,PRJNA1220341,001-189,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,11.055
+SAMN46716360,PRJNA1220341,001-195,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,16.704
+SAMN46716361,PRJNA1220341,001-195,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.305
+SAMN46716362,PRJNA1220341,001-195,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,16.703
+SAMN46716363,PRJNA1220341,001-195,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.663
+SAMN46716364,PRJNA1220341,001-195,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,12.83
+SAMN46716365,PRJNA1220341,001-195,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,13.679
+SAMN46716366,PRJNA1220341,001-195,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,18.322
+SAMN46716367,PRJNA1220341,001-195,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,21.513
+SAMN46716368,PRJNA1220341,001-195,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,16.042
+SAMN46716369,PRJNA1220341,001-198,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,14.604
+SAMN46716370,PRJNA1220341,001-198,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,6.429
+SAMN46716371,PRJNA1220341,001-198,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,21.065
+SAMN46716372,PRJNA1220341,001-198,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,28.673
+SAMN46716373,PRJNA1220341,001-198,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,15.454
+SAMN46716374,PRJNA1220341,001-198,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,9.797
+SAMN46716375,PRJNA1220341,001-198,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,13.05
+SAMN46716376,PRJNA1220341,001-198,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,20.615
+SAMN46716377,PRJNA1220341,001-198,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,3.849
+SAMN46716378,PRJNA1220341,001-198,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e10 PFU,,2022,primary,1.0,15.077
+SAMN46716379,PRJNA1220341,001-242,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,21.981
+SAMN46716380,PRJNA1220341,001-242,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,4.106
+SAMN46716381,PRJNA1220341,001-242,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.095
+SAMN46716382,PRJNA1220341,001-242,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,7.865
+SAMN46716383,PRJNA1220341,001-242,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,0.984
+SAMN46716384,PRJNA1220341,001-242,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,25.42
+SAMN46716385,PRJNA1220341,001-242,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.584
+SAMN46716386,PRJNA1220341,001-242,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,27.716
+SAMN46716387,PRJNA1220341,001-242,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,20.306
+SAMN46716388,PRJNA1220341,001-242,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,19.178
+SAMN46716389,PRJNA1220341,001-242,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.42
+SAMN46716390,PRJNA1220341,001-249,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,28.259
+SAMN46716391,PRJNA1220341,001-249,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,25.752
+SAMN46716392,PRJNA1220341,001-249,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,19.695
+SAMN46716393,PRJNA1220341,001-249,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,7.303
+SAMN46716394,PRJNA1220341,001-249,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,29.094
+SAMN46716395,PRJNA1220341,001-249,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,21.142
+SAMN46716396,PRJNA1220341,001-249,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.104
+SAMN46716397,PRJNA1220341,001-249,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,8.653
+SAMN46716398,PRJNA1220341,001-249,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,13.879
+SAMN46716399,PRJNA1220341,001-249,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,2.43
+SAMN46716400,PRJNA1220341,001-249,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.628
+SAMN46716401,PRJNA1220341,001-250,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.806
+SAMN46716402,PRJNA1220341,001-250,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,26.645
+SAMN46716403,PRJNA1220341,001-250,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,20.434
+SAMN46716404,PRJNA1220341,001-250,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,23.924
+SAMN46716405,PRJNA1220341,001-250,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,8.067
+SAMN46716406,PRJNA1220341,001-250,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,16.741
+SAMN46716407,PRJNA1220341,001-250,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.073
+SAMN46716408,PRJNA1220341,001-250,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,12.366
+SAMN46716409,PRJNA1220341,001-250,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.096
+SAMN46716410,PRJNA1220341,001-250,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,5.144
+SAMN46716411,PRJNA1220341,001-250,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.724
+SAMN46716412,PRJNA1220341,001-267,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.537
+SAMN46716413,PRJNA1220341,001-267,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,27.451
+SAMN46716414,PRJNA1220341,001-267,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,16.698
+SAMN46716415,PRJNA1220341,001-267,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,1.922
+SAMN46716416,PRJNA1220341,001-267,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,16.195
+SAMN46716417,PRJNA1220341,001-267,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,13.823
+SAMN46716418,PRJNA1220341,001-267,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.803
+SAMN46716419,PRJNA1220341,001-267,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,5.432
+SAMN46716420,PRJNA1220341,001-267,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.136
+SAMN46716421,PRJNA1220341,001-267,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,7.924
+SAMN46716422,PRJNA1220341,001-267,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.096
+SAMN46716423,PRJNA1220341,001-276,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,11.279
+SAMN46716424,PRJNA1220341,001-276,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.774
+SAMN46716425,PRJNA1220341,001-276,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,1.824
+SAMN46716426,PRJNA1220341,001-276,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.248
+SAMN46716427,PRJNA1220341,001-276,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.301
+SAMN46716428,PRJNA1220341,001-276,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,19.702
+SAMN46716429,PRJNA1220341,001-276,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,11.334
+SAMN46716430,PRJNA1220341,001-276,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,21.614
+SAMN46716431,PRJNA1220341,001-276,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,12.276
+SAMN46716432,PRJNA1220341,001-276,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,18.628
+SAMN46716433,PRJNA1220341,001-280,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.144
+SAMN46716434,PRJNA1220341,001-280,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.751
+SAMN46716435,PRJNA1220341,001-280,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.456
+SAMN46716436,PRJNA1220341,001-280,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,2.914
+SAMN46716437,PRJNA1220341,001-280,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,2.442
+SAMN46716438,PRJNA1220341,001-280,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,19.641
+SAMN46716439,PRJNA1220341,001-280,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.358
+SAMN46716440,PRJNA1220341,001-280,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,11.881
+SAMN46716441,PRJNA1220341,001-280,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.529
+SAMN46716442,PRJNA1220341,001-280,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.239
+SAMN46716443,PRJNA1220341,001-280,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,24.459
+SAMN46716444,PRJNA1220341,001-283,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,14.954
+SAMN46716445,PRJNA1220341,001-283,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,0.326
+SAMN46716446,PRJNA1220341,001-283,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.396
+SAMN46716447,PRJNA1220341,001-283,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,3.467
+SAMN46716448,PRJNA1220341,001-283,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,10.435
+SAMN46716449,PRJNA1220341,001-283,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,18.181
+SAMN46716450,PRJNA1220341,001-283,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.129
+SAMN46716451,PRJNA1220341,001-283,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,2.112
+SAMN46716452,PRJNA1220341,001-283,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.384
+SAMN46716453,PRJNA1220341,001-283,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,13.228
+SAMN46716454,PRJNA1220341,001-283,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,13.839
+SAMN46716455,PRJNA1220341,001-300,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.195
+SAMN46716456,PRJNA1220341,001-300,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,25.583
+SAMN46716457,PRJNA1220341,001-300,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.047
+SAMN46716458,PRJNA1220341,001-300,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,23.164
+SAMN46716459,PRJNA1220341,001-300,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,25.257
+SAMN46716460,PRJNA1220341,001-300,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,25.616
+SAMN46716461,PRJNA1220341,001-300,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.829
+SAMN46716462,PRJNA1220341,001-300,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,4.92
+SAMN46716463,PRJNA1220341,001-300,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.081
+SAMN46716464,PRJNA1220341,001-300,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,28.788
+SAMN46716465,PRJNA1220341,001-300,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.503
+SAMN46716466,PRJNA1220341,001-301,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,26.501
+SAMN46716467,PRJNA1220341,001-301,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.77
+SAMN46716468,PRJNA1220341,001-301,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,24.119
+SAMN46716469,PRJNA1220341,001-301,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,21.362
+SAMN46716470,PRJNA1220341,001-301,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,23.276
+SAMN46716471,PRJNA1220341,001-301,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,26.455
+SAMN46716472,PRJNA1220341,001-301,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.794
+SAMN46716473,PRJNA1220341,001-301,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,26.297
+SAMN46716474,PRJNA1220341,001-301,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,28.311
+SAMN46716475,PRJNA1220341,001-301,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,30.368
+SAMN46716476,PRJNA1220341,001-311,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.427
+SAMN46716477,PRJNA1220341,001-311,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,30.004
+SAMN46716478,PRJNA1220341,001-311,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,14.261
+SAMN46716479,PRJNA1220341,001-311,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,23.026
+SAMN46716480,PRJNA1220341,001-311,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,22.342
+SAMN46716481,PRJNA1220341,001-311,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,14.137
+SAMN46716482,PRJNA1220341,001-311,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,26.713
+SAMN46716483,PRJNA1220341,001-311,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,4.913
+SAMN46716484,PRJNA1220341,001-311,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.722
+SAMN46716485,PRJNA1220341,001-311,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,9.93
+SAMN46716486,PRJNA1220341,001-311,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,14.861
+SAMN46716487,PRJNA1220341,001-313,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.513
+SAMN46716488,PRJNA1220341,001-313,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,3.13
+SAMN46716489,PRJNA1220341,001-313,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,25.083
+SAMN46716490,PRJNA1220341,001-313,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,6.655
+SAMN46716491,PRJNA1220341,001-313,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,10.332
+SAMN46716492,PRJNA1220341,001-313,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,20.864
+SAMN46716493,PRJNA1220341,001-313,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.956
+SAMN46716494,PRJNA1220341,001-313,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,7.412
+SAMN46716495,PRJNA1220341,001-313,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,23.583
+SAMN46716496,PRJNA1220341,001-313,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.141
+SAMN46716497,PRJNA1220341,001-313,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.108
+SAMN46716498,PRJNA1220341,001-344,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.096
+SAMN46716499,PRJNA1220341,001-344,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,13.226
+SAMN46716500,PRJNA1220341,001-344,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,26.383
+SAMN46716501,PRJNA1220341,001-344,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.708
+SAMN46716502,PRJNA1220341,001-344,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,12.199
+SAMN46716503,PRJNA1220341,001-344,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,24.528
+SAMN46716504,PRJNA1220341,001-344,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.154
+SAMN46716505,PRJNA1220341,001-344,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,9.054
+SAMN46716506,PRJNA1220341,001-344,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,22.556
+SAMN46716507,PRJNA1220341,001-344,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,18.079
+SAMN46716508,PRJNA1220341,001-344,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.934
+SAMN46716509,PRJNA1220341,001-359,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.005
+SAMN46716510,PRJNA1220341,001-359,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,7.714
+SAMN46716511,PRJNA1220341,001-359,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,16.97
+SAMN46716512,PRJNA1220341,001-359,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,16.246
+SAMN46716513,PRJNA1220341,001-359,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,6.857
+SAMN46716514,PRJNA1220341,001-359,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,27.093
+SAMN46716515,PRJNA1220341,001-359,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,16.358
+SAMN46716516,PRJNA1220341,001-359,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,0.066
+SAMN46716517,PRJNA1220341,001-359,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,24.0
+SAMN46716518,PRJNA1220341,001-359,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,1.835
+SAMN46716519,PRJNA1220341,001-359,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,25.85
+SAMN46716520,PRJNA1220341,001-371,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,12.178
+SAMN46716521,PRJNA1220341,001-371,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,25.691
+SAMN46716522,PRJNA1220341,001-371,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,22.232
+SAMN46716523,PRJNA1220341,001-371,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,6.372
+SAMN46716524,PRJNA1220341,001-371,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,4.178
+SAMN46716525,PRJNA1220341,001-371,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.806
+SAMN46716526,PRJNA1220341,001-371,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,22.574
+SAMN46716527,PRJNA1220341,001-371,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,5.359
+SAMN46716528,PRJNA1220341,001-371,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.641
+SAMN46716529,PRJNA1220341,001-371,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,4.923
+SAMN46716530,PRJNA1220341,001-371,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,17.028
+SAMN46716531,PRJNA1220341,001-373,-1,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,20.075
+SAMN46716532,PRJNA1220341,001-373,127,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,27.484
+SAMN46716533,PRJNA1220341,001-373,14,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,19.087
+SAMN46716534,PRJNA1220341,001-373,157,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,5.392
+SAMN46716535,PRJNA1220341,001-373,187,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,25.343
+SAMN46716536,PRJNA1220341,001-373,3,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,21.661
+SAMN46716537,PRJNA1220341,001-373,35,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,21.351
+SAMN46716538,PRJNA1220341,001-373,67,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,22.765
+SAMN46716539,PRJNA1220341,001-373,7,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,15.894
+SAMN46716540,PRJNA1220341,001-373,97,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,3.917
+SAMN46716541,PRJNA1220341,001-373,Screening,,,,US,healthy_control,,placebo,placebo (no phage),,2022,primary,1.0,26.243
+SAMN46716542,PRJNA1220341,001-405,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.641
+SAMN46716543,PRJNA1220341,001-405,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.439
+SAMN46716544,PRJNA1220341,001-405,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.074
+SAMN46716545,PRJNA1220341,001-405,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,7.204
+SAMN46716546,PRJNA1220341,001-405,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,11.007
+SAMN46716547,PRJNA1220341,001-405,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.458
+SAMN46716548,PRJNA1220341,001-405,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,18.204
+SAMN46716549,PRJNA1220341,001-405,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,6.092
+SAMN46716550,PRJNA1220341,001-405,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.793
+SAMN46716551,PRJNA1220341,001-405,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,8.86
+SAMN46716552,PRJNA1220341,001-405,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,30.438
+SAMN46716553,PRJNA1220341,001-412,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.681
+SAMN46716554,PRJNA1220341,001-412,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,1.985
+SAMN46716555,PRJNA1220341,001-412,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,27.335
+SAMN46716556,PRJNA1220341,001-412,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.84
+SAMN46716557,PRJNA1220341,001-412,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,20.49
+SAMN46716558,PRJNA1220341,001-412,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,20.676
+SAMN46716559,PRJNA1220341,001-412,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,21.538
+SAMN46716560,PRJNA1220341,001-412,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,12.702
+SAMN46716561,PRJNA1220341,001-412,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,26.277
+SAMN46716562,PRJNA1220341,001-412,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,6.517
+SAMN46716563,PRJNA1220341,001-412,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,23.028
+SAMN46716564,PRJNA1220341,001-417,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,25.497
+SAMN46716565,PRJNA1220341,001-417,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,2.094
+SAMN46716566,PRJNA1220341,001-417,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,14.124
+SAMN46716567,PRJNA1220341,001-417,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,12.019
+SAMN46716568,PRJNA1220341,001-417,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.905
+SAMN46716569,PRJNA1220341,001-417,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,9.943
+SAMN46716570,PRJNA1220341,001-417,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,25.871
+SAMN46716571,PRJNA1220341,001-417,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,4.927
+SAMN46716572,PRJNA1220341,001-417,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.623
+SAMN46716573,PRJNA1220341,001-417,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,26.806
+SAMN46716574,PRJNA1220341,001-417,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,30.258
+SAMN46716575,PRJNA1220341,001-418,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,23.728
+SAMN46716576,PRJNA1220341,001-418,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,17.573
+SAMN46716577,PRJNA1220341,001-418,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.467
+SAMN46716578,PRJNA1220341,001-418,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,15.586
+SAMN46716579,PRJNA1220341,001-418,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,13.186
+SAMN46716580,PRJNA1220341,001-418,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,18.982
+SAMN46716581,PRJNA1220341,001-418,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,24.618
+SAMN46716582,PRJNA1220341,001-418,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,21.449
+SAMN46716583,PRJNA1220341,001-418,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,28.445
+SAMN46716584,PRJNA1220341,001-418,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,5.435
+SAMN46716585,PRJNA1220341,001-418,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,33.772
+SAMN46716586,PRJNA1220341,001-450,-1,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,16.064
+SAMN46716587,PRJNA1220341,001-450,127,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,3.733
+SAMN46716588,PRJNA1220341,001-450,14,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,19.114
+SAMN46716589,PRJNA1220341,001-450,157,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,5.027
+SAMN46716590,PRJNA1220341,001-450,187,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,11.402
+SAMN46716591,PRJNA1220341,001-450,3,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,24.655
+SAMN46716592,PRJNA1220341,001-450,35,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,23.47
+SAMN46716593,PRJNA1220341,001-450,67,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,27.314
+SAMN46716594,PRJNA1220341,001-450,7,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,12.68
+SAMN46716595,PRJNA1220341,001-450,97,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,26.052
+SAMN46716596,PRJNA1220341,001-450,Screening,,,,US,healthy_control,,phage_therapy,phage cocktail dose 1e12 PFU,,2022,primary,1.0,22.606

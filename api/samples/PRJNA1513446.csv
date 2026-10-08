@@ -1,0 +1,45 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN62449981,PRJNA1513446,MCC-01L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,5.076
+SAMN62449982,PRJNA1513446,MCC-01S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,6.388
+SAMN62449983,PRJNA1513446,MCC-02L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,5.551
+SAMN62449984,PRJNA1513446,MCC-02S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,4.936
+SAMN62449985,PRJNA1513446,MCC-03L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,5.073
+SAMN62449986,PRJNA1513446,MCC-03S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,5.835
+SAMN62449987,PRJNA1513446,MCC-04L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,6.217
+SAMN62449988,PRJNA1513446,MCC-04S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,5.762
+SAMN62449989,PRJNA1513446,MCC-05L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,5.342
+SAMN62449990,PRJNA1513446,MCC-05S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,5.985
+SAMN62449991,PRJNA1513446,MCC-06L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,6.105
+SAMN62449992,PRJNA1513446,MCC-06S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,5.436
+SAMN62449993,PRJNA1513446,MCC-07L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,5.859
+SAMN62449994,PRJNA1513446,MCC-07S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,5.329
+SAMN62449995,PRJNA1513446,MCC-08L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,5.538
+SAMN62449996,PRJNA1513446,MCC-08S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,3.453
+SAMN62449997,PRJNA1513446,MCC-09L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,7.275
+SAMN62449998,PRJNA1513446,MCC-09S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,6.667
+SAMN62449999,PRJNA1513446,MCC-10L,,neonate,1.0,,CN,healthy_control,"none, larger twin",,,,,primary,1.0,7.929
+SAMN62450000,PRJNA1513446,MCC-10S,,neonate,1.0,,CN,healthy_control,"none, smaller twin",,,,,primary,1.0,5.367
+SAMN62450001,PRJNA1513446,MCE-01L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,5.146
+SAMN62450002,PRJNA1513446,MCE-01S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,1.463
+SAMN62450003,PRJNA1513446,MCE-02L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,1.615
+SAMN62450004,PRJNA1513446,MCE-02S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,2.054
+SAMN62450005,PRJNA1513446,MCE-03L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,6.485
+SAMN62450006,PRJNA1513446,MCE-03S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,5.387
+SAMN62450007,PRJNA1513446,MCE-04L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,5.729
+SAMN62450008,PRJNA1513446,MCE-04S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,7.066
+SAMN62450009,PRJNA1513446,MCE-05L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,2.966
+SAMN62450010,PRJNA1513446,MCE-05S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,5.883
+SAMN62450011,PRJNA1513446,MCE-06L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,6.797
+SAMN62450012,PRJNA1513446,MCE-06S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,5.228
+SAMN62450013,PRJNA1513446,MCE-07L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,0.908
+SAMN62450014,PRJNA1513446,MCE-07S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,1.33
+SAMN62450015,PRJNA1513446,MCE-08L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,1.764
+SAMN62450016,PRJNA1513446,MCE-08S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,1.744
+SAMN62450017,PRJNA1513446,MCE-09L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,1.245
+SAMN62450018,PRJNA1513446,MCE-09S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,5.106
+SAMN62450019,PRJNA1513446,MCE-10L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,1.36
+SAMN62450020,PRJNA1513446,MCE-10S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,6.018
+SAMN62450021,PRJNA1513446,MCE-11L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,1.102
+SAMN62450022,PRJNA1513446,MCE-11S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,5.762
+SAMN62450023,PRJNA1513446,MCE-12L,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, larger twin",,,,,primary,1.0,7.537
+SAMN62450024,PRJNA1513446,MCE-12S,,neonate,1.0,,CN,other_disease,"selective fetal growth restriction, smaller twin",,,,,primary,1.0,2.67

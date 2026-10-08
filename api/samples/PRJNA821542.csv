@@ -1,0 +1,919 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN27113205,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.749
+SAMN27113208,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.539
+SAMN27113252,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.223
+SAMN27113255,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.91
+SAMN27113261,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.512
+SAMN27113263,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.144
+SAMN27113265,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.26
+SAMN27113268,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.022
+SAMN27113270,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.596
+SAMN27113275,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.802
+SAMN27113278,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.805
+SAMN27113281,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.995
+SAMN27113284,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.79
+SAMN27113288,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.479
+SAMN27113313,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.549
+SAMN27113322,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.07
+SAMN27113405,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.127
+SAMN27113426,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.075
+SAMN27113480,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.351
+SAMN27113557,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,3.068
+SAMN27113567,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.448
+SAMN27113580,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.329
+SAMN27113597,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.209
+SAMN27113617,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.731
+SAMN27113620,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.428
+SAMN27113623,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,3.746
+SAMN27113628,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.653
+SAMN27113631,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,3.484
+SAMN27113635,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.121
+SAMN27113638,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.381
+SAMN27113663,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.018
+SAMN27113664,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.033
+SAMN27113681,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.828
+SAMN27113701,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.853
+SAMN27113706,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.179
+SAMN27113708,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.865
+SAMN27113713,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.643
+SAMN27113732,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.592
+SAMN27113736,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.791
+SAMN27113750,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.878
+SAMN27113752,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.933
+SAMN27113767,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.907
+SAMN27113773,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.676
+SAMN27113792,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.14
+SAMN27113799,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,3.02
+SAMN27113801,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.723
+SAMN27113804,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.692
+SAMN27113805,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.517
+SAMN27113806,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,3.023
+SAMN27113808,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.884
+SAMN27113815,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.436
+SAMN27113821,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.868
+SAMN27113985,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.367
+SAMN27114001,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.44
+SAMN27114003,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.24
+SAMN27114026,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.528
+SAMN27114027,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.317
+SAMN27114029,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.379
+SAMN27114032,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.683
+SAMN27114037,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.751
+SAMN27114049,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.723
+SAMN27114067,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,2.391
+SAMN27114070,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.794
+SAMN27114074,PRJNA821542,,1 months,infant,30.0,,FI,,,,,,,primary,1.0,1.936
+SAMN27113192,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.704
+SAMN27113194,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.378
+SAMN27113197,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.31
+SAMN27113201,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,2.253
+SAMN27113226,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.793
+SAMN27113233,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,2.632
+SAMN27113305,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.238
+SAMN27113307,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.48
+SAMN27113351,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.186
+SAMN27113358,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.449
+SAMN27113370,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.131
+SAMN27113382,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.152
+SAMN27113399,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.837
+SAMN27113460,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.3
+SAMN27113471,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,2.871
+SAMN27113492,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,2.521
+SAMN27113507,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.958
+SAMN27113510,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.002
+SAMN27113512,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.303
+SAMN27113518,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.543
+SAMN27113519,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.705
+SAMN27113522,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.901
+SAMN27113528,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,2.183
+SAMN27113545,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,1.564
+SAMN27113592,PRJNA821542,,10 months,infant,304.0,,FI,,,,,,,primary,1.0,3.426
+SAMN27113190,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.654
+SAMN27113193,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.552
+SAMN27113199,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,2.538
+SAMN27113200,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,3.084
+SAMN27113306,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.706
+SAMN27113359,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.473
+SAMN27113371,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.541
+SAMN27113385,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.576
+SAMN27113387,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.237
+SAMN27113397,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.88
+SAMN27113419,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.3
+SAMN27113461,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.158
+SAMN27113481,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.561
+SAMN27113495,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,0.982
+SAMN27113499,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.444
+SAMN27113505,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.206
+SAMN27113508,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.799
+SAMN27113511,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.213
+SAMN27113513,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.374
+SAMN27113525,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.478
+SAMN27113529,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.344
+SAMN27113532,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.129
+SAMN27113575,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,2.349
+SAMN27113583,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.555
+SAMN27113594,PRJNA821542,,11 months,infant,335.0,,FI,,,,,,,primary,1.0,1.566
+SAMN27113191,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.207
+SAMN27113195,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.568
+SAMN27113198,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.203
+SAMN27113350,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.1
+SAMN27113352,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.032
+SAMN27113360,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.302
+SAMN27113381,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.295
+SAMN27113383,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.1
+SAMN27113384,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.185
+SAMN27113386,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,0.99
+SAMN27113388,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.182
+SAMN27113398,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.538
+SAMN27113420,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.746
+SAMN27113438,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.528
+SAMN27113462,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.159
+SAMN27113472,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.358
+SAMN27113482,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.322
+SAMN27113493,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.452
+SAMN27113496,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.459
+SAMN27113497,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.094
+SAMN27113498,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.699
+SAMN27113500,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.487
+SAMN27113506,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,0.989
+SAMN27113509,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.122
+SAMN27113514,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.724
+SAMN27113515,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.21
+SAMN27113520,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.863
+SAMN27113521,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.465
+SAMN27113523,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.406
+SAMN27113524,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.188
+SAMN27113526,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.846
+SAMN27113527,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.259
+SAMN27113530,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.499
+SAMN27113531,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.848
+SAMN27113533,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.581
+SAMN27113534,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.347
+SAMN27113537,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,3.074
+SAMN27113565,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.944
+SAMN27113572,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,2.787
+SAMN27113586,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.142
+SAMN27113976,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.825
+SAMN27114006,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.95
+SAMN27114017,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.785
+SAMN27114034,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,0.975
+SAMN27114079,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.757
+SAMN27114080,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.176
+SAMN27114081,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.3
+SAMN27114082,PRJNA821542,,12 months,infant,365.0,,FI,,,,,,,primary,1.0,1.242
+SAMN27113187,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.666
+SAMN27113490,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.788
+SAMN27113501,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.937
+SAMN27113502,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.227
+SAMN27113535,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.1
+SAMN27113536,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.091
+SAMN27113538,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,2.745
+SAMN27113539,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,2.189
+SAMN27113540,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.83
+SAMN27113541,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.142
+SAMN27113542,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,3.547
+SAMN27113590,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,0.873
+SAMN27113973,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.661
+SAMN27113975,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.618
+SAMN27113980,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.964
+SAMN27113981,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.443
+SAMN27113982,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,2.279
+SAMN27113984,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,3.176
+SAMN27113991,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.492
+SAMN27113998,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.253
+SAMN27113999,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.59
+SAMN27114021,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,2.255
+SAMN27114036,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,2.183
+SAMN27114040,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,3.158
+SAMN27114042,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.336
+SAMN27114051,PRJNA821542,,18 months,infant,548.0,,FI,,,,,,,primary,1.0,1.736
+SAMN27113203,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.343
+SAMN27113209,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.673
+SAMN27113223,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.093
+SAMN27113224,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,3.263
+SAMN27113228,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.631
+SAMN27113251,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.9
+SAMN27113256,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.724
+SAMN27113260,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.476
+SAMN27113271,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.609
+SAMN27113276,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.286
+SAMN27113280,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.315
+SAMN27113282,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.83
+SAMN27113285,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.973
+SAMN27113286,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.33
+SAMN27113289,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.692
+SAMN27113290,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.32
+SAMN27113323,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.905
+SAMN27113391,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.465
+SAMN27113404,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.858
+SAMN27113411,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.83
+SAMN27113427,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.705
+SAMN27113484,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.604
+SAMN27113488,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.713
+SAMN27113547,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.157
+SAMN27113554,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.918
+SAMN27113569,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.369
+SAMN27113581,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,0.96
+SAMN27113601,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.511
+SAMN27113606,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,3.595
+SAMN27113607,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.518
+SAMN27113625,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,3.85
+SAMN27113636,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,4.126
+SAMN27113643,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,3.504
+SAMN27113657,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,3.522
+SAMN27113660,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.231
+SAMN27113675,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.784
+SAMN27113688,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.178
+SAMN27113709,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.875
+SAMN27113717,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.107
+SAMN27113719,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.915
+SAMN27113730,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.422
+SAMN27113733,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.969
+SAMN27113734,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.472
+SAMN27113735,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.087
+SAMN27113737,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.769
+SAMN27113749,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.204
+SAMN27113755,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.935
+SAMN27113764,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.457
+SAMN27113774,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.155
+SAMN27113782,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.803
+SAMN27113787,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.545
+SAMN27113788,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,3.564
+SAMN27113793,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.668
+SAMN27113794,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.013
+SAMN27113811,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.577
+SAMN27113819,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.743
+SAMN27113824,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.526
+SAMN27113988,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.207
+SAMN27113995,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.555
+SAMN27114007,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.808
+SAMN27114008,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.354
+SAMN27114012,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.591
+SAMN27114028,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.236
+SAMN27114030,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.14
+SAMN27114047,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.938
+SAMN27114048,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.716
+SAMN27114068,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.491
+SAMN27114071,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,1.131
+SAMN27114075,PRJNA821542,,2 months,infant,61.0,,FI,,,,,,,primary,1.0,2.611
+SAMN27113188,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.267
+SAMN27113222,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.799
+SAMN27113225,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.501
+SAMN27113231,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.914
+SAMN27113234,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.535
+SAMN27113237,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.187
+SAMN27113253,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.702
+SAMN27113257,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.127
+SAMN27113266,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.244
+SAMN27113272,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.201
+SAMN27113277,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.274
+SAMN27113287,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.611
+SAMN27113291,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.24
+SAMN27113317,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.124
+SAMN27113321,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.168
+SAMN27113324,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.722
+SAMN27113327,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.144
+SAMN27113330,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.711
+SAMN27113389,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.288
+SAMN27113390,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.863
+SAMN27113392,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.739
+SAMN27113395,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,0.986
+SAMN27113403,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.51
+SAMN27113406,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.404
+SAMN27113407,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.277
+SAMN27113410,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.002
+SAMN27113412,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.041
+SAMN27113413,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.564
+SAMN27113414,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,0.954
+SAMN27113428,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.374
+SAMN27113429,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.772
+SAMN27113467,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.537
+SAMN27113476,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.046
+SAMN27113478,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.516
+SAMN27113483,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.473
+SAMN27113485,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.758
+SAMN27113486,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.572
+SAMN27113489,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.809
+SAMN27113546,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.372
+SAMN27113548,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.939
+SAMN27113549,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.57
+SAMN27113553,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.514
+SAMN27113568,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.809
+SAMN27113570,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.447
+SAMN27113573,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.599
+SAMN27113582,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.533
+SAMN27113595,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.94
+SAMN27113600,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.859
+SAMN27113612,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.446
+SAMN27113613,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.068
+SAMN27113615,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,0.934
+SAMN27113630,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.377
+SAMN27113632,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.336
+SAMN27113644,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.58
+SAMN27113646,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,0.979
+SAMN27113648,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.372
+SAMN27113658,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.158
+SAMN27113661,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.012
+SAMN27113669,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.542
+SAMN27113670,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.593
+SAMN27113673,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.594
+SAMN27113678,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.089
+SAMN27113682,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.099
+SAMN27113683,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.356
+SAMN27113685,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.107
+SAMN27113692,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.212
+SAMN27113694,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.976
+SAMN27113699,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.878
+SAMN27113707,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.145
+SAMN27113710,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.514
+SAMN27113716,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.314
+SAMN27113722,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.216
+SAMN27113724,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.837
+SAMN27113725,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.695
+SAMN27113727,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.086
+SAMN27113728,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.688
+SAMN27113729,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.498
+SAMN27113731,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.093
+SAMN27113742,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.735
+SAMN27113745,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.867
+SAMN27113751,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.365
+SAMN27113754,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.384
+SAMN27113757,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.579
+SAMN27113760,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.013
+SAMN27113768,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.945
+SAMN27113772,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.487
+SAMN27113779,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.595
+SAMN27113781,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.584
+SAMN27113783,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.31
+SAMN27113785,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.805
+SAMN27113789,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.059
+SAMN27113790,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.099
+SAMN27113791,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.86
+SAMN27113796,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.816
+SAMN27113797,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.068
+SAMN27113802,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.784
+SAMN27113803,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.064
+SAMN27113812,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.095
+SAMN27113813,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.947
+SAMN27113814,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.385
+SAMN27113823,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.747
+SAMN27113826,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.251
+SAMN27113827,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.972
+SAMN27113829,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.425
+SAMN27113835,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.44
+SAMN27113977,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.782
+SAMN27113978,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.376
+SAMN27113987,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.861
+SAMN27113993,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.112
+SAMN27114002,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.698
+SAMN27114004,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.475
+SAMN27114013,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.125
+SAMN27114016,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.379
+SAMN27114019,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.625
+SAMN27114031,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.309
+SAMN27114033,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.973
+SAMN27114035,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.232
+SAMN27114043,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.489
+SAMN27114050,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.061
+SAMN27114056,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.933
+SAMN27114057,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,3.03
+SAMN27114058,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.436
+SAMN27114069,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.545
+SAMN27114072,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,2.277
+SAMN27114076,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.66
+SAMN27114077,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.73
+SAMN27114078,PRJNA821542,,3 months,infant,91.0,,FI,,,,,,,primary,1.0,1.258
+SAMN27113212,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.556
+SAMN27113217,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,2.589
+SAMN27113230,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.675
+SAMN27113235,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,2.696
+SAMN27113239,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,2.528
+SAMN27113240,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,2.714
+SAMN27113241,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.849
+SAMN27113245,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,0.938
+SAMN27113273,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.438
+SAMN27113294,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.361
+SAMN27113295,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.373
+SAMN27113297,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.336
+SAMN27113299,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.117
+SAMN27113318,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.633
+SAMN27113325,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.508
+SAMN27113328,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.08
+SAMN27113333,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.859
+SAMN27113340,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,0.99
+SAMN27113400,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.717
+SAMN27113416,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.996
+SAMN27113417,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.021
+SAMN27113421,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,0.96
+SAMN27113423,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.421
+SAMN27113543,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,2.54
+SAMN27113550,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.105
+SAMN27113558,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.426
+SAMN27113578,PRJNA821542,,4 months,infant,122.0,,FI,,,,,,,primary,1.0,1.233
+SAMN27113210,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.133
+SAMN27113213,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.272
+SAMN27113218,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.652
+SAMN27113229,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.693
+SAMN27113238,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.831
+SAMN27113242,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.279
+SAMN27113292,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.409
+SAMN27113296,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.472
+SAMN27113298,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.016
+SAMN27113314,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.53
+SAMN27113319,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.075
+SAMN27113326,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.578
+SAMN27113329,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.582
+SAMN27113331,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.016
+SAMN27113334,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.564
+SAMN27113339,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.663
+SAMN27113341,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.273
+SAMN27113393,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.052
+SAMN27113401,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.461
+SAMN27113415,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.39
+SAMN27113424,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.025
+SAMN27113448,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.109
+SAMN27113453,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.696
+SAMN27113579,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.185
+SAMN27113585,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,2.225
+SAMN27113596,PRJNA821542,,5 months,infant,152.0,,FI,,,,,,,primary,1.0,1.145
+SAMN27113211,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.054
+SAMN27113214,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.955
+SAMN27113219,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.811
+SAMN27113236,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,3.777
+SAMN27113243,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.634
+SAMN27113244,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.831
+SAMN27113320,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.896
+SAMN27113332,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.676
+SAMN27113335,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.003
+SAMN27113336,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.206
+SAMN27113337,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.544
+SAMN27113361,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.534
+SAMN27113372,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.095
+SAMN27113379,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.659
+SAMN27113394,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.5
+SAMN27113422,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.286
+SAMN27113425,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.106
+SAMN27113430,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.533
+SAMN27113434,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.345
+SAMN27113449,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.157
+SAMN27113454,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.334
+SAMN27113455,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.263
+SAMN27113494,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.367
+SAMN27113503,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.167
+SAMN27113544,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.913
+SAMN27113571,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.159
+SAMN27114059,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.826
+SAMN27114060,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.319
+SAMN27114061,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.42
+SAMN27114062,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.084
+SAMN27114063,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.8
+SAMN27114064,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.629
+SAMN27114065,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.461
+SAMN27114066,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.424
+SAMN27114083,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.532
+SAMN27114084,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.078
+SAMN27114085,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.357
+SAMN27114086,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.523
+SAMN27114087,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.634
+SAMN27114088,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.249
+SAMN27114089,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.973
+SAMN27114090,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.05
+SAMN27114091,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.346
+SAMN27114092,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.445
+SAMN27114093,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.478
+SAMN27114094,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.637
+SAMN27114095,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.567
+SAMN27114096,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.512
+SAMN27114097,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.707
+SAMN27114098,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.662
+SAMN27114099,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.685
+SAMN27114100,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.665
+SAMN27114101,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.149
+SAMN27114102,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.277
+SAMN27114103,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,2.202
+SAMN27114104,PRJNA821542,,6 months,infant,183.0,,FI,,,,,,,primary,1.0,1.363
+SAMN27113220,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,3.038
+SAMN27113232,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.481
+SAMN27113247,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.219
+SAMN27113249,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.098
+SAMN27113259,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,0.862
+SAMN27113303,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.646
+SAMN27113311,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.364
+SAMN27113312,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,2.061
+SAMN27113338,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.426
+SAMN27113342,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.341
+SAMN27113346,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.16
+SAMN27113349,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.337
+SAMN27113353,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.194
+SAMN27113356,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.485
+SAMN27113362,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.424
+SAMN27113365,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.326
+SAMN27113367,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.86
+SAMN27113374,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,0.926
+SAMN27113378,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,2.499
+SAMN27113380,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.605
+SAMN27113431,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.447
+SAMN27113435,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.91
+SAMN27113440,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.98
+SAMN27113443,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,2.862
+SAMN27113504,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.569
+SAMN27113562,PRJNA821542,,7 months,infant,213.0,,FI,,,,,,,primary,1.0,1.234
+SAMN27113196,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.693
+SAMN27113215,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,2.215
+SAMN27113300,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.833
+SAMN27113308,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.383
+SAMN27113309,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,2.013
+SAMN27113310,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.194
+SAMN27113315,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.171
+SAMN27113343,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.514
+SAMN27113345,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.264
+SAMN27113347,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.979
+SAMN27113354,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.318
+SAMN27113357,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.728
+SAMN27113363,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.485
+SAMN27113368,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.417
+SAMN27113375,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.605
+SAMN27113432,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,2.162
+SAMN27113436,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.779
+SAMN27113441,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,2.412
+SAMN27113444,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.989
+SAMN27113456,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,0.99
+SAMN27113458,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.42
+SAMN27113465,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.586
+SAMN27113477,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.315
+SAMN27113516,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.739
+SAMN27113588,PRJNA821542,,8 months,infant,244.0,,FI,,,,,,,primary,1.0,1.337
+SAMN27113189,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.766
+SAMN27113202,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,3.041
+SAMN27113216,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.485
+SAMN27113248,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.099
+SAMN27113301,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.239
+SAMN27113302,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.511
+SAMN27113304,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.937
+SAMN27113344,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.408
+SAMN27113348,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.451
+SAMN27113355,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.055
+SAMN27113364,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.184
+SAMN27113366,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.491
+SAMN27113369,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.059
+SAMN27113373,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.662
+SAMN27113376,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.081
+SAMN27113377,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.133
+SAMN27113418,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.481
+SAMN27113433,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.525
+SAMN27113442,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,2.01
+SAMN27113445,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,2.465
+SAMN27113459,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.388
+SAMN27113466,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.835
+SAMN27113517,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.273
+SAMN27113563,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,1.593
+SAMN27113593,PRJNA821542,,9 months,infant,274.0,,FI,,,,,,,primary,1.0,2.535
+SAMN27113254,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,1.195
+SAMN27113258,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,2.097
+SAMN27113645,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,4.037
+SAMN27113705,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,1.403
+SAMN27113741,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,1.893
+SAMN27113753,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,1.716
+SAMN27113762,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,3.21
+SAMN27113810,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,2.163
+SAMN27113850,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,3.682
+SAMN27113871,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,1.971
+SAMN27113873,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,4.223
+SAMN27113891,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,3.499
+SAMN27113906,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,2.1
+SAMN27113956,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,4.399
+SAMN27113972,PRJNA821542,,near birth,neonate,0.0,,FI,,,,,,,primary,1.0,2.876
+SAMN27113204,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.094
+SAMN27113206,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.385
+SAMN27113207,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.652
+SAMN27113221,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.243
+SAMN27113227,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.143
+SAMN27113246,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.204
+SAMN27113250,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.467
+SAMN27113262,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.563
+SAMN27113264,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.162
+SAMN27113267,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.407
+SAMN27113269,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.592
+SAMN27113274,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.708
+SAMN27113279,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.721
+SAMN27113283,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.525
+SAMN27113293,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.02
+SAMN27113316,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.565
+SAMN27113396,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.142
+SAMN27113402,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.312
+SAMN27113408,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.828
+SAMN27113409,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.549
+SAMN27113437,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.685
+SAMN27113439,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.805
+SAMN27113446,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.689
+SAMN27113447,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.801
+SAMN27113450,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.364
+SAMN27113451,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.067
+SAMN27113452,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.472
+SAMN27113457,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.974
+SAMN27113463,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.247
+SAMN27113464,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.883
+SAMN27113468,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.338
+SAMN27113469,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.33
+SAMN27113470,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.294
+SAMN27113473,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.458
+SAMN27113474,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.531
+SAMN27113475,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.538
+SAMN27113479,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.763
+SAMN27113487,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.118
+SAMN27113491,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.526
+SAMN27113551,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.171
+SAMN27113552,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.952
+SAMN27113555,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,0.915
+SAMN27113556,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.818
+SAMN27113559,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.006
+SAMN27113560,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.213
+SAMN27113561,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.476
+SAMN27113564,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.486
+SAMN27113566,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.458
+SAMN27113574,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.217
+SAMN27113576,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.294
+SAMN27113577,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.811
+SAMN27113584,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,0.943
+SAMN27113587,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.034
+SAMN27113589,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.491
+SAMN27113591,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.149
+SAMN27113598,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.418
+SAMN27113599,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.055
+SAMN27113602,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.911
+SAMN27113603,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.005
+SAMN27113604,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.235
+SAMN27113605,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.445
+SAMN27113608,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.855
+SAMN27113609,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.62
+SAMN27113610,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.828
+SAMN27113611,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.951
+SAMN27113614,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.135
+SAMN27113616,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.346
+SAMN27113618,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.22
+SAMN27113619,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.657
+SAMN27113621,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.257
+SAMN27113622,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.528
+SAMN27113624,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.47
+SAMN27113626,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.306
+SAMN27113627,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.311
+SAMN27113629,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.468
+SAMN27113633,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.792
+SAMN27113634,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.301
+SAMN27113637,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.236
+SAMN27113639,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.618
+SAMN27113640,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.968
+SAMN27113641,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.389
+SAMN27113642,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.258
+SAMN27113647,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.509
+SAMN27113649,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.893
+SAMN27113650,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.776
+SAMN27113651,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.171
+SAMN27113652,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.351
+SAMN27113653,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.807
+SAMN27113654,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.955
+SAMN27113655,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.2
+SAMN27113656,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.165
+SAMN27113659,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.465
+SAMN27113662,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.67
+SAMN27113665,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.769
+SAMN27113666,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.228
+SAMN27113667,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.62
+SAMN27113668,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.21
+SAMN27113671,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.674
+SAMN27113672,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.449
+SAMN27113674,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.69
+SAMN27113676,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.097
+SAMN27113677,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.756
+SAMN27113679,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.841
+SAMN27113680,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.56
+SAMN27113684,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.269
+SAMN27113686,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.891
+SAMN27113687,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.1
+SAMN27113689,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.038
+SAMN27113690,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.259
+SAMN27113691,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.508
+SAMN27113693,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.033
+SAMN27113695,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.28
+SAMN27113696,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.29
+SAMN27113697,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.814
+SAMN27113698,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.184
+SAMN27113700,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.638
+SAMN27113702,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.836
+SAMN27113703,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.77
+SAMN27113704,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.695
+SAMN27113711,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.505
+SAMN27113712,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.363
+SAMN27113714,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.93
+SAMN27113715,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.094
+SAMN27113718,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.141
+SAMN27113720,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.256
+SAMN27113721,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.313
+SAMN27113723,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.828
+SAMN27113726,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.493
+SAMN27113738,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.135
+SAMN27113739,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.544
+SAMN27113740,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.969
+SAMN27113743,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.093
+SAMN27113744,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.147
+SAMN27113746,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.953
+SAMN27113747,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.329
+SAMN27113748,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.39
+SAMN27113756,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.198
+SAMN27113758,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.452
+SAMN27113759,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,0.854
+SAMN27113761,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.035
+SAMN27113763,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.039
+SAMN27113765,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.47
+SAMN27113766,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.754
+SAMN27113769,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.068
+SAMN27113770,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.768
+SAMN27113771,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.303
+SAMN27113775,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.628
+SAMN27113776,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.732
+SAMN27113777,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.399
+SAMN27113778,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.288
+SAMN27113780,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.062
+SAMN27113784,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.475
+SAMN27113786,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.552
+SAMN27113795,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.582
+SAMN27113798,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.81
+SAMN27113800,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.592
+SAMN27113807,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.361
+SAMN27113809,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.495
+SAMN27113816,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.446
+SAMN27113817,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.529
+SAMN27113818,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.86
+SAMN27113820,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.764
+SAMN27113822,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.2
+SAMN27113825,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.167
+SAMN27113828,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.18
+SAMN27113830,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.287
+SAMN27113831,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.377
+SAMN27113832,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.216
+SAMN27113833,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.476
+SAMN27113834,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.631
+SAMN27113836,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.144
+SAMN27113837,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.087
+SAMN27113838,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.163
+SAMN27113839,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.521
+SAMN27113840,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.286
+SAMN27113841,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.27
+SAMN27113842,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.124
+SAMN27113843,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.309
+SAMN27113844,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.635
+SAMN27113845,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.635
+SAMN27113846,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.589
+SAMN27113847,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.301
+SAMN27113848,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.108
+SAMN27113849,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.552
+SAMN27113851,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.239
+SAMN27113852,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.782
+SAMN27113853,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.688
+SAMN27113854,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.969
+SAMN27113855,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.577
+SAMN27113856,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.284
+SAMN27113857,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.204
+SAMN27113858,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.657
+SAMN27113859,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.818
+SAMN27113860,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.068
+SAMN27113861,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.009
+SAMN27113862,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.629
+SAMN27113863,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.804
+SAMN27113864,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.59
+SAMN27113865,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.855
+SAMN27113866,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.587
+SAMN27113867,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.65
+SAMN27113868,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.846
+SAMN27113869,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.307
+SAMN27113870,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.199
+SAMN27113872,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.565
+SAMN27113874,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.294
+SAMN27113875,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.409
+SAMN27113876,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.201
+SAMN27113877,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.383
+SAMN27113878,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.234
+SAMN27113879,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.301
+SAMN27113880,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.87
+SAMN27113881,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.423
+SAMN27113882,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.485
+SAMN27113883,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.77
+SAMN27113884,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.336
+SAMN27113885,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.283
+SAMN27113886,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.068
+SAMN27113887,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.628
+SAMN27113888,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.519
+SAMN27113889,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.94
+SAMN27113890,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.407
+SAMN27113892,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.573
+SAMN27113893,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.448
+SAMN27113894,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.48
+SAMN27113895,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.882
+SAMN27113896,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.679
+SAMN27113897,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.249
+SAMN27113898,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.603
+SAMN27113899,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.044
+SAMN27113900,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.755
+SAMN27113901,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.711
+SAMN27113902,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,4.081
+SAMN27113903,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.923
+SAMN27113904,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.836
+SAMN27113905,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.595
+SAMN27113907,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.207
+SAMN27113908,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.386
+SAMN27113909,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.431
+SAMN27113910,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.555
+SAMN27113911,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.925
+SAMN27113912,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.895
+SAMN27113913,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.514
+SAMN27113914,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.113
+SAMN27113915,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.373
+SAMN27113916,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.703
+SAMN27113917,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.339
+SAMN27113918,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.251
+SAMN27113919,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.416
+SAMN27113920,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,5.86
+SAMN27113921,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.8
+SAMN27113922,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.159
+SAMN27113923,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.856
+SAMN27113924,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.98
+SAMN27113925,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.566
+SAMN27113926,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.379
+SAMN27113927,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.637
+SAMN27113928,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.334
+SAMN27113929,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,0.989
+SAMN27113930,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.666
+SAMN27113931,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.631
+SAMN27113932,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,4.172
+SAMN27113933,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.439
+SAMN27113934,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.591
+SAMN27113935,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.572
+SAMN27113936,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.729
+SAMN27113937,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.952
+SAMN27113938,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.258
+SAMN27113939,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.843
+SAMN27113940,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.294
+SAMN27113941,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,5.616
+SAMN27113942,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.806
+SAMN27113943,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.229
+SAMN27113944,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.021
+SAMN27113945,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,6.037
+SAMN27113946,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.595
+SAMN27113947,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,4.259
+SAMN27113948,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.763
+SAMN27113949,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.857
+SAMN27113950,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.751
+SAMN27113951,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.809
+SAMN27113952,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.888
+SAMN27113953,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.385
+SAMN27113954,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.93
+SAMN27113955,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.595
+SAMN27113957,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.147
+SAMN27113958,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.782
+SAMN27113959,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.436
+SAMN27113960,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,5.587
+SAMN27113961,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.441
+SAMN27113962,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.826
+SAMN27113963,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.492
+SAMN27113964,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,5.782
+SAMN27113965,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.859
+SAMN27113966,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,5.477
+SAMN27113967,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,4.095
+SAMN27113968,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,3.549
+SAMN27113969,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,3.161
+SAMN27113970,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,4.554
+SAMN27113971,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.257
+SAMN27113974,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.752
+SAMN27113979,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.412
+SAMN27113983,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.946
+SAMN27113986,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.34
+SAMN27113989,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.087
+SAMN27113990,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.897
+SAMN27113992,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,3.16
+SAMN27113994,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.992
+SAMN27113996,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.733
+SAMN27113997,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.056
+SAMN27114000,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.539
+SAMN27114005,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.456
+SAMN27114009,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.771
+SAMN27114010,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.55
+SAMN27114011,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.362
+SAMN27114014,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.62
+SAMN27114015,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.301
+SAMN27114018,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.539
+SAMN27114020,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.489
+SAMN27114022,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.31
+SAMN27114023,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.581
+SAMN27114024,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,1.627
+SAMN27114025,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.481
+SAMN27114038,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.576
+SAMN27114039,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.36
+SAMN27114041,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.721
+SAMN27114044,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.444
+SAMN27114045,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.332
+SAMN27114046,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,1.092
+SAMN27114052,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.336
+SAMN27114053,PRJNA821542,,,,,,FI,,,,,,,primary,1.0,2.159
+SAMN27114054,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,2.744
+SAMN27114055,PRJNA821542,,,neonate,0.0,,FI,,,,,,,primary,1.0,1.834
+SAMN27114073,PRJNA821542,,,neonate,15.0,,FI,,,,,,,primary,1.0,2.459

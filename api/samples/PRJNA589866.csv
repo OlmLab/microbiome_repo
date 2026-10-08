@@ -1,0 +1,349 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN13292989,PRJNA589866,302-001,4week,elderly,23741.2,male,RS,,,,,,2016,primary,1.0,7.397
+SAMN13292987,PRJNA589866,302-001,72h,elderly,23741.2,male,RS,,,,,,2016,primary,1.0,8.78
+SAMN13292988,PRJNA589866,302-001,Screening,elderly,23741.2,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.726
+SAMN13292874,PRJNA589866,303-005,4week,adult,19358.2,male,RS,,,,,,2016,primary,1.0,8.386
+SAMN13292866,PRJNA589866,303-005,72h,adult,19358.2,male,RS,,,,,,2016,primary,1.0,7.352
+SAMN13292819,PRJNA589866,303-005,Screening,adult,19358.2,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.977
+SAMN13292869,PRJNA589866,303-012,4week,elderly,27028.5,female,RS,,,,,,2016,primary,1.0,5.422
+SAMN13292852,PRJNA589866,303-012,72h,elderly,27028.5,female,RS,,,,,,2016,primary,1.0,7.246
+SAMN13292847,PRJNA589866,303-012,Screening,elderly,27028.5,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.593
+SAMN13292851,PRJNA589866,303-013,4week,elderly,30300.0,female,RS,,,,,,2016,primary,1.0,7.11
+SAMN13292849,PRJNA589866,303-013,72h,elderly,30300.0,female,RS,,,,,,2016,primary,1.0,7.806
+SAMN13292848,PRJNA589866,303-013,Screening,elderly,30300.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.603
+SAMN13292871,PRJNA589866,303-014,4week,elderly,24455.0,female,RS,,,,,,2016,primary,1.0,8.024
+SAMN13292850,PRJNA589866,303-014,72h,elderly,24455.0,female,RS,,,,,,2016,primary,1.0,5.915
+SAMN13292854,PRJNA589866,303-014,Screening,elderly,24455.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.877
+SAMN13292887,PRJNA589866,303-015,4week,elderly,28124.2,female,RS,,,,,,2016,primary,1.0,8.712
+SAMN13292873,PRJNA589866,303-015,72h,elderly,28124.2,female,RS,,,,,,2016,primary,1.0,7.656
+SAMN13292853,PRJNA589866,303-015,Screening,elderly,28124.2,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.475
+SAMN13292888,PRJNA589866,303-016,4week,elderly,27759.0,male,RS,,,,,,2016,primary,1.0,4.792
+SAMN13292872,PRJNA589866,303-016,72h,elderly,27759.0,male,RS,,,,,,2016,primary,1.0,7.217
+SAMN13292881,PRJNA589866,303-016,Screening,elderly,27759.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.412
+SAMN13292889,PRJNA589866,303-017,4week,elderly,23741.2,female,RS,,,,,,2016,primary,1.0,6.466
+SAMN13292870,PRJNA589866,303-017,72h,elderly,23741.2,female,RS,,,,,,2016,primary,1.0,7.629
+SAMN13292875,PRJNA589866,303-017,Screening,elderly,23741.2,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.961
+SAMN13292934,PRJNA589866,303-020,72h,elderly,31788.0,female,HU,,,,,,2016,primary,1.0,9.025
+SAMN13292999,PRJNA589866,303-020,EarlyTerm,elderly,31788.0,female,RS,,,,,,2016,primary,1.0,7.082
+SAMN13292933,PRJNA589866,303-020,Screening,elderly,31788.0,female,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,11.736
+SAMN13293021,PRJNA589866,303-023,4week,elderly,27394.0,male,RS,,,,,,2016,primary,1.0,8.494
+SAMN13293019,PRJNA589866,303-023,72h,elderly,27394.0,male,RS,,,,,,2016,primary,1.0,10.353
+SAMN13293020,PRJNA589866,303-023,Screening,elderly,27394.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.019
+SAMN13293014,PRJNA589866,303-024,4week,elderly,33237.8,male,RS,,,,,,2016,primary,1.0,8.101
+SAMN13293015,PRJNA589866,303-024,72h,elderly,33237.8,male,RS,,,,,,2016,primary,1.0,7.466
+SAMN13293017,PRJNA589866,303-024,Screening,elderly,33237.8,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.423
+SAMN13293022,PRJNA589866,303-025,4week,adult,22280.2,male,RS,,,,,,2016,primary,1.0,6.814
+SAMN13293016,PRJNA589866,303-025,72h,adult,22280.2,male,RS,,,,,,2016,primary,1.0,10.163
+SAMN13293018,PRJNA589866,303-025,Screening,adult,22280.2,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,4.535
+SAMN13293060,PRJNA589866,303-030,4week,adult,21915.0,male,RS,,,,,,2016,primary,1.0,13.104
+SAMN13293023,PRJNA589866,303-030,72h,adult,21915.0,male,RS,,,,,,2016,primary,1.0,8.848
+SAMN13293024,PRJNA589866,303-030,Screening,adult,21915.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.207
+SAMN13292921,PRJNA589866,306-002,72h,adult,22280.2,male,RS,,,,,,2016,primary,1.0,8.207
+SAMN13292922,PRJNA589866,306-002,Screening,adult,22280.2,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.259
+SAMN13293046,PRJNA589866,308-027,4week,adult,23376.0,male,RS,,,,,,2016,primary,1.0,7.917
+SAMN13293012,PRJNA589866,308-027,72h,adult,23376.0,male,RS,,,,,,2016,primary,1.0,9.767
+SAMN13293009,PRJNA589866,308-027,Screening,adult,23376.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.616
+SAMN13293013,PRJNA589866,308-032,72h,elderly,29580.0,female,RS,,,,,,2016,primary,1.0,3.947
+SAMN13293011,PRJNA589866,308-032,Screening,elderly,29580.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,3.903
+SAMN13293010,PRJNA589866,308-033,Screening,elderly,29931.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.642
+SAMN13292882,PRJNA589866,310-001,4week,elderly,27394.0,female,RS,,,,,,2016,primary,1.0,4.921
+SAMN13292845,PRJNA589866,310-001,72h,elderly,27394.0,female,RS,,,,,,2016,primary,1.0,5.328
+SAMN13292846,PRJNA589866,310-001,Screening,elderly,27394.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.949
+SAMN13292940,PRJNA589866,310-004,4week,adult,22280.2,female,RS,,,,,,2016,primary,1.0,8.265
+SAMN13292942,PRJNA589866,310-004,72h,adult,22280.2,female,RS,,,,,,2016,primary,1.0,7.23
+SAMN13292918,PRJNA589866,310-004,Screening,adult,22280.2,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.029
+SAMN13292996,PRJNA589866,310-006,4week,elderly,24455.0,female,RS,,,,,,2016,primary,1.0,5.966
+SAMN13292941,PRJNA589866,310-006,72h,elderly,24455.0,female,RS,,,,,,2016,primary,1.0,6.145
+SAMN13292939,PRJNA589866,310-006,Screening,elderly,24455.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.768
+SAMN13292997,PRJNA589866,310-009,4week,elderly,28124.2,female,RS,,,,,,2016,primary,1.0,6.285
+SAMN13292995,PRJNA589866,310-009,72h,elderly,28124.2,female,RS,,,,,,2016,primary,1.0,7.363
+SAMN13292938,PRJNA589866,310-009,Screening,elderly,28124.2,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.751
+SAMN13293047,PRJNA589866,310-014,4week,elderly,28854.8,female,RS,,,,,,2016,primary,1.0,6.188
+SAMN13292998,PRJNA589866,310-014,72h,elderly,28854.8,female,RS,,,,,,2016,primary,1.0,6.642
+SAMN13292943,PRJNA589866,310-014,Screening,elderly,28854.8,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,4.422
+SAMN13293054,PRJNA589866,310-019,4week,elderly,27028.5,male,RS,,,,,,2016,primary,1.0,6.002
+SAMN13293055,PRJNA589866,310-019,72h,elderly,27028.5,male,RS,,,,,,2016,primary,1.0,4.404
+SAMN13293053,PRJNA589866,310-019,Screening,elderly,27028.5,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.003
+SAMN13292883,PRJNA589866,311-003,4week,elderly,25190.0,male,RS,,,,,,2016,primary,1.0,6.572
+SAMN13292862,PRJNA589866,311-003,72h,elderly,25190.0,male,RS,,,,,,2016,primary,1.0,7.582
+SAMN13292864,PRJNA589866,311-003,Screening,elderly,25190.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.027
+SAMN13292884,PRJNA589866,311-004,4week,elderly,27759.0,male,RS,,,,,,2016,primary,1.0,6.913
+SAMN13292861,PRJNA589866,311-004,72h,elderly,27759.0,male,RS,,,,,,2016,primary,1.0,6.517
+SAMN13292863,PRJNA589866,311-004,Screening,elderly,27759.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.533
+SAMN13292945,PRJNA589866,311-005,4week,elderly,23741.2,male,RS,,,,,,2016,primary,1.0,5.989
+SAMN13292944,PRJNA589866,311-005,72h,elderly,23741.2,male,RS,,,,,,2016,primary,1.0,7.813
+SAMN13292923,PRJNA589866,311-005,Screening,elderly,23741.2,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.607
+SAMN13293034,PRJNA589866,311-012,4week,adult,22280.2,male,RS,,,,,,2016,primary,1.0,8.149
+SAMN13292924,PRJNA589866,311-012,72h,adult,22280.2,male,RS,,,,,,2016,primary,1.0,7.831
+SAMN13292946,PRJNA589866,311-012,Screening,adult,22280.2,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.674
+SAMN13293032,PRJNA589866,311-014,4week,adult,23376.0,male,RS,,,,,,2016,primary,1.0,6.893
+SAMN13293033,PRJNA589866,311-014,72h,adult,23376.0,male,RS,,,,,,2016,primary,1.0,8.994
+SAMN13293045,PRJNA589866,311-014,Screening,adult,23376.0,male,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.906
+SAMN13293029,PRJNA589866,311-016,4week,elderly,25550.0,female,RS,,,,,,2016,primary,1.0,7.103
+SAMN13293031,PRJNA589866,311-016,72h,elderly,25550.0,female,RS,,,,,,2016,primary,1.0,6.622
+SAMN13293030,PRJNA589866,311-016,Screening,elderly,25550.0,female,RS,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.139
+SAMN13292857,PRJNA589866,402-003,4week,elderly,29931.0,female,HU,,,,,,2016,primary,1.0,8.356
+SAMN13292758,PRJNA589866,402-003,72h,elderly,29931.0,female,HU,,,,,,2016,primary,1.0,7.634
+SAMN13292759,PRJNA589866,402-003,Screening,elderly,29931.0,female,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.813
+SAMN13292856,PRJNA589866,402-004,4week,elderly,24106.5,male,HU,,,,,,2016,primary,1.0,5.598
+SAMN13292756,PRJNA589866,402-004,72h,elderly,24106.5,male,HU,,,,,,2016,primary,1.0,7.467
+SAMN13292757,PRJNA589866,402-004,Screening,elderly,24106.5,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.92
+SAMN13292855,PRJNA589866,402-006,4week,elderly,24837.0,male,HU,,,,,,2016,primary,1.0,6.617
+SAMN13292865,PRJNA589866,402-006,72h,elderly,24837.0,male,HU,,,,,,2016,primary,1.0,7.516
+SAMN13292761,PRJNA589866,402-006,Screening,elderly,24837.0,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.146
+SAMN13292858,PRJNA589866,402-007,4week,elderly,24455.0,female,HU,,,,,,2016,primary,1.0,7.003
+SAMN13292859,PRJNA589866,402-007,72h,elderly,24455.0,female,HU,,,,,,2016,primary,1.0,8.423
+SAMN13292760,PRJNA589866,402-007,Screening,elderly,24455.0,female,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.048
+SAMN13293051,PRJNA589866,402-009,4week,elderly,27759.0,male,HU,,,,,,2016,primary,1.0,6.896
+SAMN13292920,PRJNA589866,402-009,72h,elderly,27759.0,male,HU,,,,,,2016,primary,1.0,8.343
+SAMN13292919,PRJNA589866,402-009,Screening,elderly,27759.0,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.197
+SAMN13292808,PRJNA589866,403-001,4week,elderly,24837.0,male,HU,,,,,,2016,primary,1.0,7.888
+SAMN13292807,PRJNA589866,403-001,72h,elderly,24837.0,male,HU,,,,,,2016,primary,1.0,6.704
+SAMN13292805,PRJNA589866,403-001,Screening,elderly,24837.0,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.741
+SAMN13292803,PRJNA589866,403-002,4week,elderly,24455.0,male,HU,,,,,,2016,primary,1.0,5.965
+SAMN13292806,PRJNA589866,403-002,72h,elderly,24455.0,male,HU,,,,,,2016,primary,1.0,6.947
+SAMN13292804,PRJNA589866,403-002,Screening,elderly,24455.0,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.077
+SAMN13292914,PRJNA589866,403-003,4week,adult,21177.0,male,HU,,,,,,2016,primary,1.0,8.359
+SAMN13292913,PRJNA589866,403-003,72h,adult,21177.0,male,HU,,,,,,2016,primary,1.0,7.488
+SAMN13292912,PRJNA589866,403-003,Screening,adult,21177.0,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.188
+SAMN13292947,PRJNA589866,406-002,4week,elderly,24455.0,male,HU,,,,,,2016,primary,1.0,7.279
+SAMN13292980,PRJNA589866,406-002,72h,elderly,24455.0,male,HU,,,,,,2016,primary,1.0,7.062
+SAMN13292948,PRJNA589866,406-002,Screening,elderly,24455.0,male,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.286
+SAMN13292981,PRJNA589866,406-003,4week,adult,20434.0,female,HU,,,,,,2016,primary,1.0,6.081
+SAMN13292982,PRJNA589866,406-003,72h,adult,20434.0,female,HU,,,,,,2016,primary,1.0,6.438
+SAMN13292983,PRJNA589866,406-003,Screening,adult,20434.0,female,HU,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.646
+SAMN13292754,PRJNA589866,501-001,4week,adult,23376.0,male,RO,,,,,,2016,primary,1.0,7.249
+SAMN13292755,PRJNA589866,501-001,72h,adult,23376.0,male,RO,,,,,,2016,primary,1.0,7.679
+SAMN13292753,PRJNA589866,501-001,Screening,adult,23376.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.609
+SAMN13292765,PRJNA589866,502-001,4week,elderly,25932.8,male,RO,,,,,,2016,primary,1.0,6.388
+SAMN13292767,PRJNA589866,502-001,72h,elderly,25932.8,male,RO,,,,,,2016,primary,1.0,7.363
+SAMN13292766,PRJNA589866,502-001,Screening,elderly,25932.8,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.388
+SAMN13292878,PRJNA589866,502-002,4week,adult,21549.8,male,RO,,,,,,2016,primary,1.0,8.013
+SAMN13292763,PRJNA589866,502-002,72h,adult,21549.8,male,RO,,,,,,2016,primary,1.0,6.688
+SAMN13292764,PRJNA589866,502-002,Screening,adult,21549.8,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.057
+SAMN13292876,PRJNA589866,502-003,4week,elderly,24837.0,male,RO,,,,,,2016,primary,1.0,8.692
+SAMN13292762,PRJNA589866,502-003,72h,elderly,24837.0,male,RO,,,,,,2016,primary,1.0,7.802
+SAMN13292770,PRJNA589866,502-003,Screening,elderly,24837.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.374
+SAMN13292880,PRJNA589866,502-004,4week,elderly,24106.5,male,RO,,,,,,2016,primary,1.0,6.66
+SAMN13292769,PRJNA589866,502-004,72h,elderly,24106.5,male,RO,,,,,,2016,primary,1.0,6.39
+SAMN13292768,PRJNA589866,502-004,Screening,elderly,24106.5,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.81
+SAMN13292879,PRJNA589866,502-005,4week,elderly,27759.0,male,RO,,,,,,2016,primary,1.0,6.876
+SAMN13292877,PRJNA589866,502-005,72h,elderly,27759.0,male,RO,,,,,,2016,primary,1.0,7.674
+SAMN13292771,PRJNA589866,502-005,Screening,elderly,27759.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.257
+SAMN13292935,PRJNA589866,502-006,4week,adult,22280.2,male,RO,,,,,,2016,primary,1.0,7.937
+SAMN13292936,PRJNA589866,502-006,72h,adult,22280.2,male,RO,,,,,,2016,primary,1.0,6.049
+SAMN13292937,PRJNA589866,502-006,Screening,adult,22280.2,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.71
+SAMN13292772,PRJNA589866,503-002,EarlyTerm,elderly,28489.5,male,RO,,,,,,2016,primary,1.0,8.219
+SAMN13292774,PRJNA589866,503-002,Screening,elderly,28489.5,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.004
+SAMN13292810,PRJNA589866,503-004,4week,elderly,25190.0,male,RO,,,,,,2016,primary,1.0,8.101
+SAMN13292775,PRJNA589866,503-004,72h,elderly,25190.0,male,RO,,,,,,2016,primary,1.0,6.886
+SAMN13292773,PRJNA589866,503-004,Screening,elderly,25190.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.622
+SAMN13292809,PRJNA589866,503-008,4week,elderly,31788.0,male,RO,,,,,,2016,primary,1.0,7.476
+SAMN13292812,PRJNA589866,503-008,72h,elderly,31788.0,male,RO,,,,,,2016,primary,1.0,6.231
+SAMN13292811,PRJNA589866,503-008,Screening,elderly,31788.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.899
+SAMN13293002,PRJNA589866,503-012,4week,elderly,23741.2,male,RO,,,,,,2016,primary,1.0,8.898
+SAMN13292951,PRJNA589866,503-012,72h,elderly,23741.2,male,RO,,,,,,2016,primary,1.0,8.121
+SAMN13292950,PRJNA589866,503-012,Screening,elderly,23741.2,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,4.495
+SAMN13293001,PRJNA589866,503-014,4week,adult,21915.0,male,RO,,,,,,2016,primary,1.0,8.551
+SAMN13292949,PRJNA589866,503-014,72h,adult,21915.0,male,RO,,,,,,2016,primary,1.0,8.815
+SAMN13292952,PRJNA589866,503-014,Screening,adult,21915.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,4.314
+SAMN13293005,PRJNA589866,503-018,4week,elderly,27759.0,male,RO,,,,,,2016,primary,1.0,9.833
+SAMN13293004,PRJNA589866,503-018,72h,elderly,27759.0,male,RO,,,,,,2016,primary,1.0,11.063
+SAMN13293003,PRJNA589866,503-018,Screening,elderly,27759.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,10.659
+SAMN13292955,PRJNA589866,504-003,4week,elderly,23741.2,male,RO,,,,,,2016,primary,1.0,6.642
+SAMN13292954,PRJNA589866,504-003,72h,elderly,23741.2,male,RO,,,,,,2016,primary,1.0,6.475
+SAMN13292953,PRJNA589866,504-003,Screening,elderly,23741.2,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,12.107
+SAMN13292778,PRJNA589866,505-002,4week,elderly,29931.0,female,RO,,,,,,2016,primary,1.0,6.664
+SAMN13292777,PRJNA589866,505-002,72h,elderly,29931.0,female,RO,,,,,,2016,primary,1.0,7.644
+SAMN13292776,PRJNA589866,505-002,Screening,elderly,29931.0,female,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.359
+SAMN13292956,PRJNA589866,505-005,72h,elderly,30300.0,female,RO,,,,,,2016,primary,1.0,8.257
+SAMN13292993,PRJNA589866,505-005,Screening,elderly,30300.0,female,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.401
+SAMN13292780,PRJNA589866,506-002,4week,adult,23376.0,male,RO,,,,,,2016,primary,1.0,8.659
+SAMN13292779,PRJNA589866,506-002,72h,adult,23376.0,male,RO,,,,,,2016,primary,1.0,9.651
+SAMN13292781,PRJNA589866,506-002,Screening,adult,23376.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.442
+SAMN13292957,PRJNA589866,507-002,4week,adult,22627.0,male,RO,,,,,,2016,primary,1.0,7.138
+SAMN13292900,PRJNA589866,507-002,72h,adult,22627.0,male,RO,,,,,,2016,primary,1.0,7.167
+SAMN13292902,PRJNA589866,507-002,Screening,adult,22627.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.709
+SAMN13292958,PRJNA589866,507-005,4week,adult,21549.8,male,RO,,,,,,2016,primary,1.0,5.434
+SAMN13292903,PRJNA589866,507-005,72h,adult,21549.8,male,RO,,,,,,2016,primary,1.0,8.32
+SAMN13292901,PRJNA589866,507-005,Screening,adult,21549.8,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.549
+SAMN13293006,PRJNA589866,507-007,4week,adult,22280.2,male,RO,,,,,,2016,primary,1.0,6.562
+SAMN13293007,PRJNA589866,507-007,72h,adult,22280.2,male,RO,,,,,,2016,primary,1.0,8.2
+SAMN13293008,PRJNA589866,507-007,Screening,adult,22280.2,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.531
+SAMN13292905,PRJNA589866,508-002,72h,elderly,28489.5,male,RO,,,,,,2016,primary,1.0,7.46
+SAMN13292906,PRJNA589866,508-002,EarlyTerm,elderly,28489.5,male,RO,,,,,,2016,primary,1.0,7.706
+SAMN13292904,PRJNA589866,508-002,Screening,elderly,28489.5,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.846
+SAMN13292907,PRJNA589866,511-001,72h,elderly,27759.0,female,RO,,,,,,2016,primary,1.0,6.876
+SAMN13292960,PRJNA589866,511-001,Screening,elderly,27759.0,female,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.904
+SAMN13292794,PRJNA589866,513-001,4week,elderly,28124.2,female,RO,,,,,,2016,primary,1.0,5.515
+SAMN13292796,PRJNA589866,513-001,72h,elderly,28124.2,female,RO,,,,,,2016,primary,1.0,6.983
+SAMN13292795,PRJNA589866,513-001,Screening,elderly,28124.2,female,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.436
+SAMN13292963,PRJNA589866,513-004,4week,adult,22280.2,male,RO,,,,,,2016,primary,1.0,4.864
+SAMN13292961,PRJNA589866,513-004,72h,adult,22280.2,male,RO,,,,,,2016,primary,1.0,12.538
+SAMN13292962,PRJNA589866,513-004,Screening,adult,22280.2,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.036
+SAMN13293027,PRJNA589866,514-003,4week,elderly,24455.0,female,RO,,,,,,2016,primary,1.0,5.654
+SAMN13292911,PRJNA589866,514-003,72h,elderly,24455.0,female,RO,,,,,,2016,primary,1.0,7.583
+SAMN13292908,PRJNA589866,514-003,Screening,elderly,24455.0,female,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.663
+SAMN13293026,PRJNA589866,514-004,4week,adult,23376.0,male,RO,,,,,,2016,primary,1.0,4.558
+SAMN13293025,PRJNA589866,514-004,72h,adult,23376.0,male,RO,,,,,,2016,primary,1.0,8.541
+SAMN13292910,PRJNA589866,514-004,Screening,adult,23376.0,female,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.088
+SAMN13292885,PRJNA589866,516-003,4week,elderly,27394.0,male,RO,,,,,,2016,primary,1.0,7.504
+SAMN13292797,PRJNA589866,516-003,72h,elderly,27394.0,male,RO,,,,,,2016,primary,1.0,7.634
+SAMN13292787,PRJNA589866,516-003,Screening,elderly,27394.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.872
+SAMN13292984,PRJNA589866,516-006,4week,adult,22627.0,male,RO,,,,,,2016,primary,1.0,7.259
+SAMN13292965,PRJNA589866,516-006,72h,adult,22627.0,male,RO,,,,,,2016,primary,1.0,11.352
+SAMN13292964,PRJNA589866,516-006,Screening,adult,22627.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.409
+SAMN13292985,PRJNA589866,516-009,72h,adult,21915.0,male,RO,,,,,,2016,primary,1.0,8.284
+SAMN13292986,PRJNA589866,516-009,Screening,adult,21915.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.252
+SAMN13293028,PRJNA589866,517-003,4week,elderly,24837.0,male,RO,,,,,,2016,primary,1.0,6.173
+SAMN13292966,PRJNA589866,517-003,72h,elderly,24837.0,male,RO,,,,,,2016,primary,1.0,6.433
+SAMN13292967,PRJNA589866,517-003,Screening,elderly,24837.0,male,RO,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.589
+SAMN13292813,PRJNA589866,601-001,4week,elderly,25550.0,male,BG,,,,,,2016,primary,1.0,6.485
+SAMN13292724,PRJNA589866,601-001,72h,elderly,25550.0,male,BG,,,,,,2016,primary,1.0,3.565
+SAMN13292719,PRJNA589866,601-001,Screening,elderly,25550.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.35
+SAMN13292718,PRJNA589866,601-003,4week,adult,18627.8,male,BG,,,,,,2016,primary,1.0,8.91
+SAMN13292720,PRJNA589866,601-003,72h,adult,18627.8,male,BG,,,,,,2016,primary,1.0,7.445
+SAMN13292723,PRJNA589866,601-003,Screening,adult,18627.8,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.942
+SAMN13292815,PRJNA589866,601-004,4week,elderly,25190.0,male,BG,,,,,,2016,primary,1.0,5.895
+SAMN13292722,PRJNA589866,601-004,72h,elderly,25190.0,male,BG,,,,,,2016,primary,1.0,7.096
+SAMN13292721,PRJNA589866,601-004,Screening,elderly,25190.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.056
+SAMN13292867,PRJNA589866,601-005,4week,elderly,26641.0,male,BG,,,,,,2016,primary,1.0,7.265
+SAMN13292814,PRJNA589866,601-005,72h,elderly,26641.0,male,BG,,,,,,2016,primary,1.0,7.862
+SAMN13292816,PRJNA589866,601-005,Screening,elderly,26641.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.174
+SAMN13293000,PRJNA589866,601-009,4week,elderly,28489.5,male,BG,,,,,,2016,primary,1.0,5.459
+SAMN13292932,PRJNA589866,601-009,72h,elderly,28489.5,male,BG,,,,,,2016,primary,1.0,8.479
+SAMN13292931,PRJNA589866,601-009,Screening,elderly,28489.5,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.388
+SAMN13292728,PRJNA589866,603-001,4week,adult,18993.0,male,BG,,,,,,2016,primary,1.0,7.461
+SAMN13292731,PRJNA589866,603-001,72h,adult,18993.0,male,BG,,,,,,2016,primary,1.0,8.807
+SAMN13292733,PRJNA589866,603-001,Screening,adult,18993.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.758
+SAMN13292729,PRJNA589866,603-002,4week,adult,21177.0,female,BG,,,,,,2016,primary,1.0,8.056
+SAMN13292727,PRJNA589866,603-002,72h,adult,21177.0,female,BG,,,,,,2016,primary,1.0,9.229
+SAMN13292730,PRJNA589866,603-002,Screening,adult,21177.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.045
+SAMN13292725,PRJNA589866,603-003,4week,elderly,27759.0,male,BG,,,,,,2016,primary,1.0,6.364
+SAMN13292726,PRJNA589866,603-003,72h,elderly,27759.0,male,BG,,,,,,2016,primary,1.0,7.801
+SAMN13292732,PRJNA589866,603-003,Screening,elderly,27759.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.553
+SAMN13292817,PRJNA589866,603-004,4week,adult,19706.0,male,BG,,,,,,2016,primary,1.0,6.677
+SAMN13292818,PRJNA589866,603-004,72h,adult,19706.0,male,BG,,,,,,2016,primary,1.0,8.258
+SAMN13292734,PRJNA589866,603-004,Screening,adult,19706.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.417
+SAMN13292970,PRJNA589866,603-005,4week,adult,19358.2,male,BG,,,,,,2016,primary,1.0,7.165
+SAMN13292968,PRJNA589866,603-005,72h,adult,19358.2,male,BG,,,,,,2016,primary,1.0,5.732
+SAMN13292969,PRJNA589866,603-005,Screening,adult,19358.2,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,4.575
+SAMN13292736,PRJNA589866,604-001,4week,adult,20088.8,female,BG,,,,,,2016,primary,1.0,9.034
+SAMN13292737,PRJNA589866,604-001,72h,adult,20088.8,female,BG,,,,,,2016,primary,1.0,8.362
+SAMN13292735,PRJNA589866,604-001,Screening,adult,20088.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.012
+SAMN13292971,PRJNA589866,604-002,4week,elderly,27759.0,male,BG,,,,,,2016,primary,1.0,6.398
+SAMN13292891,PRJNA589866,604-002,72h,elderly,27759.0,male,BG,,,,,,2016,primary,1.0,7.601
+SAMN13292890,PRJNA589866,604-002,Screening,elderly,27759.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.209
+SAMN13293058,PRJNA589866,604-005,4week,adult,23376.0,female,BG,,,,,,2016,primary,1.0,7.701
+SAMN13293059,PRJNA589866,604-005,72h,adult,23376.0,female,BG,,,,,,2016,primary,1.0,6.704
+SAMN13292972,PRJNA589866,604-005,Screening,adult,23376.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.209
+SAMN13292820,PRJNA589866,605-014,4week,elderly,23741.2,female,BG,,,,,,2016,primary,1.0,9.033
+SAMN13292825,PRJNA589866,605-014,72h,elderly,23741.2,female,BG,,,,,,2016,primary,1.0,8.73
+SAMN13292826,PRJNA589866,605-014,Screening,elderly,23741.2,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.779
+SAMN13292821,PRJNA589866,605-016,4week,adult,22280.2,female,BG,,,,,,2016,primary,1.0,6.706
+SAMN13292823,PRJNA589866,605-016,72h,adult,22280.2,female,BG,,,,,,2016,primary,1.0,8.109
+SAMN13292827,PRJNA589866,605-016,Screening,adult,22280.2,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.569
+SAMN13292824,PRJNA589866,605-017,4week,elderly,25932.8,female,BG,,,,,,2016,primary,1.0,6.459
+SAMN13292822,PRJNA589866,605-017,72h,elderly,25932.8,female,BG,,,,,,2016,primary,1.0,9.265
+SAMN13292828,PRJNA589866,605-017,Screening,elderly,25932.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.547
+SAMN13292990,PRJNA589866,605-021,4week,adult,21177.0,female,BG,,,,,,2016,primary,1.0,9.422
+SAMN13292916,PRJNA589866,605-021,72h,adult,21177.0,female,BG,,,,,,2016,primary,1.0,7.216
+SAMN13292917,PRJNA589866,605-021,Screening,adult,21177.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.639
+SAMN13292992,PRJNA589866,605-023,4week,adult,21549.8,female,BG,,,,,,2016,primary,1.0,9.34
+SAMN13292899,PRJNA589866,605-023,72h,adult,21549.8,female,BG,,,,,,2016,primary,1.0,7.79
+SAMN13292915,PRJNA589866,605-023,Screening,adult,21549.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.895
+SAMN13292991,PRJNA589866,605-026,4week,adult,22627.0,female,BG,,,,,,2016,primary,1.0,7.353
+SAMN13292973,PRJNA589866,605-026,72h,adult,22627.0,female,BG,,,,,,2016,primary,1.0,7.977
+SAMN13292974,PRJNA589866,605-026,Screening,adult,22627.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.419
+SAMN13292837,PRJNA589866,607-003,4week,adult,22627.0,female,BG,,,,,,2016,primary,1.0,9.317
+SAMN13292739,PRJNA589866,607-003,72h,adult,22627.0,female,BG,,,,,,2016,primary,1.0,8.668
+SAMN13292740,PRJNA589866,607-003,Screening,adult,22627.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.479
+SAMN13292830,PRJNA589866,607-004,4week,elderly,31394.0,female,BG,,,,,,2016,primary,1.0,8.238
+SAMN13292741,PRJNA589866,607-004,72h,elderly,31394.0,female,BG,,,,,,2016,primary,1.0,8.374
+SAMN13292743,PRJNA589866,607-004,Screening,elderly,31394.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.232
+SAMN13292782,PRJNA589866,607-005,4week,elderly,26641.0,male,BG,,,,,,2016,primary,1.0,6.611
+SAMN13292742,PRJNA589866,607-005,72h,elderly,26641.0,male,BG,,,,,,2016,primary,1.0,8.533
+SAMN13292738,PRJNA589866,607-005,Screening,elderly,26641.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.77
+SAMN13292840,PRJNA589866,607-006,4week,elderly,28854.8,female,BG,,,,,,2016,primary,1.0,6.393
+SAMN13292829,PRJNA589866,607-006,72h,elderly,28854.8,female,BG,,,,,,2016,primary,1.0,8.313
+SAMN13292785,PRJNA589866,607-006,Screening,elderly,28854.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.261
+SAMN13292841,PRJNA589866,607-007,4week,elderly,28124.2,male,BG,,,,,,2016,primary,1.0,9.386
+SAMN13292832,PRJNA589866,607-007,72h,elderly,28124.2,male,BG,,,,,,2016,primary,1.0,7.8
+SAMN13292783,PRJNA589866,607-007,Screening,elderly,28124.2,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.836
+SAMN13292836,PRJNA589866,607-008,4week,elderly,28854.8,female,BG,,,,,,2016,primary,1.0,9.247
+SAMN13292833,PRJNA589866,607-008,72h,elderly,28854.8,female,BG,,,,,,2016,primary,1.0,9.901
+SAMN13292784,PRJNA589866,607-008,Screening,elderly,28854.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.196
+SAMN13292838,PRJNA589866,607-009,4week,elderly,24837.0,female,BG,,,,,,2016,primary,1.0,7.027
+SAMN13292839,PRJNA589866,607-009,72h,elderly,24837.0,female,BG,,,,,,2016,primary,1.0,8.758
+SAMN13292786,PRJNA589866,607-009,Screening,elderly,24837.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.388
+SAMN13292835,PRJNA589866,607-012,4week,adult,22627.0,male,BG,,,,,,2016,primary,1.0,6.849
+SAMN13292834,PRJNA589866,607-012,72h,adult,22627.0,male,BG,,,,,,2016,primary,1.0,7.449
+SAMN13292831,PRJNA589866,607-012,Screening,adult,22627.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.548
+SAMN13292925,PRJNA589866,607-018,4week,adult,22627.0,male,BG,,,,,,2016,primary,1.0,6.799
+SAMN13292928,PRJNA589866,607-018,72h,adult,22627.0,male,BG,,,,,,2016,primary,1.0,13.615
+SAMN13292927,PRJNA589866,607-018,Screening,adult,22627.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.611
+SAMN13293050,PRJNA589866,607-020,4week,adult,19358.2,male,BG,,,,,,2016,primary,1.0,3.992
+SAMN13292926,PRJNA589866,607-020,72h,adult,19358.2,male,BG,,,,,,2016,primary,1.0,7.718
+SAMN13292930,PRJNA589866,607-020,Screening,adult,19358.2,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.92
+SAMN13293041,PRJNA589866,607-023,4week,elderly,26641.0,female,BG,,,,,,2016,primary,1.0,9.023
+SAMN13293039,PRJNA589866,607-023,72h,elderly,26641.0,female,BG,,,,,,2016,primary,1.0,6.351
+SAMN13293040,PRJNA589866,607-023,Screening,elderly,26641.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.195
+SAMN13293052,PRJNA589866,607-029,4week,adult,22980.8,female,BG,,,,,,2016,primary,1.0,7.732
+SAMN13293048,PRJNA589866,607-029,Screening,adult,22980.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.295
+SAMN13293042,PRJNA589866,607-031,4week,elderly,24837.0,male,BG,,,,,,2016,primary,1.0,7.613
+SAMN13293049,PRJNA589866,607-031,72h,elderly,24837.0,male,BG,,,,,,2016,primary,1.0,7.127
+SAMN13292929,PRJNA589866,607-031,Screening,elderly,24837.0,male,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.312
+SAMN13292844,PRJNA589866,609-005,4week,adult,20820.0,female,BG,,,,,,2016,primary,1.0,6.777
+SAMN13292843,PRJNA589866,609-005,72h,adult,20820.0,female,BG,,,,,,2016,primary,1.0,7.716
+SAMN13292842,PRJNA589866,609-005,Screening,adult,20820.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.958
+SAMN13293038,PRJNA589866,609-008,4week,adult,22627.0,female,BG,,,,,,2016,primary,1.0,8.185
+SAMN13292976,PRJNA589866,609-008,72h,adult,22627.0,female,BG,,,,,,2016,primary,1.0,7.945
+SAMN13292977,PRJNA589866,609-008,Screening,adult,22627.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.989
+SAMN13293037,PRJNA589866,609-011,4week,adult,22980.8,female,BG,,,,,,2016,primary,1.0,7.561
+SAMN13293036,PRJNA589866,609-011,72h,adult,22980.8,female,BG,,,,,,2016,primary,1.0,5.066
+SAMN13292975,PRJNA589866,609-011,Screening,adult,22980.8,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.624
+SAMN13293057,PRJNA589866,609-014,4week,adult,20820.0,female,BG,,,,,,2016,primary,1.0,9.134
+SAMN13293056,PRJNA589866,609-014,72h,adult,20820.0,female,BG,,,,,,2016,primary,1.0,7.706
+SAMN13293035,PRJNA589866,609-014,Screening,adult,20820.0,female,BG,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.568
+SAMN13292979,PRJNA589866,702-002,4week,elderly,24455.0,male,PL,,,,,,2016,primary,1.0,7.805
+SAMN13292895,PRJNA589866,702-002,72h,elderly,24455.0,male,PL,,,,,,2016,primary,1.0,6.915
+SAMN13292892,PRJNA589866,702-002,Screening,elderly,24455.0,male,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.78
+SAMN13292893,PRJNA589866,702-004,4week,adult,23376.0,male,PL,,,,,,2016,primary,1.0,8.495
+SAMN13292894,PRJNA589866,702-004,72h,adult,23376.0,male,PL,,,,,,2016,primary,1.0,7.381
+SAMN13293044,PRJNA589866,702-005,4week,elderly,24837.0,female,PL,,,,,,2016,primary,1.0,7.997
+SAMN13293043,PRJNA589866,702-005,72h,elderly,24837.0,female,PL,,,,,,2016,primary,1.0,7.004
+SAMN13292978,PRJNA589866,702-005,Screening,elderly,24837.0,female,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,9.69
+SAMN13292744,PRJNA589866,706-001,4week,elderly,25190.0,female,PL,,,,,,2016,primary,1.0,6.36
+SAMN13292746,PRJNA589866,706-001,72h,elderly,25190.0,female,PL,,,,,,2016,primary,1.0,7.9
+SAMN13292745,PRJNA589866,706-001,Screening,elderly,25190.0,female,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.173
+SAMN13292896,PRJNA589866,710-001,4week,elderly,28124.2,female,PL,,,,,,2016,primary,1.0,7.871
+SAMN13292897,PRJNA589866,710-001,72h,elderly,28124.2,female,PL,,,,,,2016,primary,1.0,4.366
+SAMN13292898,PRJNA589866,710-001,Screening,elderly,28124.2,female,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,7.624
+SAMN13292747,PRJNA589866,712-001,4week,elderly,28124.2,male,PL,,,,,,2016,primary,1.0,6.757
+SAMN13292752,PRJNA589866,712-001,72h,elderly,28124.2,male,PL,,,,,,2016,primary,1.0,8.809
+SAMN13292751,PRJNA589866,712-001,Screening,elderly,28124.2,male,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.597
+SAMN13292748,PRJNA589866,712-002,4week,elderly,25932.8,male,PL,,,,,,2016,primary,1.0,6.24
+SAMN13292750,PRJNA589866,712-002,72h,elderly,25932.8,male,PL,,,,,,2016,primary,1.0,7.878
+SAMN13292749,PRJNA589866,712-002,Screening,elderly,25932.8,male,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.351
+SAMN13292798,PRJNA589866,719-001,4week,adult,23376.0,female,PL,,,,,,2016,primary,1.0,8.689
+SAMN13292788,PRJNA589866,719-001,72h,adult,23376.0,female,PL,,,,,,2016,primary,1.0,7.987
+SAMN13292868,PRJNA589866,719-001,Screening,adult,23376.0,female,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.272
+SAMN13292860,PRJNA589866,720-004,4week,elderly,28124.2,female,PL,,,,,,2016,primary,1.0,7.812
+SAMN13292790,PRJNA589866,720-004,72h,elderly,28124.2,female,PL,,,,,,2016,primary,1.0,9.126
+SAMN13292789,PRJNA589866,720-004,Screening,elderly,28124.2,female,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.722
+SAMN13292799,PRJNA589866,722-001,4week,adult,23376.0,female,PL,,,,,,2016,primary,1.0,5.927
+SAMN13292793,PRJNA589866,722-001,72h,adult,23376.0,female,PL,,,,,,2016,primary,1.0,6.149
+SAMN13292791,PRJNA589866,722-001,Screening,adult,23376.0,female,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.872
+SAMN13292792,PRJNA589866,722-002,4week,adult,18262.5,male,PL,,,,,,2016,primary,1.0,2.386
+SAMN13292800,PRJNA589866,722-002,Screening,adult,18262.5,male,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,6.868
+SAMN13292886,PRJNA589866,723-001,4week,elderly,29580.0,male,PL,,,,,,2016,primary,1.0,7.863
+SAMN13292801,PRJNA589866,723-001,72h,elderly,29580.0,male,PL,,,,,,2016,primary,1.0,6.454
+SAMN13292802,PRJNA589866,723-001,Screening,elderly,29580.0,male,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.859
+SAMN13292994,PRJNA589866,723-004,4week,adult,22980.8,male,PL,,,,,,2016,primary,1.0,7.373
+SAMN13292909,PRJNA589866,723-004,Screening,adult,22980.8,male,PL,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,4.44
+SAMN13292716,PRJNA589866,803-002,4week,elderly,28854.8,male,US,,,,,,2016,primary,1.0,8.557
+SAMN13292715,PRJNA589866,803-002,72h,elderly,28854.8,male,US,,,,,,2016,primary,1.0,5.799
+SAMN13292712,PRJNA589866,803-002,Screening,elderly,24837.0,male,US,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,5.938
+SAMN13292713,PRJNA589866,803-003,4week,elderly,28854.8,male,US,,,,,,2016,primary,1.0,8.345
+SAMN13292714,PRJNA589866,803-003,72h,elderly,24837.0,male,US,,,,,,2016,primary,1.0,7.858
+SAMN13292717,PRJNA589866,803-003,Screening,elderly,24837.0,male,US,,,no_intervention,pre-treatment screening visit,,2016,primary,1.0,8.474

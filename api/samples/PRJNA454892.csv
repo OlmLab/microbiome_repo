@@ -1,0 +1,84 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN09060829,PRJNA454892,Pt0003,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2012-12-07,primary,1.0,0.017
+SAMN09060853,PRJNA454892,Pt0003,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-01-08,primary,1.0,0.011
+SAMN09060865,PRJNA454892,Pt0003,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2013-02-12,primary,1.0,0.044
+SAMN09060830,PRJNA454892,Pt0004,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-02-04,primary,1.0,0.016
+SAMN09060854,PRJNA454892,Pt0004,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-03-19,primary,1.0,0.016
+SAMN09060866,PRJNA454892,Pt0004,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2013-05-28,primary,1.0,0.041
+SAMN09060831,PRJNA454892,Pt0008,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-01-15,primary,1.0,0.013
+SAMN09060855,PRJNA454892,Pt0008,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-02-05,primary,1.0,0.069
+SAMN09060867,PRJNA454892,Pt0008,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2013-02-19,primary,1.0,0.068
+SAMN09060832,PRJNA454892,Pt0013,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-02-05,primary,1.0,0.008
+SAMN09060856,PRJNA454892,Pt0013,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-02-19,primary,1.0,0.018
+SAMN09060868,PRJNA454892,Pt0013,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2013-04-02,primary,1.0,0.024
+SAMN09060873,PRJNA454892,Pt0014,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-02-11,primary,1.0,0.06
+SAMN09060887,PRJNA454892,Pt0014,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2013-02-15,primary,1.0,0.04
+SAMN09060833,PRJNA454892,Pt0019,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-03-18,primary,1.0,0.027
+SAMN09060857,PRJNA454892,Pt0019,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-04-02,primary,1.0,0.028
+SAMN09060869,PRJNA454892,Pt0019,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2013-04-16,primary,1.0,0.019
+SAMN09060834,PRJNA454892,Pt0025,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-04-11,primary,1.0,0.04
+SAMN09060858,PRJNA454892,Pt0025,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-04-15,primary,1.0,0.011
+SAMN09060901,PRJNA454892,Pt0046,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-02-26,primary,1.0,0.045
+SAMN09060908,PRJNA454892,Pt0046,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 2",,2014-05-20,primary,1.0,0.017
+SAMN09060835,PRJNA454892,Pt0052,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-08-21,primary,1.0,0.058
+SAMN09060859,PRJNA454892,Pt0052,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2013-09-23,primary,1.0,0.07
+SAMN09060874,PRJNA454892,Pt0069,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-11-08,primary,1.0,0.082
+SAMN09060888,PRJNA454892,Pt0069,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2013-11-23,primary,1.0,0.047
+SAMN09060902,PRJNA454892,Pt0069,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-05-16,primary,1.0,0.012
+SAMN09060909,PRJNA454892,Pt0069,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 2",,2014-05-15,primary,1.0,0.006
+SAMN09060875,PRJNA454892,Pt0082,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2013-12-06,primary,1.0,0.021
+SAMN09060889,PRJNA454892,Pt0082,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2014-01-07,primary,1.0,0.025
+SAMN09060903,PRJNA454892,Pt0082,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-01-22,primary,1.0,0.088
+SAMN09060910,PRJNA454892,Pt0082,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 2",,2014-04-19,primary,1.0,0.076
+SAMN09060876,PRJNA454892,Pt0102,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-03-13,primary,1.0,0.021
+SAMN09060890,PRJNA454892,Pt0102,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2014-04-03,primary,1.0,0.016
+SAMN09060904,PRJNA454892,Pt0102,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-09-05,primary,1.0,0.038
+SAMN09060877,PRJNA454892,Pt0118,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-05-20,primary,1.0,0.009
+SAMN09060891,PRJNA454892,Pt0118,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2014-01-16,primary,1.0,0.024
+SAMN09060905,PRJNA454892,Pt0118,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-06-24,primary,1.0,0.026
+SAMN09060911,PRJNA454892,Pt0118,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 2",,2014-07-15,primary,1.0,0.053
+SAMN09060878,PRJNA454892,Pt0122,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-06-13,primary,1.0,0.015
+SAMN09060892,PRJNA454892,Pt0122,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2014-06-25,primary,1.0,0.035
+SAMN09060906,PRJNA454892,Pt0122,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-07-10,primary,1.0,0.002
+SAMN09060836,PRJNA454892,Pt0123,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-01-04,primary,1.0,0.025
+SAMN09060860,PRJNA454892,Pt0123,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2014-01-13,primary,1.0,0.029
+SAMN09060837,PRJNA454892,Pt0135,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-07-15,primary,1.0,0.005
+SAMN09060861,PRJNA454892,Pt0135,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2014-07-30,primary,1.0,0.005
+SAMN09060870,PRJNA454892,Pt0135,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2014-08-20,primary,1.0,0.023
+SAMN09060838,PRJNA454892,Pt0141,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-07-25,primary,1.0,0.038
+SAMN09060862,PRJNA454892,Pt0141,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2014-08-13,primary,1.0,0.037
+SAMN09060871,PRJNA454892,Pt0141,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2014-09-09,primary,1.0,0.031
+SAMN09060839,PRJNA454892,Pt0145,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-08-05,primary,1.0,0.058
+SAMN09060863,PRJNA454892,Pt0145,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2014-08-18,primary,1.0,0.033
+SAMN09060840,PRJNA454892,Pt0146,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-07-28,primary,1.0,0.036
+SAMN09060864,PRJNA454892,Pt0146,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 1",,2014-08-06,primary,1.0,0.011
+SAMN09060872,PRJNA454892,Pt0146,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after FMT, timepoint 2",,2014-08-26,primary,1.0,0.026
+SAMN09060879,PRJNA454892,Pt0153,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,baseline sample before FMT,,2014-08-29,primary,1.0,0.012
+SAMN09060893,PRJNA454892,Pt0153,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,after first FMT,,2014-09-05,primary,1.0,0.022
+SAMN09060907,PRJNA454892,Pt0153,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,fmt,"after second FMT, sample 1",,2014-10-06,primary,1.0,0.009
+SAMN09060847,PRJNA454892,to Pt0003,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2012-12-12,primary,1.0,0.021
+SAMN09060841,PRJNA454892,to Pt0004,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-02-19,primary,1.0,0.056
+SAMN09060848,PRJNA454892,to Pt0008,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-01-17,primary,1.0,0.023
+SAMN09060850,PRJNA454892,to Pt0013,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-02-05,primary,1.0,0.014
+SAMN09060880,PRJNA454892,to Pt0014,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-02-07,primary,1.0,0.052
+SAMN09060851,PRJNA454892,to Pt0019,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-03-18,primary,1.0,0.031
+SAMN09060843,PRJNA454892,to Pt0025,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-05-09,primary,1.0,0.03
+SAMN09060894,PRJNA454892,to Pt0046,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-11-22,primary,1.0,0.08
+SAMN09060849,PRJNA454892,to Pt0052,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-07-30,primary,1.0,0.014
+SAMN09060881,PRJNA454892,to Pt0069,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-09-18,primary,1.0,0.064
+SAMN09060895,PRJNA454892,to Pt0069,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-05-16,primary,1.0,0.029
+SAMN09060882,PRJNA454892,to Pt0082,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2013-02-07,primary,1.0,0.046
+SAMN09060896,PRJNA454892,to Pt0082,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-01-08,primary,1.0,0.044
+SAMN09060883,PRJNA454892,to Pt0102,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-03-14,primary,1.0,0.007
+SAMN09060897,PRJNA454892,to Pt0102,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-07-17,primary,1.0,0.064
+SAMN09060884,PRJNA454892,to Pt0118,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-05-16,primary,1.0,0.007
+SAMN09060898,PRJNA454892,to Pt0118,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-01-10,primary,1.0,0.023
+SAMN09060885,PRJNA454892,to Pt0122,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-05-16,primary,1.0,0.023
+SAMN09060899,PRJNA454892,to Pt0122,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-07-03,primary,1.0,0.048
+SAMN09060852,PRJNA454892,to Pt0123,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-05-23,primary,1.0,0.022
+SAMN09060842,PRJNA454892,to Pt0135,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-01-16,primary,1.0,0.018
+SAMN09060844,PRJNA454892,to Pt0141,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-07-18,primary,1.0,0.058
+SAMN09060845,PRJNA454892,to Pt0145,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-07-03,primary,1.0,0.01
+SAMN09060846,PRJNA454892,to Pt0146,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-07-04,primary,1.0,0.02
+SAMN09060886,PRJNA454892,to Pt0153,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-01-12,primary,1.0,0.027
+SAMN09060900,PRJNA454892,to Pt0153,,,,,CA,gi_infection_or_diarrhoea,relapsing Clostridium difficile infection,no_intervention,FMT donor stool sample,,2014-09-11,primary,1.0,0.03

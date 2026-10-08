@@ -1,0 +1,651 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN25042866,PRJNA797994,,,adult,15705.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.593
+SAMN25042867,PRJNA797994,,,adult,15705.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.619
+SAMN25042868,PRJNA797994,,,adult,15705.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.384
+SAMN25042869,PRJNA797994,,,child,2922.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.792
+SAMN25042870,PRJNA797994,,,child,2922.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.647
+SAMN25042871,PRJNA797994,,,child,2922.0,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.489
+SAMN25042872,PRJNA797994,,,child,1461.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.586
+SAMN25042873,PRJNA797994,,,child,1461.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.017
+SAMN25042874,PRJNA797994,,,child,1461.0,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.224
+SAMN25042875,PRJNA797994,,,child,2556.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,4.551
+SAMN25042876,PRJNA797994,,,adult,21184.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.492
+SAMN25042877,PRJNA797994,,,adult,13149.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.427
+SAMN25042878,PRJNA797994,,,adult,6939.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.051
+SAMN25042879,PRJNA797994,,,adult,10227.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.704
+SAMN25042880,PRJNA797994,,,adult,13879.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.949
+SAMN25042881,PRJNA797994,,,adult,20088.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.172
+SAMN25042882,PRJNA797994,,,adult,20088.75,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.217
+SAMN25042883,PRJNA797994,,,adult,20088.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.644
+SAMN25042884,PRJNA797994,,,adult,9861.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.553
+SAMN25042885,PRJNA797994,,,adult,11322.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.866
+SAMN25042886,PRJNA797994,,,child,3652.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.936
+SAMN25042887,PRJNA797994,,,adult,20454.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.921
+SAMN25042888,PRJNA797994,,,adult,19723.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.962
+SAMN25042889,PRJNA797994,,,adult,12053.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.017
+SAMN25042890,PRJNA797994,,,adult,12053.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.824
+SAMN25042891,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.558
+SAMN25042892,PRJNA797994,,,adult,17532.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.762
+SAMN25042893,PRJNA797994,,,adult,17532.0,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.595
+SAMN25042894,PRJNA797994,,,adult,17532.0,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.557
+SAMN25042895,PRJNA797994,,,adult,8766.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.48
+SAMN25042896,PRJNA797994,,,adult,8766.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.865
+SAMN25042897,PRJNA797994,,,adult,8766.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.652
+SAMN25042898,PRJNA797994,,,child,3287.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.011
+SAMN25042899,PRJNA797994,,,child,3287.25,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.744
+SAMN25042900,PRJNA797994,,,child,3652.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.862
+SAMN25042901,PRJNA797994,,,adult,17532.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.219
+SAMN25042902,PRJNA797994,,,adult,17532.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.869
+SAMN25042903,PRJNA797994,,,adult,13879.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.805
+SAMN25042904,PRJNA797994,,,adult,13879.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.983
+SAMN25042905,PRJNA797994,,,adult,9861.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.234
+SAMN25042906,PRJNA797994,,,child,1461.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.787
+SAMN25042907,PRJNA797994,,,adult,9131.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.253
+SAMN25042908,PRJNA797994,,,child,3652.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.03
+SAMN25042909,PRJNA797994,,,adult,17532.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.81
+SAMN25042910,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.435
+SAMN25042911,PRJNA797994,,,adult,20454.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.554
+SAMN25042912,PRJNA797994,,,adult,20454.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.843
+SAMN25042913,PRJNA797994,,,adult,18262.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.669
+SAMN25042914,PRJNA797994,,,adult,7670.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.768
+SAMN25042915,PRJNA797994,,,adult,7670.25,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.691
+SAMN25042916,PRJNA797994,,,adult,6574.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.137
+SAMN25042917,PRJNA797994,,,adult,6574.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.611
+SAMN25042918,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.196
+SAMN25042919,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.009
+SAMN25042920,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.504
+SAMN25042921,PRJNA797994,,,adolescent,6209.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.117
+SAMN25042922,PRJNA797994,,,adolescent,6209.25,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.143
+SAMN25042923,PRJNA797994,,,adolescent,6209.25,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.374
+SAMN25042924,PRJNA797994,,,adult,18993.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.877
+SAMN25042925,PRJNA797994,,,adult,17166.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.412
+SAMN25042926,PRJNA797994,,,adult,9131.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.556
+SAMN25042927,PRJNA797994,,,child,3652.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.31
+SAMN25042928,PRJNA797994,,,adult,21184.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.492
+SAMN25042929,PRJNA797994,,,adult,9861.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.225
+SAMN25042930,PRJNA797994,,,adult,20088.75,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.16
+SAMN25042931,PRJNA797994,,,adolescent,4748.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.393
+SAMN25042932,PRJNA797994,,,adult,13514.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.301
+SAMN25042933,PRJNA797994,,,adult,12783.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.125
+SAMN25042934,PRJNA797994,,,adult,20088.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.115
+SAMN25042935,PRJNA797994,,,adult,20088.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.814
+SAMN25042936,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.656
+SAMN25042937,PRJNA797994,,,child,2556.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.79
+SAMN25042938,PRJNA797994,,,adult,23010.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.788
+SAMN25042939,PRJNA797994,,,adult,23010.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.368
+SAMN25042940,PRJNA797994,,,adult,23010.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.639
+SAMN25042941,PRJNA797994,,,adult,9861.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.3
+SAMN25042942,PRJNA797994,,,adult,9861.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.656
+SAMN25042943,PRJNA797994,,,adult,9861.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.103
+SAMN25042944,PRJNA797994,,,adult,14975.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.082
+SAMN25042945,PRJNA797994,,,adult,14975.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.35
+SAMN25042946,PRJNA797994,,,adult,14975.25,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.858
+SAMN25042947,PRJNA797994,,,adult,14975.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.43
+SAMN25042948,PRJNA797994,,,adult,14975.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.926
+SAMN25042949,PRJNA797994,,,adult,14975.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.213
+SAMN25042950,PRJNA797994,,,child,2922.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.374
+SAMN25042951,PRJNA797994,,,child,2922.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.733
+SAMN25042952,PRJNA797994,,,child,2922.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.523
+SAMN25042953,PRJNA797994,,,child,1826.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,4.291
+SAMN25042954,PRJNA797994,,,child,1826.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.589
+SAMN25042955,PRJNA797994,,,child,1826.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.857
+SAMN25042956,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.965
+SAMN25042957,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.989
+SAMN25042958,PRJNA797994,,,adult,18993.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,4.118
+SAMN25042959,PRJNA797994,,,adult,13514.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.403
+SAMN25042960,PRJNA797994,,,child,2556.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.587
+SAMN25042961,PRJNA797994,,,child,1826.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.438
+SAMN25042962,PRJNA797994,,,child,1826.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,4.259
+SAMN25042963,PRJNA797994,,,child,1826.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.274
+SAMN25042964,PRJNA797994,,,adult,7670.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.697
+SAMN25042965,PRJNA797994,,,adult,7670.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.699
+SAMN25042966,PRJNA797994,,,adult,7670.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.874
+SAMN25042967,PRJNA797994,,,adult,8400.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.954
+SAMN25042968,PRJNA797994,,,adult,8400.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.574
+SAMN25042969,PRJNA797994,,,adult,8400.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.365
+SAMN25042970,PRJNA797994,,,adult,12053.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.612
+SAMN25042971,PRJNA797994,,,adult,12053.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.768
+SAMN25042972,PRJNA797994,,,adult,12053.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.952
+SAMN25042973,PRJNA797994,,,adult,13879.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.282
+SAMN25042974,PRJNA797994,,,adult,13879.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.61
+SAMN25042975,PRJNA797994,,,adult,13879.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.75
+SAMN25042976,PRJNA797994,,,adult,12783.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.615
+SAMN25042977,PRJNA797994,,,adult,12783.75,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.833
+SAMN25042978,PRJNA797994,,,adult,12783.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.543
+SAMN25042979,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.399
+SAMN25042980,PRJNA797994,,,child,1826.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.937
+SAMN25042981,PRJNA797994,,,child,1826.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,4.223
+SAMN25042982,PRJNA797994,,,child,2191.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,4.208
+SAMN25042983,PRJNA797994,,,child,2191.5,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.906
+SAMN25042984,PRJNA797994,,,child,2191.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.72
+SAMN25042985,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.475
+SAMN25042986,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.557
+SAMN25042987,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.096
+SAMN25042988,PRJNA797994,,,adult,7670.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.265
+SAMN25042989,PRJNA797994,,,adult,7670.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.912
+SAMN25042990,PRJNA797994,,,adult,7670.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.236
+SAMN25042991,PRJNA797994,,,child,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.629
+SAMN25042992,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.87
+SAMN25042993,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.744
+SAMN25042994,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.206
+SAMN25042995,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.479
+SAMN25042996,PRJNA797994,,,adolescent,4383.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.437
+SAMN25042997,PRJNA797994,,,adolescent,4383.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.992
+SAMN25042998,PRJNA797994,,,elderly,24106.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.109
+SAMN25042999,PRJNA797994,,,elderly,24106.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.002
+SAMN25043000,PRJNA797994,,,elderly,24106.5,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.805
+SAMN25043001,PRJNA797994,,,adult,21915.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.921
+SAMN25043002,PRJNA797994,,,adult,13514.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.611
+SAMN25043003,PRJNA797994,,,adult,13514.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.191
+SAMN25043004,PRJNA797994,,,adult,13514.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.806
+SAMN25043005,PRJNA797994,,,adult,12783.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.749
+SAMN25043006,PRJNA797994,,,adult,12783.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.745
+SAMN25043007,PRJNA797994,,,adult,12783.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.485
+SAMN25043008,PRJNA797994,,,adult,13149.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.767
+SAMN25043009,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.159
+SAMN25043010,PRJNA797994,,,adult,11688.0,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.342
+SAMN25043011,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.21
+SAMN25043012,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.212
+SAMN25043013,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.98
+SAMN25043014,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,4.046
+SAMN25043015,PRJNA797994,,,elderly,24106.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.413
+SAMN25043016,PRJNA797994,,,elderly,24106.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.981
+SAMN25043017,PRJNA797994,,,elderly,24106.5,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.887
+SAMN25043018,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.315
+SAMN25043019,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.358
+SAMN25043020,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.699
+SAMN25043021,PRJNA797994,,,adult,9861.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,4.536
+SAMN25043022,PRJNA797994,,,adult,9861.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.295
+SAMN25043023,PRJNA797994,,,adult,9861.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.862
+SAMN25043024,PRJNA797994,,,child,1461.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.392
+SAMN25043025,PRJNA797994,,,child,1461.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.317
+SAMN25043026,PRJNA797994,,,child,1461.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.778
+SAMN25043027,PRJNA797994,,,child,3287.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.689
+SAMN25043028,PRJNA797994,,,child,3287.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.412
+SAMN25043029,PRJNA797994,,,child,3287.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.778
+SAMN25043030,PRJNA797994,,,child,2191.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.328
+SAMN25043031,PRJNA797994,,,child,2191.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.153
+SAMN25043032,PRJNA797994,,,child,2191.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.621
+SAMN25043033,PRJNA797994,,,adult,16071.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.335
+SAMN25043034,PRJNA797994,,,adult,21184.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.228
+SAMN25043035,PRJNA797994,,,adult,21184.5,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.335
+SAMN25043036,PRJNA797994,,,adult,21184.5,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.001
+SAMN25043037,PRJNA797994,,,adult,10957.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.698
+SAMN25043038,PRJNA797994,,,adult,10957.5,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.878
+SAMN25043039,PRJNA797994,,,adult,10957.5,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.807
+SAMN25043040,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.93
+SAMN25043041,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.98
+SAMN25043042,PRJNA797994,,,child,2556.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.751
+SAMN25043043,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.017
+SAMN25043044,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.562
+SAMN25043045,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.033
+SAMN25043046,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.698
+SAMN25043047,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.304
+SAMN25043048,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.233
+SAMN25043049,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.618
+SAMN25043050,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.014
+SAMN25043051,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.037
+SAMN25043052,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.164
+SAMN25043053,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.469
+SAMN25043054,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.434
+SAMN25043055,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.497
+SAMN25043056,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.956
+SAMN25043057,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.513
+SAMN25043058,PRJNA797994,,,adult,12053.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.879
+SAMN25043059,PRJNA797994,,,adult,12053.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.168
+SAMN25043060,PRJNA797994,,,adult,12053.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.578
+SAMN25043061,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.077
+SAMN25043062,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.004
+SAMN25043063,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.012
+SAMN25043064,PRJNA797994,,,child,1826.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.403
+SAMN25043065,PRJNA797994,,,child,1826.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.167
+SAMN25043066,PRJNA797994,,,adult,18627.75,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.405
+SAMN25043067,PRJNA797994,,,adult,18627.75,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.53
+SAMN25043068,PRJNA797994,,,adult,18627.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.157
+SAMN25043069,PRJNA797994,,,adult,23010.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.369
+SAMN25043070,PRJNA797994,,,adult,23010.75,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.586
+SAMN25043071,PRJNA797994,,,adult,23010.75,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.762
+SAMN25043072,PRJNA797994,,,adult,9861.75,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.102
+SAMN25043073,PRJNA797994,,,adult,9861.75,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.15
+SAMN25043074,PRJNA797994,,,adult,9861.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.152
+SAMN25043075,PRJNA797994,,,adult,12783.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.42
+SAMN25043076,PRJNA797994,,,adult,12783.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.075
+SAMN25043077,PRJNA797994,,,adult,12783.75,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.414
+SAMN25043078,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.55
+SAMN25043079,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.387
+SAMN25043080,PRJNA797994,,,child,4017.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.056
+SAMN25043081,PRJNA797994,,,child,4017.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.246
+SAMN25043082,PRJNA797994,,,child,,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,5.366
+SAMN25043083,PRJNA797994,,,child,,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.623
+SAMN25043084,PRJNA797994,,,child,,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.792
+SAMN25043085,PRJNA797994,,,adult,7305.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.655
+SAMN25043086,PRJNA797994,,,adult,7305.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.882
+SAMN25043087,PRJNA797994,,,adult,7305.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.627
+SAMN25043088,PRJNA797994,,,adult,10227.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.901
+SAMN25043089,PRJNA797994,,,adult,10227.0,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.63
+SAMN25043090,PRJNA797994,,,adult,10227.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.644
+SAMN25043091,PRJNA797994,,,adult,7305.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.229
+SAMN25043092,PRJNA797994,,,adult,7305.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.453
+SAMN25043093,PRJNA797994,,,adult,7305.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.84
+SAMN25043094,PRJNA797994,,,adult,17532.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.37
+SAMN25043095,PRJNA797994,,,adult,17532.0,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.838
+SAMN25043096,PRJNA797994,,,adult,17532.0,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.722
+SAMN25043097,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.642
+SAMN25043098,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.031
+SAMN25043099,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.433
+SAMN25043100,PRJNA797994,,,adult,9496.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.479
+SAMN25043101,PRJNA797994,,,adult,9496.5,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.739
+SAMN25043102,PRJNA797994,,,adult,9496.5,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.671
+SAMN25043103,PRJNA797994,,,adult,13149.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.96
+SAMN25043104,PRJNA797994,,,adult,13149.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.789
+SAMN25043105,PRJNA797994,,,adult,13149.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.104
+SAMN25043106,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.079
+SAMN25043107,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.824
+SAMN25043108,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.942
+SAMN25043109,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.978
+SAMN25043110,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.012
+SAMN25043111,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.33
+SAMN25043112,PRJNA797994,,,elderly,24471.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.277
+SAMN25043113,PRJNA797994,,,elderly,24471.75,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.748
+SAMN25043114,PRJNA797994,,,elderly,24471.75,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.946
+SAMN25043115,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.54
+SAMN25043116,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.228
+SAMN25043117,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.423
+SAMN25043118,PRJNA797994,,,child,1826.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.535
+SAMN25043119,PRJNA797994,,,child,1826.25,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.166
+SAMN25043120,PRJNA797994,,,child,1826.25,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.575
+SAMN25043121,PRJNA797994,,,adult,12418.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.308
+SAMN25043122,PRJNA797994,,,adult,7305.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.005
+SAMN25043123,PRJNA797994,,,adult,21184.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.662
+SAMN25043124,PRJNA797994,,,adult,21184.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.64
+SAMN25043125,PRJNA797994,,,adult,21184.5,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.323
+SAMN25043126,PRJNA797994,,,adult,16436.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.973
+SAMN25043127,PRJNA797994,,,adult,16436.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.805
+SAMN25043128,PRJNA797994,,,adult,16436.25,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.404
+SAMN25043129,PRJNA797994,,,adult,7305.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.633
+SAMN25043130,PRJNA797994,,,adult,6939.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.556
+SAMN25043131,PRJNA797994,,,adolescent,5478.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.387
+SAMN25043132,PRJNA797994,,,adolescent,5478.75,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.468
+SAMN25043133,PRJNA797994,,,adolescent,5478.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.498
+SAMN25043134,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.522
+SAMN25043135,PRJNA797994,,,adolescent,4383.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.683
+SAMN25043136,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.79
+SAMN25043137,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.745
+SAMN25043138,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.353
+SAMN25043139,PRJNA797994,,,child,2922.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.392
+SAMN25043140,PRJNA797994,,,adult,14610.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.953
+SAMN25043141,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.69
+SAMN25043142,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.008
+SAMN25043143,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.045
+SAMN25043144,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.682
+SAMN25043145,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.615
+SAMN25043146,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.305
+SAMN25043147,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.11
+SAMN25043148,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.018
+SAMN25043149,PRJNA797994,,,adolescent,5844.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.481
+SAMN25043150,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,4.491
+SAMN25043151,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.971
+SAMN25043152,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.094
+SAMN25043153,PRJNA797994,,,adult,17166.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.016
+SAMN25043154,PRJNA797994,,,adult,16436.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.817
+SAMN25043155,PRJNA797994,,,adult,14610.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.735
+SAMN25043156,PRJNA797994,,,adult,14610.0,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.711
+SAMN25043157,PRJNA797994,,,adult,14610.0,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.584
+SAMN25043158,PRJNA797994,,,adult,16071.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.17
+SAMN25043159,PRJNA797994,,,adult,14244.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.072
+SAMN25043160,PRJNA797994,,,child,3652.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.531
+SAMN25043161,PRJNA797994,,,adult,16071.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.601
+SAMN25043162,PRJNA797994,,,adult,16071.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.935
+SAMN25043163,PRJNA797994,,,adolescent,5844.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.577
+SAMN25043164,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.579
+SAMN25043165,PRJNA797994,,,adult,12418.5,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.789
+SAMN25043166,PRJNA797994,,,adult,12418.5,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.694
+SAMN25043167,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.333
+SAMN25043168,PRJNA797994,,,child,1461.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.786
+SAMN25043169,PRJNA797994,,,adult,8766.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.645
+SAMN25043170,PRJNA797994,,,adult,8766.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.83
+SAMN25043171,PRJNA797994,,,adult,8766.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.66
+SAMN25043172,PRJNA797994,,,child,2191.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.842
+SAMN25043173,PRJNA797994,,,child,2191.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.559
+SAMN25043174,PRJNA797994,,,child,2191.5,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,4.39
+SAMN25043175,PRJNA797994,,,adult,,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.516
+SAMN25043176,PRJNA797994,,,elderly,24471.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.52
+SAMN25043177,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.738
+SAMN25043178,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.926
+SAMN25043179,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.383
+SAMN25043180,PRJNA797994,,,child,1461.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.126
+SAMN25043181,PRJNA797994,,,child,1461.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.729
+SAMN25043182,PRJNA797994,,,child,1461.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.38
+SAMN25043183,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.051
+SAMN25043184,PRJNA797994,,,adolescent,4383.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.831
+SAMN25043185,PRJNA797994,,,adolescent,4383.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.013
+SAMN25043186,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.716
+SAMN25043187,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.034
+SAMN25043188,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.932
+SAMN25043189,PRJNA797994,,,adolescent,5478.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.685
+SAMN25043190,PRJNA797994,,,adolescent,5478.75,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.345
+SAMN25043191,PRJNA797994,,,adolescent,5478.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.796
+SAMN25043192,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.993
+SAMN25043193,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,4.15
+SAMN25043194,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.301
+SAMN25043195,PRJNA797994,,,adult,13879.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,4.082
+SAMN25043196,PRJNA797994,,,adult,13879.5,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.179
+SAMN25043197,PRJNA797994,,,adult,13879.5,female,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.298
+SAMN25043198,PRJNA797994,,,adult,13879.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.43
+SAMN25043199,PRJNA797994,,,adult,13879.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.588
+SAMN25043200,PRJNA797994,,,adult,13879.5,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.865
+SAMN25043201,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.227
+SAMN25043202,PRJNA797994,,,adult,14975.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.061
+SAMN25043203,PRJNA797994,,,adult,12418.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.763
+SAMN25043204,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.845
+SAMN25043205,PRJNA797994,,,adult,8400.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.247
+SAMN25043206,PRJNA797994,,,adult,9861.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.969
+SAMN25043207,PRJNA797994,,,adult,17532.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.226
+SAMN25043208,PRJNA797994,,,adult,17532.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.568
+SAMN25043209,PRJNA797994,,,adult,17532.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.435
+SAMN25043210,PRJNA797994,,,adult,20088.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.151
+SAMN25043211,PRJNA797994,,,adult,10957.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.174
+SAMN25043212,PRJNA797994,,,adult,15340.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.451
+SAMN25043213,PRJNA797994,,,adolescent,5844.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.503
+SAMN25043214,PRJNA797994,,,adult,7305.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.92
+SAMN25043215,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.924
+SAMN25043216,PRJNA797994,,,adult,21915.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.487
+SAMN25043217,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.006
+SAMN25043218,PRJNA797994,,,adult,19358.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.812
+SAMN25043219,PRJNA797994,,,adult,19358.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.512
+SAMN25043220,PRJNA797994,,,adult,19358.25,male,MY,other_infection,Helminthiasis,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.017
+SAMN25043221,PRJNA797994,,,adult,23741.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.832
+SAMN25043222,PRJNA797994,,,adult,16071.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.434
+SAMN25043223,PRJNA797994,,,adult,14610.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.839
+SAMN25043224,PRJNA797994,,,adult,14975.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.229
+SAMN25043225,PRJNA797994,,,adult,20819.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.348
+SAMN25043226,PRJNA797994,,,adult,20819.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.735
+SAMN25043227,PRJNA797994,,,adult,20819.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.383
+SAMN25043228,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.957
+SAMN25043229,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,4.258
+SAMN25043230,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.832
+SAMN25043231,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.088
+SAMN25043232,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.644
+SAMN25043233,PRJNA797994,,,child,2922.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.671
+SAMN25043234,PRJNA797994,,,adult,6574.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.886
+SAMN25043235,PRJNA797994,,,adult,20819.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.81
+SAMN25043236,PRJNA797994,,,adult,20819.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.196
+SAMN25043237,PRJNA797994,,,adult,20819.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.952
+SAMN25043238,PRJNA797994,,,adult,20454.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.07
+SAMN25043239,PRJNA797994,,,adult,20454.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.278
+SAMN25043240,PRJNA797994,,,adult,20454.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.508
+SAMN25043241,PRJNA797994,,,elderly,25932.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.248
+SAMN25043242,PRJNA797994,,,elderly,25932.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.541
+SAMN25043243,PRJNA797994,,,elderly,25932.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.138
+SAMN25043244,PRJNA797994,,,adult,18627.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.325
+SAMN25043245,PRJNA797994,,,adult,18627.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.164
+SAMN25043246,PRJNA797994,,,adult,18627.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.777
+SAMN25043247,PRJNA797994,,,adult,14244.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.431
+SAMN25043248,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.68
+SAMN25043249,PRJNA797994,,,adult,12418.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.459
+SAMN25043250,PRJNA797994,,,child,2191.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.774
+SAMN25043251,PRJNA797994,,,adult,19358.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.65
+SAMN25043252,PRJNA797994,,,adult,12783.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.994
+SAMN25043253,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.292
+SAMN25043254,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.131
+SAMN25043255,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.161
+SAMN25043256,PRJNA797994,,,adult,20454.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.466
+SAMN25043257,PRJNA797994,,,adult,20454.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.69
+SAMN25043258,PRJNA797994,,,adult,19358.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.563
+SAMN25043259,PRJNA797994,,,adult,19358.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.912
+SAMN25043260,PRJNA797994,,,adult,19358.25,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.159
+SAMN25043261,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.549
+SAMN25043262,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.498
+SAMN25043263,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.152
+SAMN25043264,PRJNA797994,,,adult,8035.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.97
+SAMN25043265,PRJNA797994,,,adult,6939.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.629
+SAMN25043266,PRJNA797994,,,adult,14975.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.563
+SAMN25043267,PRJNA797994,,,adult,17166.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.371
+SAMN25043268,PRJNA797994,,,adult,12053.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.582
+SAMN25043269,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.91
+SAMN25043270,PRJNA797994,,,adult,11322.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.875
+SAMN25043271,PRJNA797994,,,adult,11322.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.441
+SAMN25043272,PRJNA797994,,,adult,11322.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.415
+SAMN25043273,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.043
+SAMN25043274,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.018
+SAMN25043275,PRJNA797994,,,adult,10227.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.53
+SAMN25043276,PRJNA797994,,,adult,8766.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.615
+SAMN25043277,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.617
+SAMN25043278,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.466
+SAMN25043279,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.16
+SAMN25043280,PRJNA797994,,,adult,18627.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.969
+SAMN25043281,PRJNA797994,,,adult,18627.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.492
+SAMN25043282,PRJNA797994,,,adult,18627.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.903
+SAMN25043283,PRJNA797994,,,adult,8766.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.255
+SAMN25043284,PRJNA797994,,,child,2556.75,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.724
+SAMN25043285,PRJNA797994,,,child,3287.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.981
+SAMN25043286,PRJNA797994,,,adult,17166.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.46
+SAMN25043287,PRJNA797994,,,adult,17166.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.449
+SAMN25043288,PRJNA797994,,,adult,17166.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.747
+SAMN25043289,PRJNA797994,,,adolescent,5478.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.959
+SAMN25043290,PRJNA797994,,,adult,22645.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.865
+SAMN25043291,PRJNA797994,,,adult,23010.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.736
+SAMN25043292,PRJNA797994,,,adult,15340.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.289
+SAMN25043293,PRJNA797994,,,adult,14244.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.852
+SAMN25043294,PRJNA797994,,,child,3287.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.063
+SAMN25043295,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.69
+SAMN25043296,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.1
+SAMN25043297,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.925
+SAMN25043298,PRJNA797994,,,adult,23741.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.374
+SAMN25043299,PRJNA797994,,,adult,23741.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.855
+SAMN25043300,PRJNA797994,,,adult,10227.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,4.057
+SAMN25043301,PRJNA797994,,,adult,21915.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.553
+SAMN25043302,PRJNA797994,,,adult,21915.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.769
+SAMN25043303,PRJNA797994,,,adult,21915.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.683
+SAMN25043304,PRJNA797994,,,adult,21184.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.925
+SAMN25043305,PRJNA797994,,,adult,21184.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.545
+SAMN25043306,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.029
+SAMN25043307,PRJNA797994,,,child,2556.75,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.623
+SAMN25043308,PRJNA797994,,,adolescent,4383.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.431
+SAMN25043309,PRJNA797994,,,child,2922.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.195
+SAMN25043310,PRJNA797994,,,adult,13514.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.287
+SAMN25043311,PRJNA797994,,,adult,10592.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.201
+SAMN25043312,PRJNA797994,,,child,1826.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.428
+SAMN25043313,PRJNA797994,,,adult,10957.5,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.106
+SAMN25043314,PRJNA797994,,,adult,10957.5,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.848
+SAMN25043315,PRJNA797994,,,adult,10957.5,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.397
+SAMN25043316,PRJNA797994,,,adult,13514.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.298
+SAMN25043317,PRJNA797994,,,adult,10592.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.855
+SAMN25043318,PRJNA797994,,,child,3652.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.886
+SAMN25043319,PRJNA797994,,,adult,,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.332
+SAMN25043320,PRJNA797994,,,adult,,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.905
+SAMN25043321,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.791
+SAMN25043322,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.064
+SAMN25043323,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.126
+SAMN25043324,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.297
+SAMN25043325,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.853
+SAMN25043326,PRJNA797994,,,elderly,24471.75,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.109
+SAMN25043327,PRJNA797994,,,adult,13514.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.688
+SAMN25043328,PRJNA797994,,,adult,21915.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.491
+SAMN25043329,PRJNA797994,,,adult,21915.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.623
+SAMN25043330,PRJNA797994,,,adult,21915.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.332
+SAMN25043331,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.945
+SAMN25043332,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,3.77
+SAMN25043333,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,3.159
+SAMN25043334,PRJNA797994,,,adult,20088.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.103
+SAMN25043335,PRJNA797994,,,adult,18993.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.07
+SAMN25043336,PRJNA797994,,,adult,18993.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,4.167
+SAMN25043337,PRJNA797994,,,adult,18993.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.689
+SAMN25043338,PRJNA797994,,,adult,23376.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.875
+SAMN25043339,PRJNA797994,,,adult,18262.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.291
+SAMN25043340,PRJNA797994,,,child,2922.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.397
+SAMN25043341,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.087
+SAMN25043342,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.491
+SAMN25043343,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.128
+SAMN25043344,PRJNA797994,,,elderly,24106.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.361
+SAMN25043345,PRJNA797994,,,adult,17166.75,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.791
+SAMN25043346,PRJNA797994,,,adult,17166.75,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,2.532
+SAMN25043347,PRJNA797994,,,adult,17166.75,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,,,primary,1.0,2.671
+SAMN25043348,PRJNA797994,,,adult,16071.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.035
+SAMN25043349,PRJNA797994,,,adult,16071.0,female,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,no,,primary,1.0,3.425
+SAMN25043350,PRJNA797994,,,adult,16071.0,female,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,no,,primary,1.0,2.57
+SAMN25043351,PRJNA797994,,,adult,8766.0,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.947
+SAMN25043352,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.173
+SAMN25043353,PRJNA797994,,,adolescent,4383.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.127
+SAMN25043354,PRJNA797994,,,adolescent,4383.0,male,MY,healthy_control,Healthy,drug_therapy,second follow-up after anthelmintic deworming treatment,yes,,primary,1.0,3.257
+SAMN25043355,PRJNA797994,,,adult,18993.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.7
+SAMN25043356,PRJNA797994,,,adult,18993.0,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,,,primary,1.0,4.391
+SAMN25043357,PRJNA797994,,,adult,12783.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.26
+SAMN25043358,PRJNA797994,,,elderly,26663.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.888
+SAMN25043359,PRJNA797994,,,elderly,26663.25,male,MY,healthy_control,Healthy,drug_therapy,first follow-up after anthelmintic deworming treatment,yes,,primary,1.0,2.967
+SAMN25043360,PRJNA797994,,,adult,13149.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.618
+SAMN25043361,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.582
+SAMN25043362,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.299
+SAMN25043363,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.208
+SAMN25043364,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.02
+SAMN25043365,PRJNA797994,,,adult,10957.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.666
+SAMN25043366,PRJNA797994,,,child,3652.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.669
+SAMN25043367,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.222
+SAMN25043368,PRJNA797994,,,adult,15340.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.821
+SAMN25043369,PRJNA797994,,,adult,13879.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.455
+SAMN25043370,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.153
+SAMN25043371,PRJNA797994,,,adult,9131.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.709
+SAMN25043372,PRJNA797994,,,adult,7670.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.983
+SAMN25043373,PRJNA797994,,,child,1461.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.876
+SAMN25043374,PRJNA797994,,,adult,8035.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.889
+SAMN25043375,PRJNA797994,,,adult,13149.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.338
+SAMN25043376,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.905
+SAMN25043377,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.165
+SAMN25043378,PRJNA797994,,,adult,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.315
+SAMN25043379,PRJNA797994,,,adult,9861.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.046
+SAMN25043380,PRJNA797994,,,child,2922.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.855
+SAMN25043381,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.596
+SAMN25043382,PRJNA797994,,,child,2191.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.664
+SAMN25043383,PRJNA797994,,,adult,20088.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.64
+SAMN25043384,PRJNA797994,,,adult,18993.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.985
+SAMN25043385,PRJNA797994,,,adult,19723.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.879
+SAMN25043386,PRJNA797994,,,adult,8400.75,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.382
+SAMN25043387,PRJNA797994,,,adult,15340.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.485
+SAMN25043388,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.245
+SAMN25043389,PRJNA797994,,,adult,6574.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.507
+SAMN25043390,PRJNA797994,,,adolescent,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.988
+SAMN25043391,PRJNA797994,,,adolescent,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.164
+SAMN25043392,PRJNA797994,,,adult,16071.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,2.739
+SAMN25043393,PRJNA797994,,,adult,8766.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.275
+SAMN25043394,PRJNA797994,,,adult,6939.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.342
+SAMN25043395,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.906
+SAMN25043396,PRJNA797994,,,child,3652.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.795
+SAMN25043397,PRJNA797994,,,adult,11322.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.803
+SAMN25043398,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,1.969
+SAMN25043399,PRJNA797994,,,child,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.059
+SAMN25043400,PRJNA797994,,,adult,14610.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.827
+SAMN25043401,PRJNA797994,,,adult,14610.0,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.498
+SAMN25043402,PRJNA797994,,,adult,14244.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.016
+SAMN25043403,PRJNA797994,,,adolescent,5113.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.354
+SAMN25043404,PRJNA797994,,,adolescent,4383.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.855
+SAMN25043405,PRJNA797994,,,child,3287.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.524
+SAMN25043406,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.721
+SAMN25043407,PRJNA797994,,,adult,10227.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.698
+SAMN25043408,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.727
+SAMN25043409,PRJNA797994,,,child,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.409
+SAMN25043410,PRJNA797994,,,adult,22280.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.337
+SAMN25043411,PRJNA797994,,,adult,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.79
+SAMN25043412,PRJNA797994,,,adult,17532.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.794
+SAMN25043413,PRJNA797994,,,child,3652.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.522
+SAMN25043414,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.705
+SAMN25043415,PRJNA797994,,,adult,13149.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,2.616
+SAMN25043416,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.885
+SAMN25043417,PRJNA797994,,,adult,6574.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.861
+SAMN25043418,PRJNA797994,,,adult,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.619
+SAMN25043419,PRJNA797994,,,adult,7305.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.193
+SAMN25043420,PRJNA797994,,,adult,23376.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.613
+SAMN25043421,PRJNA797994,,,adult,7305.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.412
+SAMN25043422,PRJNA797994,,,adult,23376.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.141
+SAMN25043423,PRJNA797994,,,child,3652.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.97
+SAMN25043424,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.964
+SAMN25043425,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.636
+SAMN25043426,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.531
+SAMN25043427,PRJNA797994,,,child,3287.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.926
+SAMN25043428,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.037
+SAMN25043429,PRJNA797994,,,adult,10592.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.277
+SAMN25043430,PRJNA797994,,,child,4017.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.975
+SAMN25043431,PRJNA797994,,,child,2556.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.204
+SAMN25043432,PRJNA797994,,,adult,10227.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.11
+SAMN25043433,PRJNA797994,,,adult,,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.948
+SAMN25043434,PRJNA797994,,,adult,9131.25,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.944
+SAMN25043435,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.42
+SAMN25043436,PRJNA797994,,,child,2191.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.08
+SAMN25043437,PRJNA797994,,,adult,12053.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,3.554
+SAMN25043438,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.704
+SAMN25043439,PRJNA797994,,,child,2556.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,no,,primary,1.0,3.205
+SAMN25043440,PRJNA797994,,,child,4017.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.449
+SAMN25043441,PRJNA797994,,,child,3287.25,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.88
+SAMN25043442,PRJNA797994,,,child,3652.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.591
+SAMN25043443,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.04
+SAMN25043444,PRJNA797994,,,child,2556.75,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.189
+SAMN25043445,PRJNA797994,,,adult,13514.25,male,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,3.193
+SAMN25043446,PRJNA797994,,,adult,8766.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,yes,,primary,1.0,2.775
+SAMN25043447,PRJNA797994,,,adolescent,5844.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.576
+SAMN25043448,PRJNA797994,,,adult,8766.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.623
+SAMN25043449,PRJNA797994,,,child,,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.308
+SAMN25043450,PRJNA797994,,,adult,16436.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.474
+SAMN25043451,PRJNA797994,,,child,2922.0,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.077
+SAMN25043452,PRJNA797994,,,child,1826.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.652
+SAMN25043453,PRJNA797994,,,adolescent,4383.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.732
+SAMN25043454,PRJNA797994,,,adult,6574.5,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,2.775
+SAMN25043455,PRJNA797994,,,adolescent,5844.0,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,4.014
+SAMN25043456,PRJNA797994,,,adolescent,5478.75,male,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.27
+SAMN25043457,PRJNA797994,,,adult,16801.5,female,MY,healthy_control,Healthy,no_intervention,baseline before deworming treatment,,,primary,1.0,4.777
+SAMN25043458,PRJNA797994,,,child,3652.5,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.172
+SAMN25043459,PRJNA797994,,,adult,14975.25,female,MY,other_infection,Helminthiasis,no_intervention,baseline before deworming treatment,,,primary,1.0,3.646
+SAMN25043460,PRJNA797994,,,adult,7305.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.052
+SAMN25043461,PRJNA797994,,,adult,11322.75,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.763
+SAMN25043462,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,2.657
+SAMN25043463,PRJNA797994,,,adult,10592.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.042
+SAMN25043464,PRJNA797994,,,adult,11322.75,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.499
+SAMN25043465,PRJNA797994,,,adult,8400.75,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,3.598
+SAMN25043466,PRJNA797994,,,adult,8400.75,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,2.779
+SAMN25043467,PRJNA797994,,,adult,8400.75,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.275
+SAMN25043468,PRJNA797994,,,adult,8400.75,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,3.078
+SAMN25043469,PRJNA797994,,,adult,14610.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.797
+SAMN25043470,PRJNA797994,,,adult,7670.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,2.866
+SAMN25043471,PRJNA797994,,,adult,8766.0,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.855
+SAMN25043472,PRJNA797994,,,adult,8766.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.756
+SAMN25043473,PRJNA797994,,,adult,8766.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.695
+SAMN25043474,PRJNA797994,,,adult,21915.0,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.433
+SAMN25043475,PRJNA797994,,,adult,15340.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,2.844
+SAMN25043476,PRJNA797994,,,adult,9131.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.371
+SAMN25043477,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.211
+SAMN25043478,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.257
+SAMN25043479,PRJNA797994,,,adult,14610.0,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.088
+SAMN25043480,PRJNA797994,,,adult,8035.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.456
+SAMN25043481,PRJNA797994,,,adult,8035.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.364
+SAMN25043482,PRJNA797994,,,adult,7305.0,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.672
+SAMN25043483,PRJNA797994,,,adult,9131.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.354
+SAMN25043484,PRJNA797994,,,adult,11322.75,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.804
+SAMN25043485,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.114
+SAMN25043486,PRJNA797994,,,elderly,25567.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.911
+SAMN25043487,PRJNA797994,,,adult,19358.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.055
+SAMN25043488,PRJNA797994,,,adult,10592.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.936
+SAMN25043489,PRJNA797994,,,adult,10592.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.93
+SAMN25043490,PRJNA797994,,,adult,11322.75,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.2
+SAMN25043491,PRJNA797994,,,elderly,25202.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,5.094
+SAMN25043492,PRJNA797994,,,adult,14244.75,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.758
+SAMN25043493,PRJNA797994,,,child,3652.5,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.205
+SAMN25043494,PRJNA797994,,,child,2922.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.591
+SAMN25043495,PRJNA797994,,,adult,13514.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.109
+SAMN25043496,PRJNA797994,,,adult,19723.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,4.183
+SAMN25043497,PRJNA797994,,,adult,21184.5,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,4.775
+SAMN25043498,PRJNA797994,,,adult,12053.25,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.233
+SAMN25043499,PRJNA797994,,,adolescent,6209.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.893
+SAMN25043500,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.224
+SAMN25043501,PRJNA797994,,,child,1826.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.01
+SAMN25043502,PRJNA797994,,,adult,12418.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.206
+SAMN25043503,PRJNA797994,,,child,3652.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",yes,,primary,1.0,3.429
+SAMN25043504,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.19
+SAMN25043505,PRJNA797994,,,adult,11688.0,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.428
+SAMN25043506,PRJNA797994,,,adult,22645.5,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,4.393
+SAMN25043507,PRJNA797994,,,adult,11688.0,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,3.667
+SAMN25043508,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.941
+SAMN25043509,PRJNA797994,,,adult,16436.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",yes,,primary,1.0,2.958
+SAMN25043510,PRJNA797994,,,adult,20819.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.31
+SAMN25043511,PRJNA797994,,,adult,11688.0,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,2.777
+SAMN25043512,PRJNA797994,,,adult,13514.25,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.713
+SAMN25043513,PRJNA797994,,,adult,21549.75,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",no,,primary,1.0,3.773
+SAMN25043514,PRJNA797994,,,child,3652.5,male,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.278
+SAMN25043515,PRJNA797994,,,adult,20088.75,female,MY,healthy_control,Healthy,no_intervention,"urban citizen baseline, no treatment",,,primary,1.0,3.441

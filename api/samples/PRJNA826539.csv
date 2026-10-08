@@ -1,0 +1,31 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN27572016,PRJNA826539,,,adult,11688.0,female,FJ,other_infection,chlamydia,,,no,2018-03,unknown,1.0,0.532
+SAMN27572066,PRJNA826539,,,adult,11688.0,female,FJ,other_infection,chlamydia,,,no,2018-03,primary,1.0,13.104
+SAMN27572067,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-03,excluded,1.0,0.199
+SAMN27585010,PRJNA826539,,,adult,8035.5,female,FJ,other_infection,chlamydia,,,no,2018-03,unknown,1.0,1.647
+SAMN27585011,PRJNA826539,,,adult,8035.5,female,FJ,other_infection,chlamydia,,,no,2018-03,primary,1.0,8.092
+SAMN27585012,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-03,excluded,1.0,0.299
+SAMN27585013,PRJNA826539,,,adult,10592.2,female,FJ,other_infection,chlamydia,,,no,2018-03,unknown,1.0,6.341
+SAMN27585019,PRJNA826539,,,adult,10592.2,female,FJ,other_infection,chlamydia,,,no,2018-03,primary,1.0,9.239
+SAMN27585020,PRJNA826539,,,adult,10592.2,female,FJ,other_infection,chlamydia,,,no,2018-03,excluded,1.0,0.551
+SAMN27585021,PRJNA826539,,,adult,9131.2,female,FJ,other_infection,chlamydia,,,no,2018-05,unknown,1.0,1.107
+SAMN27585022,PRJNA826539,,,adult,9131.2,female,FJ,other_infection,chlamydia,,,no,2018-05,primary,1.0,9.034
+SAMN27585023,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-05,excluded,1.0,0.211
+SAMN27585024,PRJNA826539,,,adult,12418.5,female,FJ,other_infection,chlamydia,,,no,2018-04,unknown,1.0,1.165
+SAMN27585025,PRJNA826539,,,adult,12418.5,female,FJ,other_infection,chlamydia,,,no,2018-04,primary,1.0,4.051
+SAMN27585026,PRJNA826539,,,adult,12418.5,female,FJ,other_infection,chlamydia,,,no,2018-04,excluded,1.0,2.546
+SAMN27585064,PRJNA826539,,,adult,11688.0,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,unknown,1.0,1.662
+SAMN27585098,PRJNA826539,,,adult,11688.0,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,primary,1.0,6.653
+SAMN27585105,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,excluded,1.0,0.255
+SAMN27585142,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,unknown,1.0,0.22
+SAMN27589136,PRJNA826539,,,adult,7670.2,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,primary,1.0,5.245
+SAMN27589138,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,excluded,1.0,0.149
+SAMN27589139,PRJNA826539,,,adult,10592.2,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-04,unknown,1.0,0.577
+SAMN27589151,PRJNA826539,,,adult,10592.2,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-04,primary,1.0,11.613
+SAMN27589152,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-04,excluded,1.0,0.256
+SAMN27589153,PRJNA826539,,,adult,9131.2,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,unknown,1.0,1.071
+SAMN27589170,PRJNA826539,,,adult,9131.2,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,primary,1.0,7.785
+SAMN27589171,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-02,excluded,1.0,0.157
+SAMN27589172,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-06,unknown,1.0,0.201
+SAMN27589173,PRJNA826539,,,adult,12418.5,female,FJ,healthy_control,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-06,primary,1.0,6.359
+SAMN27589186,PRJNA826539,,,adult,,female,FJ,,"mixed_case_control: 10 women: 5 with C. trachomatis infection, 5 uninfected controls",,,no,2018-06,excluded,1.0,0.182

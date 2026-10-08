@@ -1,0 +1,75 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA122609479,PRJEB112905,101-1001,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2021,primary,1.0,7.029
+SAMEA122609480,PRJEB112905,101-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2021,primary,1.0,6.086
+SAMEA122609481,PRJEB112905,101-1002,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2021,primary,1.0,5.222
+SAMEA122609482,PRJEB112905,101-1002,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2021,primary,1.0,5.955
+SAMEA122609483,PRJEB112905,101-1003,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2021,primary,1.0,5.869
+SAMEA122609484,PRJEB112905,101-1003,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2021,primary,1.0,5.572
+SAMEA122609485,PRJEB112905,110-1002,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2022,primary,1.0,0.039
+SAMEA122609486,PRJEB112905,110-1002,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2022,primary,1.0,4.989
+SAMEA122609487,PRJEB112905,110-1003,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2022,primary,1.0,3.542
+SAMEA122609488,PRJEB112905,110-1003,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2022,primary,1.0,5.768
+SAMEA122609489,PRJEB112905,110-1004,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2023,primary,1.0,0.069
+SAMEA122609490,PRJEB112905,110-1004,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2023,primary,1.0,7.917
+SAMEA122609491,PRJEB112905,110-1005,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2023,primary,1.0,6.795
+SAMEA122609492,PRJEB112905,110-1005,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2023,primary,1.0,6.034
+SAMEA122609493,PRJEB112905,114-1002,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2021,primary,1.0,5.389
+SAMEA122609494,PRJEB112905,114-1002,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2021,primary,1.0,7.122
+SAMEA122609495,PRJEB112905,114-1004,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2022,primary,1.0,2.073
+SAMEA122609496,PRJEB112905,114-1004,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2022,primary,1.0,6.45
+SAMEA122609497,PRJEB112905,114-1005,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2022,primary,1.0,5.868
+SAMEA122609498,PRJEB112905,114-1005,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2022,primary,1.0,6.965
+SAMEA122609499,PRJEB112905,116-1001,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2021,primary,1.0,5.476
+SAMEA122609500,PRJEB112905,116-1001,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2021,primary,1.0,6.366
+SAMEA122609501,PRJEB112905,116-1002,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2022,primary,1.0,2.04
+SAMEA122609502,PRJEB112905,116-1002,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2022,primary,1.0,6.914
+SAMEA122609503,PRJEB112905,116-1003,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2022,primary,1.0,4.444
+SAMEA122609504,PRJEB112905,116-1003,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2022,primary,1.0,7.147
+SAMEA122609505,PRJEB112905,116-1004,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2022,primary,1.0,7.278
+SAMEA122609506,PRJEB112905,116-1004,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2022,primary,1.0,5.277
+SAMEA122609507,PRJEB112905,116-1006,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2023,primary,1.0,0.245
+SAMEA122609508,PRJEB112905,116-1006,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2023,primary,1.0,4.643
+SAMEA122609509,PRJEB112905,116-1007,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2023,primary,1.0,4.105
+SAMEA122609510,PRJEB112905,116-1007,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2023,primary,1.0,7.582
+SAMEA122609511,PRJEB112905,116-1009,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2023,primary,1.0,2.66
+SAMEA122609512,PRJEB112905,116-1009,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2023,primary,1.0,7.861
+SAMEA122609513,PRJEB112905,116-1010,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2023,primary,1.0,1.199
+SAMEA122609514,PRJEB112905,116-1010,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2024,primary,1.0,5.592
+SAMEA122609515,PRJEB112905,116-1011,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2024,primary,1.0,5.612
+SAMEA122609516,PRJEB112905,116-1011,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2024,primary,1.0,6.273
+SAMEA122609517,PRJEB112905,116-1012,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2024,primary,1.0,2.653
+SAMEA122609518,PRJEB112905,116-1012,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2024,primary,1.0,7.004
+SAMEA122609519,PRJEB112905,117-1945,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2021,primary,1.0,5.582
+SAMEA122609520,PRJEB112905,117-1945,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2021,primary,1.0,7.58
+SAMEA122609521,PRJEB112905,120-2201,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2022,primary,1.0,6.313
+SAMEA122609522,PRJEB112905,120-2201,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2022,primary,1.0,8.425
+SAMEA122609523,PRJEB112905,120-2203,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2022,primary,1.0,5.324
+SAMEA122609524,PRJEB112905,120-2203,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2022,primary,1.0,6.032
+SAMEA122609525,PRJEB112905,120-2204,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2023,primary,1.0,0.991
+SAMEA122609526,PRJEB112905,120-2204,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2023,primary,1.0,7.121
+SAMEA122609527,PRJEB112905,120-2205,D1,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2023,primary,1.0,0.087
+SAMEA122609528,PRJEB112905,120-2205,TOC,,,,CA,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2023,primary,1.0,6.24
+SAMEA122609529,PRJEB112905,122-1001,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2021,primary,1.0,6.767
+SAMEA122609530,PRJEB112905,122-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2021,primary,1.0,6.243
+SAMEA122609531,PRJEB112905,122-1002,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2021,primary,1.0,6.42
+SAMEA122609532,PRJEB112905,122-1002,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2021,primary,1.0,9.744
+SAMEA122609533,PRJEB112905,122-1003,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2022,primary,1.0,6.855
+SAMEA122609534,PRJEB112905,122-1003,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2022,primary,1.0,4.604
+SAMEA122609535,PRJEB112905,123-1001,Screen,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,"screening visit, pre-treatment; assigned arm: vancomycin 125 mg orally qid",yes,2022,primary,1.0,7.169
+SAMEA122609536,PRJEB112905,123-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2022,primary,1.0,6.883
+SAMEA122609537,PRJEB112905,128-1001,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2022,primary,1.0,5.234
+SAMEA122609538,PRJEB112905,128-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2022,primary,1.0,7.748
+SAMEA122609539,PRJEB112905,130-1001,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2023,primary,1.0,7.599
+SAMEA122609540,PRJEB112905,130-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2023,primary,1.0,7.051
+SAMEA122609541,PRJEB112905,139-1001,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2022,primary,1.0,6.922
+SAMEA122609542,PRJEB112905,139-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2022,primary,1.0,6.653
+SAMEA122609543,PRJEB112905,139-1002,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2023,primary,1.0,5.791
+SAMEA122609544,PRJEB112905,139-1002,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2023,primary,1.0,6.147
+SAMEA122609545,PRJEB112905,146-1001,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2022,primary,1.0,4.162
+SAMEA122609546,PRJEB112905,146-1001,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2022,primary,1.0,5.345
+SAMEA122609547,PRJEB112905,146-1002,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: vancomycin 125 mg orally qid,yes,2022,primary,1.0,5.902
+SAMEA122609548,PRJEB112905,146-1002,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,vancomycin 125 mg orally qid,yes,2022,primary,1.0,6.854
+SAMEA122609549,PRJEB112905,146-1003,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 400 mg orally bid,yes,2022,primary,1.0,6.241
+SAMEA122609550,PRJEB112905,146-1003,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 400 mg orally bid,yes,2022,primary,1.0,4.841
+SAMEA122609551,PRJEB112905,146-1004,D1,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),no_intervention,day 1 (pre-dose baseline); assigned arm: CRS3123 200 mg orally bid,yes,2022,primary,1.0,5.739
+SAMEA122609552,PRJEB112905,146-1004,TOC,,,,US,gi_infection_or_diarrhoea,C. difficile infection (CDI),antibiotic,CRS3123 200 mg orally bid,yes,2022,primary,1.0,4.85

@@ -1,0 +1,217 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN16673262,PRJNA672867,PT-18-0002,-22,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-08-20,primary,1.0,1.516
+SAMN16673310,PRJNA672867,PT-18-0002,-23,adult,22280.2,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2018-12-18,primary,1.0,2.428
+SAMN16673280,PRJNA672867,PT-18-0002,0,elderly,27004.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-10-25,primary,1.0,4.684
+SAMN16673291,PRJNA672867,PT-18-0002,0,elderly,27004.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-01-30,primary,1.0,2.113
+SAMN16673301,PRJNA672867,PT-18-0002,0,elderly,27004.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-05-19,primary,1.0,1.854
+SAMN16673325,PRJNA672867,PT-18-0002,112,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-02,primary,1.0,0.5
+SAMN16673265,PRJNA672867,PT-18-0002,13,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-24,primary,1.0,1.883
+SAMN16673326,PRJNA672867,PT-18-0002,133,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-23,primary,1.0,2.529
+SAMN16673312,PRJNA672867,PT-18-0002,21,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-01-31,primary,1.0,1.92
+SAMN16673266,PRJNA672867,PT-18-0002,29,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-10,primary,1.0,1.773
+SAMN16673313,PRJNA672867,PT-18-0002,29,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-02-08,primary,1.0,3.618
+SAMN16673365,PRJNA672867,PT-18-0002,342,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample; assigned arm: Days_after_FMT = 342 (after intervention start),,2019-12-18,primary,1.0,2.296
+SAMN16673267,PRJNA672867,PT-18-0002,35,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-16,primary,1.0,1.48
+SAMN16673314,PRJNA672867,PT-18-0002,36,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-02-15,primary,1.0,1.273
+SAMN16673366,PRJNA672867,PT-18-0002,383,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-01-28,primary,1.0,2.411
+SAMN16673367,PRJNA672867,PT-18-0002,390,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-02-04,primary,1.0,2.601
+SAMN16673368,PRJNA672867,PT-18-0002,411,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-02-19,primary,1.0,2.727
+SAMN16673369,PRJNA672867,PT-18-0002,419,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-02-25,primary,1.0,2.741
+SAMN16673315,PRJNA672867,PT-18-0002,42,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-02-21,primary,1.0,3.391
+SAMN16673370,PRJNA672867,PT-18-0002,424,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-03-04,primary,1.0,2.69
+SAMN16673371,PRJNA672867,PT-18-0002,432,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-03-09,primary,1.0,2.704
+SAMN16673372,PRJNA672867,PT-18-0002,440,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-03-17,primary,1.0,2.834
+SAMN16673373,PRJNA672867,PT-18-0002,447,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-03-25,primary,1.0,2.773
+SAMN16673374,PRJNA672867,PT-18-0002,452,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-04-01,primary,1.0,2.228
+SAMN16673375,PRJNA672867,PT-18-0002,461,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-04-06,primary,1.0,2.378
+SAMN16673376,PRJNA672867,PT-18-0002,466,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-04-15,primary,1.0,3.627
+SAMN16673316,PRJNA672867,PT-18-0002,47,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-02-26,primary,1.0,3.614
+SAMN16673377,PRJNA672867,PT-18-0002,473,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-04-20,primary,1.0,3.039
+SAMN16673378,PRJNA672867,PT-18-0002,482,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-04-27,primary,1.0,3.532
+SAMN16673379,PRJNA672867,PT-18-0002,490,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-05-07,primary,1.0,2.468
+SAMN16673380,PRJNA672867,PT-18-0002,496,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-05-14,primary,1.0,1.991
+SAMN16673381,PRJNA672867,PT-18-0002,503,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-05-20,primary,1.0,2.39
+SAMN16673382,PRJNA672867,PT-18-0002,514,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-05-27,primary,1.0,2.034
+SAMN16673383,PRJNA672867,PT-18-0002,528,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-06-07,primary,1.0,3.438
+SAMN16673384,PRJNA672867,PT-18-0002,535,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-06-17,primary,1.0,2.41
+SAMN16673317,PRJNA672867,PT-18-0002,56,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-03-07,primary,1.0,2.436
+SAMN16673318,PRJNA672867,PT-18-0002,63,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-03-14,primary,1.0,2.204
+SAMN16673319,PRJNA672867,PT-18-0002,69,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-03-20,primary,1.0,2.197
+SAMN16673263,PRJNA672867,PT-18-0002,7,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-18,primary,1.0,2.568
+SAMN16673320,PRJNA672867,PT-18-0002,75,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-03-26,primary,1.0,1.98
+SAMN16673321,PRJNA672867,PT-18-0002,84,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-04-04,primary,1.0,4.819
+SAMN16673323,PRJNA672867,PT-18-0002,90,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-04-10,primary,1.0,2.755
+SAMN16673324,PRJNA672867,PT-18-0002,96,adult,22645.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-04-16,primary,1.0,3.878
+SAMN16673311,PRJNA672867,PT-18-0003,0,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-07-12,primary,1.0,3.933
+SAMN16673346,PRJNA672867,PT-18-0005,-29,adult,17166.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-04-16,primary,1.0,1.989
+SAMN16673388,PRJNA672867,PT-18-0005,-7,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2018-06-18,primary,1.0,3.442
+SAMN16673189,PRJNA672867,PT-18-0005,0,adult,23741.2,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-04-29,primary,1.0,2.108
+SAMN16673322,PRJNA672867,PT-18-0005,0,adult,23376.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-05-11,primary,1.0,2.006
+SAMN16673333,PRJNA672867,PT-18-0005,0,adult,23376.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-05-15,primary,1.0,2.123
+SAMN16673343,PRJNA672867,PT-18-0005,0,adult,23376.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-05-18,primary,1.0,2.148
+SAMN16673353,PRJNA672867,PT-18-0005,0,adult,23376.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-07-10,primary,1.0,1.952
+SAMN16673364,PRJNA672867,PT-18-0005,0,adult,23741.2,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-03-04,primary,1.0,3.034
+SAMN16673387,PRJNA672867,PT-18-0005,1,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-06-19,primary,1.0,1.686
+SAMN16673304,PRJNA672867,PT-18-0005,101,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-09-14,primary,1.0,2.87
+SAMN16673347,PRJNA672867,PT-18-0005,13,adult,17166.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-28,primary,1.0,2.055
+SAMN16673305,PRJNA672867,PT-18-0005,174,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-11-26,primary,1.0,2.374
+SAMN16673390,PRJNA672867,PT-18-0005,20,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-07-08,primary,1.0,3.54
+SAMN16673348,PRJNA672867,PT-18-0005,21,adult,17166.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-05,primary,1.0,2.126
+SAMN16673391,PRJNA672867,PT-18-0005,21,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-07-09,primary,1.0,2.701
+SAMN16673306,PRJNA672867,PT-18-0005,267,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-02-27,primary,1.0,2.235
+SAMN16673349,PRJNA672867,PT-18-0005,30,adult,17166.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-14,primary,1.0,2.177
+SAMN16673307,PRJNA672867,PT-18-0005,357,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-28,primary,1.0,3.775
+SAMN16673392,PRJNA672867,PT-18-0005,41,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-07-29,primary,1.0,2.853
+SAMN16673308,PRJNA672867,PT-18-0005,471,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-19,primary,1.0,2.833
+SAMN16673309,PRJNA672867,PT-18-0005,514,adult,17166.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-01,primary,1.0,2.081
+SAMN16673393,PRJNA672867,PT-18-0005,53,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-08-10,primary,1.0,2.875
+SAMN16673350,PRJNA672867,PT-18-0005,56,adult,17166.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-10,primary,1.0,2.437
+SAMN16673351,PRJNA672867,PT-18-0005,65,adult,17166.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-19,primary,1.0,1.942
+SAMN16673389,PRJNA672867,PT-18-0005,7,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-06-25,primary,1.0,3.404
+SAMN16673302,PRJNA672867,PT-18-0005,73,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-08-17,primary,1.0,3.126
+SAMN16673303,PRJNA672867,PT-18-0005,85,adult,16436.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2018-08-29,primary,1.0,2.739
+SAMN16673385,PRJNA672867,PT-18-0006,-7,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-04-24,primary,1.0,2.534
+SAMN16673200,PRJNA672867,PT-18-0006,0,adult,23376.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-05-24,primary,1.0,3.473
+SAMN16673211,PRJNA672867,PT-18-0006,0,adult,23741.2,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-04-05,primary,1.0,1.389
+SAMN16673182,PRJNA672867,PT-18-0006,106,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-27,primary,1.0,2.648
+SAMN16673183,PRJNA672867,PT-18-0006,114,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-04,primary,1.0,2.165
+SAMN16673184,PRJNA672867,PT-18-0006,120,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-10,primary,1.0,2.22
+SAMN16673185,PRJNA672867,PT-18-0006,127,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-17,primary,1.0,2.287
+SAMN16673186,PRJNA672867,PT-18-0006,134,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-24,primary,1.0,3.006
+SAMN16673187,PRJNA672867,PT-18-0006,141,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-01,primary,1.0,1.939
+SAMN16673188,PRJNA672867,PT-18-0006,148,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-08,primary,1.0,1.208
+SAMN16673190,PRJNA672867,PT-18-0006,156,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-16,primary,1.0,1.892
+SAMN16673355,PRJNA672867,PT-18-0006,16,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-29,primary,1.0,0.933
+SAMN16673191,PRJNA672867,PT-18-0006,162,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-22,primary,1.0,1.939
+SAMN16673192,PRJNA672867,PT-18-0006,169,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-29,primary,1.0,2.184
+SAMN16673193,PRJNA672867,PT-18-0006,176,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-05,primary,1.0,1.932
+SAMN16673194,PRJNA672867,PT-18-0006,183,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-12,primary,1.0,1.849
+SAMN16673195,PRJNA672867,PT-18-0006,190,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-19,primary,1.0,2.013
+SAMN16673356,PRJNA672867,PT-18-0006,21,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-03,primary,1.0,3.176
+SAMN16673196,PRJNA672867,PT-18-0006,211,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-10,primary,1.0,1.779
+SAMN16673357,PRJNA672867,PT-18-0006,29,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-11,primary,1.0,1.656
+SAMN16673358,PRJNA672867,PT-18-0006,42,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-24,primary,1.0,1.725
+SAMN16673359,PRJNA672867,PT-18-0006,50,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-02,primary,1.0,2.677
+SAMN16673360,PRJNA672867,PT-18-0006,57,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-09,primary,1.0,2.186
+SAMN16673361,PRJNA672867,PT-18-0006,64,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-16,primary,1.0,1.485
+SAMN16673362,PRJNA672867,PT-18-0006,71,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-23,primary,1.0,1.249
+SAMN16673363,PRJNA672867,PT-18-0006,78,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-30,primary,1.0,2.361
+SAMN16673354,PRJNA672867,PT-18-0006,8,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-21,primary,1.0,2.329
+SAMN16673179,PRJNA672867,PT-18-0006,85,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-06,primary,1.0,2.08
+SAMN16673180,PRJNA672867,PT-18-0006,92,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-13,primary,1.0,2.163
+SAMN16673181,PRJNA672867,PT-18-0006,99,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-20,primary,1.0,2.226
+SAMN16673337,PRJNA672867,PT-18-0008,-22,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-04-11,primary,1.0,3.252
+SAMN16673331,PRJNA672867,PT-18-0008,-23,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-02-27,primary,1.0,2.984
+SAMN16673215,PRJNA672867,PT-18-0008,-24,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-06-04,primary,1.0,1.944
+SAMN16673386,PRJNA672867,PT-18-0008,-24,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-06-17,primary,1.0,2.418
+SAMN16673221,PRJNA672867,PT-18-0008,0,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-10-09,primary,1.0,5.023
+SAMN16673231,PRJNA672867,PT-18-0008,0,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-02-11,primary,1.0,2.389
+SAMN16673242,PRJNA672867,PT-18-0008,0,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-06-04,primary,1.0,2.697
+SAMN16673237,PRJNA672867,PT-18-0008,104,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-23,primary,1.0,2.174
+SAMN16673216,PRJNA672867,PT-18-0008,11,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-09,primary,1.0,2.324
+SAMN16673238,PRJNA672867,PT-18-0008,111,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-30,primary,1.0,1.89
+SAMN16673224,PRJNA672867,PT-18-0008,12,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-23,primary,1.0,1.958
+SAMN16673239,PRJNA672867,PT-18-0008,123,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-11,primary,1.0,1.85
+SAMN16673240,PRJNA672867,PT-18-0008,124,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-12,primary,1.0,2.573
+SAMN16673344,PRJNA672867,PT-18-0008,125,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-05,primary,1.0,3.09
+SAMN16673241,PRJNA672867,PT-18-0008,132,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-20,primary,1.0,1.881
+SAMN16673243,PRJNA672867,PT-18-0008,139,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-27,primary,1.0,2.105
+SAMN16673225,PRJNA672867,PT-18-0008,14,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-25,primary,1.0,2.634
+SAMN16673394,PRJNA672867,PT-18-0008,14,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-04-05,primary,1.0,3.284
+SAMN16673244,PRJNA672867,PT-18-0008,146,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-04,primary,1.0,1.847
+SAMN16673345,PRJNA672867,PT-18-0008,146,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-26,primary,1.0,1.597
+SAMN16673245,PRJNA672867,PT-18-0008,172,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-30,primary,1.0,2.252
+SAMN16673217,PRJNA672867,PT-18-0008,18,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-16,primary,1.0,2.377
+SAMN16673246,PRJNA672867,PT-18-0008,187,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-01-14,primary,1.0,2.034
+SAMN16673226,PRJNA672867,PT-18-0008,19,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-30,primary,1.0,1.78
+SAMN16673339,PRJNA672867,PT-18-0008,20,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-23,primary,1.0,3.889
+SAMN16673218,PRJNA672867,PT-18-0008,25,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-23,primary,1.0,0.633
+SAMN16673334,PRJNA672867,PT-18-0008,25,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-04-16,primary,1.0,1.693
+SAMN16673227,PRJNA672867,PT-18-0008,26,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-06,primary,1.0,3.896
+SAMN16673340,PRJNA672867,PT-18-0008,27,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-30,primary,1.0,2.975
+SAMN16673219,PRJNA672867,PT-18-0008,32,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-30,primary,1.0,2.331
+SAMN16673341,PRJNA672867,PT-18-0008,33,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-05,primary,1.0,2.522
+SAMN16673220,PRJNA672867,PT-18-0008,39,adult,16791.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-06,primary,1.0,2.374
+SAMN16673342,PRJNA672867,PT-18-0008,40,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-12,primary,1.0,2.547
+SAMN16673228,PRJNA672867,PT-18-0008,41,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-21,primary,1.0,3.212
+SAMN16673229,PRJNA672867,PT-18-0008,47,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-27,primary,1.0,2.237
+SAMN16673338,PRJNA672867,PT-18-0008,48,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-20,primary,1.0,2.84
+SAMN16673230,PRJNA672867,PT-18-0008,55,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-04,primary,1.0,2.591
+SAMN16673232,PRJNA672867,PT-18-0008,62,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-11,primary,1.0,1.22
+SAMN16673233,PRJNA672867,PT-18-0008,68,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-17,primary,1.0,2.739
+SAMN16673335,PRJNA672867,PT-18-0008,68,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-29,primary,1.0,2.685
+SAMN16673223,PRJNA672867,PT-18-0008,7,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-07-18,primary,1.0,1.472
+SAMN16673336,PRJNA672867,PT-18-0008,77,adult,17532.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-07,primary,1.0,2.108
+SAMN16673234,PRJNA672867,PT-18-0008,78,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-27,primary,1.0,2.963
+SAMN16673235,PRJNA672867,PT-18-0008,89,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-08,primary,1.0,2.368
+SAMN16673236,PRJNA672867,PT-18-0008,97,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-16,primary,1.0,1.648
+SAMN16673253,PRJNA672867,PT-18-0009,0,adult,20454.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-07-20,primary,1.0,2.818
+SAMN16673264,PRJNA672867,PT-18-0012,0,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2018-07-30,primary,1.0,2.434
+SAMN16673275,PRJNA672867,PT-18-0012,0,elderly,26298.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-01-28,primary,1.0,2.231
+SAMN16673327,PRJNA672867,PT-18-0014,-22,elderly,24837.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-04-30,primary,1.0,2.22
+SAMN16673352,PRJNA672867,PT-18-0014,-22,adult,22645.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-12-16,primary,1.0,1.989
+SAMN16673206,PRJNA672867,PT-18-0014,-28,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-06-24,primary,1.0,2.29
+SAMN16673268,PRJNA672867,PT-18-0014,-9,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-09-09,primary,1.0,2.1
+SAMN16673279,PRJNA672867,PT-18-0014,0,adult,22280.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-03-19,primary,1.0,1.521
+SAMN16673281,PRJNA672867,PT-18-0014,0,adult,22645.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-08-28,primary,1.0,2.046
+SAMN16673300,PRJNA672867,PT-18-0014,113,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-01-09,primary,1.0,1.996
+SAMN16673332,PRJNA672867,PT-18-0014,118,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-01-14,primary,1.0,2.127
+SAMN16673270,PRJNA672867,PT-18-0014,13,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-01,primary,1.0,2.811
+SAMN16673207,PRJNA672867,PT-18-0014,14,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-05,primary,1.0,2.002
+SAMN16673329,PRJNA672867,PT-18-0014,14,elderly,24837.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-05,primary,1.0,1.269
+SAMN16673271,PRJNA672867,PT-18-0014,20,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-08,primary,1.0,1.393
+SAMN16673208,PRJNA672867,PT-18-0014,21,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-12,primary,1.0,2.918
+SAMN16673330,PRJNA672867,PT-18-0014,22,elderly,24837.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-06-13,primary,1.0,2.338
+SAMN16673272,PRJNA672867,PT-18-0014,28,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-16,primary,1.0,0.926
+SAMN16673209,PRJNA672867,PT-18-0014,29,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-20,primary,1.0,1.924
+SAMN16673273,PRJNA672867,PT-18-0014,34,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-22,primary,1.0,0.975
+SAMN16673210,PRJNA672867,PT-18-0014,35,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-26,primary,1.0,2.164
+SAMN16673274,PRJNA672867,PT-18-0014,41,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-29,primary,1.0,4.448
+SAMN16673212,PRJNA672867,PT-18-0014,45,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-05,primary,1.0,1.759
+SAMN16673276,PRJNA672867,PT-18-0014,48,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-05,primary,1.0,1.626
+SAMN16673277,PRJNA672867,PT-18-0014,56,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-13,primary,1.0,3.537
+SAMN16673213,PRJNA672867,PT-18-0014,57,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-17,primary,1.0,1.304
+SAMN16673278,PRJNA672867,PT-18-0014,62,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-19,primary,1.0,3.605
+SAMN16673214,PRJNA672867,PT-18-0014,67,adult,23741.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-27,primary,1.0,1.522
+SAMN16673296,PRJNA672867,PT-18-0014,69,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-26,primary,1.0,1.792
+SAMN16673222,PRJNA672867,PT-18-0014,7,adult,22645.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2020-01-14,primary,1.0,1.996
+SAMN16673269,PRJNA672867,PT-18-0014,7,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-25,primary,1.0,2.301
+SAMN16673328,PRJNA672867,PT-18-0014,7,elderly,24837.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-05-29,primary,1.0,2.257
+SAMN16673297,PRJNA672867,PT-18-0014,77,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-04,primary,1.0,1.914
+SAMN16673298,PRJNA672867,PT-18-0014,83,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-10,primary,1.0,1.422
+SAMN16673299,PRJNA672867,PT-18-0014,92,elderly,31411.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-19,primary,1.0,2.155
+SAMN16673282,PRJNA672867,PT-18-0015,0,adult,22280.2,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-05-20,primary,1.0,2.622
+SAMN16673283,PRJNA672867,PT-18-0019,0,adult,19711.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-01-09,primary,1.0,2.147
+SAMN16673284,PRJNA672867,PT-18-0019,0,adult,19711.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-01-14,primary,1.0,2.144
+SAMN16673285,PRJNA672867,PT-18-0020,0,elderly,26663.2,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-01-15,primary,1.0,1.9
+SAMN16673286,PRJNA672867,PT-18-0021,0,elderly,27393.8,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-01-27,primary,1.0,1.983
+SAMN16673287,PRJNA672867,PT-18-0021,0,elderly,27759.0,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-05-20,primary,1.0,1.779
+SAMN16673288,PRJNA672867,PT-18-0029,0,elderly,25922.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-03-19,primary,1.0,2.81
+SAMN16673289,PRJNA672867,PT-18-0030,0,adult,21549.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-02-13,primary,1.0,2.13
+SAMN16673247,PRJNA672867,PT-18-0031,-21,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-08-29,primary,1.0,1.357
+SAMN16673290,PRJNA672867,PT-18-0031,0,elderly,25567.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-02-19,primary,1.0,4.139
+SAMN16673292,PRJNA672867,PT-18-0031,0,elderly,25567.5,female,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-05-29,primary,1.0,1.859
+SAMN16673261,PRJNA672867,PT-18-0031,103,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-31,primary,1.0,2.281
+SAMN16673248,PRJNA672867,PT-18-0031,12,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-01,primary,1.0,1.2
+SAMN16673249,PRJNA672867,PT-18-0031,19,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-08,primary,1.0,2.158
+SAMN16673250,PRJNA672867,PT-18-0031,27,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-16,primary,1.0,1.852
+SAMN16673251,PRJNA672867,PT-18-0031,33,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-22,primary,1.0,2.076
+SAMN16673252,PRJNA672867,PT-18-0031,40,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-29,primary,1.0,1.813
+SAMN16673254,PRJNA672867,PT-18-0031,47,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-05,primary,1.0,1.998
+SAMN16673255,PRJNA672867,PT-18-0031,55,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-13,primary,1.0,2.566
+SAMN16673256,PRJNA672867,PT-18-0031,61,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-19,primary,1.0,3.786
+SAMN16673257,PRJNA672867,PT-18-0031,68,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-11-26,primary,1.0,2.221
+SAMN16673258,PRJNA672867,PT-18-0031,75,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-03,primary,1.0,2.178
+SAMN16673259,PRJNA672867,PT-18-0031,83,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-11,primary,1.0,1.464
+SAMN16673260,PRJNA672867,PT-18-0031,90,elderly,25567.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-12-18,primary,1.0,1.802
+SAMN16673293,PRJNA672867,PT-19-0004,0,elderly,29950.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-04-24,primary,1.0,2.259
+SAMN16673294,PRJNA672867,PT-19-0008,0,adult,20088.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-06-04,primary,1.0,1.846
+SAMN16673197,PRJNA672867,PT-19-0011,-22,adult,12783.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,pre-FMT baseline sample,,2019-07-18,primary,1.0,1.961
+SAMN16673295,PRJNA672867,PT-19-0011,0,elderly,28102.5,male,US,other_cancer,"advanced melanoma, PD-1-refractory",no_intervention,"stool donor, untreated",,2019-07-01,primary,1.0,2.007
+SAMN16673199,PRJNA672867,PT-19-0011,14,adult,13149.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-22,primary,1.0,1.82
+SAMN16673201,PRJNA672867,PT-19-0011,19,adult,13149.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-27,primary,1.0,1.433
+SAMN16673202,PRJNA672867,PT-19-0011,32,adult,13149.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-09,primary,1.0,1.94
+SAMN16673203,PRJNA672867,PT-19-0011,47,adult,13149.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-09-24,primary,1.0,1.547
+SAMN16673204,PRJNA672867,PT-19-0011,55,adult,13149.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-02,primary,1.0,1.393
+SAMN16673205,PRJNA672867,PT-19-0011,63,adult,13149.0,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-10-10,primary,1.0,1.709
+SAMN16673198,PRJNA672867,PT-19-0011,7,adult,12783.8,male,US,other_cancer,"advanced melanoma, PD-1-refractory",fmt,post-FMT sample,,2019-08-15,primary,1.0,0.736

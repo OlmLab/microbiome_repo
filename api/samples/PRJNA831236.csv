@@ -1,0 +1,71 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN27749334,PRJNA831236,,,adult,,,FR,,B6,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.321
+SAMN27749335,PRJNA831236,,,adult,,,FR,,B6,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.343
+SAMN27749336,PRJNA831236,,,adult,,,FR,,B6,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.092
+SAMN27749337,PRJNA831236,,,adult,,,FR,,B6,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.27
+SAMN27749338,PRJNA831236,,,adult,,,FR,,B6,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.263
+SAMN27749339,PRJNA831236,,,adult,,,FR,,B6,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.067
+SAMN27749340,PRJNA831236,,,adult,,,FR,,B6,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.209
+SAMN27749341,PRJNA831236,,,adult,,,FR,,B6,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.099
+SAMN27749342,PRJNA831236,,,adult,,,FR,,B6,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.334
+SAMN27749343,PRJNA831236,,,adult,,,FR,,B6,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.271
+SAMN27749344,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.075
+SAMN27749345,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.308
+SAMN27749346,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.307
+SAMN27749347,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.242
+SAMN27749348,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.298
+SAMN27749349,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,3.248
+SAMN27749350,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Behcet,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.262
+SAMN27749351,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Behcet,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.052
+SAMN27749352,PRJNA831236,,,adult,,,FR,crohns_disease,Crohn,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.031
+SAMN27749353,PRJNA831236,,,adult,,,FR,crohns_disease,Crohn,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.173
+SAMN27749354,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Psoriasis,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.245
+SAMN27749355,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Psoriasis,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.29
+SAMN27749356,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Scleroderma,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,2.83
+SAMN27749357,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Scleroderma,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,2.784
+SAMN27749358,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Sjogren,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.663
+SAMN27749359,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Sjogren,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.064
+SAMN27749360,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Sjogren,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.296
+SAMN27749361,PRJNA831236,,,adult,,,FR,autoimmune_inflammatory,Sjogren,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.114
+SAMN27749362,PRJNA831236,,,adult,,,FR,,BALB,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.014
+SAMN27749363,PRJNA831236,,,adult,,,FR,,BALB,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.022
+SAMN27749364,PRJNA831236,,,adult,,,FR,,BALB,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.015
+SAMN27749365,PRJNA831236,,,adult,,,FR,,BALB,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.023
+SAMN27749366,PRJNA831236,,,adult,,,FR,,BALB,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.024
+SAMN27749367,PRJNA831236,,,adult,,,FR,,BALB,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.017
+SAMN27749368,PRJNA831236,,,adult,,,FR,,BALB,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.016
+SAMN27749369,PRJNA831236,,,adult,,,FR,,BALB,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.017
+SAMN27749370,PRJNA831236,,,adult,,,FR,,BALB,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.027
+SAMN27749371,PRJNA831236,,,adult,,,FR,,BALB,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.013
+SAMN27749372,PRJNA831236,,,adult,,,FR,,BALB,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.015
+SAMN27749373,PRJNA831236,,,adult,,,FR,,BALB,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.014
+SAMN27749374,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.02
+SAMN27749375,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.014
+SAMN27749376,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.013
+SAMN27749377,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.016
+SAMN27749378,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.018
+SAMN27749379,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.014
+SAMN27749380,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.017
+SAMN27749381,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.017
+SAMN27749382,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.023
+SAMN27749383,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.016
+SAMN27749384,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.011
+SAMN27749385,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.02
+SAMN27749386,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.022
+SAMN27749387,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.021
+SAMN27749388,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.018
+SAMN27749389,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.017
+SAMN27749390,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.024
+SAMN27749391,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.017
+SAMN27749392,PRJNA831236,,,adult,,,FR,,NOD,drug_therapy,low-dose IL-2 (IL-2LD) treatment,,2019-03-01,primary,1.0,0.017
+SAMN27749393,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.014
+SAMN27749394,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.018
+SAMN27749395,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.016
+SAMN27749396,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.011
+SAMN27749397,PRJNA831236,,,adult,,,FR,,NOD,,,,2019-03-01,primary,1.0,0.015
+SAMN27749398,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.013
+SAMN27749399,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.018
+SAMN27749400,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.014
+SAMN27749401,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.015
+SAMN27749402,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.014
+SAMN27749403,PRJNA831236,,,adult,,,FR,,NOD,no_intervention,without low-dose IL-2 treatment,,2019-03-01,primary,1.0,0.023

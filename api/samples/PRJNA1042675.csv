@@ -1,0 +1,244 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN61242803,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-01,primary,1.0,7.384
+SAMN61242804,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-01-02,primary,1.0,7.436
+SAMN61242805,PRJNA1042675,,,adult,12418.5,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-03,primary,1.0,11.0
+SAMN61242806,PRJNA1042675,,,adult,12418.5,female,,obesity,overweight subjects,placebo,placebo arm,,2023-01-04,primary,1.0,10.215
+SAMN61242807,PRJNA1042675,,,adult,21549.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-05,primary,1.0,9.844
+SAMN61242808,PRJNA1042675,,,adult,21549.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-06,primary,1.0,8.505
+SAMN61242809,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-07,primary,1.0,8.332
+SAMN61242810,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-08,primary,1.0,8.007
+SAMN61242811,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-09,primary,1.0,8.258
+SAMN61242812,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-10,primary,1.0,9.148
+SAMN61242813,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-11,primary,1.0,8.401
+SAMN61242814,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-01-12,primary,1.0,8.375
+SAMN61242815,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-13,primary,1.0,8.329
+SAMN61242816,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-14,primary,1.0,8.318
+SAMN61242817,PRJNA1042675,,,adult,20454.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-15,primary,1.0,8.177
+SAMN61242818,PRJNA1042675,,,adult,20454.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-01-16,primary,1.0,8.413
+SAMN61242819,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-17,primary,1.0,10.525
+SAMN61242820,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-01-18,primary,1.0,8.391
+SAMN61242821,PRJNA1042675,,,adult,10957.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-19,primary,1.0,8.32
+SAMN61242822,PRJNA1042675,,,adult,10957.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-20,primary,1.0,8.388
+SAMN61242823,PRJNA1042675,,,adult,18993.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-21,primary,1.0,8.539
+SAMN61242824,PRJNA1042675,,,adult,18993.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-01-22,primary,1.0,8.421
+SAMN61242825,PRJNA1042675,,,adult,15704.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-23,primary,1.0,8.363
+SAMN61242826,PRJNA1042675,,,adult,15704.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-01-24,primary,1.0,8.184
+SAMN61242827,PRJNA1042675,,,adult,20088.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-25,primary,1.0,8.438
+SAMN61242828,PRJNA1042675,,,adult,20088.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-26,primary,1.0,8.405
+SAMN61242829,PRJNA1042675,,,adult,20819.2,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-27,primary,1.0,8.275
+SAMN61242830,PRJNA1042675,,,adult,20819.2,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-28,primary,1.0,8.349
+SAMN61242831,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-01-29,primary,1.0,8.296
+SAMN61242832,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-01-30,primary,1.0,8.504
+SAMN61242833,PRJNA1042675,,,adult,18993.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-01-31,primary,1.0,8.685
+SAMN61242834,PRJNA1042675,,,adult,18993.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-02-01,primary,1.0,8.124
+SAMN61242835,PRJNA1042675,,,adult,19358.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-02-02,primary,1.0,8.257
+SAMN61242836,PRJNA1042675,,,adult,19358.2,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-02-03,primary,1.0,7.697
+SAMN61242837,PRJNA1042675,,,adult,16791.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-02-04,primary,1.0,10.507
+SAMN61242838,PRJNA1042675,,,adult,16791.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-02-05,primary,1.0,10.36
+SAMN61242839,PRJNA1042675,,,adult,18262.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-02-06,primary,1.0,9.64
+SAMN61242840,PRJNA1042675,,,adult,18262.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-02-07,primary,1.0,7.754
+SAMN61242841,PRJNA1042675,,,adult,12783.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-08,primary,1.0,10.602
+SAMN61242842,PRJNA1042675,,,adult,12783.8,female,,obesity,overweight subjects,placebo,placebo arm,,2023-02-09,primary,1.0,8.255
+SAMN61242843,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-10,primary,1.0,7.079
+SAMN61242844,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-02-11,primary,1.0,8.333
+SAMN61242845,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-12,primary,1.0,8.248
+SAMN61242846,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-02-13,primary,1.0,8.445
+SAMN61242847,PRJNA1042675,,,adult,21915.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-14,primary,1.0,8.112
+SAMN61242848,PRJNA1042675,,,adult,21915.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-02-15,primary,1.0,7.377
+SAMN61242849,PRJNA1042675,,,adult,16071.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-16,primary,1.0,8.057
+SAMN61242850,PRJNA1042675,,,adult,16071.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-02-17,primary,1.0,9.227
+SAMN61242851,PRJNA1042675,,,adult,17166.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-18,primary,1.0,8.125
+SAMN61242852,PRJNA1042675,,,adult,17166.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-02-19,primary,1.0,8.361
+SAMN61242853,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-02-20,primary,1.0,7.99
+SAMN61242854,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-02-21,primary,1.0,8.012
+SAMN61242855,PRJNA1042675,,,adult,13149.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-22,primary,1.0,8.783
+SAMN61242856,PRJNA1042675,,,adult,13149.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-02-23,primary,1.0,8.057
+SAMN61242857,PRJNA1042675,,,adult,12418.5,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-02-24,primary,1.0,8.111
+SAMN61242858,PRJNA1042675,,,adult,12418.5,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-02-25,primary,1.0,8.291
+SAMN61242859,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-02-26,primary,1.0,8.317
+SAMN61242860,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-02-27,primary,1.0,9.595
+SAMN61242861,PRJNA1042675,,,adult,17872.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-02-28,primary,1.0,8.69
+SAMN61242862,PRJNA1042675,,,adult,17872.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-03-01,primary,1.0,8.095
+SAMN61242863,PRJNA1042675,,,adult,17872.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-02,primary,1.0,8.38
+SAMN61242864,PRJNA1042675,,,adult,17872.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-03,primary,1.0,7.858
+SAMN61242865,PRJNA1042675,,,adult,15704.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-03-04,primary,1.0,8.341
+SAMN61242866,PRJNA1042675,,,adult,15704.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-03-05,primary,1.0,8.447
+SAMN61242867,PRJNA1042675,,,adult,20088.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-03-06,primary,1.0,4.113
+SAMN61242868,PRJNA1042675,,,adult,20088.8,female,,obesity,overweight subjects,placebo,placebo arm,,2023-03-07,primary,1.0,7.988
+SAMN61242869,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-08,primary,1.0,8.358
+SAMN61242870,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-09,primary,1.0,8.052
+SAMN61242871,PRJNA1042675,,,adult,11305.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-10,primary,1.0,7.638
+SAMN61242872,PRJNA1042675,,,adult,11305.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-11,primary,1.0,8.324
+SAMN61242873,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-12,primary,1.0,7.395
+SAMN61242874,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-13,primary,1.0,8.402
+SAMN61242875,PRJNA1042675,,,adult,20819.2,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-03-14,primary,1.0,8.052
+SAMN61242876,PRJNA1042675,,,adult,20819.2,male,,obesity,overweight subjects,placebo,placebo arm,,2023-03-15,primary,1.0,7.967
+SAMN61242877,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-16,primary,1.0,8.276
+SAMN61242878,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-17,primary,1.0,8.369
+SAMN61242879,PRJNA1042675,,,adult,14234.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-03-18,primary,1.0,8.179
+SAMN61242880,PRJNA1042675,,,adult,14234.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-03-19,primary,1.0,8.246
+SAMN61242881,PRJNA1042675,,,adult,18993.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-20,primary,1.0,8.083
+SAMN61242882,PRJNA1042675,,,adult,18993.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-21,primary,1.0,9.152
+SAMN61242883,PRJNA1042675,,,adult,20819.2,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-22,primary,1.0,8.15
+SAMN61242884,PRJNA1042675,,,adult,20819.2,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-23,primary,1.0,8.359
+SAMN61242885,PRJNA1042675,,,adult,18993.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-03-24,primary,1.0,8.35
+SAMN61242886,PRJNA1042675,,,adult,18993.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-03-25,primary,1.0,8.792
+SAMN61242887,PRJNA1042675,,,adult,22280.2,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-26,primary,1.0,8.197
+SAMN61242888,PRJNA1042675,,,adult,22280.2,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-27,primary,1.0,8.708
+SAMN61242889,PRJNA1042675,,,adult,18262.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-28,primary,1.0,9.115
+SAMN61242890,PRJNA1042675,,,adult,18262.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-29,primary,1.0,8.314
+SAMN61242891,PRJNA1042675,,,adult,20088.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-03-30,primary,1.0,8.995
+SAMN61242892,PRJNA1042675,,,adult,20088.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-03-31,primary,1.0,8.621
+SAMN61242893,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-04-01,primary,1.0,8.646
+SAMN61242894,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-04-02,primary,1.0,8.735
+SAMN61242895,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-03,primary,1.0,7.685
+SAMN61242896,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-04,primary,1.0,8.297
+SAMN61242897,PRJNA1042675,,,adult,13149.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-04-05,primary,1.0,8.54
+SAMN61242898,PRJNA1042675,,,adult,13149.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-04-06,primary,1.0,8.42
+SAMN61242899,PRJNA1042675,,,adult,15704.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-04-07,primary,1.0,8.476
+SAMN61242900,PRJNA1042675,,,adult,15704.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-04-08,primary,1.0,8.465
+SAMN61242901,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-09,primary,1.0,8.143
+SAMN61242902,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-10,primary,1.0,8.532
+SAMN61242903,PRJNA1042675,,,adult,21915.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-04-11,primary,1.0,8.592
+SAMN61242904,PRJNA1042675,,,adult,21915.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-04-12,primary,1.0,7.37
+SAMN61242905,PRJNA1042675,,,adult,17532.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-13,primary,1.0,8.791
+SAMN61242906,PRJNA1042675,,,adult,17532.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-14,primary,1.0,8.472
+SAMN61242907,PRJNA1042675,,,adult,17166.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-15,primary,1.0,8.394
+SAMN61242908,PRJNA1042675,,,adult,17166.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-16,primary,1.0,8.148
+SAMN61242909,PRJNA1042675,,,adult,17532.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-04-17,primary,1.0,8.301
+SAMN61242910,PRJNA1042675,,,adult,17532.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-04-18,primary,1.0,8.537
+SAMN61242911,PRJNA1042675,,,adult,21165.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-19,primary,1.0,8.583
+SAMN61242912,PRJNA1042675,,,adult,21165.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-20,primary,1.0,8.554
+SAMN61242913,PRJNA1042675,,,adult,16791.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-21,primary,1.0,9.125
+SAMN61242914,PRJNA1042675,,,adult,16791.8,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-22,primary,1.0,8.698
+SAMN61242915,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-23,primary,1.0,8.474
+SAMN61242916,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-24,primary,1.0,8.423
+SAMN61242917,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-25,primary,1.0,8.23
+SAMN61242918,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-26,primary,1.0,8.192
+SAMN61242919,PRJNA1042675,,,adult,10584.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-27,primary,1.0,7.75
+SAMN61242920,PRJNA1042675,,,adult,10584.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-28,primary,1.0,8.719
+SAMN61242921,PRJNA1042675,,,adult,12418.5,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-04-29,primary,1.0,9.438
+SAMN61242922,PRJNA1042675,,,adult,12418.5,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-04-30,primary,1.0,7.881
+SAMN61242923,PRJNA1042675,,,adult,10957.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-01,primary,1.0,8.882
+SAMN61242924,PRJNA1042675,,,adult,10957.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-02,primary,1.0,8.749
+SAMN61242925,PRJNA1042675,,,adult,19711.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-03,primary,1.0,8.243
+SAMN61242926,PRJNA1042675,,,adult,19711.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-04,primary,1.0,7.889
+SAMN61242927,PRJNA1042675,,,adult,17166.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-05,primary,1.0,8.91
+SAMN61242928,PRJNA1042675,,,adult,17166.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-05-06,primary,1.0,7.978
+SAMN61242929,PRJNA1042675,,,adult,17166.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-07,primary,1.0,9.206
+SAMN61242930,PRJNA1042675,,,adult,17166.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-05-08,primary,1.0,7.937
+SAMN61242931,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-09,primary,1.0,8.451
+SAMN61242932,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-05-10,primary,1.0,8.078
+SAMN61242933,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-11,primary,1.0,9.441
+SAMN61242934,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-05-12,primary,1.0,8.493
+SAMN61242935,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-13,primary,1.0,8.603
+SAMN61242936,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-05-14,primary,1.0,8.428
+SAMN61242937,PRJNA1042675,,,adult,12418.5,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-15,primary,1.0,8.738
+SAMN61242938,PRJNA1042675,,,adult,12418.5,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-16,primary,1.0,8.42
+SAMN61242939,PRJNA1042675,,,adult,20454.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-17,primary,1.0,10.817
+SAMN61242940,PRJNA1042675,,,adult,20454.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-18,primary,1.0,7.115
+SAMN61242941,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-19,primary,1.0,8.333
+SAMN61242942,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-05-20,primary,1.0,8.221
+SAMN61242943,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-21,primary,1.0,8.294
+SAMN61242944,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-05-22,primary,1.0,8.19
+SAMN61242945,PRJNA1042675,,,adult,10584.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-23,primary,1.0,8.45
+SAMN61242946,PRJNA1042675,,,adult,10584.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-24,primary,1.0,8.166
+SAMN61242947,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-25,primary,1.0,9.072
+SAMN61242948,PRJNA1042675,,,adult,14610.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-26,primary,1.0,8.67
+SAMN61242949,PRJNA1042675,,,adult,20454.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-27,primary,1.0,9.082
+SAMN61242950,PRJNA1042675,,,adult,20454.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-28,primary,1.0,8.264
+SAMN61242951,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-05-29,primary,1.0,7.915
+SAMN61242952,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-05-30,primary,1.0,8.706
+SAMN61242953,PRJNA1042675,,,adult,13879.5,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-05-31,primary,1.0,8.199
+SAMN61242954,PRJNA1042675,,,adult,13879.5,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-01,primary,1.0,8.461
+SAMN61242955,PRJNA1042675,,,adult,10957.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-02,primary,1.0,8.405
+SAMN61242956,PRJNA1042675,,,adult,10957.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-03,primary,1.0,9.293
+SAMN61242957,PRJNA1042675,,,adult,12053.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-04,primary,1.0,8.602
+SAMN61242958,PRJNA1042675,,,adult,12053.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-06-05,primary,1.0,8.556
+SAMN61242959,PRJNA1042675,,,adult,15330.5,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-06,primary,1.0,8.388
+SAMN61242960,PRJNA1042675,,,adult,15330.5,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-07,primary,1.0,11.044
+SAMN61242961,PRJNA1042675,,,adult,9496.5,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-08,primary,1.0,8.586
+SAMN61242962,PRJNA1042675,,,adult,9496.5,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-09,primary,1.0,8.24
+SAMN61242963,PRJNA1042675,,,adult,9861.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-10,primary,1.0,8.555
+SAMN61242964,PRJNA1042675,,,adult,9861.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-11,primary,1.0,8.356
+SAMN61242965,PRJNA1042675,,,adult,10584.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-12,primary,1.0,8.258
+SAMN61242966,PRJNA1042675,,,adult,10584.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-13,primary,1.0,8.716
+SAMN61242967,PRJNA1042675,,,adult,22280.2,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-14,primary,1.0,8.339
+SAMN61242968,PRJNA1042675,,,adult,22280.2,male,,obesity,overweight subjects,placebo,placebo arm,,2023-06-15,primary,1.0,7.659
+SAMN61242969,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-06-16,primary,1.0,8.845
+SAMN61242970,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-06-17,primary,1.0,9.056
+SAMN61242971,PRJNA1042675,,,adult,16436.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-06-18,primary,1.0,8.93
+SAMN61242972,PRJNA1042675,,,adult,16436.2,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-06-19,primary,1.0,7.95
+SAMN61242973,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-06-20,primary,1.0,8.725
+SAMN61242974,PRJNA1042675,,,adult,11688.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-06-21,primary,1.0,9.956
+SAMN61242975,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-22,primary,1.0,8.833
+SAMN61242976,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-06-23,primary,1.0,8.588
+SAMN61242977,PRJNA1042675,,,adult,21915.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-06-24,primary,1.0,9.03
+SAMN61242978,PRJNA1042675,,,adult,21915.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-06-25,primary,1.0,9.432
+SAMN61242979,PRJNA1042675,,,adult,21549.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-26,primary,1.0,9.288
+SAMN61242980,PRJNA1042675,,,adult,21549.8,female,,obesity,overweight subjects,placebo,placebo arm,,2023-06-27,primary,1.0,15.122
+SAMN61242981,PRJNA1042675,,,adult,12053.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-28,primary,1.0,8.124
+SAMN61242982,PRJNA1042675,,,adult,12053.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-06-29,primary,1.0,8.548
+SAMN61242983,PRJNA1042675,,,adult,14234.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-06-30,primary,1.0,8.344
+SAMN61242984,PRJNA1042675,,,adult,14234.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-07-01,primary,1.0,7.895
+SAMN61242985,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-02,primary,1.0,8.005
+SAMN61242986,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-03,primary,1.0,8.266
+SAMN61242987,PRJNA1042675,,,adult,18262.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-04,primary,1.0,7.696
+SAMN61242988,PRJNA1042675,,,adult,18262.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-07-05,primary,1.0,7.951
+SAMN61242989,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-06,primary,1.0,7.932
+SAMN61242990,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-07-07,primary,1.0,8.128
+SAMN61242991,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-08,primary,1.0,8.662
+SAMN61242992,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-07-09,primary,1.0,9.013
+SAMN61242993,PRJNA1042675,,,adult,19358.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-10,primary,1.0,7.782
+SAMN61242994,PRJNA1042675,,,adult,19358.2,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-11,primary,1.0,7.635
+SAMN61242995,PRJNA1042675,,,adult,21915.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-12,primary,1.0,10.55
+SAMN61242996,PRJNA1042675,,,adult,21915.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-07-13,primary,1.0,8.961
+SAMN61242997,PRJNA1042675,,,adult,18614.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-14,primary,1.0,8.121
+SAMN61242998,PRJNA1042675,,,adult,18614.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-15,primary,1.0,8.088
+SAMN61242999,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-16,primary,1.0,8.508
+SAMN61243000,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-07-17,primary,1.0,8.242
+SAMN61243001,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-18,primary,1.0,7.86
+SAMN61243002,PRJNA1042675,,,adult,21165.0,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-19,primary,1.0,8.003
+SAMN61243003,PRJNA1042675,,,adult,16436.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-20,primary,1.0,8.493
+SAMN61243004,PRJNA1042675,,,adult,16436.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-07-21,primary,1.0,8.469
+SAMN61243005,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-22,primary,1.0,8.912
+SAMN61243006,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-07-23,primary,1.0,8.858
+SAMN61243007,PRJNA1042675,,,adult,16791.8,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-24,primary,1.0,8.812
+SAMN61243008,PRJNA1042675,,,adult,16791.8,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-25,primary,1.0,7.437
+SAMN61243009,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-07-26,primary,1.0,8.09
+SAMN61243010,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-07-27,primary,1.0,8.362
+SAMN61243011,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-28,primary,1.0,7.715
+SAMN61243012,PRJNA1042675,,,adult,11688.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-29,primary,1.0,8.133
+SAMN61243013,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-07-30,primary,1.0,9.054
+SAMN61243014,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-07-31,primary,1.0,7.923
+SAMN61243015,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-01,primary,1.0,8.077
+SAMN61243016,PRJNA1042675,,,adult,17532.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-02,primary,1.0,8.125
+SAMN61243017,PRJNA1042675,,,adult,14971.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-03,primary,1.0,8.239
+SAMN61243018,PRJNA1042675,,,adult,14971.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-04,primary,1.0,8.158
+SAMN61243019,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-05,primary,1.0,9.458
+SAMN61243020,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-06,primary,1.0,7.96
+SAMN61243021,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-07,primary,1.0,8.314
+SAMN61243022,PRJNA1042675,,,adult,11305.8,male,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-08,primary,1.0,8.052
+SAMN61243023,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-09,primary,1.0,11.115
+SAMN61243024,PRJNA1042675,,,adult,12783.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-08-10,primary,1.0,10.216
+SAMN61243025,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-11,primary,1.0,7.905
+SAMN61243026,PRJNA1042675,,,adult,21549.8,male,,obesity,overweight subjects,placebo,placebo arm,,2023-08-12,primary,1.0,8.33
+SAMN61243027,PRJNA1042675,,,adult,16436.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-13,primary,1.0,7.52
+SAMN61243028,PRJNA1042675,,,adult,16436.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-08-14,primary,1.0,7.749
+SAMN61243029,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-15,primary,1.0,7.489
+SAMN61243030,PRJNA1042675,,,adult,13504.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-08-16,primary,1.0,8.118
+SAMN61243031,PRJNA1042675,,,adult,15704.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-17,primary,1.0,7.165
+SAMN61243032,PRJNA1042675,,,adult,15704.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-08-18,primary,1.0,7.375
+SAMN61243033,PRJNA1042675,,,adult,14971.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-19,primary,1.0,8.055
+SAMN61243034,PRJNA1042675,,,adult,14971.0,female,,obesity,overweight subjects,placebo,placebo arm,,2023-08-20,primary,1.0,7.954
+SAMN61243035,PRJNA1042675,,,adult,14234.0,male,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-21,primary,1.0,11.115
+SAMN61243036,PRJNA1042675,,,adult,14234.0,male,,obesity,overweight subjects,placebo,placebo arm,,2023-08-22,primary,1.0,10.372
+SAMN61243037,PRJNA1042675,,,adult,19358.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-23,primary,1.0,9.005
+SAMN61243038,PRJNA1042675,,,adult,19358.2,female,,obesity,overweight subjects,placebo,placebo arm,,2023-08-24,primary,1.0,9.289
+SAMN61243039,PRJNA1042675,,,adult,22280.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: placebo arm,,2023-08-25,primary,1.0,9.229
+SAMN61243040,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-26,primary,1.0,8.422
+SAMN61243041,PRJNA1042675,,,adult,20819.2,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-27,primary,1.0,9.28
+SAMN61243042,PRJNA1042675,,,adult,10584.0,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-28,primary,1.0,10.0
+SAMN61243043,PRJNA1042675,,,adult,10584.0,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-29,primary,1.0,7.864
+SAMN61243044,PRJNA1042675,,,adult,15330.5,female,,obesity,overweight subjects,no_intervention,baseline before treatment; assigned arm: Mediterranean diet superfood supplement arm,,2023-08-30,primary,1.0,8.425
+SAMN61243045,PRJNA1042675,,,adult,15330.5,female,,obesity,overweight subjects,diet_intervention,Mediterranean diet superfood supplement arm,,2023-08-31,primary,1.0,10.313

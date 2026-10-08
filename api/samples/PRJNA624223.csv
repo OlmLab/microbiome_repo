@@ -1,0 +1,74 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN15064737,PRJNA624223,,,adult,14610.0,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,4.586
+SAMN15064738,PRJNA624223,,,adult,17532.0,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,1.69
+SAMN15064739,PRJNA624223,,,adult,18262.0,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,3.315
+SAMN15064740,PRJNA624223,,,adult,17532.0,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,3.524
+SAMN15064741,PRJNA624223,,,adult,17872.0,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,3.774
+SAMN15064742,PRJNA624223,,,adult,16791.8,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,4.329
+SAMN15064743,PRJNA624223,,,adult,8034.0,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,1.651
+SAMN15064744,PRJNA624223,,,adult,12783.8,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,15.517
+SAMN15064745,PRJNA624223,,,adult,16791.8,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,1.092
+SAMN15064746,PRJNA624223,,,adult,17532.0,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,3.678
+SAMN15064747,PRJNA624223,,,adult,16791.8,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,3.323
+SAMN15064748,PRJNA624223,,,adult,17532.0,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,1.505
+SAMN15064749,PRJNA624223,,,adult,12053.2,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,3.993
+SAMN15064750,PRJNA624223,,,adult,17532.0,female,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,22.442
+SAMN15064751,PRJNA624223,,,adult,17166.8,male,CN,healthy_control,Healthy control,,,no,2020-02-05/2020-03-17,primary,1.0,6.851
+SAMN15064752,PRJNA624223,,,adult,13149.0,male,HK,,Pneumonia control,,,,2020-02-05/2020-03-17,primary,1.0,3.156
+SAMN15064753,PRJNA624223,,,elderly,25169.2,female,CN,other_infection,Pneumonia control,,,no,2020-02-05/2020-03-17,primary,1.0,4.032
+SAMN15064754,PRJNA624223,,,adult,15704.0,male,CN,other_infection,Pneumonia control,,,no,2020-02-05/2020-03-17,primary,1.0,3.619
+SAMN15064755,PRJNA624223,,,adult,17166.8,male,CN,other_infection,Pneumonia control,,,no,2020-02-05/2020-03-17,primary,1.0,2.385
+SAMN15064756,PRJNA624223,,,elderly,32868.0,female,CN,other_infection,Pneumonia control,,,no,2020-02-05/2020-03-17,primary,1.0,4.703
+SAMN15064757,PRJNA624223,,,adult,18993.0,male,CN,other_infection,Pneumonia control,,,no,2020-02-05/2020-03-17,primary,1.0,2.231
+SAMN15064758,PRJNA624223,,,adult,23741.2,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,3.329
+SAMN15064759,PRJNA624223,,,adult,23741.2,female,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,3.677
+SAMN15064760,PRJNA624223,,,adult,23741.2,female,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,38.16
+SAMN15064761,PRJNA624223,,,adult,23741.2,female,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,3.193
+SAMN15064762,PRJNA624223,,,adult,20088.8,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,2.912
+SAMN15064763,PRJNA624223,,,adult,20088.8,female,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,3.499
+SAMN15064764,PRJNA624223,,,adult,15330.5,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,2.053
+SAMN15064765,PRJNA624223,,,adult,15330.5,male,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,6.781
+SAMN15064766,PRJNA624223,,,adult,15330.5,male,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,9.844
+SAMN15064767,PRJNA624223,,,adult,15330.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,2.85
+SAMN15064768,PRJNA624223,,,elderly,25567.5,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,5.144
+SAMN15064769,PRJNA624223,,,elderly,25567.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.185
+SAMN15064770,PRJNA624223,,,elderly,25567.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,6.763
+SAMN15064771,PRJNA624223,,,adult,21165.0,male,HK,,COVID-19 case,,,,2020-02-05/2020-03-17,primary,1.0,2.358
+SAMN15064772,PRJNA624223,,,adult,21165.0,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,1.185
+SAMN15064773,PRJNA624223,,,adult,21165.0,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,2.665
+SAMN15064774,PRJNA624223,,,adult,21165.0,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,8.443
+SAMN15064775,PRJNA624223,,,adult,21165.0,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,14.622
+SAMN15064776,PRJNA624223,,,elderly,25922.0,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,3.16
+SAMN15064777,PRJNA624223,,,elderly,25922.0,male,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,3.274
+SAMN15064778,PRJNA624223,,,adult,17532.0,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,5.287
+SAMN15064779,PRJNA624223,,,adult,17532.0,male,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,8.014
+SAMN15064780,PRJNA624223,,,adult,17532.0,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.138
+SAMN15064781,PRJNA624223,,,adult,17532.0,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,3.2
+SAMN15064782,PRJNA624223,,,adult,13879.5,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,3.413
+SAMN15064783,PRJNA624223,,,adult,13879.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.023
+SAMN15064784,PRJNA624223,,,adult,13879.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.148
+SAMN15064785,PRJNA624223,,,adult,13879.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,1.641
+SAMN15064786,PRJNA624223,,,adult,13879.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,2.539
+SAMN15064787,PRJNA624223,,,adult,13879.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,3.1
+SAMN15064788,PRJNA624223,,,adult,12053.2,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,4.267
+SAMN15064789,PRJNA624223,,,elderly,25567.5,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,3.245
+SAMN15064790,PRJNA624223,,,elderly,25567.5,female,CN,other_infection,COVID-19,,,no,2020-02-05/2020-03-17,primary,1.0,3.964
+SAMN15064791,PRJNA624223,,,elderly,25567.5,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.128
+SAMN15064792,PRJNA624223,,,elderly,25567.5,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,1.851
+SAMN15064793,PRJNA624223,,,adult,22645.5,male,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,2.584
+SAMN15064794,PRJNA624223,,,adult,22645.5,male,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,2.109
+SAMN15064795,PRJNA624223,,,elderly,25922.0,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,4.793
+SAMN15064796,PRJNA624223,,,elderly,25922.0,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,3.071
+SAMN15064797,PRJNA624223,,,elderly,25922.0,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,2.825
+SAMN15064798,PRJNA624223,,,elderly,25922.0,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.311
+SAMN15064799,PRJNA624223,,,elderly,25922.0,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,5.472
+SAMN15064800,PRJNA624223,,,elderly,25922.0,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,4.721
+SAMN15064801,PRJNA624223,,,elderly,25922.0,female,HK,,mixed_case_control: COVID-19 patients vs healthy controls,,,,2020-02-05/2020-03-17,primary,1.0,1.542
+SAMN15064802,PRJNA624223,,,adult,17166.8,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,2.599
+SAMN15064804,PRJNA624223,,,adult,8034.0,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,3.052
+SAMN15064805,PRJNA624223,,,adult,8034.0,female,CN,other_infection,COVID-19,,,,2020-02-05/2020-03-17,primary,1.0,0.4
+SAMN15064806,PRJNA624223,,,adult,16791.8,female,CN,other_infection,COVID-19 case,,,no,2020-02-05/2020-03-17,primary,1.0,2.636
+SAMN15064807,PRJNA624223,,,adult,16791.8,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,2.713
+SAMN15064808,PRJNA624223,,,adult,16791.8,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,3.765
+SAMN15064809,PRJNA624223,,,adult,16791.8,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,7.78
+SAMN15064810,PRJNA624223,,,adult,16791.8,female,CN,other_infection,SARS-CoV-2,,,no,2020-02-05/2020-03-17,primary,1.0,9.615

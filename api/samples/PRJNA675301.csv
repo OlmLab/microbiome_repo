@@ -1,0 +1,475 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN16701291,PRJNA675301,9002,1,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,5.638
+SAMN16701299,PRJNA675301,9002,10,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.685
+SAMN16701300,PRJNA675301,9002,11,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,4.265
+SAMN16701301,PRJNA675301,9002,12,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.799
+SAMN16701302,PRJNA675301,9002,13,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.744
+SAMN16701303,PRJNA675301,9002,14,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.756
+SAMN16701304,PRJNA675301,9002,15,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.634
+SAMN16701292,PRJNA675301,9002,2,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.682
+SAMN16701293,PRJNA675301,9002,3,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.987
+SAMN16701294,PRJNA675301,9002,4,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.209
+SAMN16701295,PRJNA675301,9002,5,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.422
+SAMN16701296,PRJNA675301,9002,6,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.396
+SAMN16701297,PRJNA675301,9002,7,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.437
+SAMN16701298,PRJNA675301,9002,9,adult,7305.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.296
+SAMN16701743,PRJNA675301,9002,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned vegan diet,,2015,primary,1.0,2.116
+SAMN16701305,PRJNA675301,9003,0,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,0.924
+SAMN16701306,PRJNA675301,9003,1,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.002
+SAMN16701314,PRJNA675301,9003,10,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.28
+SAMN16701315,PRJNA675301,9003,11,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.059
+SAMN16701316,PRJNA675301,9003,12,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.05
+SAMN16701317,PRJNA675301,9003,13,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.099
+SAMN16701318,PRJNA675301,9003,14,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.327
+SAMN16701319,PRJNA675301,9003,15,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.44
+SAMN16701307,PRJNA675301,9003,2,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.015
+SAMN16701308,PRJNA675301,9003,3,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.349
+SAMN16701309,PRJNA675301,9003,4,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.765
+SAMN16701310,PRJNA675301,9003,6,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.11
+SAMN16701311,PRJNA675301,9003,7,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.238
+SAMN16701312,PRJNA675301,9003,8,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.048
+SAMN16701313,PRJNA675301,9003,9,adult,7670.2,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.013
+SAMN16701744,PRJNA675301,9003,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,2.126
+SAMN16701320,PRJNA675301,9004,1,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.808
+SAMN16701328,PRJNA675301,9004,10,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.42
+SAMN16701329,PRJNA675301,9004,11,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.285
+SAMN16701330,PRJNA675301,9004,12,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.205
+SAMN16701331,PRJNA675301,9004,13,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.435
+SAMN16701332,PRJNA675301,9004,14,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.975
+SAMN16701333,PRJNA675301,9004,15,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.349
+SAMN16701321,PRJNA675301,9004,2,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.057
+SAMN16701322,PRJNA675301,9004,3,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.517
+SAMN16701323,PRJNA675301,9004,4,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.683
+SAMN16701324,PRJNA675301,9004,5,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.763
+SAMN16701325,PRJNA675301,9004,6,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,4.893
+SAMN16701326,PRJNA675301,9004,7,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.574
+SAMN16701327,PRJNA675301,9004,9,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.317
+SAMN16701745,PRJNA675301,9004,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned vegan diet,,2015,primary,1.0,2.047
+SAMN16701334,PRJNA675301,9005,0,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.943
+SAMN16701342,PRJNA675301,9005,10,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.014
+SAMN16701343,PRJNA675301,9005,11,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,5.141
+SAMN16701344,PRJNA675301,9005,12,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,4.576
+SAMN16701345,PRJNA675301,9005,13,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,5.282
+SAMN16701346,PRJNA675301,9005,14,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.292
+SAMN16701347,PRJNA675301,9005,15,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.853
+SAMN16701335,PRJNA675301,9005,2,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,0.784
+SAMN16701336,PRJNA675301,9005,3,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.502
+SAMN16701337,PRJNA675301,9005,4,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.833
+SAMN16701338,PRJNA675301,9005,6,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.281
+SAMN16701339,PRJNA675301,9005,7,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.023
+SAMN16701340,PRJNA675301,9005,8,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.006
+SAMN16701341,PRJNA675301,9005,9,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.048
+SAMN16701746,PRJNA675301,9005,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,,2015,primary,1.0,1.804
+SAMN16701348,PRJNA675301,9006,0,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,5.549
+SAMN16701349,PRJNA675301,9006,1,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.316
+SAMN16701358,PRJNA675301,9006,10,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.32
+SAMN16701359,PRJNA675301,9006,11,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.44
+SAMN16701360,PRJNA675301,9006,12,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,5.025
+SAMN16701361,PRJNA675301,9006,13,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.645
+SAMN16701362,PRJNA675301,9006,14,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.977
+SAMN16701363,PRJNA675301,9006,15,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,4.116
+SAMN16701350,PRJNA675301,9006,2,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.893
+SAMN16701351,PRJNA675301,9006,3,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.21
+SAMN16701352,PRJNA675301,9006,4,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,3.172
+SAMN16701353,PRJNA675301,9006,5,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.383
+SAMN16701354,PRJNA675301,9006,6,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.42
+SAMN16701355,PRJNA675301,9006,7,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,3.109
+SAMN16701356,PRJNA675301,9006,8,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.019
+SAMN16701357,PRJNA675301,9006,9,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.069
+SAMN16701364,PRJNA675301,9008,1,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.677
+SAMN16701372,PRJNA675301,9008,10,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.63
+SAMN16701373,PRJNA675301,9008,11,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,5.46
+SAMN16701374,PRJNA675301,9008,12,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.239
+SAMN16701375,PRJNA675301,9008,13,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.623
+SAMN16701376,PRJNA675301,9008,14,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.218
+SAMN16701377,PRJNA675301,9008,15,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.568
+SAMN16701365,PRJNA675301,9008,2,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.506
+SAMN16701366,PRJNA675301,9008,3,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.419
+SAMN16701367,PRJNA675301,9008,4,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,3.045
+SAMN16701368,PRJNA675301,9008,5,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.073
+SAMN16701369,PRJNA675301,9008,6,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.02
+SAMN16701370,PRJNA675301,9008,7,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.432
+SAMN16701371,PRJNA675301,9008,9,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.073
+SAMN16701747,PRJNA675301,9008,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned vegan diet,,2015,primary,1.0,1.956
+SAMN16701378,PRJNA675301,9009,0,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.754
+SAMN16701386,PRJNA675301,9009,10,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.422
+SAMN16701387,PRJNA675301,9009,11,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,4.422
+SAMN16701388,PRJNA675301,9009,12,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,5.3
+SAMN16701389,PRJNA675301,9009,13,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.032
+SAMN16701390,PRJNA675301,9009,15,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.566
+SAMN16701379,PRJNA675301,9009,3,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.294
+SAMN16701380,PRJNA675301,9009,4,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.529
+SAMN16701381,PRJNA675301,9009,5,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.013
+SAMN16701382,PRJNA675301,9009,6,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.073
+SAMN16701383,PRJNA675301,9009,7,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.621
+SAMN16701384,PRJNA675301,9009,8,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.014
+SAMN16701385,PRJNA675301,9009,9,adult,8766.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.013
+SAMN16701748,PRJNA675301,9009,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,1.787
+SAMN16701391,PRJNA675301,9010,0,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.496
+SAMN16701392,PRJNA675301,9010,1,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.673
+SAMN16701400,PRJNA675301,9010,10,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.052
+SAMN16701401,PRJNA675301,9010,11,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.106
+SAMN16701402,PRJNA675301,9010,12,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,3.5
+SAMN16701403,PRJNA675301,9010,13,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.51
+SAMN16701404,PRJNA675301,9010,15,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.583
+SAMN16701393,PRJNA675301,9010,2,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.626
+SAMN16701394,PRJNA675301,9010,3,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.319
+SAMN16701395,PRJNA675301,9010,4,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.431
+SAMN16701396,PRJNA675301,9010,5,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.423
+SAMN16701397,PRJNA675301,9010,6,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.634
+SAMN16701398,PRJNA675301,9010,8,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.028
+SAMN16701399,PRJNA675301,9010,9,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.051
+SAMN16701749,PRJNA675301,9010,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,,2015,primary,1.0,1.896
+SAMN16701405,PRJNA675301,9013,0,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,5.863
+SAMN16701413,PRJNA675301,9013,10,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.059
+SAMN16701414,PRJNA675301,9013,11,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.793
+SAMN16701415,PRJNA675301,9013,12,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.126
+SAMN16701416,PRJNA675301,9013,13,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,3.391
+SAMN16701417,PRJNA675301,9013,15,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.514
+SAMN16701406,PRJNA675301,9013,2,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,3.636
+SAMN16701407,PRJNA675301,9013,3,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.803
+SAMN16701408,PRJNA675301,9013,4,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.403
+SAMN16701409,PRJNA675301,9013,5,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.246
+SAMN16701410,PRJNA675301,9013,6,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.645
+SAMN16701411,PRJNA675301,9013,8,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.014
+SAMN16701412,PRJNA675301,9013,9,adult,13149.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.01
+SAMN16701418,PRJNA675301,9014,1,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.124
+SAMN16701426,PRJNA675301,9014,10,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.086
+SAMN16701427,PRJNA675301,9014,11,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.328
+SAMN16701428,PRJNA675301,9014,12,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.115
+SAMN16701429,PRJNA675301,9014,13,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.519
+SAMN16701430,PRJNA675301,9014,14,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.045
+SAMN16701431,PRJNA675301,9014,15,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.689
+SAMN16701419,PRJNA675301,9014,2,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.278
+SAMN16701420,PRJNA675301,9014,3,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,0.365
+SAMN16701421,PRJNA675301,9014,4,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.12
+SAMN16701422,PRJNA675301,9014,5,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.11
+SAMN16701423,PRJNA675301,9014,6,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.378
+SAMN16701424,PRJNA675301,9014,7,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.165
+SAMN16701425,PRJNA675301,9014,9,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.25
+SAMN16701750,PRJNA675301,9014,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned vegan diet,,2015,primary,1.0,1.942
+SAMN16701432,PRJNA675301,9015,0,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.336
+SAMN16701433,PRJNA675301,9015,1,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.354
+SAMN16701441,PRJNA675301,9015,10,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.216
+SAMN16701442,PRJNA675301,9015,12,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.245
+SAMN16701443,PRJNA675301,9015,13,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.135
+SAMN16701444,PRJNA675301,9015,14,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.53
+SAMN16701445,PRJNA675301,9015,15,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.445
+SAMN16701434,PRJNA675301,9015,2,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.898
+SAMN16701435,PRJNA675301,9015,3,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.042
+SAMN16701436,PRJNA675301,9015,4,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.468
+SAMN16701437,PRJNA675301,9015,5,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.287
+SAMN16701438,PRJNA675301,9015,6,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.713
+SAMN16701439,PRJNA675301,9015,7,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.967
+SAMN16701440,PRJNA675301,9015,9,adult,8391.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.045
+SAMN16701446,PRJNA675301,9016,0,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.703
+SAMN16701454,PRJNA675301,9016,10,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.126
+SAMN16701455,PRJNA675301,9016,11,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.921
+SAMN16701456,PRJNA675301,9016,12,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.524
+SAMN16701457,PRJNA675301,9016,13,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,5.725
+SAMN16701458,PRJNA675301,9016,14,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,5.421
+SAMN16701459,PRJNA675301,9016,15,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,3.175
+SAMN16701447,PRJNA675301,9016,2,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.992
+SAMN16701448,PRJNA675301,9016,3,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.327
+SAMN16701449,PRJNA675301,9016,5,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.813
+SAMN16701450,PRJNA675301,9016,6,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.404
+SAMN16701451,PRJNA675301,9016,7,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.696
+SAMN16701452,PRJNA675301,9016,8,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.009
+SAMN16701453,PRJNA675301,9016,9,adult,13878.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.009
+SAMN16701751,PRJNA675301,9016,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,2.005
+SAMN16701460,PRJNA675301,9017,1,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.495
+SAMN16701468,PRJNA675301,9017,10,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.709
+SAMN16701469,PRJNA675301,9017,11,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.761
+SAMN16701470,PRJNA675301,9017,12,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.049
+SAMN16701471,PRJNA675301,9017,13,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.456
+SAMN16701472,PRJNA675301,9017,14,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.725
+SAMN16701473,PRJNA675301,9017,15,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.692
+SAMN16701461,PRJNA675301,9017,2,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.11
+SAMN16701462,PRJNA675301,9017,3,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.864
+SAMN16701463,PRJNA675301,9017,4,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.565
+SAMN16701464,PRJNA675301,9017,5,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.791
+SAMN16701465,PRJNA675301,9017,6,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.252
+SAMN16701466,PRJNA675301,9017,7,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.481
+SAMN16701467,PRJNA675301,9017,9,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.096
+SAMN16701474,PRJNA675301,9019,0,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,0.872
+SAMN16701475,PRJNA675301,9019,1,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.092
+SAMN16701484,PRJNA675301,9019,10,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.151
+SAMN16701485,PRJNA675301,9019,11,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.215
+SAMN16701486,PRJNA675301,9019,12,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.937
+SAMN16701487,PRJNA675301,9019,13,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.231
+SAMN16701488,PRJNA675301,9019,14,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.452
+SAMN16701489,PRJNA675301,9019,15,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.616
+SAMN16701476,PRJNA675301,9019,2,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.091
+SAMN16701477,PRJNA675301,9019,3,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,0.828
+SAMN16701478,PRJNA675301,9019,4,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.3
+SAMN16701479,PRJNA675301,9019,5,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.985
+SAMN16701480,PRJNA675301,9019,6,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.416
+SAMN16701481,PRJNA675301,9019,7,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.615
+SAMN16701482,PRJNA675301,9019,8,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.01
+SAMN16701483,PRJNA675301,9019,9,adult,13504.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.021
+SAMN16701490,PRJNA675301,9022,1,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.199
+SAMN16701498,PRJNA675301,9022,10,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.396
+SAMN16701499,PRJNA675301,9022,11,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.893
+SAMN16701500,PRJNA675301,9022,12,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.598
+SAMN16701501,PRJNA675301,9022,14,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.761
+SAMN16701502,PRJNA675301,9022,15,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.048
+SAMN16701491,PRJNA675301,9022,2,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.535
+SAMN16701492,PRJNA675301,9022,3,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.067
+SAMN16701493,PRJNA675301,9022,4,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.415
+SAMN16701494,PRJNA675301,9022,5,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.066
+SAMN16701495,PRJNA675301,9022,6,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.566
+SAMN16701496,PRJNA675301,9022,7,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.201
+SAMN16701497,PRJNA675301,9022,9,adult,9131.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.037
+SAMN16701503,PRJNA675301,9024,0,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.004
+SAMN16701504,PRJNA675301,9024,1,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,0.743
+SAMN16701511,PRJNA675301,9024,11,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,3.129
+SAMN16701512,PRJNA675301,9024,12,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.935
+SAMN16701513,PRJNA675301,9024,13,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.363
+SAMN16701514,PRJNA675301,9024,14,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,3.061
+SAMN16701515,PRJNA675301,9024,15,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,3.042
+SAMN16701505,PRJNA675301,9024,2,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,0.744
+SAMN16701506,PRJNA675301,9024,3,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.381
+SAMN16701507,PRJNA675301,9024,4,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.536
+SAMN16701508,PRJNA675301,9024,5,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.299
+SAMN16701509,PRJNA675301,9024,6,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.116
+SAMN16701510,PRJNA675301,9024,7,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.75
+SAMN16701752,PRJNA675301,9024,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,1.895
+SAMN16701516,PRJNA675301,9025,0,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.35
+SAMN16701517,PRJNA675301,9025,1,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.387
+SAMN16701522,PRJNA675301,9025,10,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.085
+SAMN16701523,PRJNA675301,9025,13,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.061
+SAMN16701524,PRJNA675301,9025,15,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.178
+SAMN16701518,PRJNA675301,9025,4,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.489
+SAMN16701519,PRJNA675301,9025,7,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.71
+SAMN16701520,PRJNA675301,9025,8,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.006
+SAMN16701521,PRJNA675301,9025,9,adult,10234.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.016
+SAMN16701525,PRJNA675301,9026,1,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,3.558
+SAMN16701533,PRJNA675301,9026,10,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.998
+SAMN16701534,PRJNA675301,9026,11,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.098
+SAMN16701535,PRJNA675301,9026,13,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.03
+SAMN16701536,PRJNA675301,9026,14,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.75
+SAMN16701537,PRJNA675301,9026,15,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.027
+SAMN16701526,PRJNA675301,9026,2,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.01
+SAMN16701527,PRJNA675301,9026,4,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.561
+SAMN16701528,PRJNA675301,9026,5,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.195
+SAMN16701529,PRJNA675301,9026,6,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.122
+SAMN16701530,PRJNA675301,9026,7,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.613
+SAMN16701531,PRJNA675301,9026,8,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.013
+SAMN16701532,PRJNA675301,9026,9,adult,8766.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.031
+SAMN16701538,PRJNA675301,9027,1,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.433
+SAMN16701544,PRJNA675301,9027,10,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.44
+SAMN16701545,PRJNA675301,9027,13,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.865
+SAMN16701539,PRJNA675301,9027,4,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,3.989
+SAMN16701540,PRJNA675301,9027,5,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,3.696
+SAMN16701541,PRJNA675301,9027,6,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.831
+SAMN16701542,PRJNA675301,9027,7,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,3.595
+SAMN16701543,PRJNA675301,9027,9,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.081
+SAMN16701753,PRJNA675301,9027,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned vegan diet,,2015,primary,1.0,2.035
+SAMN16701546,PRJNA675301,9029,0,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.923
+SAMN16701547,PRJNA675301,9029,1,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.207
+SAMN16701556,PRJNA675301,9029,10,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.166
+SAMN16701557,PRJNA675301,9029,11,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.589
+SAMN16701558,PRJNA675301,9029,12,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.4
+SAMN16701559,PRJNA675301,9029,13,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.668
+SAMN16701560,PRJNA675301,9029,14,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.417
+SAMN16701561,PRJNA675301,9029,15,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.968
+SAMN16701548,PRJNA675301,9029,2,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,0.986
+SAMN16701549,PRJNA675301,9029,3,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.855
+SAMN16701550,PRJNA675301,9029,4,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.143
+SAMN16701551,PRJNA675301,9029,5,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.947
+SAMN16701552,PRJNA675301,9029,6,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.729
+SAMN16701553,PRJNA675301,9029,7,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.83
+SAMN16701554,PRJNA675301,9029,8,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.008
+SAMN16701555,PRJNA675301,9029,9,adult,9496.5,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.006
+SAMN16701754,PRJNA675301,9029,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,2.088
+SAMN16701562,PRJNA675301,9030,0,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.111
+SAMN16701570,PRJNA675301,9030,11,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.427
+SAMN16701571,PRJNA675301,9030,12,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.057
+SAMN16701572,PRJNA675301,9030,15,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.262
+SAMN16701563,PRJNA675301,9030,2,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.343
+SAMN16701564,PRJNA675301,9030,3,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,0.303
+SAMN16701565,PRJNA675301,9030,4,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.282
+SAMN16701566,PRJNA675301,9030,5,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.879
+SAMN16701567,PRJNA675301,9030,6,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.558
+SAMN16701568,PRJNA675301,9030,7,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.369
+SAMN16701569,PRJNA675301,9030,9,adult,16791.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.079
+SAMN16701573,PRJNA675301,9031,1,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,3.024
+SAMN16701582,PRJNA675301,9031,10,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.047
+SAMN16701583,PRJNA675301,9031,11,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.05
+SAMN16701584,PRJNA675301,9031,12,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.553
+SAMN16701585,PRJNA675301,9031,13,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.406
+SAMN16701586,PRJNA675301,9031,14,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.215
+SAMN16701587,PRJNA675301,9031,15,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.103
+SAMN16701574,PRJNA675301,9031,2,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.468
+SAMN16701575,PRJNA675301,9031,3,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.651
+SAMN16701576,PRJNA675301,9031,4,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.278
+SAMN16701577,PRJNA675301,9031,5,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.892
+SAMN16701578,PRJNA675301,9031,6,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.018
+SAMN16701579,PRJNA675301,9031,7,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.565
+SAMN16701580,PRJNA675301,9031,8,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.085
+SAMN16701581,PRJNA675301,9031,9,adult,11688.0,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.019
+SAMN16701588,PRJNA675301,9032,0,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.286
+SAMN16701593,PRJNA675301,9032,10,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.006
+SAMN16701594,PRJNA675301,9032,11,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.597
+SAMN16701595,PRJNA675301,9032,12,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.976
+SAMN16701596,PRJNA675301,9032,13,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.119
+SAMN16701597,PRJNA675301,9032,14,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.66
+SAMN16701598,PRJNA675301,9032,15,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.681
+SAMN16701589,PRJNA675301,9032,3,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.894
+SAMN16701590,PRJNA675301,9032,4,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.077
+SAMN16701591,PRJNA675301,9032,5,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.977
+SAMN16701592,PRJNA675301,9032,6,adult,19706.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.34
+SAMN16701755,PRJNA675301,9032,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,1.925
+SAMN16701599,PRJNA675301,9033,0,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.965
+SAMN16701600,PRJNA675301,9033,1,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.683
+SAMN16701609,PRJNA675301,9033,10,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.028
+SAMN16701610,PRJNA675301,9033,11,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.161
+SAMN16701611,PRJNA675301,9033,12,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.705
+SAMN16701612,PRJNA675301,9033,13,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.666
+SAMN16701613,PRJNA675301,9033,14,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.0
+SAMN16701614,PRJNA675301,9033,15,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.361
+SAMN16701601,PRJNA675301,9033,2,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.31
+SAMN16701602,PRJNA675301,9033,3,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.408
+SAMN16701603,PRJNA675301,9033,4,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.727
+SAMN16701604,PRJNA675301,9033,5,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.093
+SAMN16701605,PRJNA675301,9033,6,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.218
+SAMN16701606,PRJNA675301,9033,7,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.67
+SAMN16701607,PRJNA675301,9033,8,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.034
+SAMN16701608,PRJNA675301,9033,9,adult,21177.0,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.014
+SAMN16701756,PRJNA675301,9033,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,,2015,primary,1.0,1.91
+SAMN16701615,PRJNA675301,9034,0,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.323
+SAMN16701616,PRJNA675301,9034,1,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.651
+SAMN16701625,PRJNA675301,9034,10,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.007
+SAMN16701626,PRJNA675301,9034,11,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.334
+SAMN16701627,PRJNA675301,9034,12,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.277
+SAMN16701628,PRJNA675301,9034,13,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.133
+SAMN16701629,PRJNA675301,9034,14,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.569
+SAMN16701630,PRJNA675301,9034,15,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,3.346
+SAMN16701617,PRJNA675301,9034,2,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.039
+SAMN16701618,PRJNA675301,9034,3,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.652
+SAMN16701619,PRJNA675301,9034,4,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.484
+SAMN16701620,PRJNA675301,9034,5,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.165
+SAMN16701621,PRJNA675301,9034,6,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.359
+SAMN16701622,PRJNA675301,9034,7,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.956
+SAMN16701623,PRJNA675301,9034,8,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.019
+SAMN16701624,PRJNA675301,9034,9,adult,16069.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.006
+SAMN16701757,PRJNA675301,9034,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,2.093
+SAMN16701631,PRJNA675301,9035,1,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,3.09
+SAMN16701639,PRJNA675301,9035,10,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.016
+SAMN16701640,PRJNA675301,9035,11,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.857
+SAMN16701641,PRJNA675301,9035,12,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.644
+SAMN16701642,PRJNA675301,9035,13,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.33
+SAMN16701643,PRJNA675301,9035,14,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.962
+SAMN16701644,PRJNA675301,9035,15,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,1.762
+SAMN16701632,PRJNA675301,9035,2,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.808
+SAMN16701633,PRJNA675301,9035,3,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.374
+SAMN16701634,PRJNA675301,9035,4,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,2.975
+SAMN16701635,PRJNA675301,9035,5,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,no,2015,primary,1.0,1.992
+SAMN16701636,PRJNA675301,9035,6,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.987
+SAMN16701637,PRJNA675301,9035,7,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,2.89
+SAMN16701638,PRJNA675301,9035,9,adult,9496.5,,US,,iscontrol: no,diet_intervention,assigned vegan diet,yes,2015,primary,1.0,0.131
+SAMN16701758,PRJNA675301,9035,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned vegan diet,,2015,primary,1.0,2.086
+SAMN16701645,PRJNA675301,9036,0,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.004
+SAMN16701651,PRJNA675301,9036,10,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.309
+SAMN16701652,PRJNA675301,9036,12,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.001
+SAMN16701653,PRJNA675301,9036,13,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.899
+SAMN16701654,PRJNA675301,9036,14,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.998
+SAMN16701655,PRJNA675301,9036,15,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.02
+SAMN16701734,PRJNA675301,9036,2,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.909
+SAMN16701646,PRJNA675301,9036,4,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.174
+SAMN16701647,PRJNA675301,9036,6,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.403
+SAMN16701648,PRJNA675301,9036,7,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.04
+SAMN16701649,PRJNA675301,9036,8,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.013
+SAMN16701650,PRJNA675301,9036,9,adult,22280.2,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.118
+SAMN16701759,PRJNA675301,9036,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,,2015,primary,1.0,2.077
+SAMN16701656,PRJNA675301,9037,0,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.191
+SAMN16701657,PRJNA675301,9037,1,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.363
+SAMN16701737,PRJNA675301,9037,10,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.785
+SAMN16701664,PRJNA675301,9037,11,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.967
+SAMN16701665,PRJNA675301,9037,12,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.558
+SAMN16701666,PRJNA675301,9037,13,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.823
+SAMN16701667,PRJNA675301,9037,14,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.159
+SAMN16701668,PRJNA675301,9037,15,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.639
+SAMN16701658,PRJNA675301,9037,2,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.769
+SAMN16701735,PRJNA675301,9037,3,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.648
+SAMN16701659,PRJNA675301,9037,4,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.122
+SAMN16701660,PRJNA675301,9037,5,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.061
+SAMN16701661,PRJNA675301,9037,6,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.329
+SAMN16701662,PRJNA675301,9037,7,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.354
+SAMN16701663,PRJNA675301,9037,8,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.106
+SAMN16701736,PRJNA675301,9037,9,adult,10957.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.424
+SAMN16701760,PRJNA675301,9037,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,,2015,primary,1.0,2.249
+SAMN16701738,PRJNA675301,9038,0,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.938
+SAMN16701739,PRJNA675301,9038,1,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,1.307
+SAMN16701677,PRJNA675301,9038,10,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.071
+SAMN16701678,PRJNA675301,9038,11,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.119
+SAMN16701679,PRJNA675301,9038,12,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.162
+SAMN16701680,PRJNA675301,9038,13,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.2
+SAMN16701681,PRJNA675301,9038,14,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.696
+SAMN16701740,PRJNA675301,9038,15,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.019
+SAMN16701669,PRJNA675301,9038,2,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.209
+SAMN16701670,PRJNA675301,9038,3,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.151
+SAMN16701671,PRJNA675301,9038,4,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.206
+SAMN16701672,PRJNA675301,9038,5,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",no,2015,primary,1.0,2.174
+SAMN16701673,PRJNA675301,9038,6,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,1.872
+SAMN16701674,PRJNA675301,9038,7,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,2.222
+SAMN16701675,PRJNA675301,9038,8,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.034
+SAMN16701676,PRJNA675301,9038,9,adult,21915.0,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",yes,2015,primary,1.0,0.005
+SAMN16701761,PRJNA675301,9038,PS,adult,,,US,,iscontrol: no,diet_intervention,"exclusive enteral nutrition, fiber-free diet",,2015,primary,1.0,2.242
+SAMN16701741,PRJNA675301,9040,0,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,1.644
+SAMN16701682,PRJNA675301,9040,1,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.772
+SAMN16701690,PRJNA675301,9040,10,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.66
+SAMN16701691,PRJNA675301,9040,11,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.185
+SAMN16701692,PRJNA675301,9040,12,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,1.825
+SAMN16701693,PRJNA675301,9040,13,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.676
+SAMN16701694,PRJNA675301,9040,14,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,4.47
+SAMN16701695,PRJNA675301,9040,15,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.665
+SAMN16701683,PRJNA675301,9040,2,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.898
+SAMN16701684,PRJNA675301,9040,3,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.032
+SAMN16701685,PRJNA675301,9040,4,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.232
+SAMN16701686,PRJNA675301,9040,5,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,no,2015,primary,1.0,2.612
+SAMN16701687,PRJNA675301,9040,6,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,2.155
+SAMN16701742,PRJNA675301,9040,7,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.668
+SAMN16701688,PRJNA675301,9040,8,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.014
+SAMN16701689,PRJNA675301,9040,9,adult,8035.5,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,yes,2015,primary,1.0,0.121
+SAMN16701762,PRJNA675301,9040,PS,adult,,,US,,iscontrol: no,diet_intervention,assigned omnivore diet,,2015,primary,1.0,1.911
+SAMN16701696,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.0
+SAMN16701697,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701698,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701699,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,2.161
+SAMN16701700,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.032
+SAMN16701701,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,2.434
+SAMN16701702,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.002
+SAMN16701703,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701704,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.006
+SAMN16701705,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,4.043
+SAMN16701706,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.152
+SAMN16701707,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,2.843
+SAMN16701708,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701709,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,2.302
+SAMN16701710,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.013
+SAMN16701711,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,3.332
+SAMN16701712,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.01
+SAMN16701713,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.037
+SAMN16701714,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.007
+SAMN16701715,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.02
+SAMN16701716,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.004
+SAMN16701717,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,1.217
+SAMN16701718,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.005
+SAMN16701719,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.102
+SAMN16701720,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.0
+SAMN16701721,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701722,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.197
+SAMN16701723,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.023
+SAMN16701724,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.196
+SAMN16701725,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.009
+SAMN16701726,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701727,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701728,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.037
+SAMN16701729,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.002
+SAMN16701730,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701731,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701732,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701733,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,0.001
+SAMN16701763,PRJNA675301,,,adult,,,US,,iscontrol: yes,,,,2015,primary,1.0,1.925
+SAMN16701764,PRJNA675301,,,adult,,,US,,iscontrol: no,,,,2015,primary,1.0,0.001

@@ -1,0 +1,70 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN34353438,PRJNA961175,,-1,,,,US,,,no_intervention,day_relative_to_fmt1 = -1 (before intervention start),,,primary,1.0,0.062
+SAMN34353430,PRJNA961175,,-10,,,,US,,,no_intervention,day_relative_to_fmt1 = -10 (before intervention start),,,primary,1.0,6.295
+SAMN34353431,PRJNA961175,,-2,,,,US,,,no_intervention,day_relative_to_fmt1 = -2 (before intervention start),,,primary,1.0,8.565
+SAMN34353428,PRJNA961175,,-6,,,,US,,,no_intervention,day_relative_to_fmt1 = -6 (before intervention start),,,primary,1.0,6.844
+SAMN34353437,PRJNA961175,,-9,,,,US,,,no_intervention,day_relative_to_fmt1 = -9 (before intervention start),,,primary,1.0,7.001
+SAMN34353439,PRJNA961175,,1,,,,US,,,fmt,day_relative_to_fmt1 = 1 (after intervention start),,,primary,1.0,0.012
+SAMN34353433,PRJNA961175,,14,,,,US,,,fmt,day_relative_to_fmt1 = 14 (after intervention start),,,primary,1.0,7.682
+SAMN34353440,PRJNA961175,,17,,,,US,,,fmt,day_relative_to_fmt1 = 17 (after intervention start),,,primary,1.0,2.601
+SAMN34353429,PRJNA961175,,21,,,,US,,,fmt,day_relative_to_fmt1 = 21 (after intervention start),,,primary,1.0,5.57
+SAMN34353436,PRJNA961175,,250,,,,US,,,fmt,day_relative_to_fmt1 = 250 (after intervention start),,,primary,1.0,8.974
+SAMN34353441,PRJNA961175,,45,,,,US,,,fmt,day_relative_to_fmt1 = 45 (after intervention start),,,primary,1.0,1.459
+SAMN34353434,PRJNA961175,,57,,,,US,,,fmt,day_relative_to_fmt1 = 57 (after intervention start),,,primary,1.0,1.447
+SAMN34353435,PRJNA961175,,69,,,,US,,,fmt,day_relative_to_fmt1 = 69 (after intervention start),,,primary,1.0,8.983
+SAMN34353432,PRJNA961175,,8,,,,US,,,fmt,day_relative_to_fmt1 = 8 (after intervention start),,,primary,1.0,7.952
+SAMN34353381,PRJNA961175,,,,,,US,,,,,,,primary,1.0,0.242
+SAMN34353382,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.749
+SAMN34353383,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.675
+SAMN34353384,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.613
+SAMN34353385,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.18
+SAMN34353386,PRJNA961175,,,,,,US,,,,,,,primary,1.0,4.115
+SAMN34353387,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.676
+SAMN34353388,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.911
+SAMN34353389,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.657
+SAMN34353390,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.144
+SAMN34353391,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.969
+SAMN34353392,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.845
+SAMN34353393,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.297
+SAMN34353394,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.648
+SAMN34353395,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.361
+SAMN34353396,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.59
+SAMN34353397,PRJNA961175,,,,,,US,,,,,,,primary,1.0,8.678
+SAMN34353398,PRJNA961175,,,,,,US,,,,,,,primary,1.0,2.23
+SAMN34353399,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.079
+SAMN34353400,PRJNA961175,,,,,,US,,,,,,,primary,1.0,4.514
+SAMN34353401,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.938
+SAMN34353402,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.924
+SAMN34353403,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.465
+SAMN34353404,PRJNA961175,,,,,,US,,,,,,,primary,1.0,3.907
+SAMN34353405,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.128
+SAMN34353406,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.595
+SAMN34353407,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.298
+SAMN34353408,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.865
+SAMN34353409,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.366
+SAMN34353410,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.335
+SAMN34353411,PRJNA961175,,,,,,US,,,,,,,primary,1.0,4.722
+SAMN34353412,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.232
+SAMN34353413,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.321
+SAMN34353414,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.445
+SAMN34353415,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.616
+SAMN34353416,PRJNA961175,,,,,,US,,,,,,,primary,1.0,4.819
+SAMN34353417,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.308
+SAMN34353418,PRJNA961175,,,,,,US,,,,,,,primary,1.0,8.614
+SAMN34353419,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.116
+SAMN34353420,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.245
+SAMN34353421,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.351
+SAMN34353422,PRJNA961175,,,,,,US,,,,,,,primary,1.0,0.041
+SAMN34353423,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.676
+SAMN34353424,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.258
+SAMN34353425,PRJNA961175,,,,,,US,,,,,,,primary,1.0,3.865
+SAMN34353426,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.058
+SAMN34353427,PRJNA961175,,,,,,US,,,,,,,primary,1.0,0.953
+SAMN35159488,PRJNA961175,,,,,,US,,,,,,,primary,1.0,3.194
+SAMN35159489,PRJNA961175,,,,,,US,,,,,,,primary,1.0,4.88
+SAMN35159490,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.708
+SAMN35159491,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.85
+SAMN35159492,PRJNA961175,,,,,,US,,,,,,,primary,1.0,7.197
+SAMN35159493,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.695
+SAMN35159494,PRJNA961175,,,,,,US,,,,,,,primary,1.0,5.101
+SAMN35159495,PRJNA961175,,,,,,US,,,,,,,primary,1.0,6.229

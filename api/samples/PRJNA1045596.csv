@@ -1,0 +1,437 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN49972085,PRJNA1045596,Subj 1,Week_8,adolescent,6516.4,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.192
+SAMN49972031,PRJNA1045596,Subj 10,Baseline,adolescent,5973.1,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.721
+SAMN49972010,PRJNA1045596,Subj 10,Week_4,adolescent,6000.1,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.018
+SAMN49972000,PRJNA1045596,Subj 10,Week_8,adolescent,6030.3,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,3.266
+SAMN49971962,PRJNA1045596,Subj 101,Baseline,adult,7154.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.178
+SAMN49971963,PRJNA1045596,Subj 101,Week_4,adult,7189.9,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.819
+SAMN49971964,PRJNA1045596,Subj 101,Week_8,adult,7231.9,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.398
+SAMN49971965,PRJNA1045596,Subj 106,Baseline,child,2114.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.916
+SAMN49971966,PRJNA1045596,Subj 106,Week_4,child,2141.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.049
+SAMN49971967,PRJNA1045596,Subj 106,Week_8,child,2175.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.088
+SAMN49971968,PRJNA1045596,Subj 11,Baseline,child,2115.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.081
+SAMN49971969,PRJNA1045596,Subj 11,Week_4,child,2142.5,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.43
+SAMN49971970,PRJNA1045596,Subj 11,Week_8,child,2171.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.234
+SAMN49971971,PRJNA1045596,Subj 112,Baseline,adolescent,6475.6,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.47
+SAMN49971972,PRJNA1045596,Subj 112,Week_4,adolescent,6498.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.954
+SAMN49971973,PRJNA1045596,Subj 112,Week_8,adolescent,6527.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.077
+SAMN49971974,PRJNA1045596,Subj 113,Baseline,child,1333.8,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.47
+SAMN49971975,PRJNA1045596,Subj 113,Week_4,child,1356.9,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.702
+SAMN49971976,PRJNA1045596,Subj 113,Week_8,child,1384.9,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,3.215
+SAMN49971977,PRJNA1045596,Subj 114,Baseline,child,1265.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.403
+SAMN49971978,PRJNA1045596,Subj 114,Week_4,child,1294.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.307
+SAMN49971979,PRJNA1045596,Subj 114,Week_8,child,1335.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.584
+SAMN49971980,PRJNA1045596,Subj 118,Baseline,child,1594.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.917
+SAMN49971981,PRJNA1045596,Subj 118,Week_4,child,1625.1,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,3.492
+SAMN49971982,PRJNA1045596,Subj 118,Week_8,child,1646.1,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.967
+SAMN49972104,PRJNA1045596,Subj 12,Baseline,child,1985.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.751
+SAMN49972017,PRJNA1045596,Subj 12,Week_4,child,2010.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.373
+SAMN49972024,PRJNA1045596,Subj 12,Week_8,child,2039.3,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.656
+SAMN49971983,PRJNA1045596,Subj 120,Baseline,adolescent,5774.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.232
+SAMN49971984,PRJNA1045596,Subj 120,Week_4,adolescent,5806.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.603
+SAMN49971678,PRJNA1045596,Subj 122,Baseline,adolescent,4995.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.884
+SAMN49971679,PRJNA1045596,Subj 122,Week_4,adolescent,5029.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.233
+SAMN49971680,PRJNA1045596,Subj 122,Week_8,adolescent,5050.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.827
+SAMN49971985,PRJNA1045596,Subj 123,Baseline,child,1987.3,male,US,healthy_control,Healthy,,,no,,primary,1.0,0.585
+SAMN49971986,PRJNA1045596,Subj 123,Week_4,child,2015.3,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.566
+SAMN49971987,PRJNA1045596,Subj 123,Week_8,child,2049.4,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.292
+SAMN49971988,PRJNA1045596,Subj 124,Baseline,infant,944.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.589
+SAMN49971989,PRJNA1045596,Subj 124,Week_4,infant,981.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.562
+SAMN49971990,PRJNA1045596,Subj 124,Week_8,infant,1003.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.432
+SAMN49971991,PRJNA1045596,Subj 125,Baseline,infant,126.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.623
+SAMN49971992,PRJNA1045596,Subj 125,Week_4,infant,159.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,4.256
+SAMN49971993,PRJNA1045596,Subj 125,Week_8,infant,183.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.03
+SAMN49971994,PRJNA1045596,Subj 128,Baseline,child,1110.7,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.667
+SAMN49971995,PRJNA1045596,Subj 128,Week_4,child,1137.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.235
+SAMN49971996,PRJNA1045596,Subj 128,Week_8,child,1166.7,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.376
+SAMN49971997,PRJNA1045596,Subj 129,Baseline,child,1241.8,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.402
+SAMN49971998,PRJNA1045596,Subj 129,Week_4,child,1270.8,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.96
+SAMN49971999,PRJNA1045596,Subj 129,Week_8,child,1290.9,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.201
+SAMN49972001,PRJNA1045596,Subj 130,Baseline,child,1870.4,male,US,healthy_control,Healthy,,,no,,primary,1.0,3.167
+SAMN49972002,PRJNA1045596,Subj 130,Week_4,child,1899.3,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.372
+SAMN49972003,PRJNA1045596,Subj 130,Week_8,child,1922.4,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.482
+SAMN49972004,PRJNA1045596,Subj 133,Baseline,child,2047.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.855
+SAMN49972005,PRJNA1045596,Subj 133,Week_4,child,2072.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.452
+SAMN49972006,PRJNA1045596,Subj 133,Week_8,child,2100.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.505
+SAMN49971681,PRJNA1045596,Subj 134,Baseline,child,3625.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.487
+SAMN49971682,PRJNA1045596,Subj 134,Week_4,child,3653.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.766
+SAMN49971683,PRJNA1045596,Subj 134,Week_8,child,3679.6,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.963
+SAMN49972007,PRJNA1045596,Subj 138,Baseline,adolescent,5816.0,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.263
+SAMN49972008,PRJNA1045596,Subj 138,Week_4,adolescent,5851.0,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.043
+SAMN49972009,PRJNA1045596,Subj 138,Week_8,adolescent,5874.1,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.517
+SAMN49972011,PRJNA1045596,Subj 143,Baseline,child,2220.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.26
+SAMN49972012,PRJNA1045596,Subj 143,Week_4,child,2247.5,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,3.738
+SAMN49972013,PRJNA1045596,Subj 143,Week_8,child,2281.6,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.375
+SAMN49971684,PRJNA1045596,Subj 144,Baseline,child,1458.9,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.475
+SAMN49971685,PRJNA1045596,Subj 144,Week_4,child,1486.0,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.996
+SAMN49971686,PRJNA1045596,Subj 144,Week_8,child,1515.2,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.019
+SAMN49972014,PRJNA1045596,Subj 146,Baseline,adolescent,6033.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.747
+SAMN49972015,PRJNA1045596,Subj 146,Week_4,adolescent,6062.2,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.285
+SAMN49972016,PRJNA1045596,Subj 146,Week_8,adolescent,6089.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.402
+SAMN49971687,PRJNA1045596,Subj 148,Baseline,child,1890.2,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.156
+SAMN49971688,PRJNA1045596,Subj 148,Week_4,child,1924.3,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.038
+SAMN49971689,PRJNA1045596,Subj 148,Week_8,child,1950.4,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.842
+SAMN49971690,PRJNA1045596,Subj 149,Baseline,infant,784.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.823
+SAMN49971691,PRJNA1045596,Subj 149,Week_4,infant,812.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.919
+SAMN49971692,PRJNA1045596,Subj 149,Week_8,infant,846.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.51
+SAMN49971693,PRJNA1045596,Subj 153,Baseline,infant,1021.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.475
+SAMN49971694,PRJNA1045596,Subj 153,Week_4,infant,1058.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.394
+SAMN49971695,PRJNA1045596,Subj 153,Week_8,infant,1080.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.951
+SAMN49971696,PRJNA1045596,Subj 154,Baseline,child,1849.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.071
+SAMN49971697,PRJNA1045596,Subj 154,Week_4,child,1878.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.849
+SAMN49971698,PRJNA1045596,Subj 154,Week_8,child,1917.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.159
+SAMN49971699,PRJNA1045596,Subj 158,Baseline,infant,686.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.748
+SAMN49971700,PRJNA1045596,Subj 158,Week_4,infant,715.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.641
+SAMN49971701,PRJNA1045596,Subj 158,Week_8,infant,752.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.563
+SAMN49972018,PRJNA1045596,Subj 17,Baseline,adolescent,5037.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.907
+SAMN49972019,PRJNA1045596,Subj 17,Week_4,adolescent,5064.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.886
+SAMN49972020,PRJNA1045596,Subj 17,Week_8,adolescent,5099.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.939
+SAMN49971702,PRJNA1045596,Subj 173,Baseline,infant,921.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.909
+SAMN49971703,PRJNA1045596,Subj 173,Week_4,infant,945.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.059
+SAMN49971704,PRJNA1045596,Subj 173,Week_8,infant,977.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.064
+SAMN49972021,PRJNA1045596,Subj 174,Baseline,child,3636.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.191
+SAMN49972022,PRJNA1045596,Subj 174,Week_4,child,3664.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.492
+SAMN49972023,PRJNA1045596,Subj 174,Week_8,child,3691.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.41
+SAMN49971705,PRJNA1045596,Subj 176,Baseline,child,1946.5,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.106
+SAMN49971706,PRJNA1045596,Subj 176,Week_4,child,1967.5,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.056
+SAMN49971707,PRJNA1045596,Subj 176,Week_8,child,2002.5,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.555
+SAMN49971708,PRJNA1045596,Subj 177,Baseline,child,1523.1,female,US,healthy_control,Healthy,,,no,,primary,1.0,3.062
+SAMN49971709,PRJNA1045596,Subj 177,Week_4,child,1552.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.747
+SAMN49971710,PRJNA1045596,Subj 177,Week_8,child,1578.2,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.435
+SAMN49972025,PRJNA1045596,Subj 18,Baseline,child,2112.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.502
+SAMN49972026,PRJNA1045596,Subj 18,Week_4,child,2140.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.057
+SAMN49972027,PRJNA1045596,Subj 18,Week_8,child,2169.6,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.101
+SAMN49971711,PRJNA1045596,Subj 182,Baseline,infant,308.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.658
+SAMN49971712,PRJNA1045596,Subj 182,Week_4,infant,336.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.32
+SAMN49971713,PRJNA1045596,Subj 182,Week_8,infant,363.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.632
+SAMN49971714,PRJNA1045596,Subj 187,Baseline,child,1672.2,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.604
+SAMN49971715,PRJNA1045596,Subj 187,Week_4,child,1711.2,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.154
+SAMN49972028,PRJNA1045596,Subj 19,Baseline,child,2063.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.564
+SAMN49972029,PRJNA1045596,Subj 19,Week_4,child,2087.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.366
+SAMN49972030,PRJNA1045596,Subj 19,Week_8,child,2114.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.987
+SAMN49971716,PRJNA1045596,Subj 194,Baseline,child,1352.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.653
+SAMN49971717,PRJNA1045596,Subj 194,Week_4,child,1380.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.823
+SAMN49971718,PRJNA1045596,Subj 194,Week_8,child,1408.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.183
+SAMN49971719,PRJNA1045596,Subj 196,Baseline,child,1738.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.182
+SAMN49971720,PRJNA1045596,Subj 196,Week_4,child,1765.1,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.41
+SAMN49971721,PRJNA1045596,Subj 196,Week_8,child,1814.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.831
+SAMN49971722,PRJNA1045596,Subj 203,Baseline,adolescent,5441.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.748
+SAMN49971723,PRJNA1045596,Subj 203,Week_4,adolescent,5470.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.305
+SAMN49971724,PRJNA1045596,Subj 203,Week_8,adolescent,5498.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.315
+SAMN49971725,PRJNA1045596,Subj 204,Baseline,child,2109.3,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.882
+SAMN49971726,PRJNA1045596,Subj 204,Week_4,child,2137.3,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.097
+SAMN49971727,PRJNA1045596,Subj 204,Week_8,child,2164.4,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.811
+SAMN49971728,PRJNA1045596,Subj 207,Baseline,adolescent,5139.4,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.219
+SAMN49971729,PRJNA1045596,Subj 207,Week_8,adolescent,5204.5,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,1.743
+SAMN49971730,PRJNA1045596,Subj 208,Baseline,child,1242.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.057
+SAMN49971731,PRJNA1045596,Subj 208,Week_4,child,1270.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.227
+SAMN49971732,PRJNA1045596,Subj 208,Week_8,child,1293.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.068
+SAMN49972033,PRJNA1045596,Subj 21,Baseline,adolescent,5275.7,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.244
+SAMN49972034,PRJNA1045596,Subj 21,Week_4,adolescent,5301.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.866
+SAMN49972035,PRJNA1045596,Subj 21,Week_8,adolescent,5332.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.699
+SAMN49971733,PRJNA1045596,Subj 211,Baseline,adolescent,6227.2,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.045
+SAMN49971734,PRJNA1045596,Subj 211,Week_4,adolescent,6260.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.889
+SAMN49971735,PRJNA1045596,Subj 211,Week_8,adolescent,6295.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.84
+SAMN49971736,PRJNA1045596,Subj 212,Baseline,adolescent,5732.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.083
+SAMN49971737,PRJNA1045596,Subj 212,Week_4,adolescent,5756.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.067
+SAMN49971738,PRJNA1045596,Subj 212,Week_8,adolescent,5789.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.562
+SAMN49971739,PRJNA1045596,Subj 215,Baseline,adolescent,5231.6,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.779
+SAMN49971740,PRJNA1045596,Subj 215,Week_4,adolescent,5259.6,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.965
+SAMN49971741,PRJNA1045596,Subj 215,Week_8,adolescent,5281.5,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.788
+SAMN49971742,PRJNA1045596,Subj 219,Baseline,infant,608.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.257
+SAMN49971743,PRJNA1045596,Subj 219,Week_4,infant,636.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.508
+SAMN49971744,PRJNA1045596,Subj 220,Baseline,child,1701.2,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.272
+SAMN49971745,PRJNA1045596,Subj 220,Week_4,child,1729.2,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.556
+SAMN49971746,PRJNA1045596,Subj 220,Week_8,child,1756.2,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.105
+SAMN49971747,PRJNA1045596,Subj 221,Baseline,child,1411.1,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.526
+SAMN49971748,PRJNA1045596,Subj 221,Week_4,neonate,28.0,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.163
+SAMN49971749,PRJNA1045596,Subj 221,Week_8,infant,56.0,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.261
+SAMN49971750,PRJNA1045596,Subj 223,Baseline,adolescent,4956.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.846
+SAMN49971751,PRJNA1045596,Subj 223,Week_4,adolescent,4998.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.761
+SAMN49971752,PRJNA1045596,Subj 223,Week_8,adolescent,5026.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.677
+SAMN49971753,PRJNA1045596,Subj 226,Baseline,child,1349.9,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.065
+SAMN49971754,PRJNA1045596,Subj 226,Week_4,child,1373.9,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.687
+SAMN49971755,PRJNA1045596,Subj 226,Week_8,child,1415.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.62
+SAMN49971756,PRJNA1045596,Subj 229,Baseline,infant,630.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.637
+SAMN49971757,PRJNA1045596,Subj 229,Week_4,infant,663.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.891
+SAMN49971758,PRJNA1045596,Subj 229,Week_8,infant,686.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.639
+SAMN49971759,PRJNA1045596,Subj 233,Baseline,child,1692.0,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.602
+SAMN49971760,PRJNA1045596,Subj 233,Week_4,child,1721.2,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.58
+SAMN49971761,PRJNA1045596,Subj 233,Week_8,child,1748.3,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.761
+SAMN49971762,PRJNA1045596,Subj 234,Baseline,adult,7269.1,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.751
+SAMN49971763,PRJNA1045596,Subj 234,Week_4,adult,7291.9,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.901
+SAMN49971764,PRJNA1045596,Subj 234,Week_8,adult,7329.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.423
+SAMN49971765,PRJNA1045596,Subj 237,Baseline,child,1670.1,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.961
+SAMN49971766,PRJNA1045596,Subj 237,Week_4,child,1700.2,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.597
+SAMN49971767,PRJNA1045596,Subj 237,Week_8,child,1728.2,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.369
+SAMN49971768,PRJNA1045596,Subj 238,Baseline,child,1737.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.997
+SAMN49971769,PRJNA1045596,Subj 238,Week_4,child,1764.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.752
+SAMN49971770,PRJNA1045596,Subj 238,Week_8,child,1793.4,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.971
+SAMN49972038,PRJNA1045596,Subj 24,Baseline,child,3658.6,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.545
+SAMN49972039,PRJNA1045596,Subj 24,Week_4,child,3715.5,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,1.18
+SAMN49972040,PRJNA1045596,Subj 24,Week_8,child,3741.7,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,1.17
+SAMN49971771,PRJNA1045596,Subj 245,Baseline,child,1412.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.047
+SAMN49971772,PRJNA1045596,Subj 245,Week_4,child,1454.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.272
+SAMN49971773,PRJNA1045596,Subj 245,Week_8,child,1477.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.336
+SAMN49971774,PRJNA1045596,Subj 248,Baseline,child,1651.2,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.329
+SAMN49971775,PRJNA1045596,Subj 248,Week_4,child,1677.1,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.03
+SAMN49971776,PRJNA1045596,Subj 248,Week_8,child,1706.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.903
+SAMN49971777,PRJNA1045596,Subj 250,Baseline,child,1770.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.02
+SAMN49971778,PRJNA1045596,Subj 250,Week_4,child,1792.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.556
+SAMN49971779,PRJNA1045596,Subj 250,Week_8,child,1826.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.826
+SAMN49971780,PRJNA1045596,Subj 255,Baseline,child,1689.3,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.812
+SAMN49971781,PRJNA1045596,Subj 255,Week_4,child,1716.1,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.984
+SAMN49971782,PRJNA1045596,Subj 255,Week_8,child,1751.1,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.61
+SAMN49971783,PRJNA1045596,Subj 256,Baseline,infant,844.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.222
+SAMN49971784,PRJNA1045596,Subj 256,Week_4,infant,872.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.236
+SAMN49971785,PRJNA1045596,Subj 256,Week_8,infant,899.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.287
+SAMN49971786,PRJNA1045596,Subj 257,Baseline,child,1300.9,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.811
+SAMN49971787,PRJNA1045596,Subj 257,Week_4,child,1328.9,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.981
+SAMN49971788,PRJNA1045596,Subj 257,Week_8,child,1357.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.854
+SAMN49971789,PRJNA1045596,Subj 258,Baseline,child,1342.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.69
+SAMN49971790,PRJNA1045596,Subj 258,Week_4,neonate,28.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.738
+SAMN49971791,PRJNA1045596,Subj 258,Week_8,infant,56.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.917
+SAMN49972041,PRJNA1045596,Subj 26,Baseline,child,2256.6,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.247
+SAMN49972042,PRJNA1045596,Subj 26,Week_4,child,2310.5,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.173
+SAMN49972043,PRJNA1045596,Subj 26,Week_8,child,2331.5,female,US,healthy_control,Healthy,,,no,,primary,1.0,0.723
+SAMN49971792,PRJNA1045596,Subj 260,Baseline,infant,953.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.071
+SAMN49971793,PRJNA1045596,Subj 260,Week_4,infant,981.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.131
+SAMN49971794,PRJNA1045596,Subj 260,Week_8,infant,1009.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.931
+SAMN49971795,PRJNA1045596,Subj 262,Baseline,infant,624.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.488
+SAMN49971796,PRJNA1045596,Subj 262,Week_4,infant,652.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.611
+SAMN49971797,PRJNA1045596,Subj 262,Week_8,infant,679.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.968
+SAMN49971798,PRJNA1045596,Subj 267,Baseline,adolescent,5175.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.923
+SAMN49971799,PRJNA1045596,Subj 267,Week_4,adolescent,5217.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.679
+SAMN49971800,PRJNA1045596,Subj 267,Week_8,adolescent,5244.7,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.725
+SAMN49971802,PRJNA1045596,Subj 269,Baseline,adolescent,5983.1,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.776
+SAMN49971803,PRJNA1045596,Subj 269,Week_4,adolescent,6011.1,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.996
+SAMN49971801,PRJNA1045596,Subj 269,Week_8,adolescent,6038.2,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.809
+SAMN49971804,PRJNA1045596,Subj 274,Baseline,infant,805.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.35
+SAMN49971805,PRJNA1045596,Subj 274,Week_4,infant,841.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.839
+SAMN49971806,PRJNA1045596,Subj 274,Week_8,infant,863.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.778
+SAMN49971807,PRJNA1045596,Subj 275,Baseline,child,1433.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.919
+SAMN49971808,PRJNA1045596,Subj 275,Week_4,neonate,28.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.937
+SAMN49971809,PRJNA1045596,Subj 275,Week_8,infant,56.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.382
+SAMN49971810,PRJNA1045596,Subj 276,Baseline,infant,497.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.906
+SAMN49971811,PRJNA1045596,Subj 276,Week_4,infant,530.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.807
+SAMN49971812,PRJNA1045596,Subj 276,Week_8,infant,562.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.828
+SAMN49971813,PRJNA1045596,Subj 277,Baseline,child,4274.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.59
+SAMN49971814,PRJNA1045596,Subj 277,Week_4,neonate,28.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.903
+SAMN49971815,PRJNA1045596,Subj 277,Week_8,infant,56.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.89
+SAMN49971816,PRJNA1045596,Subj 278,Baseline,infant,612.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.93
+SAMN49971817,PRJNA1045596,Subj 278,Week_4,infant,639.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.935
+SAMN49971818,PRJNA1045596,Subj 278,Week_8,infant,681.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.721
+SAMN49971819,PRJNA1045596,Subj 279,Baseline,child,1362.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.874
+SAMN49971820,PRJNA1045596,Subj 279,Week_4,child,1392.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.93
+SAMN49971821,PRJNA1045596,Subj 279,Week_8,child,1419.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.894
+SAMN49971822,PRJNA1045596,Subj 280,Baseline,child,1259.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.866
+SAMN49971823,PRJNA1045596,Subj 280,Week_4,child,1286.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.724
+SAMN49971824,PRJNA1045596,Subj 280,Week_8,child,1315.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.023
+SAMN49971825,PRJNA1045596,Subj 281,Baseline,child,2034.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.897
+SAMN49971826,PRJNA1045596,Subj 281,Week_4,child,2074.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.079
+SAMN49971827,PRJNA1045596,Subj 281,Week_8,child,2105.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.93
+SAMN49971828,PRJNA1045596,Subj 283,Baseline,child,1157.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.261
+SAMN49971829,PRJNA1045596,Subj 283,Week_4,child,1187.7,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.111
+SAMN49971830,PRJNA1045596,Subj 283,Week_8,child,1213.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.036
+SAMN49971831,PRJNA1045596,Subj 287,Baseline,adolescent,5488.8,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.845
+SAMN49971832,PRJNA1045596,Subj 287,Week_4,neonate,28.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.949
+SAMN49971833,PRJNA1045596,Subj 287,Week_8,infant,56.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.836
+SAMN49971834,PRJNA1045596,Subj 288,Baseline,adolescent,4448.1,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,1.837
+SAMN49971835,PRJNA1045596,Subj 288,Week_4,adolescent,4477.1,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,1.888
+SAMN49971836,PRJNA1045596,Subj 288,Week_8,adolescent,4506.0,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,1.866
+SAMN49971837,PRJNA1045596,Subj 289,Baseline,infant,816.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.947
+SAMN49971838,PRJNA1045596,Subj 289,Week_4,infant,844.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.771
+SAMN49971839,PRJNA1045596,Subj 289,Week_8,infant,872.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.938
+SAMN49971840,PRJNA1045596,Subj 290,Baseline,infant,976.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.969
+SAMN49971841,PRJNA1045596,Subj 290,Week_4,infant,1003.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.235
+SAMN49971842,PRJNA1045596,Subj 290,Week_8,infant,1030.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.953
+SAMN49971843,PRJNA1045596,Subj 291,Baseline,child,1132.9,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.792
+SAMN49971844,PRJNA1045596,Subj 291,Week_4,child,1161.8,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.514
+SAMN49971845,PRJNA1045596,Subj 291,Week_8,child,1188.9,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.94
+SAMN49971846,PRJNA1045596,Subj 292,Baseline,child,1117.7,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.0
+SAMN49971847,PRJNA1045596,Subj 292,Week_4,child,1152.7,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.949
+SAMN49971848,PRJNA1045596,Subj 292,Week_8,child,1180.7,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.936
+SAMN49971849,PRJNA1045596,Subj 293,Baseline,child,2374.7,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.039
+SAMN49971850,PRJNA1045596,Subj 293,Week_4,child,2402.7,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.709
+SAMN49971851,PRJNA1045596,Subj 293,Week_8,child,2435.6,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.921
+SAMN49971852,PRJNA1045596,Subj 294,Baseline,infant,680.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.895
+SAMN49971853,PRJNA1045596,Subj 294,Week_4,infant,707.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.854
+SAMN49971854,PRJNA1045596,Subj 294,Week_8,infant,737.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.042
+SAMN49971855,PRJNA1045596,Subj 297,Baseline,child,2527.8,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.149
+SAMN49971856,PRJNA1045596,Subj 297,Week_4,child,2561.6,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.026
+SAMN49971857,PRJNA1045596,Subj 298,Baseline,child,1335.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.893
+SAMN49971858,PRJNA1045596,Subj 298,Week_4,child,1366.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.173
+SAMN49971859,PRJNA1045596,Subj 298,Week_8,child,1395.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.863
+SAMN49971860,PRJNA1045596,Subj 299,Baseline,child,1112.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.833
+SAMN49971861,PRJNA1045596,Subj 299,Week_4,child,1141.7,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.766
+SAMN49971862,PRJNA1045596,Subj 299,Week_8,child,1168.8,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.931
+SAMN49972045,PRJNA1045596,Subj 30,Baseline,adolescent,6211.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.594
+SAMN49972046,PRJNA1045596,Subj 30,Week_4,adolescent,6239.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.978
+SAMN49972047,PRJNA1045596,Subj 30,Week_8,adolescent,6275.3,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.709
+SAMN49971863,PRJNA1045596,Subj 301,Baseline,adolescent,5292.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.283
+SAMN49971864,PRJNA1045596,Subj 301,Week_4,adolescent,5323.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.336
+SAMN49971865,PRJNA1045596,Subj 301,Week_8,adolescent,5354.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.996
+SAMN49971866,PRJNA1045596,Subj 303,Baseline,infant,1063.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.842
+SAMN49971867,PRJNA1045596,Subj 303,Week_4,infant,1091.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.815
+SAMN49971868,PRJNA1045596,Subj 303,Week_8,child,1120.7,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.814
+SAMN49971869,PRJNA1045596,Subj 304,Baseline,child,2414.6,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.785
+SAMN49971870,PRJNA1045596,Subj 304,Week_4,child,2442.6,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.649
+SAMN49971871,PRJNA1045596,Subj 304,Week_8,child,2470.6,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.769
+SAMN49971872,PRJNA1045596,Subj 305,Baseline,child,1423.9,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.179
+SAMN49971873,PRJNA1045596,Subj 305,Week_4,child,1447.9,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.561
+SAMN49971874,PRJNA1045596,Subj 305,Week_8,child,1477.1,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.256
+SAMN49972048,PRJNA1045596,Subj 31,Baseline,adult,6985.7,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.364
+SAMN49972049,PRJNA1045596,Subj 31,Week_4,adult,7013.7,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.806
+SAMN49972050,PRJNA1045596,Subj 31,Week_8,adult,7041.7,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.679
+SAMN49971875,PRJNA1045596,Subj 311,Baseline,child,1778.2,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.231
+SAMN49971876,PRJNA1045596,Subj 311,Week_4,child,1808.3,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.384
+SAMN49971877,PRJNA1045596,Subj 311,Week_8,child,1829.3,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.506
+SAMN49971878,PRJNA1045596,Subj 312,Baseline,child,1307.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.783
+SAMN49971879,PRJNA1045596,Subj 312,Week_4,child,1335.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.874
+SAMN49971880,PRJNA1045596,Subj 312,Week_8,child,1364.8,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.818
+SAMN49971881,PRJNA1045596,Subj 313,Baseline,adolescent,5289.7,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.94
+SAMN49971882,PRJNA1045596,Subj 313,Week_4,adolescent,5317.7,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.911
+SAMN49971883,PRJNA1045596,Subj 313,Week_8,adolescent,5347.6,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.823
+SAMN49971884,PRJNA1045596,Subj 319,Week_4,infant,362.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.025
+SAMN49971885,PRJNA1045596,Subj 319,Week_8,infant,396.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.227
+SAMN49971886,PRJNA1045596,Subj 321,Baseline,infant,509.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.847
+SAMN49971887,PRJNA1045596,Subj 321,Week_4,infant,535.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.57
+SAMN49971888,PRJNA1045596,Subj 321,Week_8,infant,577.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,1.807
+SAMN49971889,PRJNA1045596,Subj 323,Baseline,child,2071.3,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.791
+SAMN49971890,PRJNA1045596,Subj 323,Week_4,child,2107.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.859
+SAMN49971891,PRJNA1045596,Subj 323,Week_8,child,2140.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.802
+SAMN49971892,PRJNA1045596,Subj 325,Baseline,child,1304.9,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.345
+SAMN49971893,PRJNA1045596,Subj 325,Week_4,child,1332.9,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.255
+SAMN49971894,PRJNA1045596,Subj 325,Week_8,child,1369.1,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.096
+SAMN49971895,PRJNA1045596,Subj 326,Baseline,child,1798.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.349
+SAMN49971896,PRJNA1045596,Subj 326,Week_4,child,1827.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.47
+SAMN49971897,PRJNA1045596,Subj 326,Week_8,child,1851.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.809
+SAMN49971898,PRJNA1045596,Subj 328,Baseline,infant,923.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.98
+SAMN49971899,PRJNA1045596,Subj 328,Week_4,infant,950.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.072
+SAMN49971900,PRJNA1045596,Subj 328,Week_8,infant,996.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,2.412
+SAMN49972051,PRJNA1045596,Subj 33,Baseline,adolescent,5721.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.86
+SAMN49972052,PRJNA1045596,Subj 33,Week_4,adolescent,5750.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.989
+SAMN49972053,PRJNA1045596,Subj 33,Week_8,adolescent,5782.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.068
+SAMN49971901,PRJNA1045596,Subj 331,Baseline,infant,988.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.924
+SAMN49971902,PRJNA1045596,Subj 331,Week_4,infant,1013.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.722
+SAMN49971903,PRJNA1045596,Subj 331,Week_8,infant,1057.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.156
+SAMN49972054,PRJNA1045596,Subj 34,Baseline,child,1220.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.887
+SAMN49972055,PRJNA1045596,Subj 34,Week_4,child,1247.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,2.103
+SAMN49972056,PRJNA1045596,Subj 34,Week_8,child,1275.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.66
+SAMN49971904,PRJNA1045596,Subj 344,Baseline,child,2191.5,male,US,healthy_control,Healthy,,,yes,,primary,1.0,2.49
+SAMN49971905,PRJNA1045596,Subj 344,Week_4,child,2218.6,male,US,healthy_control,Healthy,,,yes,,primary,1.0,2.32
+SAMN49971906,PRJNA1045596,Subj 344,Week_8,child,2248.4,male,US,healthy_control,Healthy,,,yes,,primary,1.0,2.339
+SAMN49971907,PRJNA1045596,Subj 354,Baseline,infant,535.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.118
+SAMN49971908,PRJNA1045596,Subj 354,Week_4,infant,567.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.182
+SAMN49971909,PRJNA1045596,Subj 354,Week_8,infant,590.0,female,US,healthy_control,Healthy,,,yes,,primary,1.0,2.043
+SAMN49971910,PRJNA1045596,Subj 356,Baseline,infant,852.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.27
+SAMN49971911,PRJNA1045596,Subj 356,Week_4,infant,878.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.172
+SAMN49971912,PRJNA1045596,Subj 356,Week_8,infant,906.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.144
+SAMN49972059,PRJNA1045596,Subj 36,Baseline,infant,649.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.203
+SAMN49972060,PRJNA1045596,Subj 36,Week_4,infant,676.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.595
+SAMN49972061,PRJNA1045596,Subj 36,Week_8,infant,705.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.864
+SAMN49971913,PRJNA1045596,Subj 363,Baseline,adolescent,5527.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.06
+SAMN49971914,PRJNA1045596,Subj 363,Week_4,adolescent,5555.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.317
+SAMN49971915,PRJNA1045596,Subj 363,Week_8,adolescent,5588.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.504
+SAMN49972063,PRJNA1045596,Subj 37,Baseline,child,2056.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,8.651
+SAMN49972064,PRJNA1045596,Subj 37,Week_4,child,2082.5,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.059
+SAMN49972065,PRJNA1045596,Subj 37,Week_8,child,2112.4,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.013
+SAMN49972074,PRJNA1045596,Subj 4,Baseline,adolescent,6477.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.433
+SAMN49972078,PRJNA1045596,Subj 4,Week_4,adolescent,6506.3,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.804
+SAMN49972070,PRJNA1045596,Subj 4,Week_8,adolescent,6533.4,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.182
+SAMN49972067,PRJNA1045596,Subj 40,Baseline,child,2750.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.509
+SAMN49972068,PRJNA1045596,Subj 40,Week_4,child,2776.8,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.934
+SAMN49972069,PRJNA1045596,Subj 40,Week_8,child,2806.9,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.192
+SAMN49972073,PRJNA1045596,Subj 41,Baseline,child,2085.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.696
+SAMN49972071,PRJNA1045596,Subj 41,Week_4,child,2112.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.187
+SAMN49972072,PRJNA1045596,Subj 41,Week_8,child,2143.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.12
+SAMN49972075,PRJNA1045596,Subj 42,Baseline,infant,344.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,10.37
+SAMN49972076,PRJNA1045596,Subj 42,Week_4,infant,371.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.831
+SAMN49972077,PRJNA1045596,Subj 42,Week_8,infant,401.0,female,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,0.708
+SAMN49972079,PRJNA1045596,Subj 43,Baseline,child,2066.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.223
+SAMN49972080,PRJNA1045596,Subj 43,Week_4,child,2100.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.18
+SAMN49972081,PRJNA1045596,Subj 43,Week_8,child,2123.3,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.38
+SAMN49972082,PRJNA1045596,Subj 45,Baseline,infant,712.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,0.781
+SAMN49972083,PRJNA1045596,Subj 45,Week_4,infant,747.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.045
+SAMN49972084,PRJNA1045596,Subj 45,Week_8,infant,771.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.685
+SAMN49971931,PRJNA1045596,Subj 48,Baseline,infant,676.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,3.581
+SAMN49971932,PRJNA1045596,Subj 48,Week_4,infant,697.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.413
+SAMN49971933,PRJNA1045596,Subj 48,Week_8,infant,725.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,3.141
+SAMN49971934,PRJNA1045596,Subj 49,Baseline,child,2831.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,3.274
+SAMN49971935,PRJNA1045596,Subj 49,Week_4,child,2859.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.535
+SAMN49971936,PRJNA1045596,Subj 49,Week_8,child,2887.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,3.409
+SAMN49972044,PRJNA1045596,Subj 5,Baseline,child,3914.6,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.07
+SAMN49972032,PRJNA1045596,Subj 5,Week_4,child,3942.6,male,US,healthy_control,Healthy,,,no,,primary,1.0,4.233
+SAMN49972036,PRJNA1045596,Subj 5,Week_8,child,3974.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,4.546
+SAMN49972086,PRJNA1045596,Subj 50,Baseline,infant,734.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.029
+SAMN49972087,PRJNA1045596,Subj 50,Week_4,infant,749.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.034
+SAMN49972088,PRJNA1045596,Subj 50,Week_8,infant,787.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.221
+SAMN49972089,PRJNA1045596,Subj 51,Baseline,child,1342.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,5.046
+SAMN49972090,PRJNA1045596,Subj 51,Week_4,child,1369.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.691
+SAMN49972091,PRJNA1045596,Subj 51,Week_8,child,1397.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.312
+SAMN49971916,PRJNA1045596,Subj 52,Baseline,child,1406.8,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.749
+SAMN49971917,PRJNA1045596,Subj 52,Week_4,child,1454.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.944
+SAMN49971918,PRJNA1045596,Subj 52,Week_8,child,1482.0,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,1.71
+SAMN49972092,PRJNA1045596,Subj 54,Baseline,infant,769.0,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,2.455
+SAMN49972093,PRJNA1045596,Subj 54,Week_4,infant,802.0,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.925
+SAMN49972094,PRJNA1045596,Subj 54,Week_8,infant,832.0,female,US,ibd_or_gi_disease,Ulcerative Colitis,,,no,,primary,1.0,0.988
+SAMN49971937,PRJNA1045596,Subj 56,Week_4,child,2950.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,3.448
+SAMN49971938,PRJNA1045596,Subj 56,Week_8,child,2978.0,male,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,3.548
+SAMN49971939,PRJNA1045596,Subj 59,Baseline,child,2096.5,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.663
+SAMN49971940,PRJNA1045596,Subj 59,Week_4,child,2124.5,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.274
+SAMN49971941,PRJNA1045596,Subj 59,Week_8,child,2151.3,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.94
+SAMN49972095,PRJNA1045596,Subj 6,Baseline,adolescent,5913.1,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.069
+SAMN49972096,PRJNA1045596,Subj 6,Week_4,adolescent,5946.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,0.839
+SAMN49972097,PRJNA1045596,Subj 6,Week_8,adolescent,5981.0,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.147
+SAMN49971942,PRJNA1045596,Subj 64,Baseline,child,2499.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.62
+SAMN49971943,PRJNA1045596,Subj 64,Week_4,child,2527.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.685
+SAMN49971944,PRJNA1045596,Subj 64,Week_8,child,2556.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.693
+SAMN49971945,PRJNA1045596,Subj 66,Baseline,infant,536.0,male,US,healthy_control,Healthy,,,yes,,primary,1.0,3.038
+SAMN49971946,PRJNA1045596,Subj 66,Week_4,infant,568.0,male,US,healthy_control,Healthy,,,yes,,primary,1.0,1.701
+SAMN49971947,PRJNA1045596,Subj 66,Week_8,infant,588.0,male,US,healthy_control,Healthy,,,yes,,primary,1.0,2.964
+SAMN49972098,PRJNA1045596,Subj 68,Baseline,child,2570.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.584
+SAMN49972099,PRJNA1045596,Subj 68,Week_4,child,2597.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.0
+SAMN49972100,PRJNA1045596,Subj 68,Week_8,child,2625.8,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.669
+SAMN49972101,PRJNA1045596,Subj 69,Baseline,child,2399.7,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.158
+SAMN49972102,PRJNA1045596,Subj 69,Week_4,child,2423.7,male,US,healthy_control,Healthy,,,no,,primary,1.0,3.206
+SAMN49972103,PRJNA1045596,Subj 69,Week_8,child,2451.7,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.687
+SAMN49971919,PRJNA1045596,Subj 79,Baseline,child,3170.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.996
+SAMN49971920,PRJNA1045596,Subj 79,Week_4,child,3198.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.959
+SAMN49971921,PRJNA1045596,Subj 79,Week_8,child,3226.1,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.047
+SAMN49972066,PRJNA1045596,Subj 8,Week_4,child,2165.6,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.576
+SAMN49972037,PRJNA1045596,Subj 8,Week_8,child,2189.4,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,yes,,primary,1.0,0.574
+SAMN49971948,PRJNA1045596,Subj 81,Baseline,adolescent,4719.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.934
+SAMN49971949,PRJNA1045596,Subj 81,Week_4,adolescent,4753.1,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.888
+SAMN49971950,PRJNA1045596,Subj 81,Week_8,adolescent,4790.3,male,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.56
+SAMN49971951,PRJNA1045596,Subj 83,Week_4,infant,726.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.806
+SAMN49971952,PRJNA1045596,Subj 83,Week_8,infant,755.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,2.124
+SAMN49971922,PRJNA1045596,Subj 87,Baseline,child,2657.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.724
+SAMN49971923,PRJNA1045596,Subj 87,Week_4,child,2684.9,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.605
+SAMN49971924,PRJNA1045596,Subj 87,Week_8,child,2713.8,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.805
+SAMN49971925,PRJNA1045596,Subj 88,Baseline,adolescent,5834.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.878
+SAMN49971926,PRJNA1045596,Subj 88,Week_4,adolescent,5862.9,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.884
+SAMN49971927,PRJNA1045596,Subj 88,Week_8,adolescent,5891.2,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.766
+SAMN49971928,PRJNA1045596,Subj 89,Baseline,child,2430.7,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.49
+SAMN49971929,PRJNA1045596,Subj 89,Week_4,neonate,28.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.582
+SAMN49971930,PRJNA1045596,Subj 89,Week_8,infant,56.0,male,US,healthy_control,Healthy,,,no,,primary,1.0,1.551
+SAMN49972062,PRJNA1045596,Subj 9,Baseline,adolescent,5204.5,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,0.778
+SAMN49972058,PRJNA1045596,Subj 9,Week_4,adolescent,5233.7,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,1.766
+SAMN49972057,PRJNA1045596,Subj 9,Week_8,adolescent,5266.6,female,US,ibd_or_gi_disease,Crohn's Disease,,,no,,primary,1.0,3.344
+SAMN49972105,PRJNA1045596,Subj 90,Baseline,child,1799.2,female,US,healthy_control,Healthy,,,no,,primary,1.0,5.973
+SAMN49972106,PRJNA1045596,Subj 90,Week_4,child,1832.3,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.998
+SAMN49972107,PRJNA1045596,Subj 90,Week_8,child,1855.2,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.016
+SAMN49971953,PRJNA1045596,Subj 92,Baseline,infant,130.0,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.921
+SAMN49971954,PRJNA1045596,Subj 92,Week_4,infant,153.0,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.232
+SAMN49971955,PRJNA1045596,Subj 92,Week_8,infant,181.0,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,2.723
+SAMN49971956,PRJNA1045596,Subj 93,Baseline,child,1117.7,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,3.168
+SAMN49971957,PRJNA1045596,Subj 93,Week_4,child,1147.8,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,1.481
+SAMN49971958,PRJNA1045596,Subj 93,Week_8,child,1172.8,female,US,ibd_or_gi_disease,Indeterminate Colitis,,,no,,primary,1.0,0.306
+SAMN49971959,PRJNA1045596,Subj 94,Baseline,child,1752.3,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.057
+SAMN49971960,PRJNA1045596,Subj 94,Week_4,child,1781.2,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,3.066
+SAMN49971961,PRJNA1045596,Subj 94,Week_8,child,1814.4,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,2.262
+SAMN49972108,PRJNA1045596,Subj 95,Baseline,child,1890.2,female,US,healthy_control,Healthy,,,no,,primary,1.0,1.416
+SAMN49972109,PRJNA1045596,Subj 95,Week_4,child,1919.4,female,US,healthy_control,Healthy,,,no,,primary,1.0,0.901
+SAMN49972110,PRJNA1045596,Subj 95,Week_8,child,1948.3,female,US,healthy_control,Healthy,,,no,,primary,1.0,2.053
+SAMN49972111,PRJNA1045596,Subj 98,Baseline,child,2156.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.6
+SAMN49972112,PRJNA1045596,Subj 98,Week_4,child,2186.6,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.181
+SAMN49972113,PRJNA1045596,Subj 98,Week_8,child,2212.5,male,US,ibd_or_gi_disease,Crohn's Disease,,,yes,,primary,1.0,1.449

@@ -1,0 +1,460 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN34063157,PRJNA807448,WCH001,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.862
+SAMN25982051,PRJNA807448,WCH001,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.799
+SAMN34063145,PRJNA807448,WCH002,Week 6,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.967
+SAMN25982052,PRJNA807448,WCH002,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.806
+SAMN34063164,PRJNA807448,WCH003,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.556
+SAMN25982053,PRJNA807448,WCH003,,neonate,2.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.977
+SAMN25982054,PRJNA807448,WCH004,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,5.443
+SAMN34063154,PRJNA807448,WCH005,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.765
+SAMN25982055,PRJNA807448,WCH005,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.986
+SAMN25982056,PRJNA807448,WCH006,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.483
+SAMN34063324,PRJNA807448,WCH008,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.846
+SAMN25982057,PRJNA807448,WCH008,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.98
+SAMN34063301,PRJNA807448,WCH009,Week 6,infant,46.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.793
+SAMN25982058,PRJNA807448,WCH009,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.783
+SAMN34063214,PRJNA807448,WCH010,Week 6,infant,51.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.794
+SAMN25982059,PRJNA807448,WCH010,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.855
+SAMN34063172,PRJNA807448,WCH011,Week 6,infant,50.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.998
+SAMN25982060,PRJNA807448,WCH011,,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.116
+SAMN34063155,PRJNA807448,WCH012,Week 6,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.851
+SAMN25982061,PRJNA807448,WCH012,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.968
+SAMN34063224,PRJNA807448,WCH013,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.872
+SAMN25982062,PRJNA807448,WCH013,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,5.54
+SAMN34063195,PRJNA807448,WCH014,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.997
+SAMN25982063,PRJNA807448,WCH014,,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.85
+SAMN34063173,PRJNA807448,WCH015,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.522
+SAMN25982064,PRJNA807448,WCH015,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,5.009
+SAMN34063159,PRJNA807448,WCH016,Week 6,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.977
+SAMN25982065,PRJNA807448,WCH016,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.831
+SAMN25982066,PRJNA807448,WCH017,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,5.731
+SAMN34063249,PRJNA807448,WCH018,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.882
+SAMN25982067,PRJNA807448,WCH018,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.232
+SAMN34063247,PRJNA807448,WCH019,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.846
+SAMN25982068,PRJNA807448,WCH019,,neonate,2.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,2.892
+SAMN34063248,PRJNA807448,WCH020,Week 6,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.698
+SAMN25982069,PRJNA807448,WCH020,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.514
+SAMN34063266,PRJNA807448,WCH021,Week 6,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.976
+SAMN25982070,PRJNA807448,WCH021,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.665
+SAMN34063230,PRJNA807448,WCH022,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.625
+SAMN25982071,PRJNA807448,WCH022,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.985
+SAMN34063299,PRJNA807448,WCH024,Week 6,infant,38.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.828
+SAMN25982072,PRJNA807448,WCH024,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.205
+SAMN34063300,PRJNA807448,WCH025,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.882
+SAMN25982073,PRJNA807448,WCH025,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.632
+SAMN34063321,PRJNA807448,WCH026,Week 6,infant,48.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.985
+SAMN25982074,PRJNA807448,WCH026,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.892
+SAMN34063314,PRJNA807448,WCH027,Week 6,infant,41.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.928
+SAMN25982075,PRJNA807448,WCH027,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.622
+SAMN34063150,PRJNA807448,WCH028,Week 6,infant,53.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.79
+SAMN25982076,PRJNA807448,WCH028,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.394
+SAMN34063129,PRJNA807448,WCH029,Week 6,infant,51.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.971
+SAMN25982077,PRJNA807448,WCH029,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.425
+SAMN34063317,PRJNA807448,WCH030,Week 6,infant,51.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.655
+SAMN25982078,PRJNA807448,WCH030,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.042
+SAMN34063310,PRJNA807448,WCH031,Week 6,infant,46.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.868
+SAMN25982079,PRJNA807448,WCH031,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.697
+SAMN34063281,PRJNA807448,WCH032,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.86
+SAMN25982080,PRJNA807448,WCH032,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.562
+SAMN34063292,PRJNA807448,WCH033,Week 6,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.888
+SAMN25982081,PRJNA807448,WCH033,,neonate,3.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.314
+SAMN34063251,PRJNA807448,WCH034,Week 6,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.579
+SAMN25982082,PRJNA807448,WCH034,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.272
+SAMN34063126,PRJNA807448,WCH035,Neonatal,neonate,21.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,10.534
+SAMN34063228,PRJNA807448,WCH035,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.887
+SAMN25982083,PRJNA807448,WCH035,,neonate,21.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,10.534
+SAMN34063262,PRJNA807448,WCH036,Week 6,infant,46.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.573
+SAMN25982084,PRJNA807448,WCH036,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,3.904
+SAMN34063165,PRJNA807448,WCH038,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.749
+SAMN25982085,PRJNA807448,WCH038,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.801
+SAMN34063119,PRJNA807448,WCH039,Neonatal,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.952
+SAMN34063194,PRJNA807448,WCH039,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.817
+SAMN25982086,PRJNA807448,WCH039,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.952
+SAMN34063089,PRJNA807448,WCH040,Neonatal,neonate,3.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.876
+SAMN34063311,PRJNA807448,WCH040,Week 6,infant,41.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.688
+SAMN25982087,PRJNA807448,WCH040,,neonate,3.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.876
+SAMN34063328,PRJNA807448,WCH041,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.961
+SAMN25982088,PRJNA807448,WCH041,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.107
+SAMN34063088,PRJNA807448,WCH043,Neonatal,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.456
+SAMN34063259,PRJNA807448,WCH043,Week 6,infant,41.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.803
+SAMN25982089,PRJNA807448,WCH043,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.456
+SAMN34063125,PRJNA807448,WCH044,Neonatal,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.879
+SAMN34063254,PRJNA807448,WCH044,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.682
+SAMN25982090,PRJNA807448,WCH044,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.879
+SAMN34063118,PRJNA807448,WCH045,Neonatal,neonate,12.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,11.558
+SAMN34063241,PRJNA807448,WCH045,Week 6,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.862
+SAMN25982091,PRJNA807448,WCH045,,neonate,12.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,11.558
+SAMN34063081,PRJNA807448,WCH046,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.856
+SAMN34063278,PRJNA807448,WCH046,Week 6,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.989
+SAMN25982092,PRJNA807448,WCH046,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.856
+SAMN34063100,PRJNA807448,WCH047,Neonatal,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.623
+SAMN25982093,PRJNA807448,WCH047,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.623
+SAMN34063106,PRJNA807448,WCH048,Neonatal,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.469
+SAMN34063215,PRJNA807448,WCH048,Week 6,infant,46.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.628
+SAMN25982094,PRJNA807448,WCH048,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.469
+SAMN34063097,PRJNA807448,WCH049,Neonatal,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.59
+SAMN34063166,PRJNA807448,WCH049,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.662
+SAMN25982095,PRJNA807448,WCH049,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.59
+SAMN34063117,PRJNA807448,WCH050,Neonatal,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.088
+SAMN34063288,PRJNA807448,WCH050,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.748
+SAMN25982096,PRJNA807448,WCH050,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.088
+SAMN34063098,PRJNA807448,WCH051,Neonatal,neonate,15.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.157
+SAMN34063239,PRJNA807448,WCH051,Week 6,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.838
+SAMN25982097,PRJNA807448,WCH051,,neonate,15.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.157
+SAMN34063103,PRJNA807448,WCH052,Neonatal,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.016
+SAMN34063234,PRJNA807448,WCH052,Week 6,infant,50.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.839
+SAMN25982098,PRJNA807448,WCH052,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.016
+SAMN34063101,PRJNA807448,WCH053,Neonatal,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.348
+SAMN34063233,PRJNA807448,WCH053,Week 6,infant,45.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.859
+SAMN25982099,PRJNA807448,WCH053,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.348
+SAMN34063121,PRJNA807448,WCH054,Neonatal,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.795
+SAMN34063289,PRJNA807448,WCH054,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.561
+SAMN25982100,PRJNA807448,WCH054,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.795
+SAMN34063107,PRJNA807448,WCH055,Neonatal,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.46
+SAMN34063297,PRJNA807448,WCH055,Week 6,infant,45.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.863
+SAMN25982101,PRJNA807448,WCH055,,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.46
+SAMN34063096,PRJNA807448,WCH056,Neonatal,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.643
+SAMN34063323,PRJNA807448,WCH056,Week 6,infant,45.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.628
+SAMN25982102,PRJNA807448,WCH056,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.643
+SAMN34063110,PRJNA807448,WCH057,Neonatal,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.024
+SAMN34063316,PRJNA807448,WCH057,Week 6,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.726
+SAMN25982103,PRJNA807448,WCH057,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.024
+SAMN34063109,PRJNA807448,WCH059,Neonatal,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.451
+SAMN34063200,PRJNA807448,WCH059,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.803
+SAMN25982104,PRJNA807448,WCH059,,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.451
+SAMN34063123,PRJNA807448,WCH060,Neonatal,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.826
+SAMN34063152,PRJNA807448,WCH060,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.955
+SAMN25982105,PRJNA807448,WCH060,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.826
+SAMN34063087,PRJNA807448,WCH061,Neonatal,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.995
+SAMN34063190,PRJNA807448,WCH061,Week 6,infant,41.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.607
+SAMN25982106,PRJNA807448,WCH061,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.995
+SAMN34063079,PRJNA807448,WCH063,Neonatal,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.333
+SAMN34063227,PRJNA807448,WCH063,Week 6,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.505
+SAMN25982107,PRJNA807448,WCH063,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.333
+SAMN34063083,PRJNA807448,WCH064,Neonatal,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.842
+SAMN34063167,PRJNA807448,WCH064,Week 6,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.606
+SAMN25982108,PRJNA807448,WCH064,,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.842
+SAMN34063111,PRJNA807448,WCH065,Neonatal,neonate,11.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.768
+SAMN34063168,PRJNA807448,WCH065,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.775
+SAMN25982109,PRJNA807448,WCH065,,neonate,11.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.768
+SAMN34063095,PRJNA807448,WCH066,Neonatal,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,5.615
+SAMN34063146,PRJNA807448,WCH066,Week 6,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.858
+SAMN25982110,PRJNA807448,WCH066,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,5.615
+SAMN34063084,PRJNA807448,WCH067,Neonatal,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.218
+SAMN34063191,PRJNA807448,WCH067,Week 6,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.86
+SAMN25982111,PRJNA807448,WCH067,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.218
+SAMN34063078,PRJNA807448,WCH068,Neonatal,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.436
+SAMN34063232,PRJNA807448,WCH068,Week 6,infant,52.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.928
+SAMN25982112,PRJNA807448,WCH068,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.436
+SAMN34063080,PRJNA807448,WCH069,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.504
+SAMN34063263,PRJNA807448,WCH069,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.877
+SAMN25982113,PRJNA807448,WCH069,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.504
+SAMN34063082,PRJNA807448,WCH070,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.062
+SAMN34063183,PRJNA807448,WCH070,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.629
+SAMN25982114,PRJNA807448,WCH070,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.062
+SAMN34063092,PRJNA807448,WCH071,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.007
+SAMN34063130,PRJNA807448,WCH071,Week 6,infant,49.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.607
+SAMN25982115,PRJNA807448,WCH071,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.007
+SAMN34063086,PRJNA807448,WCH072,Neonatal,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.535
+SAMN34063174,PRJNA807448,WCH072,Week 6,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.66
+SAMN25982116,PRJNA807448,WCH072,,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.535
+SAMN34063090,PRJNA807448,WCH073,Neonatal,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.244
+SAMN34063135,PRJNA807448,WCH073,Week 6,infant,54.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.866
+SAMN25982117,PRJNA807448,WCH073,,neonate,3.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.244
+SAMN34063217,PRJNA807448,WCH074,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.643
+SAMN34063094,PRJNA807448,WCH075,Neonatal,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.375
+SAMN34063216,PRJNA807448,WCH075,Week 6,infant,40.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.674
+SAMN25982118,PRJNA807448,WCH075,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.375
+SAMN34063112,PRJNA807448,WCH077,Neonatal,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.607
+SAMN34063206,PRJNA807448,WCH077,Week 6,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.777
+SAMN25982119,PRJNA807448,WCH077,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.607
+SAMN34063115,PRJNA807448,WCH078,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.713
+SAMN34063315,PRJNA807448,WCH078,Week 6,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.774
+SAMN25982120,PRJNA807448,WCH078,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.713
+SAMN34063108,PRJNA807448,WCH079,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.622
+SAMN34063302,PRJNA807448,WCH079,Week 6,infant,40.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.982
+SAMN25982121,PRJNA807448,WCH079,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,6.622
+SAMN34063099,PRJNA807448,WCH080,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.283
+SAMN34063201,PRJNA807448,WCH080,Week 6,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.785
+SAMN25982122,PRJNA807448,WCH080,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.283
+SAMN34063102,PRJNA807448,WCH081,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.921
+SAMN34063151,PRJNA807448,WCH081,Week 6,infant,49.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.633
+SAMN25982123,PRJNA807448,WCH081,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.921
+SAMN34063114,PRJNA807448,WCH082,Neonatal,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.338
+SAMN34063184,PRJNA807448,WCH082,Week 6,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.507
+SAMN25982124,PRJNA807448,WCH082,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.338
+SAMN34063113,PRJNA807448,WCH083,Neonatal,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.732
+SAMN34063218,PRJNA807448,WCH083,Week 6,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.943
+SAMN25982125,PRJNA807448,WCH083,,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.732
+SAMN34063091,PRJNA807448,WCH084,Neonatal,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.746
+SAMN34063180,PRJNA807448,WCH084,Week 6,infant,50.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.667
+SAMN25982126,PRJNA807448,WCH084,,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.746
+SAMN34063085,PRJNA807448,WCH085,Neonatal,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.942
+SAMN25982127,PRJNA807448,WCH085,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.942
+SAMN34063093,PRJNA807448,WCH086,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.315
+SAMN34063175,PRJNA807448,WCH086,Week 6,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.979
+SAMN25982128,PRJNA807448,WCH086,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.315
+SAMN34063105,PRJNA807448,WCH087,Neonatal,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.036
+SAMN34063186,PRJNA807448,WCH087,Week 6,infant,49.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.864
+SAMN25982129,PRJNA807448,WCH087,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.036
+SAMN34063104,PRJNA807448,WCH088,Neonatal,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.918
+SAMN34063277,PRJNA807448,WCH088,Week 6,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.807
+SAMN25982130,PRJNA807448,WCH088,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.918
+SAMN34063120,PRJNA807448,WCH089,Neonatal,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.619
+SAMN34063261,PRJNA807448,WCH089,Week 6,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.707
+SAMN25982131,PRJNA807448,WCH089,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,7.619
+SAMN34063127,PRJNA807448,WCH090,Neonatal,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.596
+SAMN34063141,PRJNA807448,WCH090,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.599
+SAMN25982132,PRJNA807448,WCH090,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.596
+SAMN34063122,PRJNA807448,WCH092,Neonatal,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,11.713
+SAMN34063185,PRJNA807448,WCH092,Week 6,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.615
+SAMN25982133,PRJNA807448,WCH092,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,11.713
+SAMN34063116,PRJNA807448,WCH093,Neonatal,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.209
+SAMN34063137,PRJNA807448,WCH093,Week 6,infant,41.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.896
+SAMN25982134,PRJNA807448,WCH093,,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,9.209
+SAMN34063229,PRJNA807448,WCH094,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.874
+SAMN34063124,PRJNA807448,WCH095,Neonatal,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.218
+SAMN34063213,PRJNA807448,WCH095,Week 6,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.726
+SAMN25982135,PRJNA807448,WCH095,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,8.218
+SAMN34063131,PRJNA807448,WCH096,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.727
+SAMN34063198,PRJNA807448,WCH097,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.737
+SAMN34063140,PRJNA807448,WCH098,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.907
+SAMN34063294,PRJNA807448,WCH098,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.609
+SAMN34063210,PRJNA807448,WCH099,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.861
+SAMN34063308,PRJNA807448,WCH099,Week 6,infant,48.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.974
+SAMN34063245,PRJNA807448,WCH100,Neonatal,neonate,4.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.902
+SAMN34063211,PRJNA807448,WCH100,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.67
+SAMN34063284,PRJNA807448,WCH101,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.581
+SAMN34063244,PRJNA807448,WCH101,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.571
+SAMN34063322,PRJNA807448,WCH102,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.758
+SAMN34063149,PRJNA807448,WCH102,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.8
+SAMN34063303,PRJNA807448,WCH103,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.644
+SAMN34063128,PRJNA807448,WCH103,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.827
+SAMN34063160,PRJNA807448,WCH104,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.801
+SAMN34063148,PRJNA807448,WCH105,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.989
+SAMN34063197,PRJNA807448,WCH105,Week 6,infant,46.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.75
+SAMN34063158,PRJNA807448,WCH106,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.62
+SAMN34063192,PRJNA807448,WCH107,Neonatal,neonate,18.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.922
+SAMN34063133,PRJNA807448,WCH107,Week 6,infant,45.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.633
+SAMN34063306,PRJNA807448,WCH109,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.782
+SAMN34063255,PRJNA807448,WCH109,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.768
+SAMN34063235,PRJNA807448,WCH110,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.899
+SAMN34063181,PRJNA807448,WCH110,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.865
+SAMN34063264,PRJNA807448,WCH111,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.533
+SAMN34063161,PRJNA807448,WCH111,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.784
+SAMN34063293,PRJNA807448,WCH112,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.938
+SAMN34063156,PRJNA807448,WCH112,Week 6,infant,46.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.718
+SAMN34063270,PRJNA807448,WCH113,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.755
+SAMN34063138,PRJNA807448,WCH113,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.77
+SAMN34063219,PRJNA807448,WCH114,Neonatal,neonate,11.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.728
+SAMN34063142,PRJNA807448,WCH114,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.793
+SAMN34063176,PRJNA807448,WCH116,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.524
+SAMN34063139,PRJNA807448,WCH117,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.91
+SAMN34063326,PRJNA807448,WCH118,Neonatal,neonate,3.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.995
+SAMN34063285,PRJNA807448,WCH119,Neonatal,neonate,9.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.507
+SAMN34063267,PRJNA807448,WCH119,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.971
+SAMN34063250,PRJNA807448,WCH120,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.922
+SAMN34063282,PRJNA807448,WCH120,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.939
+SAMN34063273,PRJNA807448,WCH122,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.92
+SAMN34063231,PRJNA807448,WCH122,Week 6,infant,47.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.847
+SAMN34063319,PRJNA807448,WCH123,Neonatal,neonate,9.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.592
+SAMN34063177,PRJNA807448,WCH124,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.506
+SAMN34063220,PRJNA807448,WCH125,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.592
+SAMN34063275,PRJNA807448,WCH125,Week 6,infant,52.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.568
+SAMN34063178,PRJNA807448,WCH126,Neonatal,neonate,10.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.805
+SAMN34063256,PRJNA807448,WCH126,Week 6,infant,52.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.522
+SAMN34063196,PRJNA807448,WCH127,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.968
+SAMN34063246,PRJNA807448,WCH127,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.975
+SAMN34063312,PRJNA807448,WCH129,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.746
+SAMN34063143,PRJNA807448,WCH129,Week 6,infant,38.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.566
+SAMN34063271,PRJNA807448,WCH130,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.537
+SAMN34063226,PRJNA807448,WCH130,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.946
+SAMN34063252,PRJNA807448,WCH131,Neonatal,neonate,2.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.981
+SAMN34063298,PRJNA807448,WCH132,Neonatal,neonate,4.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.567
+SAMN34063290,PRJNA807448,WCH132,Week 6,infant,47.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.916
+SAMN34063295,PRJNA807448,WCH133,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.962
+SAMN34063242,PRJNA807448,WCH133,Week 6,infant,45.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.601
+SAMN34063204,PRJNA807448,WCH134,Neonatal,neonate,4.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.897
+SAMN34063320,PRJNA807448,WCH134,Week 6,infant,56.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.53
+SAMN34063208,PRJNA807448,WCH135,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.911
+SAMN34063296,PRJNA807448,WCH135,Week 6,infant,45.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.887
+SAMN34063187,PRJNA807448,WCH136,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.654
+SAMN34063268,PRJNA807448,WCH136,Week 6,infant,48.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.79
+SAMN34063188,PRJNA807448,WCH137,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.98
+SAMN34063304,PRJNA807448,WCH137,Week 6,infant,48.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.751
+SAMN34063257,PRJNA807448,WCH138,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.878
+SAMN34063207,PRJNA807448,WCH138,Week 6,infant,53.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.869
+SAMN34063325,PRJNA807448,WCH139,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.87
+SAMN34063222,PRJNA807448,WCH139,Week 6,infant,46.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.884
+SAMN34063307,PRJNA807448,WCH140,Neonatal,neonate,4.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.505
+SAMN34063258,PRJNA807448,WCH141,Neonatal,neonate,9.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.845
+SAMN34063236,PRJNA807448,WCH141,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.812
+SAMN34063238,PRJNA807448,WCH142,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.902
+SAMN34063279,PRJNA807448,WCH142,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.645
+SAMN34063169,PRJNA807448,WCH144,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.97
+SAMN34063170,PRJNA807448,WCH145,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.983
+SAMN34063318,PRJNA807448,WCH145,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.749
+SAMN34063225,PRJNA807448,WCH146,Neonatal,neonate,3.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.628
+SAMN34063260,PRJNA807448,WCH148,Neonatal,neonate,10.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.927
+SAMN34063209,PRJNA807448,WCH148,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.867
+SAMN34063274,PRJNA807448,WCH149,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.508
+SAMN34063202,PRJNA807448,WCH149,Week 6,infant,47.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.991
+SAMN34063313,PRJNA807448,WCH150,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.919
+SAMN34063327,PRJNA807448,WCH150,Week 6,infant,51.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,1.695
+SAMN34063305,PRJNA807448,WCH151,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.512
+SAMN34063291,PRJNA807448,WCH151,Week 6,infant,46.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.667
+SAMN34063265,PRJNA807448,WCH153,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.801
+SAMN34063329,PRJNA807448,WCH154,Neonatal,neonate,2.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.666
+SAMN34063243,PRJNA807448,WCH154,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.795
+SAMN34063193,PRJNA807448,WCH155,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.974
+SAMN34063280,PRJNA807448,WCH155,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.82
+SAMN34063212,PRJNA807448,WCH156,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.75
+SAMN34063199,PRJNA807448,WCH157,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.605
+SAMN34063276,PRJNA807448,WCH159,Neonatal,neonate,15.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.894
+SAMN34063179,PRJNA807448,WCH159,Week 6,infant,47.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.987
+SAMN34063286,PRJNA807448,WCH160,Neonatal,neonate,7.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.766
+SAMN34063147,PRJNA807448,WCH160,Week 6,infant,47.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.761
+SAMN34063309,PRJNA807448,WCH161,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.983
+SAMN34063162,PRJNA807448,WCH161,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.918
+SAMN34063287,PRJNA807448,WCH162,Neonatal,neonate,10.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.849
+SAMN34063132,PRJNA807448,WCH162,Week 6,infant,46.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.64
+SAMN34063237,PRJNA807448,WCH163,Neonatal,neonate,10.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.878
+SAMN34063189,PRJNA807448,WCH163,Week 6,infant,51.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.518
+SAMN34063134,PRJNA807448,WCH164,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.67
+SAMN34063205,PRJNA807448,WCH164,Week 6,infant,42.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.549
+SAMN34063163,PRJNA807448,WCH165,Neonatal,neonate,9.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.641
+SAMN34063153,PRJNA807448,WCH165,Week 6,infant,41.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.821
+SAMN34063171,PRJNA807448,WCH166,Neonatal,neonate,8.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.831
+SAMN34063221,PRJNA807448,WCH166,Week 6,infant,45.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.86
+SAMN34063272,PRJNA807448,WCH168,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.861
+SAMN34063269,PRJNA807448,WCH168,Week 6,infant,45.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.716
+SAMN34063283,PRJNA807448,WCH171,Neonatal,neonate,5.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.613
+SAMN34063223,PRJNA807448,WCH171,Week 6,infant,44.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.602
+SAMN34063240,PRJNA807448,WCH172,Neonatal,neonate,3.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.815
+SAMN34063203,PRJNA807448,WCH172,Week 6,infant,43.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.988
+SAMN34063253,PRJNA807448,WCH173,Neonatal,neonate,6.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.594
+SAMN34063182,PRJNA807448,WCH173,Week 6,infant,49.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.815
+SAMN34063136,PRJNA807448,WCH174,Neonatal,neonate,3.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.584
+SAMN34063144,PRJNA807448,WCH174,Week 6,infant,53.0,,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.967
+SAMN46715476,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.744
+SAMN46715478,PRJNA807448,,6W,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.989
+SAMN46715480,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.6
+SAMN46715482,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.72
+SAMN46715486,PRJNA807448,,6W,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.85
+SAMN46715488,PRJNA807448,,6W,infant,49.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.618
+SAMN46715490,PRJNA807448,,6W,infant,46.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.851
+SAMN46715494,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.973
+SAMN46715496,PRJNA807448,,6W,infant,45.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.574
+SAMN46715498,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.983
+SAMN46715500,PRJNA807448,,6W,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.891
+SAMN46715502,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.792
+SAMN46715504,PRJNA807448,,6W,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.965
+SAMN46715506,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.967
+SAMN46715507,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.928
+SAMN46715509,PRJNA807448,,6W,infant,56.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.721
+SAMN46715511,PRJNA807448,,6W,infant,47.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.706
+SAMN46715514,PRJNA807448,,6W,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.882
+SAMN46715516,PRJNA807448,,6W,infant,40.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.847
+SAMN46715517,PRJNA807448,,6W,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.647
+SAMN46715519,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.502
+SAMN46715521,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.733
+SAMN46715523,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.623
+SAMN46715525,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.708
+SAMN46715527,PRJNA807448,,6W,infant,48.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.683
+SAMN46715528,PRJNA807448,,6W,infant,46.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.503
+SAMN46715530,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.659
+SAMN46715532,PRJNA807448,,6W,infant,45.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.828
+SAMN46715534,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.991
+SAMN46715536,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.845
+SAMN46715539,PRJNA807448,,6W,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.637
+SAMN46715541,PRJNA807448,,6W,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.64
+SAMN46715545,PRJNA807448,,6W,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.512
+SAMN46715547,PRJNA807448,,6W,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.926
+SAMN46715549,PRJNA807448,,6W,infant,48.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.637
+SAMN46715551,PRJNA807448,,6W,infant,42.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.86
+SAMN46715553,PRJNA807448,,6W,infant,42.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.954
+SAMN46715556,PRJNA807448,,6W,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.865
+SAMN46715558,PRJNA807448,,6W,infant,47.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.888
+SAMN46715561,PRJNA807448,,6W,infant,41.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.879
+SAMN46795790,PRJNA807448,,6W,infant,47.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.851
+SAMN46795792,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.636
+SAMN46795794,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.582
+SAMN46795796,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.666
+SAMN46795798,PRJNA807448,,6W,infant,43.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.946
+SAMN46795800,PRJNA807448,,6W,infant,45.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.677
+SAMN46795802,PRJNA807448,,6W,infant,44.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.798
+SAMN46795804,PRJNA807448,,6W,infant,46.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.781
+SAMN46795806,PRJNA807448,,6W,infant,50.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.86
+SAMN46795808,PRJNA807448,,6W,infant,43.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.721
+SAMN46795810,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.853
+SAMN46795812,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.679
+SAMN46795814,PRJNA807448,,6W,infant,38.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.639
+SAMN46795816,PRJNA807448,,6W,infant,44.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.787
+SAMN46795820,PRJNA807448,,6W,infant,51.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.645
+SAMN46795822,PRJNA807448,,6W,infant,41.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.856
+SAMN46715477,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.613
+SAMN46715479,PRJNA807448,,,neonate,11.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.64
+SAMN46715481,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.763
+SAMN46715483,PRJNA807448,,,neonate,9.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.919
+SAMN46715484,PRJNA807448,,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.9
+SAMN46715485,PRJNA807448,,,neonate,11.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.788
+SAMN46715487,PRJNA807448,,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.925
+SAMN46715489,PRJNA807448,,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.862
+SAMN46715491,PRJNA807448,,,neonate,3.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.543
+SAMN46715492,PRJNA807448,,,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.509
+SAMN46715493,PRJNA807448,,,neonate,10.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.504
+SAMN46715495,PRJNA807448,,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.999
+SAMN46715497,PRJNA807448,,,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.976
+SAMN46715499,PRJNA807448,,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.565
+SAMN46715501,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.794
+SAMN46715503,PRJNA807448,,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.839
+SAMN46715505,PRJNA807448,,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.544
+SAMN46715508,PRJNA807448,,,neonate,10.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.569
+SAMN46715510,PRJNA807448,,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.985
+SAMN46715512,PRJNA807448,,,neonate,6.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.867
+SAMN46715513,PRJNA807448,,,neonate,10.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.766
+SAMN46715515,PRJNA807448,,,neonate,20.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.889
+SAMN46715518,PRJNA807448,,,neonate,13.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.595
+SAMN46715520,PRJNA807448,,,neonate,12.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.634
+SAMN46715522,PRJNA807448,,,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.872
+SAMN46715524,PRJNA807448,,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.758
+SAMN46715526,PRJNA807448,,,neonate,11.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.842
+SAMN46715529,PRJNA807448,,,neonate,11.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.852
+SAMN46715531,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.562
+SAMN46715533,PRJNA807448,,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.525
+SAMN46715535,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.842
+SAMN46715537,PRJNA807448,,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.987
+SAMN46715538,PRJNA807448,,,neonate,8.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.739
+SAMN46715540,PRJNA807448,,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.889
+SAMN46715542,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.541
+SAMN46715543,PRJNA807448,,,neonate,9.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.923
+SAMN46715544,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.841
+SAMN46715546,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.507
+SAMN46715548,PRJNA807448,,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.964
+SAMN46715550,PRJNA807448,,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.717
+SAMN46715552,PRJNA807448,,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.94
+SAMN46715554,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.811
+SAMN46715555,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.861
+SAMN46715557,PRJNA807448,,,neonate,15.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.866
+SAMN46715559,PRJNA807448,,,neonate,28.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.704
+SAMN46715560,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.761
+SAMN46715562,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.536
+SAMN46795789,PRJNA807448,,,neonate,3.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.705
+SAMN46795791,PRJNA807448,,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.694
+SAMN46795793,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.732
+SAMN46795795,PRJNA807448,,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.781
+SAMN46795797,PRJNA807448,,,neonate,14.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.938
+SAMN46795799,PRJNA807448,,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.931
+SAMN46795801,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.723
+SAMN46795803,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.79
+SAMN46795805,PRJNA807448,,,neonate,4.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.835
+SAMN46795807,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.719
+SAMN46795809,PRJNA807448,,,neonate,6.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.705
+SAMN46795811,PRJNA807448,,,neonate,7.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.602
+SAMN46795813,PRJNA807448,,,neonate,8.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.539
+SAMN46795815,PRJNA807448,,,neonate,7.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.758
+SAMN46795817,PRJNA807448,,,neonate,4.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.58
+SAMN46795818,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.553
+SAMN46795819,PRJNA807448,,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.872
+SAMN46795821,PRJNA807448,,,neonate,5.0,male,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.524
+SAMN46795823,PRJNA807448,,,neonate,5.0,female,AU,healthy_control,,,,,2017-04/2021-03,primary,1.0,4.75

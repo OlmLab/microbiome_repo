@@ -1,0 +1,176 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA13959556,PRJEB47976,1,,elderly,26298.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.103
+SAMEA13959696,PRJEB47976,10,,adult,18627.8,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.533
+SAMEA13959702,PRJEB47976,105,,elderly,29220.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.406
+SAMEA13959701,PRJEB47976,106,,elderly,28124.2,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,6.581
+SAMEA13959695,PRJEB47976,108,,elderly,25550.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.233
+SAMEA13959698,PRJEB47976,110,,elderly,24837.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.155
+SAMEA13959557,PRJEB47976,112,,elderly,24106.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.766
+SAMEA13959606,PRJEB47976,113,,elderly,28124.2,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,6.473
+SAMEA13959699,PRJEB47976,115,,elderly,24455.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.215
+SAMEA13959535,PRJEB47976,116,,adult,21177.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.273
+SAMEA13959672,PRJEB47976,12,,adult,22627.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.465
+SAMEA13959657,PRJEB47976,126,,elderly,25550.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.252
+SAMEA13959648,PRJEB47976,127,,elderly,27394.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.36
+SAMEA13959541,PRJEB47976,128,,elderly,28489.5,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.0
+SAMEA13959563,PRJEB47976,13,,elderly,25932.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.326
+SAMEA13959546,PRJEB47976,14,,elderly,27028.5,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.791
+SAMEA13959600,PRJEB47976,145,,elderly,24837.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.745
+SAMEA13959597,PRJEB47976,147,,elderly,26298.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.164
+SAMEA13959688,PRJEB47976,150,,elderly,26641.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.595
+SAMEA13959558,PRJEB47976,151,,elderly,25550.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.473
+SAMEA13959660,PRJEB47976,154,,elderly,25550.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.708
+SAMEA13959602,PRJEB47976,157,,elderly,26641.0,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.887
+SAMEA13959553,PRJEB47976,16,,elderly,25190.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.415
+SAMEA13959649,PRJEB47976,160,,elderly,24106.5,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,6.076
+SAMEA13959603,PRJEB47976,162,,elderly,28124.2,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.84
+SAMEA13959583,PRJEB47976,163,,elderly,28854.8,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.072
+SAMEA13959588,PRJEB47976,165,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.823
+SAMEA13959579,PRJEB47976,17,,adult,20434.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,7.152
+SAMEA13959623,PRJEB47976,172,,elderly,27759.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.613
+SAMEA13959569,PRJEB47976,174,,elderly,25550.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.669
+SAMEA13959529,PRJEB47976,175,,elderly,26641.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,6.142
+SAMEA13959615,PRJEB47976,18,,adult,21549.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.147
+SAMEA13959663,PRJEB47976,181,,elderly,28854.8,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.888
+SAMEA13959670,PRJEB47976,182,,elderly,25932.8,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.938
+SAMEA13959584,PRJEB47976,183,,elderly,25932.8,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.042
+SAMEA13959647,PRJEB47976,186,,elderly,24837.0,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.867
+SAMEA13959598,PRJEB47976,187,,elderly,28489.5,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.262
+SAMEA13959581,PRJEB47976,189,,elderly,30300.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.08
+SAMEA13959689,PRJEB47976,19,,adult,22280.2,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.054
+SAMEA13959639,PRJEB47976,194,,elderly,24455.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.975
+SAMEA13959614,PRJEB47976,198,,elderly,28489.5,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.893
+SAMEA13959590,PRJEB47976,2,,elderly,26641.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.616
+SAMEA13959550,PRJEB47976,20,,adult,20820.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.41
+SAMEA13959543,PRJEB47976,203,,elderly,28489.5,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.711
+SAMEA13959532,PRJEB47976,205,,elderly,26641.0,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.044
+SAMEA13959635,PRJEB47976,208,,elderly,26298.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,6.163
+SAMEA13959612,PRJEB47976,209,,elderly,26641.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.125
+SAMEA13959658,PRJEB47976,212,,elderly,29220.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.025
+SAMEA13959626,PRJEB47976,213,,elderly,28489.5,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,3.658
+SAMEA13959652,PRJEB47976,218,,elderly,28124.2,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.052
+SAMEA13959622,PRJEB47976,219,,elderly,28489.5,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,6.219
+SAMEA13959575,PRJEB47976,220,,elderly,25190.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,6.164
+SAMEA13959656,PRJEB47976,221,,elderly,26641.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.566
+SAMEA13959667,PRJEB47976,222,,elderly,28124.2,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.636
+SAMEA13959537,PRJEB47976,224,,elderly,29220.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.666
+SAMEA13959552,PRJEB47976,225,,elderly,26641.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.555
+SAMEA13959577,PRJEB47976,227,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.371
+SAMEA13959570,PRJEB47976,229,,elderly,25550.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.687
+SAMEA13959585,PRJEB47976,235,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.045
+SAMEA13959632,PRJEB47976,236,,elderly,25932.8,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.268
+SAMEA13959607,PRJEB47976,237,,elderly,24106.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.893
+SAMEA13959642,PRJEB47976,238,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,6.497
+SAMEA13959694,PRJEB47976,240,,elderly,24106.5,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.788
+SAMEA13959624,PRJEB47976,241,,elderly,27394.0,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.144
+SAMEA13959544,PRJEB47976,242,,elderly,27759.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.623
+SAMEA13959625,PRJEB47976,246,,elderly,24455.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.32
+SAMEA13959571,PRJEB47976,247,,elderly,27028.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.111
+SAMEA13959643,PRJEB47976,248,,elderly,24455.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.902
+SAMEA13959633,PRJEB47976,249,,elderly,25550.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.123
+SAMEA13959567,PRJEB47976,250,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.366
+SAMEA13959619,PRJEB47976,254,,elderly,25190.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.634
+SAMEA13959686,PRJEB47976,255,,elderly,25932.8,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.862
+SAMEA13959697,PRJEB47976,26,,elderly,26641.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.069
+SAMEA13959664,PRJEB47976,262,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.21
+SAMEA13959582,PRJEB47976,265,,elderly,25190.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.141
+SAMEA13959530,PRJEB47976,266,,elderly,26641.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.809
+SAMEA13959589,PRJEB47976,268,,elderly,24106.5,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.772
+SAMEA13959565,PRJEB47976,273,,elderly,27028.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.81
+SAMEA13959644,PRJEB47976,275,,elderly,23741.2,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.116
+SAMEA13959678,PRJEB47976,276,,elderly,23741.2,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.126
+SAMEA13959568,PRJEB47976,277,,elderly,24455.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.366
+SAMEA13959631,PRJEB47976,28,,elderly,25932.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,7.043
+SAMEA13959683,PRJEB47976,280,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.448
+SAMEA13959566,PRJEB47976,281,,elderly,28124.2,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,3.991
+SAMEA13959682,PRJEB47976,282,,elderly,25932.8,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.998
+SAMEA13959578,PRJEB47976,285,,elderly,24837.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.744
+SAMEA13959592,PRJEB47976,286,,elderly,24837.0,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.117
+SAMEA13959586,PRJEB47976,287,,elderly,26641.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.619
+SAMEA13959700,PRJEB47976,29,,adult,22280.2,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.671
+SAMEA13959627,PRJEB47976,292,,elderly,27028.5,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.455
+SAMEA13959599,PRJEB47976,294,,elderly,24106.5,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,6.268
+SAMEA13959560,PRJEB47976,297,,elderly,26641.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,6.81
+SAMEA13959611,PRJEB47976,298,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.151
+SAMEA13959666,PRJEB47976,299,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.286
+SAMEA13959540,PRJEB47976,3,,elderly,26298.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.404
+SAMEA13959673,PRJEB47976,301,,adult,21915.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.458
+SAMEA13959572,PRJEB47976,304,,elderly,28489.5,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,6.035
+SAMEA13959636,PRJEB47976,305,,elderly,26298.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.423
+SAMEA13959634,PRJEB47976,312,,elderly,25550.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.512
+SAMEA13959608,PRJEB47976,319,,elderly,28854.8,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.403
+SAMEA13959609,PRJEB47976,32,,elderly,29931.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.666
+SAMEA13959691,PRJEB47976,320,,elderly,24106.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.503
+SAMEA13959533,PRJEB47976,324,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.928
+SAMEA13959651,PRJEB47976,329,,elderly,24455.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.388
+SAMEA13959549,PRJEB47976,34,,elderly,28854.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.541
+SAMEA13959662,PRJEB47976,340,,elderly,27028.5,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,6.576
+SAMEA13959646,PRJEB47976,35,,elderly,26641.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.445
+SAMEA13959684,PRJEB47976,352,,elderly,29931.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.989
+SAMEA13959676,PRJEB47976,359,,adult,18262.5,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.185
+SAMEA13959531,PRJEB47976,370,,elderly,24455.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.869
+SAMEA13959671,PRJEB47976,373,,elderly,23741.2,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.682
+SAMEA13959573,PRJEB47976,374,,elderly,24837.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.71
+SAMEA13959580,PRJEB47976,38,,elderly,27759.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.006
+SAMEA13959680,PRJEB47976,4,,adult,20088.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.085
+SAMEA13959630,PRJEB47976,40,,elderly,25932.8,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.112
+SAMEA13959542,PRJEB47976,402,,elderly,26641.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.736
+SAMEA13959692,PRJEB47976,403,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.629
+SAMEA13959637,PRJEB47976,406,,elderly,24106.5,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.202
+SAMEA13959593,PRJEB47976,407,,elderly,25190.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.184
+SAMEA13959665,PRJEB47976,408,,elderly,28124.2,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.753
+SAMEA13959604,PRJEB47976,41,,elderly,29220.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.839
+SAMEA13959650,PRJEB47976,412,,adult,23376.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,7.131
+SAMEA13959574,PRJEB47976,413,,elderly,27394.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.158
+SAMEA13959539,PRJEB47976,418,,elderly,28124.2,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.378
+SAMEA13959534,PRJEB47976,419,,elderly,23741.2,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.998
+SAMEA13959536,PRJEB47976,42,,elderly,25932.8,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.266
+SAMEA13959674,PRJEB47976,420,,elderly,24106.5,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.003
+SAMEA13959690,PRJEB47976,421,,elderly,24106.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,3.735
+SAMEA13959668,PRJEB47976,422,,elderly,25550.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.989
+SAMEA13959587,PRJEB47976,423,,elderly,25550.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,6.663
+SAMEA13959653,PRJEB47976,425,,elderly,28124.2,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.064
+SAMEA13959618,PRJEB47976,427,,elderly,26641.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.731
+SAMEA13959628,PRJEB47976,429,,elderly,24455.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.045
+SAMEA13959638,PRJEB47976,43,,adult,20088.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.227
+SAMEA13959594,PRJEB47976,431,,elderly,29931.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.93
+SAMEA13959559,PRJEB47976,435,,elderly,28489.5,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.963
+SAMEA13959605,PRJEB47976,438,,elderly,26298.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.561
+SAMEA13959655,PRJEB47976,44,,elderly,28124.2,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.997
+SAMEA13959675,PRJEB47976,443,,elderly,24455.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.749
+SAMEA13959545,PRJEB47976,444,,elderly,26641.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.407
+SAMEA13959654,PRJEB47976,447,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.308
+SAMEA13959641,PRJEB47976,45,,elderly,27394.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.911
+SAMEA13959687,PRJEB47976,451,,elderly,26298.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.205
+SAMEA13959548,PRJEB47976,452,,elderly,27759.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.726
+SAMEA13959613,PRJEB47976,453,,elderly,24837.0,male,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.239
+SAMEA13959659,PRJEB47976,454,,elderly,23741.2,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,5.549
+SAMEA13959595,PRJEB47976,456,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.531
+SAMEA13959629,PRJEB47976,457,,elderly,25932.8,male,DE,healthy_control,Healthy control,,,,2018,primary,1.0,4.693
+SAMEA13959669,PRJEB47976,458,,elderly,27028.5,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,3.662
+SAMEA13959677,PRJEB47976,459,,elderly,27394.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.316
+SAMEA13959561,PRJEB47976,46,,elderly,24455.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.262
+SAMEA13959693,PRJEB47976,460,,elderly,27394.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.227
+SAMEA13959551,PRJEB47976,461,,elderly,28489.5,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,6.159
+SAMEA13959645,PRJEB47976,463,,elderly,24837.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.981
+SAMEA13959554,PRJEB47976,468,,adult,22980.8,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,6.0
+SAMEA13959601,PRJEB47976,469,,elderly,24455.0,female,DE,healthy_control,Healthy control,,,,2018,primary,1.0,5.619
+SAMEA13959640,PRJEB47976,47,,elderly,26298.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.805
+SAMEA13959617,PRJEB47976,50,,elderly,27028.5,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.096
+SAMEA13959538,PRJEB47976,51,,elderly,27028.5,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,6.643
+SAMEA13959616,PRJEB47976,6,,adult,20820.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.006
+SAMEA13959679,PRJEB47976,61,,elderly,24106.5,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,6.995
+SAMEA13959555,PRJEB47976,64,,elderly,26298.0,female,DE,healthy_control,mixed_case_control: amyloid-positive AD patients vs cognitively healthy elderly controls,,,,2018,primary,1.0,4.804
+SAMEA13959610,PRJEB47976,65,,adult,22980.8,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.721
+SAMEA13959564,PRJEB47976,66,,adult,20820.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.303
+SAMEA13959562,PRJEB47976,67,,elderly,25932.8,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.792
+SAMEA13959596,PRJEB47976,7,,adult,20820.0,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,6.163
+SAMEA13959547,PRJEB47976,72,,adult,22280.2,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.467
+SAMEA13959576,PRJEB47976,77,,adult,20088.8,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.27
+SAMEA13959661,PRJEB47976,80,,elderly,25550.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,5.523
+SAMEA13959591,PRJEB47976,81,,elderly,24455.0,female,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.927
+SAMEA13959621,PRJEB47976,87,,elderly,29931.0,male,DE,neurological_psychiatric,Amyloid-positive,,,,2018,primary,1.0,4.862
+SAMEA13959528,PRJEB47976,89,,adult,17897.2,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.853
+SAMEA13959685,PRJEB47976,9,,adult,19358.2,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.911
+SAMEA13959620,PRJEB47976,93,,adult,21549.8,female,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,4.541
+SAMEA13959681,PRJEB47976,97,,elderly,26298.0,male,DE,neurological_psychiatric,alzheimers,,,,2018,primary,1.0,5.567
