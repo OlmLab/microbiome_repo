@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Infant-field extraction report — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.15.0">
+<meta name="catalog-release-id" content="R2026.16">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/EXTRACTION_REPORT.html">
+<meta name="catalog-package-version" content="1.15.0">
+<meta name="catalog-build-date" content="2026-10-08">
+<link rel="stylesheet" href="../static/site.css">
+
+
+
+</head>
+<body>
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Infant-field extraction report</div>
+
+<p class="small">Rendered from <a href="EXTRACTION_REPORT.md">EXTRACTION_REPORT.md</a>.</p>
+<div class="md"><h1 id="extraction-report-per-sample-metadata-for-the-infant-gut-shotgun-metagenome-catalog">EXTRACTION REPORT — per-sample metadata for the Infant Gut Shotgun-Metagenome Catalog</h1>
+<p>Date 2026-09-25 (v4, after sample-unit fix) · plan artifact 8c115402 (5 phases) · scope: 389 included studies, 153,701 samples, 174,022 runs.</p>
+<h2 id="1-what-was-produced">1. What was produced</h2>
+<ul>
+<li><code>sample_determinations.parquet</code> — <strong>606,023 determinations</strong> (one per sample × field) over 150,544 samples in 379 studies; columns follow <code>catalog_schema.sql::sample_determinations</code> plus <code>route</code> (R1–R4), <code>scope</code> (sample|group), <code>group_audit</code>. Every row passes <code>validate_row()</code> (labelled ≤12-word verbatim quote, controlled vocabularies).</li>
+<li><code>samples.parquet</code> (153,701; body-site class, gold flag) and <code>sample_attributes.parquet</code> (7,477,170 long-format archive attributes, 2,280 distinct keys; ENA sample XML 6.05M rows, NCBI BioSample 170k rows for the 10,034 SAMN records ENA lacks; 71 samples have no attributes anywhere).</li>
+<li><code>sample_subjects.parquet</code> / <code>subjects.parquet</code> / <code>study_subject_summary.csv</code> — subject and timepoint resolution: 190/389 studies resolve subjects; 34,185 infant subjects, 1,538 mothers (2,162 mother samples linked to an infant; 3,411 unlinked); 92 longitudinal studies; median 1 sample per infant (mean 2.6). <code>cohorts_v4.csv</code> recomputes unique_infants_est for 174 cohorts.</li>
+<li><code>infant_catalog.sqlite</code> (189 MB) — studies, samples, runs, sample_determinations, study_triage, cohorts, paper_study_links loaded per <code>catalog_schema.sql</code>.</li>
+<li>Evidence/QC tables: <code>sample_determination_candidates.parquet</code> (all 774,628 route candidates), <code>sample_determination_conflicts.parquet</code> + <code>conflicts_adjudication_log.parquet</code>, <code>group_statement_audit.csv</code>, <code>sample_determinations_dropped_group_audit.parquet</code>, <code>sample_determinations_rejected.parquet</code>, <code>extraction_audit.md</code>, <code>audit_300.parquet</code>, <code>audit_group_100.parquet</code>, <code>PILOT_REPORT.md</code>, <code>PHASE0_REPORT.md</code>.</li>
+</ul>
+<h2 id="2-method-four-evidence-routes-fixed-precedence">2. Method (four evidence routes, fixed precedence)</h2>
+<table>
+<thead>
+<tr>
+<th>Route</th>
+<th>Evidence</th>
+<th>Engine</th>
+<th style="text-align: right;">Rows in final table</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>R1 archive attributes + sample-name conventions</td>
+<td>ENA/NCBI BioSample attributes; DOL/week/month tokens in titles</td>
+<td>deterministic parsers; Haiku only to normalise 466 distinct free-text strings</td>
+<td style="text-align: right;">379,038</td>
+</tr>
+<tr>
+<td>R2 supplementary tables</td>
+<td>per-sample rows keyed by run/sample accession, library name, title (pooled re-analysis tables accepted on ≥20 exact accession matches)</td>
+<td>openpyxl/csv parsing; Haiku column classification; one source table per study × field</td>
+<td style="text-align: right;">83,676</td>
+</tr>
+<tr>
+<td>R3 paper text (group scope)</td>
+<td>Methods/Results statements with an explicit mapping (all / timepoint label / pattern)</td>
+<td>Sonnet, two replicates per paper, union; deterministic expansion</td>
+<td style="text-align: right;">31,821</td>
+</tr>
+<tr>
+<td>R4 abstract / ENA description (group scope)</td>
+<td>cohort-wide statements only; confidence ≤0.5; <code>evidence_limited_to_abstract=1</code></td>
+<td>Haiku</td>
+<td style="text-align: right;">23,095</td>
+</tr>
+</tbody>
+</table>
+<p>Merge: R1 &gt; R2 &gt; R3 &gt; R4 per sample × field; cross-route disagreements (3,096 sample-level, 76 patterns) adjudicated once per pattern by Opus (536 values changed, mostly R2 winning over submitter-level country/sex). Group statements pass a consistency filter against per-sample values (drop when &gt;20 % disagreement on ≥5 samples) and a threshold filter; <strong>all 359 distinct group statements were then audited by Opus with a failure-mode checklist: 186 kept, 60 downgraded (confidence 0.4, review flag), 113 dropped (17,165 rows)</strong>.</p>
+<h2 id="3-coverage-infant-scope-samples-primary-unknown-body-site-n-146126">3. Coverage (infant-scope samples = primary + unknown body site, n = 146,126)</h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th style="text-align: right;">samples with a value</th>
+<th style="text-align: right;">share</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Probiotic exposure</td>
+<td style="text-align: right;">7,939</td>
+<td style="text-align: right;">5.4%</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr>
+<td>Preterm status</td>
+<td style="text-align: right;">33,164</td>
+<td style="text-align: right;">22.7%</td>
+<td style="text-align: right;">126</td>
+</tr>
+<tr>
+<td>Gestational age</td>
+<td style="text-align: right;">12,127</td>
+<td style="text-align: right;">8.3%</td>
+<td style="text-align: right;">44</td>
+</tr>
+<tr>
+<td>Delivery mode</td>
+<td style="text-align: right;">27,798</td>
+<td style="text-align: right;">19.0%</td>
+<td style="text-align: right;">76</td>
+</tr>
+<tr>
+<td>Feeding mode</td>
+<td style="text-align: right;">10,458</td>
+<td style="text-align: right;">7.2%</td>
+<td style="text-align: right;">75</td>
+</tr>
+<tr>
+<td>Antibiotic exposure</td>
+<td style="text-align: right;">20,410</td>
+<td style="text-align: right;">14.0%</td>
+<td style="text-align: right;">77</td>
+</tr>
+<tr>
+<td>Age at collection</td>
+<td style="text-align: right;">49,016</td>
+<td style="text-align: right;">33.5%</td>
+<td style="text-align: right;">159</td>
+</tr>
+<tr>
+<td>Birth weight</td>
+<td style="text-align: right;">9,993</td>
+<td style="text-align: right;">6.8%</td>
+<td style="text-align: right;">37</td>
+</tr>
+<tr>
+<td>Country</td>
+<td style="text-align: right;">135,930</td>
+<td style="text-align: right;">93.0%</td>
+<td style="text-align: right;">363</td>
+</tr>
+<tr>
+<td>Maternal antibiotics</td>
+<td style="text-align: right;">6,879</td>
+<td style="text-align: right;">4.7%</td>
+<td style="text-align: right;">40</td>
+</tr>
+<tr>
+<td>HMO supplementation</td>
+<td style="text-align: right;">1,256</td>
+<td style="text-align: right;">0.9%</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr>
+<td>NEC status</td>
+<td style="text-align: right;">5,153</td>
+<td style="text-align: right;">3.5%</td>
+<td style="text-align: right;">32</td>
+</tr>
+</tbody>
+</table>
+<p>Age at collection is recoverable for <strong>34%</strong> of infant-scope samples (49,016); 123 studies have age for ≥80 % of their samples, 135 studies have no field beyond country. Per-study coverage is bimodal (<code>field_coverage.png</code>): a field is recoverable for essentially every sample of a study or for none, as the recoverability tiering predicted. Exposures (antibiotics, probiotics, HMO, NEC) are below 15 %.</p>
+<h2 id="4-accuracy">4. Accuracy</h2>
+<p><strong>Gold</strong> = 3,670 curatedMetagenomicData infant samples (18 studies) matched to sample keys, never read during extraction. Age tolerance max(7 d, 10 %); GA ±1 wk; "hires" excludes 172 gold rows with integer-year ages.
+| Field | gold n | coverage | precision | recall |
+|---|---:|---:|---:|---:|
+| age_days | 3346 | 0.952 | 0.994 | 0.947 |
+| born_method | 2546 | 0.894 | 0.995 | 0.890 |
+| feeding_practice | 693 | 0.641 | 0.896 | 0.574 |
+| premature | 1998 | 0.961 | 1.000 | 0.961 |
+| antibiotics_current_use | 2534 | 0.905 | 0.867 | 0.785 |
+| gestational_age | 1998 | 0.262 | 1.000 | 0.262 |</p>
+<p>Route precision on gold (hi-res): R2 age 1.000 (n=2,192), R1 age 0.981 (n=994), R2 delivery 0.995, R2 preterm 1.000, R3 preterm 1.000 (n=191), R2 feeding 0.896, R2 antibiotics 0.867. The antibiotic gap is definitional (tables record <em>any</em> exposure; cMD records <em>current use</em>) — PILOT_REPORT §3; feeding disagreements are cMD's <code>No Breastfeeding</code> vs table categories.</p>
+<p><strong>Blind audit</strong> (Sonnet, 300 stratified determinations, two replicates, quote-only): κ 0.79 (3-class) / 0.91 (binary); supported rate R2 0.93, R4 0.83, R1 0.77, R3 0.61 <em>before</em> the group-statement gate. The gate removed the dominant R3/R4 failure modes (eligibility criteria read as observations, "healthy" read as term, timepoint lists read as one age, care setting read as exposure, summary words, thresholds). Remaining R1 weaknesses: parent-questionnaire attributes (American Gut <code>antibiotic_history</code>), range midpoints, <code>host_age</code> given in gestational weeks.</p>
+<h2 id="5-costs">5. Costs</h2>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th style="text-align: right;">tokens</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Phase 0 Sample frame (Haiku value normalisation)</td>
+<td style="text-align: right;">127,343</td>
+</tr>
+<tr>
+<td>Phase 1 Pilot (Haiku/Sonnet/Opus)</td>
+<td style="text-align: right;">1,370,707</td>
+</tr>
+<tr>
+<td>Phase 2 R2 workers ×3 (Haiku)</td>
+<td style="text-align: right;">247,774</td>
+</tr>
+<tr>
+<td>Phase 2 R3 workers ×9 (Sonnet ×2 replicates)</td>
+<td style="text-align: right;">10,634,863</td>
+</tr>
+<tr>
+<td>Phase 2 R4 worker (Haiku + Sonnet gate)</td>
+<td style="text-align: right;">647,869</td>
+</tr>
+<tr>
+<td>in-frame R4 gap (111 studies, Haiku)</td>
+<td style="text-align: right;">626,504</td>
+</tr>
+<tr>
+<td>in-frame Opus conflict adjudication (76 patterns)</td>
+<td style="text-align: right;">39,831</td>
+</tr>
+<tr>
+<td>Phase 3 QC (Sonnet blind audit ×2 + group checklist)</td>
+<td style="text-align: right;">214,903</td>
+</tr>
+<tr>
+<td>in-frame Opus group-statement audit (359)</td>
+<td style="text-align: right;">114,069</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Extraction phase: 14,023,863 tokens (~14.0M); whole pipeline ≈ 42.2M.</strong> 13 + 5 leaf workers; every LLM fan-out dispatched from the root. Two R2 workers and the R4 worker reported estimated (not measured) token counts after in-run counters were lost to script crashes.</p>
+<h2 id="6-limitations-and-open-items">6. Limitations and open items</h2>
+<ul>
+<li><strong>R2 ID-mapping residue.</strong> 77 R1/R2-tier studies (41,906 samples; TEDDY PRJNA400115 12,266, American Gut, PRJEB46788, PRJEB45799, PRJEB49383, PRJNA398089 …) have per-sample tables keyed by identifiers that do not match archive accessions/titles. A rescue pass matching table IDs against any archive attribute value was written (<code>r2_rescue_map.py</code>); two runs were attempted: the first was lost to a model outage before running; the second reached one study (TEDDY: 4 mapped tables, all gene-abundance matrices without metadata columns → 0 determinations) before Europe PMC stalled and its time-box expired (<code>RESCUE_REPORT.md</code>, <code>rescue_table_mapping.csv</code>). The 76 remaining studies are the single largest open item; <code>RESCUE_REPORT.md</code> lists each with the sample-ID form its tables use. Re-run <code>r2_rescue_map.py</code> + <code>run_rescue_gate.py</code> from the cached supplementary ZIPs when the network is healthy.</li>
+<li>10,958 samples carry unitless numeric ages that no rule or paper fixed (<code>r1_rejected</code>); 4 pilot studies need a curator (PRJNA300541, PRJNA379120, PRJNA489090, PRJNA716780).</li>
+<li>R3 read at most two papers per study and one ≤46k-char chunk; 3+-paper studies (PRJNA524703, PRJEB12669, PRJNA557731 …) were not read exhaustively. 2,691 R4 candidates shadowed by dropped R3 rows were not promoted (unaudited).</li>
+<li>R4 covers 97 + 111 studies without open-access full text on abstract/description only; 22 of the 111 have no linked paper at all. Paywalled-paper policy applied (abstract + archive only).</li>
+<li>PDF/DOCX supplementary tables were not parsed (23 in one slice alone).</li>
+<li>Gold covers age/delivery/feeding/preterm/antibiotics/GA only; probiotic, HMO, NEC, birth weight, maternal antibiotics have no external truth set (blind-audit only; HMO n=4, 3 flagged).</li>
+<li>Mother–infant linking is partial (3,411 mother samples unlinked); 199 studies expose no subject identifier.</li>
+</ul>
+<h2 id="7-rules-added-to-infant-curation-rules-this-phase">7. Rules added to <code>infant-curation-rules</code> (this phase)</h2>
+<p>Pooled exact-accession tables count as evidence (cap 0.75); ranges/thresholds/timepoint lists are not values; boolean breastfeeding columns do not set feeding_mode; group statements need the consistency check and must not come from eligibility criteria, care setting, site policy, "healthy", summary words, maternal pregnancy weeks or single cases; unitless ages resolve only by sibling attribute, unique admissible unit or paper quote; parent questionnaires are respondent history; <code>antibiotic_exposure</code> = any antibiotics before/at sampling (record <code>antibiotic_current</code> separately when a source distinguishes).</p>
+<h2 id="8-recovery-round-2-2026-09-25-six-methods-results">8. Recovery round 2 (2026-09-25) — six methods, results</h2>
+<table>
+<thead>
+<tr>
+<th>Method</th>
+<th style="text-align: right;">Rows kept after merge</th>
+<th style="text-align: right;">Samples gaining ≥1 field</th>
+<th>Notes / deviations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>R2 ID-mapping rescue (attribute inverted index; 77 studies)</td>
+<td style="text-align: right;">1,569</td>
+<td style="text-align: right;">~1,000</td>
+<td>78 new tables in 20 studies (orig 31 / attr_norm 29 / attr_exact 17 / composite 1); <strong>57 of 68 studies with tables still yield nothing — their tables are keyed by identifiers absent from the archive</strong> (TEDDY subject ids, LUMC ids, censored ids) or are abundance/statistics tables; PMC6358638 ZIP not cached; ID forms per study in <code>RESCUE_REPORT_v2.md</code></td>
+</tr>
+<tr>
+<td>PDF/DOCX supplements (136 files, 65 studies)</td>
+<td style="text-align: right;">732</td>
+<td style="text-align: right;">~300</td>
+<td>81 files parsed, 386 tables kept, only 6 mapped (4 studies). <strong>Found a bug in the R2 gate: sample accessions and library names were dropped as 'generic' IDs</strong> — fixed (<code>r2_supp_extract_v2.py</code>); 17 previously inventoried XLSX tables became mappable (+1,382 rows, 5 studies)</td>
+</tr>
+<tr>
+<td>Unitless ages (49 studies, 17,462 samples)</td>
+<td style="text-align: right;">1,853</td>
+<td style="text-align: right;">1,853</td>
+<td>U1 1,337 / U2 307 / U3 209; <strong>10,305 samples are adults/&gt;36 mo</strong> (mothers, American Gut) → <code>adult_age_rows.parquet</code>; PRJEB108678: 44 prior rows were years-converted months — corrected; PRJNA398089 host_age is not an age; PRJNA1274040 <code>age</code> is a visit index; 9 studies unresolved</td>
+</tr>
+<tr>
+<td>Multi-paper cohorts (93 studies)</td>
+<td style="text-align: right;">2,850</td>
+<td style="text-align: right;">2,546</td>
+<td>Token cap reached after 45/93 studies (82 of 1,908 paper-chunks read); 102 statements → 55 rule-dropped, 24 Opus-audited (9 keep / 10 downgrade / 5 drop); 738 rows supersede weaker R3/R4 rows; 48 studies (34k infant samples) not read</td>
+</tr>
+<tr>
+<td>Subject propagation (deterministic)</td>
+<td style="text-align: right;">2,242</td>
+<td style="text-align: right;">1,665</td>
+<td>Per-infant-constant fields copied across 11,892 multi-sample infants; 308 subjects with inconsistent sex/GA excluded</td>
+</tr>
+<tr>
+<td>Date arithmetic (collection − birth date)</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">78</td>
+<td>Only 2 studies carry both dates; agreement with existing ages 0.938 (n=227)</td>
+</tr>
+<tr>
+<td>Shadowed R4 promotion</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td>All 5 shadowed statements were the same failure modes Opus had already dropped</td>
+</tr>
+<tr>
+<td>Exposure truth set</td>
+<td style="text-align: right;">—</td>
+<td style="text-align: right;">—</td>
+<td><strong>Not built: the curation request was refused by a content-safety filter</strong> (sub-agent failed before any work). No external truth exists for probiotic/HMO/NEC/birth-weight/maternal-antibiotic fields; they remain blind-audit only</td>
+</tr>
+</tbody>
+</table>
+<p>Coverage change (infant-scope samples, n = 146,126):
+| Field | before | after | Δ samples | share |
+|---|---:|---:|---:|---:|
+| Probiotic exposure | 7,939 | 8,113 | +174 | 5.6% |
+| Preterm status | 33,164 | 33,645 | +481 | 23.0% |
+| Gestational age | 12,127 | 12,587 | +460 | 8.6% |
+| Delivery mode | 27,798 | 28,472 | +674 | 19.5% |
+| Feeding mode | 10,458 | 10,505 | +47 | 7.2% |
+| Antibiotic exposure | 20,410 | 20,533 | +123 | 14.1% |
+| Age at collection | 49,016 | 53,149 | +4,133 | 36.4% |
+| Birth weight | 9,993 | 10,200 | +207 | 7.0% |
+| Country | 135,930 | 136,139 | +209 | 93.2% |
+| Maternal antibiotics | 6,879 | 7,467 | +588 | 5.1% |
+| HMO supplementation | 1,256 | 1,256 | +0 | 0.9% |
+| NEC status | 5,153 | 5,153 | +0 | 3.5% |</p>
+<p>Gold after merge (hi-res): age precision 0.993 / recall 0.949 (was 0.994 / 0.947); other fields unchanged. Tokens this round: 2,700,912. <strong>Whole pipeline ≈ 44.9M.</strong></p>
+<p>Structural changes delivered: <code>r2_supp_extract_v2.py</code> (attribute-inverted-index gate default, study_keys fix, numeric-ID plausibility), Methods-first chunking for R3, skill rules for unit resolution and adult-age routing. The remaining ceiling is structural, not methodological: ~42k samples sit in studies whose per-sample tables cannot be joined to archive records without submitter keys, and 34k samples' extra papers were not read for budget reasons (a second multi-paper pass with the same recipe would finish them).</p>
+<h2 id="9-final-passes-2026-09-25-multi-paper-pass-2-r2-re-run-with-the-fixed-gate-field-extension">9. Final passes (2026-09-25) — multi-paper pass 2, R2 re-run with the fixed gate, field extension</h2>
+<table>
+<thead>
+<tr>
+<th>Pass</th>
+<th style="text-align: right;">Rows kept</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Multi-paper pass 2 (48 studies)</td>
+<td style="text-align: right;">1,714</td>
+<td>32 of 48 studies read (budget); 1,712 rows confirm existing R3 values exactly, 2 new pairs — the prose route is saturated. 8 studies (626 samples) still unread</td>
+</tr>
+<tr>
+<td>R2 full re-run, v2 gate (219 studies with tables; 7,363 study×table pairs)</td>
+<td style="text-align: right;">9,449</td>
+<td>386 newly accepted tables in 104 studies; 4,757 samples gain ≥1 field (age +651); 170 studies have no PMC-linked table at all; 2 ZIPs unretrievable; 1,978 rows removed by a post-hoc misclassification filter</td>
+</tr>
+<tr>
+<td>Field extension (R1 + R2)</td>
+<td style="text-align: right;">70,522</td>
+<td>New fields: geo_subregion 47,016 samples / 174 studies; health_condition 9,680 / 33; multiple_birth 4,792 / 18; sibling_in_study 3,924 / 10 (3,130 candidate sibling rows withheld — cannot verify distinct infants). No reverse-geocoding; region codes kept as given</td>
+</tr>
+</tbody>
+</table>
+<p>Final table: <strong>606,023 determinations</strong>, 150,677 samples, 381 studies. Gold (hi-res): age 0.991 / 0.951, delivery 0.995 / 0.932, preterm 1.000 / 0.961, feeding 0.891 / 0.577, antibiotics 0.867 / 0.820, GA 1.000 / 0.264.</p>
+<p>Coverage (infant-scope samples, n = 146,126):
+| Field | samples | share | studies |
+|---|---:|---:|---:|
+| Probiotic exposure | 8,308 | 5.7% | 24 |
+| Preterm status | 33,704 | 23.1% | 116 |
+| Gestational age | 12,791 | 8.8% | 48 |
+| Delivery mode | 29,149 | 19.9% | 87 |
+| Feeding mode | 11,828 | 8.1% | 72 |
+| Antibiotic exposure | 21,187 | 14.5% | 65 |
+| Age at collection | 53,802 | 36.8% | 171 |
+| Birth weight | 10,371 | 7.1% | 37 |
+| Country | 136,139 | 93.2% | 363 |
+| Maternal antibiotics | 8,397 | 5.7% | 38 |
+| HMO supplementation | 1,256 | 0.9% | 3 |
+| NEC status | 5,173 | 3.5% | 20 |
+| Health condition | 9,680 | 6.6% | 32 |
+| Multiple birth | 4,792 | 3.3% | 18 |
+| Sibling in study | 3,924 | 2.7% | 10 |
+| Geo subregion | 47,016 | 32.2% | 172 |</p>
+<p>Tokens these passes: 2,358,996. <strong>Whole pipeline ≈ 47.3M.</strong> Published as data_package_v1.zip (README, DATA_DICTIONARY, wide tables, notebook) and the GitHub Pages site.</p>
+<h2 id="10-sample-unit-fix-auditor-finding-2026-09-25">10. Sample-unit fix (auditor finding, 2026-09-25)</h2>
+<p>The catalog's sample unit is the BioSample. The AUDITOR session found deposits that register one BioSample per infant and one run per stool (PRJNA294605: 11 BioSamples / 158 runs, "Assembly of 14 fecal samples from infant 23…"), where run-keyed supplementary values had been collapsed to one per BioSample. Deterministic classification of all 11,116 multi-run BioSamples in 63 studies (criteria: pooled text; ≥2 distinct ages/timepoints across a BioSample's runs in run-keyed tables; time tokens in library names confirmed by attributes; NCBI BioSample date ranges) → <strong>6 class-A studies</strong> (PRJNA294605, PRJNA1055141, PRJNA1258733, PRJNA299342, PRJNA751712, PRJNA869587; 16 BioSamples / 521 runs); 33 technical (lanes, replicates, paired/unpaired, long+short) studies unchanged (row-level diff empty); 24 class-B studies stayed BioSample-unit. For class A: 521 run-level sample rows (<code>sample_unit=run</code>, <code>parent_biosample</code>), 89 run-keyed tables re-gated per run → 2,938 R2 rows + 698 propagated per-infant-constant R1 rows; 75 collapsed BioSample-level rows superseded (<code>sample_determinations_superseded.parquet</code>); subjects rebuilt (PRJNA294605: 3–22 timepoints per infant, age for 141/158 runs). Also from the auditor: own-data paper PMID 27258951 linked to PRJNA294605 (confidence 0.6 — full text unreadable, Europe PMC 500) and 136 preterm_status values derived from gestational age. Validator pass 100 %; gold metrics unchanged (no gold samples in class-A studies). Catalog now <strong>154,206 samples, 609,584 determinations</strong>. Report: <code>SAMPLE_UNIT_FIX_REPORT.md</code>; classification: <code>sample_unit_classification.csv</code>.
+Deviations declared by the track: NCBI efetch returns nothing for SAMEA ids (2,192 class-B BioSamples evaluated on ENA attributes); library-name criterion tightened after false positives and fired on none; column→field classes reused from accepted R2 rows rather than re-classified.</p></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.16"><span class="mono">R2026.16</span></a> · package <span class="mono">1.15.0</span> · build <span class="mono">c9f4d91</span> · built 2026-10-08 · data tag <span class="mono">data-v1.15.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.16.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.16 (data package 1.15.0), OlmLab, 2026-10-08.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.15.0',release:'data-v1.15.0',releaseId:'R2026.16',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

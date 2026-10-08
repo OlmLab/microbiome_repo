@@ -1,0 +1,45 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN43405278,PRJNA1153928,08517-02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT; assigned arm: oral vancomycin 125mg qid arm,no,2023,primary,1.0,4.12
+SAMN43405287,PRJNA1153928,08517-02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2023,primary,1.0,4.638
+SAMN43405296,PRJNA1153928,08517-02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2023,primary,1.0,5.767
+SAMN43405288,PRJNA1153928,08517-04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,4.014
+SAMN43405297,PRJNA1153928,08517-04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,2.581
+SAMN43405283,PRJNA1153928,08517-05,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,3.051
+SAMN43405289,PRJNA1153928,08517-05,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,5.805
+SAMN43405298,PRJNA1153928,08517-05,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,5.272
+SAMN43405279,PRJNA1153928,08517-06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT; assigned arm: oral vancomycin 125mg qid arm,no,2023,primary,1.0,3.353
+SAMN43405290,PRJNA1153928,08517-06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2023,primary,1.0,5.683
+SAMN43405284,PRJNA1153928,08517-09,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2023,primary,1.0,5.619
+SAMN43405291,PRJNA1153928,08517-09,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2023,primary,1.0,5.881
+SAMN43405292,PRJNA1153928,08517-10,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,4.905
+SAMN43405293,PRJNA1153928,08517-11,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,4.235
+SAMN43405294,PRJNA1153928,08517-12,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2023,primary,1.0,3.612
+SAMN43405281,PRJNA1153928,08517-15,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,4.333
+SAMN43405285,PRJNA1153928,08517-15,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2023,primary,1.0,4.2
+SAMN43405280,PRJNA1153928,08517-16,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT; assigned arm: oral vancomycin 125mg qid arm,no,2023,primary,1.0,4.084
+SAMN43405282,PRJNA1153928,08517-16,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2023,primary,1.0,4.66
+SAMN43405286,PRJNA1153928,08517-16,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2023,primary,1.0,5.241
+SAMN43405295,PRJNA1153928,08517-16,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2023,primary,1.0,4.442
+SAMN43405255,PRJNA1153928,BW05,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT,no,2020,primary,1.0,1.558
+SAMN43405256,PRJNA1153928,BW05,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.805
+SAMN43405257,PRJNA1153928,BW05,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.353
+SAMN43405258,PRJNA1153928,CB04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT,no,2020,primary,1.0,1.346
+SAMN43405259,PRJNA1153928,CB04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,2.216
+SAMN43405260,PRJNA1153928,CB04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.557
+SAMN43405261,PRJNA1153928,CB04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.897
+SAMN43405262,PRJNA1153928,CB04,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.49
+SAMN43405263,PRJNA1153928,JB09,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2020,primary,1.0,1.447
+SAMN43405264,PRJNA1153928,JB09,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2020,primary,1.0,1.478
+SAMN43405265,PRJNA1153928,MB06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT; assigned arm: oral vancomycin 125mg qid arm,no,2020,primary,1.0,1.816
+SAMN43405266,PRJNA1153928,MB06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2020,primary,1.0,2.027
+SAMN43405267,PRJNA1153928,MB06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2020,primary,1.0,1.447
+SAMN43405268,PRJNA1153928,MB06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2020,primary,1.0,1.616
+SAMN43405269,PRJNA1153928,MB06,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2020,primary,1.0,1.143
+SAMN43405270,PRJNA1153928,NL10,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.459
+SAMN43405271,PRJNA1153928,NL10,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.339
+SAMN43405272,PRJNA1153928,NL10,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,"control arm, no vancomycin",no,2020,primary,1.0,1.318
+SAMN43405273,PRJNA1153928,NS02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",no_intervention,baseline before vancomycin/SBRT; assigned arm: oral vancomycin 125mg qid arm,no,2020,primary,1.0,2.124
+SAMN43405274,PRJNA1153928,NS02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2020,primary,1.0,1.702
+SAMN43405275,PRJNA1153928,NS02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,yes,2020,primary,1.0,1.637
+SAMN43405276,PRJNA1153928,NS02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2020,primary,1.0,1.38
+SAMN43405277,PRJNA1153928,NS02,,,,,US,other_cancer,"early-stage non-small cell lung cancer (NSCLC), medically inoperable",antibiotic,oral vancomycin 125mg qid arm,no,2020,primary,1.0,1.719

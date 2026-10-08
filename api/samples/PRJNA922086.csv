@@ -1,0 +1,336 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN33739980,PRJNA922086,0002,Day1,adult,20088.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.408
+SAMN33739982,PRJNA922086,0002,Day37,adult,20088.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.626
+SAMN33739981,PRJNA922086,0002,Day6,adult,20088.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,4.592
+SAMN33739983,PRJNA922086,0003,Day1,adult,9857.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.613
+SAMN33739984,PRJNA922086,0003,Day37,adult,9857.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.969
+SAMN33739985,PRJNA922086,0004,Day1,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,5.908
+SAMN33739987,PRJNA922086,0004,Day37,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,8.275
+SAMN33739986,PRJNA922086,0004,Day6,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.991
+SAMN33739988,PRJNA922086,0005,Day1,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.455
+SAMN33739990,PRJNA922086,0005,Day37,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.338
+SAMN33739989,PRJNA922086,0005,Day6,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.895
+SAMN33739991,PRJNA922086,0006,Day1,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.345
+SAMN33739993,PRJNA922086,0006,Day37,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.21
+SAMN33739992,PRJNA922086,0006,Day6,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.526
+SAMN33739994,PRJNA922086,0008,Day1,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.661
+SAMN33739995,PRJNA922086,0008,Day37,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.74
+SAMN33739996,PRJNA922086,0009,Day1,adult,12417.9,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,6.73
+SAMN33739998,PRJNA922086,0009,Day37,adult,12417.9,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,7.235
+SAMN33739997,PRJNA922086,0009,Day6,adult,12417.9,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,5.994
+SAMN33739999,PRJNA922086,0010,Day1,adult,10234.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,7.447
+SAMN33740001,PRJNA922086,0010,Day37,adult,10234.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,7.037
+SAMN33740000,PRJNA922086,0010,Day6,adult,10234.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,8.949
+SAMN33740002,PRJNA922086,0012,Day1,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,8.277
+SAMN33740004,PRJNA922086,0012,Day37,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.446
+SAMN33740003,PRJNA922086,0012,Day6,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.495
+SAMN33740005,PRJNA922086,0013,Day1,adult,20088.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.753
+SAMN33740007,PRJNA922086,0013,Day37,adult,20088.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.131
+SAMN33740006,PRJNA922086,0013,Day6,adult,20088.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.0
+SAMN33740008,PRJNA922086,0014,Day1,adult,17151.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,5.723
+SAMN33740010,PRJNA922086,0014,Day37,adult,17151.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.743
+SAMN33740009,PRJNA922086,0014,Day6,adult,17151.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.929
+SAMN33740011,PRJNA922086,0015,Day1,adult,12043.2,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,5.757
+SAMN33740013,PRJNA922086,0015,Day37,adult,12043.2,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,5.559
+SAMN33740012,PRJNA922086,0015,Day6,adult,12043.2,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,7.667
+SAMN33740014,PRJNA922086,0017,Day1,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.654
+SAMN33740016,PRJNA922086,0017,Day37,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.231
+SAMN33740015,PRJNA922086,0017,Day6,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.901
+SAMN33740017,PRJNA922086,0018,Day1,adult,10601.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,7.829
+SAMN33740019,PRJNA922086,0018,Day37,adult,10601.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,5.585
+SAMN33740018,PRJNA922086,0018,Day6,adult,10601.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.693
+SAMN33740020,PRJNA922086,0020,Day1,adult,10234.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.704
+SAMN33740022,PRJNA922086,0020,Day37,adult,10234.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.061
+SAMN33740021,PRJNA922086,0020,Day6,adult,10234.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.064
+SAMN33740023,PRJNA922086,0021,Day1,adult,16791.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.096
+SAMN33740025,PRJNA922086,0021,Day37,adult,16791.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.096
+SAMN33740024,PRJNA922086,0021,Day6,adult,16791.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.61
+SAMN33740026,PRJNA922086,0022,Day1,adult,18627.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.91
+SAMN33740028,PRJNA922086,0022,Day37,adult,18627.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.744
+SAMN33740027,PRJNA922086,0022,Day6,adult,18627.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.511
+SAMN33740029,PRJNA922086,0023,Day1,adult,7670.2,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,5.794
+SAMN33740031,PRJNA922086,0023,Day37,adult,7670.2,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.808
+SAMN33740030,PRJNA922086,0023,Day6,adult,7670.2,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,7.312
+SAMN33740032,PRJNA922086,0024,Day1,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.289
+SAMN33740034,PRJNA922086,0024,Day37,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.879
+SAMN33740033,PRJNA922086,0024,Day6,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.563
+SAMN33740035,PRJNA922086,0025,Day1,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,5.916
+SAMN33740037,PRJNA922086,0025,Day37,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.05
+SAMN33740036,PRJNA922086,0025,Day6,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.053
+SAMN33740038,PRJNA922086,0027,Day1,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.367
+SAMN33740040,PRJNA922086,0027,Day37,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.984
+SAMN33740039,PRJNA922086,0027,Day6,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.548
+SAMN33740041,PRJNA922086,0028,Day1,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.866
+SAMN33740042,PRJNA922086,0028,Day37,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.147
+SAMN33740043,PRJNA922086,0029,Day1,adult,13878.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.243
+SAMN33740045,PRJNA922086,0029,Day37,adult,13878.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.593
+SAMN33740044,PRJNA922086,0029,Day6,adult,13878.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.886
+SAMN33740046,PRJNA922086,0030,Day1,adult,9857.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.972
+SAMN33740048,PRJNA922086,0030,Day37,adult,9857.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.19
+SAMN33740047,PRJNA922086,0030,Day6,adult,9857.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.881
+SAMN33740049,PRJNA922086,0031,Day1,adult,20820.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,8.044
+SAMN33740051,PRJNA922086,0031,Day37,adult,20820.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.622
+SAMN33740050,PRJNA922086,0031,Day6,adult,20820.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.821
+SAMN33740052,PRJNA922086,0032,Day1,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,8.119
+SAMN33740054,PRJNA922086,0032,Day37,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.737
+SAMN33740053,PRJNA922086,0032,Day6,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.059
+SAMN33740055,PRJNA922086,0033,Day1,adult,14610.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,7.367
+SAMN33740057,PRJNA922086,0033,Day37,adult,14610.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,5.993
+SAMN33740056,PRJNA922086,0033,Day6,adult,14610.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,5.577
+SAMN33740058,PRJNA922086,0034,Day1,adult,10601.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,4.919
+SAMN33740059,PRJNA922086,0034,Day37,adult,10601.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,7.151
+SAMN33740060,PRJNA922086,0035,Day1,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.743
+SAMN33740062,PRJNA922086,0035,Day37,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.036
+SAMN33740061,PRJNA922086,0035,Day6,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.127
+SAMN33740063,PRJNA922086,0038,Day1,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,8.139
+SAMN33740065,PRJNA922086,0038,Day37,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.69
+SAMN33740064,PRJNA922086,0038,Day6,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.642
+SAMN33740066,PRJNA922086,0039,Day1,adult,9857.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.594
+SAMN33740068,PRJNA922086,0039,Day37,adult,9857.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.399
+SAMN33740067,PRJNA922086,0039,Day6,adult,9857.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.166
+SAMN33740069,PRJNA922086,0040,Day1,adult,21549.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,7.44
+SAMN33740070,PRJNA922086,0040,Day37,adult,21549.8,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.367
+SAMN33740071,PRJNA922086,0041,Day1,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,7.262
+SAMN33740072,PRJNA922086,0041,Day37,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.221
+SAMN33740073,PRJNA922086,0042,Day1,adult,9131.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.891
+SAMN33740075,PRJNA922086,0042,Day37,adult,9131.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.226
+SAMN33740074,PRJNA922086,0042,Day6,adult,9131.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.379
+SAMN33740076,PRJNA922086,0044,Day1,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.919
+SAMN33740078,PRJNA922086,0044,Day37,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.221
+SAMN33740077,PRJNA922086,0044,Day6,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.975
+SAMN33740079,PRJNA922086,0045,Day1,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,5.839
+SAMN33740081,PRJNA922086,0045,Day37,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,5.93
+SAMN33740080,PRJNA922086,0045,Day6,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,5.931
+SAMN33740082,PRJNA922086,0046,Day1,adult,8391.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.688
+SAMN33740084,PRJNA922086,0046,Day37,adult,8391.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.012
+SAMN33740083,PRJNA922086,0046,Day6,adult,8391.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.07
+SAMN33740085,PRJNA922086,0047,Day1,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.915
+SAMN33740087,PRJNA922086,0047,Day37,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.879
+SAMN33740086,PRJNA922086,0047,Day6,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.624
+SAMN33740088,PRJNA922086,0048,Day1,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,8.42
+SAMN33740090,PRJNA922086,0048,Day37,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.903
+SAMN33740089,PRJNA922086,0048,Day6,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.705
+SAMN33740091,PRJNA922086,0049,Day1,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.622
+SAMN33740093,PRJNA922086,0049,Day37,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.882
+SAMN33740092,PRJNA922086,0049,Day6,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.717
+SAMN33740094,PRJNA922086,0050,Day1,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.03
+SAMN33740096,PRJNA922086,0050,Day37,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.898
+SAMN33740095,PRJNA922086,0050,Day6,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.284
+SAMN33740097,PRJNA922086,0051,Day1,adult,20820.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,6.276
+SAMN33740099,PRJNA922086,0051,Day37,adult,20820.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.888
+SAMN33740098,PRJNA922086,0051,Day6,adult,20820.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.71
+SAMN33740100,PRJNA922086,0052,Day1,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.215
+SAMN33740102,PRJNA922086,0052,Day37,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,7.139
+SAMN33740101,PRJNA922086,0052,Day6,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,7.127
+SAMN33740103,PRJNA922086,0053,Day1,adult,7305.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.636
+SAMN33740105,PRJNA922086,0053,Day37,adult,7305.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.586
+SAMN33740104,PRJNA922086,0053,Day6,adult,7305.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.7
+SAMN33740106,PRJNA922086,0054,Day1,adult,17897.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,6.192
+SAMN33740108,PRJNA922086,0054,Day37,adult,17897.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.535
+SAMN33740107,PRJNA922086,0054,Day6,adult,17897.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,7.259
+SAMN33740109,PRJNA922086,0057,Day1,adult,17532.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,6.185
+SAMN33740111,PRJNA922086,0057,Day37,adult,17532.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.426
+SAMN33740110,PRJNA922086,0057,Day6,adult,17532.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.4
+SAMN33740112,PRJNA922086,0058,Day1,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.858
+SAMN33740114,PRJNA922086,0058,Day37,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.602
+SAMN33740113,PRJNA922086,0058,Day6,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.371
+SAMN33740115,PRJNA922086,0059,Day1,adult,8391.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.913
+SAMN33740117,PRJNA922086,0059,Day37,adult,8391.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.686
+SAMN33740116,PRJNA922086,0059,Day6,adult,8391.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.41
+SAMN33740118,PRJNA922086,0060,Day1,adult,17897.2,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.23
+SAMN33740119,PRJNA922086,0060,Day37,adult,17897.2,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.134
+SAMN33740120,PRJNA922086,0061,Day1,adult,19358.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,6.126
+SAMN33740122,PRJNA922086,0061,Day37,adult,19358.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,7.242
+SAMN33740121,PRJNA922086,0061,Day6,adult,19358.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.764
+SAMN33740123,PRJNA922086,0062,Day1,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.962
+SAMN33740125,PRJNA922086,0062,Day37,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.596
+SAMN33740124,PRJNA922086,0062,Day6,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.26
+SAMN33740126,PRJNA922086,0063,Day1,adult,9131.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.227
+SAMN33740128,PRJNA922086,0063,Day37,adult,9131.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.965
+SAMN33740127,PRJNA922086,0063,Day6,adult,9131.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.101
+SAMN33740129,PRJNA922086,0065,Day1,adult,21915.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,6.116
+SAMN33740130,PRJNA922086,0065,Day37,adult,21915.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.718
+SAMN33740131,PRJNA922086,0066,Day1,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,4.024
+SAMN33740133,PRJNA922086,0066,Day37,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.586
+SAMN33740132,PRJNA922086,0066,Day6,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.174
+SAMN33740134,PRJNA922086,0067,Day1,adult,21549.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.808
+SAMN33740136,PRJNA922086,0067,Day37,adult,21549.8,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.991
+SAMN33740135,PRJNA922086,0067,Day6,adult,21549.8,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.3
+SAMN33740137,PRJNA922086,0068,Day1,adult,10234.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.562
+SAMN33740139,PRJNA922086,0068,Day37,adult,10234.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.878
+SAMN33740138,PRJNA922086,0068,Day6,adult,10234.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.532
+SAMN33740140,PRJNA922086,0069,Day1,adult,14239.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.756
+SAMN33740142,PRJNA922086,0069,Day37,adult,14239.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.762
+SAMN33740141,PRJNA922086,0069,Day6,adult,14239.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.669
+SAMN33740143,PRJNA922086,0070,Day1,adult,18627.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.787
+SAMN33740145,PRJNA922086,0070,Day37,adult,18627.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.762
+SAMN33740144,PRJNA922086,0070,Day6,adult,18627.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.357
+SAMN33740146,PRJNA922086,0072,Day1,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,6.006
+SAMN33740147,PRJNA922086,0072,Day37,adult,21177.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.761
+SAMN33740148,PRJNA922086,0073,Day1,adult,17532.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.316
+SAMN33740150,PRJNA922086,0073,Day37,adult,17532.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.13
+SAMN33740149,PRJNA922086,0073,Day6,adult,17532.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.312
+SAMN33740151,PRJNA922086,0074,Day1,adult,14239.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.052
+SAMN33740153,PRJNA922086,0074,Day37,adult,14239.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,8.424
+SAMN33740152,PRJNA922086,0074,Day6,adult,14239.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.216
+SAMN33740154,PRJNA922086,0075,Day1,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,6.501
+SAMN33740155,PRJNA922086,0075,Day37,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,7.111
+SAMN33740156,PRJNA922086,0077,Day1,adult,17151.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,6.135
+SAMN33740158,PRJNA922086,0077,Day37,adult,17151.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.772
+SAMN33740157,PRJNA922086,0077,Day6,adult,17151.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.151
+SAMN33740159,PRJNA922086,0078,Day1,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.563
+SAMN33740161,PRJNA922086,0078,Day37,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,7.074
+SAMN33740160,PRJNA922086,0078,Day6,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.809
+SAMN33740162,PRJNA922086,0079,Day1,adult,8035.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.893
+SAMN33740164,PRJNA922086,0079,Day37,adult,8035.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.745
+SAMN33740163,PRJNA922086,0079,Day6,adult,8035.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.557
+SAMN33740165,PRJNA922086,0080,Day1,adult,6939.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.751
+SAMN33740167,PRJNA922086,0080,Day37,adult,6939.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.646
+SAMN33740166,PRJNA922086,0080,Day6,adult,6939.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.266
+SAMN33740168,PRJNA922086,0081,Day1,adult,11312.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.242
+SAMN33740170,PRJNA922086,0081,Day37,adult,11312.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.728
+SAMN33740169,PRJNA922086,0081,Day6,adult,11312.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.476
+SAMN33740171,PRJNA922086,0083,Day1,adult,17897.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,6.697
+SAMN33740173,PRJNA922086,0083,Day37,adult,17897.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,7.153
+SAMN33740172,PRJNA922086,0083,Day6,adult,17897.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.302
+SAMN33740174,PRJNA922086,0084,Day1,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,3.765
+SAMN33740176,PRJNA922086,0084,Day37,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.039
+SAMN33740175,PRJNA922086,0084,Day6,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.865
+SAMN33740177,PRJNA922086,0085,Day1,adult,8035.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,5.773
+SAMN33740178,PRJNA922086,0085,Day37,adult,8035.5,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,7.034
+SAMN33740179,PRJNA922086,0087,Day1,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,5.929
+SAMN33740181,PRJNA922086,0087,Day37,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.054
+SAMN33740180,PRJNA922086,0087,Day6,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.184
+SAMN33740182,PRJNA922086,0089,Day1,adult,21549.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.241
+SAMN33740184,PRJNA922086,0089,Day37,adult,21549.8,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,7.465
+SAMN33740183,PRJNA922086,0089,Day6,adult,21549.8,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.697
+SAMN33740185,PRJNA922086,0090,Day1,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.728
+SAMN33740187,PRJNA922086,0090,Day37,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,8.603
+SAMN33740186,PRJNA922086,0090,Day6,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.568
+SAMN33740188,PRJNA922086,0091,Day1,adult,21177.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.603
+SAMN33740190,PRJNA922086,0091,Day37,adult,21177.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.601
+SAMN33740189,PRJNA922086,0091,Day6,adult,21177.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.181
+SAMN33740191,PRJNA922086,0092,Day1,adult,11312.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.927
+SAMN33740193,PRJNA922086,0092,Day37,adult,11312.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.462
+SAMN33740192,PRJNA922086,0092,Day6,adult,11312.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.801
+SAMN33740195,PRJNA922086,0093,Day37,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.872
+SAMN33740194,PRJNA922086,0093,Day6,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,7.172
+SAMN33740196,PRJNA922086,0094,Day1,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.943
+SAMN33740198,PRJNA922086,0094,Day37,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.487
+SAMN33740197,PRJNA922086,0094,Day6,adult,18627.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.714
+SAMN33740199,PRJNA922086,0095,Day1,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.946
+SAMN33740200,PRJNA922086,0095,Day37,adult,16791.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.848
+SAMN33740201,PRJNA922086,0096,Day1,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.191
+SAMN33740203,PRJNA922086,0096,Day37,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,0.338
+SAMN33740202,PRJNA922086,0096,Day6,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.676
+SAMN33740204,PRJNA922086,0097,Day1,adult,17532.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.021
+SAMN33740206,PRJNA922086,0097,Day37,adult,17532.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.885
+SAMN33740205,PRJNA922086,0097,Day6,adult,17532.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.371
+SAMN33740207,PRJNA922086,0100,Day1,adult,6939.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.766
+SAMN33740208,PRJNA922086,0100,Day37,adult,6939.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.712
+SAMN33740209,PRJNA922086,0101,Day1,adult,15696.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.364
+SAMN33740210,PRJNA922086,0101,Day37,adult,15696.8,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.909
+SAMN33740212,PRJNA922086,0102,Day37,adult,13504.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.458
+SAMN33740211,PRJNA922086,0102,Day6,adult,13504.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.745
+SAMN33740213,PRJNA922086,0103,Day1,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.457
+SAMN33740215,PRJNA922086,0103,Day37,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.281
+SAMN33740214,PRJNA922086,0103,Day6,adult,9496.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.278
+SAMN33740216,PRJNA922086,0104,Day1,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,5.818
+SAMN33740218,PRJNA922086,0104,Day37,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.927
+SAMN33740217,PRJNA922086,0104,Day6,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,7.009
+SAMN33740219,PRJNA922086,0105,Day1,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,5.661
+SAMN33740221,PRJNA922086,0105,Day37,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.471
+SAMN33740220,PRJNA922086,0105,Day6,adult,9131.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,8.247
+SAMN33740222,PRJNA922086,0106,Day1,adult,14610.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.765
+SAMN33740223,PRJNA922086,0106,Day6,adult,14610.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.598
+SAMN33740224,PRJNA922086,0107,Day1,adult,8766.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.387
+SAMN33740226,PRJNA922086,0107,Day37,adult,8766.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.74
+SAMN33740225,PRJNA922086,0107,Day6,adult,8766.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.761
+SAMN33740227,PRJNA922086,0108,Day1,adult,21177.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,5.922
+SAMN33740229,PRJNA922086,0108,Day37,adult,21177.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,7.223
+SAMN33740228,PRJNA922086,0108,Day6,adult,21177.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.248
+SAMN33740230,PRJNA922086,0110,Day1,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,5.942
+SAMN33740232,PRJNA922086,0110,Day37,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.679
+SAMN33740231,PRJNA922086,0110,Day6,adult,18262.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,7.669
+SAMN33740234,PRJNA922086,0111,Day37,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.64
+SAMN33740233,PRJNA922086,0111,Day6,adult,10957.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.538
+SAMN33740235,PRJNA922086,0112,Day1,adult,8766.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,6.303
+SAMN33740237,PRJNA922086,0112,Day37,adult,8766.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.355
+SAMN33740236,PRJNA922086,0112,Day6,adult,8766.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,6.459
+SAMN33740238,PRJNA922086,0115,Day1,adult,20088.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,11.395
+SAMN33740240,PRJNA922086,0115,Day37,adult,20088.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.805
+SAMN33740239,PRJNA922086,0115,Day6,adult,20088.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.018
+SAMN33740241,PRJNA922086,0116,Day1,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.696
+SAMN33740243,PRJNA922086,0116,Day37,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.704
+SAMN33740242,PRJNA922086,0116,Day6,adult,11688.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,5.618
+SAMN33740244,PRJNA922086,0118,Day1,adult,10957.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.364
+SAMN33740246,PRJNA922086,0118,Day37,adult,10957.5,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.847
+SAMN33740245,PRJNA922086,0118,Day6,adult,10957.5,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,5.979
+SAMN33740247,PRJNA922086,0119,Day1,adult,18262.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.349
+SAMN33740248,PRJNA922086,0119,Day6,adult,18262.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.336
+SAMN33740249,PRJNA922086,0120,Day1,adult,12043.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.498
+SAMN33740251,PRJNA922086,0120,Day37,adult,12043.2,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.686
+SAMN33740250,PRJNA922086,0120,Day6,adult,12043.2,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.994
+SAMN33740252,PRJNA922086,0121,Day1,adult,14239.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.675
+SAMN33740254,PRJNA922086,0121,Day37,adult,14239.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.643
+SAMN33740253,PRJNA922086,0121,Day6,adult,14239.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.025
+SAMN33740255,PRJNA922086,0122,Day1,adult,15330.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV,,2019,primary,1.0,6.658
+SAMN33740256,PRJNA922086,0122,Day37,adult,15330.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,piperacillin/tazobactam IV,,2019,primary,1.0,7.381
+SAMN33740257,PRJNA922086,0123,Day1,adult,15330.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,6.448
+SAMN33740258,PRJNA922086,0123,Day37,adult,15330.0,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.865
+SAMN33740259,PRJNA922086,0125,Day1,adult,15330.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,6.802
+SAMN33740261,PRJNA922086,0125,Day37,adult,15330.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.998
+SAMN33740260,PRJNA922086,0125,Day6,adult,15330.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.363
+SAMN33740262,PRJNA922086,0126,Day1,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.409
+SAMN33740264,PRJNA922086,0126,Day37,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.832
+SAMN33740263,PRJNA922086,0126,Day6,adult,12783.8,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.534
+SAMN33740265,PRJNA922086,0127,Day1,adult,14610.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.55
+SAMN33740266,PRJNA922086,0127,Day37,adult,14610.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.294
+SAMN33740267,PRJNA922086,0128,Day1,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.38
+SAMN33740269,PRJNA922086,0128,Day37,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.629
+SAMN33740268,PRJNA922086,0128,Day6,adult,13149.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,7.024
+SAMN33740270,PRJNA922086,0129,Day1,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.577
+SAMN33740272,PRJNA922086,0129,Day37,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.114
+SAMN33740271,PRJNA922086,0129,Day6,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.729
+SAMN33740273,PRJNA922086,0130,Day1,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.626
+SAMN33740275,PRJNA922086,0130,Day37,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.635
+SAMN33740274,PRJNA922086,0130,Day6,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.098
+SAMN33740276,PRJNA922086,0131,Day1,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,6.542
+SAMN33740278,PRJNA922086,0131,Day37,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.721
+SAMN33740277,PRJNA922086,0131,Day6,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,6.735
+SAMN33740279,PRJNA922086,0133,Day1,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.442
+SAMN33740281,PRJNA922086,0133,Day37,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.598
+SAMN33740280,PRJNA922086,0133,Day6,adult,8766.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.791
+SAMN33740282,PRJNA922086,0134,Day1,adult,6574.5,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.643
+SAMN33740284,PRJNA922086,0134,Day37,adult,6574.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.194
+SAMN33740283,PRJNA922086,0134,Day6,adult,6574.5,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.772
+SAMN33740285,PRJNA922086,0135,Day1,adult,13504.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,8.852
+SAMN33740287,PRJNA922086,0135,Day37,adult,13504.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.82
+SAMN33740286,PRJNA922086,0135,Day6,adult,13504.0,female,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.666
+SAMN33740288,PRJNA922086,0137,Day1,adult,16069.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,8.966
+SAMN33740290,PRJNA922086,0137,Day37,adult,16069.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.562
+SAMN33740289,PRJNA922086,0137,Day6,adult,16069.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftriaxone IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.55
+SAMN33740291,PRJNA922086,0138,Day1,adult,15330.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,5.904
+SAMN33740293,PRJNA922086,0138,Day37,adult,15330.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.959
+SAMN33740292,PRJNA922086,0138,Day6,adult,15330.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,ceftazidime/avibactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.471
+SAMN33740294,PRJNA922086,0139,Day1,adult,13504.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.108
+SAMN33740296,PRJNA922086,0139,Day37,adult,13504.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.951
+SAMN33740295,PRJNA922086,0139,Day6,adult,13504.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.295
+SAMN33740297,PRJNA922086,0140,Day1,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftriaxone 1g oad IV,,2019,primary,1.0,5.605
+SAMN33740299,PRJNA922086,0140,Day37,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,7.465
+SAMN33740298,PRJNA922086,0140,Day6,adult,9496.5,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftriaxone 1g oad IV,,2019,primary,1.0,6.145
+SAMN33740300,PRJNA922086,0142,Day1,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,7.47
+SAMN33740302,PRJNA922086,0142,Day37,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.909
+SAMN33740301,PRJNA922086,0142,Day6,adult,8391.0,female,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.993
+SAMN33740303,PRJNA922086,0143,Day1,adult,16436.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing,,2019,primary,1.0,6.617
+SAMN33740305,PRJNA922086,0143,Day37,adult,16436.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,5.982
+SAMN33740304,PRJNA922086,0143,Day6,adult,16436.2,female,FR,intervention_cohort,healthy volunteers,no_intervention,"control, no treatment",,2019,primary,1.0,5.872
+SAMN33740306,PRJNA922086,5001,Day1,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.604
+SAMN33740308,PRJNA922086,5001,Day37,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.01
+SAMN33740307,PRJNA922086,5001,Day6,adult,8035.5,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 7.5g tid adsorbent,,2019,primary,1.0,6.571
+SAMN33740309,PRJNA922086,5008,Day1,adult,17151.0,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.156
+SAMN33740311,PRJNA922086,5008,Day37,adult,17151.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,6.217
+SAMN33740310,PRJNA922086,5008,Day6,adult,17151.0,male,FR,intervention_cohort,healthy volunteers,antibiotic;other_intervention,piperacillin/tazobactam IV + DAV132 12g tid adsorbent,,2019,primary,1.0,7.046
+SAMN33740312,PRJNA922086,5117,Day1,adult,15696.8,male,FR,intervention_cohort,healthy volunteers,no_intervention,baseline before antibiotic dosing; assigned arm: ceftazidime/avibactam IV,,2019,primary,1.0,7.235
+SAMN33740314,PRJNA922086,5117,Day37,adult,15696.8,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,6.708
+SAMN33740313,PRJNA922086,5117,Day6,adult,15696.8,male,FR,intervention_cohort,healthy volunteers,antibiotic,ceftazidime/avibactam IV,,2019,primary,1.0,8.755

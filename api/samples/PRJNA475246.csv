@@ -1,0 +1,287 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN09382450,PRJNA475246,M0018C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.534
+SAMN09382451,PRJNA475246,M0018C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.078
+SAMN09382452,PRJNA475246,M0018C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.61
+SAMN09382453,PRJNA475246,M0018C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.546
+SAMN09382449,PRJNA475246,M0018C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.599
+SAMN09382456,PRJNA475246,M0018M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,0.135
+SAMN09382455,PRJNA475246,M0018M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.779
+SAMN09382454,PRJNA475246,M0018M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.416
+SAMN09382457,PRJNA475246,M0024C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.559
+SAMN09382458,PRJNA475246,M0024M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.087
+SAMN09382459,PRJNA475246,M0024M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,6.09
+SAMN09382462,PRJNA475246,M0038C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.264
+SAMN09382461,PRJNA475246,M0038C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.547
+SAMN09382463,PRJNA475246,M0038C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.258
+SAMN09382464,PRJNA475246,M0038C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.16
+SAMN09382460,PRJNA475246,M0038C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.916
+SAMN09382467,PRJNA475246,M0038M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.405
+SAMN09382466,PRJNA475246,M0038M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.396
+SAMN09382465,PRJNA475246,M0038M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.949
+SAMN09382468,PRJNA475246,M0053C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.094
+SAMN09382469,PRJNA475246,M0053M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.0
+SAMN09382470,PRJNA475246,M0053M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.214
+SAMN09382473,PRJNA475246,M0059C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.231
+SAMN09382472,PRJNA475246,M0059C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.477
+SAMN09382474,PRJNA475246,M0059C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.362
+SAMN09382475,PRJNA475246,M0059C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.367
+SAMN09382471,PRJNA475246,M0059C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.002
+SAMN09382478,PRJNA475246,M0059M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.495
+SAMN09382477,PRJNA475246,M0059M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.586
+SAMN09382476,PRJNA475246,M0059M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.855
+SAMN09382481,PRJNA475246,M0072C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.748
+SAMN09382480,PRJNA475246,M0072C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.17
+SAMN09382482,PRJNA475246,M0072C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.852
+SAMN09382483,PRJNA475246,M0072C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.045
+SAMN09382479,PRJNA475246,M0072C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.122
+SAMN09382486,PRJNA475246,M0072M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.053
+SAMN09382484,PRJNA475246,M0072M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.098
+SAMN09382485,PRJNA475246,M0072M,,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.107
+SAMN09382490,PRJNA475246,M0073C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.855
+SAMN09382489,PRJNA475246,M0073C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.395
+SAMN09382488,PRJNA475246,M0073C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.941
+SAMN09382491,PRJNA475246,M0073C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.165
+SAMN09382487,PRJNA475246,M0073C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.669
+SAMN09382493,PRJNA475246,M0073M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.548
+SAMN09382494,PRJNA475246,M0073M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.831
+SAMN09382492,PRJNA475246,M0073M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.655
+SAMN09382496,PRJNA475246,M0074C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.864
+SAMN09382497,PRJNA475246,M0074C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.259
+SAMN09382498,PRJNA475246,M0074C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.059
+SAMN09382495,PRJNA475246,M0074C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.027
+SAMN09382500,PRJNA475246,M0074M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.495
+SAMN09382501,PRJNA475246,M0074M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,1.056
+SAMN09382499,PRJNA475246,M0074M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.521
+SAMN09382504,PRJNA475246,M0084C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.795
+SAMN09382503,PRJNA475246,M0084C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.847
+SAMN09382505,PRJNA475246,M0084C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.215
+SAMN09382506,PRJNA475246,M0084C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.423
+SAMN09382502,PRJNA475246,M0084C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.859
+SAMN09382509,PRJNA475246,M0084M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.752
+SAMN09382508,PRJNA475246,M0084M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.568
+SAMN09382507,PRJNA475246,M0084M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.796
+SAMN09382510,PRJNA475246,M0108C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.056
+SAMN09382511,PRJNA475246,M0108M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.929
+SAMN09382512,PRJNA475246,M0108M,,,,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.85
+SAMN09382513,PRJNA475246,M0143C,Birth,neonate,0.0,male,FI,,,,,,,primary,1.0,0.166
+SAMN09382514,PRJNA475246,M0143M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.242
+SAMN09382515,PRJNA475246,M0143M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.21
+SAMN09382516,PRJNA475246,M0151C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.079
+SAMN09382517,PRJNA475246,M0151M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.13
+SAMN09382518,PRJNA475246,M0151M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.272
+SAMN09382519,PRJNA475246,M0157C,Birth,neonate,0.0,male,FI,,,,,,,primary,1.0,0.071
+SAMN09382520,PRJNA475246,M0157M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.785
+SAMN09382521,PRJNA475246,M0157M,,,,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.553
+SAMN09382522,PRJNA475246,M0162C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.012
+SAMN09382523,PRJNA475246,M0162M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.075
+SAMN09382524,PRJNA475246,M0162M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.919
+SAMN09382525,PRJNA475246,M0177C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.16
+SAMN09382526,PRJNA475246,M0177M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.02
+SAMN09382527,PRJNA475246,M0177M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.698
+SAMN09382530,PRJNA475246,M0201C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.094
+SAMN09382529,PRJNA475246,M0201C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.601
+SAMN09382531,PRJNA475246,M0201C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.1
+SAMN09382532,PRJNA475246,M0201C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.72
+SAMN09382528,PRJNA475246,M0201C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.362
+SAMN09382535,PRJNA475246,M0201M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.818
+SAMN09382534,PRJNA475246,M0201M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.323
+SAMN09382533,PRJNA475246,M0201M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.973
+SAMN09382536,PRJNA475246,M0210C,Birth,neonate,0.0,male,FI,,,,,,,primary,1.0,0.005
+SAMN09382537,PRJNA475246,M0210M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.978
+SAMN09382538,PRJNA475246,M0210M,,,,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.219
+SAMN09382541,PRJNA475246,M0226C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.4
+SAMN09382540,PRJNA475246,M0226C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.141
+SAMN09382542,PRJNA475246,M0226C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.616
+SAMN09382543,PRJNA475246,M0226C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.277
+SAMN09382539,PRJNA475246,M0226C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.448
+SAMN09382546,PRJNA475246,M0226M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.268
+SAMN09382545,PRJNA475246,M0226M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.855
+SAMN09382544,PRJNA475246,M0226M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.673
+SAMN09382547,PRJNA475246,M0240C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.002
+SAMN09382548,PRJNA475246,M0240M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,5.713
+SAMN09382549,PRJNA475246,M0240M,,,,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.899
+SAMN09382552,PRJNA475246,M0259C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.007
+SAMN09382551,PRJNA475246,M0259C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.423
+SAMN09382553,PRJNA475246,M0259C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.952
+SAMN09382554,PRJNA475246,M0259C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.224
+SAMN09382550,PRJNA475246,M0259C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.019
+SAMN09382557,PRJNA475246,M0259M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,0.232
+SAMN09382556,PRJNA475246,M0259M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.676
+SAMN09382555,PRJNA475246,M0259M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.937
+SAMN09382560,PRJNA475246,M0261C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.023
+SAMN09382559,PRJNA475246,M0261C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.249
+SAMN09382561,PRJNA475246,M0261C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.245
+SAMN09382562,PRJNA475246,M0261C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.391
+SAMN09382558,PRJNA475246,M0261C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.364
+SAMN09382565,PRJNA475246,M0261M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,1.057
+SAMN09382564,PRJNA475246,M0261M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.182
+SAMN09382563,PRJNA475246,M0261M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.475
+SAMN09382566,PRJNA475246,M0275M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.366
+SAMN09382567,PRJNA475246,M0275M,,,,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.832
+SAMN09382570,PRJNA475246,M0297C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.493
+SAMN09382569,PRJNA475246,M0297C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.982
+SAMN09382571,PRJNA475246,M0297C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.048
+SAMN09382572,PRJNA475246,M0297C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.493
+SAMN09382568,PRJNA475246,M0297C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.931
+SAMN09382575,PRJNA475246,M0297M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.571
+SAMN09382574,PRJNA475246,M0297M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.865
+SAMN09382573,PRJNA475246,M0297M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.226
+SAMN09382578,PRJNA475246,M0305C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.115
+SAMN09382577,PRJNA475246,M0305C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.432
+SAMN09382579,PRJNA475246,M0305C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.244
+SAMN09382576,PRJNA475246,M0305C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.035
+SAMN09382582,PRJNA475246,M0305M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.161
+SAMN09382581,PRJNA475246,M0305M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.209
+SAMN09382580,PRJNA475246,M0305M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.74
+SAMN09382585,PRJNA475246,M0327C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.139
+SAMN09382584,PRJNA475246,M0327C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.448
+SAMN09382586,PRJNA475246,M0327C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.418
+SAMN09382587,PRJNA475246,M0327C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.334
+SAMN09382583,PRJNA475246,M0327C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.149
+SAMN09382590,PRJNA475246,M0327M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.688
+SAMN09382589,PRJNA475246,M0327M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.307
+SAMN09382588,PRJNA475246,M0327M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.555
+SAMN09382593,PRJNA475246,M0333C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.191
+SAMN09382592,PRJNA475246,M0333C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.736
+SAMN09382594,PRJNA475246,M0333C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.854
+SAMN09382595,PRJNA475246,M0333C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.577
+SAMN09382591,PRJNA475246,M0333C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.13
+SAMN09382597,PRJNA475246,M0333M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.78
+SAMN09382598,PRJNA475246,M0333M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.379
+SAMN09382596,PRJNA475246,M0333M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.701
+SAMN09382601,PRJNA475246,M0346C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,1.561
+SAMN09382600,PRJNA475246,M0346C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.941
+SAMN09382602,PRJNA475246,M0346C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.094
+SAMN09382603,PRJNA475246,M0346C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.959
+SAMN09382599,PRJNA475246,M0346C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.23
+SAMN09382606,PRJNA475246,M0346M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.145
+SAMN09382605,PRJNA475246,M0346M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.846
+SAMN09382604,PRJNA475246,M0346M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.103
+SAMN09382609,PRJNA475246,M0353C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.72
+SAMN09382608,PRJNA475246,M0353C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.22
+SAMN09382610,PRJNA475246,M0353C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.003
+SAMN09382611,PRJNA475246,M0353C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.738
+SAMN09382607,PRJNA475246,M0353C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.391
+SAMN09382614,PRJNA475246,M0353M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.489
+SAMN09382613,PRJNA475246,M0353M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.929
+SAMN09382612,PRJNA475246,M0353M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.581
+SAMN09382617,PRJNA475246,M0369C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.961
+SAMN09382616,PRJNA475246,M0369C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,1.434
+SAMN09382618,PRJNA475246,M0369C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,5.641
+SAMN09382619,PRJNA475246,M0369C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.863
+SAMN09382615,PRJNA475246,M0369C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.02
+SAMN09382621,PRJNA475246,M0369M,0 - 1 month,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.289
+SAMN09382622,PRJNA475246,M0369M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.432
+SAMN09382620,PRJNA475246,M0369M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.846
+SAMN09382625,PRJNA475246,M0388C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.093
+SAMN09382624,PRJNA475246,M0388C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.168
+SAMN09382626,PRJNA475246,M0388C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.673
+SAMN09382627,PRJNA475246,M0388C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,5.281
+SAMN09382623,PRJNA475246,M0388C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.185
+SAMN09382630,PRJNA475246,M0388M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.34
+SAMN09382629,PRJNA475246,M0388M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.351
+SAMN09382628,PRJNA475246,M0388M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.636
+SAMN09382633,PRJNA475246,M0399C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.032
+SAMN09382632,PRJNA475246,M0399C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.895
+SAMN09382634,PRJNA475246,M0399C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.694
+SAMN09382635,PRJNA475246,M0399C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.453
+SAMN09382631,PRJNA475246,M0399C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.098
+SAMN09382638,PRJNA475246,M0399M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.545
+SAMN09382637,PRJNA475246,M0399M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.063
+SAMN09382636,PRJNA475246,M0399M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.413
+SAMN09382641,PRJNA475246,M0402C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.213
+SAMN09382640,PRJNA475246,M0402C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.473
+SAMN09382642,PRJNA475246,M0402C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.244
+SAMN09382643,PRJNA475246,M0402C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.011
+SAMN09382639,PRJNA475246,M0402C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.045
+SAMN09382646,PRJNA475246,M0402M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.786
+SAMN09382645,PRJNA475246,M0402M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,0.099
+SAMN09382644,PRJNA475246,M0402M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.714
+SAMN09382649,PRJNA475246,M0427C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.763
+SAMN09382648,PRJNA475246,M0427C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,0.019
+SAMN09382650,PRJNA475246,M0427C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.107
+SAMN09382651,PRJNA475246,M0427C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.454
+SAMN09382647,PRJNA475246,M0427C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.028
+SAMN09382654,PRJNA475246,M0427M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.114
+SAMN09382653,PRJNA475246,M0427M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.856
+SAMN09382652,PRJNA475246,M0427M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.652
+SAMN09382657,PRJNA475246,M0450C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.495
+SAMN09382656,PRJNA475246,M0450C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.38
+SAMN09382658,PRJNA475246,M0450C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.72
+SAMN09382659,PRJNA475246,M0450C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.213
+SAMN09382655,PRJNA475246,M0450C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.085
+SAMN09382661,PRJNA475246,M0450M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.229
+SAMN09382662,PRJNA475246,M0450M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.077
+SAMN09382660,PRJNA475246,M0450M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.122
+SAMN09382665,PRJNA475246,M0487C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.652
+SAMN09382664,PRJNA475246,M0487C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.063
+SAMN09382666,PRJNA475246,M0487C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.608
+SAMN09382667,PRJNA475246,M0487C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.654
+SAMN09382663,PRJNA475246,M0487C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.035
+SAMN09382670,PRJNA475246,M0487M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.783
+SAMN09382669,PRJNA475246,M0487M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,2.429
+SAMN09382668,PRJNA475246,M0487M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.993
+SAMN09382671,PRJNA475246,M0740C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.712
+SAMN09382674,PRJNA475246,M0740C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.172
+SAMN09382672,PRJNA475246,M0740C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.598
+SAMN09382673,PRJNA475246,M0740C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.804
+SAMN09382675,PRJNA475246,M0744C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.882
+SAMN09382679,PRJNA475246,M0744C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.074
+SAMN09382676,PRJNA475246,M0744C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.576
+SAMN09382677,PRJNA475246,M0744C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,5.275
+SAMN09382678,PRJNA475246,M0744C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.009
+SAMN09382680,PRJNA475246,M0744M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,5.01
+SAMN09382681,PRJNA475246,M0744M,,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,5.074
+SAMN09382682,PRJNA475246,M0744M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.803
+SAMN09382683,PRJNA475246,M0764C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,2.863
+SAMN09382684,PRJNA475246,M0764C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,5.186
+SAMN09382685,PRJNA475246,M0764C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.786
+SAMN09382686,PRJNA475246,M0764C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.989
+SAMN09382687,PRJNA475246,M0764M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.34
+SAMN09382688,PRJNA475246,M0764M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.804
+SAMN09382689,PRJNA475246,M0792C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.709
+SAMN09382693,PRJNA475246,M0792C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.29
+SAMN09382690,PRJNA475246,M0792C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.962
+SAMN09382691,PRJNA475246,M0792C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.356
+SAMN09382692,PRJNA475246,M0792C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.445
+SAMN09382694,PRJNA475246,M0792M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.645
+SAMN09382695,PRJNA475246,M0792M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.037
+SAMN09382696,PRJNA475246,M0792M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.614
+SAMN09382697,PRJNA475246,M0806C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,2.383
+SAMN09382701,PRJNA475246,M0806C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.122
+SAMN09382698,PRJNA475246,M0806C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.897
+SAMN09382699,PRJNA475246,M0806C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.354
+SAMN09382700,PRJNA475246,M0806C,Birth,neonate,0.0,female,FI,,,,,,,primary,1.0,0.338
+SAMN09382702,PRJNA475246,M0806M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.839
+SAMN09382703,PRJNA475246,M0806M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,5.562
+SAMN09382704,PRJNA475246,M0806M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.956
+SAMN09382705,PRJNA475246,M0808C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,1.664
+SAMN09382709,PRJNA475246,M0808C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.507
+SAMN09382706,PRJNA475246,M0808C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,1.656
+SAMN09382707,PRJNA475246,M0808C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,1.48
+SAMN09382708,PRJNA475246,M0808C,Birth,neonate,0.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,0.642
+SAMN09382710,PRJNA475246,M0808M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.738
+SAMN09382711,PRJNA475246,M0808M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.118
+SAMN09382712,PRJNA475246,M0808M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.401
+SAMN09382713,PRJNA475246,M0901C,1 month,infant,30.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,3.444
+SAMN09382717,PRJNA475246,M0901C,14 days,neonate,14.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.633
+SAMN09382714,PRJNA475246,M0901C,2 months,infant,61.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,4.025
+SAMN09382715,PRJNA475246,M0901C,3 months,infant,91.0,male,FI,healthy_control,Healthy,,,,,primary,1.0,1.425
+SAMN09382716,PRJNA475246,M0901C,Birth,neonate,0.0,male,FI,,,,,,,primary,1.0,0.07
+SAMN09382718,PRJNA475246,M0901M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.334
+SAMN09382719,PRJNA475246,M0901M,,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.807
+SAMN09382720,PRJNA475246,M0901M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.712
+SAMN09382721,PRJNA475246,M1098C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.169
+SAMN09382725,PRJNA475246,M1098C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,4.513
+SAMN09382722,PRJNA475246,M1098C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,6.074
+SAMN09382723,PRJNA475246,M1098C,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.704
+SAMN09382724,PRJNA475246,M1098C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,5.748
+SAMN09382726,PRJNA475246,M1098M,3 months,infant,91.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,1.423
+SAMN09382727,PRJNA475246,M1098M,Neonatal,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,4.938
+SAMN09382728,PRJNA475246,M1098M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,5.927
+SAMN09382729,PRJNA475246,M1172C,1 month,infant,30.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,5.313
+SAMN09382732,PRJNA475246,M1172C,14 days,neonate,14.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,3.399
+SAMN09382730,PRJNA475246,M1172C,2 months,infant,61.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,5.368
+SAMN09382731,PRJNA475246,M1172C,Birth,neonate,0.0,female,FI,healthy_control,Healthy,,,,,primary,1.0,1.646
+SAMN09382733,PRJNA475246,M1172M,,neonate,0.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,3.556
+SAMN09382734,PRJNA475246,M1172M,,infant,189.0,female,FI,healthy_control,Healthy,,,,,linked,1.0,5.417

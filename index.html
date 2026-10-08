@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.15.0">
+<meta name="catalog-release-id" content="R2026.16">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/index.html">
+<meta name="catalog-package-version" content="1.15.0">
+<meta name="catalog-build-date" content="2026-10-08">
+<link rel="stylesheet" href="static/site.css">
+
+
+
+</head>
+<body>
+<nav class="topnav"><div class="in">
+<a class="brand" href="index.html">Microbiome Repo</a>
+<a href="index.html" class="active">Home</a>
+<a href="samples/index.html" >Sample sheet</a>
+<a href="studies/index.html" >Project sheet</a>
+<a href="contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="cohorts/index.html">Cohorts</a><a role="menuitem" href="collections/index.html">Collections</a><a role="menuitem" href="authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="about/index.html">About this resource</a><a role="menuitem" href="llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="about/scope.html">Scope</a><a role="menuitem" href="about/methods.html">Methods</a><a role="menuitem" href="fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+
+
+<section class="hero">
+<h1>Microbiome Repo</h1>
+<p class="hero-lead">Evidence-linked metadata for every public human gut shotgun metagenome — 2,886 projects, 582,739 samples, all ages. Every value links to the archive record, table or sentence it came from.</p>
+<div class="hero-search">
+<label for="q" class="visually-hidden">Search projects, samples, authors and accessions</label>
+<input id="q" class="searchbox big" type="search" placeholder="Search — e.g. probiotic, Crohn's, Hadza, PRJNA400115, SAMN…, an author" autocomplete="off" autofocus>
+<ul id="search-results"></ul>
+</div>
+<p class="hero-try small">Try: <a href="studies/index.html?intervention=fmt&amp;condition=ulcerative_colitis">ulcerative colitis × FMT trials</a> · <a href="studies/index.html?intervention=probiotic&amp;design=__controlled__">controlled probiotic trials</a> · <a href="samples/index.html?age_category=infant">infant samples</a> · <a href="studies/index.html?condition=colorectal_cancer">colorectal cancer projects</a></p>
+<nav class="hero-links" aria-label="main sections"><a href="samples/index.html">Sample sheet</a><a href="studies/index.html">Project sheet</a><a href="registry/index.html">Registry</a><a href="downloads/index.html">Downloads</a><a href="llms/index.html">For LLMs &amp; API</a><a href="about/index.html">About</a></nav>
+</section>
+
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="downloads/index.html#rel-R2026.16"><span class="mono">R2026.16</span></a> · package <span class="mono">1.15.0</span> · build <span class="mono">c9f4d91</span> · built 2026-10-08 · data tag <span class="mono">data-v1.15.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="data/VERSION.json">VERSION.json</a>, <a href="changes/R2026.16.html">what changed</a>, <a href="docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.16 (data package 1.15.0), OlmLab, 2026-10-08.</i> · <a href="about/index.html">About</a> · <a href="about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="fields/index.html">Fields</a> and <a href="about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.15.0',release:'data-v1.15.0',releaseId:'R2026.16',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="static/site.js"></script>
+
+<script>
+(function(){
+  const q = document.getElementById('q'), out = document.getElementById('search-results');
+  const shards = ["_", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]; const shardCache = {};
+  let idx = null;
+  const h = s => String(s === null || s === undefined ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const norm = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
+  async function shard(letter){ if (!shardCache[letter]) shardCache[letter] = fetch('authors/idx/' + letter + '.json').then(r => r.ok ? r.json() : {}).catch(() => ({})); return shardCache[letter]; }
+  async function authorHits(s){
+    const n = norm(s); if (n.length < 2) return [];
+    const letter = /^[a-z]/.test(n) ? n[0] : '_'; if (!shards.includes(letter)) return [];
+    const a = await shard(letter);
+    return Object.keys(a).filter(k => norm(k).startsWith(n) || norm(a[k].n).includes(n)).sort((x, y) => a[y].s.length - a[x].s.length || x.localeCompare(y)).slice(0, 6)
+      .map(k => '<li><span class="tag">author</span> <a href="authors/index.html?q=' + encodeURIComponent(a[k].n) + '">' + h(a[k].n) + '</a> <span class="small">' + a[k].s.length + ' stud' + (a[k].s.length === 1 ? 'y' : 'ies') + '</span></li>');
+  }
+  async function run(){
+    const raw = q.value.trim(), s = raw.toLowerCase(); out.innerHTML = '';
+    if (s.length < 2) return;
+    if (/^sam[ned]a?\d+$/i.test(s) || /^[sed]rr\d+$/i.test(s)) { out.innerHTML = '<li><a href="samples/index.html?sample=' + encodeURIComponent(raw.toUpperCase()) + '">Open ' + h(raw.toUpperCase()) + ' in the sample explorer</a></li>'; return; }
+    if (!idx) idx = await fetch('search_index.json').then(r => r.json());
+    const hits = idx.filter(x => s.split(/\s+/).every(w => x.k.includes(w))).slice(0, 25);
+    const au = await authorHits(raw);
+    if (q.value.trim().toLowerCase() !== s) return;
+    out.innerHTML = hits.map(x => '<li><span class="tag">' + h(x.t) + '</span> <a href="' + h(x.u) + '">' + h(x.id) + '</a> ' + h(x.n) + '</li>').join('') + au.join('')
+      || '<li>No study, cohort, collection or author matches — try the <a href="registry/index.html?q=' + encodeURIComponent(raw) + '">registry explorer</a> (all screened studies).</li>';
+  }
+  q.addEventListener('input', () => { clearTimeout(q._t); q._t = setTimeout(run, 150); });
+  const init = new URLSearchParams(location.search).get('q'); if (init) { q.value = init; run(); }
+})();
+</script>
+
+</body>
+</html>

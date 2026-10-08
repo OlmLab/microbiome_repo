@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Collections: how membership rules work and how to propose one — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.15.0">
+<meta name="catalog-release-id" content="R2026.16">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/COLLECTIONS.html">
+<meta name="catalog-package-version" content="1.15.0">
+<meta name="catalog-build-date" content="2026-10-08">
+<link rel="stylesheet" href="../static/site.css">
+
+
+
+</head>
+<body>
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Collections: how membership rules work and how to propose one</div>
+
+<p class="small">Rendered from <a href="COLLECTIONS.md">COLLECTIONS.md</a>.</p>
+<div class="md"><h1 id="collections-curated-named-sets-of-catalog-studies-and-samples">Collections — curated, named sets of catalog studies and samples</h1>
+<p><code>config/collections.yaml</code> defines the <strong>Collections</strong> section of the site: named sets of curated-catalog studies
+and/or samples with pre-entered explorer filters (benchmark and reference cohorts, landmark population cohorts,
+disease reference sets, age bands, lifestyle and design sets). The site generator (<code>site_generator/gen/build_site.py</code>,
+Collections track) renders one card per entry and links each to the Samples explorer with the filters applied.
+First shipped in R2026.12 / package 1.12.0.</p>
+<h2 id="schema-one-entry-per-collection">Schema (one entry per collection)</h2>
+<pre><code class="language-yaml">collections:
+  - id: crc-meta-analysis-cohorts          # slug: [a-z0-9]+(-[a-z0-9]+)*, unique
+    title: Colorectal cancer meta-analysis cohorts (Wirbel / Thomas 2019)
+    kind: disease                          # benchmark | population | disease | design | age | lifestyle | other
+    blurb: &lt;= 60 words, factual — what the set is and why someone would want it
+    studies: [PRJEB6070, PRJEB7774, ...]   # optional; every accession MUST be in gut_studies.parquet
+    filters:                               # optional; keys among age_category, country, health_condition, lifestyle,
+      health_condition: [colorectal_cancer]  #   antibiotic_exposure, sex, collection_year, study_accession,
+      body_site_class: [primary]             #   body_site_class, min_samples_per_subject
+      min_samples_per_subject: {min: 5}      # list = any-of; {min, max} = inclusive range
+    references:
+      - {label: Wirbel et al. 2019, Nature Medicine, url: https://doi.org/10.1038/s41591-019-0406-6}
+    notes: free text shown under the card (caveats, what was left out and why)
+</code></pre>
+<p>Semantics: <code>studies</code> restricts to the listed accessions; <code>filters</code> restrict samples; when both are present the
+filters apply <strong>within</strong> the listed studies. A collection needs at least one of the two. Filter values must come from
+the catalog vocabularies: <code>age_category</code> from <code>config/packs/gut.yaml</code> (<code>neonate</code>, <code>infant</code>, <code>child</code>, <code>adolescent</code>,
+<code>adult</code>, <code>elderly</code>, <code>unknown</code>), <code>health_condition</code> from <code>config/vocab/health_conditions.yaml</code>, <code>lifestyle</code> from
+<code>config/vocab/lifestyle.yaml</code>, <code>country</code> as ISO-3166 alpha-2, <code>sex</code> in <code>female | male | unknown</code>,
+<code>antibiotic_exposure</code> in <code>yes | no | unknown</code>, <code>body_site_class</code> in <code>primary | linked | unknown | excluded</code>.
+<code>lifestyle</code> and <code>collection_year</code> are populated from package 1.12.0 onward; a lifestyle-based collection must therefore
+<strong>also</strong> list its studies explicitly so it renders on releases where the column is still empty.</p>
+<h2 id="how-to-propose-a-collection">How to propose a collection</h2>
+<ol>
+<li>Fork <code>OlmLab/microbiome_repo-pipeline</code> and edit <code>config/collections.yaml</code> (append an entry; keep ids stable once shipped —
+   rename by adding a new entry and retiring the old one in <code>notes</code>).</li>
+<li>Verify every accession exists in the current package: <code>duckdb -c "select study_accession, study_title, n_samples
+   from 'gut_studies.parquet' where study_accession in ('PRJ...')"</code> — accessions that are not catalog studies are
+   dropped at build time and reported, never silently kept. If the study is a human gut shotgun study missing from the
+   catalog, open a registry issue instead (it must enter through triage; see RUNBOOK §2).</li>
+<li>Run <code>python scripts/build_collections.py --check</code> (validates schema, vocabularies, accession existence, blurb
+   length, and that every filter-only collection returns &gt;= 100 samples) and attach the printed preview
+   (<code>n_studies</code>, <code>n_samples</code>) to the PR description.</li>
+<li>Cite how you identified the accessions (paper data-availability statement, ENA record, BioProject search) in
+   <code>references</code>; blurbs state facts that can be checked against the paper or the ENA record — no claims about
+   sample quality or results.</li>
+<li>Open a PR titled <code>collections: add &lt;id&gt;</code>. The owner reviews for scope (human gut shotgun only), non-duplication and
+   naming; merged collections ship with the next release and appear in <code>collections_preview.csv</code> of the package.</li>
+</ol>
+<h2 id="provenance-rules">Provenance rules</h2>
+<p>Collections are curation, so the catalog's evidence rules apply: a study belongs to a collection only if its paper,
+ENA record or study description states the property the collection is about (e.g. the word "Hadza", an FMT trial
+registration, a mock-community control). Filter-based membership is computed from per-sample determinations that
+each carry their own evidence quote; the collection inherits that provenance. Nothing is inferred from country or
+centre name alone.</p></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.16"><span class="mono">R2026.16</span></a> · package <span class="mono">1.15.0</span> · build <span class="mono">c9f4d91</span> · built 2026-10-08 · data tag <span class="mono">data-v1.15.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.16.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.16 (data package 1.15.0), OlmLab, 2026-10-08.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.15.0',release:'data-v1.15.0',releaseId:'R2026.16',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

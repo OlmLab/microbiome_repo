@@ -1,0 +1,101 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA110758230,PRJEB55607,DIME01,,adult,16791.5,female,GB,,,,,,2021-04-21,primary,1.0,12.946
+SAMEA110758232,PRJEB55607,DIME01,,adult,16791.5,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-04-06,primary,1.0,10.194
+SAMEA110758233,PRJEB55607,DIME01,,adult,16791.5,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-05-10,primary,1.0,11.573
+SAMEA110758234,PRJEB55607,DIME01,,adult,16791.5,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-05-25,primary,1.0,13.809
+SAMEA110758235,PRJEB55607,DIME02,,adult,16069.0,male,GB,,,,,,2021-04-21,primary,1.0,11.692
+SAMEA110758236,PRJEB55607,DIME02,,adult,16069.0,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-03-22,primary,1.0,8.663
+SAMEA110758237,PRJEB55607,DIME02,,adult,16069.0,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-04-06,primary,1.0,13.595
+SAMEA110758238,PRJEB55607,DIME02,,adult,16069.0,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-05-10,primary,1.0,10.689
+SAMEA110758239,PRJEB55607,DIME02,,adult,16069.0,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-05-25,primary,1.0,8.382
+SAMEA110758240,PRJEB55607,DIME04,,adult,13504.0,male,GB,,,,,,2021-08-06,primary,1.0,9.107
+SAMEA110758241,PRJEB55607,DIME04,,adult,13504.0,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-06-22,primary,1.0,10.191
+SAMEA110758242,PRJEB55607,DIME04,,adult,13504.0,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-07-13,primary,1.0,14.515
+SAMEA110758243,PRJEB55607,DIME04,,adult,13504.0,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-08-18,primary,1.0,10.794
+SAMEA110758244,PRJEB55607,DIME04,,adult,13504.0,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-09-06,primary,1.0,11.821
+SAMEA110758245,PRJEB55607,DIME05,,adult,13149.0,male,GB,,,,,,2021-05-27,primary,1.0,9.846
+SAMEA110758246,PRJEB55607,DIME05,,adult,13149.0,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-04-21,primary,1.0,9.59
+SAMEA110758247,PRJEB55607,DIME05,,adult,13149.0,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-05-06,primary,1.0,12.053
+SAMEA110758248,PRJEB55607,DIME05,,adult,13149.0,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-06-09,primary,1.0,12.748
+SAMEA110758249,PRJEB55607,DIME05,,adult,13149.0,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-24,primary,1.0,13.645
+SAMEA110758250,PRJEB55607,DIME06,,adult,10601.0,female,GB,,,,,,2021-06-24,primary,1.0,10.251
+SAMEA110758251,PRJEB55607,DIME06,,adult,10601.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-05-19,primary,1.0,9.377
+SAMEA110758252,PRJEB55607,DIME06,,adult,10601.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-06-03,primary,1.0,10.761
+SAMEA110758253,PRJEB55607,DIME06,,adult,10601.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-07-07,primary,1.0,10.798
+SAMEA110758254,PRJEB55607,DIME06,,adult,10601.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-07-22,primary,1.0,12.675
+SAMEA110758255,PRJEB55607,DIME07,,adult,10601.0,female,GB,,,,,,2021-04-23,primary,1.0,12.489
+SAMEA110758256,PRJEB55607,DIME07,,adult,10601.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-03-24,primary,1.0,9.856
+SAMEA110758257,PRJEB55607,DIME07,,adult,10601.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-04-08,primary,1.0,16.55
+SAMEA110758258,PRJEB55607,DIME07,,adult,10601.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-06-03,primary,1.0,16.034
+SAMEA110758259,PRJEB55607,DIME07,,adult,10601.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-18,primary,1.0,12.821
+SAMEA110758260,PRJEB55607,DIME09,,adult,11688.0,female,GB,,,,,,2021-07-16,primary,1.0,10.324
+SAMEA110758261,PRJEB55607,DIME09,,adult,11688.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-16,primary,1.0,11.63
+SAMEA110758262,PRJEB55607,DIME09,,adult,11688.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-07-01,primary,1.0,13.245
+SAMEA110758263,PRJEB55607,DIME09,,adult,11688.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-09-06,primary,1.0,12.456
+SAMEA110758264,PRJEB55607,DIME09,,adult,11688.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-09-22,primary,1.0,8.887
+SAMEA110758265,PRJEB55607,DIME13,,adult,13504.0,male,GB,,,,,,2021-06-07,primary,1.0,13.156
+SAMEA110758266,PRJEB55607,DIME13,,adult,13504.0,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-04-29,primary,1.0,8.324
+SAMEA110758267,PRJEB55607,DIME13,,adult,13504.0,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-05-14,primary,1.0,14.906
+SAMEA110758268,PRJEB55607,DIME13,,adult,13504.0,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-06-12,primary,1.0,15.025
+SAMEA110758269,PRJEB55607,DIME13,,adult,13504.0,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-27,primary,1.0,7.058
+SAMEA110758270,PRJEB55607,DIME14,,adult,15696.8,female,GB,,,,,,2021-05-12,primary,1.0,9.59
+SAMEA110758271,PRJEB55607,DIME14,,adult,15696.8,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-04-12,primary,1.0,10.911
+SAMEA110758272,PRJEB55607,DIME14,,adult,15696.8,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-04-27,primary,1.0,12.265
+SAMEA110758273,PRJEB55607,DIME14,,adult,15696.8,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-06-01,primary,1.0,15.165
+SAMEA110758274,PRJEB55607,DIME14,,adult,15696.8,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-16,primary,1.0,12.044
+SAMEA110758275,PRJEB55607,DIME15,,adult,21177.0,female,GB,,,,,,2021-04-30,primary,1.0,12.623
+SAMEA110758276,PRJEB55607,DIME15,,adult,21177.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-03-31,primary,1.0,15.954
+SAMEA110758277,PRJEB55607,DIME15,,adult,21177.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-04-15,primary,1.0,11.638
+SAMEA110758278,PRJEB55607,DIME15,,adult,21177.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-05-26,primary,1.0,15.068
+SAMEA110758279,PRJEB55607,DIME15,,adult,21177.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-10,primary,1.0,17.56
+SAMEA110758280,PRJEB55607,DIME16,,adult,10234.0,male,GB,,,,,,2021-06-07,primary,1.0,15.793
+SAMEA110758281,PRJEB55607,DIME16,,adult,10234.0,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-04-29,primary,1.0,11.05
+SAMEA110758282,PRJEB55607,DIME16,,adult,10234.0,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-05-14,primary,1.0,10.54
+SAMEA110758283,PRJEB55607,DIME16,,adult,10234.0,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-06-12,primary,1.0,13.322
+SAMEA110758284,PRJEB55607,DIME16,,adult,10234.0,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-27,primary,1.0,14.941
+SAMEA110758285,PRJEB55607,DIME18,,adult,17532.0,female,GB,,,,,,2021-05-27,primary,1.0,14.427
+SAMEA110758286,PRJEB55607,DIME18,,adult,17532.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-04-20,primary,1.0,13.261
+SAMEA110758287,PRJEB55607,DIME18,,adult,17532.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-05-05,primary,1.0,12.91
+SAMEA110758288,PRJEB55607,DIME18,,adult,17532.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-09,primary,1.0,5.827
+SAMEA110758289,PRJEB55607,DIME18,,adult,17532.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-06-24,primary,1.0,13.286
+SAMEA110758290,PRJEB55607,DIME19,,adult,19706.0,female,GB,,,,,,2021-05-27,primary,1.0,11.655
+SAMEA110758291,PRJEB55607,DIME19,,adult,19706.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-04-12,primary,1.0,11.962
+SAMEA110758292,PRJEB55607,DIME19,,adult,19706.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-04-27,primary,1.0,14.499
+SAMEA110758293,PRJEB55607,DIME19,,adult,19706.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-08,primary,1.0,12.733
+SAMEA110758294,PRJEB55607,DIME19,,adult,19706.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-06-23,primary,1.0,12.729
+SAMEA110758295,PRJEB55607,DIME20,,adult,15696.8,female,GB,,,,,,2021-05-11,primary,1.0,13.467
+SAMEA110758296,PRJEB55607,DIME20,,adult,15696.8,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-04-08,primary,1.0,5.62
+SAMEA110758297,PRJEB55607,DIME20,,adult,15696.8,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-04-23,primary,1.0,14.096
+SAMEA110758298,PRJEB55607,DIME20,,adult,15696.8,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-05-27,primary,1.0,14.154
+SAMEA110758299,PRJEB55607,DIME20,,adult,15696.8,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-06-11,primary,1.0,15.658
+SAMEA110758300,PRJEB55607,DIME21,,adult,22280.2,female,GB,,,,,,2021-05-07,primary,1.0,4.706
+SAMEA110758301,PRJEB55607,DIME21,,adult,22280.2,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-04-07,primary,1.0,5.947
+SAMEA110758302,PRJEB55607,DIME21,,adult,22280.2,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-04-22,primary,1.0,10.359
+SAMEA110758303,PRJEB55607,DIME21,,adult,22280.2,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-05-26,primary,1.0,11.26
+SAMEA110758304,PRJEB55607,DIME21,,adult,22280.2,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-06-10,primary,1.0,10.732
+SAMEA110758305,PRJEB55607,DIME22,,adult,22280.2,male,GB,,,,,,2021-05-27,primary,1.0,10.902
+SAMEA110758306,PRJEB55607,DIME22,,adult,22280.2,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-04-19,primary,1.0,11.648
+SAMEA110758307,PRJEB55607,DIME22,,adult,22280.2,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-05-04,primary,1.0,5.566
+SAMEA110758308,PRJEB55607,DIME22,,adult,22280.2,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-16,primary,1.0,12.947
+SAMEA110758309,PRJEB55607,DIME22,,adult,22280.2,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-07-01,primary,1.0,12.588
+SAMEA110758310,PRJEB55607,DIME23,,adult,21549.8,female,GB,,,,,,2021-05-27,primary,1.0,12.936
+SAMEA110758311,PRJEB55607,DIME23,,adult,21549.8,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-04-19,primary,1.0,7.461
+SAMEA110758312,PRJEB55607,DIME23,,adult,21549.8,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-05-04,primary,1.0,15.553
+SAMEA110758313,PRJEB55607,DIME23,,adult,21549.8,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-16,primary,1.0,16.829
+SAMEA110758314,PRJEB55607,DIME23,,adult,21549.8,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-07-01,primary,1.0,5.302
+SAMEA110758315,PRJEB55607,DIME24,,adult,9496.5,male,GB,,,,,,2021-07-27,primary,1.0,13.827
+SAMEA110758316,PRJEB55607,DIME24,,adult,9496.5,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-21,primary,1.0,8.267
+SAMEA110758317,PRJEB55607,DIME24,,adult,9496.5,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-07-06,primary,1.0,9.913
+SAMEA110758318,PRJEB55607,DIME24,,adult,9496.5,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-08-31,primary,1.0,11.378
+SAMEA110758319,PRJEB55607,DIME24,,adult,9496.5,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-09-15,primary,1.0,9.271
+SAMEA110758320,PRJEB55607,DIME25,,adult,9131.0,female,GB,,,,,,2021-07-27,primary,1.0,14.934
+SAMEA110758321,PRJEB55607,DIME25,,adult,9131.0,female,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-06-21,primary,1.0,12.652
+SAMEA110758322,PRJEB55607,DIME25,,adult,9131.0,female,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-07-06,primary,1.0,15.728
+SAMEA110758323,PRJEB55607,DIME25,,adult,9131.0,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-08-31,primary,1.0,16.467
+SAMEA110758324,PRJEB55607,DIME25,,adult,9131.0,female,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-09-15,primary,1.0,16.728
+SAMEA110758325,PRJEB55607,DIME27,,adult,10234.0,male,GB,,,,,,2021-09-06,primary,1.0,11.535
+SAMEA110758326,PRJEB55607,DIME27,,adult,10234.0,male,GB,,,no_intervention,baseline before high-bioactive-food diet period,,2021-08-09,primary,1.0,9.897
+SAMEA110758327,PRJEB55607,DIME27,,adult,10234.0,male,GB,,,diet_intervention,after high-bioactive-food diet period,,2021-08-24,primary,1.0,13.515
+SAMEA110758328,PRJEB55607,DIME27,,adult,10234.0,male,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-10-04,primary,1.0,14.832
+SAMEA110758329,PRJEB55607,DIME27,,adult,10234.0,male,GB,,,diet_intervention,after low-bioactive-food diet period,,2021-10-19,primary,1.0,14.366
+SAMEA110758231,PRJEB55607,DIME_101,,adult,16791.5,female,GB,,,no_intervention,baseline before low-bioactive-food diet period,,2021-03-22,primary,1.0,11.255

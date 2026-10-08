@@ -1,0 +1,383 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA6844945,PRJEB38352,100001,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,10.336
+SAMEA6844944,PRJEB38352,100001,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,16.223
+SAMEA6844946,PRJEB38352,100002,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,16.463
+SAMEA6844947,PRJEB38352,100004,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,11.097
+SAMEA6844949,PRJEB38352,100005,0,,,female,US,ulcerative_colitis,uc,,,yes,,primary,1.0,12.242
+SAMEA6844948,PRJEB38352,100005,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.607
+SAMEA6844951,PRJEB38352,100006,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.608
+SAMEA6844950,PRJEB38352,100006,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,6.185
+SAMEA6844955,PRJEB38352,100007,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.129
+SAMEA6844952,PRJEB38352,100007,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.85
+SAMEA6844953,PRJEB38352,100007,24,,,female,US,crohns_disease,cd,,,no,,primary,1.0,0.931
+SAMEA6844954,PRJEB38352,100007,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,10.928
+SAMEA6844956,PRJEB38352,100008,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,17.094
+SAMEA6844957,PRJEB38352,100008,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,7.483
+SAMEA6844958,PRJEB38352,100008,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,13.195
+SAMEA6844962,PRJEB38352,100009,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,28.36
+SAMEA6844959,PRJEB38352,100009,12,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,15.267
+SAMEA6844960,PRJEB38352,100009,18,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,7.858
+SAMEA6844961,PRJEB38352,100009,6,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,10.254
+SAMEA6844968,PRJEB38352,100013,0,,,male,US,crohns_disease,cd,no_intervention,weeks_from_surgery = -51 (before intervention start),yes,,primary,1.0,0.908
+SAMEA6844966,PRJEB38352,100013,1,,,male,US,crohns_disease,cd,no_intervention,weeks_from_surgery = -47 (before intervention start),yes,,primary,1.0,0.398
+SAMEA6844964,PRJEB38352,100013,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,21.709
+SAMEA6844965,PRJEB38352,100013,18,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 29 (after intervention start),no,,primary,1.0,6.764
+SAMEA6844967,PRJEB38352,100013,6,,,male,US,crohns_disease,cd,no_intervention,weeks_from_surgery = -22 (before intervention start),yes,,primary,1.0,8.27
+SAMEA6844969,PRJEB38352,100016,9,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.248
+SAMEA6844972,PRJEB38352,100017,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,12.299
+SAMEA6844970,PRJEB38352,100017,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,6.141
+SAMEA6844971,PRJEB38352,100017,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.963
+SAMEA6844975,PRJEB38352,100018,0,,,male,US,crohns_disease,cd,no_intervention,weeks_from_surgery = -22 (before intervention start),no,,primary,1.0,14.44
+SAMEA6844973,PRJEB38352,100018,12,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 26 (after intervention start),no,,primary,1.0,10.079
+SAMEA6844974,PRJEB38352,100018,18,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 49 (after intervention start),no,,primary,1.0,9.054
+SAMEA6844943,PRJEB38352,100018,24,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 74 (after intervention start),yes,,primary,1.0,13.132
+SAMEA6844976,PRJEB38352,100019,12,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,10.16
+SAMEA6844977,PRJEB38352,100019,18,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,7.855
+SAMEA6844978,PRJEB38352,100019,3,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,12.391
+SAMEA6844979,PRJEB38352,100019,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,7.898
+SAMEA6844982,PRJEB38352,100021,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.623
+SAMEA6844980,PRJEB38352,100021,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.344
+SAMEA6844981,PRJEB38352,100021,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,21.719
+SAMEA6844983,PRJEB38352,100022,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.344
+SAMEA6844985,PRJEB38352,100023,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,2.743
+SAMEA6844984,PRJEB38352,100023,6,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,6.59
+SAMEA6844988,PRJEB38352,100024,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.344
+SAMEA6844986,PRJEB38352,100024,12,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,21.731
+SAMEA6844987,PRJEB38352,100024,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.907
+SAMEA6844989,PRJEB38352,100026,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.208
+SAMEA6844990,PRJEB38352,100026,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.845
+SAMEA6844991,PRJEB38352,100027,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,2.956
+SAMEA6844992,PRJEB38352,100028,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,0.086
+SAMEA6844996,PRJEB38352,100029,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.186
+SAMEA6844993,PRJEB38352,100029,12,,,female,US,ulcerative_colitis,uc,,,yes,,primary,1.0,9.969
+SAMEA6844994,PRJEB38352,100029,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.445
+SAMEA6844995,PRJEB38352,100029,6,,,female,US,ulcerative_colitis,uc,,,yes,,primary,1.0,7.089
+SAMEA6844999,PRJEB38352,100031,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,0.001
+SAMEA6844997,PRJEB38352,100031,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,10.659
+SAMEA6844998,PRJEB38352,100031,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.858
+SAMEA6845001,PRJEB38352,100032,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,10.029
+SAMEA6845000,PRJEB38352,100032,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,16.034
+SAMEA6845010,PRJEB38352,100033,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,4.152
+SAMEA6845002,PRJEB38352,100033,18,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 87 (after intervention start),yes,,primary,1.0,13.798
+SAMEA6845006,PRJEB38352,100034,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,6.335
+SAMEA6845003,PRJEB38352,100034,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,21.269
+SAMEA6845004,PRJEB38352,100034,18,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.99
+SAMEA6845005,PRJEB38352,100034,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.616
+SAMEA6845007,PRJEB38352,100038,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,6.941
+SAMEA6845008,PRJEB38352,100038,18,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,7.033
+SAMEA6845009,PRJEB38352,100038,6,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,1.592
+SAMEA6845013,PRJEB38352,100040,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.02
+SAMEA6845011,PRJEB38352,100040,12,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,7.547
+SAMEA6845012,PRJEB38352,100040,18,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.006
+SAMEA6845014,PRJEB38352,100043,15,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 84 (after intervention start),yes,,primary,1.0,13.85
+SAMEA6845015,PRJEB38352,100043,9,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 56 (after intervention start),yes,,primary,1.0,0.001
+SAMEA6845017,PRJEB38352,100045,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,5.166
+SAMEA6845016,PRJEB38352,100045,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.635
+SAMEA6845021,PRJEB38352,100046,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,17.242
+SAMEA6845023,PRJEB38352,100046,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.013
+SAMEA6845018,PRJEB38352,100046,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,0.003
+SAMEA6845019,PRJEB38352,100046,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,17.504
+SAMEA6845020,PRJEB38352,100046,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,14.809
+SAMEA6845022,PRJEB38352,100047,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.625
+SAMEA6845027,PRJEB38352,100051,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,4.31
+SAMEA6845024,PRJEB38352,100051,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.826
+SAMEA6845025,PRJEB38352,100051,18,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.199
+SAMEA6845026,PRJEB38352,100051,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,6.773
+SAMEA6845029,PRJEB38352,100052,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,15.668
+SAMEA6845028,PRJEB38352,100052,9,,,male,US,crohns_disease,cd,,,no,,primary,1.0,8.422
+SAMEA6845032,PRJEB38352,100053,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,8.112
+SAMEA6845030,PRJEB38352,100053,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,6.359
+SAMEA6845031,PRJEB38352,100053,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,3.604
+SAMEA6845036,PRJEB38352,100054,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,5.712
+SAMEA6845033,PRJEB38352,100054,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,7.253
+SAMEA6845034,PRJEB38352,100054,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,3.678
+SAMEA6845035,PRJEB38352,100054,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,0.883
+SAMEA6845039,PRJEB38352,100055,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.652
+SAMEA6845037,PRJEB38352,100055,12,,,female,US,ulcerative_colitis,uc,,,yes,,primary,1.0,14.64
+SAMEA6845038,PRJEB38352,100055,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.671
+SAMEA6845043,PRJEB38352,100056,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.845
+SAMEA6845040,PRJEB38352,100056,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.703
+SAMEA6845041,PRJEB38352,100056,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.753
+SAMEA6845042,PRJEB38352,100056,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,10.138
+SAMEA6845045,PRJEB38352,100057,0,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,0.0
+SAMEA6845044,PRJEB38352,100057,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,5.884
+SAMEA6845048,PRJEB38352,100059,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.41
+SAMEA6845046,PRJEB38352,100059,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.709
+SAMEA6845047,PRJEB38352,100059,18,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,15.163
+SAMEA6845050,PRJEB38352,100060,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,15.749
+SAMEA6845049,PRJEB38352,100060,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,11.832
+SAMEA6845055,PRJEB38352,100064,0,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,10.812
+SAMEA6845051,PRJEB38352,100064,12,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,9.513
+SAMEA6845052,PRJEB38352,100064,18,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,0.349
+SAMEA6845053,PRJEB38352,100064,19,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,0.587
+SAMEA6845054,PRJEB38352,100064,6,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,0.053
+SAMEA6845059,PRJEB38352,100065,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,18.356
+SAMEA6845056,PRJEB38352,100065,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,14.56
+SAMEA6845057,PRJEB38352,100065,18,,,female,US,crohns_disease,cd,,,no,,primary,1.0,15.205
+SAMEA6845058,PRJEB38352,100065,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,9.465
+SAMEA6845064,PRJEB38352,100067,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,18.769
+SAMEA6845060,PRJEB38352,100067,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,13.358
+SAMEA6845061,PRJEB38352,100067,18,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,14.905
+SAMEA6845062,PRJEB38352,100067,24,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,9.79
+SAMEA6845063,PRJEB38352,100067,6,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,0.003
+SAMEA6845068,PRJEB38352,100068,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,12.636
+SAMEA6845065,PRJEB38352,100068,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.9
+SAMEA6845066,PRJEB38352,100068,18,,,female,US,crohns_disease,cd,,,no,,primary,1.0,9.043
+SAMEA6845067,PRJEB38352,100068,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,0.002
+SAMEA6845071,PRJEB38352,100069,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.032
+SAMEA6845069,PRJEB38352,100069,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.558
+SAMEA6845070,PRJEB38352,100069,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,18.474
+SAMEA6845074,PRJEB38352,100072,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,19.824
+SAMEA6845072,PRJEB38352,100072,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,19.558
+SAMEA6845073,PRJEB38352,100072,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.281
+SAMEA6845076,PRJEB38352,100073,0,,,female,US,ulcerative_colitis,uc,,,yes,,primary,1.0,20.696
+SAMEA6845075,PRJEB38352,100073,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.091
+SAMEA6845079,PRJEB38352,100074,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,16.519
+SAMEA6845077,PRJEB38352,100074,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,13.372
+SAMEA6845078,PRJEB38352,100074,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,0.488
+SAMEA6845081,PRJEB38352,100075,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,12.022
+SAMEA6845080,PRJEB38352,100075,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.792
+SAMEA6845084,PRJEB38352,100076,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.272
+SAMEA6845082,PRJEB38352,100076,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,6.738
+SAMEA6845083,PRJEB38352,100076,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.384
+SAMEA6845087,PRJEB38352,100077,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.335
+SAMEA6845085,PRJEB38352,100077,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,0.011
+SAMEA6845086,PRJEB38352,100077,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,15.855
+SAMEA6845091,PRJEB38352,100080,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.166
+SAMEA6845088,PRJEB38352,100080,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.225
+SAMEA6845089,PRJEB38352,100080,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,17.699
+SAMEA6845090,PRJEB38352,100080,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,5.859
+SAMEA6845094,PRJEB38352,100081,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,11.079
+SAMEA6845092,PRJEB38352,100081,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,6.921
+SAMEA6845093,PRJEB38352,100081,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,11.912
+SAMEA6845099,PRJEB38352,100082,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.364
+SAMEA6845095,PRJEB38352,100082,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,15.44
+SAMEA6845096,PRJEB38352,100082,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,18.224
+SAMEA6845097,PRJEB38352,100082,21,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,10.55
+SAMEA6845098,PRJEB38352,100082,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.896
+SAMEA6845103,PRJEB38352,100083,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,15.57
+SAMEA6845100,PRJEB38352,100083,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.125
+SAMEA6845101,PRJEB38352,100083,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.391
+SAMEA6845102,PRJEB38352,100083,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.0
+SAMEA6845104,PRJEB38352,100084,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,15.238
+SAMEA6845106,PRJEB38352,100085,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.701
+SAMEA6845105,PRJEB38352,100085,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,15.58
+SAMEA6845108,PRJEB38352,100086,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.908
+SAMEA6845107,PRJEB38352,100086,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,14.24
+SAMEA6845111,PRJEB38352,100087,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,2.833
+SAMEA6845109,PRJEB38352,100087,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.849
+SAMEA6845110,PRJEB38352,100087,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,10.589
+SAMEA6845112,PRJEB38352,100088,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,0.008
+SAMEA6845115,PRJEB38352,100089,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,0.769
+SAMEA6845120,PRJEB38352,100089,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,0.09
+SAMEA6845113,PRJEB38352,100089,18,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.052
+SAMEA6845114,PRJEB38352,100089,6,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,17.556
+SAMEA6845116,PRJEB38352,100090,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,12.792
+SAMEA6845117,PRJEB38352,100090,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,12.257
+SAMEA6845118,PRJEB38352,100090,6,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,8.936
+SAMEA6845119,PRJEB38352,100090,7,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,11.23
+SAMEA6845124,PRJEB38352,100092,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.434
+SAMEA6845121,PRJEB38352,100092,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.004
+SAMEA6845122,PRJEB38352,100092,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,10.894
+SAMEA6845123,PRJEB38352,100092,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.002
+SAMEA6845125,PRJEB38352,100093,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,0.005
+SAMEA6845126,PRJEB38352,100093,12,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,12.751
+SAMEA6845127,PRJEB38352,100093,6,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,4.784
+SAMEA6845130,PRJEB38352,100096,0,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 8 (after intervention start),yes,,primary,1.0,1.308
+SAMEA6845128,PRJEB38352,100096,12,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 92 (after intervention start),no,,primary,1.0,10.996
+SAMEA6845129,PRJEB38352,100096,18,,,female,US,crohns_disease,cd,,,no,,primary,1.0,3.153
+SAMEA6845131,PRJEB38352,100101,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.32
+SAMEA6845135,PRJEB38352,100104,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.351
+SAMEA6845132,PRJEB38352,100104,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,14.667
+SAMEA6845133,PRJEB38352,100104,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,1.035
+SAMEA6845134,PRJEB38352,100104,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,13.723
+SAMEA6845138,PRJEB38352,100105,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.846
+SAMEA6845136,PRJEB38352,100105,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,16.446
+SAMEA6845137,PRJEB38352,100105,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.497
+SAMEA6845141,PRJEB38352,100107,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,12.694
+SAMEA6845139,PRJEB38352,100107,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,15.481
+SAMEA6845140,PRJEB38352,100107,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,7.281
+SAMEA6845145,PRJEB38352,100108,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.848
+SAMEA6845142,PRJEB38352,100108,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.311
+SAMEA6845143,PRJEB38352,100108,18,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,17.149
+SAMEA6845144,PRJEB38352,100108,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,17.067
+SAMEA6845148,PRJEB38352,100110,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.944
+SAMEA6845146,PRJEB38352,100110,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.993
+SAMEA6845147,PRJEB38352,100110,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.93
+SAMEA6844963,PRJEB38352,100111,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.11
+SAMEA6845149,PRJEB38352,100111,18,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.073
+SAMEA6845150,PRJEB38352,100111,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.077
+SAMEA6845154,PRJEB38352,100112,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,2.233
+SAMEA6845151,PRJEB38352,100112,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,14.358
+SAMEA6845152,PRJEB38352,100112,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,12.232
+SAMEA6845153,PRJEB38352,100112,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,15.843
+SAMEA6845157,PRJEB38352,100114,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,1.254
+SAMEA6845155,PRJEB38352,100114,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,15.004
+SAMEA6845156,PRJEB38352,100114,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.892
+SAMEA6845160,PRJEB38352,100115,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.575
+SAMEA6845158,PRJEB38352,100115,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,27.949
+SAMEA6845159,PRJEB38352,100115,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.462
+SAMEA6845162,PRJEB38352,100117,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.01
+SAMEA6845161,PRJEB38352,100117,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.71
+SAMEA6845163,PRJEB38352,100119,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,12.391
+SAMEA6845164,PRJEB38352,100120,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,15.226
+SAMEA6845166,PRJEB38352,100121,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,8.458
+SAMEA6845165,PRJEB38352,100121,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,8.552
+SAMEA6845169,PRJEB38352,100122,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,0.022
+SAMEA6845167,PRJEB38352,100122,12,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,3.167
+SAMEA6845168,PRJEB38352,100122,6,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,4.801
+SAMEA6845171,PRJEB38352,100124,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,2.76
+SAMEA6845170,PRJEB38352,100124,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,10.44
+SAMEA6845172,PRJEB38352,100125,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,2.363
+SAMEA6845174,PRJEB38352,100127,0,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 48 (after intervention start),no,,primary,1.0,12.318
+SAMEA6845173,PRJEB38352,100127,6,,,male,US,crohns_disease,cd,surgery,weeks_from_surgery = 77 (after intervention start),no,,primary,1.0,0.754
+SAMEA6845177,PRJEB38352,100129,0,,,female,US,crohns_disease,cd,no_intervention,weeks_from_surgery = -41 (before intervention start),no,,primary,1.0,12.445
+SAMEA6845175,PRJEB38352,100129,12,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 6 (after intervention start),yes,,primary,1.0,1.313
+SAMEA6845176,PRJEB38352,100129,18,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 24 (after intervention start),no,,primary,1.0,7.47
+SAMEA6845178,PRJEB38352,100130,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,9.052
+SAMEA6845187,PRJEB38352,100130,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.113
+SAMEA6845181,PRJEB38352,100135,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,11.518
+SAMEA6845179,PRJEB38352,100135,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,15.917
+SAMEA6845180,PRJEB38352,100135,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.588
+SAMEA6845183,PRJEB38352,100136,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,25.772
+SAMEA6845182,PRJEB38352,100136,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,9.491
+SAMEA6845184,PRJEB38352,100138,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,8.961
+SAMEA6845186,PRJEB38352,100139,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,6.266
+SAMEA6845185,PRJEB38352,100139,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,12.179
+SAMEA6845190,PRJEB38352,100140,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,13.746
+SAMEA6845188,PRJEB38352,100140,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,7.23
+SAMEA6845189,PRJEB38352,100140,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,11.111
+SAMEA6845193,PRJEB38352,100144,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.022
+SAMEA6845191,PRJEB38352,100144,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,8.236
+SAMEA6845192,PRJEB38352,100144,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,7.657
+SAMEA6845194,PRJEB38352,100145,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,2.637
+SAMEA6845195,PRJEB38352,100145,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,23.356
+SAMEA6845198,PRJEB38352,100148,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,5.85
+SAMEA6845196,PRJEB38352,100148,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.023
+SAMEA6845197,PRJEB38352,100148,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,2.255
+SAMEA6845201,PRJEB38352,100149,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,16.107
+SAMEA6845199,PRJEB38352,100149,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,12.121
+SAMEA6845200,PRJEB38352,100149,6,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,8.471
+SAMEA6845203,PRJEB38352,100150,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,10.468
+SAMEA6845202,PRJEB38352,100150,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,14.595
+SAMEA6845206,PRJEB38352,100151,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,16.107
+SAMEA6845204,PRJEB38352,100151,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.539
+SAMEA6845205,PRJEB38352,100151,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.853
+SAMEA6845209,PRJEB38352,100152,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,10.897
+SAMEA6845207,PRJEB38352,100152,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,13.253
+SAMEA6845208,PRJEB38352,100152,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,8.496
+SAMEA6845210,PRJEB38352,100154,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,8.955
+SAMEA6845213,PRJEB38352,100156,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,4.119
+SAMEA6845211,PRJEB38352,100156,18,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.15
+SAMEA6845212,PRJEB38352,100156,9,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,12.078
+SAMEA6845215,PRJEB38352,100157,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.789
+SAMEA6845214,PRJEB38352,100157,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,7.806
+SAMEA6845216,PRJEB38352,100158,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.224
+SAMEA6845218,PRJEB38352,100159,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,9.97
+SAMEA6845217,PRJEB38352,100159,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,11.333
+SAMEA6845220,PRJEB38352,100163,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,4.383
+SAMEA6845219,PRJEB38352,100163,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.07
+SAMEA6845224,PRJEB38352,100165,0,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 4 (after intervention start),no,,primary,1.0,9.494
+SAMEA6845221,PRJEB38352,100165,12,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 54 (after intervention start),no,,primary,1.0,11.068
+SAMEA6845222,PRJEB38352,100165,18,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 75 (after intervention start),no,,primary,1.0,3.542
+SAMEA6845223,PRJEB38352,100165,20,,,female,US,crohns_disease,cd,surgery,weeks_from_surgery = 81 (after intervention start),no,,primary,1.0,9.756
+SAMEA6845226,PRJEB38352,100166,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,12.609
+SAMEA6845225,PRJEB38352,100166,6,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.541
+SAMEA6845228,PRJEB38352,100167,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,12.395
+SAMEA6845227,PRJEB38352,100167,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,22.22
+SAMEA6845232,PRJEB38352,100168,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,3.942
+SAMEA6845229,PRJEB38352,100168,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,16.124
+SAMEA6845230,PRJEB38352,100168,18,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,7.982
+SAMEA6845231,PRJEB38352,100168,21,,,female,US,crohns_disease,cd,,,no,,primary,1.0,13.893
+SAMEA6845235,PRJEB38352,100169,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,17.952
+SAMEA6845233,PRJEB38352,100169,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.619
+SAMEA6845234,PRJEB38352,100169,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,14.826
+SAMEA6845236,PRJEB38352,100174,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,0.183
+SAMEA6845239,PRJEB38352,100175,0,,,female,US,crohns_disease,cd,,,no,,primary,1.0,9.656
+SAMEA6845237,PRJEB38352,100175,12,,,female,US,crohns_disease,cd,,,no,,primary,1.0,12.326
+SAMEA6845238,PRJEB38352,100175,18,,,female,US,crohns_disease,cd,,,no,,primary,1.0,10.357
+SAMEA6845240,PRJEB38352,100176,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,13.867
+SAMEA6845242,PRJEB38352,100177,0,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,0.203
+SAMEA6845241,PRJEB38352,100177,12,,,female,US,crohns_disease,cd,,,yes,,primary,1.0,0.037
+SAMEA6845244,PRJEB38352,100179,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,10.353
+SAMEA6845243,PRJEB38352,100179,12,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,1.306
+SAMEA6845247,PRJEB38352,100180,0,,,male,US,crohns_disease,cd,,,yes,,primary,1.0,14.925
+SAMEA6845245,PRJEB38352,100180,12,,,male,US,crohns_disease,cd,,,no,,primary,1.0,14.887
+SAMEA6845246,PRJEB38352,100180,18,,,male,US,crohns_disease,cd,,,no,,primary,1.0,9.211
+SAMEA6845252,PRJEB38352,100181,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,3.444
+SAMEA6845248,PRJEB38352,100181,12,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,11.647
+SAMEA6845249,PRJEB38352,100181,3,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,9.776
+SAMEA6845250,PRJEB38352,100181,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.699
+SAMEA6845251,PRJEB38352,100181,9,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.004
+SAMEA6845253,PRJEB38352,100182,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.911
+SAMEA6845254,PRJEB38352,100184,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,6.647
+SAMEA6845255,PRJEB38352,100191,12,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,2.347
+SAMEA6845256,PRJEB38352,100191,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,5.167
+SAMEA6845258,PRJEB38352,100195,0,,,male,US,crohns_disease,cd,,,no,,primary,1.0,0.195
+SAMEA6845257,PRJEB38352,100195,6,,,male,US,crohns_disease,cd,,,no,,primary,1.0,13.452
+SAMEA6845259,PRJEB38352,100201,0,,,male,US,ulcerative_colitis,uc,,,yes,,primary,1.0,10.484
+SAMEA6845262,PRJEB38352,100201,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,1.588
+SAMEA6845261,PRJEB38352,100207,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.874
+SAMEA6845260,PRJEB38352,100207,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,4.826
+SAMEA6845265,PRJEB38352,100212,0,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.099
+SAMEA6845263,PRJEB38352,100212,6,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,7.642
+SAMEA6845264,PRJEB38352,100212,7,,,male,US,ulcerative_colitis,uc,,,no,,primary,1.0,8.402
+SAMEA6845267,PRJEB38352,100214,0,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,0.532
+SAMEA6845266,PRJEB38352,100214,6,,,female,US,ulcerative_colitis,uc,,,no,,primary,1.0,13.737
+SAMEA6844885,PRJEB38352,MG.BLANK.1.11D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.022
+SAMEA6844886,PRJEB38352,MG.BLANK.1.11E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.047
+SAMEA6844887,PRJEB38352,MG.BLANK.1.11F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.0
+SAMEA6844888,PRJEB38352,MG.BLANK.1.11G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.003
+SAMEA6844889,PRJEB38352,MG.BLANK.1.11H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.008
+SAMEA6844890,PRJEB38352,MG.BLANK.1.12A,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.121
+SAMEA6844891,PRJEB38352,MG.BLANK.1.12B,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844892,PRJEB38352,MG.BLANK.1.12C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844893,PRJEB38352,MG.BLANK.1.12D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.106
+SAMEA6844894,PRJEB38352,MG.BLANK.1.12E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844895,PRJEB38352,MG.BLANK.1.12F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.0
+SAMEA6844896,PRJEB38352,MG.BLANK.1.12G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844897,PRJEB38352,MG.BLANK.1.12H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.002
+SAMEA6844898,PRJEB38352,MG.BLANK.1.1A,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.003
+SAMEA6844899,PRJEB38352,MG.BLANK.1.1B,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.162
+SAMEA6844900,PRJEB38352,MG.BLANK.1.1C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.18
+SAMEA6844901,PRJEB38352,MG.BLANK.1.1D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.451
+SAMEA6844902,PRJEB38352,MG.BLANK.1.1E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.271
+SAMEA6844903,PRJEB38352,MG.BLANK.1.1F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.007
+SAMEA6844904,PRJEB38352,MG.BLANK.1.1G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.08
+SAMEA6844905,PRJEB38352,MG.BLANK.1.1H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.057
+SAMEA6844906,PRJEB38352,MG.BLANK1.1A,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.194
+SAMEA6844907,PRJEB38352,MG.BLANK1.1B,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.135
+SAMEA6844908,PRJEB38352,MG.BLANK1.1C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.236
+SAMEA6844909,PRJEB38352,MG.BLANK1.1D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.043
+SAMEA6844910,PRJEB38352,MG.BLANK1.1E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.014
+SAMEA6844911,PRJEB38352,MG.BLANK1.1F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844912,PRJEB38352,MG.BLANK1.1G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844913,PRJEB38352,MG.BLANK1.1H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.002
+SAMEA6844914,PRJEB38352,MG.BLANK2.11C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.0
+SAMEA6844915,PRJEB38352,MG.BLANK2.11D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844916,PRJEB38352,MG.BLANK2.11E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.003
+SAMEA6844917,PRJEB38352,MG.BLANK2.11F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.003
+SAMEA6844919,PRJEB38352,MG.BLANK2.11G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.02
+SAMEA6844920,PRJEB38352,MG.BLANK2.11H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.062
+SAMEA6844921,PRJEB38352,MG.BLANK2.12A,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.258
+SAMEA6844922,PRJEB38352,MG.BLANK2.12B,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844923,PRJEB38352,MG.BLANK2.12C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844924,PRJEB38352,MG.BLANK2.12D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844925,PRJEB38352,MG.BLANK2.12E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.145
+SAMEA6844926,PRJEB38352,MG.BLANK2.12F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.003
+SAMEA6844927,PRJEB38352,MG.BLANK2.12G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,1.051
+SAMEA6844928,PRJEB38352,MG.BLANK2.12H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844929,PRJEB38352,MG.BLANK2.2A,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.436
+SAMEA6844930,PRJEB38352,MG.BLANK2.2B,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.016
+SAMEA6844931,PRJEB38352,MG.BLANK2.2C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.333
+SAMEA6844932,PRJEB38352,MG.BLANK2.2D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.002
+SAMEA6844933,PRJEB38352,MG.BLANK2.2E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844934,PRJEB38352,MG.BLANK2.2F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.279
+SAMEA6844935,PRJEB38352,MG.BLANK2.2G,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.0
+SAMEA6844936,PRJEB38352,MG.BLANK2.2H,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844937,PRJEB38352,MG.BLANK4.4A,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.003
+SAMEA6844938,PRJEB38352,MG.BLANK4.4B,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.004
+SAMEA6844939,PRJEB38352,MG.BLANK4.4C,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.002
+SAMEA6844940,PRJEB38352,MG.BLANK4.4D,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.002
+SAMEA6844941,PRJEB38352,MG.BLANK4.4E,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.001
+SAMEA6844942,PRJEB38352,MG.BLANK4.4F,,,,,US,ibd_unspecified,Mixed IBD cohort: ulcerative colitis and Crohn's disease,,,,,primary,1.0,0.0

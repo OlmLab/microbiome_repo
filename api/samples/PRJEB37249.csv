@@ -1,0 +1,889 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA6810861,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.122
+SAMEA6810862,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,8.0,2.74
+SAMEA6810863,PRJEB37249,,,,,female,FR,,,,,yes,,primary,6.0,2.952
+SAMEA6810864,PRJEB37249,,,,,female,DE,,,,,no,,primary,6.0,3.576
+SAMEA6810865,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,5.0,2.9
+SAMEA6810866,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,7.0,2.881
+SAMEA6810867,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.533
+SAMEA6810868,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.882
+SAMEA6810869,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.17
+SAMEA6810870,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,3.511
+SAMEA6810871,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.257
+SAMEA6810872,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,8.0,3.989
+SAMEA6810873,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.921
+SAMEA6810874,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.932
+SAMEA6810875,PRJEB37249,,,,,male,DE,,,,,yes,,primary,5.0,3.242
+SAMEA6810876,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,3.114
+SAMEA6810877,PRJEB37249,,,,,,FR,,,,,,,primary,9.0,2.834
+SAMEA6810878,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,8.0,2.904
+SAMEA6810879,PRJEB37249,,,,,male,DE,,,,,no,,primary,5.0,3.193
+SAMEA6810880,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,2.832
+SAMEA6810881,PRJEB37249,,,,,female,FR,,,,,yes,,primary,6.0,2.999
+SAMEA6810882,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,4.21
+SAMEA6810883,PRJEB37249,,,,,female,DE,,,,,no,,primary,4.0,3.396
+SAMEA6810884,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.158
+SAMEA6810885,PRJEB37249,,,,,,DK,,,,,no,,primary,10.0,3.1
+SAMEA6810886,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,4.0,2.897
+SAMEA6810887,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,2.69
+SAMEA6810888,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.2
+SAMEA6810889,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.052
+SAMEA6810890,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.007
+SAMEA6810891,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.332
+SAMEA6810892,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.053
+SAMEA6810893,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,4.0,2.89
+SAMEA6810894,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,3.376
+SAMEA6810895,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.156
+SAMEA6810896,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,5.0,3.051
+SAMEA6810897,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.706
+SAMEA6810898,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,4.0,3.142
+SAMEA6810899,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,3.137
+SAMEA6810900,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,4.0,3.066
+SAMEA6810901,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.237
+SAMEA6810902,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.44
+SAMEA6810903,PRJEB37249,,,,,female,FR,,,,,,,primary,5.0,2.727
+SAMEA6810904,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.045
+SAMEA6810905,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.099
+SAMEA6810906,PRJEB37249,,,,,female,DE,,,,,no,,primary,9.0,4.133
+SAMEA6810907,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,2.814
+SAMEA6810908,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,3.592
+SAMEA6810909,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,2.671
+SAMEA6810910,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,2.852
+SAMEA6810911,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,4.0,2.495
+SAMEA6810912,PRJEB37249,,,,,female,DE,type2_diabetes,Glucose Intolerance,,,no,,primary,4.0,3.348
+SAMEA6810913,PRJEB37249,,,,,male,FR,,,,,no,,primary,4.0,2.722
+SAMEA6810914,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,2.928
+SAMEA6810915,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.839
+SAMEA6810916,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.024
+SAMEA6810917,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,4.46
+SAMEA6810918,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,2.971
+SAMEA6810919,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.157
+SAMEA6810920,PRJEB37249,,,,,,DK,,,,,yes,,primary,10.0,3.221
+SAMEA6810921,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.988
+SAMEA6810922,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.878
+SAMEA6810923,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.216
+SAMEA6810924,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,4.0,3.068
+SAMEA6810925,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,3.357
+SAMEA6810926,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.99
+SAMEA6810927,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.505
+SAMEA6810928,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.838
+SAMEA6810929,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.84
+SAMEA6810930,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.458
+SAMEA6810931,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.05
+SAMEA6810932,PRJEB37249,,,,,female,FR,,,,,yes,,primary,7.0,3.944
+SAMEA6810933,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,3.183
+SAMEA6810934,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.587
+SAMEA6810935,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,3.131
+SAMEA6810936,PRJEB37249,,,,,female,FR,,,,,yes,,primary,7.0,3.092
+SAMEA6810937,PRJEB37249,,,,,female,FR,,,,,no,,primary,2.0,3.145
+SAMEA6810938,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,8.0,2.868
+SAMEA6810939,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,4.0,2.818
+SAMEA6810940,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.104
+SAMEA6810941,PRJEB37249,,,,,,DK,,,,,yes,,primary,8.0,2.768
+SAMEA6810942,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.912
+SAMEA6810943,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.039
+SAMEA6810944,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.795
+SAMEA6810945,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,4.0,2.752
+SAMEA6810946,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.899
+SAMEA6810947,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.882
+SAMEA6810948,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,5.0,2.755
+SAMEA6810949,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,2.945
+SAMEA6810950,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,6.0,4.304
+SAMEA6810951,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.159
+SAMEA6810952,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.973
+SAMEA6810953,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,9.0,3.106
+SAMEA6810954,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.832
+SAMEA6810955,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.061
+SAMEA6810956,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.192
+SAMEA6810957,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,2.884
+SAMEA6810958,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.546
+SAMEA6810959,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.943
+SAMEA6810960,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,3.346
+SAMEA6810961,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,2.839
+SAMEA6810962,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,2.848
+SAMEA6810963,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,4.0,3.004
+SAMEA6810964,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,2.882
+SAMEA6810965,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.101
+SAMEA6810966,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.004
+SAMEA6810967,PRJEB37249,,,,,female,FR,,,,,yes,,primary,2.0,3.191
+SAMEA6810968,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.88
+SAMEA6810969,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.299
+SAMEA6810970,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.201
+SAMEA6810971,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.732
+SAMEA6810972,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,5.0,3.125
+SAMEA6810973,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.553
+SAMEA6810974,PRJEB37249,,,,,female,FR,,,,,,,primary,5.0,3.083
+SAMEA6810975,PRJEB37249,,,,,male,FR,,,,,no,,primary,7.0,2.821
+SAMEA6810976,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.933
+SAMEA6810977,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,8.0,2.78
+SAMEA6810978,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.821
+SAMEA6810979,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,2.932
+SAMEA6810980,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,4.37
+SAMEA6810981,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.75
+SAMEA6810982,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,yes,,primary,6.0,3.33
+SAMEA6810983,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.248
+SAMEA6810984,PRJEB37249,,,,,male,FR,,,,,no,,primary,7.0,2.661
+SAMEA6810985,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,2.996
+SAMEA6810986,PRJEB37249,,,,,female,FR,,,,,no,,primary,2.0,3.139
+SAMEA6810987,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.146
+SAMEA6810988,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.94
+SAMEA6810989,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,9.0,2.916
+SAMEA6810990,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.999
+SAMEA6810991,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,3.035
+SAMEA6810992,PRJEB37249,,,,,,FR,,,,,,,primary,7.0,2.878
+SAMEA6810993,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.984
+SAMEA6810994,PRJEB37249,,,,,female,FR,,,,,,,primary,6.0,2.702
+SAMEA6810995,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,8.0,3.378
+SAMEA6810996,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,10.0,2.916
+SAMEA6810997,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.996
+SAMEA6810998,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.086
+SAMEA6810999,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,8.0,2.862
+SAMEA6811000,PRJEB37249,,,,,female,DE,,,,,no,,primary,2.0,3.159
+SAMEA6811001,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.858
+SAMEA6811002,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,2.865
+SAMEA6811003,PRJEB37249,,,,,male,FR,,,,,no,,primary,10.0,2.952
+SAMEA6811004,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.671
+SAMEA6811005,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.995
+SAMEA6811006,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.121
+SAMEA6811007,PRJEB37249,,,,,male,FR,,,,,no,,primary,4.0,2.628
+SAMEA6811008,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,6.0,3.061
+SAMEA6811009,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.695
+SAMEA6811010,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.01
+SAMEA6811011,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.02
+SAMEA6811012,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.184
+SAMEA6811013,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,3.949
+SAMEA6811014,PRJEB37249,,,,,female,DE,,,,,yes,,primary,7.0,2.774
+SAMEA6811015,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,4.009
+SAMEA6811016,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.984
+SAMEA6811017,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,8.0,2.988
+SAMEA6811018,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.352
+SAMEA6811019,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,8.0,3.042
+SAMEA6811020,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,5.0,2.662
+SAMEA6811021,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.837
+SAMEA6811022,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.162
+SAMEA6811023,PRJEB37249,,,,,male,FR,,,,,,,primary,7.0,3.151
+SAMEA6811024,PRJEB37249,,,,,female,FR,,,,,,,primary,5.0,3.903
+SAMEA6811025,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.209
+SAMEA6811026,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.9
+SAMEA6811027,PRJEB37249,,,,,female,FR,,,,,no,,primary,6.0,3.468
+SAMEA6811028,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,4.0,2.715
+SAMEA6811029,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.706
+SAMEA6811030,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,10.0,2.919
+SAMEA6811031,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.734
+SAMEA6811032,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,2.993
+SAMEA6811033,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.91
+SAMEA6811034,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.842
+SAMEA6811035,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.819
+SAMEA6811036,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,2.996
+SAMEA6811037,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,3.216
+SAMEA6811038,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.918
+SAMEA6811039,PRJEB37249,,,,,,FR,,,,,,,primary,9.0,2.884
+SAMEA6811040,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,8.0,2.958
+SAMEA6811041,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.884
+SAMEA6811042,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.137
+SAMEA6811043,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,,,primary,5.0,2.857
+SAMEA6811044,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.682
+SAMEA6811045,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.127
+SAMEA6811046,PRJEB37249,,,,,female,FR,,,,,,,primary,4.0,2.922
+SAMEA6811047,PRJEB37249,,,,,male,FR,,,,,no,,primary,4.0,3.006
+SAMEA6811048,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.694
+SAMEA6811049,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.088
+SAMEA6811050,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.114
+SAMEA6811051,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.39
+SAMEA6811052,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,10.0,2.99
+SAMEA6811053,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,7.0,2.868
+SAMEA6811054,PRJEB37249,,,,,female,DE,,,,,no,,primary,4.0,2.959
+SAMEA6811055,PRJEB37249,,,,,female,FR,,,,,yes,,primary,7.0,3.007
+SAMEA6811056,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.07
+SAMEA6811057,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,4.0,2.655
+SAMEA6811058,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.241
+SAMEA6811059,PRJEB37249,,,,,,FR,,,,,,,primary,7.0,3.108
+SAMEA6811060,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.044
+SAMEA6811061,PRJEB37249,,,,,female,FR,,,,,no,,primary,9.0,2.911
+SAMEA6811062,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.78
+SAMEA6811063,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,2.724
+SAMEA6811064,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.733
+SAMEA6811065,PRJEB37249,,,,,male,DE,,,,,yes,,primary,5.0,3.274
+SAMEA6811066,PRJEB37249,,,,,,FR,,,,,,,primary,8.0,2.794
+SAMEA6811067,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,5.0,2.828
+SAMEA6811068,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,3.092
+SAMEA6811069,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,3.0
+SAMEA6811070,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,8.0,3.102
+SAMEA6811071,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,3.012
+SAMEA6811072,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.908
+SAMEA6811073,PRJEB37249,,,,,,FR,,,,,,,primary,2.0,3.861
+SAMEA6811074,PRJEB37249,,,,,female,FR,,,,,,,primary,3.0,2.957
+SAMEA6811075,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.713
+SAMEA6811076,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,,,primary,5.0,2.713
+SAMEA6811077,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.907
+SAMEA6811078,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.766
+SAMEA6811079,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.813
+SAMEA6811080,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,2.925
+SAMEA6811081,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.036
+SAMEA6811082,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.823
+SAMEA6811083,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.711
+SAMEA6811084,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.011
+SAMEA6811085,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.942
+SAMEA6811086,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,2.987
+SAMEA6811087,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.83
+SAMEA6811088,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,4.003
+SAMEA6811089,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,11.0,2.963
+SAMEA6811090,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,2.864
+SAMEA6811091,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,6.0,2.919
+SAMEA6811092,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.961
+SAMEA6811093,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,5.0,2.952
+SAMEA6811094,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,3.361
+SAMEA6811095,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,10.0,2.895
+SAMEA6811096,PRJEB37249,,,,,female,FR,,,,,yes,,primary,9.0,3.995
+SAMEA6811097,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.156
+SAMEA6811098,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,4.0,2.85
+SAMEA6811099,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.585
+SAMEA6811100,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,8.0,2.974
+SAMEA6811101,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,10.0,3.39
+SAMEA6811102,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.015
+SAMEA6811103,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.003
+SAMEA6811104,PRJEB37249,,,,,male,FR,,,,,no,,primary,5.0,2.69
+SAMEA6811105,PRJEB37249,,,,,female,FR,,,,,yes,,primary,10.0,2.973
+SAMEA6811106,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,10.0,2.912
+SAMEA6811107,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.848
+SAMEA6811108,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,2.0,3.366
+SAMEA6811109,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,7.0,2.751
+SAMEA6811110,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.09
+SAMEA6811111,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.734
+SAMEA6811112,PRJEB37249,,,,,female,FR,,,,,,,primary,4.0,2.785
+SAMEA6811113,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,5.0,2.988
+SAMEA6811114,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,2.969
+SAMEA6811115,PRJEB37249,,,,,female,FR,,,,,no,,primary,8.0,3.091
+SAMEA6811116,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,2.798
+SAMEA6811117,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,5.0,3.108
+SAMEA6811118,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.809
+SAMEA6811119,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,3.396
+SAMEA6811120,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,4.0,3.219
+SAMEA6811121,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.046
+SAMEA6811122,PRJEB37249,,,,,female,DE,,,,,yes,,primary,6.0,2.883
+SAMEA6811123,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.94
+SAMEA6811124,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.133
+SAMEA6811125,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,3.042
+SAMEA6811126,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,14.0,8.394
+SAMEA6811127,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.96
+SAMEA6811128,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,3.649
+SAMEA6811129,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.323
+SAMEA6811130,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.904
+SAMEA6811131,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,5.0,2.982
+SAMEA6811132,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.571
+SAMEA6811133,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,3.447
+SAMEA6811134,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,5.0,2.751
+SAMEA6811135,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,,,primary,10.0,2.904
+SAMEA6811136,PRJEB37249,,,,,,DK,,,,,no,,primary,4.0,2.95
+SAMEA6811137,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,6.0,2.819
+SAMEA6811138,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.917
+SAMEA6811139,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,8.0,2.883
+SAMEA6811140,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.229
+SAMEA6811141,PRJEB37249,,,,,,DK,,,,,yes,,primary,6.0,4.932
+SAMEA6811142,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.911
+SAMEA6811143,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.099
+SAMEA6811144,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,8.0,2.875
+SAMEA6811145,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,2.843
+SAMEA6811146,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.915
+SAMEA6811147,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,4.0,2.555
+SAMEA6811148,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.715
+SAMEA6811149,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,2.86
+SAMEA6811150,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,5.391
+SAMEA6811151,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,2.882
+SAMEA6811152,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.904
+SAMEA6811153,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,8.0,3.054
+SAMEA6811154,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,5.0,3.255
+SAMEA6811155,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,4.0,2.997
+SAMEA6811156,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.892
+SAMEA6811157,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,9.0,2.869
+SAMEA6811158,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.035
+SAMEA6811159,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.752
+SAMEA6811160,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.088
+SAMEA6811161,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.688
+SAMEA6811162,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,5.0,2.922
+SAMEA6811163,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,8.0,3.023
+SAMEA6811164,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.101
+SAMEA6811165,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,3.157
+SAMEA6811166,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.184
+SAMEA6811167,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.113
+SAMEA6811169,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.978
+SAMEA6811170,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.933
+SAMEA6811171,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,6.0,4.255
+SAMEA6811172,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,8.0,3.015
+SAMEA6811173,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.777
+SAMEA6811174,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.0
+SAMEA6811175,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,6.0,3.534
+SAMEA6811176,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.613
+SAMEA6811177,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,11.0,3.089
+SAMEA6811178,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.012
+SAMEA6811179,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.98
+SAMEA6811180,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,3.141
+SAMEA6811181,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,7.0,3.111
+SAMEA6811182,PRJEB37249,,,,,female,FR,,,,,,,primary,5.0,2.816
+SAMEA6811183,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.077
+SAMEA6811184,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,2.794
+SAMEA6811185,PRJEB37249,,,,,male,DE,,,,,yes,,primary,7.0,3.564
+SAMEA6811186,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,1.0,3.62
+SAMEA6811187,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,2.743
+SAMEA6811188,PRJEB37249,,,,,male,FR,,,,,,,primary,5.0,2.893
+SAMEA6811189,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,yes,,primary,7.0,2.986
+SAMEA6811190,PRJEB37249,,,,,male,FR,,,,,,,primary,5.0,3.01
+SAMEA6811191,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.996
+SAMEA6811192,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,3.016
+SAMEA6811193,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.995
+SAMEA6811194,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,3.118
+SAMEA6811195,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,4.0,2.958
+SAMEA6811196,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,6.0,3.112
+SAMEA6811197,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.691
+SAMEA6811198,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.069
+SAMEA6811199,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,10.0,2.923
+SAMEA6811200,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.905
+SAMEA6811201,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,9.0,8.363
+SAMEA6811202,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,2.898
+SAMEA6811203,PRJEB37249,,,,,male,DE,,,,,no,,primary,7.0,2.848
+SAMEA6811204,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.503
+SAMEA6811205,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.919
+SAMEA6811206,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.75
+SAMEA6811207,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.92
+SAMEA6811208,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,8.0,3.172
+SAMEA6811209,PRJEB37249,,,,,female,DE,,,,,no,,primary,5.0,3.13
+SAMEA6811210,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.021
+SAMEA6811211,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,2.975
+SAMEA6811212,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,3.0,2.664
+SAMEA6811213,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.897
+SAMEA6811214,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,5.0,3.281
+SAMEA6811215,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,5.0,2.932
+SAMEA6811216,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,2.986
+SAMEA6811217,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.147
+SAMEA6811218,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,9.0,2.971
+SAMEA6811219,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.003
+SAMEA6811220,PRJEB37249,,,,,,FR,,,,,,,primary,2.0,3.554
+SAMEA6811221,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.181
+SAMEA6811222,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.581
+SAMEA6811223,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.779
+SAMEA6811224,PRJEB37249,,,,,female,DE,,,,,no,,primary,4.0,3.103
+SAMEA6811225,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.688
+SAMEA6811226,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,2.841
+SAMEA6811227,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.354
+SAMEA6811228,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.678
+SAMEA6811229,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,3.007
+SAMEA6811230,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.195
+SAMEA6811231,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,2.669
+SAMEA6811232,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,3.517
+SAMEA6811233,PRJEB37249,,,,,male,DE,,,,,yes,,primary,5.0,3.203
+SAMEA6811234,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,2.801
+SAMEA6811235,PRJEB37249,,,,,,DK,,,,,yes,,primary,5.0,4.084
+SAMEA6811236,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,11.0,4.061
+SAMEA6811237,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,5.0,2.976
+SAMEA6811238,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,,,primary,5.0,3.361
+SAMEA6811239,PRJEB37249,,,,,,DK,,,,,no,,primary,4.0,2.975
+SAMEA6811240,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.863
+SAMEA6811241,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,8.0,2.837
+SAMEA6811242,PRJEB37249,,,,,female,DE,,,,,yes,,primary,6.0,3.491
+SAMEA6811243,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,3.058
+SAMEA6811244,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.928
+SAMEA6811245,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.914
+SAMEA6811246,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,5.0,3.127
+SAMEA6811247,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,2.619
+SAMEA6811248,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.845
+SAMEA6811249,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.271
+SAMEA6811250,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.146
+SAMEA6811251,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,8.0,3.066
+SAMEA6811252,PRJEB37249,,,,,male,FR,,,,,no,,primary,5.0,2.582
+SAMEA6811253,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.262
+SAMEA6811254,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.663
+SAMEA6811255,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,2.975
+SAMEA6811256,PRJEB37249,,,,,female,FR,,,,,no,,primary,8.0,2.688
+SAMEA6811257,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.132
+SAMEA6811258,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.781
+SAMEA6811259,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,2.889
+SAMEA6811260,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,9.0,2.892
+SAMEA6811261,PRJEB37249,,,,,,FR,,,,,,,primary,8.0,2.795
+SAMEA6811262,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,2.802
+SAMEA6811263,PRJEB37249,,,,,male,FR,,,,,no,,primary,2.0,2.986
+SAMEA6811264,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.906
+SAMEA6811265,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,3.017
+SAMEA6811266,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,,,primary,5.0,2.992
+SAMEA6811267,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,3.054
+SAMEA6811268,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.558
+SAMEA6811269,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.153
+SAMEA6811270,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,5.0,4.443
+SAMEA6811271,PRJEB37249,,,,,female,DE,,,,,yes,,primary,8.0,2.922
+SAMEA6811272,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,6.0,3.375
+SAMEA6811273,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.911
+SAMEA6811274,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,4.0,2.552
+SAMEA6811275,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.928
+SAMEA6811276,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.068
+SAMEA6811277,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.967
+SAMEA6811278,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.033
+SAMEA6811279,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,4.0,3.102
+SAMEA6811280,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.253
+SAMEA6811281,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,2.917
+SAMEA6811282,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.238
+SAMEA6811283,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.882
+SAMEA6811284,PRJEB37249,,,,,male,DE,type2_diabetes,Glucose Intolerance,,,no,,primary,5.0,3.48
+SAMEA6811285,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,2.765
+SAMEA6811286,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.406
+SAMEA6811287,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,5.0,3.823
+SAMEA6811288,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,3.052
+SAMEA6811289,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,10.0,3.018
+SAMEA6811290,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.958
+SAMEA6811291,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.887
+SAMEA6811292,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.965
+SAMEA6811293,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.875
+SAMEA6811294,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.69
+SAMEA6811295,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.895
+SAMEA6811296,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.112
+SAMEA6811297,PRJEB37249,,,,,female,FR,,,,,no,,primary,8.0,2.78
+SAMEA6811298,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.497
+SAMEA6811299,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.226
+SAMEA6811300,PRJEB37249,,,,,female,FR,,,,,no,,primary,9.0,2.798
+SAMEA6811301,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.958
+SAMEA6811302,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,3.133
+SAMEA6811303,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,3.067
+SAMEA6811304,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.034
+SAMEA6811305,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.018
+SAMEA6811306,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.104
+SAMEA6811307,PRJEB37249,,,,,male,FR,,,,,,,primary,5.0,2.814
+SAMEA6811308,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,3.151
+SAMEA6811309,PRJEB37249,,,,,,FR,,,,,,,primary,8.0,6.692
+SAMEA6811310,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,,,primary,10.0,2.909
+SAMEA6811311,PRJEB37249,,,,,male,DE,,,,,no,,primary,4.0,3.141
+SAMEA6811312,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,4.0,2.863
+SAMEA6811313,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.947
+SAMEA6811314,PRJEB37249,,,,,female,FR,,,,,yes,,primary,7.0,2.735
+SAMEA6811315,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,2.949
+SAMEA6811316,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.954
+SAMEA6811317,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,3.042
+SAMEA6811318,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.915
+SAMEA6811319,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,3.011
+SAMEA6811320,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.779
+SAMEA6811321,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,8.0,3.0
+SAMEA6811322,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.886
+SAMEA6811323,PRJEB37249,,,,,female,DE,type2_diabetes,Glucose Intolerance,,,yes,,primary,4.0,2.847
+SAMEA6811324,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.024
+SAMEA6811325,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,2.784
+SAMEA6811326,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,5.0,2.835
+SAMEA6811327,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,4.869
+SAMEA6811328,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,8.0,2.842
+SAMEA6811329,PRJEB37249,,,,,female,FR,,,,,yes,,primary,7.0,2.684
+SAMEA6811330,PRJEB37249,,,,,male,DE,,,,,no,,primary,4.0,2.668
+SAMEA6811331,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.88
+SAMEA6811332,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.061
+SAMEA6811333,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,3.632
+SAMEA6811334,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,3.019
+SAMEA6811335,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.962
+SAMEA6811336,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.07
+SAMEA6811337,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,2.881
+SAMEA6811338,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.933
+SAMEA6811339,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,10.0,2.92
+SAMEA6811340,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.94
+SAMEA6811341,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,3.073
+SAMEA6811342,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.901
+SAMEA6811343,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,5.0,3.198
+SAMEA6811344,PRJEB37249,,,,,female,DE,,,,,no,,primary,4.0,2.87
+SAMEA6811345,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,2.763
+SAMEA6811346,PRJEB37249,,,,,female,DE,,,,,no,,primary,6.0,2.737
+SAMEA6811347,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.723
+SAMEA6811348,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,11.0,2.937
+SAMEA6811349,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,3.42
+SAMEA6811350,PRJEB37249,,,,,female,FR,,,,,yes,,primary,6.0,2.967
+SAMEA6811351,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.921
+SAMEA6811352,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.381
+SAMEA6811353,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,4.0,2.9
+SAMEA6811354,PRJEB37249,,,,,,FR,,,,,,,primary,9.0,2.838
+SAMEA6811355,PRJEB37249,,,,,female,FR,,,,,,,primary,4.0,2.88
+SAMEA6811356,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,3.09
+SAMEA6811357,PRJEB37249,,,,,female,FR,,,,,yes,,primary,6.0,3.144
+SAMEA6811358,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.764
+SAMEA6811359,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,9.0,2.798
+SAMEA6811360,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,2.817
+SAMEA6811361,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.814
+SAMEA6811362,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.066
+SAMEA6811363,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,2.724
+SAMEA6811364,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,10.0,2.919
+SAMEA6811365,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.829
+SAMEA6811366,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.046
+SAMEA6811367,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.3
+SAMEA6811368,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.995
+SAMEA6811369,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,5.0,3.125
+SAMEA6811370,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.062
+SAMEA6811371,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,,,primary,4.0,3.051
+SAMEA6811372,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.933
+SAMEA6811373,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.859
+SAMEA6811374,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.002
+SAMEA6811375,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,9.0,3.186
+SAMEA6811376,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.652
+SAMEA6811377,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,4.0,3.232
+SAMEA6811378,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.608
+SAMEA6811379,PRJEB37249,,,,,male,FR,,,,,no,,primary,9.0,2.896
+SAMEA6811380,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.706
+SAMEA6811381,PRJEB37249,,,,,female,FR,,,,,,,primary,8.0,3.384
+SAMEA6811382,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.022
+SAMEA6811383,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,8.0,3.06
+SAMEA6811384,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.798
+SAMEA6811385,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,3.069
+SAMEA6811386,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,7.0,2.864
+SAMEA6811387,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,2.954
+SAMEA6811388,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.009
+SAMEA6811389,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.033
+SAMEA6811390,PRJEB37249,,,,,female,FR,,,,,,,primary,6.0,3.19
+SAMEA6811391,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,9.0,2.825
+SAMEA6811392,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,7.0,3.28
+SAMEA6811393,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.678
+SAMEA6811394,PRJEB37249,,,,,male,DE,,,,,yes,,primary,6.0,3.862
+SAMEA6811395,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.088
+SAMEA6811396,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.254
+SAMEA6811397,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.944
+SAMEA6811398,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.255
+SAMEA6811399,PRJEB37249,,,,,,FR,,,,,,,primary,9.0,2.782
+SAMEA6811400,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.021
+SAMEA6811401,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,yes,,primary,7.0,3.19
+SAMEA6811402,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.831
+SAMEA6811403,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.603
+SAMEA6811404,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,4.0,3.221
+SAMEA6811405,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.895
+SAMEA6811406,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.948
+SAMEA6811407,PRJEB37249,,,,,female,FR,,,,,no,,primary,1.0,2.913
+SAMEA6811408,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.9
+SAMEA6811409,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.918
+SAMEA6811410,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.331
+SAMEA6811411,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.998
+SAMEA6811412,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,2.926
+SAMEA6811413,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.331
+SAMEA6811414,PRJEB37249,,,,,male,FR,,,,,no,,primary,5.0,2.775
+SAMEA6811415,PRJEB37249,,,,,female,FR,,,,,no,,primary,3.0,2.882
+SAMEA6811416,PRJEB37249,,,,,male,DE,,,,,yes,,primary,5.0,3.052
+SAMEA6811417,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,5.911
+SAMEA6811418,PRJEB37249,,,,,male,FR,,,,,no,,primary,5.0,2.844
+SAMEA6811419,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.708
+SAMEA6811420,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,4.0,2.691
+SAMEA6811421,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.892
+SAMEA6811422,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,2.883
+SAMEA6811423,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,10.0,3.013
+SAMEA6811424,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.871
+SAMEA6811425,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.509
+SAMEA6811426,PRJEB37249,,,,,,FR,,,,,,,primary,3.0,2.892
+SAMEA6811427,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,6.0,2.842
+SAMEA6811428,PRJEB37249,,,,,female,DE,type2_diabetes,Glucose Intolerance,,,yes,,primary,5.0,3.217
+SAMEA6811429,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,6.0,2.925
+SAMEA6811430,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.944
+SAMEA6811431,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,4.86
+SAMEA6811432,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,3.972
+SAMEA6811433,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.901
+SAMEA6811434,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.932
+SAMEA6811435,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,5.0,3.172
+SAMEA6811436,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.917
+SAMEA6811437,PRJEB37249,,,,,female,DE,,,,,yes,,primary,7.0,3.08
+SAMEA6811438,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.933
+SAMEA6811439,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.147
+SAMEA6811440,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.911
+SAMEA6811441,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,5.0,2.85
+SAMEA6811442,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,10.0,2.918
+SAMEA6811443,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.905
+SAMEA6811444,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.878
+SAMEA6811445,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,3.361
+SAMEA6811446,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,5.0,2.795
+SAMEA6811447,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,6.0,4.556
+SAMEA6811448,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.982
+SAMEA6811449,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.893
+SAMEA6811450,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,5.0,3.095
+SAMEA6811451,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,8.0,3.11
+SAMEA6811452,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.015
+SAMEA6811453,PRJEB37249,,,,,male,FR,,,,,yes,,primary,6.0,8.407
+SAMEA6811454,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,3.236
+SAMEA6811455,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,3.524
+SAMEA6811456,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.233
+SAMEA6811457,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,2.921
+SAMEA6811458,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.988
+SAMEA6811459,PRJEB37249,,,,,female,FR,,,,,yes,,primary,6.0,3.07
+SAMEA6811460,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,,,primary,5.0,2.506
+SAMEA6811461,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.542
+SAMEA6811462,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.102
+SAMEA6811463,PRJEB37249,,,,,,DK,,,,,no,,primary,8.0,2.898
+SAMEA6811464,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.939
+SAMEA6811465,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.094
+SAMEA6811466,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.248
+SAMEA6811467,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.817
+SAMEA6811468,PRJEB37249,,,,,,FR,,,,,,,primary,6.0,4.222
+SAMEA6811469,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.943
+SAMEA6811470,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.975
+SAMEA6811471,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,3.122
+SAMEA6811472,PRJEB37249,,,,,,FR,,,,,,,primary,7.0,3.042
+SAMEA6811473,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.941
+SAMEA6811474,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.006
+SAMEA6811475,PRJEB37249,,,,,,FR,,,,,,,primary,8.0,2.816
+SAMEA6811476,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.77
+SAMEA6811477,PRJEB37249,,,,,,DK,,,,,yes,,primary,5.0,3.484
+SAMEA6811478,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,2.846
+SAMEA6811479,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.967
+SAMEA6811480,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.77
+SAMEA6811481,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,yes,,primary,6.0,2.931
+SAMEA6811482,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.301
+SAMEA6811483,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.868
+SAMEA6811484,PRJEB37249,,,,,female,FR,,,,,,,primary,3.0,3.011
+SAMEA6811485,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.22
+SAMEA6811486,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,9.0,2.856
+SAMEA6811487,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,5.0,2.852
+SAMEA6811488,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,6.0,2.824
+SAMEA6811489,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,9.0,2.925
+SAMEA6811490,PRJEB37249,,,,,,FR,,,,,,,primary,6.0,3.334
+SAMEA6811491,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.691
+SAMEA6811492,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.574
+SAMEA6811493,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,2.911
+SAMEA6811494,PRJEB37249,,,,,male,FR,,,,,,,primary,9.0,2.787
+SAMEA6811495,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,10.0,2.903
+SAMEA6811496,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,,,primary,5.0,2.831
+SAMEA6811497,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,4.0,2.689
+SAMEA6811498,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.965
+SAMEA6811499,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,4.0,2.849
+SAMEA6811500,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.938
+SAMEA6811501,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.735
+SAMEA6811502,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,3.08
+SAMEA6811503,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.905
+SAMEA6811504,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,,,primary,5.0,3.903
+SAMEA6811505,PRJEB37249,,,,,female,FR,,,,,yes,,primary,10.0,2.955
+SAMEA6811506,PRJEB37249,,,,,female,DE,,,,,no,,primary,5.0,3.308
+SAMEA6811507,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,4.0,2.712
+SAMEA6811508,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,5.0,3.221
+SAMEA6811509,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.224
+SAMEA6811510,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.983
+SAMEA6811511,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,9.0,2.858
+SAMEA6811512,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.128
+SAMEA6811513,PRJEB37249,,,,,male,FR,,,,,no,,primary,8.0,2.809
+SAMEA6811514,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.922
+SAMEA6811515,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.263
+SAMEA6811516,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,10.0,2.889
+SAMEA6811517,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.253
+SAMEA6811518,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.978
+SAMEA6811519,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,8.0,2.814
+SAMEA6811520,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.0
+SAMEA6811521,PRJEB37249,,,,,male,FR,,,,,,,primary,5.0,2.534
+SAMEA6811522,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,9.0,3.052
+SAMEA6811523,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.012
+SAMEA6811524,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.147
+SAMEA6811525,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.989
+SAMEA6811526,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.834
+SAMEA6811527,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.948
+SAMEA6811528,PRJEB37249,,,,,male,DE,,,,,no,,primary,6.0,3.286
+SAMEA6811529,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,6.0,3.116
+SAMEA6811530,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.716
+SAMEA6811531,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.228
+SAMEA6811532,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.855
+SAMEA6811533,PRJEB37249,,,,,female,FR,,,,,no,,primary,6.0,2.888
+SAMEA6811534,PRJEB37249,,,,,male,FR,,,,,no,,primary,5.0,3.584
+SAMEA6811535,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,4.202
+SAMEA6811536,PRJEB37249,,,,,male,FR,,,,,,,primary,3.0,2.852
+SAMEA6811537,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.121
+SAMEA6811538,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,yes,,primary,8.0,2.993
+SAMEA6811539,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.714
+SAMEA6811540,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.012
+SAMEA6811541,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.008
+SAMEA6811542,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,9.0,3.046
+SAMEA6811543,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.996
+SAMEA6811544,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.404
+SAMEA6811545,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,6.0,3.014
+SAMEA6811546,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,8.0,3.305
+SAMEA6811547,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,7.0,3.471
+SAMEA6811548,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.062
+SAMEA6811549,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.945
+SAMEA6811550,PRJEB37249,,,,,,DK,,,,,yes,,primary,10.0,3.042
+SAMEA6811551,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.993
+SAMEA6811552,PRJEB37249,,,,,female,FR,,,,,,,primary,5.0,2.92
+SAMEA6811553,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,2.928
+SAMEA6811554,PRJEB37249,,,,,,FR,,,,,,,primary,6.0,3.491
+SAMEA6811555,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.167
+SAMEA6811556,PRJEB37249,,,,,female,FR,,,,,no,,primary,7.0,2.957
+SAMEA6811557,PRJEB37249,,,,,female,DE,,,,,no,,primary,4.0,2.954
+SAMEA6811558,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.0
+SAMEA6811559,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,2.946
+SAMEA6811560,PRJEB37249,,,,,female,DE,type2_diabetes,Glucose Intolerance,,,no,,primary,5.0,3.257
+SAMEA6811561,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.182
+SAMEA6811562,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.502
+SAMEA6811563,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.607
+SAMEA6811564,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.97
+SAMEA6811565,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,5.0,3.185
+SAMEA6811566,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,8.0,3.133
+SAMEA6811567,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.77
+SAMEA6811568,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,3.12
+SAMEA6811569,PRJEB37249,,,,,female,FR,,,,,no,,primary,10.0,5.711
+SAMEA6811570,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,8.0,2.933
+SAMEA6811571,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.788
+SAMEA6811572,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.824
+SAMEA6811573,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,8.0,2.982
+SAMEA6811574,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,8.0,2.855
+SAMEA6811575,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,7.0,3.116
+SAMEA6811576,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,3.022
+SAMEA6811577,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,9.0,2.578
+SAMEA6811578,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,10.0,2.962
+SAMEA6811579,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.872
+SAMEA6811580,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.574
+SAMEA6811581,PRJEB37249,,,,,female,DE,,,,,no,,primary,6.0,2.888
+SAMEA6811582,PRJEB37249,,,,,,DK,,,,,no,,primary,9.0,2.97
+SAMEA6811583,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.379
+SAMEA6811584,PRJEB37249,,,,,female,FR,,,,,no,,primary,10.0,5.887
+SAMEA6811585,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,4.0,3.112
+SAMEA6811586,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,9.0,2.73
+SAMEA6811587,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.764
+SAMEA6811588,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.107
+SAMEA6811589,PRJEB37249,,,,,female,DE,,,,,yes,,primary,6.0,3.053
+SAMEA6811590,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.144
+SAMEA6811591,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.368
+SAMEA6811592,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.255
+SAMEA6811593,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.048
+SAMEA6811594,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.025
+SAMEA6811595,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,8.0,3.026
+SAMEA6811596,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.81
+SAMEA6811597,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.171
+SAMEA6811598,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.616
+SAMEA6811599,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,3.204
+SAMEA6811600,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.944
+SAMEA6811601,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,5.0,2.91
+SAMEA6811602,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,10.0,6.661
+SAMEA6811603,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.277
+SAMEA6811604,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,yes,,primary,4.0,2.987
+SAMEA6811605,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,5.021
+SAMEA6811606,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.773
+SAMEA6811607,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,8.0,2.983
+SAMEA6811608,PRJEB37249,,,,,female,FR,,,,,yes,,primary,8.0,2.814
+SAMEA6811609,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.134
+SAMEA6811610,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.893
+SAMEA6811611,PRJEB37249,,,,,female,FR,,,,,,,primary,9.0,3.076
+SAMEA6811612,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.975
+SAMEA6811613,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.683
+SAMEA6811614,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,3.13
+SAMEA6811615,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,9.0,2.955
+SAMEA6811616,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.059
+SAMEA6811617,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,3.118
+SAMEA6811618,PRJEB37249,,,,,,DK,,,,,no,,primary,8.0,2.872
+SAMEA6811619,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,5.0,2.668
+SAMEA6811620,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,2.868
+SAMEA6811621,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,,,primary,6.0,2.933
+SAMEA6811622,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,10.0,2.962
+SAMEA6811623,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.713
+SAMEA6811624,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,3.0,2.965
+SAMEA6811625,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,8.0,6.396
+SAMEA6811626,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.873
+SAMEA6811627,PRJEB37249,,,,,,FR,,,,,,,primary,8.0,2.93
+SAMEA6811628,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,7.0,2.862
+SAMEA6811629,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,3.182
+SAMEA6811630,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.09
+SAMEA6811631,PRJEB37249,,,,,female,FR,,,,,,,primary,7.0,2.897
+SAMEA6811632,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,8.0,3.057
+SAMEA6811633,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,4.0,2.898
+SAMEA6811634,PRJEB37249,,,,,male,DE,,,,,no,,primary,5.0,3.183
+SAMEA6811635,PRJEB37249,,,,,male,DE,,,,,no,,primary,6.0,3.043
+SAMEA6811636,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.293
+SAMEA6811637,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.822
+SAMEA6811638,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,,,primary,6.0,2.903
+SAMEA6811639,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,2.0,3.792
+SAMEA6811640,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.891
+SAMEA6811641,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,8.0,2.924
+SAMEA6811642,PRJEB37249,,,,,,FR,,,,,,,primary,7.0,3.348
+SAMEA6811643,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.834
+SAMEA6811644,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.882
+SAMEA6811645,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.565
+SAMEA6811646,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,2.927
+SAMEA6811647,PRJEB37249,,,,,female,FR,,,,,,,primary,5.0,3.578
+SAMEA6811648,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,3.476
+SAMEA6811649,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,yes,,primary,7.0,3.072
+SAMEA6811650,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.43
+SAMEA6811651,PRJEB37249,,,,,female,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,9.0,2.988
+SAMEA6811652,PRJEB37249,,,,,male,FR,,,,,no,,primary,4.0,2.992
+SAMEA6811653,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.859
+SAMEA6811654,PRJEB37249,,,,,male,DE,healthy_control,Healthy,,,no,,primary,4.0,3.188
+SAMEA6811655,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.097
+SAMEA6811656,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,7.0,2.969
+SAMEA6811657,PRJEB37249,,,,,,DK,,,,,yes,,primary,7.0,3.036
+SAMEA6811658,PRJEB37249,,,,,,DK,,,,,no,,primary,7.0,3.001
+SAMEA6811659,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.986
+SAMEA6811660,PRJEB37249,,,,,female,FR,,,,,no,,primary,6.0,2.806
+SAMEA6811661,PRJEB37249,,,,,,FR,,,,,,,primary,10.0,2.909
+SAMEA6811662,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.942
+SAMEA6811663,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,3.216
+SAMEA6811664,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.398
+SAMEA6811665,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,6.0,2.905
+SAMEA6811666,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,5.0,3.023
+SAMEA6811667,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.876
+SAMEA6811668,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,6.0,2.939
+SAMEA6811669,PRJEB37249,,,,,,DK,,,,,yes,,primary,9.0,2.909
+SAMEA6811670,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.01
+SAMEA6811671,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.029
+SAMEA6811672,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.848
+SAMEA6811673,PRJEB37249,,,,,,FR,,,,,,,primary,6.0,2.781
+SAMEA6811674,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,7.0,3.041
+SAMEA6811675,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,3.096
+SAMEA6811676,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,2.924
+SAMEA6811677,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.923
+SAMEA6811678,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,3.179
+SAMEA6811679,PRJEB37249,,,,,,FR,,,,,,,primary,6.0,2.941
+SAMEA6811680,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,2.757
+SAMEA6811681,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,5.018
+SAMEA6811682,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.66
+SAMEA6811683,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.099
+SAMEA6811684,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,,,primary,5.0,2.84
+SAMEA6811685,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.649
+SAMEA6811686,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,2.856
+SAMEA6811687,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,3.295
+SAMEA6811688,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,6.0,2.95
+SAMEA6811689,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,8.0,5.731
+SAMEA6811690,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.008
+SAMEA6811691,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,5.0,2.99
+SAMEA6811692,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.044
+SAMEA6811693,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,,,primary,5.0,2.79
+SAMEA6811694,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.896
+SAMEA6811695,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,2.933
+SAMEA6811696,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.694
+SAMEA6811697,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,7.0,3.11
+SAMEA6811698,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,4.0,3.027
+SAMEA6811699,PRJEB37249,,,,,male,FR,healthy_control,Healthy,,,no,,primary,8.0,2.98
+SAMEA6811700,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.087
+SAMEA6811701,PRJEB37249,,,,,,DK,,,,,yes,,primary,8.0,2.929
+SAMEA6811702,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,3.016
+SAMEA6811703,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,2.827
+SAMEA6811704,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,5.0,2.613
+SAMEA6811705,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.353
+SAMEA6811706,PRJEB37249,,,,,male,FR,,,,,yes,,primary,6.0,8.454
+SAMEA6811707,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.605
+SAMEA6811708,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,4.718
+SAMEA6811709,PRJEB37249,,,,,male,FR,,,,,no,,primary,6.0,3.017
+SAMEA6811710,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,8.0,3.651
+SAMEA6811711,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,8.0,2.899
+SAMEA6811712,PRJEB37249,,,,,female,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,3.0,2.923
+SAMEA6811713,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,4.0,3.243
+SAMEA6811714,PRJEB37249,,,,,,DK,,,,,no,,primary,6.0,3.129
+SAMEA6811715,PRJEB37249,,,,,,DK,,,,,yes,,primary,4.0,2.863
+SAMEA6811716,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,yes,,primary,4.0,2.859
+SAMEA6811717,PRJEB37249,,,,,,DK,,,,,no,,primary,8.0,2.931
+SAMEA6811718,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,4.0,2.989
+SAMEA6811719,PRJEB37249,,,,,female,FR,,,,,no,,primary,4.0,2.807
+SAMEA6811720,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.025
+SAMEA6811721,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,6.0,3.679
+SAMEA6811722,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,no,,primary,4.0,2.589
+SAMEA6811723,PRJEB37249,,,,,female,FR,,,,,yes,,primary,3.0,2.892
+SAMEA6811724,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,7.0,3.157
+SAMEA6811725,PRJEB37249,,,,,male,DE,,,,,yes,,primary,4.0,3.127
+SAMEA6811726,PRJEB37249,,,,,female,FR,healthy_control,Healthy,,,yes,,primary,10.0,2.934
+SAMEA6811727,PRJEB37249,,,,,male,FR,type2_diabetes,Glucose Intolerance,,,no,,primary,5.0,3.124
+SAMEA6811728,PRJEB37249,,,,,female,DE,,,,,yes,,primary,5.0,3.126
+SAMEA6811729,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,10.0,2.999
+SAMEA6811730,PRJEB37249,,,,,male,FR,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,11.0,2.963
+SAMEA6811731,PRJEB37249,,,,,male,FR,,,,,yes,,primary,4.0,2.82
+SAMEA6811732,PRJEB37249,,,,,female,FR,,,,,no,,primary,5.0,2.917
+SAMEA6811733,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,3.386
+SAMEA6811734,PRJEB37249,,,,,female,DE,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,6.0,2.821
+SAMEA6811735,PRJEB37249,,,,,,FR,,,,,,,primary,5.0,2.88
+SAMEA6811736,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,no,,primary,4.0,2.874
+SAMEA6811737,PRJEB37249,,,,,,DK,cardiometabolic_other,Metabolic Syndrome,,,yes,,primary,10.0,3.042
+SAMEA6811738,PRJEB37249,,,,,,DK,healthy_control,Healthy,,,no,,primary,7.0,3.055
+SAMEA6811739,PRJEB37249,,,,,male,FR,,,,,no,,primary,2.0,2.582
+SAMEA6811740,PRJEB37249,,,,,,FR,,,,,,,primary,4.0,2.713
+SAMEA6811741,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,yes,,primary,6.0,3.655
+SAMEA6811742,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,9.0,2.984
+SAMEA6811743,PRJEB37249,,,,,male,FR,,,,,yes,,primary,5.0,2.704
+SAMEA6811744,PRJEB37249,,,,,female,DE,healthy_control,Healthy,,,yes,,primary,6.0,2.99
+SAMEA6811745,PRJEB37249,,,,,,DK,type2_diabetes,Glucose Intolerance,,,no,,primary,7.0,2.966
+SAMEA6811746,PRJEB37249,,,,,female,DE,,,,,yes,,primary,4.0,3.152
+SAMEA6811747,PRJEB37249,,,,,female,FR,,,,,yes,,primary,4.0,2.604
+SAMEA6811748,PRJEB37249,,,,,female,FR,,,,,yes,,primary,5.0,2.719
+SAMEA6811749,PRJEB37249,,,,,male,DE,cardiometabolic_other,Metabolic Syndrome,,,no,,primary,5.0,2.827

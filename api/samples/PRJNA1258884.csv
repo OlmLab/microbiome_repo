@@ -1,0 +1,441 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN48396172,PRJNA1258884,ID001,T1,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-11,primary,1.0,5.039
+SAMN48396171,PRJNA1258884,ID001,T2,neonate,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-07,primary,1.0,6.778
+SAMN48396170,PRJNA1258884,ID001,T3,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-01-13,primary,1.0,7.102
+SAMN48396169,PRJNA1258884,ID001,T4,neonate,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-02-10,primary,1.0,3.339
+SAMN48396168,PRJNA1258884,ID002,T1,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-02,primary,1.0,4.142
+SAMN48396167,PRJNA1258884,ID002,T2,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-30,primary,1.0,5.921
+SAMN48396166,PRJNA1258884,ID002,T3,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-18,primary,1.0,14.673
+SAMN48396165,PRJNA1258884,ID002,T4,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-15,primary,1.0,4.538
+SAMN48396164,PRJNA1258884,ID003,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-05-31,primary,1.0,6.311
+SAMN48396163,PRJNA1258884,ID003,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-06-28,primary,1.0,5.092
+SAMN48396162,PRJNA1258884,ID003,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-07-29,primary,1.0,4.078
+SAMN48396161,PRJNA1258884,ID003,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-08-26,primary,1.0,3.344
+SAMN48396160,PRJNA1258884,ID004,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-27,primary,1.0,7.171
+SAMN48396159,PRJNA1258884,ID004,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-25,primary,1.0,6.861
+SAMN48396158,PRJNA1258884,ID004,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-23,primary,1.0,7.26
+SAMN48396157,PRJNA1258884,ID004,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-21,primary,1.0,4.446
+SAMN48396156,PRJNA1258884,ID005,T1,neonate,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-10-29,primary,1.0,3.902
+SAMN48396155,PRJNA1258884,ID005,T2,neonate,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-26,primary,1.0,4.399
+SAMN48396154,PRJNA1258884,ID005,T3,neonate,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-13,primary,1.0,5.488
+SAMN48396153,PRJNA1258884,ID005,T4,neonate,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-11,primary,1.0,5.653
+SAMN48396152,PRJNA1258884,ID006,T1,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-05-31,primary,1.0,8.584
+SAMN48396151,PRJNA1258884,ID006,T2,neonate,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-06-29,primary,1.0,11.408
+SAMN48396150,PRJNA1258884,ID006,T3,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-08-11,primary,1.0,7.295
+SAMN48396149,PRJNA1258884,ID006,T4,neonate,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-09-08,primary,1.0,5.165
+SAMN48396148,PRJNA1258884,ID007,T1,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-27,primary,1.0,5.99
+SAMN48396147,PRJNA1258884,ID007,T2,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-10-25,primary,1.0,6.103
+SAMN48396146,PRJNA1258884,ID007,T3,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-22,primary,1.0,8.231
+SAMN48396145,PRJNA1258884,ID007,T4,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-20,primary,1.0,5.214
+SAMN48396144,PRJNA1258884,ID008,T1,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-10-30,primary,1.0,11.712
+SAMN48396143,PRJNA1258884,ID008,T2,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-26,primary,1.0,6.464
+SAMN48396142,PRJNA1258884,ID008,T3,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-11,primary,1.0,10.335
+SAMN48396141,PRJNA1258884,ID008,T4,adult,17886.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-08,primary,1.0,9.971
+SAMN48396140,PRJNA1258884,ID009,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-04,primary,1.0,5.784
+SAMN48396139,PRJNA1258884,ID009,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-12-02,primary,1.0,7.278
+SAMN48396138,PRJNA1258884,ID009,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-11,primary,1.0,9.035
+SAMN48396137,PRJNA1258884,ID009,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-08,primary,1.0,7.826
+SAMN48396136,PRJNA1258884,ID010,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-04,primary,1.0,6.062
+SAMN48396135,PRJNA1258884,ID010,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-12-02,primary,1.0,4.506
+SAMN48396134,PRJNA1258884,ID010,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-13,primary,1.0,5.156
+SAMN48396133,PRJNA1258884,ID010,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-11,primary,1.0,4.616
+SAMN48396132,PRJNA1258884,ID011,T1,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-24,primary,1.0,0.708
+SAMN48396131,PRJNA1258884,ID011,T2,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-10-22,primary,1.0,0.868
+SAMN48396130,PRJNA1258884,ID011,T3,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-19,primary,1.0,0.827
+SAMN48396129,PRJNA1258884,ID011,T4,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-17,primary,1.0,0.822
+SAMN48396128,PRJNA1258884,ID012,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-02,primary,1.0,0.76
+SAMN48396127,PRJNA1258884,ID012,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-30,primary,1.0,0.846
+SAMN48396126,PRJNA1258884,ID012,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-11,primary,1.0,0.924
+SAMN48396125,PRJNA1258884,ID012,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-08,primary,1.0,1.023
+SAMN48396124,PRJNA1258884,ID013,T1,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-03,primary,1.0,7.074
+SAMN48396123,PRJNA1258884,ID013,T2,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-12-02,primary,1.0,8.042
+SAMN48396122,PRJNA1258884,ID013,T3,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-14,primary,1.0,8.637
+SAMN48396121,PRJNA1258884,ID013,T4,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-11,primary,1.0,3.681
+SAMN48396120,PRJNA1258884,ID014,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-24,primary,1.0,10.564
+SAMN48396119,PRJNA1258884,ID014,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-09,primary,1.0,8.619
+SAMN48396118,PRJNA1258884,ID014,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-09,primary,1.0,10.626
+SAMN48396117,PRJNA1258884,ID014,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-06,primary,1.0,10.569
+SAMN48396116,PRJNA1258884,ID015,T1,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-02-19,primary,1.0,11.404
+SAMN48396115,PRJNA1258884,ID015,T2,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-03-19,primary,1.0,8.846
+SAMN48396114,PRJNA1258884,ID015,T3,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-04-16,primary,1.0,4.246
+SAMN48396113,PRJNA1258884,ID015,T4,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-05-14,primary,1.0,11.445
+SAMN48396112,PRJNA1258884,ID016,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-10-29,primary,1.0,0.236
+SAMN48396111,PRJNA1258884,ID016,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-26,primary,1.0,7.228
+SAMN48396110,PRJNA1258884,ID016,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-11,primary,1.0,13.025
+SAMN48396109,PRJNA1258884,ID016,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-08,primary,1.0,10.791
+SAMN48396108,PRJNA1258884,ID017,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-10-30,primary,1.0,12.435
+SAMN48396107,PRJNA1258884,ID017,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-26,primary,1.0,5.91
+SAMN48396106,PRJNA1258884,ID017,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-11,primary,1.0,6.282
+SAMN48396105,PRJNA1258884,ID017,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-08,primary,1.0,2.461
+SAMN48396104,PRJNA1258884,ID018,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-31,primary,1.0,6.969
+SAMN48396103,PRJNA1258884,ID018,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-28,primary,1.0,6.279
+SAMN48396102,PRJNA1258884,ID018,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-03-28,primary,1.0,5.116
+SAMN48396101,PRJNA1258884,ID018,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-04-25,primary,1.0,9.348
+SAMN48396100,PRJNA1258884,ID019,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-24,primary,1.0,9.311
+SAMN48396099,PRJNA1258884,ID019,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-20,primary,1.0,12.213
+SAMN48396098,PRJNA1258884,ID019,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-19,primary,1.0,14.966
+SAMN48396097,PRJNA1258884,ID019,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-17,primary,1.0,5.683
+SAMN48396096,PRJNA1258884,ID020,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-05-28,primary,1.0,7.11
+SAMN48396095,PRJNA1258884,ID020,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-06-25,primary,1.0,8.717
+SAMN48396094,PRJNA1258884,ID020,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-07-23,primary,1.0,5.84
+SAMN48396093,PRJNA1258884,ID020,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-08-20,primary,1.0,8.088
+SAMN48396092,PRJNA1258884,ID021,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-06-04,primary,1.0,9.668
+SAMN48396091,PRJNA1258884,ID021,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-07-02,primary,1.0,12.229
+SAMN48396090,PRJNA1258884,ID021,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-08-06,primary,1.0,8.231
+SAMN48396089,PRJNA1258884,ID021,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-09-03,primary,1.0,8.392
+SAMN48396088,PRJNA1258884,ID022,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-02,primary,1.0,7.718
+SAMN48396087,PRJNA1258884,ID022,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-30,primary,1.0,5.211
+SAMN48396086,PRJNA1258884,ID022,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-14,primary,1.0,6.343
+SAMN48396085,PRJNA1258884,ID022,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-11,primary,1.0,5.001
+SAMN48396084,PRJNA1258884,ID023,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-02,primary,1.0,10.332
+SAMN48396083,PRJNA1258884,ID023,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-11-30,primary,1.0,9.893
+SAMN48396082,PRJNA1258884,ID023,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-14,primary,1.0,8.266
+SAMN48396081,PRJNA1258884,ID023,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-11,primary,1.0,7.909
+SAMN48396080,PRJNA1258884,ID024,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-04,primary,1.0,8.083
+SAMN48396079,PRJNA1258884,ID024,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-12-03,primary,1.0,9.194
+SAMN48396078,PRJNA1258884,ID024,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-13,primary,1.0,9.408
+SAMN48396077,PRJNA1258884,ID024,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-10,primary,1.0,4.966
+SAMN48396076,PRJNA1258884,ID025,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-06-01,primary,1.0,10.005
+SAMN48396075,PRJNA1258884,ID025,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-06-29,primary,1.0,9.8
+SAMN48396074,PRJNA1258884,ID025,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-08-03,primary,1.0,6.879
+SAMN48396073,PRJNA1258884,ID025,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-08-31,primary,1.0,10.925
+SAMN48396072,PRJNA1258884,ID027,T1,adult,8035.5,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-24,primary,1.0,6.786
+SAMN48396071,PRJNA1258884,ID027,T2,adult,8035.5,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-10-22,primary,1.0,4.469
+SAMN48396070,PRJNA1258884,ID027,T3,adult,8035.5,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-19,primary,1.0,4.996
+SAMN48396069,PRJNA1258884,ID027,T4,adult,8035.5,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-17,primary,1.0,6.386
+SAMN48396068,PRJNA1258884,ID028,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-11,primary,1.0,7.013
+SAMN48396067,PRJNA1258884,ID028,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-09,primary,1.0,7.662
+SAMN48396066,PRJNA1258884,ID028,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-01-14,primary,1.0,8.5
+SAMN48396065,PRJNA1258884,ID028,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-02-16,primary,1.0,5.35
+SAMN48396064,PRJNA1258884,ID029,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-30,primary,1.0,5.459
+SAMN48396063,PRJNA1258884,ID029,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-28,primary,1.0,4.272
+SAMN48396062,PRJNA1258884,ID029,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-25,primary,1.0,7.63
+SAMN48396061,PRJNA1258884,ID029,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-23,primary,1.0,4.747
+SAMN48396060,PRJNA1258884,ID030,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-06-14,primary,1.0,7.963
+SAMN48396059,PRJNA1258884,ID030,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-07-14,primary,1.0,3.465
+SAMN48396058,PRJNA1258884,ID030,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-08-11,primary,1.0,7.319
+SAMN48396057,PRJNA1258884,ID030,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-09-08,primary,1.0,8.288
+SAMN48396056,PRJNA1258884,ID031,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-24,primary,1.0,7.57
+SAMN48396055,PRJNA1258884,ID031,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-21,primary,1.0,7.204
+SAMN48396054,PRJNA1258884,ID031,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-19,primary,1.0,6.875
+SAMN48396053,PRJNA1258884,ID031,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-17,primary,1.0,8.775
+SAMN48396052,PRJNA1258884,ID032,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-18,primary,1.0,6.72
+SAMN48396051,PRJNA1258884,ID032,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-16,primary,1.0,7.678
+SAMN48396050,PRJNA1258884,ID032,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-13,primary,1.0,7.877
+SAMN48396049,PRJNA1258884,ID032,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-10,primary,1.0,7.278
+SAMN48396048,PRJNA1258884,ID033,T1,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-05-31,primary,1.0,8.332
+SAMN48396047,PRJNA1258884,ID033,T2,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-06-28,primary,1.0,7.696
+SAMN48396046,PRJNA1258884,ID033,T3,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-07-26,primary,1.0,4.454
+SAMN48396045,PRJNA1258884,ID033,T4,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-08-23,primary,1.0,8.491
+SAMN48396044,PRJNA1258884,ID034,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-05-27,primary,1.0,6.317
+SAMN48396043,PRJNA1258884,ID034,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-06-25,primary,1.0,4.821
+SAMN48396042,PRJNA1258884,ID034,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-07-23,primary,1.0,7.656
+SAMN48396041,PRJNA1258884,ID034,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-08-20,primary,1.0,7.962
+SAMN48396040,PRJNA1258884,ID035,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-20,primary,1.0,8.254
+SAMN48396039,PRJNA1258884,ID035,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-17,primary,1.0,8.435
+SAMN48396038,PRJNA1258884,ID035,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-03-17,primary,1.0,5.453
+SAMN48396037,PRJNA1258884,ID035,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-04-14,primary,1.0,6.001
+SAMN48396036,PRJNA1258884,ID036,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-27,primary,1.0,9.123
+SAMN48396035,PRJNA1258884,ID036,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-25,primary,1.0,5.053
+SAMN48396034,PRJNA1258884,ID036,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-22,primary,1.0,5.671
+SAMN48396033,PRJNA1258884,ID036,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-20,primary,1.0,5.536
+SAMN48396032,PRJNA1258884,ID037,T1,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-17,primary,1.0,5.265
+SAMN48396031,PRJNA1258884,ID037,T2,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-15,primary,1.0,4.535
+SAMN48396030,PRJNA1258884,ID037,T3,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-12,primary,1.0,8.553
+SAMN48396029,PRJNA1258884,ID037,T4,adult,14233.8,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-09,primary,1.0,5.386
+SAMN48396028,PRJNA1258884,ID038,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-29,primary,1.0,5.471
+SAMN48396027,PRJNA1258884,ID038,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-10-27,primary,1.0,4.998
+SAMN48396026,PRJNA1258884,ID038,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-24,primary,1.0,7.055
+SAMN48396025,PRJNA1258884,ID038,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-22,primary,1.0,3.822
+SAMN48396024,PRJNA1258884,ID040,T1,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-17,primary,1.0,8.844
+SAMN48396023,PRJNA1258884,ID040,T2,neonate,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-15,primary,1.0,6.92
+SAMN48396022,PRJNA1258884,ID040,T3,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-12,primary,1.0,6.456
+SAMN48396021,PRJNA1258884,ID040,T4,neonate,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-09,primary,1.0,7.168
+SAMN48396020,PRJNA1258884,ID042,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-09-20,primary,1.0,6.658
+SAMN48396019,PRJNA1258884,ID042,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-10-18,primary,1.0,3.754
+SAMN48396018,PRJNA1258884,ID042,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-15,primary,1.0,9.216
+SAMN48396017,PRJNA1258884,ID042,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-13,primary,1.0,3.688
+SAMN48396016,PRJNA1258884,ID043,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-28,primary,1.0,8.775
+SAMN48396015,PRJNA1258884,ID043,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-26,primary,1.0,5.966
+SAMN48396014,PRJNA1258884,ID043,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-23,primary,1.0,8.364
+SAMN48396013,PRJNA1258884,ID043,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-21,primary,1.0,7.471
+SAMN48396012,PRJNA1258884,ID044,T1,adult,12409.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-16,primary,1.0,3.808
+SAMN48396011,PRJNA1258884,ID044,T2,adult,12409.0,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-14,primary,1.0,3.27
+SAMN48396010,PRJNA1258884,ID044,T3,adult,12409.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-01-19,primary,1.0,4.914
+SAMN48396009,PRJNA1258884,ID044,T4,adult,12409.0,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-02-16,primary,1.0,20.988
+SAMN48396008,PRJNA1258884,ID045,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-05-31,primary,1.0,11.261
+SAMN48396007,PRJNA1258884,ID045,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-06-28,primary,1.0,7.063
+SAMN48396006,PRJNA1258884,ID045,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-02,primary,1.0,6.683
+SAMN48396005,PRJNA1258884,ID045,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-09-30,primary,1.0,7.171
+SAMN48396004,PRJNA1258884,ID046,T1,adult,19717.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-10-19,primary,1.0,6.814
+SAMN48396003,PRJNA1258884,ID046,T2,adult,19717.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-11-16,primary,1.0,7.209
+SAMN48396002,PRJNA1258884,ID046,T3,adult,19717.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-14,primary,1.0,9.36
+SAMN48396001,PRJNA1258884,ID046,T4,adult,19717.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-11,primary,1.0,4.796
+SAMN48396000,PRJNA1258884,ID047,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-30,primary,1.0,8.592
+SAMN48395999,PRJNA1258884,ID047,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-27,primary,1.0,7.978
+SAMN48395998,PRJNA1258884,ID047,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-24,primary,1.0,7.53
+SAMN48395997,PRJNA1258884,ID047,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-22,primary,1.0,19.781
+SAMN48395996,PRJNA1258884,ID048,T1,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-28,primary,1.0,7.758
+SAMN48395995,PRJNA1258884,ID048,T2,neonate,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-26,primary,1.0,6.158
+SAMN48395994,PRJNA1258884,ID048,T3,neonate,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-23,primary,1.0,7.89
+SAMN48395993,PRJNA1258884,ID048,T4,neonate,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-21,primary,1.0,5.855
+SAMN48395992,PRJNA1258884,ID049,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-09-28,primary,1.0,6.205
+SAMN48395991,PRJNA1258884,ID049,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-10-26,primary,1.0,8.21
+SAMN48395990,PRJNA1258884,ID049,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-23,primary,1.0,7.562
+SAMN48395989,PRJNA1258884,ID049,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-21,primary,1.0,9.459
+SAMN48395988,PRJNA1258884,ID050,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-10-19,primary,1.0,6.589
+SAMN48395987,PRJNA1258884,ID050,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-11-16,primary,1.0,6.233
+SAMN48395986,PRJNA1258884,ID050,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-14,primary,1.0,5.825
+SAMN48395985,PRJNA1258884,ID050,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-11,primary,1.0,4.326
+SAMN48395984,PRJNA1258884,ID051,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-10-19,primary,1.0,3.942
+SAMN48395983,PRJNA1258884,ID051,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-11-16,primary,1.0,4.037
+SAMN48395982,PRJNA1258884,ID051,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-14,primary,1.0,4.807
+SAMN48395981,PRJNA1258884,ID051,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-11,primary,1.0,10.066
+SAMN48395980,PRJNA1258884,ID052,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-28,primary,1.0,18.272
+SAMN48395979,PRJNA1258884,ID052,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-26,primary,1.0,5.701
+SAMN48395978,PRJNA1258884,ID052,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-23,primary,1.0,11.724
+SAMN48395977,PRJNA1258884,ID052,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-21,primary,1.0,7.603
+SAMN48395976,PRJNA1258884,ID053,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-09-13,primary,1.0,8.286
+SAMN48395975,PRJNA1258884,ID053,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-10-11,primary,1.0,5.755
+SAMN48395974,PRJNA1258884,ID053,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-08,primary,1.0,6.068
+SAMN48395973,PRJNA1258884,ID053,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-06,primary,1.0,6.469
+SAMN48395972,PRJNA1258884,ID054,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-21,primary,1.0,6.451
+SAMN48395971,PRJNA1258884,ID054,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-18,primary,1.0,4.729
+SAMN48395970,PRJNA1258884,ID054,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-16,primary,1.0,3.066
+SAMN48395969,PRJNA1258884,ID054,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-13,primary,1.0,4.805
+SAMN48395968,PRJNA1258884,ID055,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-10,primary,1.0,5.806
+SAMN48395967,PRJNA1258884,ID055,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-07,primary,1.0,5.294
+SAMN48395966,PRJNA1258884,ID055,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-03-07,primary,1.0,6.553
+SAMN48395965,PRJNA1258884,ID055,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-04-04,primary,1.0,7.118
+SAMN48395964,PRJNA1258884,ID056,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-24,primary,1.0,6.426
+SAMN48395963,PRJNA1258884,ID056,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-22,primary,1.0,9.345
+SAMN48395962,PRJNA1258884,ID056,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-19,primary,1.0,11.466
+SAMN48395961,PRJNA1258884,ID056,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-16,primary,1.0,7.831
+SAMN48395960,PRJNA1258884,ID057,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-09-13,primary,1.0,7.492
+SAMN48395959,PRJNA1258884,ID057,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-10-11,primary,1.0,9.701
+SAMN48395958,PRJNA1258884,ID057,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-11-08,primary,1.0,6.634
+SAMN48395957,PRJNA1258884,ID057,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-12-06,primary,1.0,4.307
+SAMN48395956,PRJNA1258884,ID058,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-09-13,primary,1.0,5.259
+SAMN48395955,PRJNA1258884,ID058,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-10-11,primary,1.0,5.343
+SAMN48395954,PRJNA1258884,ID058,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-08,primary,1.0,7.75
+SAMN48395953,PRJNA1258884,ID058,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-06,primary,1.0,3.29
+SAMN48395952,PRJNA1258884,ID059,T1,adult,20454.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-18,primary,1.0,5.298
+SAMN48395951,PRJNA1258884,ID059,T2,adult,20454.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-15,primary,1.0,4.514
+SAMN48395950,PRJNA1258884,ID059,T3,adult,20454.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-13,primary,1.0,4.272
+SAMN48395949,PRJNA1258884,ID059,T4,adult,20454.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-10,primary,1.0,5.553
+SAMN48395948,PRJNA1258884,ID060,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-29,primary,1.0,7.825
+SAMN48395947,PRJNA1258884,ID060,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-27,primary,1.0,4.398
+SAMN48395946,PRJNA1258884,ID060,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-24,primary,1.0,6.955
+SAMN48395945,PRJNA1258884,ID060,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-22,primary,1.0,4.972
+SAMN48395944,PRJNA1258884,ID062,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-29,primary,1.0,5.528
+SAMN48395943,PRJNA1258884,ID062,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-27,primary,1.0,8.015
+SAMN48395942,PRJNA1258884,ID062,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-01-19,primary,1.0,2.787
+SAMN48395941,PRJNA1258884,ID062,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-02-16,primary,1.0,2.46
+SAMN48395940,PRJNA1258884,ID063,T1,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-17,primary,1.0,9.475
+SAMN48395939,PRJNA1258884,ID063,T2,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-15,primary,1.0,4.839
+SAMN48395938,PRJNA1258884,ID063,T3,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-01-12,primary,1.0,5.079
+SAMN48395937,PRJNA1258884,ID063,T4,adult,7305.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-02-12,primary,1.0,4.867
+SAMN48395936,PRJNA1258884,ID064,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-17,primary,1.0,3.789
+SAMN48395935,PRJNA1258884,ID064,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-15,primary,1.0,4.389
+SAMN48395934,PRJNA1258884,ID064,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-01-12,primary,1.0,4.495
+SAMN48395933,PRJNA1258884,ID064,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-02-12,primary,1.0,4.291
+SAMN48395932,PRJNA1258884,ID065,T1,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-18,primary,1.0,5.574
+SAMN48395931,PRJNA1258884,ID065,T2,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-16,primary,1.0,6.752
+SAMN48395930,PRJNA1258884,ID065,T3,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-13,primary,1.0,3.306
+SAMN48395929,PRJNA1258884,ID065,T4,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-10,primary,1.0,2.591
+SAMN48395928,PRJNA1258884,ID066,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2020-09-13,primary,1.0,2.548
+SAMN48395927,PRJNA1258884,ID066,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2020-10-11,primary,1.0,5.347
+SAMN48395926,PRJNA1258884,ID066,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020-11-08,primary,1.0,1.203
+SAMN48395925,PRJNA1258884,ID066,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020-12-06,primary,1.0,5.291
+SAMN48395924,PRJNA1258884,ID067,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-18,primary,1.0,11.188
+SAMN48395923,PRJNA1258884,ID067,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-16,primary,1.0,5.248
+SAMN48395922,PRJNA1258884,ID067,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2020/2021,primary,1.0,8.808
+SAMN48395921,PRJNA1258884,ID067,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2020/2021,primary,1.0,6.586
+SAMN48395920,PRJNA1258884,ID068,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-03-24,primary,1.0,6.942
+SAMN48395919,PRJNA1258884,ID068,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-04-22,primary,1.0,6.511
+SAMN48395918,PRJNA1258884,ID068,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-05-20,primary,1.0,7.511
+SAMN48395917,PRJNA1258884,ID068,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-06-17,primary,1.0,9.092
+SAMN48395916,PRJNA1258884,ID069,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-16,primary,1.0,9.439
+SAMN48395915,PRJNA1258884,ID069,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-14,primary,1.0,6.364
+SAMN48395914,PRJNA1258884,ID069,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-11,primary,1.0,7.862
+SAMN48395913,PRJNA1258884,ID069,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-08,primary,1.0,5.131
+SAMN48395912,PRJNA1258884,ID070,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-09-22,primary,1.0,4.934
+SAMN48395911,PRJNA1258884,ID070,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-10-20,primary,1.0,8.62
+SAMN48395910,PRJNA1258884,ID070,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-23,primary,1.0,12.158
+SAMN48395909,PRJNA1258884,ID070,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-21,primary,1.0,8.919
+SAMN48395908,PRJNA1258884,ID071,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-04-12,primary,1.0,6.038
+SAMN48395907,PRJNA1258884,ID071,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-05-10,primary,1.0,6.681
+SAMN48395906,PRJNA1258884,ID071,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-06-07,primary,1.0,6.004
+SAMN48395905,PRJNA1258884,ID071,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-07-05,primary,1.0,4.516
+SAMN48395904,PRJNA1258884,ID072,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-08-30,primary,1.0,6.789
+SAMN48395903,PRJNA1258884,ID072,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-09-27,primary,1.0,6.327
+SAMN48395902,PRJNA1258884,ID072,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-10-25,primary,1.0,6.941
+SAMN48395901,PRJNA1258884,ID072,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-11-22,primary,1.0,5.863
+SAMN48395900,PRJNA1258884,ID073,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-16,primary,1.0,7.96
+SAMN48395899,PRJNA1258884,ID073,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-14,primary,1.0,6.559
+SAMN48395898,PRJNA1258884,ID073,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-11,primary,1.0,2.659
+SAMN48395897,PRJNA1258884,ID073,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-08,primary,1.0,4.444
+SAMN48395896,PRJNA1258884,ID074,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-24,primary,1.0,5.944
+SAMN48395895,PRJNA1258884,ID074,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-22,primary,1.0,5.666
+SAMN48395894,PRJNA1258884,ID074,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-19,primary,1.0,10.371
+SAMN48395893,PRJNA1258884,ID074,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-16,primary,1.0,10.507
+SAMN48395892,PRJNA1258884,ID075,T1,adult,11309.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-31,primary,1.0,15.087
+SAMN48395891,PRJNA1258884,ID075,T2,adult,11309.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-28,primary,1.0,6.764
+SAMN48395890,PRJNA1258884,ID075,T3,adult,11309.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-03-28,primary,1.0,8.481
+SAMN48395889,PRJNA1258884,ID075,T4,adult,11309.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-04-25,primary,1.0,6.722
+SAMN48395888,PRJNA1258884,ID077,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-22,primary,1.0,9.374
+SAMN48395887,PRJNA1258884,ID077,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-20,primary,1.0,9.622
+SAMN48395886,PRJNA1258884,ID077,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-17,primary,1.0,8.805
+SAMN48395885,PRJNA1258884,ID077,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-14,primary,1.0,6.93
+SAMN48395884,PRJNA1258884,ID078,T1,adult,22283.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-27,primary,1.0,6.006
+SAMN48395883,PRJNA1258884,ID078,T2,adult,22283.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-24,primary,1.0,6.926
+SAMN48395882,PRJNA1258884,ID078,T3,adult,22283.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-22,primary,1.0,10.703
+SAMN48395881,PRJNA1258884,ID078,T4,adult,22283.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-19,primary,1.0,7.269
+SAMN48395880,PRJNA1258884,ID079,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-20,primary,1.0,7.36
+SAMN48395879,PRJNA1258884,ID079,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-17,primary,1.0,4.828
+SAMN48395878,PRJNA1258884,ID079,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-15,primary,1.0,6.909
+SAMN48395877,PRJNA1258884,ID079,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-12,primary,1.0,7.289
+SAMN48395876,PRJNA1258884,ID080,T1,adult,11309.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-18,primary,1.0,7.582
+SAMN48395875,PRJNA1258884,ID080,T2,adult,11309.0,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-16,primary,1.0,7.727
+SAMN48395874,PRJNA1258884,ID080,T3,adult,11309.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-13,primary,1.0,10.323
+SAMN48395873,PRJNA1258884,ID080,T4,adult,11309.0,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-11,primary,1.0,8.512
+SAMN48395872,PRJNA1258884,ID081,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-20,primary,1.0,7.305
+SAMN48395871,PRJNA1258884,ID081,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-17,primary,1.0,4.748
+SAMN48395870,PRJNA1258884,ID081,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-15,primary,1.0,6.498
+SAMN48395869,PRJNA1258884,ID081,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-12,primary,1.0,8.97
+SAMN48395868,PRJNA1258884,ID082,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-18,primary,1.0,7.884
+SAMN48395867,PRJNA1258884,ID082,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-16,primary,1.0,9.553
+SAMN48395866,PRJNA1258884,ID082,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-13,primary,1.0,7.179
+SAMN48395865,PRJNA1258884,ID082,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-10,primary,1.0,9.095
+SAMN48395864,PRJNA1258884,ID083,T1,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-15,primary,1.0,8.747
+SAMN48395863,PRJNA1258884,ID083,T2,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-13,primary,1.0,2.837
+SAMN48395862,PRJNA1258884,ID083,T3,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-10,primary,1.0,7.443
+SAMN48395861,PRJNA1258884,ID083,T4,adult,18262.5,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-07,primary,1.0,9.996
+SAMN48395860,PRJNA1258884,ID084,T1,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-18,primary,1.0,9.121
+SAMN48395859,PRJNA1258884,ID084,T2,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-15,primary,1.0,11.894
+SAMN48395858,PRJNA1258884,ID084,T3,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-13,primary,1.0,9.346
+SAMN48395857,PRJNA1258884,ID084,T4,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-10,primary,1.0,8.359
+SAMN48395856,PRJNA1258884,ID085,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-18,primary,1.0,6.304
+SAMN48395855,PRJNA1258884,ID085,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-16,primary,1.0,4.456
+SAMN48395854,PRJNA1258884,ID085,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-13,primary,1.0,7.435
+SAMN48395853,PRJNA1258884,ID085,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-10,primary,1.0,11.133
+SAMN48395852,PRJNA1258884,ID086,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-22,primary,1.0,8.684
+SAMN48395851,PRJNA1258884,ID086,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-19,primary,1.0,8.628
+SAMN48395850,PRJNA1258884,ID086,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-17,primary,1.0,13.494
+SAMN48395849,PRJNA1258884,ID086,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-14,primary,1.0,6.039
+SAMN48395848,PRJNA1258884,ID087,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-22,primary,1.0,16.5
+SAMN48395847,PRJNA1258884,ID087,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-19,primary,1.0,11.623
+SAMN48395846,PRJNA1258884,ID087,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-17,primary,1.0,5.144
+SAMN48395845,PRJNA1258884,ID087,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-14,primary,1.0,16.95
+SAMN48395844,PRJNA1258884,ID088,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-18,primary,1.0,9.084
+SAMN48395843,PRJNA1258884,ID088,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-16,primary,1.0,6.899
+SAMN48395842,PRJNA1258884,ID088,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-13,primary,1.0,11.284
+SAMN48395841,PRJNA1258884,ID088,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-10,primary,1.0,9.939
+SAMN48395840,PRJNA1258884,ID089,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-18,primary,1.0,7.563
+SAMN48395839,PRJNA1258884,ID089,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-16,primary,1.0,10.129
+SAMN48395838,PRJNA1258884,ID089,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-13,primary,1.0,20.859
+SAMN48395837,PRJNA1258884,ID089,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-10,primary,1.0,10.048
+SAMN48395836,PRJNA1258884,ID090,T1,adult,18262.5,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-21,primary,1.0,3.953
+SAMN48395835,PRJNA1258884,ID090,T2,adult,18262.5,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-18,primary,1.0,6.16
+SAMN48395834,PRJNA1258884,ID090,T3,adult,18262.5,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-16,primary,1.0,5.952
+SAMN48395833,PRJNA1258884,ID090,T4,adult,18262.5,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-13,primary,1.0,4.373
+SAMN48395832,PRJNA1258884,ID091,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-10-21,primary,1.0,7.726
+SAMN48395831,PRJNA1258884,ID091,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-11-18,primary,1.0,9.435
+SAMN48395830,PRJNA1258884,ID091,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-16,primary,1.0,3.9
+SAMN48395829,PRJNA1258884,ID091,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-13,primary,1.0,8.682
+SAMN48395828,PRJNA1258884,ID092,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-19,primary,1.0,11.591
+SAMN48395827,PRJNA1258884,ID092,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-17,primary,1.0,6.369
+SAMN48395826,PRJNA1258884,ID092,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-14,primary,1.0,7.56
+SAMN48395825,PRJNA1258884,ID092,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-11,primary,1.0,8.212
+SAMN48395824,PRJNA1258884,ID094,T1,adult,19717.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-14,primary,1.0,7.818
+SAMN48395823,PRJNA1258884,ID094,T2,adult,19717.0,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-11,primary,1.0,6.635
+SAMN48395822,PRJNA1258884,ID094,T3,adult,19717.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-02-08,primary,1.0,9.335
+SAMN48395821,PRJNA1258884,ID094,T4,adult,19717.0,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-03-08,primary,1.0,6.318
+SAMN48395820,PRJNA1258884,ID095,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-18,primary,1.0,6.213
+SAMN48395819,PRJNA1258884,ID095,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-16,primary,1.0,6.208
+SAMN48395818,PRJNA1258884,ID095,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-13,primary,1.0,7.832
+SAMN48395817,PRJNA1258884,ID095,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-10,primary,1.0,6.156
+SAMN48395816,PRJNA1258884,ID096,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-19,primary,1.0,10.508
+SAMN48395815,PRJNA1258884,ID096,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-17,primary,1.0,8.068
+SAMN48395814,PRJNA1258884,ID096,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-14,primary,1.0,8.331
+SAMN48395813,PRJNA1258884,ID096,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-11,primary,1.0,3.493
+SAMN48395812,PRJNA1258884,ID097,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-19,primary,1.0,6.372
+SAMN48395811,PRJNA1258884,ID097,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-17,primary,1.0,3.714
+SAMN48395810,PRJNA1258884,ID097,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-14,primary,1.0,13.719
+SAMN48395809,PRJNA1258884,ID097,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-11,primary,1.0,4.773
+SAMN48395808,PRJNA1258884,ID098,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-16,primary,1.0,5.209
+SAMN48395807,PRJNA1258884,ID098,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-14,primary,1.0,7.212
+SAMN48395806,PRJNA1258884,ID098,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-11,primary,1.0,7.884
+SAMN48395805,PRJNA1258884,ID098,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-08,primary,1.0,8.77
+SAMN48395804,PRJNA1258884,ID099,T1,adult,8035.5,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-17,primary,1.0,5.868
+SAMN48395803,PRJNA1258884,ID099,T2,adult,8035.5,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-15,primary,1.0,7.596
+SAMN48395802,PRJNA1258884,ID099,T3,adult,8035.5,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-12,primary,1.0,9.353
+SAMN48395801,PRJNA1258884,ID099,T4,adult,8035.5,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-09,primary,1.0,7.926
+SAMN48395800,PRJNA1258884,ID100,T1,adult,17520.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-22,primary,1.0,7.095
+SAMN48395799,PRJNA1258884,ID100,T2,adult,17520.0,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-20,primary,1.0,4.965
+SAMN48395798,PRJNA1258884,ID100,T3,adult,17520.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-17,primary,1.0,7.096
+SAMN48395797,PRJNA1258884,ID100,T4,adult,17520.0,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-14,primary,1.0,10.97
+SAMN48395796,PRJNA1258884,ID101,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-03-25,primary,1.0,5.161
+SAMN48395795,PRJNA1258884,ID101,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-04-22,primary,1.0,8.451
+SAMN48395794,PRJNA1258884,ID101,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-05-20,primary,1.0,8.188
+SAMN48395793,PRJNA1258884,ID101,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-06-17,primary,1.0,6.5
+SAMN48395792,PRJNA1258884,ID102,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-16,primary,1.0,4.704
+SAMN48395791,PRJNA1258884,ID102,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-13,primary,1.0,6.748
+SAMN48395790,PRJNA1258884,ID102,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-11,primary,1.0,6.793
+SAMN48395789,PRJNA1258884,ID102,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-08,primary,1.0,4.837
+SAMN48395788,PRJNA1258884,ID103,T1,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-24,primary,1.0,6.059
+SAMN48395787,PRJNA1258884,ID103,T2,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-22,primary,1.0,7.629
+SAMN48395786,PRJNA1258884,ID103,T3,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-01-26,primary,1.0,2.503
+SAMN48395785,PRJNA1258884,ID103,T4,adult,19350.8,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-02-23,primary,1.0,4.091
+SAMN48395784,PRJNA1258884,ID104,T1,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-11-24,primary,1.0,5.758
+SAMN48395783,PRJNA1258884,ID104,T2,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2021-12-22,primary,1.0,6.524
+SAMN48395782,PRJNA1258884,ID104,T3,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-19,primary,1.0,6.535
+SAMN48395781,PRJNA1258884,ID104,T4,adult,8766.0,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-16,primary,1.0,4.64
+SAMN48395780,PRJNA1258884,ID105,T1,elderly,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-11-25,primary,1.0,7.225
+SAMN48395779,PRJNA1258884,ID105,T2,elderly,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2021-12-23,primary,1.0,7.811
+SAMN48395778,PRJNA1258884,ID105,T3,elderly,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-20,primary,1.0,6.963
+SAMN48395777,PRJNA1258884,ID105,T4,elderly,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-17,primary,1.0,5.678
+SAMN48395776,PRJNA1258884,ID106,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-13,primary,1.0,2.524
+SAMN48395775,PRJNA1258884,ID106,T2,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-10,primary,1.0,6.719
+SAMN48395774,PRJNA1258884,ID106,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-02-07,primary,1.0,6.742
+SAMN48395773,PRJNA1258884,ID106,T4,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-03-07,primary,1.0,9.68
+SAMN48395772,PRJNA1258884,ID107,T1,neonate,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-21,primary,1.0,6.635
+SAMN48395771,PRJNA1258884,ID107,T2,neonate,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-14,primary,1.0,4.977
+SAMN48395770,PRJNA1258884,ID107,T3,neonate,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-02-11,primary,1.0,9.165
+SAMN48395769,PRJNA1258884,ID107,T4,neonate,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-03-11,primary,1.0,4.865
+SAMN48395768,PRJNA1258884,ID109,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2021-12-13,primary,1.0,8.712
+SAMN48395767,PRJNA1258884,ID109,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-01-10,primary,1.0,9.58
+SAMN48395766,PRJNA1258884,ID109,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-02-07,primary,1.0,9.089
+SAMN48395765,PRJNA1258884,ID109,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-03-07,primary,1.0,8.564
+SAMN48395764,PRJNA1258884,ID110,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2021-12-15,primary,1.0,7.501
+SAMN48395763,PRJNA1258884,ID110,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-01-12,primary,1.0,6.377
+SAMN48395762,PRJNA1258884,ID110,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-02-09,primary,1.0,8.928
+SAMN48395761,PRJNA1258884,ID110,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-03-09,primary,1.0,6.764
+SAMN48395760,PRJNA1258884,ID112,T1,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-17,primary,1.0,10.462
+SAMN48395759,PRJNA1258884,ID112,T2,adult,,female,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-14,primary,1.0,6.01
+SAMN48395758,PRJNA1258884,ID112,T3,adult,,female,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-14,primary,1.0,2.277
+SAMN48395757,PRJNA1258884,ID112,T4,adult,,female,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-11,primary,1.0,5.112
+SAMN48395756,PRJNA1258884,ID113,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-14,primary,1.0,4.679
+SAMN48395755,PRJNA1258884,ID113,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-11,primary,1.0,4.1
+SAMN48395754,PRJNA1258884,ID113,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-25,primary,1.0,9.609
+SAMN48395753,PRJNA1258884,ID113,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-22,primary,1.0,5.584
+SAMN48395752,PRJNA1258884,ID114,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-01-12,primary,1.0,6.597
+SAMN48395751,PRJNA1258884,ID114,T2,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-02-09,primary,1.0,0.238
+SAMN48395750,PRJNA1258884,ID114,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-03-09,primary,1.0,4.565
+SAMN48395749,PRJNA1258884,ID114,T4,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-04-06,primary,1.0,9.794
+SAMN48395748,PRJNA1258884,ID116,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-14,primary,1.0,6.202
+SAMN48395747,PRJNA1258884,ID116,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-11,primary,1.0,3.767
+SAMN48395746,PRJNA1258884,ID116,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-11,primary,1.0,8.129
+SAMN48395745,PRJNA1258884,ID116,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-08,primary,1.0,7.886
+SAMN48395744,PRJNA1258884,ID117,T1,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-19,primary,1.0,6.405
+SAMN48395743,PRJNA1258884,ID117,T2,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-16,primary,1.0,6.9
+SAMN48395742,PRJNA1258884,ID117,T3,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-16,primary,1.0,7.06
+SAMN48395741,PRJNA1258884,ID117,T4,adult,19350.8,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-13,primary,1.0,10.062
+SAMN48395740,PRJNA1258884,ID118,T1,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-27,primary,1.0,16.064
+SAMN48395739,PRJNA1258884,ID118,T2,adult,,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-24,primary,1.0,7.723
+SAMN48395738,PRJNA1258884,ID118,T3,adult,,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-24,primary,1.0,5.081
+SAMN48395737,PRJNA1258884,ID118,T4,adult,,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-21,primary,1.0,6.628
+SAMN48395736,PRJNA1258884,ID119,T1,adult,7305.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before daily yogurt intervention (baseline),no,2022-01-20,primary,1.0,8.63
+SAMN48395735,PRJNA1258884,ID119,T2,adult,7305.0,male,DE,healthy_control,119 healthy volunteers,probiotic,after 4 weeks of daily yogurt consumption,no,2022-02-17,primary,1.0,10.392
+SAMN48395734,PRJNA1258884,ID119,T3,adult,7305.0,male,DE,healthy_control,119 healthy volunteers,no_intervention,before yogurt + rolled oat intervention (baseline),no,2022-03-17,primary,1.0,5.38
+SAMN48395733,PRJNA1258884,ID119,T4,adult,7305.0,male,DE,healthy_control,119 healthy volunteers,synbiotic,after 4 weeks of yogurt plus rolled oats,no,2022-04-14,primary,1.0,10.296

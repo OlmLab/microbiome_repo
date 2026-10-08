@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Studies — Microbiome Repo</title>
+<meta name="description" content="All 2,886 human gut shotgun-metagenome studies of the catalog (all ages) with sample counts, age categories, health conditions, curation depth and per-field coverage.">
+<meta name="catalog-release" content="data-v1.15.0">
+<meta name="catalog-release-id" content="R2026.16">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/studies/index.html">
+<meta name="catalog-package-version" content="1.15.0">
+<meta name="catalog-build-date" content="2026-10-08">
+<link rel="stylesheet" href="../static/site.css">
+
+<link rel="stylesheet" href="../static/vendor/dataTables.dataTables-2.1.8.min.css" integrity="sha384-bK2L0Q3Sn2fB8YZTIjKejpTUJXd8xNtKn4RcIm7KM3EX3orMlOI31hwtNH0iyky/" crossorigin="anonymous">
+
+
+
+</head>
+<body>
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" class="active">Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › Studies</div>
+
+<h1>Project sheet <span class="small muted">(2,886 projects)</span></h1>
+<p class="lead">Every study in the catalog — an INSDC BioProject (ENA, NCBI SRA or DDBJ) of human gut shotgun metagenomes, all ages — with its curated samples, age-category mix, most frequent health condition and the interventions the study administered (FMT, probiotic, diet …). Click an accession for the study page (evidence, coverage per field, papers, sequencing, sample table, downloads). <span class="mono">Gbp / sample</span> is the median sequencing depth per sample (bases summed over each sample's runs, <span class="mono">gut_runs.parquet</span>). The table is loaded from <a href="../data/studies_index.json">studies_index.json</a>; the full study table with every column is <a href="../data/gut_studies.parquet" download>gut_studies.parquet</a>.</p>
+<div class="btns"><a class="btn sec" href="../data/gut_studies.parquet" download>Download study table (parquet)</a> <a class="btn sec" href="../samples/index.html">Open the sample explorer</a></div>
+<form class="pfilters" id="pfilters" onsubmit="return false">
+<label>Health condition <select id="pf-condition"><option value="">any</option><option value="allergy_or_atopy">Allergy / atopy / asthma</option><option value="autoimmune_inflammatory">Autoimmune / inflammatory (RA</option><option value="cardiometabolic_other">Other cardiometabolic (hypertension</option><option value="colorectal_adenoma">Colorectal adenoma / polyp</option><option value="colorectal_cancer">Colorectal cancer</option><option value="crohns_disease">Crohn&#39;s disease</option><option value="gi_infection_or_diarrhoea">GI infection / diarrhoea (incl. C. difficile)</option><option value="healthy_control">Healthy / control</option><option value="ibd_or_gi_disease">IBD or GI disease (infant)</option><option value="ibd_unspecified">IBD (unspecified)</option><option value="ibs">Irritable bowel syndrome</option><option value="intervention_cohort">Intervention cohort (drug</option><option value="kidney_disease">Kidney disease</option><option value="liver_disease">Liver disease (cirrhosis</option><option value="malnutrition">Malnutrition / undernutrition</option><option value="nec">Necrotising enterocolitis (infant)</option><option value="neurological_psychiatric">Neurological / psychiatric (PD</option><option value="obesity">Obesity / overweight</option><option value="other_cancer">Other cancer (incl. immunotherapy cohorts)</option><option value="other_disease">Other disease / condition</option><option value="other_infection">Other infection (HIV</option><option value="pregnancy_postpartum">Pregnancy / postpartum</option><option value="preterm_nicu">Preterm / NICU (infant)</option><option value="sepsis_or_infection">Sepsis / infection (infant)</option><option value="transplant_or_immunocompromised">Transplant / immunocompromised (HSCT</option><option value="type1_diabetes">Type 1 diabetes</option><option value="type2_diabetes">Type 2 diabetes / prediabetes</option><option value="ulcerative_colitis">Ulcerative colitis</option></select></label>
+<label>Intervention <select id="pf-intervention"><option value="">any</option><option value="__any__">any intervention</option><option value="fmt">Faecal microbiota transplantation (162)</option><option value="probiotic">Probiotic (live microorganisms; single strain or mixture) (105)</option><option value="prebiotic_or_fibre">Prebiotic / dietary fibre supplement (61)</option><option value="synbiotic">Synbiotic (probiotic + prebiotic) (14)</option><option value="live_biotherapeutic">Defined bacterial consortium / live biotherapeutic product (13)</option><option value="antibiotic">Antibiotic given as the study intervention (incl. eradication therapy (107)</option><option value="diet_intervention">Controlled / prescribed diet or feeding regimen (142)</option><option value="dietary_supplement">Non-microbial dietary supplement (vitamins (48)</option><option value="drug_therapy">Non-antibiotic pharmaceutical given as the study intervention (metformin (118)</option><option value="surgery">Surgical procedure studied before/after (bariatric surgery (58)</option><option value="bowel_preparation">Bowel cleansing / colonoscopy preparation (10)</option><option value="exercise">Exercise / physical-training programme (12)</option><option value="vaccine">Vaccination as the study intervention (19)</option><option value="phage_therapy">Bacteriophage therapy (4)</option><option value="other_intervention">Other administered intervention (see intervention_detail) (51)</option><option value="__none__">none administered</option></select></label>
+<label>Design <select id="pf-design"><option value="">any</option><option value="__controlled__">any controlled design (RCT, crossover, controlled)</option><option value="randomized_controlled_trial">randomized controlled trial</option><option value="non_randomized_controlled">non randomized controlled</option><option value="crossover">crossover</option><option value="single_arm_before_after">single arm before after</option><option value="observational_with_procedure">observational with procedure</option></select></label>
+<label>Age <select id="pf-age"><option value="">any</option><option value="neonate">neonate</option><option value="infant">infant</option><option value="child">child</option><option value="adolescent">adolescent</option><option value="adult">adult</option><option value="elderly">elderly</option></select></label>
+<label>Country <input id="pf-country" type="search" placeholder="e.g. China" size="10"></label>
+<label>Min samples <input id="pf-min_samples" type="number" min="0" style="width:5.5rem"></label>
+<label title="≥ 3 healthy-control samples and ≥ 3 samples with a disease code"><input type="checkbox" id="pf-cases_controls"> cases &amp; healthy controls</label>
+<label title="≥ 3 samples in an active intervention arm and ≥ 3 in placebo / no-intervention (from archive attributes)"><input type="checkbox" id="pf-arms"> treated &amp; control arms</label>
+<button type="button" class="btn sec" id="pf-reset">reset</button> <span class="status" id="pf-count"></span>
+</form>
+<table id="studies" class="tbl display compact" style="width:100%">
+<thead><tr><th>Study</th><th>Title</th><th class="num">Samples</th><th>Age categories</th><th>Top condition</th><th>Interventions</th><th>Country</th><th>First author</th><th class="num">Papers</th><th>Public</th><th class="num" title="median sequencing depth per sample: bases summed over the sample's runs">Gbp / sample</th></tr></thead>
+<tbody></tbody></table>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.16"><span class="mono">R2026.16</span></a> · package <span class="mono">1.15.0</span> · build <span class="mono">c9f4d91</span> · built 2026-10-08 · data tag <span class="mono">data-v1.15.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.16.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.16 (data package 1.15.0), OlmLab, 2026-10-08.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script src="../static/vendor/jquery-3.7.1.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+<script src="../static/vendor/dataTables-2.1.8.min.js" integrity="sha384-MgwUq0TVErv5Lkj/jIAgQpC+iUIqwhwXxJMfrZQVAOhr++1MR02yXH8aXdPc3fk0" crossorigin="anonymous"></script>
+
+<script>window.CATALOG={version:'1.15.0',release:'data-v1.15.0',releaseId:'R2026.16',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+<script>
+fetch('../data/studies_index.json').then(r => r.json()).then(rows => {
+  const h = s => String(s === null || s === undefined ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const $ = id => document.getElementById(id);
+  const P = ['condition', 'intervention', 'design', 'age', 'country', 'min_samples', 'cases_controls', 'arms'];
+  const prm = new URLSearchParams(location.search);
+  for (const k of P) { const el = $('pf-' + k); const v = prm.get(k); if (el && v !== null) { if (el.type === 'checkbox') el.checked = v === '1'; else el.value = v; } }
+  const ok = r => {
+    const c = $('pf-condition').value, iv = $('pf-intervention').value, dz = $('pf-design').value, ag = $('pf-age').value;
+    const co = $('pf-country').value.trim().toLowerCase(), mn = $('pf-min_samples').value;
+    const ivs = (r.iv || '').split(';').filter(Boolean);
+    if (c && !(r.hcs || []).includes(c) && r.pc !== c) return false;
+    if (iv === '__any__' && !ivs.length) return false; if (iv === '__none__' && ivs.length) return false;
+    if (iv && !iv.startsWith('__') && !ivs.includes(iv) && !(r.arms || []).includes(iv)) return false;
+    if (dz === '__controlled__') { if (!['randomized_controlled_trial', 'non_randomized_controlled', 'crossover'].includes(r.dz) && !r.cca) return false; } else if (dz && r.dz !== dz) return false; if (ag && !(r.ags || []).includes(ag)) return false;
+    if (co && !String(r.co || '').toLowerCase().includes(co)) return false; if (mn !== '' && r.n < parseInt(mn)) return false;
+    if ($('pf-cases_controls').checked && !r.ccc) return false; if ($('pf-arms').checked && !r.cca) return false;
+    return true;
+  };
+  DataTable.ext.search.push((settings, data, i, row) => settings.nTable.id !== 'studies' || ok(row));
+  const tbl = new DataTable('#studies', {
+    data: rows, pageLength: 50, lengthMenu: [25, 50, 100, 500], order: [[2, 'desc']], deferRender: true,
+    columns: [
+      {data: 'a', render: (d, t) => t === 'display' ? '<a href="' + h(d) + '.html">' + h(d) + '</a>' : d},
+      {data: 't', render: (d, t) => t === 'display' ? '<span class="small clip" title="' + h(d) + '">' + h(d) + '</span>' : d},
+      {data: 'n', className: 'num', render: (d, t) => t === 'display' ? Number(d).toLocaleString() : d},
+      {data: 'ag', render: (d, t) => t === 'display' ? '<span class="mono small">' + h(d) + '</span>' : d},
+      {data: 'hc', render: (d, t) => t === 'display' ? '<span class="mono small">' + h(d) + '</span>' : d},
+      {data: 'iv', defaultContent: '', render: (d, t) => t === 'display' ? '<span class="mono small">' + h((d || '').replaceAll(';', ' · ')) + '</span>' : d},
+      {data: 'co', className: 'mono'},
+      {data: 'fa', render: (d, t) => t === 'display' ? '<span class="small">' + h(d) + '</span>' : d},
+      {data: 'p', className: 'num'},
+      {data: 'y', className: 'mono'},
+      {data: 'gs', className: 'num', render: (d, t) => t === 'display' ? (d === null || d === undefined ? '' : Number(d).toFixed(2)) : d}
+    ]
+  });
+  const sync = () => { const q = new URLSearchParams(); for (const k of P) { const el = $('pf-' + k); if (!el) continue; const v = el.type === 'checkbox' ? (el.checked ? '1' : '') : el.value.trim(); if (v) q.set(k, v); }
+    history.replaceState(null, '', location.pathname + (q.toString() ? '?' + q : '') + location.hash); tbl.draw();
+    $('pf-count').textContent = tbl.rows({search: 'applied'}).count().toLocaleString() + ' projects match'; };
+  for (const k of P) { const el = $('pf-' + k); if (el) el.addEventListener(el.tagName === 'INPUT' && el.type !== 'checkbox' ? 'input' : 'change', sync); }
+  $('pf-reset').addEventListener('click', () => { for (const k of P) { const el = $('pf-' + k); if (el.type === 'checkbox') el.checked = false; else el.value = ''; } sync(); });
+  sync();
+});
+</script>
+
+</body>
+</html>

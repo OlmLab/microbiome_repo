@@ -1,0 +1,220 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA104416211,PRJEB22863,B_001,T0,adult,21915.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.868
+SAMEA104416212,PRJEB22863,B_001,T1,adult,21915.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.067
+SAMEA104416213,PRJEB22863,B_001,T2,adult,21915.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.982
+SAMEA104416148,PRJEB22863,B_002,T1,elderly,25190.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.939
+SAMEA104416149,PRJEB22863,B_003,T1,adult,21549.8,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.121
+SAMEA104416229,PRJEB22863,B_004,T0,adult,22280.2,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.065
+SAMEA104416150,PRJEB22863,B_005,T0,elderly,28124.2,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.819
+SAMEA104416151,PRJEB22863,B_005,T1,elderly,28124.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.985
+SAMEA104416152,PRJEB22863,B_005,T2,elderly,28124.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.948
+SAMEA104416230,PRJEB22863,B_006,T0,adult,17532.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.181
+SAMEA104416231,PRJEB22863,B_006,T1,adult,17532.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.96
+SAMEA104416153,PRJEB22863,B_008,T1,elderly,25550.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.924
+SAMEA104416154,PRJEB22863,B_009,T0,elderly,24455.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.089
+SAMEA104416155,PRJEB22863,B_010,T1,adult,22280.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.155
+SAMEA104416232,PRJEB22863,B_012,T1,adult,19706.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",yes,2016,primary,1.0,3.014
+SAMEA104416214,PRJEB22863,B_013,T0,elderly,24106.5,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.159
+SAMEA104416215,PRJEB22863,B_013,T1,elderly,24106.5,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.056
+SAMEA104416156,PRJEB22863,B_015,T0,adult,23376.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.032
+SAMEA104416157,PRJEB22863,B_015,T1,adult,23376.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.337
+SAMEA104416233,PRJEB22863,B_016,T1,adult,11688.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.039
+SAMEA104416234,PRJEB22863,B_017,T0,elderly,25190.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.873
+SAMEA104416158,PRJEB22863,C_001,T1,elderly,23741.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.98
+SAMEA104416159,PRJEB22863,C_004,T0,elderly,27759.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.177
+SAMEA104416160,PRJEB22863,C_004,T1,elderly,27759.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.961
+SAMEA104416161,PRJEB22863,C_004,T2,elderly,27759.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.213
+SAMEA104416162,PRJEB22863,C_005,T0,elderly,24455.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.006
+SAMEA104416163,PRJEB22863,C_005,T1,elderly,24455.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.857
+SAMEA104416164,PRJEB22863,C_005,T2,elderly,24455.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.866
+SAMEA104416165,PRJEB22863,C_007,T0,elderly,26641.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.99
+SAMEA104416166,PRJEB22863,C_007,T1,elderly,26641.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.996
+SAMEA104416167,PRJEB22863,C_007,T2,elderly,26641.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.101
+SAMEA104416127,PRJEB22863,C_008,T0,elderly,28124.2,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.911
+SAMEA104416128,PRJEB22863,C_008,T1,elderly,28124.2,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.015
+SAMEA104416129,PRJEB22863,C_008,T2,elderly,28124.2,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.88
+SAMEA104416130,PRJEB22863,C_010,T0,adult,17897.2,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.944
+SAMEA104416131,PRJEB22863,C_010,T1,adult,17897.2,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.048
+SAMEA104416168,PRJEB22863,C_011,T0,elderly,26298.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.075
+SAMEA104416169,PRJEB22863,C_011,T1,elderly,26298.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.122
+SAMEA104416170,PRJEB22863,C_011,T2,elderly,26298.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.833
+SAMEA104416132,PRJEB22863,C_012,T0,adult,22627.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.189
+SAMEA104416273,PRJEB22863,C_014,T0,adult,21549.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.005
+SAMEA104416133,PRJEB22863,C_015,T0,adult,20088.8,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.064
+SAMEA104416235,PRJEB22863,C_016,T0,adult,17151.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.932
+SAMEA104416236,PRJEB22863,C_016,T1,adult,17151.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.971
+SAMEA104416237,PRJEB22863,C_016,T2,adult,17151.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.264
+SAMEA104416245,PRJEB22863,C_017,T0,elderly,27394.0,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.058
+SAMEA104416134,PRJEB22863,C_018,T0,adult,21549.8,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.913
+SAMEA104416135,PRJEB22863,C_020,T0,adult,17897.2,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.023
+SAMEA104416225,PRJEB22863,C_021,T0,elderly,24106.5,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.985
+SAMEA104416171,PRJEB22863,I_001,T0,elderly,24837.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.177
+SAMEA104416246,PRJEB22863,I_001,T0,elderly,28124.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.938
+SAMEA104416172,PRJEB22863,I_001,T1,elderly,24837.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.939
+SAMEA104416173,PRJEB22863,I_001,T2,elderly,24837.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.999
+SAMEA104416247,PRJEB22863,I_001,T2,elderly,28124.2,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.075
+SAMEA104416274,PRJEB22863,I_002,T0,adult,14975.2,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.033
+SAMEA104416174,PRJEB22863,I_002,T1,adult,19358.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.936
+SAMEA104416275,PRJEB22863,I_002,T1,adult,14975.2,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.021
+SAMEA104416276,PRJEB22863,I_002,T2,adult,14975.2,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.095
+SAMEA104416248,PRJEB22863,I_003,T0,elderly,23741.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.029
+SAMEA104416136,PRJEB22863,I_003,T1,adult,22980.8,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.247
+SAMEA104416249,PRJEB22863,I_003,T1,elderly,23741.2,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.016
+SAMEA104416277,PRJEB22863,I_004,T0,adult,21915.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.2
+SAMEA104416238,PRJEB22863,I_004,T1,adult,18993.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.925
+SAMEA104416278,PRJEB22863,I_004,T2,adult,21915.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.229
+SAMEA104416250,PRJEB22863,I_005,T0,adult,19358.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.908
+SAMEA104416239,PRJEB22863,I_005,T1,adult,18627.8,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.122
+SAMEA104416279,PRJEB22863,I_006,T0,adult,15696.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.94
+SAMEA104416226,PRJEB22863,I_006,T1,adult,22280.2,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.904
+SAMEA104416137,PRJEB22863,I_007,T0,adult,22280.2,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.242
+SAMEA104416280,PRJEB22863,I_007,T0,elderly,25550.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.242
+SAMEA104416281,PRJEB22863,I_007,T1,elderly,25550.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.969
+SAMEA104416138,PRJEB22863,I_007,T2,adult,22280.2,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.908
+SAMEA104416282,PRJEB22863,I_008,T0,adult,21915.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.926
+SAMEA104416283,PRJEB22863,I_009,T0,elderly,25550.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.138
+SAMEA104416216,PRJEB22863,I_009,T1,adult,21177.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.128
+SAMEA104416284,PRJEB22863,I_009,T1,elderly,25550.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.901
+SAMEA104416285,PRJEB22863,I_009,T2,elderly,25550.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.011
+SAMEA104416217,PRJEB22863,I_010,T1,adult,21915.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.022
+SAMEA104416139,PRJEB22863,I_011,T0,elderly,26641.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.302
+SAMEA104416286,PRJEB22863,I_011,T0,elderly,25190.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.094
+SAMEA104416287,PRJEB22863,I_011,T1,elderly,25190.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.398
+SAMEA104416140,PRJEB22863,I_011,T2,elderly,26641.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.919
+SAMEA104416288,PRJEB22863,I_012,T0,adult,18993.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.967
+SAMEA104416240,PRJEB22863,I_012,T1,adult,22627.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.938
+SAMEA104416289,PRJEB22863,I_012,T1,adult,18993.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.133
+SAMEA104416290,PRJEB22863,I_012,T2,adult,18993.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.884
+SAMEA104416251,PRJEB22863,I_013,T0,adult,21915.0,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.049
+SAMEA104416252,PRJEB22863,I_013,T1,adult,21915.0,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.066
+SAMEA104416253,PRJEB22863,I_013,T2,adult,21915.0,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.012
+SAMEA104416291,PRJEB22863,I_014,T0,adult,16791.5,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.277
+SAMEA104416175,PRJEB22863,I_014,T1,adult,20820.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.951
+SAMEA104416292,PRJEB22863,I_014,T1,adult,16791.5,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.998
+SAMEA104416293,PRJEB22863,I_014,T2,adult,16791.5,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.217
+SAMEA104416218,PRJEB22863,I_015,T0,elderly,27028.5,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.019
+SAMEA104416294,PRJEB22863,I_015,T0,elderly,25550.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.968
+SAMEA104416219,PRJEB22863,I_015,T2,elderly,27028.5,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.933
+SAMEA104416295,PRJEB22863,I_016,T0,adult,18993.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.178
+SAMEA104416241,PRJEB22863,I_016,T1,elderly,23741.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.05
+SAMEA104416296,PRJEB22863,I_016,T1,adult,18993.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.332
+SAMEA104416297,PRJEB22863,I_017,T0,elderly,23741.2,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.017
+SAMEA104416220,PRJEB22863,I_017,T1,elderly,27759.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.973
+SAMEA104416298,PRJEB22863,I_018,T0,adult,21549.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.079
+SAMEA104416141,PRJEB22863,I_018,T1,adult,17532.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.989
+SAMEA104416299,PRJEB22863,I_018,T1,adult,21549.8,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.052
+SAMEA104416176,PRJEB22863,I_019,T0,elderly,24455.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.188
+SAMEA104416300,PRJEB22863,I_019,T0,elderly,24455.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.902
+SAMEA104416177,PRJEB22863,I_019,T1,elderly,24455.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.021
+SAMEA104416178,PRJEB22863,I_019,T2,elderly,24455.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.035
+SAMEA104416301,PRJEB22863,I_019,T2,elderly,24455.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.071
+SAMEA104416179,PRJEB22863,I_020,T0,adult,22980.8,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.023
+SAMEA104416302,PRJEB22863,I_020,T0,adult,21915.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.947
+SAMEA104416303,PRJEB22863,I_020,T2,adult,21915.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.968
+SAMEA104416304,PRJEB22863,I_021,T0,adult,21915.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.093
+SAMEA104416180,PRJEB22863,I_021,T1,elderly,24837.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.048
+SAMEA104416305,PRJEB22863,I_021,T1,adult,21915.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.067
+SAMEA104416306,PRJEB22863,I_021,T2,adult,21915.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.189
+SAMEA104416242,PRJEB22863,I_022,T0,elderly,24106.5,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.859
+SAMEA104416254,PRJEB22863,I_022,T0,elderly,24455.0,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.1
+SAMEA104416307,PRJEB22863,I_023,T0,elderly,26641.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.009
+SAMEA104416308,PRJEB22863,I_023,T2,elderly,26641.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.013
+SAMEA104416181,PRJEB22863,I_024,T0,elderly,25190.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.875
+SAMEA104416309,PRJEB22863,I_025,T0,adult,22280.2,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.118
+SAMEA104416310,PRJEB22863,I_025,T1,adult,22280.2,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.311
+SAMEA104416311,PRJEB22863,I_025,T2,adult,22280.2,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,2.951
+SAMEA104416255,PRJEB22863,I_026,T0,adult,22280.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.024
+SAMEA104416256,PRJEB22863,I_026,T1,adult,22280.2,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.031
+SAMEA104416257,PRJEB22863,I_026,T2,adult,22280.2,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.088
+SAMEA104416312,PRJEB22863,I_027,T1,adult,21177.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.18
+SAMEA104416182,PRJEB22863,I_028,T0,elderly,24455.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.824
+SAMEA104416142,PRJEB22863,I_029,T0,elderly,28124.2,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.966
+SAMEA104416143,PRJEB22863,I_030,T0,adult,20434.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.994
+SAMEA104416313,PRJEB22863,I_030,T0,elderly,24455.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.985
+SAMEA104416144,PRJEB22863,I_030,T1,adult,20434.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.952
+SAMEA104416314,PRJEB22863,I_030,T1,elderly,24455.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.061
+SAMEA104416145,PRJEB22863,I_030,T2,adult,20434.0,female,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.147
+SAMEA104416315,PRJEB22863,I_030,T2,elderly,24455.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.156
+SAMEA104416227,PRJEB22863,I_031,T0,adult,16791.5,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.962
+SAMEA104416183,PRJEB22863,I_032,T0,adult,19358.2,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.005
+SAMEA104416184,PRJEB22863,I_032,T1,adult,19358.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.998
+SAMEA104416185,PRJEB22863,I_032,T2,adult,19358.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.079
+SAMEA104416316,PRJEB22863,I_033,T0,adult,21915.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.947
+SAMEA104416186,PRJEB22863,I_034,T0,adult,22627.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.079
+SAMEA104416317,PRJEB22863,I_034,T0,adult,18262.5,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.944
+SAMEA104416318,PRJEB22863,I_034,T2,adult,18262.5,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.245
+SAMEA104416243,PRJEB22863,I_035,T0,adult,22980.8,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.998
+SAMEA104416319,PRJEB22863,I_035,T0,adult,21177.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.146
+SAMEA104416228,PRJEB22863,I_036,T0,adult,21549.8,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.211
+SAMEA104416320,PRJEB22863,I_036,T0,adult,21177.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.941
+SAMEA104416321,PRJEB22863,I_036,T1,adult,21177.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.957
+SAMEA104416258,PRJEB22863,I_037,T0,elderly,27759.0,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.169
+SAMEA104416259,PRJEB22863,I_037,T1,elderly,27759.0,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.878
+SAMEA104416260,PRJEB22863,I_037,T2,elderly,27759.0,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.068
+SAMEA104416146,PRJEB22863,I_038,T0,adult,22627.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.019
+SAMEA104416322,PRJEB22863,I_038,T0,elderly,24837.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.024
+SAMEA104416323,PRJEB22863,I_038,T2,elderly,24837.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 2",no,2016,primary,1.0,3.205
+SAMEA104416187,PRJEB22863,I_039,T0,elderly,27759.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.963
+SAMEA104416324,PRJEB22863,I_039,T0,adult,23376.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.916
+SAMEA104416325,PRJEB22863,I_039,T1,adult,23376.0,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.989
+SAMEA104416147,PRJEB22863,I_040,T0,adult,21915.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,3.154
+SAMEA104416326,PRJEB22863,I_040,T0,elderly,25932.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.892
+SAMEA104416327,PRJEB22863,I_040,T1,elderly,25932.8,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,3.082
+SAMEA104416244,PRJEB22863,I_041,T0,adult,22280.2,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.944
+SAMEA104416328,PRJEB22863,I_041,T0,elderly,24455.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.131
+SAMEA104416329,PRJEB22863,I_042,T0,adult,23376.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.157
+SAMEA104416330,PRJEB22863,I_043,T0,adult,15330.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.079
+SAMEA104416210,PRJEB22863,I_044,T0,adult,22627.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.687
+SAMEA104416331,PRJEB22863,I_044,T0,adult,22280.2,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.082
+SAMEA104416188,PRJEB22863,I_045,T0,elderly,25550.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.685
+SAMEA104416332,PRJEB22863,I_045,T0,adult,19358.2,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.704
+SAMEA104416193,PRJEB22863,I_046,T0,adult,22627.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.621
+SAMEA104416189,PRJEB22863,I_047,T0,adult,21915.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.732
+SAMEA104416333,PRJEB22863,I_047,T0,elderly,27028.5,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.621
+SAMEA104416194,PRJEB22863,I_048,T0,adult,18627.8,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.509
+SAMEA104416261,PRJEB22863,I_049,T0,adult,22980.8,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.945
+SAMEA104416195,PRJEB22863,I_049,T1,adult,22280.2,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",yes,2016,primary,1.0,2.62
+SAMEA104416222,PRJEB22863,I_050,T0,adult,17532.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.517
+SAMEA104416262,PRJEB22863,I_051,T0,adult,22280.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.666
+SAMEA104416196,PRJEB22863,I_051,T1,adult,20820.0,male,FR,other_cancer,NSCLC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",yes,2016,primary,1.0,2.874
+SAMEA104416197,PRJEB22863,I_052,T0,elderly,25550.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.56
+SAMEA104416334,PRJEB22863,I_052,T0,adult,15696.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.682
+SAMEA104416221,PRJEB22863,I_053,T0,adult,20820.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.696
+SAMEA104416198,PRJEB22863,I_054,T0,elderly,25190.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.808
+SAMEA104416263,PRJEB22863,I_054,T1,elderly,26641.0,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.97
+SAMEA104416335,PRJEB22863,I_055,T1,elderly,28854.8,male,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.632
+SAMEA104416223,PRJEB22863,I_056,T0,adult,21549.8,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.747
+SAMEA104416264,PRJEB22863,I_056,T0,adult,22280.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.602
+SAMEA104416199,PRJEB22863,I_057,T0,adult,21915.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.777
+SAMEA104416336,PRJEB22863,I_057,T0,elderly,29931.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.612
+SAMEA104416200,PRJEB22863,I_058,T0,elderly,27759.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.906
+SAMEA104416337,PRJEB22863,I_058,T0,elderly,25190.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.803
+SAMEA104416338,PRJEB22863,I_059,T0,elderly,24837.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.769
+SAMEA104416201,PRJEB22863,I_060,T0,elderly,23741.2,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.816
+SAMEA104416339,PRJEB22863,I_060,T0,adult,22280.2,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,4.439
+SAMEA104416224,PRJEB22863,I_061,T0,adult,22980.8,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.673
+SAMEA104416265,PRJEB22863,I_061,T0,adult,12417.9,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.833
+SAMEA104416340,PRJEB22863,I_062,T0,adult,22980.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.627
+SAMEA104416266,PRJEB22863,I_063,T0,adult,11312.8,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.591
+SAMEA104416341,PRJEB22863,I_064,T0,elderly,25190.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.553
+SAMEA104416190,PRJEB22863,I_065,T0,adult,22627.0,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.726
+SAMEA104416267,PRJEB22863,I_065,T0,elderly,24106.5,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.178
+SAMEA104416202,PRJEB22863,I_066,T0,elderly,28489.5,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.597
+SAMEA104416342,PRJEB22863,I_066,T0,adult,21915.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.726
+SAMEA104416203,PRJEB22863,I_067,T0,adult,22980.8,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.81
+SAMEA104416204,PRJEB22863,I_068,T0,elderly,25190.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.754
+SAMEA104416268,PRJEB22863,I_068,T0,adult,20820.0,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,3.198
+SAMEA104416205,PRJEB22863,I_069,T0,adult,22627.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.621
+SAMEA104416343,PRJEB22863,I_069,T0,adult,23376.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.598
+SAMEA104416206,PRJEB22863,I_070,T0,elderly,24837.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.768
+SAMEA104416269,PRJEB22863,I_070,T0,adult,17897.2,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.549
+SAMEA104416207,PRJEB22863,I_072,T0,adult,20820.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.774
+SAMEA104416344,PRJEB22863,I_072,T0,elderly,24837.0,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.667
+SAMEA104416270,PRJEB22863,I_073,T0,elderly,27759.0,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.741
+SAMEA104416271,PRJEB22863,I_074,T1,adult,16069.0,female,FR,other_cancer,RCC,drug_therapy,"during anti-PD-1 mAb therapy, timepoint 1",no,2016,primary,1.0,2.582
+SAMEA104416208,PRJEB22863,I_075,T0,adult,22280.2,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.591
+SAMEA104416345,PRJEB22863,I_075,T0,adult,22980.8,male,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.717
+SAMEA104416209,PRJEB22863,I_076,T0,elderly,24837.0,male,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.713
+SAMEA104416272,PRJEB22863,I_076,T0,elderly,27028.5,female,FR,other_cancer,RCC,no_intervention,baseline before anti-PD-1 therapy,no,2016,primary,1.0,2.685
+SAMEA104416191,PRJEB22863,I_077,T0,adult,15696.8,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.707
+SAMEA104416192,PRJEB22863,I_078,T0,adult,22980.8,female,FR,other_cancer,NSCLC,no_intervention,baseline before anti-PD-1 therapy,yes,2016,primary,1.0,2.725

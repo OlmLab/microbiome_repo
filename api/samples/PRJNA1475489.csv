@@ -1,0 +1,40 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN60643523,PRJNA1475489,BM1-001,,elderly,,female,US,colorectal_cancer,none reported,,,,2023-12-11,primary,1.0,0.189
+SAMN60643524,PRJNA1475489,BM1-001,,elderly,,female,US,colorectal_cancer,none reported,,,,2023-12-11,primary,1.0,0.178
+SAMN60643531,PRJNA1475489,BM1-003,,elderly,,female,US,healthy_control,healthy; hypothyroidism,,,,2024-01-22,primary,1.0,0.143
+SAMN60643532,PRJNA1475489,BM1-003,,elderly,,female,US,healthy_control,healthy; hypothyroidism,,,,2024-01-22,primary,1.0,0.145
+SAMN60643541,PRJNA1475489,BM1-003,,elderly,,female,US,healthy_control,healthy; hypothyroidism,,,,2024-05-10,primary,1.0,0.175
+SAMN60643550,PRJNA1475489,BM1-003,,elderly,,female,US,healthy_control,healthy; hypothyroidism,,,,2024-08-26,primary,1.0,0.216
+SAMN60643525,PRJNA1475489,BM1-005,,elderly,,female,US,healthy_control,none reported,,,,2024-01-11,primary,1.0,0.171
+SAMN60643526,PRJNA1475489,BM1-005,,elderly,,female,US,healthy_control,none reported,,,,2024-01-11,primary,1.0,0.164
+SAMN60643545,PRJNA1475489,BM1-005,,elderly,,female,US,healthy_control,none reported,,,,2024-06-12,primary,1.0,0.156
+SAMN60643529,PRJNA1475489,BM1-006,,adult,,female,US,healthy_control,none reported,,,,2024-01-11,primary,1.0,0.18
+SAMN60643530,PRJNA1475489,BM1-006,,adult,,female,US,healthy_control,none reported,,,,2024-01-11,primary,1.0,0.167
+SAMN60643538,PRJNA1475489,BM1-006,,adult,,female,US,healthy_control,healthy,,,,2024-04-09,primary,1.0,0.185
+SAMN60643544,PRJNA1475489,BM1-006,,adult,,female,US,healthy_control,healthy,,,,2024-07-09,primary,1.0,0.162
+SAMN60643533,PRJNA1475489,BM1-011,,elderly,,female,US,autoimmune_inflammatory,healthy; hypothyroidism; arthritis,,,yes,2024-01-22,primary,1.0,0.157
+SAMN60643534,PRJNA1475489,BM1-011,,elderly,,female,US,autoimmune_inflammatory,healthy; hypothyroidism; arthritis,,,yes,2024-01-23,primary,1.0,0.144
+SAMN60643558,PRJNA1475489,BM1-012,,adult,,female,US,healthy_control,healthy,,,,2024-06-12,primary,1.0,0.175
+SAMN60643527,PRJNA1475489,BM1-013,,elderly,,female,US,neurological_psychiatric,none reported,,,,2024-01-11,primary,1.0,0.131
+SAMN60643528,PRJNA1475489,BM1-013,,elderly,,female,US,neurological_psychiatric,none reported,,,,2024-01-11,primary,1.0,0.158
+SAMN60643537,PRJNA1475489,BM1-013,,elderly,,female,US,neurological_psychiatric,healthy; migraines,,,,2024-07-15,primary,1.0,0.144
+SAMN60643535,PRJNA1475489,BM1-015,,adult,,female,US,healthy_control,healthy,,,,2024-02-07,primary,1.0,0.158
+SAMN60643536,PRJNA1475489,BM1-015,,adult,,female,US,healthy_control,healthy,,,,2024-02-08,primary,1.0,0.165
+SAMN60643540,PRJNA1475489,BM1-015,,adult,,female,US,healthy_control,healthy,,,,2024-05-15,primary,1.0,0.133
+SAMN60643547,PRJNA1475489,BM1-015,,adult,,female,US,healthy_control,healthy,,,,2024-03-25,primary,1.0,0.14
+SAMN60643521,PRJNA1475489,BM1-028,,adult,,male,US,healthy_control,none reported,,,,2024-01-15,primary,1.0,0.162
+SAMN60643522,PRJNA1475489,BM1-028,,adult,,male,US,healthy_control,none reported,,,,2024-01-15,primary,1.0,0.162
+SAMN60643552,PRJNA1475489,BM1-028,,adult,,male,US,healthy_control,healthy,,,,2024-11-08,primary,1.0,0.123
+SAMN60643539,PRJNA1475489,BM1-036,,adult,,female,US,neurological_psychiatric,irritable bowel syndrome,,,,2024-04-23,primary,1.0,0.168
+SAMN60643546,PRJNA1475489,BM1-036,,adult,,female,US,neurological_psychiatric,irritable bowel syndrome,,,,2024-12-06,primary,1.0,0.149
+SAMN60643554,PRJNA1475489,BM1-036,,adult,,female,US,neurological_psychiatric,irritable bowel syndrome,,,,2024-11-11,primary,1.0,0.173
+SAMN60643543,PRJNA1475489,BM1-037,,elderly,,male,US,neurological_psychiatric,mild cognitive impairment,,,,2024-07-11,primary,1.0,0.145
+SAMN60643542,PRJNA1475489,BM1-038,,elderly,,female,US,allergy_or_atopy,mild cognitive impairment; low IgG/IgA; osteoporosis; obstructive sleep apnea; asthma; hyperlipidemia,,,,2024-06-03,primary,1.0,0.148
+SAMN60643556,PRJNA1475489,BM1-038,,elderly,,female,US,allergy_or_atopy,mild cognitive impairment; low IgG/IgA; osteoporosis; obstructive sleep apnea; asthma; hyperlipidemia,,,,2024-12-06,primary,1.0,0.135
+SAMN60643551,PRJNA1475489,BM1-039,,elderly,,female,US,neurological_psychiatric,history of colon polyps,,,,2024-08-26,primary,1.0,0.136
+SAMN60643557,PRJNA1475489,BM1-039,,elderly,,female,US,neurological_psychiatric,history of colon polyps,,,,2024-12-10,primary,1.0,0.155
+SAMN60643559,PRJNA1475489,BM1-039,,elderly,,female,US,neurological_psychiatric,history of colon polyps,,,,2025-04-18,primary,1.0,0.089
+SAMN60643549,PRJNA1475489,BM1-040,,elderly,,female,US,neurological_psychiatric,mild cognitive impairment; fibromyalgia,,,,2024-08-09,primary,1.0,0.117
+SAMN60643548,PRJNA1475489,BM1-041,,elderly,,female,US,neurological_psychiatric,irritable bowel syndrome,,,,2024-08-13,primary,1.0,0.154
+SAMN60643553,PRJNA1475489,BM1-042,,adult,,female,US,type2_diabetes,healthy; diabetes; epilepsy; hypertension,,,,2024-11-11,primary,1.0,0.157
+SAMN60643555,PRJNA1475489,BM1-042,,adult,,female,US,type2_diabetes,healthy; diabetes; epilepsy; hypertension,,,,2024-09-19,primary,1.0,0.162

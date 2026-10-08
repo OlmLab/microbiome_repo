@@ -1,0 +1,102 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA115767067,PRJEB76849,3AWFR000081,posta-cog,adult,22645.5,male,US,,,diet_intervention,First diet intervention arm,,2015-03-25,primary,1.0,12.986
+SAMEA115767069,PRJEB76849,3AWFR000081,postb-cog,adult,22645.5,male,US,,,diet_intervention,First diet intervention arm,,2015-06-22,primary,1.0,10.928
+SAMEA115767070,PRJEB76849,3AWFR000081,postb-fu,adult,22645.5,male,US,,,diet_intervention,First diet intervention arm,,2015-08-04,primary,1.0,10.355
+SAMEA115767066,PRJEB76849,3AWFR000081,prea-cog,adult,22645.5,male,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-02-11,primary,1.0,12.372
+SAMEA115767068,PRJEB76849,3AWFR000081,preb-cog,adult,22645.5,male,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-05-07,primary,1.0,13.252
+SAMEA115767133,PRJEB76849,3BCCR001024,posta-cog,adult,21915.0,female,US,,,diet_intervention,First diet intervention arm,,2016-02-23,primary,1.0,7.195
+SAMEA115767135,PRJEB76849,3BCCR001024,postb-cog,adult,21915.0,female,US,,,diet_intervention,First diet intervention arm,,2016-05-26,primary,1.0,2.168
+SAMEA115767136,PRJEB76849,3BCCR001024,postb-fu,adult,21915.0,female,US,,,diet_intervention,First diet intervention arm,,2016-07-12,primary,1.0,1.479
+SAMEA115767132,PRJEB76849,3BCCR001024,prea-cog,adult,21915.0,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2016-01-14,primary,1.0,12.179
+SAMEA115767134,PRJEB76849,3BCCR001024,preb-cog,adult,21915.0,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2016-04-18,primary,1.0,0.885
+SAMEA115767077,PRJEB76849,3BLFO000040,posta-cog,adult,23376.0,female,US,,,diet_intervention,First diet intervention arm,,2015-05-27,primary,1.0,12.037
+SAMEA115767079,PRJEB76849,3BLFO000040,postb-cog,adult,23376.0,female,US,,,diet_intervention,First diet intervention arm,,2015-08-19,primary,1.0,11.87
+SAMEA115767080,PRJEB76849,3BLFO000040,postb-fu,adult,23376.0,female,US,,,diet_intervention,First diet intervention arm,,2015-09-30,primary,1.0,10.142
+SAMEA115767076,PRJEB76849,3BLFO000040,prea-cog,adult,23376.0,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-04-08,primary,1.0,1.267
+SAMEA115767078,PRJEB76849,3BLFO000040,preb-cog,adult,23376.0,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-07-08,primary,1.0,0.477
+SAMEA115767087,PRJEB76849,3BSLA000746,posta-cog,adult,23010.8,female,US,,,diet_intervention,Second diet intervention arm,,2015-06-17,primary,2.0,0.382
+SAMEA115767089,PRJEB76849,3BSLA000746,postb-cog,adult,23010.8,female,US,,,diet_intervention,Second diet intervention arm,,2015-09-24,primary,1.0,11.346
+SAMEA115767090,PRJEB76849,3BSLA000746,postb-fu,adult,23010.8,female,US,,,diet_intervention,Second diet intervention arm,,2015-11-05,primary,1.0,15.042
+SAMEA115767086,PRJEB76849,3BSLA000746,prea-cog,adult,23010.8,female,US,,,no_intervention,Baseline before second intervention; assigned arm: Second diet intervention arm,,2015-04-28,primary,1.0,7.248
+SAMEA115767088,PRJEB76849,3BSLA000746,preb-cog,adult,23010.8,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2015-08-04,primary,1.0,10.596
+SAMEA115767098,PRJEB76849,3CBSH000827,posta-cog,adult,23741.2,female,US,,,diet_intervention,Second diet intervention arm,,2015-09-15,primary,1.0,14.409
+SAMEA115767100,PRJEB76849,3CBSH000827,postb-cog,adult,23741.2,female,US,,,diet_intervention,Second diet intervention arm,,2015-12-22,primary,2.0,0.03
+SAMEA115767101,PRJEB76849,3CBSH000827,postb-fu,adult,23741.2,female,US,,,diet_intervention,Second diet intervention arm,,2016-02-05,primary,1.0,6.951
+SAMEA115767097,PRJEB76849,3CBSH000827,prea-cog,adult,23741.2,female,US,,,no_intervention,Baseline before second intervention; assigned arm: Second diet intervention arm,,2015-07-01,primary,1.0,1.557
+SAMEA115767099,PRJEB76849,3CBSH000827,preb-cog,adult,23741.2,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2015-11-02,primary,1.0,14.74
+SAMEA115767123,PRJEB76849,3CDMA000951,posta-cog,adult,20088.8,female,US,,,diet_intervention,Second diet intervention arm,,2015-12-01,primary,1.0,1.312
+SAMEA115767125,PRJEB76849,3CDMA000951,postb-cog,adult,20088.8,female,US,,,diet_intervention,Second diet intervention arm,,2016-03-01,primary,1.0,1.687
+SAMEA115767122,PRJEB76849,3CDMA000951,prea-cog,adult,20088.8,female,US,,,no_intervention,Baseline before second intervention; assigned arm: Second diet intervention arm,,2015-09-30,primary,1.0,15.623
+SAMEA115767124,PRJEB76849,3CDMA000951,preb-cog,adult,20088.8,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2016-01-19,primary,1.0,0.873
+SAMEA115767091,PRJEB76849,3ECHA000227,prea-cog,elderly,29950.5,female,US,,,no_intervention,Baseline before first intervention,,2015-05-20,primary,1.0,10.189
+SAMEA115767093,PRJEB76849,3EHRI000773,posta-cog,elderly,26298.0,female,US,,,diet_intervention,First diet intervention arm,,2015-07-20,primary,1.0,9.372
+SAMEA115767095,PRJEB76849,3EHRI000773,postb-cog,elderly,26298.0,female,US,,,diet_intervention,First diet intervention arm,,2015-11-03,primary,2.0,0.059
+SAMEA115767096,PRJEB76849,3EHRI000773,postb-fu,elderly,26298.0,female,US,,,diet_intervention,First diet intervention arm,,2016-01-06,primary,1.0,12.781
+SAMEA115767092,PRJEB76849,3EHRI000773,prea-cog,elderly,26298.0,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-06-01,primary,1.0,9.89
+SAMEA115767094,PRJEB76849,3EHRI000773,preb-cog,elderly,26298.0,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-09-16,primary,1.0,9.484
+SAMEA115767128,PRJEB76849,3FHGO000392,posta-cog,adult,23010.8,female,US,,,diet_intervention,Second diet intervention arm,,2015-12-03,primary,1.0,1.571
+SAMEA115767130,PRJEB76849,3FHGO000392,postb-cog,adult,23010.8,female,US,,,diet_intervention,Second diet intervention arm,,2016-03-03,primary,1.0,16.335
+SAMEA115767131,PRJEB76849,3FHGO000392,postb-fu,adult,23010.8,female,US,,,diet_intervention,Second diet intervention arm,,2016-04-22,primary,1.0,9.14
+SAMEA115767127,PRJEB76849,3FHGO000392,prea-cog,adult,23010.8,female,US,,,no_intervention,Baseline before second intervention; assigned arm: Second diet intervention arm,,2015-09-30,primary,1.0,1.347
+SAMEA115767129,PRJEB76849,3FHGO000392,preb-cog,adult,23010.8,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2016-01-19,primary,1.0,0.991
+SAMEA115767138,PRJEB76849,3JACA001152,posta-cog,elderly,30681.0,female,US,,,diet_intervention,First diet intervention arm,,2016-09-02,primary,1.0,20.075
+SAMEA115767140,PRJEB76849,3JACA001152,postb-cog,elderly,30681.0,female,US,,,diet_intervention,First diet intervention arm,,2016-11-18,primary,1.0,16.748
+SAMEA115767141,PRJEB76849,3JACA001152,postb-fu,elderly,30681.0,female,US,,,diet_intervention,First diet intervention arm,,2017-01-13,primary,1.0,0.763
+SAMEA115767137,PRJEB76849,3JACA001152,prea-cog,elderly,30681.0,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2016-07-12,primary,1.0,13.897
+SAMEA115767139,PRJEB76849,3JACA001152,preb-cog,elderly,30681.0,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2016-10-06,primary,1.0,11.64
+SAMEA115767126,PRJEB76849,3JEBA000908,prea-cog,adult,19723.5,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-09-02,primary,1.0,14.764
+SAMEA115767082,PRJEB76849,3JMCO000722,posta-cog,elderly,24471.8,female,US,,,diet_intervention,First diet intervention arm,,2015-06-09,primary,1.0,8.617
+SAMEA115767084,PRJEB76849,3JMCO000722,postb-cog,elderly,24471.8,female,US,,,diet_intervention,First diet intervention arm,,2015-08-28,primary,1.0,10.206
+SAMEA115767085,PRJEB76849,3JMCO000722,postb-fu,elderly,24471.8,female,US,,,diet_intervention,First diet intervention arm,,2015-11-18,primary,1.0,9.348
+SAMEA115767081,PRJEB76849,3JMCO000722,prea-cog,elderly,24471.8,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-04-10,primary,2.0,0.126
+SAMEA115767083,PRJEB76849,3JMCO000722,preb-cog,elderly,24471.8,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-08-06,primary,1.0,14.303
+SAMEA115767148,PRJEB76849,3JRWE000881,posta-cog,adult,22645.5,male,US,,,diet_intervention,Second diet intervention arm,,2016-06-22,primary,1.0,20.839
+SAMEA115767150,PRJEB76849,3JRWE000881,postb-cog,adult,22645.5,male,US,,,diet_intervention,Second diet intervention arm,,2016-09-21,primary,1.0,1.149
+SAMEA115767147,PRJEB76849,3JRWE000881,prea-cog,adult,22645.5,male,US,,,no_intervention,Baseline before second intervention; assigned arm: Second diet intervention arm,,2016-04-26,primary,1.0,1.148
+SAMEA115767149,PRJEB76849,3JRWE000881,preb-cog,adult,22645.5,male,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2016-08-05,primary,2.0,0.626
+SAMEA115767072,PRJEB76849,3JXAL000304,posta-cog,adult,22645.5,male,US,,,diet_intervention,Second diet intervention arm,,2015-04-29,primary,1.0,14.966
+SAMEA115767074,PRJEB76849,3JXAL000304,postb-cog,adult,22645.5,male,US,,,diet_intervention,Second diet intervention arm,,2015-07-20,primary,1.0,15.514
+SAMEA115767075,PRJEB76849,3JXAL000304,postb-fu,adult,22645.5,male,US,,,diet_intervention,Second diet intervention arm,,2015-08-31,primary,1.0,13.828
+SAMEA115767071,PRJEB76849,3JXAL000304,prea-cog,adult,22645.5,male,US,,,no_intervention,Baseline before second intervention; assigned arm: Second diet intervention arm,,2015-03-16,primary,1.0,10.685
+SAMEA115767073,PRJEB76849,3JXAL000304,preb-cog,adult,22645.5,male,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2015-06-08,primary,1.0,10.503
+SAMEA115767118,PRJEB76849,3KXCH000169,posta-cog,adult,21549.8,female,US,,,diet_intervention,First diet intervention arm,,2015-10-23,primary,1.0,14.354
+SAMEA115767120,PRJEB76849,3KXCH000169,postb-cog,adult,21549.8,female,US,,,diet_intervention,First diet intervention arm,,2016-01-25,primary,1.0,1.167
+SAMEA115767121,PRJEB76849,3KXCH000169,postb-fu,adult,21549.8,female,US,,,diet_intervention,First diet intervention arm,,2016-03-11,primary,1.0,6.243
+SAMEA115767117,PRJEB76849,3KXCH000169,prea-cog,adult,21549.8,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-08-27,primary,1.0,2.275
+SAMEA115767119,PRJEB76849,3KXCH000169,preb-cog,adult,21549.8,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-12-07,primary,1.0,7.033
+SAMEA115767113,PRJEB76849,3LDMO000125,posta-cog,adult,20819.2,female,US,,,diet_intervention,First diet intervention arm,,2015-08-31,primary,1.0,0.442
+SAMEA115767115,PRJEB76849,3LDMO000125,postb-cog,adult,20819.2,female,US,,,diet_intervention,First diet intervention arm,,2015-11-24,primary,1.0,9.464
+SAMEA115767116,PRJEB76849,3LDMO000125,postb-fu,adult,20819.2,female,US,,,diet_intervention,First diet intervention arm,,2016-01-28,primary,1.0,1.392
+SAMEA115767112,PRJEB76849,3LDMO000125,prea-cog,adult,20819.2,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-07-20,primary,1.0,1.739
+SAMEA115767114,PRJEB76849,3LDMO000125,preb-cog,adult,20819.2,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-10-12,primary,1.0,19.623
+SAMEA115767108,PRJEB76849,3LDST000772,posta-cog,adult,23741.2,female,US,,,diet_intervention,First diet intervention arm,,2015-10-15,primary,1.0,1.549
+SAMEA115767110,PRJEB76849,3LDST000772,postb-cog,adult,23741.2,female,US,,,diet_intervention,First diet intervention arm,,2016-01-15,primary,1.0,0.303
+SAMEA115767111,PRJEB76849,3LDST000772,postb-fu,adult,23741.2,female,US,,,diet_intervention,First diet intervention arm,,2016-03-08,primary,1.0,1.394
+SAMEA115767107,PRJEB76849,3LDST000772,prea-cog,adult,23741.2,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-09-03,primary,1.0,12.28
+SAMEA115767109,PRJEB76849,3LDST000772,preb-cog,adult,23741.2,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2015-12-10,primary,1.0,1.616
+SAMEA115767157,PRJEB76849,3MRHA001153,postb-cog,adult,23741.2,female,US,,,diet_intervention,Second diet intervention arm,,2016-10-04,primary,1.0,14.708
+SAMEA115767156,PRJEB76849,3MRHA001153,preb-cog,adult,23741.2,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: Second diet intervention arm,,2016-08-18,primary,1.0,0.955
+SAMEA115767143,PRJEB76849,3PXMC001157,posta-cog,adult,20819.2,female,US,,,diet_intervention,First diet intervention arm,,2016-06-14,primary,1.0,0.615
+SAMEA115767145,PRJEB76849,3PXMC001157,postb-cog,adult,20819.2,female,US,,,diet_intervention,First diet intervention arm,,2016-09-07,primary,1.0,0.596
+SAMEA115767142,PRJEB76849,3PXMC001157,prea-cog,adult,20819.2,female,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2016-04-05,primary,1.0,0.802
+SAMEA115767144,PRJEB76849,3PXMC001157,preb-cog,adult,20819.2,female,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2016-07-25,primary,1.0,10.877
+SAMEA115767164,PRJEB76849,3RHHO001472,posta-cog,elderly,24471.8,male,US,,,diet_intervention,First diet intervention arm,,2016-11-29,primary,1.0,0.99
+SAMEA115767166,PRJEB76849,3RHHO001472,postb-cog,elderly,24471.8,male,US,,,diet_intervention,First diet intervention arm,,2017-02-20,primary,1.0,9.172
+SAMEA115767167,PRJEB76849,3RHHO001472,postb-fu,elderly,24471.8,male,US,,,diet_intervention,First diet intervention arm,,2017-04-04,primary,1.0,11.041
+SAMEA115767163,PRJEB76849,3RHHO001472,prea-cog,elderly,24471.8,male,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2016-10-05,primary,1.0,12.168
+SAMEA115767165,PRJEB76849,3RHHO001472,preb-cog,elderly,24471.8,male,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2017-01-09,primary,1.0,0.8
+SAMEA115767159,PRJEB76849,3RLSI001164,posta-cog,elderly,25567.5,female,US,,,diet_intervention,Second diet intervention arm,,2016-07-02,primary,1.0,0.564
+SAMEA115767162,PRJEB76849,3RLSI001164,postb-fu,elderly,25567.5,female,US,,,diet_intervention,Second diet intervention arm,,2016-12-08,primary,1.0,1.915
+SAMEA115767103,PRJEB76849,3TFBO000818,posta-cog,elderly,24106.5,male,US,,,diet_intervention,First diet intervention arm,,2016-02-11,primary,1.0,13.964
+SAMEA115767105,PRJEB76849,3TFBO000818,postb-cog,elderly,24106.5,male,US,,,diet_intervention,First diet intervention arm,,2016-05-06,primary,2.0,0.119
+SAMEA115767106,PRJEB76849,3TFBO000818,postb-fu,elderly,24106.5,male,US,,,diet_intervention,First diet intervention arm,,2016-06-17,primary,1.0,11.085
+SAMEA115767102,PRJEB76849,3TFBO000818,prea-cog,elderly,24106.5,male,US,,,no_intervention,Baseline before first intervention; assigned arm: First diet intervention arm,,2015-12-14,primary,1.0,1.682
+SAMEA115767104,PRJEB76849,3TFBO000818,preb-cog,elderly,24106.5,male,US,,,no_intervention,Pre-intervention arm B cognitive visit; assigned arm: First diet intervention arm,,2016-03-28,primary,1.0,11.762
+SAMEA115767168,PRJEB76849,BLANK1beam.1A,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.57
+SAMEA115767169,PRJEB76849,BLANK1beam.1B,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.054
+SAMEA115767170,PRJEB76849,BLANK1beam.1C,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.003
+SAMEA115767171,PRJEB76849,BLANK1beam.1D,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.002
+SAMEA115767172,PRJEB76849,BLANK1beam.1E,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.008
+SAMEA115767173,PRJEB76849,BLANK1beam.1F,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.007
+SAMEA115767174,PRJEB76849,BLANK1beam.1G,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.108
+SAMEA115767175,PRJEB76849,BLANK1beam.1H,,adult,,,US,,,,,,2021-06-18,unknown,1.0,0.476

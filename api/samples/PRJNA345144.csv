@@ -1,0 +1,647 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN09278702,PRJNA345144,P006,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.701
+SAMN09278315,PRJNA345144,P006,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.213
+SAMN09278293,PRJNA345144,P006,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.321
+SAMN09278078,PRJNA345144,P006,,infant,730.0,male,NZ,,,,,,,primary,1.0,13.46
+SAMN09278316,PRJNA345144,P007,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.48
+SAMN09278136,PRJNA345144,P007,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.705
+SAMN09278146,PRJNA345144,P007,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,6.281
+SAMN09278156,PRJNA345144,P007,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.505
+SAMN09278701,PRJNA345144,P010,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.957
+SAMN09278568,PRJNA345144,P010,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.365
+SAMN09278543,PRJNA345144,P010,,infant,730.0,female,NZ,,,,,no,,primary,1.0,7.479
+SAMN09278317,PRJNA345144,P012,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.476
+SAMN09278166,PRJNA345144,P012,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.424
+SAMN09278176,PRJNA345144,P012,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,6.353
+SAMN09278186,PRJNA345144,P012,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.971
+SAMN09278167,PRJNA345144,P016,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,0.371
+SAMN09278177,PRJNA345144,P016,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.553
+SAMN09278187,PRJNA345144,P016,,infant,730.0,female,NZ,,,,,no,,primary,1.0,11.137
+SAMN09278318,PRJNA345144,P020,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.157
+SAMN09278137,PRJNA345144,P020,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.363
+SAMN09278147,PRJNA345144,P020,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.044
+SAMN09278157,PRJNA345144,P020,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.308
+SAMN09278698,PRJNA345144,P022,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.298
+SAMN09278699,PRJNA345144,P022,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,1.996
+SAMN09278569,PRJNA345144,P022,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,5.168
+SAMN09278535,PRJNA345144,P022,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.016
+SAMN09278570,PRJNA345144,P023,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.318
+SAMN09278528,PRJNA345144,P023,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.641
+SAMN09278571,PRJNA345144,P027,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.941
+SAMN09278491,PRJNA345144,P027,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.802
+SAMN09278319,PRJNA345144,P028,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.176
+SAMN09278138,PRJNA345144,P028,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,5.665
+SAMN09278148,PRJNA345144,P028,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.268
+SAMN09278158,PRJNA345144,P028,,infant,730.0,male,NZ,,,,,,,primary,1.0,3.678
+SAMN09278695,PRJNA345144,P031,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.851
+SAMN09278696,PRJNA345144,P031,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.178
+SAMN09278294,PRJNA345144,P031,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.997
+SAMN09278482,PRJNA345144,P031,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.362
+SAMN09278295,PRJNA345144,P032,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.462
+SAMN09278697,PRJNA345144,P034,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.606
+SAMN09278694,PRJNA345144,P034,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.211
+SAMN09278296,PRJNA345144,P034,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.879
+SAMN09278703,PRJNA345144,P034,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.734
+SAMN09278424,PRJNA345144,P040,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,1.907
+SAMN09278650,PRJNA345144,P040,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.854
+SAMN09278552,PRJNA345144,P040,1 yr - 4 yr,infant,730.0,female,NZ,,,,,no,,primary,1.0,5.689
+SAMN09278404,PRJNA345144,P041,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,1.945
+SAMN09278168,PRJNA345144,P041,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.87
+SAMN09278178,PRJNA345144,P041,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,9.298
+SAMN09278188,PRJNA345144,P041,,infant,730.0,male,NZ,,,,,no,,primary,1.0,4.132
+SAMN09278405,PRJNA345144,P045,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.05
+SAMN09278116,PRJNA345144,P045,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.936
+SAMN09278106,PRJNA345144,P045,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.216
+SAMN09278126,PRJNA345144,P045,,infant,730.0,female,NZ,,,,,no,,primary,1.0,5.363
+SAMN09278406,PRJNA345144,P048,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,4.029
+SAMN09278169,PRJNA345144,P048,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,11.161
+SAMN09278179,PRJNA345144,P048,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,8.318
+SAMN09278189,PRJNA345144,P048,,infant,730.0,male,NZ,,,,,no,,primary,1.0,5.52
+SAMN09278425,PRJNA345144,P050,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.931
+SAMN09278649,PRJNA345144,P050,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.034
+SAMN09278297,PRJNA345144,P050,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.42
+SAMN09278325,PRJNA345144,P050,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.278
+SAMN09278426,PRJNA345144,P051,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.019
+SAMN09278270,PRJNA345144,P051,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.742
+SAMN09278298,PRJNA345144,P051,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.502
+SAMN09278509,PRJNA345144,P051,,infant,730.0,male,NZ,,,,,no,,primary,1.0,4.241
+SAMN09278427,PRJNA345144,P052,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.129
+SAMN09278299,PRJNA345144,P052,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.586
+SAMN09278322,PRJNA345144,P052,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.739
+SAMN09278117,PRJNA345144,P053,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.973
+SAMN09278107,PRJNA345144,P053,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.228
+SAMN09278127,PRJNA345144,P053,,infant,730.0,male,NZ,,,,,no,,primary,1.0,5.277
+SAMN09278407,PRJNA345144,P054,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.432
+SAMN09278118,PRJNA345144,P054,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.089
+SAMN09278108,PRJNA345144,P054,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.661
+SAMN09278128,PRJNA345144,P054,,infant,730.0,female,NZ,,,,,no,,primary,1.0,7.707
+SAMN09278428,PRJNA345144,P055,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.967
+SAMN09278267,PRJNA345144,P055,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.388
+SAMN09278300,PRJNA345144,P055,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.792
+SAMN09278500,PRJNA345144,P055,,infant,730.0,male,NZ,,,,,,,primary,1.0,6.325
+SAMN09278301,PRJNA345144,P057,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.951
+SAMN09278651,PRJNA345144,P058,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.312
+SAMN09278302,PRJNA345144,P058,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.214
+SAMN09278408,PRJNA345144,P059,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,0.844
+SAMN09278119,PRJNA345144,P059,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.617
+SAMN09278109,PRJNA345144,P059,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.853
+SAMN09278129,PRJNA345144,P059,,infant,730.0,male,NZ,,,,,no,,primary,1.0,5.62
+SAMN09278429,PRJNA345144,P062,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.131
+SAMN09278652,PRJNA345144,P062,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.384
+SAMN09278303,PRJNA345144,P062,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.114
+SAMN09278323,PRJNA345144,P062,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.275
+SAMN09278412,PRJNA345144,P064,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.537
+SAMN09278139,PRJNA345144,P064,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.636
+SAMN09278149,PRJNA345144,P064,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.247
+SAMN09278159,PRJNA345144,P064,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.404
+SAMN09278409,PRJNA345144,P067,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,4.508
+SAMN09278140,PRJNA345144,P067,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.75
+SAMN09278150,PRJNA345144,P067,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,8.164
+SAMN09278160,PRJNA345144,P067,,infant,730.0,male,NZ,,,,,,,primary,1.0,2.974
+SAMN09278430,PRJNA345144,P068,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.394
+SAMN09278707,PRJNA345144,P068,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.759
+SAMN09278304,PRJNA345144,P068,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,6.31
+SAMN09278324,PRJNA345144,P068,,infant,730.0,male,NZ,,,,,no,,primary,1.0,4.046
+SAMN09278431,PRJNA345144,P071,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.243
+SAMN09278261,PRJNA345144,P071,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,1.73
+SAMN09278305,PRJNA345144,P071,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.837
+SAMN09278432,PRJNA345144,P073,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.23
+SAMN09278306,PRJNA345144,P073,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.977
+SAMN09278410,PRJNA345144,P074,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,5.8
+SAMN09278170,PRJNA345144,P074,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.196
+SAMN09278180,PRJNA345144,P074,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.515
+SAMN09278190,PRJNA345144,P074,,infant,730.0,female,NZ,,,,,no,,primary,1.0,4.919
+SAMN09278411,PRJNA345144,P075,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,1.895
+SAMN09278120,PRJNA345144,P075,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.943
+SAMN09278110,PRJNA345144,P075,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.936
+SAMN09278130,PRJNA345144,P075,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.532
+SAMN09278433,PRJNA345144,P079,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,1.999
+SAMN09278653,PRJNA345144,P079,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.813
+SAMN09278309,PRJNA345144,P079,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.756
+SAMN09278434,PRJNA345144,P080,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.104
+SAMN09278654,PRJNA345144,P080,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.668
+SAMN09278310,PRJNA345144,P080,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.123
+SAMN09278435,PRJNA345144,P081,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,4.237
+SAMN09278271,PRJNA345144,P081,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.313
+SAMN09278565,PRJNA345144,P081,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.208
+SAMN09278413,PRJNA345144,P082,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.073
+SAMN09278097,PRJNA345144,P082,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,5.04
+SAMN09278087,PRJNA345144,P082,,infant,730.0,male,NZ,,,,,,,primary,1.0,3.857
+SAMN09278436,PRJNA345144,P083,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.91
+SAMN09278566,PRJNA345144,P083,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,5.472
+SAMN09278414,PRJNA345144,P085,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.538
+SAMN09278687,PRJNA345144,P085,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,5.479
+SAMN09278171,PRJNA345144,P085,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,5.115
+SAMN09278181,PRJNA345144,P085,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.791
+SAMN09278191,PRJNA345144,P085,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.639
+SAMN09278686,PRJNA345144,P087,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.325
+SAMN09278656,PRJNA345144,P087,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.836
+SAMN09278098,PRJNA345144,P087,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.335
+SAMN09278088,PRJNA345144,P087,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.329
+SAMN09278655,PRJNA345144,P089,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.352
+SAMN09278307,PRJNA345144,P089,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.189
+SAMN09278330,PRJNA345144,P089,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.041
+SAMN09278415,PRJNA345144,P090,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.867
+SAMN09278141,PRJNA345144,P090,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.406
+SAMN09278151,PRJNA345144,P090,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,10.357
+SAMN09278161,PRJNA345144,P090,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.996
+SAMN09278437,PRJNA345144,P093,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,3.776
+SAMN09278657,PRJNA345144,P093,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.06
+SAMN09278567,PRJNA345144,P093,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.669
+SAMN09278416,PRJNA345144,P094,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,1.443
+SAMN09278172,PRJNA345144,P094,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,0.346
+SAMN09278182,PRJNA345144,P094,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.315
+SAMN09278192,PRJNA345144,P094,,infant,730.0,male,NZ,,,,,no,,primary,1.0,5.702
+SAMN09278263,PRJNA345144,P095,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.862
+SAMN09278308,PRJNA345144,P095,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.092
+SAMN09278704,PRJNA345144,P095,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.319
+SAMN09278438,PRJNA345144,P096,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,1.977
+SAMN09278266,PRJNA345144,P096,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.251
+SAMN09278519,PRJNA345144,P096,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.596
+SAMN09278439,PRJNA345144,P099,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.846
+SAMN09278268,PRJNA345144,P099,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.095
+SAMN09278563,PRJNA345144,P099,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.591
+SAMN09278417,PRJNA345144,P101,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.748
+SAMN09278173,PRJNA345144,P101,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,6.953
+SAMN09278183,PRJNA345144,P101,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.853
+SAMN09278193,PRJNA345144,P101,,infant,730.0,male,NZ,,,,,no,,primary,1.0,4.204
+SAMN09278418,PRJNA345144,P103,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,1.93
+SAMN09278327,PRJNA345144,P103,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.76
+SAMN09278099,PRJNA345144,P103,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,7.075
+SAMN09278089,PRJNA345144,P103,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.359
+SAMN09278419,PRJNA345144,P104,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.754
+SAMN09278562,PRJNA345144,P104,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.045
+SAMN09278196,PRJNA345144,P104,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.743
+SAMN09278420,PRJNA345144,P106,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.656
+SAMN09278660,PRJNA345144,P106,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.641
+SAMN09278197,PRJNA345144,P106,1 yr - 4 yr,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.623
+SAMN09278440,PRJNA345144,P109,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,1.767
+SAMN09278659,PRJNA345144,P109,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.126
+SAMN09278507,PRJNA345144,P109,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.7
+SAMN09278321,PRJNA345144,P109,,infant,730.0,female,NZ,,,,,no,,primary,1.0,4.748
+SAMN09278441,PRJNA345144,P110,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.49
+SAMN09278498,PRJNA345144,P110,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.413
+SAMN09278442,PRJNA345144,P111,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.243
+SAMN09278658,PRJNA345144,P111,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.528
+SAMN09278489,PRJNA345144,P111,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.815
+SAMN09278421,PRJNA345144,P112,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.105
+SAMN09278328,PRJNA345144,P112,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.655
+SAMN09278559,PRJNA345144,P112,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.065
+SAMN09278198,PRJNA345144,P112,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.948
+SAMN09278422,PRJNA345144,P115,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,1.955
+SAMN09278273,PRJNA345144,P115,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.478
+SAMN09278560,PRJNA345144,P115,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.512
+SAMN09278199,PRJNA345144,P115,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.89
+SAMN09278443,PRJNA345144,P116,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.373
+SAMN09278510,PRJNA345144,P116,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.974
+SAMN09278444,PRJNA345144,P120,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.273
+SAMN09278264,PRJNA345144,P120,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.113
+SAMN09278662,PRJNA345144,P120,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.784
+SAMN09278561,PRJNA345144,P120,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.013
+SAMN09278684,PRJNA345144,P121,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.795
+SAMN09278497,PRJNA345144,P121,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.415
+SAMN09278200,PRJNA345144,P121,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.686
+SAMN09278423,PRJNA345144,P122,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.48
+SAMN09278663,PRJNA345144,P122,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.612
+SAMN09278488,PRJNA345144,P122,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,7.804
+SAMN09278201,PRJNA345144,P122,,infant,730.0,female,NZ,,,,,no,,primary,1.0,4.074
+SAMN09278445,PRJNA345144,P123,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,1.822
+SAMN09278664,PRJNA345144,P123,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.566
+SAMN09278558,PRJNA345144,P123,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.135
+SAMN09278446,PRJNA345144,P124,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.581
+SAMN09278549,PRJNA345144,P124,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,5.354
+SAMN09278447,PRJNA345144,P125,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,1.752
+SAMN09278269,PRJNA345144,P125,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.425
+SAMN09278540,PRJNA345144,P125,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.563
+SAMN09278685,PRJNA345144,P127,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.675
+SAMN09278121,PRJNA345144,P127,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.189
+SAMN09278111,PRJNA345144,P127,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.179
+SAMN09278131,PRJNA345144,P127,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.179
+SAMN09278462,PRJNA345144,P128,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,4.547
+SAMN09278661,PRJNA345144,P128,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.778
+SAMN09278479,PRJNA345144,P128,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.774
+SAMN09278463,PRJNA345144,P129,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.162
+SAMN09278272,PRJNA345144,P129,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.971
+SAMN09278525,PRJNA345144,P129,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.956
+SAMN09278464,PRJNA345144,P130,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.203
+SAMN09278516,PRJNA345144,P130,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.894
+SAMN09278465,PRJNA345144,P132,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.024
+SAMN09278262,PRJNA345144,P132,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.402
+SAMN09278539,PRJNA345144,P132,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.642
+SAMN09278466,PRJNA345144,P134,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.232
+SAMN09278665,PRJNA345144,P134,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,4.81
+SAMN09278532,PRJNA345144,P134,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,5.443
+SAMN09278453,PRJNA345144,P136,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.216
+SAMN09278666,PRJNA345144,P136,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.768
+SAMN09278524,PRJNA345144,P136,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.03
+SAMN09278467,PRJNA345144,P139,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.205
+SAMN09278667,PRJNA345144,P139,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.303
+SAMN09278515,PRJNA345144,P139,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.225
+SAMN09278705,PRJNA345144,P139,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.476
+SAMN09278456,PRJNA345144,P143,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.71
+SAMN09278265,PRJNA345144,P143,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.291
+SAMN09278506,PRJNA345144,P143,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.557
+SAMN09278448,PRJNA345144,P146,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.159
+SAMN09278122,PRJNA345144,P146,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.997
+SAMN09278112,PRJNA345144,P146,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.562
+SAMN09278132,PRJNA345144,P146,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.681
+SAMN09278468,PRJNA345144,P147,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,1.843
+SAMN09278668,PRJNA345144,P147,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.449
+SAMN09278514,PRJNA345144,P147,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.742
+SAMN09278706,PRJNA345144,P147,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.389
+SAMN09278457,PRJNA345144,P148,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.459
+SAMN09278669,PRJNA345144,P148,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.024
+SAMN09278100,PRJNA345144,P148,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.298
+SAMN09278090,PRJNA345144,P148,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.482
+SAMN09278469,PRJNA345144,P152,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.192
+SAMN09278557,PRJNA345144,P152,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.7
+SAMN09278548,PRJNA345144,P154,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.135
+SAMN09278081,PRJNA345144,P154,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.441
+SAMN09278470,PRJNA345144,P155,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.07
+SAMN09278523,PRJNA345144,P155,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.416
+SAMN09278320,PRJNA345144,P155,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.714
+SAMN09278123,PRJNA345144,P161,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.698
+SAMN09278113,PRJNA345144,P161,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.077
+SAMN09278133,PRJNA345144,P161,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.725
+SAMN09278449,PRJNA345144,P162,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.052
+SAMN09278174,PRJNA345144,P162,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.251
+SAMN09278184,PRJNA345144,P162,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.149
+SAMN09278194,PRJNA345144,P162,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.242
+SAMN09278471,PRJNA345144,P163,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,1.736
+SAMN09278505,PRJNA345144,P163,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.697
+SAMN09278472,PRJNA345144,P166,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.995
+SAMN09278678,PRJNA345144,P166,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.599
+SAMN09278564,PRJNA345144,P166,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.025
+SAMN09278311,PRJNA345144,P166,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.653
+SAMN09278486,PRJNA345144,P166,,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.772
+SAMN09278473,PRJNA345144,P167,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.164
+SAMN09278496,PRJNA345144,P167,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.015
+SAMN09278312,PRJNA345144,P167,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.743
+SAMN09278454,PRJNA345144,P169,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.311
+SAMN09278487,PRJNA345144,P169,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.828
+SAMN09278450,PRJNA345144,P171,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.235
+SAMN09278326,PRJNA345144,P171,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.361
+SAMN09278538,PRJNA345144,P171,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.166
+SAMN09278079,PRJNA345144,P171,,infant,730.0,male,NZ,,,,,,,primary,1.0,9.868
+SAMN09278451,PRJNA345144,P175,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.869
+SAMN09278142,PRJNA345144,P175,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.107
+SAMN09278152,PRJNA345144,P175,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.431
+SAMN09278162,PRJNA345144,P175,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.885
+SAMN09278143,PRJNA345144,P177,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.171
+SAMN09278153,PRJNA345144,P177,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.968
+SAMN09278163,PRJNA345144,P177,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.272
+SAMN09278474,PRJNA345144,P180,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.826
+SAMN09278531,PRJNA345144,P180,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.492
+SAMN09278452,PRJNA345144,P183,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.952
+SAMN09278144,PRJNA345144,P183,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.891
+SAMN09278154,PRJNA345144,P183,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.423
+SAMN09278164,PRJNA345144,P183,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.741
+SAMN09278475,PRJNA345144,P184,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.03
+SAMN09278693,PRJNA345144,P184,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.863
+SAMN09278458,PRJNA345144,P185,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.864
+SAMN09278495,PRJNA345144,P185,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.074
+SAMN09278476,PRJNA345144,P191,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.409
+SAMN09278556,PRJNA345144,P191,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.79
+SAMN09278459,PRJNA345144,P192,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.091
+SAMN09278547,PRJNA345144,P192,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.43
+SAMN09278460,PRJNA345144,P193,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.04
+SAMN09278284,PRJNA345144,P193,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.891
+SAMN09278677,PRJNA345144,P196,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.993
+SAMN09278455,PRJNA345144,P197,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.309
+SAMN09278332,PRJNA345144,P197,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.43
+SAMN09278461,PRJNA345144,P200,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.034
+SAMN09278674,PRJNA345144,P200,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.134
+SAMN09278313,PRJNA345144,P200,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.971
+SAMN09278477,PRJNA345144,P204,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,1.692
+SAMN09278675,PRJNA345144,P204,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.048
+SAMN09278478,PRJNA345144,P205,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.213
+SAMN09278676,PRJNA345144,P205,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.109
+SAMN09278672,PRJNA345144,P211,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.826
+SAMN09278480,PRJNA345144,P214,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.334
+SAMN09278280,PRJNA345144,P214,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.347
+SAMN09278329,PRJNA345144,P219,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,3.448
+SAMN09278673,PRJNA345144,P219,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.058
+SAMN09278288,PRJNA345144,P220,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.583
+SAMN09278275,PRJNA345144,P225,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.603
+SAMN09278274,PRJNA345144,P226,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.138
+SAMN09278671,PRJNA345144,P226,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.802
+SAMN09278276,PRJNA345144,P227,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,5.27
+SAMN09278281,PRJNA345144,P227,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.595
+SAMN09278277,PRJNA345144,P228,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.082
+SAMN09278285,PRJNA345144,P228,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.212
+SAMN09278331,PRJNA345144,P232,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.583
+SAMN09278289,PRJNA345144,P232,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.612
+SAMN09278278,PRJNA345144,P238,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.576
+SAMN09278286,PRJNA345144,P238,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.318
+SAMN09278279,PRJNA345144,P248,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,1.824
+SAMN09278670,PRJNA345144,P248,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.247
+SAMN09278283,PRJNA345144,P249,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,1.637
+SAMN09278282,PRJNA345144,P249,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.069
+SAMN09278314,PRJNA345144,P249,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.885
+SAMN09278145,PRJNA345144,P253,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.394
+SAMN09278155,PRJNA345144,P253,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.951
+SAMN09278165,PRJNA345144,P253,,infant,730.0,female,NZ,,,,,,,primary,1.0,6.968
+SAMN09278287,PRJNA345144,P254,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.179
+SAMN09278290,PRJNA345144,P254,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.861
+SAMN09278291,PRJNA345144,P255,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,4.926
+SAMN09278292,PRJNA345144,P255,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.127
+SAMN09278689,PRJNA345144,P509,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.442
+SAMN09278234,PRJNA345144,P509,1 yr - 4 yr,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.999
+SAMN09278690,PRJNA345144,P512,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.138
+SAMN09278513,PRJNA345144,P512,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.812
+SAMN09278241,PRJNA345144,P512,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.484
+SAMN09278223,PRJNA345144,P513,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.831
+SAMN09278504,PRJNA345144,P513,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.048
+SAMN09278246,PRJNA345144,P513,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.897
+SAMN09278230,PRJNA345144,P514,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.999
+SAMN09278101,PRJNA345144,P514,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.796
+SAMN09278091,PRJNA345144,P514,,infant,730.0,female,NZ,,,,,,,primary,1.0,1.037
+SAMN09278238,PRJNA345144,P515,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,3.992
+SAMN09278537,PRJNA345144,P515,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.438
+SAMN09278718,PRJNA345144,P516,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.521
+SAMN09278530,PRJNA345144,P516,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.838
+SAMN09278708,PRJNA345144,P525,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.559
+SAMN09278229,PRJNA345144,P525,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.547
+SAMN09278522,PRJNA345144,P525,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.509
+SAMN09278253,PRJNA345144,P525,,infant,730.0,male,NZ,,,,,no,,primary,1.0,5.219
+SAMN09278634,PRJNA345144,P528,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.652
+SAMN09278503,PRJNA345144,P528,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.49
+SAMN09278259,PRJNA345144,P528,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.999
+SAMN09278711,PRJNA345144,P529,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.283
+SAMN09278635,PRJNA345144,P529,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.527
+SAMN09278494,PRJNA345144,P529,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.39
+SAMN09278206,PRJNA345144,P529,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.638
+SAMN09278203,PRJNA345144,P530,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.014
+SAMN09278356,PRJNA345144,P530,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.421
+SAMN09278485,PRJNA345144,P530,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.194
+SAMN09278214,PRJNA345144,P530,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.737
+SAMN09278210,PRJNA345144,P531,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.738
+SAMN09278555,PRJNA345144,P531,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.346
+SAMN09278219,PRJNA345144,P531,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.441
+SAMN09278546,PRJNA345144,P534,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.696
+SAMN09278226,PRJNA345144,P534,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.817
+SAMN09278358,PRJNA345144,P534,,infant,91.0,female,NZ,,,,,no,,primary,1.0,1.896
+SAMN09278231,PRJNA345144,P538,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.544
+SAMN09278357,PRJNA345144,P538,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.359
+SAMN09278233,PRJNA345144,P538,1 yr - 4 yr,infant,730.0,male,NZ,,,,,,,primary,1.0,3.516
+SAMN09278715,PRJNA345144,P545,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.396
+SAMN09278362,PRJNA345144,P545,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.6
+SAMN09278529,PRJNA345144,P545,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.589
+SAMN09278240,PRJNA345144,P545,,infant,730.0,male,NZ,,,,,,,primary,1.0,6.123
+SAMN09278224,PRJNA345144,P546,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.787
+SAMN09278361,PRJNA345144,P546,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.14
+SAMN09278521,PRJNA345144,P546,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,7.255
+SAMN09278245,PRJNA345144,P546,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.374
+SAMN09278257,PRJNA345144,P548,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,4.111
+SAMN09278360,PRJNA345144,P548,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.385
+SAMN09278512,PRJNA345144,P548,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.273
+SAMN09278204,PRJNA345144,P552,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,4.111
+SAMN09278359,PRJNA345144,P552,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,4.332
+SAMN09278484,PRJNA345144,P552,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.074
+SAMN09278252,PRJNA345144,P552,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.719
+SAMN09278211,PRJNA345144,P555,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,4.688
+SAMN09278364,PRJNA345144,P555,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.587
+SAMN09278554,PRJNA345144,P555,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.765
+SAMN09278082,PRJNA345144,P555,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.395
+SAMN09278719,PRJNA345144,P557,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,6.565
+SAMN09278363,PRJNA345144,P557,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,1.836
+SAMN09278545,PRJNA345144,P557,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,5.961
+SAMN09278721,PRJNA345144,P561,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.315
+SAMN09278239,PRJNA345144,P562,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.713
+SAMN09278520,PRJNA345144,P562,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.161
+SAMN09278243,PRJNA345144,P566,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,5.013
+SAMN09278716,PRJNA345144,P566,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.496
+SAMN09278511,PRJNA345144,P566,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.086
+SAMN09278250,PRJNA345144,P568,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.954
+SAMN09278256,PRJNA345144,P568,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.481
+SAMN09278502,PRJNA345144,P568,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.288
+SAMN09278385,PRJNA345144,P568,,infant,730.0,male,NZ,,,,,,,primary,1.0,7.912
+SAMN09278632,PRJNA345144,P569,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.556
+SAMN09278714,PRJNA345144,P569,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.476
+SAMN09278493,PRJNA345144,P569,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,5.2
+SAMN09278700,PRJNA345144,P569,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.501
+SAMN09278080,PRJNA345144,P570,1 yr - 4 yr,infant,730.0,male,NZ,,,,,,,primary,1.0,10.228
+SAMN09278595,PRJNA345144,P575,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.526
+SAMN09278553,PRJNA345144,P575,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.522
+SAMN09278723,PRJNA345144,P577,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.743
+SAMN09278102,PRJNA345144,P577,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,5.314
+SAMN09278092,PRJNA345144,P577,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.733
+SAMN09278544,PRJNA345144,P579,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.287
+SAMN09278084,PRJNA345144,P579,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.934
+SAMN09278212,PRJNA345144,P580,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.522
+SAMN09278209,PRJNA345144,P580,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.646
+SAMN09278536,PRJNA345144,P580,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.159
+SAMN09278217,PRJNA345144,P582,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.819
+SAMN09278501,PRJNA345144,P582,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.696
+SAMN09278596,PRJNA345144,P589,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,5.066
+SAMN09278717,PRJNA345144,P589,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.494
+SAMN09278369,PRJNA345144,P589,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,7.917
+SAMN09278384,PRJNA345144,P589,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.423
+SAMN09278222,PRJNA345144,P590,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.408
+SAMN09278492,PRJNA345144,P590,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,1.595
+SAMN09278597,PRJNA345144,P591,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.518
+SAMN09278722,PRJNA345144,P591,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.662
+SAMN09278483,PRJNA345144,P591,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.363
+SAMN09278083,PRJNA345144,P591,,infant,730.0,male,NZ,,,,,,,primary,1.0,17.405
+SAMN09278244,PRJNA345144,P601,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,4.811
+SAMN09278228,PRJNA345144,P601,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.251
+SAMN09278368,PRJNA345144,P601,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,7.253
+SAMN09278712,PRJNA345144,P602,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.059
+SAMN09278236,PRJNA345144,P602,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.057
+SAMN09278367,PRJNA345144,P602,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.75
+SAMN09278383,PRJNA345144,P602,,infant,730.0,male,NZ,,,,,no,,primary,1.0,7.476
+SAMN09278599,PRJNA345144,P603,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.617
+SAMN09278366,PRJNA345144,P603,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,6.56
+SAMN09278251,PRJNA345144,P604,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.331
+SAMN09278248,PRJNA345144,P604,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.406
+SAMN09278365,PRJNA345144,P604,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.248
+SAMN09278255,PRJNA345144,P607,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.461
+SAMN09278373,PRJNA345144,P607,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,7.314
+SAMN09278691,PRJNA345144,P608,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,7.353
+SAMN09278103,PRJNA345144,P608,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.903
+SAMN09278093,PRJNA345144,P608,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.263
+SAMN09278225,PRJNA345144,P611,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,4.301
+SAMN09278630,PRJNA345144,P611,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,7.84
+SAMN09278372,PRJNA345144,P611,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.548
+SAMN09278591,PRJNA345144,P612,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.831
+SAMN09278631,PRJNA345144,P612,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.833
+SAMN09278371,PRJNA345144,P612,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,7.526
+SAMN09278389,PRJNA345144,P612,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.006
+SAMN09278592,PRJNA345144,P613,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.267
+SAMN09278370,PRJNA345144,P613,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,6.161
+SAMN09278232,PRJNA345144,P617,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.014
+SAMN09278633,PRJNA345144,P617,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.803
+SAMN09278636,PRJNA345144,P620,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.591
+SAMN09278683,PRJNA345144,P620,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.295
+SAMN09278374,PRJNA345144,P620,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.75
+SAMN09278346,PRJNA345144,P628,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.72
+SAMN09278681,PRJNA345144,P628,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.642
+SAMN09278104,PRJNA345144,P628,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.427
+SAMN09278094,PRJNA345144,P628,,infant,730.0,female,NZ,,,,,,,primary,1.0,5.202
+SAMN09278345,PRJNA345144,P631,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,1.996
+SAMN09278682,PRJNA345144,P631,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.219
+SAMN09278388,PRJNA345144,P631,1 yr - 4 yr,infant,730.0,female,NZ,,,,,,,primary,1.0,2.519
+SAMN09278344,PRJNA345144,P640,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.537
+SAMN09278124,PRJNA345144,P640,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.298
+SAMN09278114,PRJNA345144,P640,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.543
+SAMN09278134,PRJNA345144,P640,,infant,730.0,male,NZ,,,,,no,,primary,1.0,2.581
+SAMN09278343,PRJNA345144,P644,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.837
+SAMN09278637,PRJNA345144,P644,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.65
+SAMN09278380,PRJNA345144,P644,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,1.996
+SAMN09278387,PRJNA345144,P644,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.687
+SAMN09278175,PRJNA345144,P646,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.232
+SAMN09278185,PRJNA345144,P646,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,5.069
+SAMN09278195,PRJNA345144,P646,,infant,730.0,male,NZ,,,,,no,,primary,1.0,3.807
+SAMN09278342,PRJNA345144,P649,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,9.831
+SAMN09278679,PRJNA345144,P649,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.833
+SAMN09278379,PRJNA345144,P649,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.045
+SAMN09278386,PRJNA345144,P649,,infant,730.0,female,NZ,,,,,,,primary,1.0,5.563
+SAMN09278341,PRJNA345144,P650,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.411
+SAMN09278680,PRJNA345144,P650,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.853
+SAMN09278378,PRJNA345144,P650,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.577
+SAMN09278394,PRJNA345144,P650,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.497
+SAMN09278340,PRJNA345144,P651,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.615
+SAMN09278125,PRJNA345144,P651,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.637
+SAMN09278638,PRJNA345144,P651,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.433
+SAMN09278115,PRJNA345144,P651,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.446
+SAMN09278135,PRJNA345144,P651,,infant,730.0,female,NZ,,,,,no,,primary,1.0,3.741
+SAMN09278339,PRJNA345144,P652,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.563
+SAMN09278377,PRJNA345144,P652,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.962
+SAMN09278338,PRJNA345144,P654,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.454
+SAMN09278639,PRJNA345144,P654,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.855
+SAMN09278105,PRJNA345144,P654,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.739
+SAMN09278095,PRJNA345144,P654,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.663
+SAMN09278337,PRJNA345144,P656,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.797
+SAMN09278640,PRJNA345144,P656,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.905
+SAMN09278376,PRJNA345144,P656,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,1.88
+SAMN09278393,PRJNA345144,P656,,infant,730.0,female,NZ,,,,,no,,primary,1.0,4.518
+SAMN09278336,PRJNA345144,P659,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.34
+SAMN09278202,PRJNA345144,P659,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,3.772
+SAMN09278382,PRJNA345144,P659,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,6.429
+SAMN09278392,PRJNA345144,P659,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.558
+SAMN09278335,PRJNA345144,P662,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.494
+SAMN09278249,PRJNA345144,P662,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.618
+SAMN09278381,PRJNA345144,P662,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.77
+SAMN09278334,PRJNA345144,P664,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.129
+SAMN09278641,PRJNA345144,P664,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.637
+SAMN09278375,PRJNA345144,P664,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.401
+SAMN09278333,PRJNA345144,P665,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.592
+SAMN09278642,PRJNA345144,P665,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,3.503
+SAMN09278550,PRJNA345144,P666,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,7.612
+SAMN09278643,PRJNA345144,P666,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,7.285
+SAMN09278260,PRJNA345144,P666,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,5.592
+SAMN09278541,PRJNA345144,P667,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.594
+SAMN09278644,PRJNA345144,P667,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.763
+SAMN09278534,PRJNA345144,P667,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.904
+SAMN09278533,PRJNA345144,P668,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.7
+SAMN09278645,PRJNA345144,P668,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,4.297
+SAMN09278626,PRJNA345144,P668,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,6.01
+SAMN09278526,PRJNA345144,P670,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.696
+SAMN09278220,PRJNA345144,P670,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.219
+SAMN09278085,PRJNA345144,P670,1 yr - 4 yr,infant,730.0,female,NZ,,,,,,,primary,1.0,4.31
+SAMN09278517,PRJNA345144,P671,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.042
+SAMN09278646,PRJNA345144,P671,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,4.159
+SAMN09278216,PRJNA345144,P671,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,5.934
+SAMN09278391,PRJNA345144,P671,,infant,730.0,male,NZ,,,,,,,primary,1.0,2.336
+SAMN09278508,PRJNA345144,P675,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,3.236
+SAMN09278647,PRJNA345144,P675,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,3.237
+SAMN09278692,PRJNA345144,P675,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.227
+SAMN09278390,PRJNA345144,P675,,infant,730.0,female,NZ,,,,,,,primary,1.0,3.909
+SAMN09278499,PRJNA345144,P676,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,2.109
+SAMN09278237,PRJNA345144,P676,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.385
+SAMN09278648,PRJNA345144,P676,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,5.165
+SAMN09278490,PRJNA345144,P680,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,1.676
+SAMN09278617,PRJNA345144,P680,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,4.198
+SAMN09278242,PRJNA345144,P680,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.297
+SAMN09278481,PRJNA345144,P682,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,1.813
+SAMN09278618,PRJNA345144,P682,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.874
+SAMN09278621,PRJNA345144,P682,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,2.699
+SAMN09278551,PRJNA345144,P683,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.441
+SAMN09278593,PRJNA345144,P683,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.509
+SAMN09278622,PRJNA345144,P683,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,2.406
+SAMN09278396,PRJNA345144,P683,,infant,730.0,male,NZ,,,,,,,primary,1.0,2.368
+SAMN09278542,PRJNA345144,P684,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,4.588
+SAMN09278619,PRJNA345144,P684,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,4.262
+SAMN09278629,PRJNA345144,P684,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.343
+SAMN09278620,PRJNA345144,P685,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,1.914
+SAMN09278594,PRJNA345144,P688,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.111
+SAMN09278615,PRJNA345144,P688,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,4.033
+SAMN09278625,PRJNA345144,P688,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.244
+SAMN09278395,PRJNA345144,P688,,infant,730.0,male,NZ,,,,,,,primary,1.0,4.091
+SAMN09278527,PRJNA345144,P694,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,3.696
+SAMN09278616,PRJNA345144,P694,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,4.296
+SAMN09278710,PRJNA345144,P700,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,4.571
+SAMN09278612,PRJNA345144,P700,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.775
+SAMN09278624,PRJNA345144,P700,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,4.05
+SAMN09278349,PRJNA345144,P700,,infant,730.0,female,NZ,,,,,no,,primary,1.0,8.254
+SAMN09278518,PRJNA345144,P702,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.561
+SAMN09278613,PRJNA345144,P702,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,5.728
+SAMN09278215,PRJNA345144,P702,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.393
+SAMN09278086,PRJNA345144,P702,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.365
+SAMN09278614,PRJNA345144,P704,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.625
+SAMN09278235,PRJNA345144,P704,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,2.656
+SAMN09278347,PRJNA345144,P704,,infant,730.0,male,NZ,,,,,no,,primary,1.0,2.402
+SAMN09278582,PRJNA345144,P709,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,3.925
+SAMN09278607,PRJNA345144,P709,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.75
+SAMN09278578,PRJNA345144,P709,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,2.681
+SAMN09278096,PRJNA345144,P709,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.218
+SAMN09278583,PRJNA345144,P710,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.833
+SAMN09278608,PRJNA345144,P710,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.188
+SAMN09278628,PRJNA345144,P710,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.741
+SAMN09278352,PRJNA345144,P710,,infant,730.0,male,NZ,,,,,no,,primary,1.0,2.225
+SAMN09278584,PRJNA345144,P711,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.229
+SAMN09278609,PRJNA345144,P711,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.511
+SAMN09278208,PRJNA345144,P711,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.152
+SAMN09278348,PRJNA345144,P711,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.82
+SAMN09278585,PRJNA345144,P717,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.986
+SAMN09278610,PRJNA345144,P717,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.706
+SAMN09278254,PRJNA345144,P717,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,6.73
+SAMN09278399,PRJNA345144,P717,,infant,730.0,male,NZ,,,,,no,,primary,1.0,4.418
+SAMN09278586,PRJNA345144,P719,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.499
+SAMN09278611,PRJNA345144,P719,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.854
+SAMN09278600,PRJNA345144,P719,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,3.319
+SAMN09278401,PRJNA345144,P719,,infant,730.0,female,NZ,,,,,,,primary,1.0,2.29
+SAMN09278587,PRJNA345144,P721,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.941
+SAMN09278602,PRJNA345144,P721,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.196
+SAMN09278588,PRJNA345144,P726,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.906
+SAMN09278603,PRJNA345144,P726,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.846
+SAMN09278207,PRJNA345144,P726,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.156
+SAMN09278398,PRJNA345144,P726,,infant,730.0,female,NZ,,,,,,,primary,1.0,7.124
+SAMN09278577,PRJNA345144,P729,0 - 1 month,neonate,0.0,female,NZ,,,,,,,primary,1.0,2.914
+SAMN09278604,PRJNA345144,P729,1 - 6 months,infant,91.0,female,NZ,,,,,,,primary,1.0,2.73
+SAMN09278247,PRJNA345144,P729,1 yr - 4 yr,infant,365.0,female,NZ,,,,,,,primary,1.0,4.36
+SAMN09278351,PRJNA345144,P729,,infant,730.0,female,NZ,,,,,,,primary,1.0,4.195
+SAMN09278397,PRJNA345144,P731,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.111
+SAMN09278709,PRJNA345144,P731,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,8.026
+SAMN09278605,PRJNA345144,P731,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.679
+SAMN09278720,PRJNA345144,P731,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.711
+SAMN09278579,PRJNA345144,P732,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.292
+SAMN09278606,PRJNA345144,P732,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,6.947
+SAMN09278598,PRJNA345144,P732,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.147
+SAMN09278350,PRJNA345144,P732,,infant,730.0,male,NZ,,,,,no,,primary,1.0,2.488
+SAMN09278580,PRJNA345144,P740,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.033
+SAMN09278258,PRJNA345144,P740,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,2.799
+SAMN09278581,PRJNA345144,P741,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,3.357
+SAMN09278601,PRJNA345144,P741,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,4.279
+SAMN09278227,PRJNA345144,P741,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,3.551
+SAMN09278353,PRJNA345144,P741,,infant,730.0,male,NZ,,,,,no,,primary,1.0,5.227
+SAMN09278205,PRJNA345144,P747,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,5.374
+SAMN09278574,PRJNA345144,P747,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,3.54
+SAMN09278590,PRJNA345144,P747,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.004
+SAMN09278403,PRJNA345144,P747,,infant,730.0,male,NZ,,,,,,,primary,1.0,3.651
+SAMN09278688,PRJNA345144,P748,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,2.649
+SAMN09278575,PRJNA345144,P750,0 - 1 month,neonate,0.0,female,NZ,,,,,no,,primary,1.0,3.051
+SAMN09278213,PRJNA345144,P750,1 - 6 months,infant,91.0,female,NZ,,,,,no,,primary,1.0,3.691
+SAMN09278627,PRJNA345144,P750,1 yr - 4 yr,infant,365.0,female,NZ,,,,,no,,primary,1.0,3.857
+SAMN09278355,PRJNA345144,P750,,infant,730.0,female,NZ,,,,,no,,primary,1.0,2.667
+SAMN09278576,PRJNA345144,P751,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.872
+SAMN09278713,PRJNA345144,P751,1 - 6 months,infant,91.0,male,NZ,,,,,,,primary,1.0,5.106
+SAMN09278623,PRJNA345144,P751,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,4.858
+SAMN09278354,PRJNA345144,P751,,infant,730.0,male,NZ,,,,,,,primary,1.0,3.032
+SAMN09278572,PRJNA345144,P752,0 - 1 month,neonate,0.0,male,NZ,,,,,,,primary,1.0,2.3
+SAMN09278589,PRJNA345144,P752,1 yr - 4 yr,infant,365.0,male,NZ,,,,,,,primary,1.0,3.155
+SAMN09278400,PRJNA345144,P752,,infant,730.0,male,NZ,,,,,,,primary,1.0,3.202
+SAMN09278573,PRJNA345144,P757,0 - 1 month,neonate,0.0,male,NZ,,,,,no,,primary,1.0,2.419
+SAMN09278218,PRJNA345144,P757,1 - 6 months,infant,91.0,male,NZ,,,,,no,,primary,1.0,2.671
+SAMN09278221,PRJNA345144,P757,1 yr - 4 yr,infant,365.0,male,NZ,,,,,no,,primary,1.0,4.126
+SAMN09278402,PRJNA345144,P758,1 yr - 4 yr,infant,730.0,female,NZ,,,,,,,primary,1.0,5.085

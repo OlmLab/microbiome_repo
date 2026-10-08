@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Authors — Microbiome Repo</title>
+<meta name="description" content="Search 17,658 author names linked to the catalog studies (human gut shotgun metagenomes, all ages) through their papers.">
+<meta name="catalog-release" content="data-v1.15.0">
+<meta name="catalog-release-id" content="R2026.16">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/authors/index.html">
+<meta name="catalog-package-version" content="1.15.0">
+<meta name="catalog-build-date" content="2026-10-08">
+<link rel="stylesheet" href="../static/site.css">
+
+
+
+</head>
+<body>
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html" class="active">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › Authors</div>
+
+<h1>Authors</h1>
+<p class="lead">Search 17,658 author names (44,696 study × author rows over 1,898 of the 2,886 catalog studies). Each hit lists the catalog studies the author is linked to through a paper (Europe PMC author lists of the linked papers; for the infant-extension studies also the curated links). Each study appears as a preview card: accession, title, samples, country / top condition, year.</p>
+<p class="note"><b>Caveats:</b> names are string-matched from Europe PMC author strings — the same person can appear under several initial variants (e.g. "Aagaard K" and "Aagaard KM") and no disambiguation was attempted; studies without a linked paper have no authors; consortium names are kept as group authors. A paper linked with relation <span class="mono">unsure</span> may re-analyse rather than produce the data.</p>
+<input id="q" class="searchbox" type="search" placeholder="Surname (and initials), e.g. Segata N, Knight R, Olm" autocomplete="off">
+<div id="status" class="small"></div>
+<div id="results"></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.16"><span class="mono">R2026.16</span></a> · package <span class="mono">1.15.0</span> · build <span class="mono">c9f4d91</span> · built 2026-10-08 · data tag <span class="mono">data-v1.15.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.16.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.16 (data package 1.15.0), OlmLab, 2026-10-08.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.15.0',release:'data-v1.15.0',releaseId:'R2026.16',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+<script>
+(function(){
+  const shards = ["_", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]; const cache = {};
+  const q = document.getElementById('q'), out = document.getElementById('results'), st = document.getElementById('status');
+  const h = s => String(s === null || s === undefined ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  function norm(s){ return String(s).replace(/æ/g,'ae').replace(/Æ/g,'AE').replace(/ø/g,'o').replace(/Ø/g,'O').replace(/ß/g,'ss').replace(/đ/g,'d').replace(/Đ/g,'D').replace(/ł/g,'l').replace(/Ł/g,'L').replace(/œ/g,'oe').replace(/Œ/g,'OE').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim(); }
+  async function shard(letter){ if (!cache[letter]) cache[letter] = fetch('idx/' + letter + '.json').then(r => r.ok ? r.json() : {}); return cache[letter]; }
+  async function run(){
+    const s = norm(q.value); out.innerHTML = ''; st.textContent = '';
+    if (s.length < 2) return;
+    const letter = /^[a-z]/.test(s) ? s[0] : '_';
+    if (!shards.includes(letter)) { st.textContent = 'No author starts with that letter.'; return; }
+    const idx = await shard(letter);
+    const keys = Object.keys(idx).filter(k => norm(k).startsWith(s) || norm(idx[k].n).includes(s)).sort().slice(0, 40);
+    st.textContent = keys.length ? keys.length + ' author name(s) match' + (keys.length === 40 ? ' (first 40 shown — type more)' : '') : 'No author matches "' + q.value + '".';
+    if (!keys.length) return;
+    const S = await studyIndex();
+    for (const k of keys) {
+      const a = idx[k];
+      const div = document.createElement('div'); div.id = 'a-' + encodeURIComponent(k).replace(/%/g, '_');
+      const cards = a.s.map(acc => { const r = S[acc] || {}; return '<a class="card scard" href="../studies/' + h(acc) + '.html"><span class="mono">' + h(acc) + '</span>' + (r.y ? ' <span class="small">' + h(r.y) + '</span>' : '') +
+        '<br><span class="small">' + h(r.t || '(no title)') + '</span><br><span class="small">' + (r.n !== undefined ? Number(r.n).toLocaleString() + ' samples' : '') + (r.co ? ' · ' + h(r.co) : '') + (r.hc ? ' · ' + h(r.hc) : '') + '</span></a>'; });
+      div.innerHTML = '<h3>' + h(a.n) + ' <span class="small">' + a.s.length + ' stud' + (a.s.length === 1 ? 'y' : 'ies') + (a.f ? ' · first author on ' + a.f : '') + '</span></h3><div class="scards">' + cards.join('') + '</div>';
+      out.appendChild(div);
+    }
+  }
+  let sidx = null;
+  async function studyIndex(){ if (!sidx) sidx = fetch('../data/studies_index.json').then(r => r.json()).then(rows => Object.fromEntries(rows.map(r => [r.a, r]))).catch(() => ({})); return sidx; }
+  q.addEventListener('input', () => { clearTimeout(q._t); q._t = setTimeout(run, 150); });
+  const init = new URLSearchParams(location.search).get('q'); if (init) { q.value = init; run(); }
+})();
+</script>
+
+</body>
+</html>
