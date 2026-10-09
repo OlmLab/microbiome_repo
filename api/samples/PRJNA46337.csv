@@ -1,0 +1,828 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN02297091,PRJNA46337,281945,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297343,PRJNA46337,281945,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN03082159,PRJNA46337,281945,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.005
+SAMN03082171,PRJNA46337,281945,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.012
+SAMN03082339,PRJNA46337,281945,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.009
+SAMN03082550,PRJNA46337,281945,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.012
+SAMN02297098,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297119,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297132,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297157,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297196,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297205,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297291,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297331,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082230,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.015
+SAMN03082329,PRJNA46337,281946,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN02297060,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.0
+SAMN02297220,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297240,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.0
+SAMN02297275,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297298,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.771
+SAMN02297439,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN03082142,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.009
+SAMN03082211,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.017
+SAMN03082260,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,3.0,0.009
+SAMN03082313,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.008
+SAMN03082377,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.016
+SAMN03082381,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.016
+SAMN03082566,PRJNA46337,281947,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297003,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297050,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297065,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297068,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297069,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,5.205
+SAMN02297112,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,4.0,2.558
+SAMN02297114,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297179,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,5.02
+SAMN02297186,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297197,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297234,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,6.164
+SAMN02297258,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.584
+SAMN02297349,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN02297373,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297390,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297417,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297428,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082210,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.028
+SAMN03082475,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.016
+SAMN03082488,PRJNA46337,281948,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN02297238,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297430,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082118,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.01
+SAMN03082169,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082226,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.012
+SAMN03082340,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.017
+SAMN03082454,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082492,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082495,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082500,PRJNA46337,281949,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.007
+SAMN02297102,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297203,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297303,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297348,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN03082274,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.007
+SAMN03082305,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082521,PRJNA46337,281950,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.011
+SAMN02297103,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297140,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,5.762
+SAMN02297192,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297281,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297363,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297397,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.925
+SAMN02297400,PRJNA46337,281951,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,6.596
+SAMN03082111,PRJNA46337,281954,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.007
+SAMN03082270,PRJNA46337,281954,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.007
+SAMN03082280,PRJNA46337,281954,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082494,PRJNA46337,281954,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.007
+SAMN02297187,PRJNA46337,281955,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297329,PRJNA46337,281955,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297365,PRJNA46337,281955,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN03082188,PRJNA46337,281955,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.005
+SAMN03082199,PRJNA46337,281955,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.007
+SAMN02297302,PRJNA46337,281956,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297364,PRJNA46337,281956,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082200,PRJNA46337,281956,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.014
+SAMN02297223,PRJNA46337,281957,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297266,PRJNA46337,281957,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297007,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.881
+SAMN02297033,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.373
+SAMN02297059,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,6.071
+SAMN02297075,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.737
+SAMN02297171,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.638
+SAMN02297259,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.212
+SAMN02297260,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,4.839
+SAMN02297296,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.166
+SAMN02297299,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.727
+SAMN02297327,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,4.928
+SAMN02297374,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,4.897
+SAMN03082439,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.018
+SAMN03082484,PRJNA46337,281958,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN02297243,PRJNA46337,281959,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297334,PRJNA46337,281959,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297429,PRJNA46337,281959,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082107,PRJNA46337,281959,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082322,PRJNA46337,281959,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.012
+SAMN02297079,PRJNA46337,281960,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297099,PRJNA46337,281960,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297106,PRJNA46337,281960,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297212,PRJNA46337,281960,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.0
+SAMN02297322,PRJNA46337,281960,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297392,PRJNA46337,281960,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297030,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,3.0,5.106
+SAMN02297035,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,primary,2.0,0.363
+SAMN02297216,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN02297357,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.415
+SAMN02297411,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297418,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,3.0,19.279
+SAMN03082106,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082138,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.012
+SAMN03082148,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082197,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082236,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082243,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082257,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082315,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082326,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082385,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082408,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082416,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082424,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082443,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082458,PRJNA46337,281961,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN02297118,PRJNA46337,281962,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,5.334
+SAMN02297159,PRJNA46337,281962,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN02297385,PRJNA46337,281962,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,5.194
+SAMN03082476,PRJNA46337,281962,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297041,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.108
+SAMN02297088,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,5.564
+SAMN02297181,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,5.598
+SAMN02297200,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,5.186
+SAMN03082139,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082186,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082253,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082314,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082426,PRJNA46337,281963,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN02297011,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297012,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,16.065
+SAMN02297029,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297037,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297143,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297180,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297191,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297276,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297284,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297338,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,15.66
+SAMN02297340,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297377,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297381,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082132,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.011
+SAMN03082173,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082209,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082217,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.015
+SAMN03082498,PRJNA46337,281964,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.006
+SAMN02297001,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297084,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297188,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297214,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297248,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297306,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297326,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082481,PRJNA46337,281966,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.02
+SAMN02297032,PRJNA46337,281967,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.271
+SAMN02297104,PRJNA46337,281967,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,4.729
+SAMN02297227,PRJNA46337,281967,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.239
+SAMN02297313,PRJNA46337,281967,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,5.11
+SAMN03082506,PRJNA46337,281967,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.014
+SAMN02297122,PRJNA46337,281969,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,4.743
+SAMN02297189,PRJNA46337,281969,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.358
+SAMN02297272,PRJNA46337,281969,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN03082267,PRJNA46337,281969,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082459,PRJNA46337,281969,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN02296999,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,4.743
+SAMN02297168,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,4.941
+SAMN02297236,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,3.984
+SAMN02297270,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,5.221
+SAMN02297300,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297301,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.512
+SAMN02297367,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,4.798
+SAMN02297368,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,5.031
+SAMN02297380,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,5.907
+SAMN02297424,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082304,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.015
+SAMN03082531,PRJNA46337,281971,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297062,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297131,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297148,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297255,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297360,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297372,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297410,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082258,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN03082405,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.014
+SAMN03082505,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN03082548,PRJNA46337,281972,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.008
+SAMN02297111,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297120,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297184,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN02297224,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297233,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297247,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297295,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297317,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297379,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297407,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297423,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082232,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082485,PRJNA46337,281973,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN02297265,PRJNA46337,281974,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN03082117,PRJNA46337,281974,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.012
+SAMN03082296,PRJNA46337,281974,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.017
+SAMN03082320,PRJNA46337,281974,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN02297115,PRJNA46337,281975,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297309,PRJNA46337,281975,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297402,PRJNA46337,281975,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297435,PRJNA46337,281975,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082423,PRJNA46337,281975,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297013,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297158,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297164,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297235,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297246,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297287,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297321,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297339,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297354,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297408,PRJNA46337,281976,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082135,PRJNA46337,281977,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082155,PRJNA46337,281977,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.006
+SAMN03082341,PRJNA46337,281977,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082398,PRJNA46337,281977,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.006
+SAMN02297017,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.001
+SAMN02297052,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.449
+SAMN02297053,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297072,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.451
+SAMN02297101,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,3.842
+SAMN02297162,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.0
+SAMN02297198,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,5.72
+SAMN02297225,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.479
+SAMN02297262,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,4.485
+SAMN02297312,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,4.036
+SAMN02297383,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,4.0,4.462
+SAMN02297436,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.001
+SAMN03082220,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082478,PRJNA46337,281978,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN02297204,PRJNA46337,281979,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297274,PRJNA46337,281979,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297413,PRJNA46337,281979,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082244,PRJNA46337,281979,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297228,PRJNA46337,281981,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297005,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297126,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297193,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN02297229,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297242,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297318,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297437,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN03082137,PRJNA46337,281982,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297049,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297061,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297078,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297080,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297130,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297289,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297409,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082108,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082427,PRJNA46337,281984,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297019,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,5.955
+SAMN02297076,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297172,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297261,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,14.677
+SAMN02297347,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082176,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082255,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082283,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082302,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.011
+SAMN03082328,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082389,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082404,PRJNA46337,281996,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.013
+SAMN02297014,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297066,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297073,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297167,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297232,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297320,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082116,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.016
+SAMN03082477,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082520,PRJNA46337,282005,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN02297028,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297133,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297263,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297432,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082162,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.012
+SAMN03082166,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082289,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082468,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082483,PRJNA46337,282017,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN02297015,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,primary,2.0,0.569
+SAMN02297018,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297022,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.558
+SAMN02297027,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.643
+SAMN02297040,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297092,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297109,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.562
+SAMN02297117,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297124,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297139,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297194,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,unknown,1.0,0.805
+SAMN02297215,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297252,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297314,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,unknown,1.0,0.735
+SAMN02297387,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297389,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297425,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297427,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082112,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082123,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082164,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082185,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN03082241,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082272,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082310,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082438,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082482,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082490,PRJNA46337,282022,,infant,,female,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN02297253,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082109,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082205,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082212,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082214,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082235,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082263,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082265,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.006
+SAMN03082294,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082295,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082323,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.008
+SAMN03082354,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082360,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082372,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082430,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082447,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082449,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082473,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082538,PRJNA46337,282031,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297290,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082134,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082160,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.017
+SAMN03082195,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082261,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082285,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082306,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082342,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082349,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082390,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082466,PRJNA46337,282037,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.011
+SAMN02297108,PRJNA46337,282052,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,4.275
+SAMN02297433,PRJNA46337,282052,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,4.967
+SAMN03082144,PRJNA46337,282052,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.013
+SAMN03082157,PRJNA46337,282052,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082394,PRJNA46337,282052,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297023,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297038,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297048,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297107,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297239,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297244,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.001
+SAMN02297369,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297386,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082288,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.014
+SAMN03082350,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.009
+SAMN03082549,PRJNA46337,423256,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.012
+SAMN03082146,PRJNA46337,423259,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082359,PRJNA46337,423259,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082507,PRJNA46337,423259,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082556,PRJNA46337,423259,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN02297044,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297095,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297163,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297249,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297304,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297394,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082384,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,3.0,0.011
+SAMN03082539,PRJNA46337,423260,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297039,PRJNA46337,423261,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297121,PRJNA46337,423261,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297353,PRJNA46337,423261,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297375,PRJNA46337,423261,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297064,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297085,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297170,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297406,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297415,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297434,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297440,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN03082208,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082406,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,3.0,0.02
+SAMN03082415,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,2.0,0.006
+SAMN03082465,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082525,PRJNA46337,423262,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN02297020,PRJNA46337,434431,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297077,PRJNA46337,434431,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297089,PRJNA46337,434431,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297230,PRJNA46337,434431,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082101,PRJNA46337,434431,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN02297156,PRJNA46337,434499,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.447
+SAMN02297293,PRJNA46337,434499,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.478
+SAMN02297403,PRJNA46337,434499,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.526
+SAMN02297267,PRJNA46337,434517,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297269,PRJNA46337,434517,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297319,PRJNA46337,434517,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297074,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.395
+SAMN02297090,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.767
+SAMN02297142,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.44
+SAMN02297288,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.914
+SAMN02297310,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.477
+SAMN02297362,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.38
+SAMN02297422,PRJNA46337,434537,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.593
+SAMN02297128,PRJNA46337,434545,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297138,PRJNA46337,434545,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN02297237,PRJNA46337,434545,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.0
+SAMN02297058,PRJNA46337,434561,,infant,,male,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.477
+SAMN02297083,PRJNA46337,434561,,infant,,male,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.393
+SAMN02297008,PRJNA46337,434590,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297082,PRJNA46337,434590,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297137,PRJNA46337,434590,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297444,PRJNA46337,434590,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297036,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297146,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297217,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,primary,3.0,13.522
+SAMN02297231,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297268,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,primary,4.0,4.653
+SAMN02297341,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,primary,3.0,5.574
+SAMN02297361,PRJNA46337,434615,,infant,,male,US,nec,"Enterocolitis, Necrotizing",,,,2013,primary,2.0,15.507
+SAMN02297010,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297034,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297056,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297134,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297150,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297166,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297257,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297279,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297283,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297335,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297344,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297358,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297378,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297388,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297398,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297421,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297431,PRJNA46337,434616,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297127,PRJNA46337,790127,,infant,,female,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.427
+SAMN02297195,PRJNA46337,790127,,infant,,female,US,nec,"Enterocolitis, Necrotizing",,,,,unknown,1.0,0.491
+SAMN02297282,PRJNA46337,790127,,infant,,female,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.485
+SAMN02297352,PRJNA46337,790127,,infant,,female,US,nec,"Enterocolitis, Necrotizing",,,,2013,unknown,1.0,0.395
+SAMN02297178,PRJNA46337,790135,,infant,,male,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.728
+SAMN02297336,PRJNA46337,790135,,infant,,male,US,healthy_control,subject is affected: no,,,,,unknown,1.0,0.464
+SAMN02297250,PRJNA46337,790147,,infant,,male,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.75
+SAMN03082120,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082124,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082127,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082129,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082153,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082167,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082168,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082187,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082213,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082223,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082242,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082246,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082247,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082252,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082276,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082292,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082300,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082317,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082324,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082331,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082332,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082337,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082351,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082355,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082356,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082358,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082397,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082402,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082410,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082419,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082422,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082433,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082435,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082440,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082442,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082446,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082450,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082496,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082499,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082518,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082563,PRJNA46337,790152,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN02297273,PRJNA46337,790160,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.751
+SAMN02297396,PRJNA46337,790160,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.708
+SAMN02297055,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.612
+SAMN03082177,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082181,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082182,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082194,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082227,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082238,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082290,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082318,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082319,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082321,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082366,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082413,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082425,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082474,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082489,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082528,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082540,PRJNA46337,790163,,infant,,male,US,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN02297081,PRJNA46337,790170,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.428
+SAMN02297277,PRJNA46337,790170,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.457
+SAMN02297376,PRJNA46337,790170,,infant,,female,US,healthy_control,subject is affected: no,,,,2013,unknown,1.0,0.404
+SAMN02297000,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297042,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297045,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297051,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297057,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297063,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297086,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297087,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297113,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297125,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297144,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297153,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297169,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297183,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297201,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297202,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297221,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297222,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297226,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297264,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297280,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297311,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297330,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297384,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297399,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297412,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297414,PRJNA46337,790172,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN03082170,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082206,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082219,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082234,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082259,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082262,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082271,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082275,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082278,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082316,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082347,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082364,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082370,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082376,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082382,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082412,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082428,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082501,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082503,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082516,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082541,PRJNA46337,790179,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082131,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082150,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082287,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082344,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082393,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082399,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082453,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082470,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082530,PRJNA46337,790188,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN02297002,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297031,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297047,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297054,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297094,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297129,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297149,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297161,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297165,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297173,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297177,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.003
+SAMN02297208,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297209,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297218,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297251,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297254,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297286,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297292,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297323,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297351,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297359,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297366,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.001
+SAMN02297405,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.0
+SAMN02297442,PRJNA46337,790189,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,1.0,0.002
+SAMN03082103,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082121,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082130,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082161,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082172,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082179,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082198,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082202,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082215,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082222,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082229,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082268,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082269,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082301,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082311,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082345,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082348,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082352,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082361,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082374,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082375,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082391,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082436,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082441,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082462,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082487,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082513,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082526,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082529,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082533,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082543,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082545,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082551,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082559,PRJNA46337,790199,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082104,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082119,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082141,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082175,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082180,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082184,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082189,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082224,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082245,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082281,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082284,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082307,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082308,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082333,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082343,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082365,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082367,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082386,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082396,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082400,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082429,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082437,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082455,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082460,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082522,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082532,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082547,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082553,PRJNA46337,790200,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.01
+SAMN03082113,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.01
+SAMN03082178,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082192,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082240,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082250,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082254,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082299,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082336,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082369,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082387,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082409,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082451,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082469,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.053
+SAMN03082508,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082511,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082512,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082519,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082561,PRJNA46337,790205,,infant,,male,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082110,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082126,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082147,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082151,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082183,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082190,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.001
+SAMN03082218,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082251,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082264,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082266,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082327,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082330,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082353,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082371,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082388,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082395,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082407,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082411,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082414,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082420,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082421,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082431,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082445,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082448,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082456,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082461,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082537,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082555,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082562,PRJNA46337,790209,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.012
+SAMN03082125,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082136,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082152,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082201,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082233,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082249,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082378,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082380,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082472,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082568,PRJNA46337,790215,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082100,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082114,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082140,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082156,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082163,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082203,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082204,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.01
+SAMN03082207,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082216,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082248,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082286,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082309,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082312,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082334,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082335,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.01
+SAMN03082373,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082418,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.008
+SAMN03082502,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082534,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.009
+SAMN03082565,PRJNA46337,790223,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN02297093,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297116,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297151,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297155,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297174,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297175,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297206,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297256,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297271,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297315,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297328,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297337,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297342,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297395,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297416,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297419,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297420,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.002
+SAMN02297426,PRJNA46337,790224,,infant,,male,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297024,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297025,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297026,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297071,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297105,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297110,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297135,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297136,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297141,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297176,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297199,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297207,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297210,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297213,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297278,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.002
+SAMN02297305,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297307,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297308,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297316,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297325,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297332,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297345,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297346,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297355,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297370,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297393,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN02297401,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297404,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.0
+SAMN02297438,PRJNA46337,790226,,infant,,female,,nec,"Enterocolitis, Necrotizing",,,,,primary,2.0,0.001
+SAMN03082102,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082105,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.004
+SAMN03082128,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.013
+SAMN03082154,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082174,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082225,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN03082228,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.006
+SAMN03082277,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.003
+SAMN03082279,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082291,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.012
+SAMN03082297,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.003
+SAMN03082338,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN03082346,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN03082357,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.002
+SAMN03082363,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.008
+SAMN03082434,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.014
+SAMN03082452,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.015
+SAMN03082464,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN03082471,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.014
+SAMN03082491,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082493,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.01
+SAMN03082504,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082510,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.012
+SAMN03082515,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.015
+SAMN03082517,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.002
+SAMN03082524,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006
+SAMN03082527,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.007
+SAMN03082542,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,2.0,0.012
+SAMN03082546,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.005
+SAMN03082560,PRJNA46337,790237,,infant,,female,,healthy_control,subject is affected: no,,,,,primary,1.0,0.006

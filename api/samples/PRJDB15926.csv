@@ -1,0 +1,76 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMD00613860,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-07-05,primary,1.0,12.086
+SAMD00613865,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-07-07,primary,1.0,8.149
+SAMD00613870,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-07-11,primary,1.0,20.832
+SAMD00613875,PRJDB15926,,1,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: EPEC),,,,2021-06-08,primary,1.0,3.835
+SAMD00613881,PRJDB15926,,1,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen:ETEC (ST)),,,,2021-07-20,primary,1.0,11.918
+SAMD00613888,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-08-27,primary,1.0,13.14
+SAMD00613894,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-06,primary,1.0,11.9
+SAMD00613900,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-22,primary,1.0,17.551
+SAMD00613906,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,9.573
+SAMD00613912,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,10.531
+SAMD00613918,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-29,primary,1.0,11.513
+SAMD00613924,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-30,primary,1.0,11.267
+SAMD00613930,PRJDB15926,,1,,,,IN,healthy_control,healthy,,,,2021-09-27,primary,1.0,12.713
+SAMD00613861,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-07-05,primary,1.0,14.369
+SAMD00613866,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-07-07,primary,1.0,16.834
+SAMD00613871,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-07-13,primary,1.0,21.197
+SAMD00613876,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-08-10,primary,1.0,13.439
+SAMD00613882,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-08-25,primary,1.0,13.693
+SAMD00613889,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-08-27,primary,1.0,7.811
+SAMD00613895,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-06,primary,1.0,16.429
+SAMD00613901,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-22,primary,1.0,17.126
+SAMD00613907,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,12.583
+SAMD00613913,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,10.935
+SAMD00613919,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-29,primary,1.0,10.229
+SAMD00613925,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-30,primary,1.0,12.591
+SAMD00613931,PRJDB15926,,2,,,,IN,healthy_control,healthy,,,,2021-09-27,primary,1.0,9.035
+SAMD00613862,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-07-05,primary,1.0,14.396
+SAMD00613867,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-07-07,primary,1.0,12.696
+SAMD00613872,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-07-15,primary,1.0,12.784
+SAMD00613877,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-08-10,primary,1.0,12.822
+SAMD00613883,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-08-25,primary,1.0,9.173
+SAMD00613890,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-08-30,primary,1.0,12.104
+SAMD00613896,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-06,primary,1.0,11.936
+SAMD00613902,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-22,primary,1.0,14.998
+SAMD00613908,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,11.835
+SAMD00613914,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,10.563
+SAMD00613920,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-29,primary,1.0,9.886
+SAMD00613926,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-30,primary,1.0,14.675
+SAMD00613932,PRJDB15926,,3,,,,IN,healthy_control,healthy,,,,2021-09-27,primary,1.0,15.444
+SAMD00613863,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-07-06,primary,1.0,17.902
+SAMD00613868,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-07-07,primary,1.0,14.106
+SAMD00613873,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-07-15,primary,1.0,10.493
+SAMD00613878,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-08-10,primary,1.0,14.0
+SAMD00613884,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-08-25,primary,1.0,13.276
+SAMD00613891,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-02,primary,1.0,10.618
+SAMD00613897,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-06,primary,1.0,19.006
+SAMD00613903,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-22,primary,1.0,10.953
+SAMD00613909,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,16.474
+SAMD00613915,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-28,primary,1.0,10.52
+SAMD00613921,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-29,primary,1.0,10.764
+SAMD00613927,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-30,primary,1.0,15.55
+SAMD00613933,PRJDB15926,,4,,,,IN,healthy_control,healthy,,,,2021-09-27,primary,1.0,6.204
+SAMD00613864,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-07-06,primary,1.0,7.257
+SAMD00613869,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-07-09,primary,1.0,21.598
+SAMD00613874,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-07-16,primary,1.0,10.256
+SAMD00613879,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-08-11,primary,1.0,20.81
+SAMD00613885,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-08-25,primary,1.0,7.644
+SAMD00613892,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-02,primary,1.0,7.98
+SAMD00613898,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-06,primary,1.0,9.715
+SAMD00613904,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-22,primary,1.0,16.492
+SAMD00613910,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-24,primary,1.0,13.518
+SAMD00613916,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-28,primary,1.0,7.494
+SAMD00613922,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-29,primary,1.0,10.816
+SAMD00613928,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-30,primary,1.0,6.71
+SAMD00613934,PRJDB15926,,5,,,,IN,healthy_control,healthy,,,,2021-09-28,primary,1.0,31.902
+SAMD00613880,PRJDB15926,,6,,,,IN,healthy_control,healthy,,,,2021-08-11,primary,1.0,8.878
+SAMD00613886,PRJDB15926,,6,,,,IN,healthy_control,healthy,,,,2021-08-25,primary,1.0,16.215
+SAMD00613887,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Salmonella sp.),,,,2021-08-05,primary,1.0,5.07
+SAMD00613899,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Shigella sonnei),,,,2021-08-26,primary,1.0,0.978
+SAMD00613905,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Vibrio Cholerae O1),,,,2021-09-18,primary,1.0,15.226
+SAMD00613911,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Vibrio Cholerae O1),,,,2021-09-14,primary,1.0,16.928
+SAMD00613917,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Vibrio Cholerae O1),,,,2021-08-23,primary,1.0,14.775
+SAMD00613923,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Vibrio Cholerae O1),,,,2021-09-15,primary,1.0,14.369
+SAMD00613929,PRJDB15926,,P,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Vibrio Cholerae O1),,,,2021-09-14,primary,1.0,11.441
+SAMD00613893,PRJDB15926,,,,,,IN,gi_infection_or_diarrhoea,patient with diarrhea (pathogen: Vibrio cholerae O1),,,,2021-08-18,primary,1.0,19.533

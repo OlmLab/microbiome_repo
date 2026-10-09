@@ -1,0 +1,87 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN40560872,PRJNA1090271,Case 1,Day 1,adult,6574.5,male,IN,,,,,,2020-06-27,primary,1.0,5.821
+SAMN40560898,PRJNA1090271,Case 1,Day 14,adult,6574.5,male,IN,,,,,,2020-07-03,primary,1.0,5.642
+SAMN40560922,PRJNA1090271,Case 1,Months 6,adult,6574.5,male,IN,,,,,,2020-11-27,primary,1.0,4.536
+SAMN40560877,PRJNA1090271,Case 10,Day 1,elderly,24837.0,male,IN,,,,,,2020-10-19,primary,1.0,4.863
+SAMN40560904,PRJNA1090271,Case 10,Day 14,elderly,24837.0,male,IN,,,,,,2020-10-27,primary,1.0,5.742
+SAMN40560927,PRJNA1090271,Case 10,Months 6,elderly,24837.0,male,IN,,,,,,2021-03-19,primary,1.0,6.799
+SAMN40560878,PRJNA1090271,Case 11,Day 1,adult,17872.0,male,IN,,,,,,2020-10-24,primary,1.0,4.12
+SAMN40560905,PRJNA1090271,Case 11,Day 14,adult,17872.0,male,IN,,,,,,2020-10-30,primary,1.0,3.534
+SAMN40560928,PRJNA1090271,Case 11,Months 6,adult,17872.0,male,IN,,,,,,2021-03-24,primary,1.0,3.785
+SAMN40560879,PRJNA1090271,Case 13,Day 1,adult,18614.0,male,IN,,,,,,2021-06-30,primary,1.0,3.564
+SAMN40560907,PRJNA1090271,Case 13,Day 14,adult,18614.0,male,IN,,,,,,2021-07-06,primary,1.0,5.031
+SAMN40560880,PRJNA1090271,Case 14,Day 1,adult,17532.0,male,IN,,,,,,2021-08-01,primary,1.0,8.192
+SAMN40560908,PRJNA1090271,Case 14,Day 14,adult,17532.0,male,IN,,,,,,2021-08-10,primary,1.0,7.621
+SAMN40560930,PRJNA1090271,Case 14,Months 6,adult,17532.0,male,IN,,,,,,2022-01-01,primary,1.0,7.645
+SAMN40560881,PRJNA1090271,Case 16,Day 1,adult,12783.8,male,IN,,,,,,2021-08-13,primary,1.0,7.435
+SAMN40560909,PRJNA1090271,Case 16,Day 14,adult,12783.8,male,IN,,,,,,2021-08-20,primary,1.0,7.883
+SAMN40560931,PRJNA1090271,Case 16,Months 6,adult,12783.8,male,IN,,,,,,2022-01-13,primary,1.0,3.425
+SAMN40560882,PRJNA1090271,Case 17,Day 1,adult,15704.0,male,IN,,,,,,2021-09-22,primary,1.0,4.489
+SAMN40560910,PRJNA1090271,Case 17,Day 14,adult,15704.0,male,IN,,,,,,2021-09-27,primary,1.0,4.793
+SAMN40560932,PRJNA1090271,Case 17,Months 6,adult,15704.0,male,IN,,,,,,2022-02-22,primary,1.0,5.716
+SAMN40560883,PRJNA1090271,Case 19,Day 1,adult,15330.5,male,IN,,,,,,2021-10-26,primary,1.0,4.29
+SAMN40560911,PRJNA1090271,Case 19,Day 14,adult,15330.5,male,IN,,,,,,2021-10-30,primary,1.0,4.061
+SAMN40560933,PRJNA1090271,Case 19,Months 6,adult,15330.5,male,IN,,,,,,2022-03-22,primary,1.0,3.577
+SAMN40560873,PRJNA1090271,Case 2,Day 1,adult,18262.0,male,IN,,,,,,2020-08-22,primary,1.0,5.625
+SAMN40560899,PRJNA1090271,Case 2,Day 14,adult,18262.0,male,IN,,,,,,2020-08-27,primary,1.0,4.926
+SAMN40560923,PRJNA1090271,Case 2,Months 6,adult,18262.0,male,IN,,,,,,2021-01-22,primary,1.0,5.788
+SAMN40560884,PRJNA1090271,Case 20,Day 1,adult,21165.0,male,IN,,,,,,2021-11-12,primary,1.0,5.193
+SAMN40560912,PRJNA1090271,Case 20,Day 14,adult,21165.0,male,IN,,,,,,2021-11-18,primary,1.0,5.639
+SAMN40560934,PRJNA1090271,Case 20,Months 6,adult,21165.0,male,IN,,,,,,2022-04-12,primary,1.0,5.423
+SAMN40560885,PRJNA1090271,Case 22,Day 1,adult,20088.8,female,IN,,,,,,2021-12-13,primary,1.0,7.458
+SAMN40560913,PRJNA1090271,Case 22,Day 14,adult,20088.8,female,IN,,,,,,2021-12-18,primary,1.0,4.84
+SAMN40560935,PRJNA1090271,Case 22,Months 6,adult,20088.8,female,IN,,,,,,2022-05-13,primary,1.0,6.951
+SAMN40560886,PRJNA1090271,Case 23,Day 1,adult,16436.2,male,IN,,,,,,2022-01-05,primary,1.0,4.002
+SAMN40560887,PRJNA1090271,Case 24,Day 1,adult,21549.8,male,IN,,,,,,2022-04-16,primary,1.0,9.289
+SAMN41286097,PRJNA1090271,Case 24,Day 14,adult,21549.8,male,IN,,,,,,2022-04-24,primary,1.0,7.079
+SAMN41286099,PRJNA1090271,Case 24,Months 6,adult,23010.8,male,IN,,,,,,2022-10-20,primary,1.0,8.205
+SAMN40560888,PRJNA1090271,Case 25,Day 1,adult,20819.2,male,IN,,,,,,2022-04-18,primary,1.0,9.262
+SAMN40560914,PRJNA1090271,Case 25,Day 14,adult,20819.2,male,IN,,,,,,2022-04-30,primary,1.0,2.783
+SAMN40560936,PRJNA1090271,Case 25,Months 6,adult,20819.2,male,IN,,,,,,2022-09-30,primary,1.0,11.339
+SAMN40560889,PRJNA1090271,Case 26,Day 1,adult,21549.8,male,IN,,,,,,2022-05-12,primary,1.0,4.056
+SAMN40560915,PRJNA1090271,Case 26,Day 14,adult,21549.8,male,IN,,,,,,2022-05-24,primary,1.0,4.788
+SAMN40560937,PRJNA1090271,Case 26,Months 6,adult,21549.8,male,IN,,,,,,2022-10-24,primary,1.0,10.153
+SAMN40560890,PRJNA1090271,Case 27,Day 1,adult,15330.5,male,IN,,,,,,2022-08-03,primary,1.0,5.275
+SAMN40560916,PRJNA1090271,Case 27,Day 14,adult,15330.5,male,IN,,,,,,2022-08-12,primary,1.0,4.921
+SAMN40560938,PRJNA1090271,Case 27,Months 6,adult,15330.5,male,IN,,,,,,2023-01-03,primary,1.0,4.047
+SAMN40560891,PRJNA1090271,Case 28,Day 1,adult,12053.2,male,IN,,,,,,2022-08-08,primary,1.0,4.752
+SAMN40560917,PRJNA1090271,Case 28,Day 14,adult,12053.2,male,IN,,,,,,2022-08-18,primary,1.0,4.03
+SAMN40560892,PRJNA1090271,Case 29,Day 1,adult,13149.0,male,IN,,,,,,2022-08-19,primary,1.0,7.138
+SAMN40560918,PRJNA1090271,Case 29,Day 14,adult,13149.0,male,IN,,,,,,2022-08-28,primary,1.0,5.022
+SAMN40560940,PRJNA1090271,Case 29,Months 6,adult,13149.0,male,IN,,,,,,2023-01-19,primary,1.0,5.208
+SAMN40560900,PRJNA1090271,Case 3,Day 14,adult,15704.0,male,IN,,,,,,2020-08-30,primary,1.0,6.549
+SAMN40560893,PRJNA1090271,Case 30,Day 1,adult,15330.5,male,IN,,,,,,2022-08-30,primary,1.0,11.799
+SAMN40560894,PRJNA1090271,Case 31,Day 1,adult,19358.2,male,IN,,,,,,2022-09-01,primary,1.0,5.022
+SAMN40560919,PRJNA1090271,Case 31,Day 14,adult,19358.2,male,IN,,,,,,2022-09-10,primary,1.0,3.876
+SAMN40560895,PRJNA1090271,Case 38,Day 1,adult,23010.8,male,IN,,,,,,2022-09-05,primary,1.0,9.289
+SAMN41286098,PRJNA1090271,Case 38,Day 14,adult,21549.8,male,IN,,,,,,2022-09-14,primary,1.0,7.079
+SAMN40560896,PRJNA1090271,Case 39,Day 1,adult,15704.0,male,IN,,,,,,2022-10-21,primary,1.0,5.275
+SAMN40560921,PRJNA1090271,Case 39,Day 14,adult,15704.0,male,IN,,,,,,2022-10-30,primary,1.0,4.921
+SAMN40560941,PRJNA1090271,Case 39,Months 6,adult,15704.0,male,IN,,,,,,2023-02-21,primary,1.0,4.047
+SAMN40560874,PRJNA1090271,Case 4,Day 1,adult,11688.0,male,IN,,,,,,2020-08-21,primary,1.0,6.511
+SAMN40560901,PRJNA1090271,Case 4,Day 14,adult,11688.0,male,IN,,,,,,2020-08-31,primary,1.0,6.409
+SAMN40560924,PRJNA1090271,Case 4,Months 6,adult,11688.0,male,IN,,,,,,2021-01-21,primary,1.0,5.461
+SAMN40560897,PRJNA1090271,Case 40,Day 1,adult,16071.0,male,IN,,,,,,2022-10-31,primary,1.0,11.799
+SAMN41286096,PRJNA1090271,Case 5,Day 1,adult,21165.0,male,IN,,,,,,2020-08-30,primary,1.0,7.138
+SAMN40560902,PRJNA1090271,Case 5,Day 14,adult,21165.0,male,IN,,,,,,2020-09-09,primary,1.0,5.64
+SAMN40560925,PRJNA1090271,Case 5,Months 6,adult,21165.0,male,IN,,,,,,2021-02-09,primary,1.0,8.316
+SAMN40560875,PRJNA1090271,Case 7,Day 1,elderly,25169.2,male,IN,,,,,,2020-09-20,primary,1.0,5.122
+SAMN40560903,PRJNA1090271,Case 7,Day 14,elderly,25169.2,male,IN,,,,,,2020-10-02,primary,1.0,5.483
+SAMN40560876,PRJNA1090271,Case 8,Day 1,adult,14234.0,male,IN,,,,,,2020-10-18,primary,1.0,4.774
+SAMN40560926,PRJNA1090271,Case 8,Months 6,adult,14234.0,male,IN,,,,,,2021-03-18,primary,1.0,4.844
+SAMN40560950,PRJNA1090271,Control SN 1,,adult,23376.0,male,IN,healthy_control,Control SN,,,,2020-06-29,primary,1.0,8.264
+SAMN40560955,PRJNA1090271,Control SN 11,,adult,15704.0,male,IN,healthy_control,Control SN,,,,2021-09-14,primary,1.0,3.778
+SAMN40560956,PRJNA1090271,Control SN 13,,adult,9496.5,female,IN,healthy_control,Control SN,,,,2021-11-15,primary,1.0,6.496
+SAMN40560957,PRJNA1090271,Control SN 15,,adult,15330.5,male,IN,healthy_control,Control SN,,,,2022-04-17,primary,1.0,5.122
+SAMN40560951,PRJNA1090271,Control SN 3,,adult,15704.0,male,IN,healthy_control,Control SN,,,,2020-08-31,primary,1.0,7.971
+SAMN40560952,PRJNA1090271,Control SN 4,,adult,6936.8,male,IN,healthy_control,Control SN,,,,2020-09-04,primary,1.0,5.122
+SAMN40560953,PRJNA1090271,Control SN 5,,adult,14610.0,male,IN,healthy_control,Control SN,,,,2021-07-08,primary,1.0,4.98
+SAMN40560954,PRJNA1090271,Control SN 9,,adult,7670.2,female,IN,healthy_control,Control SN,,,,2021-08-12,primary,1.0,6.12
+SAMN40560942,PRJNA1090271,Control SP 1,,adult,14610.0,male,IN,healthy_control,Control SP,,,,2020-06-28,primary,1.0,7.345
+SAMN40560947,PRJNA1090271,Control SP 11,,adult,16436.2,female,IN,healthy_control,Control SP,,,,2021-08-10,primary,1.0,4.86
+SAMN40560948,PRJNA1090271,Control SP 13,,adult,21165.0,female,IN,healthy_control,Control SP,,,,2021-09-09,primary,1.0,4.612
+SAMN40560949,PRJNA1090271,Control SP 15,,adult,12053.2,female,IN,healthy_control,Control SP,,,,2021-11-14,primary,1.0,7.217
+SAMN40560943,PRJNA1090271,Control SP 3,,adult,13149.0,female,IN,healthy_control,Control SP,,,,2020-08-27,primary,1.0,7.95
+SAMN40560944,PRJNA1090271,Control SP 4,,adult,19711.0,male,IN,healthy_control,Control SP,,,,2020-08-30,primary,1.0,7.217
+SAMN40560945,PRJNA1090271,Control SP 5,,adult,14234.0,male,IN,healthy_control,Control SP,,,,2020-11-01,primary,1.0,9.374
+SAMN40560946,PRJNA1090271,Control SP 9,,adult,16436.2,female,IN,healthy_control,Control SP,,,,2021-07-06,primary,1.0,3.908

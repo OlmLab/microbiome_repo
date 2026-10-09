@@ -1,0 +1,55 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SRR13494513,PRJNA693652,FMT1_donor,,adult,,,,,,,,,,primary,1.0,3.115
+SRR13494517,PRJNA693652,FMT1_donor,,adult,,,,,,,,,,primary,1.0,11.79
+SRR13494509,PRJNA693652,FMT2_donor,,adult,,,,,,,,,,primary,1.0,2.863
+SRR13494520,PRJNA693652,FMT2_donor,,adult,,,,,,,,,,primary,1.0,13.303
+SRR13494506,PRJNA693652,FMT3_donor,,adult,,,,,,,,,,primary,1.0,2.849
+SRR13494518,PRJNA693652,FMT3_donor,,adult,,,,,,,,,,primary,1.0,14.308
+SRR13494503,PRJNA693652,FMT4_donor,,adult,,,,,,,,,,primary,1.0,2.592
+SRR13494519,PRJNA693652,FMT4_donor,,adult,,,,,,,,,,primary,1.0,8.514
+SRR13494499,PRJNA693652,FMT5_donor,,adult,,,,,,,,,,primary,1.0,3.224
+SRR13494521,PRJNA693652,FMT5_donor,,adult,,,,,,,,,,primary,1.0,7.635
+SRR13494496,PRJNA693652,FMT6_donor,,adult,,,,,,,,,,primary,1.0,2.737
+SRR13494522,PRJNA693652,FMT6_donor,,adult,,,,,,,,,,primary,1.0,8.817
+SRR13494495,PRJNA693652,FMT7_donor,,adult,,,,,,,,,,primary,1.0,2.648
+SRR13494524,PRJNA693652,FMT7_donor,,adult,,,,,,,,,,primary,1.0,9.192
+SRR13494489,PRJNA693652,FMT8_donor,,adult,,,,,,,,,,primary,1.0,2.762
+SRR13494525,PRJNA693652,FMT8_donor,,adult,,,,,,,,,,primary,1.0,8.112
+SRR13494486,PRJNA693652,FMT9_donor,,adult,,,,,,,,,,primary,1.0,3.032
+SRR13494516,PRJNA693652,FMT9_donor,,adult,,,,,,,,,,primary,1.0,6.775
+SRR13494478,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,10.882
+SRR13494480,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,10.517
+SRR13494482,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,8.343
+SRR13494484,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,10.386
+SRR13494488,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.701
+SRR13494490,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,9.462
+SRR13494492,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.385
+SRR13494494,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.488
+SRR13494498,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.307
+SRR13494502,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,3.339
+SRR13494505,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.753
+SRR13494508,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.294
+SRR13494511,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.346
+SRR13494512,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,8.978
+SRR13494515,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,2.501
+SRR13494526,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,10.336
+SRR13494528,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,13.74
+SRR13494530,PRJNA693652,,after FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,fmt,,,,primary,1.0,11.53
+SRR13494479,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,8.645
+SRR13494481,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,11.378
+SRR13494483,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,9.862
+SRR13494485,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,9.825
+SRR13494487,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,2.295
+SRR13494491,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,3.18
+SRR13494493,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,2.966
+SRR13494497,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,3.281
+SRR13494500,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,2.885
+SRR13494501,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,8.635
+SRR13494504,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,3.312
+SRR13494507,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,3.073
+SRR13494510,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,3.004
+SRR13494514,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,2.477
+SRR13494523,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,12.318
+SRR13494527,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,11.86
+SRR13494529,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,10.548
+SRR13494531,PRJNA693652,,before FMT,adult,,,,gi_infection_or_diarrhoea,recurrent Clostridioides difficile infection (rCDI) patient,,,,,primary,1.0,16.871

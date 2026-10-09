@@ -1,0 +1,531 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA2737681,PRJEB6997,C104_R,,adult,14610.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.87
+SAMEA2737879,PRJEB6997,C22,,adult,17532.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,4.738
+SAMEA2737671,PRJEB6997,C47_S,,adult,12053.25,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,4.978
+SAMEA2737880,PRJEB6997,C73,,adult,16801.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.018
+SAMEA2738024,PRJEB6997,CT1,,adult,,,CN,,,,,,,excluded,1.0,1.589
+SAMEA2738025,PRJEB6997,CT1,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,3.473
+SAMEA2738026,PRJEB6997,CT10,,adult,,,CN,,,,,,,excluded,1.0,1.332
+SAMEA2738027,PRJEB6997,CT10,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.611
+SAMEA2738135,PRJEB6997,CT104_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.464
+SAMEA2738028,PRJEB6997,CT12,,adult,,,CN,,,,,,,excluded,1.0,1.632
+SAMEA2738029,PRJEB6997,CT12,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,2.901
+SAMEA2738151,PRJEB6997,CT126_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.544
+SAMEA2738030,PRJEB6997,CT13,,adult,,,CN,,,,,,,excluded,1.0,1.076
+SAMEA2738031,PRJEB6997,CT13,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.945
+SAMEA2738153,PRJEB6997,CT130_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.471
+SAMEA2738032,PRJEB6997,CT14,,adult,,,CN,,,,,,,excluded,1.0,1.155
+SAMEA2738033,PRJEB6997,CT14,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.296
+SAMEA2738159,PRJEB6997,CT145_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.008
+SAMEA2738162,PRJEB6997,CT147_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.778
+SAMEA2738163,PRJEB6997,CT150_R,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,1.196
+SAMEA2738034,PRJEB6997,CT15H,,adult,,,CN,,,,,,,excluded,1.0,0.691
+SAMEA2738035,PRJEB6997,CT15H,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.309
+SAMEA2738165,PRJEB6997,CT164_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.824
+SAMEA2738167,PRJEB6997,CT168_R,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,2.779
+SAMEA2738170,PRJEB6997,CT172_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,2.575
+SAMEA2738036,PRJEB6997,CT18,,adult,,,CN,,,,,,,excluded,1.0,1.331
+SAMEA2738037,PRJEB6997,CT18,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.889
+SAMEA2738038,PRJEB6997,CT19,,adult,,,CN,,,,,,,excluded,1.0,0.297
+SAMEA2738039,PRJEB6997,CT19,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,0.538
+SAMEA2738142,PRJEB6997,CT22_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.202
+SAMEA2738040,PRJEB6997,CT24,,adult,,,CN,,,,,,,excluded,1.0,0.447
+SAMEA2738041,PRJEB6997,CT24,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,0.803
+SAMEA2738042,PRJEB6997,CT26,,adult,,,CN,,,,,,,excluded,1.0,0.794
+SAMEA2738043,PRJEB6997,CT26,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.393
+SAMEA2738044,PRJEB6997,CT27,,adult,,,CN,,,,,,,excluded,1.0,0.71
+SAMEA2738045,PRJEB6997,CT27,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.297
+SAMEA2738046,PRJEB6997,CT29,,adult,,,CN,,,,,,,excluded,1.0,1.634
+SAMEA2738047,PRJEB6997,CT29,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,3.147
+SAMEA2738112,PRJEB6997,CT3,,adult,,,CN,,,,,,,excluded,1.0,4.035
+SAMEA2738113,PRJEB6997,CT3,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.98
+SAMEA2738048,PRJEB6997,CT31,,adult,,,CN,,,,,,,excluded,1.0,2.128
+SAMEA2738049,PRJEB6997,CT31,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.094
+SAMEA2738050,PRJEB6997,CT32,,adult,,,CN,,,,,,,excluded,1.0,1.269
+SAMEA2738051,PRJEB6997,CT32,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.445
+SAMEA2738085,PRJEB6997,CT35,,adult,,,CN,,,,,,,excluded,1.0,1.03
+SAMEA2738086,PRJEB6997,CT35,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.977
+SAMEA2738087,PRJEB6997,CT36,,adult,,,CN,,,,,,,excluded,1.0,0.924
+SAMEA2738088,PRJEB6997,CT36,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.15
+SAMEA2738052,PRJEB6997,CT40,,adult,,,CN,,,,,,,excluded,1.0,1.21
+SAMEA2738053,PRJEB6997,CT40,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.216
+SAMEA2738054,PRJEB6997,CT43,,adult,,,CN,,,,,,,excluded,1.0,1.305
+SAMEA2738055,PRJEB6997,CT43,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.392
+SAMEA2738056,PRJEB6997,CT47,,adult,,,CN,,,,,,,excluded,1.0,0.447
+SAMEA2738057,PRJEB6997,CT47,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,0.891
+SAMEA2738119,PRJEB6997,CT47_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,6.388
+SAMEA2738058,PRJEB6997,CT50,,adult,,,CN,,,,,,,excluded,1.0,1.136
+SAMEA2738059,PRJEB6997,CT50,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.43
+SAMEA2738060,PRJEB6997,CT51,,adult,,,CN,,,,,,,excluded,1.0,3.129
+SAMEA2738061,PRJEB6997,CT51,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.964
+SAMEA2738121,PRJEB6997,CT51_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,4.13
+SAMEA2738062,PRJEB6997,CT53,,adult,,,CN,,,,,,,excluded,1.0,2.003
+SAMEA2738063,PRJEB6997,CT53,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,3.766
+SAMEA2738064,PRJEB6997,CT59,,adult,,,CN,,,,,,,excluded,1.0,4.86
+SAMEA2738065,PRJEB6997,CT59,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,10.825
+SAMEA2738066,PRJEB6997,CT62,,adult,,,CN,,,,,,,excluded,1.0,0.7
+SAMEA2738067,PRJEB6997,CT62,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.256
+SAMEA2738068,PRJEB6997,CT68,,adult,,,CN,,,,,,,excluded,1.0,2.532
+SAMEA2738069,PRJEB6997,CT68,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,4.46
+SAMEA2738070,PRJEB6997,CT7,,adult,,,CN,,,,,,,excluded,1.0,1.635
+SAMEA2738071,PRJEB6997,CT7,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.382
+SAMEA2738072,PRJEB6997,CT70,,adult,,,CN,,,,,,,excluded,1.0,0.634
+SAMEA2738073,PRJEB6997,CT70,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,1.189
+SAMEA2738074,PRJEB6997,CT71,,adult,,,CN,,,,,,,excluded,1.0,1.364
+SAMEA2738075,PRJEB6997,CT71,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,2.773
+SAMEA2738076,PRJEB6997,CT72,,adult,,,CN,,,,,,,excluded,1.0,4.862
+SAMEA2738077,PRJEB6997,CT72,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,9.297
+SAMEA2738136,PRJEB6997,CT88_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,0.761
+SAMEA2738078,PRJEB6997,CT89,,adult,,,CN,,,,,,,excluded,1.0,3.968
+SAMEA2738079,PRJEB6997,CT89,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,7.44
+SAMEA2738080,PRJEB6997,CT93,,adult,,,CN,,,,,,,excluded,1.0,1.804
+SAMEA2738081,PRJEB6997,CT93,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,3.866
+SAMEA2738082,PRJEB6997,CT99,,adult,,,CN,,,,,,,excluded,1.0,0.992
+SAMEA2738083,PRJEB6997,CT99,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,1.985
+SAMEA2738115,PRJEB6997,CT9_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,3.437
+SAMEA2737881,PRJEB6997,CY1,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.041
+SAMEA2737887,PRJEB6997,CY10,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.37
+SAMEA2737979,PRJEB6997,CY104_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.839
+SAMEA2737895,PRJEB6997,CY12,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,5.684
+SAMEA2737994,PRJEB6997,CY122_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.448
+SAMEA2737996,PRJEB6997,CY124_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.925
+SAMEA2737998,PRJEB6997,CY126_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.475
+SAMEA2737891,PRJEB6997,CY13,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.511
+SAMEA2738000,PRJEB6997,CY130_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.446
+SAMEA2737884,PRJEB6997,CY14,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,3.759
+SAMEA2738004,PRJEB6997,CY145_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,6.416
+SAMEA2738007,PRJEB6997,CY147_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.132
+SAMEA2738009,PRJEB6997,CY150_R,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,4.9
+SAMEA2737893,PRJEB6997,CY15H,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.571
+SAMEA2737982,PRJEB6997,CY15_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,7.878
+SAMEA2738012,PRJEB6997,CY164_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.326
+SAMEA2738014,PRJEB6997,CY168_R,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,5.18
+SAMEA2737888,PRJEB6997,CY18,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.056
+SAMEA2737892,PRJEB6997,CY19,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.134
+SAMEA2737983,PRJEB6997,CY22_R,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,7.743
+SAMEA2737894,PRJEB6997,CY24,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.42
+SAMEA2737905,PRJEB6997,CY26,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.637
+SAMEA2737886,PRJEB6997,CY27,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.885
+SAMEA2737900,PRJEB6997,CY29,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.703
+SAMEA2737882,PRJEB6997,CY3,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.36
+SAMEA2737904,PRJEB6997,CY31,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.106
+SAMEA2737903,PRJEB6997,CY32,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.657
+SAMEA2737902,PRJEB6997,CY35,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.292
+SAMEA2737960,PRJEB6997,CY35_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,6.87
+SAMEA2737901,PRJEB6997,CY36,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.682
+SAMEA2737899,PRJEB6997,CY40,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.183
+SAMEA2737908,PRJEB6997,CY43,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,6.165
+SAMEA2737910,PRJEB6997,CY47,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.647
+SAMEA2737913,PRJEB6997,CY50,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.057
+SAMEA2737909,PRJEB6997,CY51,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.082
+SAMEA2737964,PRJEB6997,CY51_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,7.135
+SAMEA2737911,PRJEB6997,CY53,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,5.293
+SAMEA2737968,PRJEB6997,CY57_S,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,6.039
+SAMEA2737883,PRJEB6997,CY59,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,4.532
+SAMEA2737912,PRJEB6997,CY62,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.747
+SAMEA2737907,PRJEB6997,CY68,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,5.174
+SAMEA2737898,PRJEB6997,CY7,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.461
+SAMEA2737896,PRJEB6997,CY70,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,5.273
+SAMEA2737906,PRJEB6997,CY71,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,4.969
+SAMEA2737890,PRJEB6997,CY72,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,5.592
+SAMEA2737955,PRJEB6997,CY80_R,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,6.752
+SAMEA2737973,PRJEB6997,CY84_R,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,6.654
+SAMEA2737885,PRJEB6997,CY89,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,4.844
+SAMEA2737897,PRJEB6997,CY93,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.415
+SAMEA2737889,PRJEB6997,CY99,,adult,,female,CN,healthy_control,Control,,,,,excluded,1.0,5.237
+SAMEA2737954,PRJEB6997,CY9_S,,adult,,male,CN,healthy_control,Control,,,,,excluded,1.0,6.863
+SAMEA2737675,PRJEB6997,D100,,adult,15340.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.658
+SAMEA2737672,PRJEB6997,D104,,adult,23376.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.795
+SAMEA2737677,PRJEB6997,D113,,adult,16801.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.888
+SAMEA2737655,PRJEB6997,D122_N,,adult,22645.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.317
+SAMEA2737666,PRJEB6997,D124_G,,adult,22280.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.714
+SAMEA2737664,PRJEB6997,D132_M,,adult,12783.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.616
+SAMEA2737651,PRJEB6997,D147_M,,adult,21549.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.841
+SAMEA2737663,PRJEB6997,D198_N,,adult,17532.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.849
+SAMEA2737665,PRJEB6997,D205_M,,adult,19358.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.451
+SAMEA2737668,PRJEB6997,D210_G,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.73
+SAMEA2737662,PRJEB6997,D212_M,,adult,18627.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.932
+SAMEA2737656,PRJEB6997,D235_M,,adult,21184.5,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.303
+SAMEA2737658,PRJEB6997,D264_M,,adult,16436.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.371
+SAMEA2737660,PRJEB6997,D266_G,,adult,11688.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.3
+SAMEA2737678,PRJEB6997,D29,,adult,20088.75,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.891
+SAMEA2737679,PRJEB6997,D29,,adult,21549.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.251
+SAMEA2737670,PRJEB6997,D33,,adult,18627.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.532
+SAMEA2737674,PRJEB6997,D41,,adult,22280.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.95
+SAMEA2737688,PRJEB6997,D44,,adult,14975.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.434
+SAMEA2737654,PRJEB6997,D47,,adult,11688.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.926
+SAMEA2737661,PRJEB6997,D47_N,,adult,11688.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.334
+SAMEA2737652,PRJEB6997,D51_M_16,,adult,21549.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.656
+SAMEA2737673,PRJEB6997,D60,,adult,18262.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.564
+SAMEA2737650,PRJEB6997,D69_G,,adult,14244.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.81
+SAMEA2737676,PRJEB6997,D79,,adult,13149.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.018
+SAMEA2737684,PRJEB6997,D86,,adult,20454.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.953
+SAMEA2737653,PRJEB6997,D88,,adult,13879.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.06
+SAMEA2737659,PRJEB6997,D88_G_6,,adult,13879.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.235
+SAMEA2737669,PRJEB6997,D90,,adult,13514.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.5
+SAMEA2737667,PRJEB6997,D90_GM,,adult,13514.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.333
+SAMEA2738133,PRJEB6997,DT100,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.728
+SAMEA2738134,PRJEB6997,DT104,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.887
+SAMEA2738140,PRJEB6997,DT108,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.943
+SAMEA2738137,PRJEB6997,DT113,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.224
+SAMEA2738093,PRJEB6997,DT113_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.418
+SAMEA2738128,PRJEB6997,DT114,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.213
+SAMEA2738145,PRJEB6997,DT117,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.778
+SAMEA2738146,PRJEB6997,DT118,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.404
+SAMEA2738094,PRJEB6997,DT118_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,0.548
+SAMEA2738147,PRJEB6997,DT121,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,1.133
+SAMEA2738148,PRJEB6997,DT122,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.068
+SAMEA2738104,PRJEB6997,DT122_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.71
+SAMEA2738149,PRJEB6997,DT124,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,3.315
+SAMEA2738150,PRJEB6997,DT126,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.981
+SAMEA2738152,PRJEB6997,DT130,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.995
+SAMEA2738154,PRJEB6997,DT132,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.182
+SAMEA2738155,PRJEB6997,DT133,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.174
+SAMEA2738156,PRJEB6997,DT135,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,2.649
+SAMEA2738095,PRJEB6997,DT135_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.295
+SAMEA2738096,PRJEB6997,DT138_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,2.659
+SAMEA2738157,PRJEB6997,DT144,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.066
+SAMEA2738158,PRJEB6997,DT145,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.7
+SAMEA2738160,PRJEB6997,DT147,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,2.184
+SAMEA2738084,PRJEB6997,DT14_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.65
+SAMEA2738138,PRJEB6997,DT15,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.083
+SAMEA2738161,PRJEB6997,DT150,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,2.872
+SAMEA2738105,PRJEB6997,DT150_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.041
+SAMEA2738102,PRJEB6997,DT155_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.77
+SAMEA2738106,PRJEB6997,DT157_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.274
+SAMEA2738164,PRJEB6997,DT158,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.243
+SAMEA2738103,PRJEB6997,DT158_M,,adult,,male,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.628
+SAMEA2738166,PRJEB6997,DT166,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,11.611
+SAMEA2738168,PRJEB6997,DT172,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.727
+SAMEA2738169,PRJEB6997,DT173,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.969
+SAMEA2738171,PRJEB6997,DT177,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.357
+SAMEA2738172,PRJEB6997,DT178,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,3.928
+SAMEA2738173,PRJEB6997,DT179,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.144
+SAMEA2738097,PRJEB6997,DT179_G,,adult,,male,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.52
+SAMEA2738174,PRJEB6997,DT182,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.94
+SAMEA2738098,PRJEB6997,DT182_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,0.815
+SAMEA2738175,PRJEB6997,DT185,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.799
+SAMEA2738176,PRJEB6997,DT188,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.603
+SAMEA2738177,PRJEB6997,DT190,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.213
+SAMEA2738089,PRJEB6997,DT191_M,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,2.986
+SAMEA2738107,PRJEB6997,DT197_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,0.855
+SAMEA2738101,PRJEB6997,DT1_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,0.841
+SAMEA2738108,PRJEB6997,DT202_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.681
+SAMEA2738109,PRJEB6997,DT209_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,0.357
+SAMEA2738110,PRJEB6997,DT225_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.057
+SAMEA2738111,PRJEB6997,DT240_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,1.913
+SAMEA2738141,PRJEB6997,DT25,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.792
+SAMEA2738116,PRJEB6997,DT41,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,3.925
+SAMEA2738117,PRJEB6997,DT43,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,1.684
+SAMEA2738118,PRJEB6997,DT44,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,0.843
+SAMEA2738090,PRJEB6997,DT50_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.55
+SAMEA2738120,PRJEB6997,DT51,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.048
+SAMEA2738099,PRJEB6997,DT51_M_3,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,2.065
+SAMEA2738122,PRJEB6997,DT53,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.482
+SAMEA2738100,PRJEB6997,DT54_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.083
+SAMEA2738123,PRJEB6997,DT57,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.376
+SAMEA2738124,PRJEB6997,DT60,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.011
+SAMEA2738125,PRJEB6997,DT62,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.476
+SAMEA2738139,PRJEB6997,DT69,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.517
+SAMEA2738143,PRJEB6997,DT73,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.009
+SAMEA2738091,PRJEB6997,DT79_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.543
+SAMEA2738126,PRJEB6997,DT82,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.974
+SAMEA2738127,PRJEB6997,DT86,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.138
+SAMEA2738178,PRJEB6997,DT8_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.984
+SAMEA2738114,PRJEB6997,DT9,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.211
+SAMEA2738129,PRJEB6997,DT90,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.817
+SAMEA2738130,PRJEB6997,DT93,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,1.365
+SAMEA2738092,PRJEB6997,DT93_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.716
+SAMEA2738131,PRJEB6997,DT94,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.794
+SAMEA2738144,PRJEB6997,DT98,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.454
+SAMEA2738132,PRJEB6997,DT99,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,3.676
+SAMEA2737977,PRJEB6997,DY100,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.892
+SAMEA2737926,PRJEB6997,DY100_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.785
+SAMEA2737988,PRJEB6997,DY102,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.346
+SAMEA2737978,PRJEB6997,DY104,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.963
+SAMEA2738008,PRJEB6997,DY108,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.935
+SAMEA2737980,PRJEB6997,DY113,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.066
+SAMEA2737927,PRJEB6997,DY113_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.549
+SAMEA2737989,PRJEB6997,DY114,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.963
+SAMEA2737990,PRJEB6997,DY117,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.469
+SAMEA2737991,PRJEB6997,DY118,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,8.898
+SAMEA2737928,PRJEB6997,DY118_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.881
+SAMEA2737992,PRJEB6997,DY121,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.527
+SAMEA2737993,PRJEB6997,DY122,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.05
+SAMEA2737943,PRJEB6997,DY122_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.227
+SAMEA2737995,PRJEB6997,DY124,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.665
+SAMEA2737997,PRJEB6997,DY126,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.09
+SAMEA2737999,PRJEB6997,DY130,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.022
+SAMEA2738001,PRJEB6997,DY132,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.271
+SAMEA2737929,PRJEB6997,DY135_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.493
+SAMEA2737930,PRJEB6997,DY138_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.506
+SAMEA2738002,PRJEB6997,DY144,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.821
+SAMEA2738003,PRJEB6997,DY145,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.743
+SAMEA2738005,PRJEB6997,DY147,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.912
+SAMEA2737920,PRJEB6997,DY14_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.857
+SAMEA2737981,PRJEB6997,DY15,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.93
+SAMEA2738006,PRJEB6997,DY150,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.999
+SAMEA2737950,PRJEB6997,DY150_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.168
+SAMEA2737931,PRJEB6997,DY155_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.257
+SAMEA2738010,PRJEB6997,DY157,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.947
+SAMEA2737945,PRJEB6997,DY157_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,6.179
+SAMEA2738011,PRJEB6997,DY158,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,3.371
+SAMEA2737932,PRJEB6997,DY158_M,,adult,,male,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,6.027
+SAMEA2738013,PRJEB6997,DY166,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.636
+SAMEA2738015,PRJEB6997,DY172,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.828
+SAMEA2738016,PRJEB6997,DY177,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.831
+SAMEA2738017,PRJEB6997,DY178,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.917
+SAMEA2738018,PRJEB6997,DY179,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.176
+SAMEA2737933,PRJEB6997,DY179_G,,adult,,male,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.17
+SAMEA2738019,PRJEB6997,DY182,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.72
+SAMEA2737934,PRJEB6997,DY182_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.772
+SAMEA2738020,PRJEB6997,DY185,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.613
+SAMEA2738021,PRJEB6997,DY188,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.056
+SAMEA2738022,PRJEB6997,DY190,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.288
+SAMEA2737914,PRJEB6997,DY191_M,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.069
+SAMEA2737948,PRJEB6997,DY195_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.721
+SAMEA2737949,PRJEB6997,DY197_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,2.774
+SAMEA2737942,PRJEB6997,DY1_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.43
+SAMEA2737947,PRJEB6997,DY202_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.629
+SAMEA2737951,PRJEB6997,DY209_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.678
+SAMEA2737946,PRJEB6997,DY225_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.89
+SAMEA2737956,PRJEB6997,DY23,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.765
+SAMEA2737939,PRJEB6997,DY23_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.518
+SAMEA2737944,PRJEB6997,DY240_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.767
+SAMEA2737984,PRJEB6997,DY25,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.727
+SAMEA2737957,PRJEB6997,DY29,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.861
+SAMEA2737958,PRJEB6997,DY31,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.78
+SAMEA2737959,PRJEB6997,DY33,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.9
+SAMEA2737961,PRJEB6997,DY41,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.259
+SAMEA2737962,PRJEB6997,DY43,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.875
+SAMEA2737935,PRJEB6997,DY45_N,,adult,,male,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.204
+SAMEA2737922,PRJEB6997,DY49_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.119
+SAMEA2737916,PRJEB6997,DY50_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.345
+SAMEA2737963,PRJEB6997,DY51,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,8.36
+SAMEA2737936,PRJEB6997,DY51_M_3,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.343
+SAMEA2737965,PRJEB6997,DY53,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.218
+SAMEA2737937,PRJEB6997,DY54_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.483
+SAMEA2737966,PRJEB6997,DY55,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.739
+SAMEA2737940,PRJEB6997,DY55_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.745
+SAMEA2737967,PRJEB6997,DY57,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.621
+SAMEA2737941,PRJEB6997,DY57_M,,adult,,male,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,4.576
+SAMEA2737969,PRJEB6997,DY60,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,2026,excluded,1.0,5.589
+SAMEA2737921,PRJEB6997,DY60_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2025,excluded,1.0,5.76
+SAMEA2737970,PRJEB6997,DY62,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,5.681
+SAMEA2737938,PRJEB6997,DY64_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.057
+SAMEA2737985,PRJEB6997,DY69,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,2024,excluded,1.0,8.492
+SAMEA2737986,PRJEB6997,DY73,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,2023,excluded,1.0,5.314
+SAMEA2737987,PRJEB6997,DY77,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,2022,excluded,1.0,5.872
+SAMEA2737971,PRJEB6997,DY79,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,2021,excluded,1.0,6.596
+SAMEA2737919,PRJEB6997,DY79_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2020,excluded,1.0,4.669
+SAMEA2737915,PRJEB6997,DY80_G,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,3.971
+SAMEA2737972,PRJEB6997,DY82,,adult,,male,CN,autoimmune_inflammatory,Untreated,,,,2018,excluded,1.0,6.302
+SAMEA2737917,PRJEB6997,DY84_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,,excluded,1.0,5.449
+SAMEA2737974,PRJEB6997,DY86,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,2017,excluded,1.0,6.868
+SAMEA2737918,PRJEB6997,DY88_M_3,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2016,excluded,1.0,4.081
+SAMEA2737952,PRJEB6997,DY89,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,4.751
+SAMEA2738023,PRJEB6997,DY8_N,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2019,excluded,1.0,6.695
+SAMEA2737953,PRJEB6997,DY9,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,7.345
+SAMEA2737975,PRJEB6997,DY90,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,2015,excluded,1.0,7.442
+SAMEA2737923,PRJEB6997,DY92_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2014,excluded,1.0,5.438
+SAMEA2737924,PRJEB6997,DY93_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2013,excluded,1.0,4.617
+SAMEA2737976,PRJEB6997,DY94,,adult,,female,CN,autoimmune_inflammatory,Untreated,,,,,excluded,1.0,6.155
+SAMEA2737925,PRJEB6997,DY98_M,,adult,,female,CN,autoimmune_inflammatory,Treated,,,,2012,excluded,1.0,5.811
+SAMEA2737649,PRJEB6997,,,adult,17897.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.73
+SAMEA2737657,PRJEB6997,,,adult,19358.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.402
+SAMEA2737680,PRJEB6997,,,adult,9861.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.749
+SAMEA2737682,PRJEB6997,,,adult,16071.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.993
+SAMEA2737683,PRJEB6997,,,adult,17532.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.243
+SAMEA2737685,PRJEB6997,,,adult,21184.5,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.465
+SAMEA2737686,PRJEB6997,,,adult,15340.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.824
+SAMEA2737687,PRJEB6997,,,adult,20819.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.598
+SAMEA2737689,PRJEB6997,,,adult,16071.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.198
+SAMEA2737690,PRJEB6997,,,adult,20819.25,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.395
+SAMEA2737691,PRJEB6997,,,adult,15705.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.998
+SAMEA2737692,PRJEB6997,,,adult,16801.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,4.565
+SAMEA2737693,PRJEB6997,,,adult,13879.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.826
+SAMEA2737694,PRJEB6997,,,adult,13149.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.117
+SAMEA2737695,PRJEB6997,,,adult,14244.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.233
+SAMEA2737696,PRJEB6997,,,adult,9861.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.462
+SAMEA2737697,PRJEB6997,,,elderly,24106.5,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.089
+SAMEA2737698,PRJEB6997,,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.528
+SAMEA2737699,PRJEB6997,,,adult,20454.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.367
+SAMEA2737700,PRJEB6997,,,adult,18993.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.65
+SAMEA2737701,PRJEB6997,,,adult,19358.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.376
+SAMEA2737702,PRJEB6997,,,adult,21549.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.752
+SAMEA2737703,PRJEB6997,,,adult,13879.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.768
+SAMEA2737704,PRJEB6997,,,adult,22645.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.583
+SAMEA2737705,PRJEB6997,,,adult,20819.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.123
+SAMEA2737706,PRJEB6997,,,adult,22280.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.092
+SAMEA2737707,PRJEB6997,,,adult,13149.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.956
+SAMEA2737708,PRJEB6997,,,adult,19358.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.155
+SAMEA2737709,PRJEB6997,,,adult,19358.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.657
+SAMEA2737710,PRJEB6997,,,adult,20819.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.222
+SAMEA2737711,PRJEB6997,,,adult,20088.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.59
+SAMEA2737712,PRJEB6997,,,adult,12783.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.175
+SAMEA2737713,PRJEB6997,,,adult,23741.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.077
+SAMEA2737714,PRJEB6997,,,adult,18993.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.319
+SAMEA2737715,PRJEB6997,,,adult,18262.5,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.58
+SAMEA2737716,PRJEB6997,,,adult,9496.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.438
+SAMEA2737717,PRJEB6997,,,adult,21549.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.584
+SAMEA2737718,PRJEB6997,,,adult,17897.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.993
+SAMEA2737719,PRJEB6997,,,adult,13149.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.855
+SAMEA2737720,PRJEB6997,,,adult,9496.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.087
+SAMEA2737721,PRJEB6997,,,adult,20088.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.618
+SAMEA2737722,PRJEB6997,,,adult,21915.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.812
+SAMEA2737723,PRJEB6997,,,adult,17166.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.832
+SAMEA2737724,PRJEB6997,,,adult,13149.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.647
+SAMEA2737725,PRJEB6997,,,adult,20819.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.836
+SAMEA2737726,PRJEB6997,,,adult,13149.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.642
+SAMEA2737727,PRJEB6997,,,adult,20454.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.193
+SAMEA2737728,PRJEB6997,,,adult,16071.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.453
+SAMEA2737729,PRJEB6997,,,adult,9496.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.009
+SAMEA2737730,PRJEB6997,,,adult,17897.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.578
+SAMEA2737731,PRJEB6997,,,adult,17166.75,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.829
+SAMEA2737732,PRJEB6997,,,adult,14975.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.568
+SAMEA2737733,PRJEB6997,,,adult,16801.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.508
+SAMEA2737734,PRJEB6997,,,adult,12418.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.835
+SAMEA2737735,PRJEB6997,,,adult,17532.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.04
+SAMEA2737736,PRJEB6997,,,adult,18993.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.068
+SAMEA2737737,PRJEB6997,,,adult,17897.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.998
+SAMEA2737738,PRJEB6997,,,adult,13149.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.447
+SAMEA2737739,PRJEB6997,,,adult,13149.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.656
+SAMEA2737740,PRJEB6997,,,adult,19358.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.829
+SAMEA2737741,PRJEB6997,,,adult,12418.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.828
+SAMEA2737742,PRJEB6997,,,adult,12418.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.48
+SAMEA2737743,PRJEB6997,,,adult,18627.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.224
+SAMEA2737744,PRJEB6997,,,adult,20819.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.167
+SAMEA2737745,PRJEB6997,,,adult,14244.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.183
+SAMEA2737746,PRJEB6997,,,adult,14975.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.625
+SAMEA2737747,PRJEB6997,,,adult,20819.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.135
+SAMEA2737748,PRJEB6997,,,adult,18262.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.64
+SAMEA2737749,PRJEB6997,,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.917
+SAMEA2737750,PRJEB6997,,,adult,14610.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.187
+SAMEA2737751,PRJEB6997,,,adult,23376.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.547
+SAMEA2737752,PRJEB6997,,,adult,23741.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.564
+SAMEA2737753,PRJEB6997,,,adult,22280.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.349
+SAMEA2737754,PRJEB6997,,,adult,18993.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.439
+SAMEA2737755,PRJEB6997,,,adult,20454.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.98
+SAMEA2737756,PRJEB6997,,,adult,16801.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.667
+SAMEA2737757,PRJEB6997,,,adult,15340.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.533
+SAMEA2737758,PRJEB6997,,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.996
+SAMEA2737759,PRJEB6997,,,adult,15705.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.251
+SAMEA2737760,PRJEB6997,,,adult,20088.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.9
+SAMEA2737761,PRJEB6997,,,adult,17532.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.908
+SAMEA2737762,PRJEB6997,,,adult,16801.5,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.849
+SAMEA2737763,PRJEB6997,,,adult,13879.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.838
+SAMEA2737764,PRJEB6997,,,adult,16801.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.378
+SAMEA2737765,PRJEB6997,,,adult,18262.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.584
+SAMEA2737766,PRJEB6997,,,adult,19723.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.844
+SAMEA2737767,PRJEB6997,,,adult,16436.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.953
+SAMEA2737768,PRJEB6997,,,adult,18262.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.486
+SAMEA2737769,PRJEB6997,,,adult,21184.5,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.183
+SAMEA2737770,PRJEB6997,,,adult,17897.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.966
+SAMEA2737771,PRJEB6997,,,adult,10227.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.61
+SAMEA2737772,PRJEB6997,,,adult,8766.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.912
+SAMEA2737773,PRJEB6997,,,adult,16436.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.289
+SAMEA2737774,PRJEB6997,,,elderly,24471.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,8.258
+SAMEA2737775,PRJEB6997,,,adult,20088.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.299
+SAMEA2737776,PRJEB6997,,,adult,21549.75,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.818
+SAMEA2737777,PRJEB6997,,,adult,23010.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.267
+SAMEA2737778,PRJEB6997,,,adult,18993.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.481
+SAMEA2737779,PRJEB6997,,,adult,20454.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.788
+SAMEA2737780,PRJEB6997,,,adult,23010.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.538
+SAMEA2737781,PRJEB6997,,,adult,17532.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.862
+SAMEA2737782,PRJEB6997,,,adult,19358.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.762
+SAMEA2737783,PRJEB6997,,,adult,14610.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.986
+SAMEA2737784,PRJEB6997,,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.629
+SAMEA2737785,PRJEB6997,,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,8.14
+SAMEA2737786,PRJEB6997,,,adult,20454.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.161
+SAMEA2737787,PRJEB6997,,,adult,18993.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.986
+SAMEA2737788,PRJEB6997,,,adult,13149.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.788
+SAMEA2737789,PRJEB6997,,,adult,14244.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.728
+SAMEA2737790,PRJEB6997,,,adult,13879.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.944
+SAMEA2737791,PRJEB6997,,,adult,20819.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,3.839
+SAMEA2737792,PRJEB6997,,,adult,12418.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,3.421
+SAMEA2737793,PRJEB6997,,,adult,11688.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,3.676
+SAMEA2737794,PRJEB6997,,,adult,10957.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.226
+SAMEA2737795,PRJEB6997,,,adult,16071.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.94
+SAMEA2737796,PRJEB6997,,,adult,15705.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.067
+SAMEA2737797,PRJEB6997,,,adult,17532.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.904
+SAMEA2737798,PRJEB6997,,,adult,16801.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.788
+SAMEA2737799,PRJEB6997,,,adult,14610.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.824
+SAMEA2737800,PRJEB6997,,,adult,15340.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.935
+SAMEA2737801,PRJEB6997,,,adult,16436.25,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.33
+SAMEA2737802,PRJEB6997,,,adult,16801.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.756
+SAMEA2737803,PRJEB6997,,,adult,19358.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,4.998
+SAMEA2737804,PRJEB6997,,,adult,16071.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.66
+SAMEA2737805,PRJEB6997,,,adult,14975.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.746
+SAMEA2737806,PRJEB6997,,,adult,19723.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.213
+SAMEA2737807,PRJEB6997,,,adult,21184.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.435
+SAMEA2737808,PRJEB6997,,,adult,19723.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.71
+SAMEA2737809,PRJEB6997,,,adult,16801.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.424
+SAMEA2737810,PRJEB6997,,,adult,17532.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.896
+SAMEA2737811,PRJEB6997,,,adult,14975.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.628
+SAMEA2737812,PRJEB6997,,,adult,15340.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.429
+SAMEA2737813,PRJEB6997,,,adult,13149.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.361
+SAMEA2737814,PRJEB6997,,,adult,19723.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.606
+SAMEA2737815,PRJEB6997,,,adult,15705.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.828
+SAMEA2737816,PRJEB6997,,,adult,13879.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.294
+SAMEA2737817,PRJEB6997,,,adult,16801.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.672
+SAMEA2737818,PRJEB6997,,,adult,12418.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.967
+SAMEA2737819,PRJEB6997,,,adult,17166.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.164
+SAMEA2737820,PRJEB6997,,,adult,16801.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.458
+SAMEA2737821,PRJEB6997,,,adult,20088.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.255
+SAMEA2737822,PRJEB6997,,,adult,15705.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.133
+SAMEA2737823,PRJEB6997,,,adult,16801.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.056
+SAMEA2737824,PRJEB6997,,,adult,19723.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.363
+SAMEA2737825,PRJEB6997,,,adult,18993.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.668
+SAMEA2737826,PRJEB6997,,,adult,16436.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.625
+SAMEA2737827,PRJEB6997,,,adult,23376.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,4.551
+SAMEA2737828,PRJEB6997,,,adult,12418.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.391
+SAMEA2737829,PRJEB6997,,,adult,20819.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,11.805
+SAMEA2737830,PRJEB6997,,,adult,16436.25,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.133
+SAMEA2737831,PRJEB6997,,,adult,14975.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.118
+SAMEA2737832,PRJEB6997,,,adult,14610.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.738
+SAMEA2737833,PRJEB6997,,,adult,14244.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.231
+SAMEA2737834,PRJEB6997,,,adult,16071.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.139
+SAMEA2737835,PRJEB6997,,,adult,13514.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.915
+SAMEA2737836,PRJEB6997,,,adult,15340.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.735
+SAMEA2737837,PRJEB6997,,,adult,19358.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.333
+SAMEA2737838,PRJEB6997,,,elderly,25567.5,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.621
+SAMEA2737839,PRJEB6997,,,adult,20454.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.5
+SAMEA2737840,PRJEB6997,,,adult,19358.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,8.128
+SAMEA2737841,PRJEB6997,,,adult,18262.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,4.749
+SAMEA2737842,PRJEB6997,,,adult,12783.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.419
+SAMEA2737843,PRJEB6997,,,adult,,,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.475
+SAMEA2737844,PRJEB6997,,,adult,9131.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.5
+SAMEA2737845,PRJEB6997,,,adult,21915.0,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.836
+SAMEA2737846,PRJEB6997,,,adult,19358.25,male,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.177
+SAMEA2737847,PRJEB6997,,,adult,16436.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.043
+SAMEA2737848,PRJEB6997,,,adult,19358.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.989
+SAMEA2737849,PRJEB6997,,,elderly,24471.75,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,5.38
+SAMEA2737850,PRJEB6997,,,adult,17532.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.637
+SAMEA2737851,PRJEB6997,,,adult,13149.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.137
+SAMEA2737852,PRJEB6997,,,adult,16071.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.78
+SAMEA2737853,PRJEB6997,,,adult,15340.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.015
+SAMEA2737854,PRJEB6997,,,adult,12783.75,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.223
+SAMEA2737855,PRJEB6997,,,adult,13514.25,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.379
+SAMEA2737856,PRJEB6997,,,adult,8766.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.112
+SAMEA2737857,PRJEB6997,,,adult,8035.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,8.534
+SAMEA2737858,PRJEB6997,,,adult,6939.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.257
+SAMEA2737859,PRJEB6997,,,adult,16436.25,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,7.134
+SAMEA2737860,PRJEB6997,,,adult,18993.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.722
+SAMEA2737861,PRJEB6997,,,adult,8766.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.448
+SAMEA2737862,PRJEB6997,,,adult,10227.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.737
+SAMEA2737863,PRJEB6997,,,elderly,24837.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.823
+SAMEA2737864,PRJEB6997,,,adult,9861.75,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,8.051
+SAMEA2737865,PRJEB6997,,,adult,16071.0,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.648
+SAMEA2737866,PRJEB6997,,,adult,17166.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.895
+SAMEA2737867,PRJEB6997,,,adult,13879.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.35
+SAMEA2737868,PRJEB6997,,,adult,19723.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.253
+SAMEA2737869,PRJEB6997,,,adult,20819.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,7.754
+SAMEA2737870,PRJEB6997,,,adult,14975.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.831
+SAMEA2737871,PRJEB6997,,,adult,17166.75,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,4.169
+SAMEA2737872,PRJEB6997,,,adult,17532.0,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,2.908
+SAMEA2737873,PRJEB6997,,,adult,8400.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,2.869
+SAMEA2737874,PRJEB6997,,,adult,20819.25,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,3.687
+SAMEA2737875,PRJEB6997,,,adult,17532.0,female,CN,autoimmune_inflammatory,Rheumatoid Arthritis,,,no,2012,primary,1.0,6.058
+SAMEA2737876,PRJEB6997,,,adult,13879.5,male,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.292
+SAMEA2737877,PRJEB6997,,,adult,14244.75,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,6.685
+SAMEA2737878,PRJEB6997,,,adult,15340.5,female,CN,healthy_control,Healthy,,,no,2012,primary,1.0,5.762

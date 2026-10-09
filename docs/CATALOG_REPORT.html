@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Infant-extension catalog report — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.18.1">
+<meta name="catalog-release-id" content="R2026.21">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/CATALOG_REPORT.html">
+<meta name="catalog-package-version" content="1.18.1">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Infant-extension catalog report</div>
+
+<p class="small">Rendered from <a href="CATALOG_REPORT.md">CATALOG_REPORT.md</a>.</p>
+<div class="md"><h1 id="infant-gut-shotgun-metagenome-catalog-catalog_report-release-2026-09-18">Infant Gut Shotgun-Metagenome Catalog — CATALOG_REPORT (release 2026-09-18)</h1>
+<p>Grant context: Anthropic grant on organizing human microbiome metadata. Scope locked 2026-09-14: DNA shotgun metagenomics (ENA <code>library_source=METAGENOMIC</code>, <code>library_strategy</code> WGS/WXS; OTHER/Targeted-Capture adjudicated), human subjects 0–36 months (preterm included), gut/stool primary; maternal stool, breast milk and vaginal samples retained only inside an infant cohort. Every committed value carries a labelled evidence quote (≤12 words) and passes the <code>infant-curation-rules</code> validators; exclusions use the 22-code controlled vocabulary; no identifier was written from model memory.</p>
+<h2 id="1-headline-numbers">1. Headline numbers</h2>
+<table>
+<thead>
+<tr>
+<th>quantity</th>
+<th style="text-align: right;">value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ENA studies enumerated (universe)</td>
+<td style="text-align: right;">5,942 original + 144 gap-fill + 2,732 growth channels (re-enumeration v2, virome slice, misfiled GENOMIC, external-repo leads) + 206 enumeration-v3 delta + 455 growth round 2 (frame-free sweep, v3 full run, KoNA/CNGBdb mirrors) + 38 frame-free ambiguous remnant + 62 growth round 3 (BioSample attributes, cohort names, reanalysis links) = <strong>9,579</strong></td>
+</tr>
+<tr>
+<td>ENA runs in universe</td>
+<td style="text-align: right;">859,851 (+24,160 gap-fill, in-scope strategies)</td>
+</tr>
+<tr>
+<td>Papers harvested (Europe PMC)</td>
+<td style="text-align: right;">12,859</td>
+</tr>
+<tr>
+<td>Papers screened in (human + infant + shotgun + primary data)</td>
+<td style="text-align: right;">1,404 (+739 maybe)</td>
+</tr>
+<tr>
+<td><strong>Studies included in the catalog</strong></td>
+<td style="text-align: right;"><strong>389</strong> (incl. 30 from the separate human-review pass, stage <code>session_model_review</code>)</td>
+</tr>
+<tr>
+<td>samples / runs in included studies</td>
+<td style="text-align: right;">153,701 / 174,022</td>
+</tr>
+<tr>
+<td>human-review residue (unresolvable + validator-rejected)</td>
+<td style="text-align: right;">52 — 41 UNRESOLVABLE after two full-text rounds; 11 uncertain from growth round 3 (archive/BioSample evidence only; outreach pack in release)</td>
+</tr>
+<tr>
+<td>studies excluded</td>
+<td style="text-align: right;">9,138 (2,275 deterministic, 6,863 LLM)</td>
+</tr>
+<tr>
+<td>paper→study links</td>
+<td style="text-align: right;">1,341 edges (417 papers, 540 studies); 345 own-data</td>
+</tr>
+<tr>
+<td>cohorts (entity-resolved)</td>
+<td style="text-align: right;">188 multi-member + 2,095 singletons</td>
+</tr>
+<tr>
+<td>recall vs curatedMetagenomicData gold (22 BioProjects)</td>
+<td style="text-align: right;">17/22 = 0.77 (CI 0.57–0.90) study-level (18/22 incl. the human-review pass); 12/14 = 0.86 substantive; <strong>0.972 sample-weighted</strong></td>
+</tr>
+<tr>
+<td>gold-negative include rate</td>
+<td style="text-align: right;">2/108 = 1.9%</td>
+</tr>
+<tr>
+<td>inter-judge κ (Opus blind vs Sonnet majority, n=200)</td>
+<td style="text-align: right;">0.77 (3-class) / 0.85 (include vs not)</td>
+</tr>
+<tr>
+<td>in-universe coverage (capture–recapture)</td>
+<td style="text-align: right;">N̂ = 302–383 → 0.77–0.98; conservative headline 0.78</td>
+</tr>
+<tr>
+<td>LLM tokens, whole pipeline</td>
+<td style="text-align: right;">≈ 47.3 M (see BUDGET.md)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-machine-checkable-inclusion-criteria">2. Machine-checkable inclusion criteria</h2>
+<p>A study is <code>included</code> iff all four hold with a cited quote: (1) host is <em>Homo sapiens</em> (host_tax_id 9606 or an explicit human statement); (2) ≥1 run with <code>library_source=METAGENOMIC</code> and strategy WGS/WXS, or OTHER/Targeted-Capture with a shotgun depth signature; (3) primary site gut/stool/meconium (linked sites only alongside infant gut samples); (4) ≥1 sample from a subject aged 0–1,100 days, evidenced by an archive attribute, a sample-title convention, the study description, a linked paper's title/abstract/data-availability text, or a per-sample supplementary table whose sample IDs map to the study's accessions (<code>paper.supp.table</code>). Adult cohorts with an incidental infant subgroup are included with <code>n_infant_samples_est</code>. Deterministic exclusions: non-human host taxon, isolate genomes, amplicon/RNA-only, environmental/synthetic. Rows that fail any validator are kept as <code>validator_rejected</code> and routed to human review.</p>
+<h2 id="3-cascade-and-how-each-included-study-was-decided">3. Cascade and how each included study was decided</h2>
+<table>
+<thead>
+<tr>
+<th>decision stage</th>
+<th style="text-align: right;">included studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sonnet_replicates_n3_agree1.00</td>
+<td style="text-align: right;">214</td>
+</tr>
+<tr>
+<td>opus_adjudication</td>
+<td style="text-align: right;">68</td>
+</tr>
+<tr>
+<td>sonnet_replicates_n2_agree1.00</td>
+<td style="text-align: right;">12</td>
+</tr>
+<tr>
+<td>supp_rescue_deterministic</td>
+<td style="text-align: right;">9</td>
+</tr>
+<tr>
+<td>opus_adjudication_rescue</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr>
+<td>opus_adjudication_linked</td>
+<td style="text-align: right;">3</td>
+</tr>
+</tbody>
+</table>
+<p>Pipeline: deterministic auto-exclude (1,112; Sonnet audit 100/100 agree) → Haiku batched screen of 3,978 studies (40/request) → Sonnet 4-criterion rubric on 1,135 candidates (4/request) → Sonnet ×3 replicates on 558 include/unsure/sample (401 unanimous, 136 majority, 9 split) → Opus adjudication of 290 disagreements + 124 paper-linked studies (Sonnet, with paper context) + 32 linked adjudications → supplement-table rescue (134 candidates; 9 included by the study-matched-ID rule, 4 by Opus) → gap-fill re-enumeration (171 studies; Sonnet ×2 agreement 168/171, Opus on 11). Literature channel: Haiku 4-slot screen of 12,859 abstracts (25/request; 952 re-run at 10/request after batch drop-outs), full-text fetch (6,528 JATS ok / 1,125 HTTP 500), 484,485 raw accession mentions → 1,319 links (205 deterministic from data-availability sections, 39 single-mention, 1,075 Sonnet-adjudicated), plus 22 from bioRxiv/medRxiv JATS.</p>
+<h2 id="4-per-channel-recall-on-gold-22-cmd-bioprojects">4. Per-channel recall on gold (22 cMD BioProjects)</h2>
+<p>Signals present on gold positives: literature link 19/22; Haiku screen <code>yes</code> 10/22; ENA keyword flag 9/22; title pattern 4/22. Stage that captured them: Sonnet unanimous 9, Opus adjudication 4, supplement rescue 4, missed 4 (+1 unsure). Recall by release year (proxy held-out): &lt;2019 12/13; ≥2019 5/9 — recent, weakly annotated deposits are the soft spot. The post-2025-06 held-out split is empty (cMD's newest infant cohort is 2022). Remaining misses are documented disagreements: PRJNA486009 (assay: ENA says isolate genomes), PRJNA516054 / PRJNA521455 (age granularity: "children"/"preschool", no per-sample age table linked), PRJNA397112 / PRJNA529400 (2–4 infant samples inside pooled meta-analysis tables; below the resolution of readable supplements).</p>
+<h2 id="5-recoverability-of-decisive-metadata-292-included-studies-assessed-gap-fill-not-assessed">5. Recoverability of decisive metadata (292 included studies assessed; gap-fill not assessed)</h2>
+<p>Share of included samples by best tier (R1 archive attribute / R2 per-sample supplementary table / R3 text only / R0 none): see <code>field_atlas.png</code> panel a. Age at collection is per-sample recoverable (R1+R2) for 59% of included samples; delivery 42%; feeding 42%; preterm 29%; antibiotics 34%; probiotics 31%. 184 of 436 included/unsure studies have no linked paper at all (orphan deposits, 75,729 samples) and are R0 across fields unless archive attributes exist. R1 is a lower bound: the ENA <code>age</code> field was empty for every harvested run and BioSample attribute XML was not harvested — the first item of future work.</p>
+<h2 id="6-frames-access-and-abstract-only-curation">6. Frames, access and abstract-only curation</h2>
+<p>Archive vs literature: 151 matched pairs, 206 orphan deposits, 75 studies linked only through reuse; 1,167 screened-in papers with no universe study ("phantom-data" papers: 602 without full text, 291 with full text but no accession, 245 with accessions outside the universe — 85 amplicon, 28 isolate, 40 BioProjects without reads, 32 unresolvable, 7 true enumeration misses now gap-filled, 11 external-repository only). 620 of 1,404 screened-in papers (44%) can only support abstract-level curation (<code>evidence_limited_to=abstract</code>, confidence ≤0.6): 503 are preprint/abstract-only tiers and 117 are OA papers whose full text Europe PMC failed to serve. Controlled-access registry: 29 entries (19 dbGaP, 6 EGA; TEDDY PRJNA400115 ranks #1 on the worklist but is blocked). 240 paper↔study mismatch links (paper says infant/shotgun, study excluded or non-WGS): 40 reviewed (25 triage correct, 12 misfiled strategy, 2 triage-error candidates, 1 link error); 200 reused-data mismatches listed unreviewed.</p>
+<h2 id="7-mislabelling-audit-334024-ena-runs-across-436-studies">7. Mislabelling audit (334,024 ENA runs across 436 studies)</h2>
+<p>No WGS run in any included/unsure study carries a <code>target_gene</code>. 11 studies are deposited entirely as <code>OTHER</code> yet have NovaSeq/NextSeq shotgun depth (e.g. PRJNA588513/588514, PRJEB84376/89462, PRJNA1046438) — catalog-relevant shotgun hidden behind the OTHER label; 2 WGS studies (PRJEB9403 BAMBI, PRJEB28671 IHAT) have MiSeq depth compatible with either shallow shotgun or amplicon (confidence 0.5, paper check required); 92 studies are genuinely mixed-assay and need run-level inclusion. Signatures are undefined for ~25% of runs with <code>read_count=0</code> in ENA.</p>
+<h2 id="8-coverage-estimate">8. Coverage estimate</h2>
+<p>Capture–recapture over 296 included studies with four sources (ENA signals 274, literature 205, cMD 17, snowball 68): Chapman S1×S2 N̂ = 302 (295–309) and log-linear k=3 N̂ = 299–302 agree but rest on positively dependent sources (lower bounds on N); the cMD-anchored estimates give N̂ ≈ 380 (300–514). Headline: <strong>coverage 0.77–0.98 of in-universe infant shotgun studies; 0.78 conservatively</strong>. Outside the original universe, the probe found two enumeration bugs (taxid 3007725 → 2705415 for "human feces metagenome"; the OTHER slice never run for taxon 9606) accounting for 171 studies — now gap-filled (14 new includes: HELMi, PREVENT 1, HMO-formula trials, PRIMAL, maternal FMT). Non-recoverable: 25 controlled-access deposits, 73 GSA accessions (unassessed), 32 unresolvable BioProject strings.</p>
+<h2 id="8b-universe-growth-2026-09-1823">8b. Universe growth (2026-09-18/23)</h2>
+<p>After release v1 the universe was grown through five channels (fixed re-enumeration, virome taxon slice, literature snowball, external repositories, misfiled <code>library_source=GENOMIC</code>): 2,732 new studies triaged, +22 included (e.g. PRJEB49383 preterm neonatal stool 2,351 samples; PRJNA1060349; PRJEB46943 COPSAC infant virome; 13 misfiled-GENOMIC infant cohorts). The literature channel is saturated against the fixed enumeration; GMrepo's 18 infant metagenomic projects are all in the universe. 22 open GSA infant-gut deposits and 342 controlled GSA-Human studies form a non-INSDC annex. Full account: <code>universe_growth_report.md</code>. Downstream assessment (paper links, recoverability, cohorts, covariates, worklist) was subsequently extended to all growth/gap-fill included and unsure studies — <code>assessed_downstream=True</code> for 425 studies; only 1 (the v3-delta include PRJEB35919) remains unassessed. Worklist v2 covers 517 studies (<code>extraction_worklist.csv</code>, <code>yield_curve_v2.png</code>): 4 addendum studies enter the top 50.</p>
+<h3 id="8c-growth-round-2-2026-09-24">8c. Growth round 2 (2026-09-24)</h3>
+<p>A frame-free sweep of every METAGENOMIC WGS/WXS run in ENA (1.46M runs) found 442 human-signal studies outside every taxon frame — 237 under a blank tax_id — and added <strong>14 included infant cohorts (~10,300 samples)</strong>, most deposited in 2025–26. The v3 full run confirmed the frame is a superset of the catalog and refreshed 226 studies' run counts. KoNA (now K-BDS KRA) and CNGBdb hold no infant shotgun deposits outside INSDC except 5 CNGB-native cohorts that cannot join. Details: <code>universe_growth_report.md</code>, <code>frame_free_sweep_report.md</code>, <code>V3_FULL_RUN.md</code>, <code>nonINSDC_round2_report.md</code>. Human-review round 2 (separate session) then resolved 41 of the 60 archive-only uncertains (7 include / 34 exclude / 19 unresolvable). Downstream addendum #2 then assessed the remaining 25 included/unsure studies, so every included/unsure study now carries recoverability, cohort and worklist fields (<code>assessed_downstream=True</code> for all). Worklist v3 = 429 open included/unsure studies (113 v2 rows dropped because their outcome is now excluded); age R1+R2 reachable for ~48% of the 149,852 open samples (<code>yield_curve_v3.png</code>). Loose ends closed 2026-09-24: the 523 frame-free 'ambiguous' human/animal ties were filtered to 38 and rubric-judged (0 include, 1 uncertain); the three sibling deposits of the included paediatric-leukaemia cohort were re-checked with the cohort paper (PRJEB59728 → include at 0.58; PRJEB29237/PRJEB41463 → uncertain, per-sample ages needed).</p>
+<h3 id="8d-growth-round-3-2026-09-24">8d. Growth round 3 (2026-09-24)</h3>
+<p>BioSample-attribute sweep, cohort-name cross-walk and reanalysis-link following added 4 includes (PRJNA1368374, PRJNA687137, PRJNA61745, and PRJEB49206 overturned from exclude on 53 infant-age BioSample records) and, more usefully, per-sample infant annotations for 108 included studies (<code>biosample_infant_samples.parquet</code>, 312,686 flagged samples across ENA/NCBI), cohort names for 75 included studies (<code>cohort_crosswalk_hits.csv</code>), a 2,379-row study-relations table, a tested monthly re-sweep tool (<code>resweep_universe.py</code>) and a submitter-outreach pack for the unresolvable residue. See <code>universe_growth_report.md</code> §Growth round 3. The 11 included/uncertain studies added in this round are not yet downstream-assessed.</p>
+<h2 id="9-extraction-worklist-top-25-of-435-open-studies">9. Extraction worklist (top 25 of 435 open studies)</h2>
+<p>Ranking = expected_field_yield (Σ w_f·p(tier)) × log10(n_samples+1); weights age 3, delivery 2, feeding 2, preterm 1.5, antibiotics 1, probiotic 0.5; p(R1)=0.95, p(R2)=0.8, p(R3)=0.4, p(R4)=0.15, p(R0)=0.05. Working the top 25 / 50 / 100 studies yields 17.7% / 25.5% / 38.5% of the cumulative expected field coverage over 149,861 samples (<code>yield_curve.png</code>).</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">rank</th>
+<th style="text-align: left;">study_accession</th>
+<th style="text-align: left;">cohort_name</th>
+<th style="text-align: right;">n_samples</th>
+<th style="text-align: left;">tier_age</th>
+<th style="text-align: left;">tier_delivery</th>
+<th style="text-align: left;">tier_feeding</th>
+<th style="text-align: right;">expected_field_yield</th>
+<th style="text-align: left;">effort_class</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">PRJEB11419</td>
+<td style="text-align: left;">singleton study PRJEB11419</td>
+<td style="text-align: right;">7024</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">PRJNA806984</td>
+<td style="text-align: left;">singleton study PRJNA806984</td>
+<td style="text-align: right;">1347</td>
+<td style="text-align: left;">R1</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8.25</td>
+<td style="text-align: left;">one_supp_table</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">PRJEB32631</td>
+<td style="text-align: left;">Shao 2019 UK</td>
+<td style="text-align: right;">1679</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">PRJNA799247</td>
+<td style="text-align: left;">singleton study PRJNA799247</td>
+<td style="text-align: right;">2171</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7.625</td>
+<td style="text-align: left;">one_supp_table</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">PRJNA497734</td>
+<td style="text-align: left;">DIABIMMUNE</td>
+<td style="text-align: right;">1154</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">PRJNA296814</td>
+<td style="text-align: left;">New Hampshire Birth Cohort Study</td>
+<td style="text-align: right;">1063</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">PRJEB24771</td>
+<td style="text-align: left;">singleton study PRJEB24771</td>
+<td style="text-align: right;">1392</td>
+<td style="text-align: left;">R1</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R3</td>
+<td style="text-align: right;">7.65</td>
+<td style="text-align: left;">one_supp_table</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td style="text-align: left;">PRJNA698986</td>
+<td style="text-align: left;">Lou 2021 USA</td>
+<td style="text-align: right;">819</td>
+<td style="text-align: left;">R1</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8.25</td>
+<td style="text-align: left;">one_supp_table</td>
+</tr>
+<tr>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">PRJNA290380</td>
+<td style="text-align: left;">Majta 2019 Finland</td>
+<td style="text-align: right;">785</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">11</td>
+<td style="text-align: left;">PRJEB51728</td>
+<td style="text-align: left;">Robertson 2023 Zimbabwe</td>
+<td style="text-align: right;">875</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7.8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">12</td>
+<td style="text-align: left;">PRJNA63661</td>
+<td style="text-align: left;">Taft 2015 USA</td>
+<td style="text-align: right;">667</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">13</td>
+<td style="text-align: left;">PRJEB39610</td>
+<td style="text-align: left;">Stewart 2013 UK</td>
+<td style="text-align: right;">644</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8.025</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">14</td>
+<td style="text-align: left;">PRJNA345144</td>
+<td style="text-align: left;">singleton study PRJNA345144</td>
+<td style="text-align: right;">646</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">15</td>
+<td style="text-align: left;">PRJNA595749</td>
+<td style="text-align: left;">COSMIC2</td>
+<td style="text-align: right;">753</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7.8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">16</td>
+<td style="text-align: left;">PRJNA695570</td>
+<td style="text-align: left;">Peterson 2021 USA</td>
+<td style="text-align: right;">1767</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">6.8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">17</td>
+<td style="text-align: left;">PRJNA473126</td>
+<td style="text-align: left;">Baumann-Dudenhoeffer 2018 USA</td>
+<td style="text-align: right;">402</td>
+<td style="text-align: left;">R1</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8.45</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">18</td>
+<td style="text-align: left;">PRJNA961698</td>
+<td style="text-align: left;">singleton study PRJNA961698</td>
+<td style="text-align: right;">736</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7.625</td>
+<td style="text-align: left;">one_supp_table</td>
+</tr>
+<tr>
+<td style="text-align: right;">19</td>
+<td style="text-align: left;">PRJNA376566</td>
+<td style="text-align: left;">Brooks 2017 USA</td>
+<td style="text-align: right;">407</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8.225</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">20</td>
+<td style="text-align: left;">PRJEB6456</td>
+<td style="text-align: left;">singleton study PRJEB6456</td>
+<td style="text-align: right;">400</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">21</td>
+<td style="text-align: left;">PRJNA838575</td>
+<td style="text-align: left;">CHILD</td>
+<td style="text-align: right;">2934</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R3</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">22</td>
+<td style="text-align: left;">PRJNA475246</td>
+<td style="text-align: left;">Lamichhane 2022</td>
+<td style="text-align: right;">286</td>
+<td style="text-align: left;">R1</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">8.45</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">23</td>
+<td style="text-align: left;">PRJNA489090</td>
+<td style="text-align: left;">singleton study PRJNA489090</td>
+<td style="text-align: right;">429</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7.8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">24</td>
+<td style="text-align: left;">PRJNA301903</td>
+<td style="text-align: left;">singleton study PRJNA301903</td>
+<td style="text-align: right;">403</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">7.8</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+<tr>
+<td style="text-align: right;">25</td>
+<td style="text-align: left;">PRJEB45799</td>
+<td style="text-align: left;">Valles-Colomer 2023 Italy</td>
+<td style="text-align: right;">2394</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R3</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">one_supp_table</td>
+</tr>
+<tr>
+<td style="text-align: right;">26</td>
+<td style="text-align: left;">PRJNA916952</td>
+<td style="text-align: left;">STORK</td>
+<td style="text-align: right;">1144</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: left;">R2</td>
+<td style="text-align: right;">6.625</td>
+<td style="text-align: left;">multiple_supp_tables</td>
+</tr>
+</tbody>
+</table>
+<h2 id="10-technical-covariates-310-included-studies">10. Technical covariates (310 included studies)</h2>
+<p>Instrument generation: NovaSeq 102, HiSeq 2000/2500 73, MiSeq/NextSeq 64, HiSeq 3000/4000/X 22, MGI 10, other 21. Median depth per run spans 0.01–30 Gb (three orders of magnitude); long reads are rare. Timepoint design (archive proxy): single 351 / 2–4 timepoints 41 / 5+ 44 (longitudinal designs under-detected). <code>extraction_protocol</code> is unpopulated in ENA for every matched run. Half of included studies were first public 2022–2026 (<code>field_atlas.png</code> b).</p>
+<h2 id="11-known-limitations-and-provisional-inputs">11. Known limitations and provisional inputs</h2>
+<ul>
+<li>Held-out gold split empty; ≥2019 proxy is not contamination-free. Study-level recall gate (≥0.95) not met (0.77); sample-weighted gate met (0.97).</li>
+<li>R1 lower bound (ENA age empty; BioSample XML not harvested). 132 supplement ZIPs &gt;20 MB not inventoried; 124/324 age tables with unit-less headers not parsed.</li>
+<li>Preprint JATS rescue partial (70/268; HTTP 429). 200 reused-data mismatch links unreviewed. 31 links with sentinel relation.</li>
+<li>Cohort clustering used strong edges only; unique_infants_est committed for 35 cohorts.</li>
+<li>Enumeration v3 (<code>scope_constants_v3.py</code>, <code>enumerate_universe_v3.py</code>, <code>ENUMERATION_V3.md</code>) makes the virome, misfiled-GENOMIC and adjudication slices standing, adds a runtime taxid guard, and corrected FOUR wrong taxids in v1/v2 (human feces 2705415, human milk 1633571, milk 1616037, human vaginal 1632839). Its 206-study delta (mostly generic viral-metagenome and dairy/vaginal taxa) was triaged: 1 include (PRJEB35919, preterm NICU stool phage+shotgun), 205 excluded. The 20 unchanged v2 slices have grown ~1.5k runs since 2026-09-18 and need a full v3 run to refresh.</li>
+<li>GSA annex (<code>GSA_ANNEX_ASSESSMENT.md</code>): 188 GSA/GSA-Human candidates triaged with the catalog rubric → 3 included (1 open, CRA015134 preterm cohort 137 samples; 2 controlled HRA), 17 human_review, 168 excluded; +0.3% samples vs the ENA catalog, DDBJ now mirrors post-2025 GSA deposits into ENA (108/108 human shotgun mirrors already in the universe). Recommendation: list-only annex, no parallel catalog. The 3 included GSA studies are in <code>controlled_access_registry.csv</code> / <code>gsa_included_studies.csv</code>.</li>
+<li>1,125 tier-A papers (15%) had no full text served by Europe PMC (HTTP 500) at harvest time.</li>
+</ul>
+<h2 id="12-files-release">12. Files (release/)</h2>
+<p><code>catalog_studies.{parquet,csv}</code> (6,086 studies, all fields), <code>catalog_included_studies.csv</code> (310), <code>catalog_included_runs.parquet</code> (143,833 runs), <code>human_review_queue.csv</code> (157), <code>paper_study_links.parquet</code>, <code>cohorts.csv</code>, <code>recoverability.parquet</code>, <code>extraction_worklist.csv</code>, <code>mislabel_audit.csv</code>, <code>enumeration_misses.csv</code>, <code>controlled_access_registry.csv</code>, <code>screened_in_papers.parquet</code>, <code>schema.json</code>. Supporting reports: <code>triage_validation.md</code>, <code>coverage_estimate.md</code>, <code>recoverability_report.md</code>, <code>access_report.md</code>, <code>yield_method.md</code>, <code>BUDGET.md</code>.</p>
+<h2 id="13-token-budget-log">13. Token budget log</h2>
+<p>See BUDGET.md (final): ≈19.6 M tokens across 3 track agents (Phase 1), 24 leaf workers (Haiku screen 12+1, Sonnet confirm 5+2+1, Opus 3), 4 track agents (Phases 3–4), and ≈1.2 M in-frame. No single frame exceeded 1.6 M.</p>
+<h2 id="10-per-sample-metadata-extraction-final-2026-09-25">10. Per-sample metadata extraction (final, 2026-09-25)</h2>
+<p>609,584 validated sample × field determinations over 151,198 samples / 381 included studies; 12 core fields + 4 extension fields (health_condition, multiple_birth, sibling_in_study, geo_subregion). Age at collection: 37% of infant-scope samples; preterm 23%; delivery 20%; antibiotics 14%. Gold (3,670 cMD samples): age precision 0.991 / recall 0.951, delivery 0.995 / 0.932, preterm 1.000 / 0.961. Details <code>extraction/EXTRACTION_REPORT.md</code>. Sample unit is the BioSample except for 6 one-BioSample-per-infant deposits keyed per run (§10 of EXTRACTION_REPORT).</p>
+<h2 id="11-publication">11. Publication</h2>
+<p>Data package v1 (<code>data_package_v1.zip</code>: README, DATA_DICTIONARY, sample_metadata_wide, study_metadata_wide, cohorts, runs, determinations with evidence, notebook) and a static GitHub Pages website (<code>site.zip</code>, 774 pages: study, cohort, explorer with DuckDB-WASM slice downloads, fields, universe, methods; 0 broken internal links of 134,567). Publishing steps: <code>website/PUBLISH_INSTRUCTIONS.md</code>.</p></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.21"><span class="mono">R2026.21</span></a> · package <span class="mono">1.18.1</span> · build <span class="mono">fb8a0c8</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.21.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.18.1',release:'data-v1.18.1',releaseId:'R2026.21',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>
