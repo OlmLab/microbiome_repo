@@ -1,0 +1,786 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN05827150,PRJNA290380,E002338,1 - 6 months,infant,58.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.725
+SAMN05826844,PRJNA290380,E002338,1 yr - 4 yr,infant,1089.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.284
+SAMN05827196,PRJNA290380,E002338,3-6M,infant,122.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,3.76
+SAMN05827199,PRJNA290380,E002338,6 months - 1 yr,infant,304.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.061
+SAMN05826988,PRJNA290380,E002338,,infant,852.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.928
+SAMN05827172,PRJNA290380,E002338,,infant,399.0,female,FI,other_infection,Pyelonephritis,,,yes,,primary,1.0,2.729
+SAMN05827195,PRJNA290380,E002338,,infant,493.0,female,FI,other_infection,Pyelonephritis,,,yes,,primary,1.0,2.848
+SAMN05827158,PRJNA290380,E002473,1 - 6 months,infant,42.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.982
+SAMN05826653,PRJNA290380,E002473,1 yr - 4 yr,infant,848.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.499
+SAMN05827117,PRJNA290380,E002473,6 months - 1 yr,infant,213.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.763
+SAMN05827051,PRJNA290380,E002473,,child,1109.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.348
+SAMN05827142,PRJNA290380,E002473,,infant,396.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,4.276
+SAMN05827123,PRJNA290380,E002681,1 yr - 4 yr,infant,498.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.853
+SAMN05827185,PRJNA290380,E002681,6 months - 1 yr,infant,319.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.71
+SAMN05827268,PRJNA290380,E002681,,infant,215.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,0.871
+SAMN05827191,PRJNA290380,E002825,6 months - 1 yr,infant,312.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.172
+SAMN05827165,PRJNA290380,E003393,1 - 6 months,infant,74.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.062
+SAMN05827233,PRJNA290380,E003393,6 months - 1 yr,infant,288.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.437
+SAMN05827204,PRJNA290380,E004071,1 yr - 4 yr,infant,549.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,4.012
+SAMN05827135,PRJNA290380,E004080,1 - 6 months,infant,159.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.995
+SAMN05827208,PRJNA290380,E004080,6 months - 1 yr,infant,198.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.901
+SAMN05827214,PRJNA290380,E004080,6 months - 1 yr,infant,303.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.882
+SAMN05827143,PRJNA290380,E004781,1 - 6 months,infant,121.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.789
+SAMN05827180,PRJNA290380,E004781,1 - 6 months,infant,51.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,0.921
+SAMN05826847,PRJNA290380,E004781,1 yr - 4 yr,infant,685.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.82
+SAMN05826997,PRJNA290380,E004781,1 yr - 4 yr,infant,583.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.711
+SAMN05827227,PRJNA290380,E004781,6 months - 1 yr,infant,208.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,2.183
+SAMN05827130,PRJNA290380,E004781,,infant,492.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.886
+SAMN05827137,PRJNA290380,E004781,,infant,371.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.858
+SAMN05827173,PRJNA290380,E004934,1 - 6 months,infant,70.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.623
+SAMN05826654,PRJNA290380,E004934,1 yr - 4 yr,infant,855.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.573
+SAMN05827145,PRJNA290380,E004934,,infant,492.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.318
+SAMN05826848,PRJNA290380,E005804,1 yr - 4 yr,infant,609.0,male,FI,other_infection,Pneumonia,,,yes,,primary,1.0,0.877
+SAMN05827215,PRJNA290380,E005804,6 months - 1 yr,infant,291.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.558
+SAMN05827188,PRJNA290380,E006871,1 - 6 months,infant,52.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,3.41
+SAMN05827193,PRJNA290380,E006871,1 - 6 months,infant,113.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.613
+SAMN05827108,PRJNA290380,E006871,6 months - 1 yr,infant,296.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,2.778
+SAMN05827178,PRJNA290380,E007303,1 - 6 months,infant,105.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.02
+SAMN05826602,PRJNA290380,E007303,1 yr - 4 yr,infant,588.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.357
+SAMN05826970,PRJNA290380,E007303,1 yr - 4 yr,infant,506.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,4.12
+SAMN05827116,PRJNA290380,E007303,6 months - 1 yr,infant,291.0,male,FI,other_infection,bronchitis,,,yes,,primary,1.0,2.558
+SAMN05826601,PRJNA290380,E007303,,infant,649.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.056
+SAMN05826721,PRJNA290380,E007303,,infant,858.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.8
+SAMN05826985,PRJNA290380,E007303,,child,1106.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,4.177
+SAMN05827171,PRJNA290380,E007303,,infant,197.0,male,FI,other_infection,bronchitis,,,no,,primary,1.0,3.674
+SAMN05826659,PRJNA290380,E007743,1 yr - 4 yr,infant,668.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.326
+SAMN05826660,PRJNA290380,E007743,1 yr - 4 yr,infant,583.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.12
+SAMN05827231,PRJNA290380,E007743,6 months - 1 yr,infant,309.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.348
+SAMN05826722,PRJNA290380,E007743,,infant,1098.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.519
+SAMN05826723,PRJNA290380,E007743,,infant,854.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.621
+SAMN05827086,PRJNA290380,E007743,,infant,395.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.225
+SAMN05827112,PRJNA290380,E007743,,infant,518.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.942
+SAMN05826954,PRJNA290380,E007980,1 yr - 4 yr,infant,682.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.645
+SAMN05827033,PRJNA290380,E007980,,infant,591.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.662
+SAMN05827186,PRJNA290380,E008241,1 - 6 months,infant,125.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.429
+SAMN05827242,PRJNA290380,E008241,6 months - 1 yr,infant,358.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.868
+SAMN05827248,PRJNA290380,E008241,6 months - 1 yr,infant,318.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,0.84
+SAMN05827252,PRJNA290380,E008241,,infant,237.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.193
+SAMN05827078,PRJNA290380,E008357,1 yr - 4 yr,infant,485.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.647
+SAMN05827156,PRJNA290380,E008437,1 - 6 months,infant,118.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,0.667
+SAMN05826612,PRJNA290380,E008437,1 yr - 4 yr,infant,669.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.183
+SAMN05827206,PRJNA290380,E008437,6 months - 1 yr,infant,209.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.764
+SAMN05826613,PRJNA290380,E008643,1 yr - 4 yr,infant,676.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.508
+SAMN05827263,PRJNA290380,E008643,6 months - 1 yr,infant,213.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,4.214
+SAMN05827267,PRJNA290380,E008643,6 months - 1 yr,infant,314.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,0.961
+SAMN05826854,PRJNA290380,E009020,1 yr - 4 yr,infant,579.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.285
+SAMN05827237,PRJNA290380,E009020,6 months - 1 yr,infant,304.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.677
+SAMN05826509,PRJNA290380,E009667,1 yr - 4 yr,infant,682.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.067
+SAMN05827220,PRJNA290380,E009667,6 months - 1 yr,infant,213.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.559
+SAMN05826510,PRJNA290380,E009667,,infant,565.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.51
+SAMN05826559,PRJNA290380,E009667,,infant,888.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.792
+SAMN05826856,PRJNA290380,E009676,1 yr - 4 yr,infant,691.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.106
+SAMN05827202,PRJNA290380,E009676,6 months - 1 yr,infant,303.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.789
+SAMN05827101,PRJNA290380,E009676,,infant,559.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,2.64
+SAMN05826738,PRJNA290380,E011183,1 - 6 months,infant,96.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,4.214
+SAMN05826805,PRJNA290380,E011183,1 yr - 4 yr,infant,676.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.744
+SAMN05826739,PRJNA290380,E011183,6 months - 1 yr,infant,191.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.092
+SAMN05826744,PRJNA290380,E011183,6 months - 1 yr,infant,279.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.703
+SAMN05826896,PRJNA290380,E011183,,infant,404.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.394
+SAMN05826897,PRJNA290380,E011183,,infant,496.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.031
+SAMN05826614,PRJNA290380,E011459,1 yr - 4 yr,infant,670.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.61
+SAMN05826751,PRJNA290380,E011459,1 yr - 4 yr,infant,857.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.336
+SAMN05826615,PRJNA290380,E011459,,infant,556.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.73
+SAMN05826740,PRJNA290380,E012115,1 - 6 months,infant,122.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.798
+SAMN05826806,PRJNA290380,E012115,1 yr - 4 yr,infant,673.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.967
+SAMN05826892,PRJNA290380,E012115,6 months - 1 yr,infant,361.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.05
+SAMN05827109,PRJNA290380,E012115,6 months - 1 yr,infant,321.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.409
+SAMN05826891,PRJNA290380,E012115,,infant,217.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.439
+SAMN05826861,PRJNA290380,E012124,1 - 6 months,infant,86.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,2.342
+SAMN05826573,PRJNA290380,E012124,1 yr - 4 yr,infant,569.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.589
+SAMN05826842,PRJNA290380,E012124,1 yr - 4 yr,infant,386.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.739
+SAMN05826841,PRJNA290380,E012124,6 months - 1 yr,infant,204.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.388
+SAMN05826574,PRJNA290380,E012124,,infant,858.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.606
+SAMN05826575,PRJNA290380,E012124,,infant,1084.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.129
+SAMN05826840,PRJNA290380,E012124,,infant,297.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.189
+SAMN05826843,PRJNA290380,E012124,,infant,665.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.091
+SAMN05826994,PRJNA290380,E012124,,infant,489.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.03
+SAMN05827245,PRJNA290380,E012393,1 - 6 months,infant,121.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.332
+SAMN05826688,PRJNA290380,E012393,1 yr - 4 yr,infant,569.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.052
+SAMN05826754,PRJNA290380,E012393,,infant,661.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.006
+SAMN05826523,PRJNA290380,E012678,1 - 6 months,infant,130.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.313
+SAMN05826541,PRJNA290380,E012678,1 yr - 4 yr,infant,481.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,3.583
+SAMN05826915,PRJNA290380,E012678,1 yr - 4 yr,infant,536.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.074
+SAMN05826561,PRJNA290380,E012678,6 months - 1 yr,infant,314.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.797
+SAMN05826831,PRJNA290380,E012971,1 yr - 4 yr,infant,1096.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.645
+SAMN05827088,PRJNA290380,E012971,1 yr - 4 yr,infant,821.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.094
+SAMN05826741,PRJNA290380,E013394,1 - 6 months,infant,103.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.085
+SAMN05827261,PRJNA290380,E013394,1 - 6 months,infant,66.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.632
+SAMN05826966,PRJNA290380,E013394,1 yr - 4 yr,infant,883.0,male,FI,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,1.654
+SAMN05826894,PRJNA290380,E013394,6 months - 1 yr,infant,295.0,male,FI,other_infection,Septicemia,,,yes,,primary,1.0,1.438
+SAMN05826696,PRJNA290380,E014953,1 yr - 4 yr,infant,569.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.159
+SAMN05827024,PRJNA290380,E014953,,infant,659.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.209
+SAMN05826697,PRJNA290380,E015208,1 yr - 4 yr,infant,1087.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.031
+SAMN05827153,PRJNA290380,E015208,6 months - 1 yr,infant,226.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.043
+SAMN05827259,PRJNA290380,E015378,1 - 6 months,infant,123.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.144
+SAMN05826746,PRJNA290380,E015378,1 yr - 4 yr,infant,662.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,4.469
+SAMN05827122,PRJNA290380,E015378,6 months - 1 yr,infant,221.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.852
+SAMN05826887,PRJNA290380,E015378,,infant,1075.0,female,FI,other_infection,bronchitis,,,yes,,primary,1.0,1.936
+SAMN05827203,PRJNA290380,E015378,,infant,343.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,3.943
+SAMN05826774,PRJNA290380,E015991,1 yr - 4 yr,infant,573.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.929
+SAMN05826527,PRJNA290380,E015991,,infant,669.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.398
+SAMN05826888,PRJNA290380,E015991,,infant,1052.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.126
+SAMN05826889,PRJNA290380,E015991,,infant,890.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.485
+SAMN05826514,PRJNA290380,E016148,1 yr - 4 yr,infant,838.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.479
+SAMN05826528,PRJNA290380,E016148,1 yr - 4 yr,infant,577.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.624
+SAMN05827151,PRJNA290380,E016148,6 months - 1 yr,infant,220.0,female,FI,other_infection,bronchitis,,,no,,primary,1.0,1.339
+SAMN05826529,PRJNA290380,E016148,,infant,667.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.736
+SAMN05826600,PRJNA290380,E016444,1 yr - 4 yr,infant,400.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.387
+SAMN05826606,PRJNA290380,E016444,1 yr - 4 yr,infant,1075.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.086
+SAMN05826745,PRJNA290380,E016444,,infant,583.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.89
+SAMN05826748,PRJNA290380,E016681,1 yr - 4 yr,infant,660.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.982
+SAMN05827038,PRJNA290380,E016681,,infant,399.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,4.319
+SAMN05826605,PRJNA290380,E016870,1 yr - 4 yr,infant,431.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.777
+SAMN05827070,PRJNA290380,E016870,6 months - 1 yr,infant,226.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.871
+SAMN05826875,PRJNA290380,E016870,,child,1162.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.765
+SAMN05826979,PRJNA290380,E016870,,infant,829.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.751
+SAMN05827102,PRJNA290380,E017049,1 - 6 months,infant,117.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.49
+SAMN05827239,PRJNA290380,E017049,1 - 6 months,infant,55.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.754
+SAMN05826657,PRJNA290380,E017049,1 yr - 4 yr,infant,390.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.095
+SAMN05826686,PRJNA290380,E017049,1 yr - 4 yr,infant,1077.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.452
+SAMN05826931,PRJNA290380,E017049,1 yr - 4 yr,infant,846.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.223
+SAMN05827197,PRJNA290380,E017049,6 months - 1 yr,infant,208.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,3.29
+SAMN05826656,PRJNA290380,E017049,,infant,481.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.034
+SAMN05826677,PRJNA290380,E017049,,infant,665.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.582
+SAMN05826678,PRJNA290380,E017049,,infant,580.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.269
+SAMN05826685,PRJNA290380,E017715,1 yr - 4 yr,infant,883.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.982
+SAMN05826749,PRJNA290380,E017715,1 yr - 4 yr,infant,578.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.652
+SAMN05827062,PRJNA290380,E017715,6 months - 1 yr,infant,216.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,2.185
+SAMN05826939,PRJNA290380,E017715,,infant,396.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.016
+SAMN05827020,PRJNA290380,E017715,,infant,498.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,4.234
+SAMN05827257,PRJNA290380,E018421,1 - 6 months,infant,115.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.428
+SAMN05826674,PRJNA290380,E018421,1 yr - 4 yr,infant,845.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.605
+SAMN05826524,PRJNA290380,E018421,,infant,663.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.53
+SAMN05826542,PRJNA290380,E018421,,infant,482.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.54
+SAMN05826807,PRJNA290380,E018421,,infant,391.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.117
+SAMN05826977,PRJNA290380,E018421,,infant,571.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.184
+SAMN05827084,PRJNA290380,E018421,,infant,1093.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.209
+SAMN05827265,PRJNA290380,E018574,1 - 6 months,infant,78.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,0.506
+SAMN05826661,PRJNA290380,E018574,1 yr - 4 yr,infant,403.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.838
+SAMN05826701,PRJNA290380,E018574,1 yr - 4 yr,infant,680.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,6.981
+SAMN05827207,PRJNA290380,E018574,3-6M,infant,118.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,0.652
+SAMN05826700,PRJNA290380,E018574,,infant,588.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.994
+SAMN05826874,PRJNA290380,E018574,,infant,1076.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.755
+SAMN05826938,PRJNA290380,E018574,,infant,864.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.567
+SAMN05826962,PRJNA290380,E018574,,infant,487.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,4.151
+SAMN05826611,PRJNA290380,E019160,1 yr - 4 yr,infant,392.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.807
+SAMN05826663,PRJNA290380,E019160,1 yr - 4 yr,infant,482.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.729
+SAMN05826673,PRJNA290380,E019160,,infant,852.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.535
+SAMN05826702,PRJNA290380,E019160,,infant,584.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.208
+SAMN05827213,PRJNA290380,E019187,1 - 6 months,infant,121.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,5.162
+SAMN05826672,PRJNA290380,E019187,1 yr - 4 yr,infant,1096.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.949
+SAMN05826945,PRJNA290380,E019187,1 yr - 4 yr,infant,401.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.813
+SAMN05826772,PRJNA290380,E019187,,infant,668.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.445
+SAMN05826773,PRJNA290380,E019187,,infant,575.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.315
+SAMN05826853,PRJNA290380,E019187,,infant,489.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,0.933
+SAMN05827221,PRJNA290380,E019349,1 - 6 months,infant,55.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.524
+SAMN05826983,PRJNA290380,E019349,1 yr - 4 yr,infant,496.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.545
+SAMN05827226,PRJNA290380,E019349,6 months - 1 yr,infant,206.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.691
+SAMN05827006,PRJNA290380,E019349,,infant,405.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.295
+SAMN05827222,PRJNA290380,E019793,1 - 6 months,infant,43.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.904
+SAMN05826768,PRJNA290380,E019793,1 yr - 4 yr,infant,670.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.47
+SAMN05826832,PRJNA290380,E019793,,infant,1097.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.144
+SAMN05826855,PRJNA290380,E019793,,infant,523.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.753
+SAMN05826743,PRJNA290380,E020682,1 - 6 months,infant,113.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.132
+SAMN05826895,PRJNA290380,E020682,6 months - 1 yr,infant,206.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,0.72
+SAMN05827228,PRJNA290380,E020781,1 - 6 months,infant,57.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.703
+SAMN05826859,PRJNA290380,E020781,1 yr - 4 yr,infant,402.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.823
+SAMN05826952,PRJNA290380,E020781,1 yr - 4 yr,infant,502.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.497
+SAMN05826834,PRJNA290380,E020781,,infant,589.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.957
+SAMN05826965,PRJNA290380,E020781,,infant,856.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.097
+SAMN05827012,PRJNA290380,E020781,,infant,1090.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.935
+SAMN05827209,PRJNA290380,E020808,1 - 6 months,infant,40.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.762
+SAMN05826508,PRJNA290380,E020808,1 yr - 4 yr,infant,479.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.303
+SAMN05826877,PRJNA290380,E020808,,infant,844.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.826
+SAMN05826953,PRJNA290380,E020808,,infant,382.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.731
+SAMN05826986,PRJNA290380,E020808,,infant,563.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.132
+SAMN05827177,PRJNA290380,E020808,,infant,689.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.256
+SAMN05827126,PRJNA290380,E022083,1 - 6 months,infant,119.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.948
+SAMN05826770,PRJNA290380,E022083,1 yr - 4 yr,infant,613.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.277
+SAMN05826771,PRJNA290380,E022083,1 yr - 4 yr,infant,654.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.467
+SAMN05827164,PRJNA290380,E022083,6 months - 1 yr,infant,216.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.605
+SAMN05826671,PRJNA290380,E022083,,infant,507.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.077
+SAMN05826876,PRJNA290380,E022083,,infant,1094.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.464
+SAMN05826742,PRJNA290380,E022960,1 - 6 months,infant,43.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.425
+SAMN05826890,PRJNA290380,E022960,1 - 6 months,infant,124.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.705
+SAMN05826957,PRJNA290380,E022960,1 yr - 4 yr,infant,848.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.832
+SAMN05826802,PRJNA290380,E022960,6 months - 1 yr,infant,209.0,male,FI,other_infection,Skin Infection,,,yes,,primary,1.0,1.155
+SAMN05826801,PRJNA290380,E022960,,infant,310.0,male,FI,other_infection,Skin Infection,,,yes,,primary,1.0,0.983
+SAMN05826964,PRJNA290380,E022960,,child,1101.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.08
+SAMN05826981,PRJNA290380,E022960,,infant,488.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.389
+SAMN05827000,PRJNA290380,E022960,,infant,401.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.692
+SAMN05827016,PRJNA290380,E022960,,infant,578.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.114
+SAMN05827134,PRJNA290380,E023535,1 - 6 months,infant,132.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.475
+SAMN05827223,PRJNA290380,E023535,1 - 6 months,infant,52.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.748
+SAMN05826689,PRJNA290380,E023535,1 yr - 4 yr,infant,410.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.653
+SAMN05826513,PRJNA290380,E023535,,infant,475.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.434
+SAMN05826830,PRJNA290380,E023535,,infant,821.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.469
+SAMN05827011,PRJNA290380,E023535,,infant,578.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.788
+SAMN05826764,PRJNA290380,E023681,1 yr - 4 yr,infant,409.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.066
+SAMN05827063,PRJNA290380,E023681,1 yr - 4 yr,infant,580.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,2.492
+SAMN05826893,PRJNA290380,E023705,1 - 6 months,infant,136.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.362
+SAMN05826804,PRJNA290380,E023705,1 yr - 4 yr,infant,396.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.289
+SAMN05826803,PRJNA290380,E023705,6 months - 1 yr,infant,212.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.081
+SAMN05827234,PRJNA290380,E023839,1 - 6 months,infant,46.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.867
+SAMN05827066,PRJNA290380,E023839,1 yr - 4 yr,infant,502.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.969
+SAMN05826647,PRJNA290380,E024240,1 yr - 4 yr,infant,589.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.936
+SAMN05826648,PRJNA290380,E024240,1 yr - 4 yr,infant,667.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.859
+SAMN05826833,PRJNA290380,E024240,,infant,1067.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.829
+SAMN05827219,PRJNA290380,E024646,1 - 6 months,infant,47.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,4.155
+SAMN05826690,PRJNA290380,E024646,1 yr - 4 yr,infant,525.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.842
+SAMN05827094,PRJNA290380,E024646,6 months - 1 yr,infant,293.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,2.565
+SAMN05827159,PRJNA290380,E025671,1 - 6 months,infant,119.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.96
+SAMN05826692,PRJNA290380,E025671,1 yr - 4 yr,infant,474.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.515
+SAMN05826942,PRJNA290380,E025671,1 yr - 4 yr,infant,840.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,3.002
+SAMN05827210,PRJNA290380,E025830,1 - 6 months,infant,136.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,4.587
+SAMN05827225,PRJNA290380,E025912,1 - 6 months,infant,42.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.297
+SAMN05826694,PRJNA290380,E025912,1 yr - 4 yr,infant,518.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.749
+SAMN05827269,PRJNA290380,E025912,3-6M,infant,122.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.11
+SAMN05826649,PRJNA290380,E025912,,infant,670.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.4
+SAMN05826693,PRJNA290380,E025912,,infant,547.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.114
+SAMN05826683,PRJNA290380,E025921,1 yr - 4 yr,infant,406.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.138
+SAMN05826655,PRJNA290380,E025921,,infant,583.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.082
+SAMN05826682,PRJNA290380,E025921,,infant,493.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.527
+SAMN05826695,PRJNA290380,E026343,1 yr - 4 yr,infant,487.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.494
+SAMN05827260,PRJNA290380,E029310,1 - 6 months,infant,66.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.831
+SAMN05826680,PRJNA290380,E029310,1 yr - 4 yr,infant,384.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,1.012
+SAMN05826929,PRJNA290380,E029310,1 yr - 4 yr,infant,579.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.627
+SAMN05826930,PRJNA290380,E029310,,infant,673.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.501
+SAMN05827161,PRJNA290380,E029796,1 - 6 months,infant,114.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.448
+SAMN05826684,PRJNA290380,E029796,1 yr - 4 yr,infant,667.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.137
+SAMN05826747,PRJNA290380,E029796,1 yr - 4 yr,infant,396.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.417
+SAMN05827129,PRJNA290380,E030828,1 - 6 months,infant,45.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,3.626
+SAMN05826724,PRJNA290380,E030828,1 yr - 4 yr,infant,577.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.796
+SAMN05826603,PRJNA290380,E030828,6 months - 1 yr,infant,304.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.584
+SAMN05826604,PRJNA290380,E030828,6 months - 1 yr,infant,212.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.169
+SAMN05826943,PRJNA290380,E030828,,infant,851.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.17
+SAMN05827091,PRJNA290380,E030828,,infant,669.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,2.37
+SAMN05827106,PRJNA290380,E030828,,infant,396.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.999
+SAMN05826679,PRJNA290380,E030933,1 yr - 4 yr,infant,424.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.61
+SAMN05826681,PRJNA290380,E030933,1 yr - 4 yr,infant,488.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.486
+SAMN05826719,PRJNA290380,E030933,,infant,668.0,female,FI,other_infection,Otitis Media,,,yes,,primary,1.0,0.558
+SAMN05826750,PRJNA290380,E031941,1 yr - 4 yr,infant,398.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,0.693
+SAMN05826936,PRJNA290380,E031941,1 yr - 4 yr,infant,712.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,3.543
+SAMN05826662,PRJNA290380,E031941,6 months - 1 yr,infant,214.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,2.311
+SAMN05826699,PRJNA290380,E032745,1 yr - 4 yr,infant,427.0,male,FI,other_infection,Otitis Media,,,no,,primary,1.0,0.885
+SAMN05826720,PRJNA290380,E032745,1 yr - 4 yr,infant,680.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.635
+SAMN05826658,PRJNA290380,E032745,6 months - 1 yr,infant,213.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.846
+SAMN05826872,PRJNA290380,E032745,,child,1101.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.926
+SAMN05826902,PRJNA290380,E033036,1 yr - 4 yr,infant,576.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.935
+SAMN05826515,PRJNA290380,E033036,6 months - 1 yr,infant,318.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,1.214
+SAMN05826564,PRJNA290380,E033036,,infant,690.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,1.731
+SAMN05826565,PRJNA290380,E033036,,infant,475.0,male,FI,other_infection,Otitis Media,,,yes,,primary,1.0,2.271
+SAMN05827216,PRJNA290380,E033156,1 - 6 months,infant,51.0,male,FI,healthy_control,Healthy,,,no,,primary,1.0,0.879
+SAMN05826578,PRJNA290380,E033156,1 yr - 4 yr,child,1105.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,0.869
+SAMN05826857,PRJNA290380,E033156,6 months - 1 yr,infant,320.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.029
+SAMN05826858,PRJNA290380,E033156,6 months - 1 yr,infant,259.0,male,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.13
+SAMN05826769,PRJNA290380,E034324,1 yr - 4 yr,infant,477.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.945
+SAMN05826927,PRJNA290380,E034324,6 months - 1 yr,infant,295.0,female,FI,healthy_control,Healthy,,,yes,,primary,1.0,1.8
+SAMN05826705,PRJNA290380,E034885,1 yr - 4 yr,infant,396.0,female,FI,other_infection,Otitis Media,,,no,,primary,1.0,2.27
+SAMN05826808,PRJNA290380,E034885,6 months - 1 yr,infant,206.0,female,FI,healthy_control,Healthy,,,no,,primary,1.0,1.234
+SAMN05827110,PRJNA290380,E034885,,infant,855.0,female,FI,,,,,yes,,primary,1.0,3.462
+SAMN05826813,PRJNA290380,P000648,1 - 6 months,infant,154.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.793
+SAMN05826496,PRJNA290380,P000648,1 yr - 4 yr,infant,493.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,4.392
+SAMN05826814,PRJNA290380,P000648,6 months - 1 yr,infant,219.0,male,RU,gi_infection_or_diarrhoea,Gastroenteritis,,,yes,,primary,1.0,4.236
+SAMN05827230,PRJNA290380,P000648,6 months - 1 yr,infant,316.0,male,RU,gi_infection_or_diarrhoea,Gastroenteritis,,,yes,,primary,1.0,0.785
+SAMN05826539,PRJNA290380,P000648,,infant,676.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,5.332
+SAMN05826862,PRJNA290380,P000648,,infant,547.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.201
+SAMN05826961,PRJNA290380,P000648,,infant,735.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.158
+SAMN05827027,PRJNA290380,P000648,,infant,614.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.163
+SAMN05827270,PRJNA290380,P000648,,infant,372.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.645
+SAMN05826914,PRJNA290380,P000675,1 yr - 4 yr,infant,395.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.058
+SAMN05826920,PRJNA290380,P000756,1 - 6 months,infant,143.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.095
+SAMN05826884,PRJNA290380,P000756,1 yr - 4 yr,infant,381.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.965
+SAMN05826725,PRJNA290380,P000756,6 months - 1 yr,infant,199.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,5.658
+SAMN05826797,PRJNA290380,P000756,,infant,241.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.271
+SAMN05826883,PRJNA290380,P000756,,infant,348.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.183
+SAMN05826885,PRJNA290380,P000756,,infant,408.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.259
+SAMN05826620,PRJNA290380,P001307,1 yr - 4 yr,infant,434.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.974
+SAMN05826570,PRJNA290380,P001307,,infant,692.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.076
+SAMN05826624,PRJNA290380,P001307,,infant,367.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.883
+SAMN05826640,PRJNA290380,P001363,1 yr - 4 yr,infant,404.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.132
+SAMN05826812,PRJNA290380,P001363,6 months - 1 yr,infant,184.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.376
+SAMN05827138,PRJNA290380,P001363,,infant,228.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.55
+SAMN05826967,PRJNA290380,P003173,1 yr - 4 yr,infant,417.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.914
+SAMN05826972,PRJNA290380,P003173,,infant,528.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.466
+SAMN05827021,PRJNA290380,P003173,,infant,702.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.485
+SAMN05827069,PRJNA290380,P003173,,infant,638.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.788
+SAMN05827074,PRJNA290380,P003173,,infant,676.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.363
+SAMN05826638,PRJNA290380,P003435,6 months - 1 yr,infant,343.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.377
+SAMN05826811,PRJNA290380,P003435,,infant,218.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.515
+SAMN05827131,PRJNA290380,P003435,,infant,195.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.901
+SAMN05826500,PRJNA290380,P003558,6 months - 1 yr,infant,213.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,4.409
+SAMN05826501,PRJNA290380,P003558,,infant,273.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.329
+SAMN05826502,PRJNA290380,P003558,,infant,341.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.648
+SAMN05827247,PRJNA290380,P003825,1 yr - 4 yr,infant,367.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.777
+SAMN05826800,PRJNA290380,P004113,1 - 6 months,infant,91.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,4.003
+SAMN05826628,PRJNA290380,P004113,1 yr - 4 yr,infant,586.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.481
+SAMN05826899,PRJNA290380,P004113,6 months - 1 yr,infant,276.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.121
+SAMN05826629,PRJNA290380,P004113,,infant,625.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.98
+SAMN05826900,PRJNA290380,P004113,,infant,316.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.623
+SAMN05826901,PRJNA290380,P004113,,infant,348.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.51
+SAMN05827034,PRJNA290380,P004113,,infant,697.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.95
+SAMN05826621,PRJNA290380,P004230,1 yr - 4 yr,infant,400.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.407
+SAMN05826639,PRJNA290380,P004230,6 months - 1 yr,infant,285.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.538
+SAMN05827154,PRJNA290380,P004230,6 months - 1 yr,infant,215.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.141
+SAMN05826622,PRJNA290380,P004230,,infant,498.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.758
+SAMN05827079,PRJNA290380,P004230,,infant,561.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.691
+SAMN05827105,PRJNA290380,P004230,,infant,614.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.61
+SAMN05827111,PRJNA290380,P004230,,infant,725.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.486
+SAMN05827211,PRJNA290380,P004230,,infant,367.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,5.622
+SAMN05827236,PRJNA290380,P004847,6 months - 1 yr,infant,254.0,female,RU,other_infection,Upper Respiratory Tract Infection,,,no,,primary,1.0,0.769
+SAMN05826757,PRJNA290380,P004946,6 months - 1 yr,infant,296.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.729
+SAMN05826758,PRJNA290380,P004946,,infant,334.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.061
+SAMN05826545,PRJNA290380,P005135,1 - 6 months,infant,131.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.891
+SAMN05827081,PRJNA290380,P005135,1 yr - 4 yr,infant,430.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.698
+SAMN05826810,PRJNA290380,P005135,6 months - 1 yr,infant,249.0,male,RU,other_infection,bronchitis,,,no,,primary,1.0,1.146
+SAMN05826544,PRJNA290380,P005135,,infant,308.0,male,RU,other_infection,bronchitis,,,yes,,primary,1.0,2.584
+SAMN05826583,PRJNA290380,P005279,1 yr - 4 yr,child,1101.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,4.108
+SAMN05826707,PRJNA290380,P005279,1 yr - 4 yr,infant,826.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.59
+SAMN05826968,PRJNA290380,P005279,6 months - 1 yr,infant,358.0,female,RU,other_infection,bronchitis,,,yes,,primary,1.0,4.347
+SAMN05827022,PRJNA290380,P005279,,infant,566.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.282
+SAMN05827082,PRJNA290380,P005279,,infant,663.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.025
+SAMN05827124,PRJNA290380,P005279,,infant,423.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.961
+SAMN05827146,PRJNA290380,P005279,,infant,988.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.892
+SAMN05826933,PRJNA290380,P005342,1 yr - 4 yr,infant,384.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,4.727
+SAMN05826726,PRJNA290380,P005342,6 months - 1 yr,infant,214.0,male,RU,other_infection,bronchitis,,,no,,primary,1.0,2.696
+SAMN05826916,PRJNA290380,P005558,1 - 6 months,infant,92.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.615
+SAMN05826706,PRJNA290380,P005558,1 yr - 4 yr,infant,794.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,no,,primary,1.0,2.267
+SAMN05826908,PRJNA290380,P005558,1 yr - 4 yr,infant,551.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.354
+SAMN05826918,PRJNA290380,P005558,3-6M,infant,158.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,6.981
+SAMN05826839,PRJNA290380,P005558,6 months - 1 yr,infant,227.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.948
+SAMN05826617,PRJNA290380,P005558,,infant,743.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,no,,primary,1.0,0.805
+SAMN05826776,PRJNA290380,P005558,,infant,434.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.938
+SAMN05826907,PRJNA290380,P005558,,infant,502.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.486
+SAMN05826995,PRJNA290380,P005558,,child,1111.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.162
+SAMN05827052,PRJNA290380,P005558,,infant,677.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.63
+SAMN05827098,PRJNA290380,P005558,,infant,368.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.929
+SAMN05826795,PRJNA290380,P006035,1 yr - 4 yr,infant,371.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,4.185
+SAMN05826760,PRJNA290380,P006035,6 months - 1 yr,infant,214.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.051
+SAMN05826976,PRJNA290380,P006035,,infant,488.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.051
+SAMN05826498,PRJNA290380,P006862,1 yr - 4 yr,infant,703.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.542
+SAMN05826499,PRJNA290380,P006862,,infant,539.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.753
+SAMN05827058,PRJNA290380,P007550,6 months - 1 yr,infant,344.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.655
+SAMN05826864,PRJNA290380,P007649,1 yr - 4 yr,infant,455.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.248
+SAMN05826909,PRJNA290380,P007649,1 yr - 4 yr,infant,883.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.406
+SAMN05826960,PRJNA290380,P007649,6 months - 1 yr,infant,334.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.736
+SAMN05827009,PRJNA290380,P007649,,infant,610.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.362
+SAMN05827032,PRJNA290380,P007649,,infant,699.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.915
+SAMN05827049,PRJNA290380,P007649,,infant,791.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.814
+SAMN05827077,PRJNA290380,P007649,,infant,518.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.934
+SAMN05826761,PRJNA290380,P007857,6 months - 1 yr,infant,303.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,4.777
+SAMN05826799,PRJNA290380,P007857,6 months - 1 yr,infant,208.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.169
+SAMN05826917,PRJNA290380,P008119,1 yr - 4 yr,infant,432.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.372
+SAMN05826975,PRJNA290380,P008119,1 yr - 4 yr,infant,366.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.766
+SAMN05826990,PRJNA290380,P008119,6 months - 1 yr,infant,232.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.229
+SAMN05826546,PRJNA290380,P008543,1 yr - 4 yr,infant,425.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.694
+SAMN05826538,PRJNA290380,P008543,6 months - 1 yr,infant,276.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.496
+SAMN05826547,PRJNA290380,P008543,,infant,450.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.112
+SAMN05827028,PRJNA290380,P008543,,infant,319.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.407
+SAMN05827085,PRJNA290380,P008543,,infant,481.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.576
+SAMN05826569,PRJNA290380,P008579,1 - 6 months,infant,158.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.053
+SAMN05826980,PRJNA290380,P008579,1 yr - 4 yr,infant,523.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.277
+SAMN05826762,PRJNA290380,P008579,6 months - 1 yr,infant,262.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.721
+SAMN05826557,PRJNA290380,P008579,,infant,349.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.78
+SAMN05826987,PRJNA290380,P008579,,infant,550.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.765
+SAMN05827212,PRJNA290380,P008579,,infant,366.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.578
+SAMN05826921,PRJNA290380,P008633,6 months - 1 yr,infant,182.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.826
+SAMN05827241,PRJNA290380,P008633,6 months - 1 yr,infant,242.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.887
+SAMN05826923,PRJNA290380,P008633,,infant,211.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.932
+SAMN05826820,PRJNA290380,P008723,1 yr - 4 yr,infant,583.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.002
+SAMN05827113,PRJNA290380,P008939,6 months - 1 yr,infant,285.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.493
+SAMN05826581,PRJNA290380,P009219,1 yr - 4 yr,infant,439.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.672
+SAMN05826886,PRJNA290380,P009219,1 yr - 4 yr,infant,373.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.087
+SAMN05826636,PRJNA290380,P009219,,infant,243.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.234
+SAMN05826526,PRJNA290380,P009291,1 - 6 months,infant,139.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.063
+SAMN05826568,PRJNA290380,P009291,1 yr - 4 yr,infant,494.0,male,RU,other_infection,Tonsillitis,,,no,,primary,1.0,2.928
+SAMN05826869,PRJNA290380,P009291,1 yr - 4 yr,infant,1015.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.871
+SAMN05826759,PRJNA290380,P009291,6 months - 1 yr,infant,190.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.889
+SAMN05826555,PRJNA290380,P009291,,infant,359.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.459
+SAMN05826718,PRJNA290380,P009291,,infant,476.0,male,RU,other_infection,Tonsillitis,,,no,,primary,1.0,1.058
+SAMN05826838,PRJNA290380,P009291,,infant,299.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.97
+SAMN05826870,PRJNA290380,P009291,,infant,1087.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.517
+SAMN05827192,PRJNA290380,P009291,,infant,784.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.073
+SAMN05826552,PRJNA290380,P009746,1 - 6 months,infant,103.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.513
+SAMN05826548,PRJNA290380,P009746,1 yr - 4 yr,infant,467.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.602
+SAMN05826556,PRJNA290380,P009746,6 months - 1 yr,infant,299.0,male,RU,other_infection,bronchitis,,,yes,,primary,1.0,2.674
+SAMN05826540,PRJNA290380,P009880,1 - 6 months,infant,162.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.787
+SAMN05827013,PRJNA290380,P009880,1 yr - 4 yr,infant,433.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.188
+SAMN05827256,PRJNA290380,P009880,6 months - 1 yr,infant,287.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.523
+SAMN05826755,PRJNA290380,P010096,1 yr - 4 yr,infant,732.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,1.894
+SAMN05826809,PRJNA290380,P010096,1 yr - 4 yr,infant,518.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.499
+SAMN05826537,PRJNA290380,P010096,6 months - 1 yr,infant,304.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,1.607
+SAMN05826543,PRJNA290380,P010096,,infant,489.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.798
+SAMN05826551,PRJNA290380,P010096,,infant,675.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.075
+SAMN05826576,PRJNA290380,P010096,,infant,1007.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,2.079
+SAMN05826941,PRJNA290380,P010096,,infant,858.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,3.357
+SAMN05827060,PRJNA290380,P010096,,infant,457.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.339
+SAMN05826714,PRJNA290380,P010313,6 months - 1 yr,infant,184.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.274
+SAMN05827056,PRJNA290380,P010322,1 yr - 4 yr,infant,573.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.267
+SAMN05826756,PRJNA290380,P010322,6 months - 1 yr,infant,308.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,5.325
+SAMN05827092,PRJNA290380,P010322,,infant,365.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.725
+SAMN05827217,PRJNA290380,P010322,,infant,329.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.581
+SAMN05826898,PRJNA290380,P010936,1 yr - 4 yr,infant,443.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.411
+SAMN05826912,PRJNA290380,P010936,,infant,434.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.875
+SAMN05826993,PRJNA290380,P010936,,infant,833.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.282
+SAMN05827014,PRJNA290380,P010936,,infant,477.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.078
+SAMN05827023,PRJNA290380,P010936,,infant,534.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.0
+SAMN05827036,PRJNA290380,P010936,,infant,514.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.14
+SAMN05827266,PRJNA290380,P010936,,infant,369.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,6.229
+SAMN05826488,PRJNA290380,P011108,1 yr - 4 yr,infant,531.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.041
+SAMN05826490,PRJNA290380,P011108,6 months - 1 yr,infant,342.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.46
+SAMN05827090,PRJNA290380,P011108,,infant,401.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.683
+SAMN05827103,PRJNA290380,P011108,,infant,506.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.367
+SAMN05826798,PRJNA290380,P011207,6 months - 1 yr,infant,289.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,4.53
+SAMN05826815,PRJNA290380,P013454,6 months - 1 yr,infant,265.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.333
+SAMN05826865,PRJNA290380,P013701,1 yr - 4 yr,infant,447.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.565
+SAMN05826637,PRJNA290380,P013701,6 months - 1 yr,infant,207.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.378
+SAMN05827218,PRJNA290380,P013701,6 months - 1 yr,infant,253.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.389
+SAMN05826618,PRJNA290380,P013701,,infant,535.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.939
+SAMN05826880,PRJNA290380,P013823,1 - 6 months,infant,179.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.089
+SAMN05826550,PRJNA290380,P013823,1 yr - 4 yr,infant,532.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.97
+SAMN05827001,PRJNA290380,P013823,1 yr - 4 yr,infant,584.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.611
+SAMN05826489,PRJNA290380,P013823,6 months - 1 yr,infant,347.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.286
+SAMN05826867,PRJNA290380,P013823,6 months - 1 yr,infant,264.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.169
+SAMN05826881,PRJNA290380,P013823,6 months - 1 yr,infant,196.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.61
+SAMN05826582,PRJNA290380,P013823,,infant,417.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.008
+SAMN05826882,PRJNA290380,P013823,,infant,224.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.732
+SAMN05826503,PRJNA290380,P013960,1 yr - 4 yr,infant,511.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.58
+SAMN05826627,PRJNA290380,P013960,1 yr - 4 yr,infant,596.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.843
+SAMN05827224,PRJNA290380,P013960,6 months - 1 yr,infant,259.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.799
+SAMN05826579,PRJNA290380,P013960,,infant,428.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.656
+SAMN05826949,PRJNA290380,P014605,1 yr - 4 yr,infant,448.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.976
+SAMN05826821,PRJNA290380,P014605,6 months - 1 yr,infant,242.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.832
+SAMN05826819,PRJNA290380,P014713,1 yr - 4 yr,infant,372.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.402
+SAMN05826635,PRJNA290380,P014713,6 months - 1 yr,infant,192.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.116
+SAMN05826866,PRJNA290380,P014713,,infant,235.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.451
+SAMN05826919,PRJNA290380,P014839,1 - 6 months,infant,122.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.7
+SAMN05826828,PRJNA290380,P014839,1 yr - 4 yr,infant,405.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.019
+SAMN05826925,PRJNA290380,P014839,1 yr - 4 yr,infant,775.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.419
+SAMN05826623,PRJNA290380,P014839,6 months - 1 yr,infant,286.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.295
+SAMN05826495,PRJNA290380,P014839,,infant,326.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.93
+SAMN05826531,PRJNA290380,P014839,,infant,693.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.685
+SAMN05826566,PRJNA290380,P014839,,infant,519.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.982
+SAMN05826778,PRJNA290380,P014839,,infant,618.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.591
+SAMN05826868,PRJNA290380,P014839,,infant,206.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.936
+SAMN05826924,PRJNA290380,P014839,,infant,811.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.762
+SAMN05826974,PRJNA290380,P014839,,infant,879.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.984
+SAMN05827026,PRJNA290380,P014839,,infant,553.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.23
+SAMN05827071,PRJNA290380,P014839,,infant,481.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,4.263
+SAMN05826532,PRJNA290380,P015091,1 yr - 4 yr,infant,638.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.432
+SAMN05826781,PRJNA290380,P015091,1 yr - 4 yr,infant,561.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.819
+SAMN05826497,PRJNA290380,P015091,6 months - 1 yr,infant,278.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.32
+SAMN05826625,PRJNA290380,P015091,,infant,248.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.565
+SAMN05826978,PRJNA290380,P015091,,infant,381.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.357
+SAMN05826517,PRJNA290380,P015163,1 - 6 months,infant,175.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,5.182
+SAMN05826522,PRJNA290380,P015163,1 yr - 4 yr,infant,513.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.054
+SAMN05826736,PRJNA290380,P015163,1 yr - 4 yr,infant,419.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.66
+SAMN05826922,PRJNA290380,P015163,3-6M,infant,144.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.947
+SAMN05826715,PRJNA290380,P015163,6 months - 1 yr,infant,205.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.204
+SAMN05826558,PRJNA290380,P015163,,infant,328.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.718
+SAMN05826737,PRJNA290380,P015163,,infant,542.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.583
+SAMN05826948,PRJNA290380,P015163,,infant,598.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.006
+SAMN05826963,PRJNA290380,P015163,,infant,723.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,4.069
+SAMN05827010,PRJNA290380,P015163,,infant,660.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.051
+SAMN05827162,PRJNA290380,P015163,,infant,296.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.789
+SAMN05826525,PRJNA290380,P015656,1 - 6 months,infant,144.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,2.199
+SAMN05826616,PRJNA290380,P016497,1 yr - 4 yr,infant,541.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.629
+SAMN05827100,PRJNA290380,P016497,1 yr - 4 yr,infant,572.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.722
+SAMN05827029,PRJNA290380,P016497,,infant,503.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.215
+SAMN05826780,PRJNA290380,P016574,1 yr - 4 yr,infant,498.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.711
+SAMN05826792,PRJNA290380,P016574,1 yr - 4 yr,infant,637.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.729
+SAMN05826825,PRJNA290380,P016574,1 yr - 4 yr,infant,385.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.671
+SAMN05826641,PRJNA290380,P016803,1 yr - 4 yr,infant,499.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.866
+SAMN05826789,PRJNA290380,P016803,1 yr - 4 yr,infant,647.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.722
+SAMN05826818,PRJNA290380,P016803,6 months - 1 yr,infant,349.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.848
+SAMN05826982,PRJNA290380,P016803,6 months - 1 yr,infant,275.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.806
+SAMN05826788,PRJNA290380,P016803,,infant,554.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.793
+SAMN05826935,PRJNA290380,P016803,,infant,726.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.554
+SAMN05826956,PRJNA290380,P016803,,infant,843.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.914
+SAMN05826999,PRJNA290380,P016803,,infant,404.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.13
+SAMN05826712,PRJNA290380,P017255,6 months - 1 yr,infant,202.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.79
+SAMN05826713,PRJNA290380,P017255,6 months - 1 yr,infant,299.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.832
+SAMN05826516,PRJNA290380,P017255,,infant,345.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.355
+SAMN05826827,PRJNA290380,P017671,1 yr - 4 yr,infant,396.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.75
+SAMN05826837,PRJNA290380,P017671,1 yr - 4 yr,infant,517.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.98
+SAMN05826619,PRJNA290380,P017671,6 months - 1 yr,infant,217.0,male,RU,gi_infection_or_diarrhoea,Gastroenteritis,,,no,,primary,1.0,1.877
+SAMN05826826,PRJNA290380,P017671,,infant,427.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,0.667
+SAMN05826932,PRJNA290380,P017671,,infant,304.0,male,RU,gi_infection_or_diarrhoea,Gastroenteritis,,,yes,,primary,1.0,1.994
+SAMN05826973,PRJNA290380,P017671,,infant,580.0,male,RU,other_infection,bronchitis,,,yes,,primary,1.0,3.682
+SAMN05826989,PRJNA290380,P017671,,infant,337.0,male,RU,gi_infection_or_diarrhoea,Gastroenteritis,,,yes,,primary,1.0,2.872
+SAMN05826487,PRJNA290380,P017743,1 - 6 months,infant,173.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.3
+SAMN05826992,PRJNA290380,P017743,1 yr - 4 yr,infant,367.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.709
+SAMN05826534,PRJNA290380,P017743,6 months - 1 yr,infant,312.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.301
+SAMN05826984,PRJNA290380,P017743,,infant,335.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.679
+SAMN05826563,PRJNA290380,P018832,1 - 6 months,infant,169.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.186
+SAMN05826486,PRJNA290380,P018832,1 yr - 4 yr,infant,686.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.788
+SAMN05826835,PRJNA290380,P018832,1 yr - 4 yr,infant,533.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.379
+SAMN05826796,PRJNA290380,P018832,6 months - 1 yr,infant,292.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.585
+SAMN05826536,PRJNA290380,P018832,,infant,358.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.264
+SAMN05826549,PRJNA290380,P018832,,infant,506.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.902
+SAMN05826585,PRJNA290380,P018832,,infant,748.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.036
+SAMN05826642,PRJNA290380,P018832,,infant,416.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.592
+SAMN05826836,PRJNA290380,P018832,,infant,473.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.02
+SAMN05826998,PRJNA290380,P018832,,infant,597.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.434
+SAMN05826824,PRJNA290380,P019222,6 months - 1 yr,infant,296.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.268
+SAMN05826871,PRJNA290380,P019222,6 months - 1 yr,infant,241.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.583
+SAMN05827055,PRJNA290380,P019222,,infant,352.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.074
+SAMN05826926,PRJNA290380,P019475,1 - 6 months,infant,162.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.553
+SAMN05826878,PRJNA290380,P019475,1 yr - 4 yr,infant,400.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,no,,primary,1.0,1.954
+SAMN05826879,PRJNA290380,P019475,,infant,548.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.145
+SAMN05827002,PRJNA290380,P019475,,infant,460.0,male,RU,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,2.557
+SAMN05827205,PRJNA290380,P019475,,infant,652.0,male,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.715
+SAMN05826779,PRJNA290380,P019854,1 yr - 4 yr,infant,554.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.514
+SAMN05826971,PRJNA290380,P019854,1 yr - 4 yr,infant,730.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.071
+SAMN05826991,PRJNA290380,P019854,,infant,608.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.768
+SAMN05826777,PRJNA290380,P019980,1 yr - 4 yr,infant,706.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.47
+SAMN05826790,PRJNA290380,P019980,1 yr - 4 yr,infant,515.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.771
+SAMN05827068,PRJNA290380,P019980,,infant,615.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.13
+SAMN05826643,PRJNA290380,P020604,1 yr - 4 yr,infant,381.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.62
+SAMN05826717,PRJNA290380,P020604,1 yr - 4 yr,infant,534.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.184
+SAMN05826791,PRJNA290380,P020604,1 yr - 4 yr,infant,696.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.655
+SAMN05826580,PRJNA290380,P020604,,infant,809.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.584
+SAMN05826716,PRJNA290380,P020604,,infant,499.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.833
+SAMN05826822,PRJNA290380,P020604,,infant,284.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.132
+SAMN05826823,PRJNA290380,P020604,,infant,341.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.835
+SAMN05826863,PRJNA290380,P020604,,infant,971.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.599
+SAMN05827061,PRJNA290380,P020604,,infant,747.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.948
+SAMN05827262,PRJNA290380,P020604,,infant,629.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.013
+SAMN05826951,PRJNA290380,P020631,1 yr - 4 yr,infant,857.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.018
+SAMN05827087,PRJNA290380,P020631,,infant,622.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.004
+SAMN05827184,PRJNA290380,P020631,,infant,902.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,4.035
+SAMN05827007,PRJNA290380,P020799,1 yr - 4 yr,infant,433.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.932
+SAMN05826782,PRJNA290380,P020861,1 yr - 4 yr,infant,423.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.667
+SAMN05826533,PRJNA290380,P020861,,infant,510.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.625
+SAMN05826644,PRJNA290380,P021343,1 yr - 4 yr,infant,405.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,3.116
+SAMN05826645,PRJNA290380,P021343,1 yr - 4 yr,infant,434.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.022
+SAMN05826626,PRJNA290380,P021772,1 yr - 4 yr,infant,519.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.859
+SAMN05826934,PRJNA290380,P021772,,infant,730.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.836
+SAMN05827015,PRJNA290380,P021772,,infant,699.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.705
+SAMN05827019,PRJNA290380,P021772,,infant,458.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.871
+SAMN05827047,PRJNA290380,P021772,,infant,550.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.699
+SAMN05826784,PRJNA290380,P022130,1 yr - 4 yr,infant,393.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,1.719
+SAMN05826793,PRJNA290380,P022130,6 months - 1 yr,infant,229.0,female,RU,other_infection,Upper Respiratory Tract Infection,,,no,,primary,1.0,1.46
+SAMN05826794,PRJNA290380,P022130,6 months - 1 yr,infant,260.0,female,RU,other_infection,Upper Respiratory Tract Infection,,,no,,primary,1.0,0.715
+SAMN05826577,PRJNA290380,P022130,,infant,302.0,female,RU,other_infection,Upper Respiratory Tract Infection,,,yes,,primary,1.0,2.527
+SAMN05826785,PRJNA290380,P022130,,infant,475.0,female,RU,healthy_control,Healthy,,,yes,,primary,1.0,3.84
+SAMN05826710,PRJNA290380,P022222,1 yr - 4 yr,infant,566.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.349
+SAMN05827053,PRJNA290380,P022222,1 yr - 4 yr,infant,683.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,2.093
+SAMN05826817,PRJNA290380,P022222,6 months - 1 yr,infant,276.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.537
+SAMN05826816,PRJNA290380,P022222,,infant,217.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.357
+SAMN05826829,PRJNA290380,P022222,,infant,339.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.819
+SAMN05826630,PRJNA290380,P022384,1 yr - 4 yr,infant,427.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.996
+SAMN05826940,PRJNA290380,P022384,1 yr - 4 yr,infant,610.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.415
+SAMN05826518,PRJNA290380,P022384,,infant,702.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.851
+SAMN05826535,PRJNA290380,P022384,,infant,489.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,0.671
+SAMN05826646,PRJNA290380,P022384,,infant,394.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.815
+SAMN05826786,PRJNA290380,P022384,,infant,517.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.859
+SAMN05826787,PRJNA290380,P022384,,infant,549.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,2.547
+SAMN05826958,PRJNA290380,P022384,,infant,757.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.899
+SAMN05826708,PRJNA290380,P023918,6 months - 1 yr,infant,289.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.454
+SAMN05826709,PRJNA290380,P023918,,infant,341.0,male,RU,healthy_control,Healthy,,,no,,primary,1.0,1.326
+SAMN05826727,PRJNA290380,P026562,1 yr - 4 yr,infant,400.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,3.724
+SAMN05826910,PRJNA290380,P026562,6 months - 1 yr,infant,186.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.953
+SAMN05826911,PRJNA290380,P026562,6 months - 1 yr,infant,245.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,0.8
+SAMN05826711,PRJNA290380,P026562,,infant,340.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.024
+SAMN05826728,PRJNA290380,P026562,,infant,552.0,female,RU,healthy_control,Healthy,,,no,,primary,1.0,1.852
+SAMN05826504,PRJNA290380,T000094,1 yr - 4 yr,infant,862.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.025
+SAMN05827132,PRJNA290380,T000094,6 months - 1 yr,infant,314.0,female,EE,other_infection,Pyelonephritis,,,yes,,primary,1.0,2.528
+SAMN05826505,PRJNA290380,T000094,,child,1105.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.086
+SAMN05827093,PRJNA290380,T000094,,infant,578.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.897
+SAMN05827120,PRJNA290380,T000094,,infant,407.0,female,EE,other_infection,Pyelonephritis,,,yes,,primary,1.0,2.652
+SAMN05827127,PRJNA290380,T000094,,infant,485.0,female,EE,other_infection,Pyelonephritis,,,yes,,primary,1.0,4.235
+SAMN05827170,PRJNA290380,T000094,,infant,216.0,female,EE,other_infection,Pyelonephritis,,,yes,,primary,1.0,3.306
+SAMN05827073,PRJNA290380,T000272,1 yr - 4 yr,child,1101.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.515
+SAMN05827163,PRJNA290380,T000272,6 months - 1 yr,infant,204.0,male,EE,other_infection,Otitis Media,,,no,,primary,1.0,2.578
+SAMN05827128,PRJNA290380,T000461,1 - 6 months,infant,136.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.816
+SAMN05827107,PRJNA290380,T000461,1 yr - 4 yr,infant,682.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.014
+SAMN05827139,PRJNA290380,T000461,6 months - 1 yr,infant,315.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,4.161
+SAMN05826766,PRJNA290380,T002534,1 yr - 4 yr,infant,853.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.544
+SAMN05827136,PRJNA290380,T002534,1 yr - 4 yr,infant,399.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.289
+SAMN05827249,PRJNA290380,T002534,6 months - 1 yr,infant,204.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.556
+SAMN05827121,PRJNA290380,T002534,,infant,118.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.649
+SAMN05826767,PRJNA290380,T003353,1 yr - 4 yr,infant,499.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.502
+SAMN05826903,PRJNA290380,T003353,1 yr - 4 yr,infant,403.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.037
+SAMN05827048,PRJNA290380,T003353,,infant,590.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,3.593
+SAMN05827125,PRJNA290380,T003355,1 - 6 months,infant,150.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.326
+SAMN05827035,PRJNA290380,T003355,1 yr - 4 yr,infant,456.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,3.104
+SAMN05827200,PRJNA290380,T003745,1 yr - 4 yr,infant,500.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.184
+SAMN05827140,PRJNA290380,T003950,1 - 6 months,infant,109.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.442
+SAMN05826493,PRJNA290380,T003950,1 yr - 4 yr,infant,656.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.598
+SAMN05826591,PRJNA290380,T003950,1 yr - 4 yr,infant,598.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.365
+SAMN05827183,PRJNA290380,T003950,6 months - 1 yr,infant,294.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.441
+SAMN05827097,PRJNA290380,T003950,,infant,1099.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,3.004
+SAMN05826592,PRJNA290380,T004341,1 yr - 4 yr,infant,594.0,female,EE,other_infection,Otitis Media,,,no,,primary,1.0,0.916
+SAMN05826969,PRJNA290380,T004341,1 yr - 4 yr,child,1102.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.028
+SAMN05827238,PRJNA290380,T004341,6 months - 1 yr,infant,321.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.002
+SAMN05827232,PRJNA290380,T004341,,infant,211.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.84
+SAMN05826704,PRJNA290380,T005507,1 yr - 4 yr,infant,1083.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.303
+SAMN05826955,PRJNA290380,T005507,1 yr - 4 yr,infant,801.0,male,EE,other_infection,Otitis Media,,,yes,,primary,1.0,3.379
+SAMN05827264,PRJNA290380,T005507,6 months - 1 yr,infant,326.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.439
+SAMN05827246,PRJNA290380,T005643,1 - 6 months,infant,49.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.341
+SAMN05827042,PRJNA290380,T005643,1 yr - 4 yr,infant,534.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.848
+SAMN05827167,PRJNA290380,T005643,6 months - 1 yr,infant,209.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.666
+SAMN05827147,PRJNA290380,T005999,1 - 6 months,infant,108.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.236
+SAMN05826651,PRJNA290380,T005999,1 yr - 4 yr,infant,588.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.389
+SAMN05826519,PRJNA290380,T005999,,infant,663.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.907
+SAMN05827148,PRJNA290380,T005999,,infant,45.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.429
+SAMN05827250,PRJNA290380,T006266,1 - 6 months,infant,122.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.601
+SAMN05826947,PRJNA290380,T006266,1 yr - 4 yr,infant,501.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.507
+SAMN05827099,PRJNA290380,T006266,,infant,892.0,male,EE,other_infection,Otitis Media,,,yes,,primary,1.0,2.458
+SAMN05827114,PRJNA290380,T006266,,infant,685.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.494
+SAMN05827155,PRJNA290380,T006288,1 - 6 months,infant,177.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.868
+SAMN05826492,PRJNA290380,T006288,1 yr - 4 yr,infant,676.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.102
+SAMN05827179,PRJNA290380,T006288,6 months - 1 yr,infant,319.0,male,EE,other_infection,Pneumonia,,,no,,primary,1.0,2.994
+SAMN05827041,PRJNA290380,T007404,1 yr - 4 yr,infant,878.0,male,EE,other_infection,Cystitis,,,yes,,primary,1.0,3.917
+SAMN05827133,PRJNA290380,T007748,1 - 6 months,infant,44.0,male,EE,other_infection,Pyelonephritis,,,yes,,primary,1.0,0.728
+SAMN05827157,PRJNA290380,T007748,6 months - 1 yr,infant,226.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.651
+SAMN05827187,PRJNA290380,T007748,6 months - 1 yr,infant,309.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.744
+SAMN05827176,PRJNA290380,T007750,1 - 6 months,infant,134.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.691
+SAMN05826590,PRJNA290380,T007750,1 yr - 4 yr,infant,587.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.43
+SAMN05827201,PRJNA290380,T008025,1 - 6 months,infant,45.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.284
+SAMN05826598,PRJNA290380,T008025,1 yr - 4 yr,infant,675.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.36
+SAMN05827166,PRJNA290380,T008025,6 months - 1 yr,infant,228.0,male,EE,other_infection,Otitis Media,,,no,,primary,1.0,2.317
+SAMN05827118,PRJNA290380,T008246,1 - 6 months,infant,44.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.041
+SAMN05827254,PRJNA290380,T008246,1 - 6 months,infant,108.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.867
+SAMN05826597,PRJNA290380,T008246,1 yr - 4 yr,infant,500.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.16
+SAMN05827255,PRJNA290380,T008247,1 - 6 months,infant,42.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.291
+SAMN05827244,PRJNA290380,T008247,3-6M,infant,120.0,male,EE,other_infection,Pyelonephritis,,,yes,,primary,1.0,0.831
+SAMN05827194,PRJNA290380,T009275,1 - 6 months,infant,33.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.82
+SAMN05827189,PRJNA290380,T009275,6 months - 1 yr,infant,301.0,female,EE,other_infection,bronchitis,,,yes,,primary,1.0,2.738
+SAMN05826632,PRJNA290380,T009280,1 yr - 4 yr,infant,684.0,female,EE,other_infection,Otitis Media,,,yes,,primary,1.0,0.568
+SAMN05827144,PRJNA290380,T009280,6 months - 1 yr,infant,306.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.387
+SAMN05827040,PRJNA290380,T009717,1 yr - 4 yr,infant,488.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.045
+SAMN05826687,PRJNA290380,T009909,1 yr - 4 yr,child,1108.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.876
+SAMN05827181,PRJNA290380,T009909,6 months - 1 yr,infant,306.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.122
+SAMN05827174,PRJNA290380,T009909,,infant,215.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.032
+SAMN05827050,PRJNA290380,T010520,1 yr - 4 yr,infant,584.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.816
+SAMN05827046,PRJNA290380,T010520,6 months - 1 yr,infant,212.0,female,EE,other_infection,Otitis Media,,,no,,primary,1.0,2.484
+SAMN05827054,PRJNA290380,T010520,6 months - 1 yr,infant,313.0,female,EE,other_infection,Otitis Media,,,yes,,primary,1.0,3.524
+SAMN05826609,PRJNA290380,T010532,1 yr - 4 yr,infant,495.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.78
+SAMN05826845,PRJNA290380,T010532,1 yr - 4 yr,infant,621.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.759
+SAMN05826946,PRJNA290380,T010532,6 months - 1 yr,infant,227.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.845
+SAMN05826691,PRJNA290380,T010532,,infant,657.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.59
+SAMN05826732,PRJNA290380,T011454,1 yr - 4 yr,infant,500.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.979
+SAMN05826676,PRJNA290380,T011676,1 yr - 4 yr,infant,592.0,female,EE,other_infection,Otitis Media,,,yes,,primary,1.0,1.142
+SAMN05826511,PRJNA290380,T011676,,infant,680.0,female,EE,other_infection,Otitis Media,,,yes,,primary,1.0,1.532
+SAMN05826567,PRJNA290380,T011676,,infant,497.0,female,EE,other_infection,Otitis Media,,,yes,,primary,1.0,0.888
+SAMN05826634,PRJNA290380,T012121,1 yr - 4 yr,infant,577.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.987
+SAMN05827044,PRJNA290380,T012121,,child,1106.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.048
+SAMN05826733,PRJNA290380,T012138,1 yr - 4 yr,infant,408.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.946
+SAMN05826734,PRJNA290380,T012138,,infant,501.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.456
+SAMN05827017,PRJNA290380,T012138,,infant,863.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.315
+SAMN05827168,PRJNA290380,T012312,1 - 6 months,infant,120.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.163
+SAMN05826675,PRJNA290380,T012312,1 yr - 4 yr,infant,680.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.89
+SAMN05827008,PRJNA290380,T012312,,infant,861.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.306
+SAMN05826668,PRJNA290380,T012374,1 yr - 4 yr,infant,683.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.705
+SAMN05826587,PRJNA290380,T012374,,infant,502.0,male,EE,other_infection,Otitis Media,,,yes,,primary,1.0,0.645
+SAMN05826593,PRJNA290380,T012374,,infant,410.0,male,EE,other_infection,Otitis Media,,,yes,,primary,1.0,0.56
+SAMN05827031,PRJNA290380,T012389,1 - 6 months,infant,130.0,male,EE,other_infection,bronchitis,,,no,,primary,1.0,0.733
+SAMN05826507,PRJNA290380,T012389,1 yr - 4 yr,infant,682.0,male,EE,other_infection,bronchitis,,,yes,,primary,1.0,4.508
+SAMN05826996,PRJNA290380,T012389,,infant,496.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.701
+SAMN05827067,PRJNA290380,T012389,,infant,593.0,male,EE,other_infection,bronchitis,,,yes,,primary,1.0,2.597
+SAMN05826594,PRJNA290380,T012977,1 yr - 4 yr,infant,500.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.764
+SAMN05827240,PRJNA290380,T012983,1 - 6 months,infant,39.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.234
+SAMN05826904,PRJNA290380,T012983,1 yr - 4 yr,infant,664.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.224
+SAMN05827037,PRJNA290380,T012983,1 yr - 4 yr,infant,393.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.482
+SAMN05827080,PRJNA290380,T012983,,infant,836.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.259
+SAMN05826652,PRJNA290380,T013431,1 yr - 4 yr,infant,550.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.886
+SAMN05826937,PRJNA290380,T013828,1 yr - 4 yr,infant,405.0,female,EE,,,,,no,,primary,1.0,2.051
+SAMN05827018,PRJNA290380,T013828,,infant,478.0,female,EE,,,,,no,,primary,1.0,1.803
+SAMN05827235,PRJNA290380,T013832,1 - 6 months,infant,44.0,male,EE,other_infection,Infectious Disorder,,,yes,,primary,1.0,0.955
+SAMN05826572,PRJNA290380,T013832,1 yr - 4 yr,infant,666.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.146
+SAMN05827096,PRJNA290380,T014197,1 yr - 4 yr,infant,686.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.722
+SAMN05827043,PRJNA290380,T014197,,infant,436.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.95
+SAMN05826731,PRJNA290380,T014575,1 yr - 4 yr,infant,516.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.875
+SAMN05827198,PRJNA290380,T014575,6 months - 1 yr,infant,201.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.947
+SAMN05826730,PRJNA290380,T014800,1 yr - 4 yr,infant,406.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.616
+SAMN05826650,PRJNA290380,T014801,1 yr - 4 yr,infant,494.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.721
+SAMN05827072,PRJNA290380,T014801,1 yr - 4 yr,infant,678.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.693
+SAMN05826852,PRJNA290380,T014806,1 yr - 4 yr,infant,459.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.831
+SAMN05826944,PRJNA290380,T014806,1 yr - 4 yr,infant,489.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.825
+SAMN05827025,PRJNA290380,T014806,,infant,713.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.269
+SAMN05827243,PRJNA290380,T014825,1 - 6 months,infant,127.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.322
+SAMN05826729,PRJNA290380,T014827,1 yr - 4 yr,infant,407.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.351
+SAMN05826584,PRJNA290380,T014827,,infant,852.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.591
+SAMN05826783,PRJNA290380,T014827,,infant,1062.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.551
+SAMN05827003,PRJNA290380,T014827,,infant,666.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.121
+SAMN05827229,PRJNA290380,T016234,1 - 6 months,infant,43.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.478
+SAMN05827160,PRJNA290380,T016548,1 - 6 months,infant,135.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.838
+SAMN05826846,PRJNA290380,T016548,1 yr - 4 yr,infant,569.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.144
+SAMN05827119,PRJNA290380,T016811,1 - 6 months,infant,122.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.45
+SAMN05826588,PRJNA290380,T016811,1 yr - 4 yr,infant,390.0,male,EE,other_disease,Stomatitis,,,no,,primary,1.0,2.288
+SAMN05826596,PRJNA290380,T016811,,infant,483.0,male,EE,other_disease,Stomatitis,,,yes,,primary,1.0,1.45
+SAMN05827169,PRJNA290380,T016811,,infant,678.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.9
+SAMN05826512,PRJNA290380,T016812,1 yr - 4 yr,infant,675.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.184
+SAMN05826520,PRJNA290380,T016812,,infant,489.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,3.25
+SAMN05827005,PRJNA290380,T016812,,infant,589.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,3.978
+SAMN05826530,PRJNA290380,T016834,1 yr - 4 yr,infant,475.0,female,EE,other_infection,bronchitis,,,yes,,primary,1.0,2.68
+SAMN05826589,PRJNA290380,T017394,1 yr - 4 yr,infant,427.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.009
+SAMN05826599,PRJNA290380,T017394,1 yr - 4 yr,infant,479.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.563
+SAMN05827057,PRJNA290380,T017394,,infant,661.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.828
+SAMN05827076,PRJNA290380,T017394,,infant,849.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.895
+SAMN05827253,PRJNA290380,T017419,1 - 6 months,infant,60.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.612
+SAMN05826595,PRJNA290380,T017419,1 yr - 4 yr,infant,406.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.649
+SAMN05827104,PRJNA290380,T017419,1 yr - 4 yr,infant,589.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.564
+SAMN05827190,PRJNA290380,T018343,1 - 6 months,infant,121.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,4.255
+SAMN05827083,PRJNA290380,T018343,1 yr - 4 yr,infant,673.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,3.295
+SAMN05827175,PRJNA290380,T019021,1 - 6 months,infant,44.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.443
+SAMN05826849,PRJNA290380,T019021,1 yr - 4 yr,infant,406.0,female,EE,other_infection,bronchitis,,,yes,,primary,1.0,0.505
+SAMN05827075,PRJNA290380,T019021,1 yr - 4 yr,infant,582.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.939
+SAMN05827182,PRJNA290380,T019031,1 - 6 months,infant,62.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.486
+SAMN05826669,PRJNA290380,T019031,1 yr - 4 yr,infant,438.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,1.705
+SAMN05826670,PRJNA290380,T019031,1 yr - 4 yr,infant,495.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,0.912
+SAMN05826913,PRJNA290380,T019031,6 months - 1 yr,infant,224.0,male,EE,other_infection,Otitis Media,,,no,,primary,1.0,1.929
+SAMN05827064,PRJNA290380,T019031,,infant,591.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.822
+SAMN05827258,PRJNA290380,T019850,1 - 6 months,infant,35.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.443
+SAMN05826763,PRJNA290380,T019850,1 yr - 4 yr,infant,865.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.701
+SAMN05826571,PRJNA290380,T019850,6 months - 1 yr,infant,312.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.873
+SAMN05826553,PRJNA290380,T019850,,infant,482.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.046
+SAMN05827045,PRJNA290380,T019850,,child,1102.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.007
+SAMN05827149,PRJNA290380,T019852,1 - 6 months,infant,44.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,4.877
+SAMN05826873,PRJNA290380,T019852,1 yr - 4 yr,infant,1099.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.32
+SAMN05827030,PRJNA290380,T019852,6 months - 1 yr,infant,305.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.757
+SAMN05827251,PRJNA290380,T019852,6 months - 1 yr,infant,205.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.716
+SAMN05826631,PRJNA290380,T019853,1 yr - 4 yr,infant,499.0,female,EE,gi_infection_or_diarrhoea,Salmonellosis,,,yes,,primary,1.0,0.881
+SAMN05827095,PRJNA290380,T019853,1 yr - 4 yr,infant,1095.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.848
+SAMN05826608,PRJNA290380,T019853,6 months - 1 yr,infant,217.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.599
+SAMN05826735,PRJNA290380,T020231,1 yr - 4 yr,infant,591.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.666
+SAMN05826494,PRJNA290380,T020231,6 months - 1 yr,infant,302.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.222
+SAMN05826610,PRJNA290380,T020231,6 months - 1 yr,infant,210.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.656
+SAMN05826521,PRJNA290380,T020231,,infant,683.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,3.868
+SAMN05826554,PRJNA290380,T020231,,infant,481.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.79
+SAMN05826765,PRJNA290380,T021076,1 yr - 4 yr,infant,678.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.693
+SAMN05826633,PRJNA290380,T021076,,infant,500.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.151
+SAMN05827141,PRJNA290380,T021613,1 - 6 months,infant,40.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,2.173
+SAMN05827089,PRJNA290380,T021613,1 yr - 4 yr,infant,678.0,female,EE,,,,,yes,,primary,1.0,2.694
+SAMN05827115,PRJNA290380,T022883,1 - 6 months,infant,111.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.972
+SAMN05826667,PRJNA290380,T022883,1 yr - 4 yr,infant,402.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,4.302
+SAMN05826586,PRJNA290380,T022883,6 months - 1 yr,infant,229.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.853
+SAMN05826491,PRJNA290380,T022883,,infant,292.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.339
+SAMN05826506,PRJNA290380,T022883,,infant,485.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,6.937
+SAMN05827152,PRJNA290380,T023390,1 - 6 months,infant,41.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,3.271
+SAMN05826851,PRJNA290380,T023390,6 months - 1 yr,infant,310.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.904
+SAMN05826850,PRJNA290380,T023909,1 yr - 4 yr,infant,484.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.433
+SAMN05826666,PRJNA290380,T023909,6 months - 1 yr,infant,311.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.789
+SAMN05826665,PRJNA290380,T023909,,infant,203.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.685
+SAMN05826905,PRJNA290380,T024121,1 yr - 4 yr,infant,410.0,male,EE,other_infection,Otitis Media,,,yes,,primary,1.0,0.417
+SAMN05827065,PRJNA290380,T024121,1 yr - 4 yr,infant,493.0,male,EE,other_infection,Otitis Media,,,yes,,primary,1.0,3.162
+SAMN05827059,PRJNA290380,T024121,6 months - 1 yr,infant,316.0,male,EE,,,,,yes,,primary,1.0,2.152
+SAMN05826698,PRJNA290380,T025415,1 yr - 4 yr,infant,393.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.177
+SAMN05826752,PRJNA290380,T025415,6 months - 1 yr,infant,243.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.123
+SAMN05827039,PRJNA290380,T025415,,infant,674.0,male,EE,other_infection,Tonsillitis,,,yes,,primary,1.0,2.186
+SAMN05826703,PRJNA290380,T026211,1 yr - 4 yr,infant,664.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,0.97
+SAMN05826906,PRJNA290380,T026211,1 yr - 4 yr,infant,494.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,4.155
+SAMN05826753,PRJNA290380,T026211,6 months - 1 yr,infant,299.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.021
+SAMN05827004,PRJNA290380,T026211,,infant,1094.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,2.541
+SAMN05826928,PRJNA290380,T028029,1 yr - 4 yr,infant,391.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,1.262
+SAMN05826664,PRJNA290380,T028029,,infant,320.0,female,EE,healthy_control,Healthy,,,no,,primary,1.0,0.665
+SAMN05826607,PRJNA290380,T028183,1 yr - 4 yr,infant,593.0,female,EE,other_infection,Otitis Media,,,yes,,primary,1.0,1.689
+SAMN05826860,PRJNA290380,T028183,1 yr - 4 yr,infant,866.0,female,EE,other_infection,Pneumonia,,,yes,,primary,1.0,1.049
+SAMN05826950,PRJNA290380,T028183,,child,1101.0,female,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.271
+SAMN05826959,PRJNA290380,T029687,1 yr - 4 yr,child,1110.0,male,EE,healthy_control,Healthy,,,yes,,primary,1.0,2.657
+SAMN05826560,PRJNA290380,T029687,,infant,712.0,male,EE,other_infection,bronchitis,,,yes,,primary,1.0,1.374
+SAMN05826562,PRJNA290380,T029687,,infant,501.0,male,EE,healthy_control,Healthy,,,no,,primary,1.0,1.587
+SAMN05826775,PRJNA290380,T029922,6 months - 1 yr,infant,311.0,male,EE,other_infection,bronchitis,,,yes,,primary,1.0,2.19

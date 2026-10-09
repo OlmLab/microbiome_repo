@@ -1,0 +1,216 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN11654494,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,2.468
+SAMN11654495,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,2.727
+SAMN11654496,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,2.413
+SAMN11654497,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,1.733
+SAMN11654498,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,3.938
+SAMN11654499,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,2.733
+SAMN11654500,PRJNA475599,Donor am,,adult,,,US,healthy_control,Donor am,,,,2016-02/2017-09,primary,1.0,3.994
+SAMN11654557,PRJNA475599,Donor az,,adult,,,US,healthy_control,Donor az,,,,2016-02/2017-09,primary,1.0,4.056
+SAMN11654558,PRJNA475599,Donor az,,adult,,,US,healthy_control,Donor az,,,,2016-02/2017-09,primary,1.0,4.296
+SAMN11654559,PRJNA475599,Donor az,,adult,,,US,healthy_control,Donor az,,,,2016-02/2017-09,primary,1.0,6.846
+SAMN11654560,PRJNA475599,Donor az,,adult,,,US,healthy_control,Donor az,,,,2016-02/2017-09,primary,1.0,4.866
+SAMN11654561,PRJNA475599,Donor az,,adult,,,US,healthy_control,Donor az,,,,2016-02/2017-09,primary,1.0,5.459
+SAMN11654562,PRJNA475599,Donor az,,adult,,,US,healthy_control,Donor az,,,,2016-02/2017-09,primary,1.0,2.523
+SAMN11654627,PRJNA475599,FMT A,-1,adult,,,US,ulcerative_colitis,FMT A,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.118
+SAMN11654624,PRJNA475599,FMT A,-8,adult,,,US,ulcerative_colitis,FMT A,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.935
+SAMN11654625,PRJNA475599,FMT A,-8,adult,,,US,ulcerative_colitis,FMT A,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.848
+SAMN11654626,PRJNA475599,FMT A,-8,adult,,,US,ulcerative_colitis,FMT A,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,1.351
+SAMN11654639,PRJNA475599,FMT A,126,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.202
+SAMN11654629,PRJNA475599,FMT A,29,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.42
+SAMN11654628,PRJNA475599,FMT A,3,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.136
+SAMN11654630,PRJNA475599,FMT A,31,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.57
+SAMN11654631,PRJNA475599,FMT A,38,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.235
+SAMN11654632,PRJNA475599,FMT A,45,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.781
+SAMN11654633,PRJNA475599,FMT A,52,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.43
+SAMN11654634,PRJNA475599,FMT A,59,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.673
+SAMN11654635,PRJNA475599,FMT A,66,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.02
+SAMN11654636,PRJNA475599,FMT A,73,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.111
+SAMN11654637,PRJNA475599,FMT A,80,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.086
+SAMN11654638,PRJNA475599,FMT A,85,adult,,,US,ulcerative_colitis,FMT A,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.034
+SAMN11654538,PRJNA475599,FMT E,-1,adult,,,US,ulcerative_colitis,FMT E,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.284
+SAMN11654535,PRJNA475599,FMT E,-6,adult,,,US,ulcerative_colitis,FMT E,no_intervention,days_past_fmt = -6 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,2.816
+SAMN11654536,PRJNA475599,FMT E,-8,adult,,,US,ulcerative_colitis,FMT E,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.521
+SAMN11654537,PRJNA475599,FMT E,-8,adult,,,US,ulcerative_colitis,FMT E,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.11
+SAMN11654540,PRJNA475599,FMT E,11,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.468
+SAMN11654553,PRJNA475599,FMT E,126,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.2
+SAMN11654554,PRJNA475599,FMT E,131,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.02
+SAMN11654555,PRJNA475599,FMT E,138,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.427
+SAMN11654556,PRJNA475599,FMT E,147,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.26
+SAMN11654541,PRJNA475599,FMT E,19,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.158
+SAMN11654543,PRJNA475599,FMT E,26,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.931
+SAMN11654542,PRJNA475599,FMT E,28,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,4.822
+SAMN11654544,PRJNA475599,FMT E,34,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.791
+SAMN11654545,PRJNA475599,FMT E,40,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.74
+SAMN11654546,PRJNA475599,FMT E,47,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.713
+SAMN11654539,PRJNA475599,FMT E,5,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.747
+SAMN11654547,PRJNA475599,FMT E,54,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.825
+SAMN11654548,PRJNA475599,FMT E,61,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,3.563
+SAMN11654549,PRJNA475599,FMT E,69,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.198
+SAMN11654550,PRJNA475599,FMT E,75,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.922
+SAMN11654552,PRJNA475599,FMT E,82,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.204
+SAMN11654551,PRJNA475599,FMT E,85,adult,,,US,ulcerative_colitis,FMT E,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,3.758
+SAMN11654678,PRJNA475599,FMT F,-2,adult,,,US,ulcerative_colitis,FMT F,no_intervention,days_past_fmt = -2 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.256
+SAMN11654675,PRJNA475599,FMT F,-8,adult,,,US,ulcerative_colitis,FMT F,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,1.466
+SAMN11654676,PRJNA475599,FMT F,-8,adult,,,US,ulcerative_colitis,FMT F,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,1.585
+SAMN11654677,PRJNA475599,FMT F,-8,adult,,,US,ulcerative_colitis,FMT F,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,3.971
+SAMN11654691,PRJNA475599,FMT F,127,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.683
+SAMN11654693,PRJNA475599,FMT F,158,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.487
+SAMN11654679,PRJNA475599,FMT F,20,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.526
+SAMN11654666,PRJNA475599,FMT F,26,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.787
+SAMN11654681,PRJNA475599,FMT F,29,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.177
+SAMN11654682,PRJNA475599,FMT F,35,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.965
+SAMN11654683,PRJNA475599,FMT F,40,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.075
+SAMN11654684,PRJNA475599,FMT F,52,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.11
+SAMN11654685,PRJNA475599,FMT F,54,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.028
+SAMN11654686,PRJNA475599,FMT F,61,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.389
+SAMN11654690,PRJNA475599,FMT F,86,adult,,,US,ulcerative_colitis,FMT F,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.44
+SAMN11654462,PRJNA475599,FMT N,-1,adult,,,US,ulcerative_colitis,FMT N,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.054
+SAMN11654460,PRJNA475599,FMT N,-7,adult,,,US,ulcerative_colitis,FMT N,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.344
+SAMN11654461,PRJNA475599,FMT N,-7,adult,,,US,ulcerative_colitis,FMT N,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,2.096
+SAMN11654464,PRJNA475599,FMT N,12,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.754
+SAMN11654475,PRJNA475599,FMT N,130,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.768
+SAMN11654476,PRJNA475599,FMT N,138,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.004
+SAMN11654477,PRJNA475599,FMT N,145,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.448
+SAMN11654465,PRJNA475599,FMT N,21,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.443
+SAMN11654466,PRJNA475599,FMT N,27,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.387
+SAMN11654467,PRJNA475599,FMT N,30,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.333
+SAMN11654468,PRJNA475599,FMT N,35,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.765
+SAMN11654469,PRJNA475599,FMT N,40,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.26
+SAMN11654470,PRJNA475599,FMT N,48,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.825
+SAMN11654463,PRJNA475599,FMT N,5,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.409
+SAMN11654471,PRJNA475599,FMT N,54,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.814
+SAMN11654472,PRJNA475599,FMT N,75,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.182
+SAMN11654473,PRJNA475599,FMT N,78,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.516
+SAMN11654474,PRJNA475599,FMT N,82,adult,,,US,ulcerative_colitis,FMT N,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.446
+SAMN11654605,PRJNA475599,FMT P,-1,adult,,,US,ulcerative_colitis,FMT P,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.189
+SAMN11654602,PRJNA475599,FMT P,-8,adult,,,US,ulcerative_colitis,FMT P,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.907
+SAMN11654603,PRJNA475599,FMT P,-8,adult,,,US,ulcerative_colitis,FMT P,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,1.436
+SAMN11654604,PRJNA475599,FMT P,-8,adult,,,US,ulcerative_colitis,FMT P,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.48
+SAMN11654607,PRJNA475599,FMT P,11,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.688
+SAMN11654620,PRJNA475599,FMT P,131,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.396
+SAMN11654608,PRJNA475599,FMT P,18,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.811
+SAMN11654609,PRJNA475599,FMT P,25,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.899
+SAMN11654610,PRJNA475599,FMT P,29,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.925
+SAMN11654611,PRJNA475599,FMT P,33,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.417
+SAMN11654606,PRJNA475599,FMT P,4,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.139
+SAMN11654612,PRJNA475599,FMT P,40,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.882
+SAMN11654613,PRJNA475599,FMT P,47,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.595
+SAMN11654614,PRJNA475599,FMT P,55,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.336
+SAMN11654615,PRJNA475599,FMT P,62,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.603
+SAMN11654616,PRJNA475599,FMT P,69,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.247
+SAMN11654617,PRJNA475599,FMT P,77,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.315
+SAMN11654618,PRJNA475599,FMT P,83,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.432
+SAMN11654619,PRJNA475599,FMT P,85,adult,,,US,ulcerative_colitis,FMT P,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.022
+SAMN11654563,PRJNA475599,FMT W,-8,adult,,,US,ulcerative_colitis,FMT W,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,1.092
+SAMN11654564,PRJNA475599,FMT W,-8,adult,,,US,ulcerative_colitis,FMT W,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.769
+SAMN11654565,PRJNA475599,FMT W,-8,adult,,,US,ulcerative_colitis,FMT W,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: FMT treatment arm,,2016-02/2017-09,primary,1.0,0.301
+SAMN11654568,PRJNA475599,FMT W,11,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.687
+SAMN11654579,PRJNA475599,FMT W,127,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,1.424
+SAMN11654569,PRJNA475599,FMT W,17,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.801
+SAMN11654570,PRJNA475599,FMT W,24,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.943
+SAMN11654571,PRJNA475599,FMT W,29,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,2.131
+SAMN11654567,PRJNA475599,FMT W,3,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.647
+SAMN11654572,PRJNA475599,FMT W,31,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.196
+SAMN11654573,PRJNA475599,FMT W,42,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.165
+SAMN11654574,PRJNA475599,FMT W,52,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.201
+SAMN11654575,PRJNA475599,FMT W,60,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.366
+SAMN11654576,PRJNA475599,FMT W,74,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.602
+SAMN11654577,PRJNA475599,FMT W,83,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.948
+SAMN11654578,PRJNA475599,FMT W,83,adult,,,US,ulcerative_colitis,FMT W,fmt,FMT treatment arm,,2016-02/2017-09,primary,1.0,0.563
+SAMN11654503,PRJNA475599,Placebo B,-1,adult,,,US,ulcerative_colitis,Placebo B,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,1.062
+SAMN11654501,PRJNA475599,Placebo B,-7,adult,,,US,ulcerative_colitis,Placebo B,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,1.127
+SAMN11654515,PRJNA475599,Placebo B,131,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,2.486
+SAMN11654516,PRJNA475599,Placebo B,138,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.727
+SAMN11654517,PRJNA475599,Placebo B,145,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.771
+SAMN11654505,PRJNA475599,Placebo B,19,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.625
+SAMN11654506,PRJNA475599,Placebo B,33,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.932
+SAMN11654507,PRJNA475599,Placebo B,36,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.91
+SAMN11654508,PRJNA475599,Placebo B,40,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.405
+SAMN11654509,PRJNA475599,Placebo B,47,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.694
+SAMN11654504,PRJNA475599,Placebo B,5,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.16
+SAMN11654510,PRJNA475599,Placebo B,51,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,3.299
+SAMN11654511,PRJNA475599,Placebo B,54,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.275
+SAMN11654512,PRJNA475599,Placebo B,61,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,3.335
+SAMN11654513,PRJNA475599,Placebo B,68,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.464
+SAMN11654514,PRJNA475599,Placebo B,75,adult,,,US,ulcerative_colitis,Placebo B,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.419
+SAMN11654657,PRJNA475599,Placebo G,-1,adult,,,US,ulcerative_colitis,Placebo G,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.162
+SAMN11654654,PRJNA475599,Placebo G,-8,adult,,,US,ulcerative_colitis,Placebo G,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.675
+SAMN11654655,PRJNA475599,Placebo G,-8,adult,,,US,ulcerative_colitis,Placebo G,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.525
+SAMN11654656,PRJNA475599,Placebo G,-8,adult,,,US,ulcerative_colitis,Placebo G,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,1.193
+SAMN11654659,PRJNA475599,Placebo G,10,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.68
+SAMN11654671,PRJNA475599,Placebo G,127,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.315
+SAMN11654660,PRJNA475599,Placebo G,17,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.414
+SAMN11654661,PRJNA475599,Placebo G,29,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.663
+SAMN11654658,PRJNA475599,Placebo G,3,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.369
+SAMN11654662,PRJNA475599,Placebo G,31,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.209
+SAMN11654663,PRJNA475599,Placebo G,38,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.133
+SAMN11654664,PRJNA475599,Placebo G,45,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.366
+SAMN11654665,PRJNA475599,Placebo G,52,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.801
+SAMN11654680,PRJNA475599,Placebo G,59,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.69
+SAMN11654667,PRJNA475599,Placebo G,66,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.48
+SAMN11654668,PRJNA475599,Placebo G,73,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.04
+SAMN11654669,PRJNA475599,Placebo G,80,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.931
+SAMN11654670,PRJNA475599,Placebo G,85,adult,,,US,ulcerative_colitis,Placebo G,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.751
+SAMN11654643,PRJNA475599,Placebo I,-1,adult,,,US,ulcerative_colitis,Placebo I,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.156
+SAMN11654642,PRJNA475599,Placebo I,-6,adult,,,US,ulcerative_colitis,Placebo I,no_intervention,days_past_fmt = -6 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.185
+SAMN11654640,PRJNA475599,Placebo I,-7,adult,,,US,ulcerative_colitis,Placebo I,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.138
+SAMN11654645,PRJNA475599,Placebo I,14,adult,,,US,ulcerative_colitis,Placebo I,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.283
+SAMN11654648,PRJNA475599,Placebo I,28,adult,,,US,ulcerative_colitis,Placebo I,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.907
+SAMN11654649,PRJNA475599,Placebo I,28,adult,,,US,ulcerative_colitis,Placebo I,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.795
+SAMN11654652,PRJNA475599,Placebo I,49,adult,,,US,ulcerative_colitis,Placebo I,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.353
+SAMN11654653,PRJNA475599,Placebo I,56,adult,,,US,ulcerative_colitis,Placebo I,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.429
+SAMN11654644,PRJNA475599,Placebo I,7,adult,,,US,ulcerative_colitis,Placebo I,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.164
+SAMN11654583,PRJNA475599,Placebo T,-1,adult,,,US,ulcerative_colitis,Placebo T,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.201
+SAMN11654580,PRJNA475599,Placebo T,-8,adult,,,US,ulcerative_colitis,Placebo T,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.021
+SAMN11654581,PRJNA475599,Placebo T,-8,adult,,,US,ulcerative_colitis,Placebo T,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.078
+SAMN11654582,PRJNA475599,Placebo T,-8,adult,,,US,ulcerative_colitis,Placebo T,no_intervention,days_past_fmt = -8 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.437
+SAMN11654585,PRJNA475599,Placebo T,10,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.163
+SAMN11654598,PRJNA475599,Placebo T,133,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.132
+SAMN11654586,PRJNA475599,Placebo T,17,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.028
+SAMN11654587,PRJNA475599,Placebo T,24,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.594
+SAMN11654588,PRJNA475599,Placebo T,29,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.973
+SAMN11654584,PRJNA475599,Placebo T,3,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.333
+SAMN11654589,PRJNA475599,Placebo T,31,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.765
+SAMN11654590,PRJNA475599,Placebo T,38,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.027
+SAMN11654591,PRJNA475599,Placebo T,44,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.806
+SAMN11654592,PRJNA475599,Placebo T,52,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.287
+SAMN11654593,PRJNA475599,Placebo T,59,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.188
+SAMN11654594,PRJNA475599,Placebo T,66,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.39
+SAMN11654595,PRJNA475599,Placebo T,73,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.745
+SAMN11654597,PRJNA475599,Placebo T,85,adult,,,US,ulcerative_colitis,Placebo T,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.806
+SAMN11654520,PRJNA475599,Placebo V,-1,adult,,,US,ulcerative_colitis,Placebo V,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.28
+SAMN11654518,PRJNA475599,Placebo V,-7,adult,,,US,ulcerative_colitis,Placebo V,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,2.881
+SAMN11654519,PRJNA475599,Placebo V,-7,adult,,,US,ulcerative_colitis,Placebo V,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,2.638
+SAMN11654532,PRJNA475599,Placebo V,129,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.085
+SAMN11654533,PRJNA475599,Placebo V,136,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.881
+SAMN11654534,PRJNA475599,Placebo V,143,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.482
+SAMN11654522,PRJNA475599,Placebo V,17,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.637
+SAMN11654523,PRJNA475599,Placebo V,24,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.578
+SAMN11654521,PRJNA475599,Placebo V,3,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.994
+SAMN11654524,PRJNA475599,Placebo V,31,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.34
+SAMN11654525,PRJNA475599,Placebo V,45,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.24
+SAMN11654526,PRJNA475599,Placebo V,48,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.746
+SAMN11654527,PRJNA475599,Placebo V,52,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.858
+SAMN11654528,PRJNA475599,Placebo V,59,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.534
+SAMN11654529,PRJNA475599,Placebo V,66,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.751
+SAMN11654530,PRJNA475599,Placebo V,73,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.779
+SAMN11654531,PRJNA475599,Placebo V,80,adult,,,US,ulcerative_colitis,Placebo V,placebo,placebo arm,,2016-02/2017-09,primary,1.0,2.072
+SAMN11654480,PRJNA475599,Placebo Y,-1,adult,,,US,ulcerative_colitis,Placebo Y,no_intervention,days_past_fmt = -1 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.241
+SAMN11654478,PRJNA475599,Placebo Y,-7,adult,,,US,ulcerative_colitis,Placebo Y,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.209
+SAMN11654479,PRJNA475599,Placebo Y,-7,adult,,,US,ulcerative_colitis,Placebo Y,no_intervention,days_past_fmt = -7 (before intervention start); assigned arm: placebo arm,,2016-02/2017-09,primary,1.0,0.329
+SAMN11654482,PRJNA475599,Placebo Y,10,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.375
+SAMN11654492,PRJNA475599,Placebo Y,129,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.743
+SAMN11654493,PRJNA475599,Placebo Y,137,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,2.486
+SAMN11654483,PRJNA475599,Placebo Y,17,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.215
+SAMN11654484,PRJNA475599,Placebo Y,24,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.953
+SAMN11654481,PRJNA475599,Placebo Y,3,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.593
+SAMN11654485,PRJNA475599,Placebo Y,31,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.185
+SAMN11654486,PRJNA475599,Placebo Y,38,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.224
+SAMN11654487,PRJNA475599,Placebo Y,52,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.203
+SAMN11654488,PRJNA475599,Placebo Y,59,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,1.683
+SAMN11654489,PRJNA475599,Placebo Y,66,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.363
+SAMN11654490,PRJNA475599,Placebo Y,80,adult,,,US,ulcerative_colitis,Placebo Y,placebo,placebo arm,,2016-02/2017-09,primary,1.0,0.853
+SAMN11654696,PRJNA475599,,,adult,,,US,ulcerative_colitis,active ulcerative colitis undergoing FMT trial,,,,2016-02/2017-09,primary,1.0,0.0
+SAMN11654697,PRJNA475599,,,adult,,,US,ulcerative_colitis,active ulcerative colitis undergoing FMT trial,,,,2016-02/2017-09,primary,1.0,0.001
+SAMN11654698,PRJNA475599,,,adult,,,US,ulcerative_colitis,active ulcerative colitis undergoing FMT trial,,,,2016-02/2017-09,primary,1.0,0.0

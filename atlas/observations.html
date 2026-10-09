@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observations — 18 study-aware patterns · Microbiome Repo</title>
+<meta name="description" content="Data-driven observations on the human gut metagenome catalog: life stage, industrialisation gradient, disease, richness, geography — each with a within-study consistency check.">
+<meta name="catalog-release" content="data-v1.18.2">
+<meta name="catalog-release-id" content="R2026.22">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/atlas/observations.html">
+<meta name="catalog-package-version" content="1.18.2">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<style>
+.obs{border:1px solid var(--line);border-left:4px solid var(--cu-gold);border-radius:8px;padding:.9rem 1rem;margin:1.2rem 0;background:#fff}
+.obs h2{border:0;margin:.1rem 0 .4rem;padding:0;font-size:1.15rem}
+.obs .tag.exploratory{background:#fff;border:1px dashed var(--cu-dark-gray)}
+.obs .meta{font-size:.82rem;color:var(--muted);margin:.2rem 0 .6rem}
+.obs img.fig{max-width:100%;height:auto;border:1px solid var(--line);border-radius:6px;background:#fff}
+.obs details{margin:.5rem 0;font-size:.88rem}
+.obs details summary{cursor:pointer;color:var(--accent-text)}
+.obs .conf{background:var(--cu-pale-gold);border:1px solid var(--cu-gold);border-radius:6px;padding:.45rem .7rem;font-size:.85rem;margin-top:.5rem}
+.toc{columns:2;font-size:.9rem}
+@media (max-width:800px){.toc{columns:1}}
+</style>
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html" class="active">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="index.html">Atlas</a> › Observations</div>
+
+<h1>Observations</h1>
+<p class="subnav"><a href="index.html">Taxon map</a> · <a href="pca.html">PCA of community profiles</a> · <a href="observations.html" class="active">Observations</a></p>
+<p class="lead">18 patterns in the catalog's Sandpiper profiles (GTDB R232 (Sandpiper 2.0.0, Zenodo 20419175)), each with a figure, the underlying CSV, the exact definition and a confounder note.</p>
+<details class="about-page"><summary>About this page</summary><p>Every comparison is <b>study-aware</b>: besides the pooled numbers we report the fraction of studies (≥ 20 samples in both groups) whose direction agrees and the median of per-study effects, because study explains more variance than any biological factor (see the variance card). Cards labelled <span class="tag exploratory">exploratory</span> are single-pass findings that have not been checked against the literature.</p></details>
+<div class="note">Sample set: 306,165 samples in 1,905 studies (body_site_class == primary; not qc_non_metagenome / qc_synthetic / qc_rna / qc_predicted_ecological / qc_low_depth / qc_no_genus_assigned). Presence threshold: relative abundance ≥ 1e-04. HDI table: UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band. Full tables: one CSV per card (linked under each figure); card metadata: <a href="../data/atlas/observations.json">observations.json</a>.</div>
+
+<ol class="toc"><li><a href="#a_age_trajectories">Genus trajectories across life stages</a></li><li><a href="#b_pb_ratio_hdi">Prevotella/Bacteroides ratio follows the industrialisation gradient</a></li><li><a href="#b_vanish_blossum_volcano">Genera that vanish or bloom with industrialisation (study-level volcano)</a></li><li><a href="#c_lifestyle_industrialization">Lifestyle: non-industrialised vs urban-industrialised</a></li><li><a href="#c_athletes_vs_healthy_adults">Lifestyle: athletes vs healthy adults</a></li><li><a href="#c_collection_year_drift">Does composition drift with collection year?</a></li><li><a href="#d_disease_within_study">Disease signatures that reproduce within studies</a></li><li><a href="#e_richness_shannon">Richness and Shannon diversity by life stage, HDI band and health condition</a></li><li><a href="#f_map_prevotella">World map: Prevotella prevalence</a></li><li><a href="#f_map_bifidobacterium">World map: Bifidobacterium prevalence</a></li><li><a href="#g_depth_vs_richness">Caution: richness tracks sequencing depth</a></li><li><a href="#h_variance_explained">How much of the composition does &#34;study&#34; explain?</a></li><li><a href="#i_dominant_genus_by_age">Exploratory: which genus dominates a sample, by life stage</a></li><li><a href="#i_delivery_mode_infants">Exploratory: birth mode and the infant gut, within studies</a></li><li><a href="#i_akkermansia">Exploratory: Akkermansia prevalence by life stage and HDI band</a></li><li><a href="#i_feeding_mode_infants">Exploratory: feeding mode and the infant gut, within studies</a></li><li><a href="#i_species_prevalence_by_age">Exploratory: the most prevalent species across life stages</a></li><li><a href="#i_recruitment_site">Exploratory: hospital- vs community-recruited adults (location_site)</a></li></ol>
+
+<section class="obs" id="a_age_trajectories">
+<h2>1. Genus trajectories across life stages </h2>
+<div class="meta">n = 202,760 samples · 1,209 studies · <a href="../data/atlas/obs/a_age_trajectories.csv">CSV</a> · <a href="../data/atlas/obs/a_age_trajectories.png">PNG</a></div>
+<a href="../data/atlas/obs/a_age_trajectories.png"><img class="fig" src="../data/atlas/obs/a_age_trajectories.png" alt="Genus trajectories across life stages" loading="lazy"></a>
+<p>Bifidobacterium dominates neonates and infants and declines through childhood to adulthood; Faecalibacterium and Prevotella rise from near-absence in neonates to several percent in children and adults; Escherichia is a neonatal genus that becomes rare later. Bacteroides is the exception: the pooled rise from infants to adults (+1.51 log10) is not reproduced within studies (median within-study change -0.03), so it is a between-study, not a within-study, pattern. Faint dots in the right panel are individual studies.</p>
+<details><summary>Exact definition</summary><p>Samples with a known age category (n=202,760, 1,209 studies). Mean relative abundance per category (symlog axis); black squares = median of per-study means over studies with &gt;= 20 samples in that category. Per-study consistency, infant vs adult, studies with &gt;= 20 samples in both (effect = Δ mean log10(relabund + 1e-5)): Bifidobacterium: 12 studies, 92% agree, median Δlog10=-0.78 (pooled -1.10); Bacteroides: 12 studies, 50% agree, median Δlog10=-0.03 (pooled +1.51); Prevotella: 12 studies, 75% agree, median Δlog10=+0.48 (pooled +0.83); Escherichia: 12 studies, 75% agree, median Δlog10=-0.63 (pooled -1.15); Faecalibacterium: 12 studies, 83% agree, median Δlog10=+0.77 (pooled +2.04).</p></details>
+<div class="conf"><b>Confounders.</b> Age categories are study-level attributes for most samples (routes R3/R4), so category and study are strongly confounded; only 12 studies contain both infants and adults with &gt;= 20 samples each. Repeated sampling of the same infants inflates n.</div>
+</section>
+
+<section class="obs" id="b_pb_ratio_hdi">
+<h2>2. Prevotella/Bacteroides ratio follows the industrialisation gradient </h2>
+<div class="meta">n = 156,928 samples · 984 studies · <a href="../data/atlas/obs/b_pb_ratio_hdi.csv">CSV</a> · <a href="../data/atlas/obs/b_pb_ratio_hdi.png">PNG</a></div>
+<a href="../data/atlas/obs/b_pb_ratio_hdi.png"><img class="fig" src="../data/atlas/obs/b_pb_ratio_hdi.png" alt="Prevotella/Bacteroides ratio follows the industrialisation gradient" loading="lazy"></a>
+<p>Countries with a low Human Development Index carry Prevotella-dominated gut communities, and the Prevotella/Bacteroides balance tips towards Bacteroides (and its GTDB split-off Phocaeicola) as HDI increases. The relation holds when each study is reduced to a single median, so it is not an artefact of a handful of large cohorts.</p>
+<details><summary>Exact definition</summary><p>Samples aged child to elderly with a country that has an HDI value (n=156,928, 984 studies); PB = log10((Prevotella + 1e-5)/(Bacteroides + Phocaeicola + 1e-5)) per sample; countries with &gt;= 30 such samples plotted (n=59); black squares = median over per-study medians (studies with &gt;= 20 samples in the country). Country-level Spearman ρ(HDI, median PB) = -0.84, p = 4.2e-17. Study-level check: 785 studies with &gt;= 20 samples and &gt;= 80 % from one country, Spearman ρ(HDI, study median PB) = -0.27, p = 5.3e-15. HDI: UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band.</p></details>
+<div class="conf"><b>Confounders.</b> Country and study are almost perfectly confounded (most studies sample one country) and low-HDI countries are represented by few studies, often with a specific recruitment focus (malnutrition, infection). Infants and neonates are excluded because their Bifidobacterium-dominated communities would swamp the contrast.</div>
+</section>
+
+<section class="obs" id="b_vanish_blossum_volcano">
+<h2>3. Genera that vanish or bloom with industrialisation (study-level volcano) </h2>
+<div class="meta">n = 151,323 samples · 785 studies · <a href="../data/atlas/obs/b_vanish_blossum_volcano.csv">CSV</a> · <a href="../data/atlas/obs/b_vanish_blossum_volcano.png">PNG</a></div>
+<a href="../data/atlas/obs/b_vanish_blossum_volcano.png"><img class="fig" src="../data/atlas/obs/b_vanish_blossum_volcano.png" alt="Genera that vanish or bloom with industrialisation (study-level volcano)" loading="lazy"></a>
+<p>Treating each study as one observation, genera that are more abundant in studies from low-HDI countries (VANISH-like: UBA10281, Alloprevotella, Prevotella, CAG-488, Catenibacterium, Cryptobacteroides) separate from genera that are more abundant in high-HDI studies (BloSSUM-like: Alitiscatomonas, Acutalibacter, Clostridium_A, Fimivicinus, Eisenbergiella, Ruthenibacterium, Fimisoma). Names follow GTDB R232; a random low-HDI study exceeds a random high-HDI study for Prevotella 88 % of the time.</p>
+<details><summary>Exact definition</summary><p>Unit = study: 785 studies with &gt;= 20 child-to-elderly samples of which &gt;= 80 % come from one country; low band HDI &lt; 0.70 (n=41 studies), high band HDI &gt;= 0.80 (n=569); middle-band studies excluded. Per study: mean of log10(relabund + 1e-5) over its samples (absent = 1e-5). Genera with prevalence &gt;= 5 % in the child-to-elderly set (n=283). Effect = difference of band medians; p from two-sided Mann–Whitney over studies; q = Benjamini–Hochberg (q &lt; 0.05 coloured). Column frac_low_studies_higher gives the probability that a random low-HDI study exceeds a random high-HDI study. HDI: UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band.</p></details>
+<div class="conf"><b>Confounders.</b> Only 41 low-HDI studies enter, several from the same research groups and with specific cohorts (children with malnutrition, rural cohorts recruited for that reason); study-level testing removes pseudo-replication but not recruitment bias.</div>
+</section>
+
+<section class="obs" id="c_lifestyle_industrialization">
+<h2>4. Lifestyle: non-industrialised vs urban-industrialised </h2>
+<div class="meta">n = 3,834 samples · 20 studies · <a href="../data/atlas/obs/c_lifestyle_industrialization.csv">CSV</a> · <a href="../data/atlas/obs/c_lifestyle_industrialization.png">PNG</a></div>
+<a href="../data/atlas/obs/c_lifestyle_industrialization.png"><img class="fig" src="../data/atlas/obs/c_lifestyle_industrialization.png" alt="Lifestyle: non-industrialised vs urban-industrialised" loading="lazy"></a>
+<p>Samples whose curated lifestyle marks a non-industrialised way of life are compared with samples labelled urban-industrialised. Higher in urban-industrialised: Bifidobacterium, Anaerostipes, Anaerobutyricum, Ruthenibacterium; higher in non-industrialised: Cryptobacteroides, Alloprevotella, Prevotella, Succinivibrio (ranked by the study-level effect). 0 of 289 genera reach q &lt; 0.05 at the study level. 2 studies contain both groups with &gt;= 15 samples; the black diamonds show the within-study median effect for the plotted genera.</p>
+<details><summary>Exact definition</summary><p>non-industrialised: 2,751 samples, 16 studies; urban-industrialised: 1,083 samples, 6 studies. non-industrialised = lifestyle in {hunter_gatherer, pastoralist, traditional_agriculturalist, rural_non_industrialized}; urban-industrialised = lifestyle urban_industrialized (curated field, all ages). Genera with prevalence &gt;= 10 % in the union set (n=289). Study level: mean log10(relabund + 1e-5) per study-group with &gt;= 20 samples; effect = difference of group medians over studies; p two-sided Mann–Whitney, q Benjamini–Hochberg. Within-study: studies with &gt;= 15 samples in both groups, effect = mean(urban-industrialised) − mean(non-industrialised), median across studies and share agreeing with the sign of the median. Pooled effect (unadjusted) in the CSV.</p></details>
+<div class="conf"><b>Confounders.</b> lifestyle is recorded for a small minority of samples (mostly R1 BioSample attributes of studies designed around this contrast), so the groups come from few studies, different countries, ages and sequencing depths; the within-study check rests on the one or two studies that sampled both groups.</div>
+</section>
+
+<section class="obs" id="c_athletes_vs_healthy_adults">
+<h2>5. Lifestyle: athletes vs healthy adults </h2>
+<div class="meta">n = 25,079 samples · 305 studies · <a href="../data/atlas/obs/c_athletes_vs_healthy_adults.csv">CSV</a> · <a href="../data/atlas/obs/c_athletes_vs_healthy_adults.png">PNG</a></div>
+<a href="../data/atlas/obs/c_athletes_vs_healthy_adults.png"><img class="fig" src="../data/atlas/obs/c_athletes_vs_healthy_adults.png" alt="Lifestyle: athletes vs healthy adults" loading="lazy"></a>
+<p>Athlete cohorts (curated lifestyle = athlete) are compared with the healthy adult controls of other studies. Higher in athletes: Hominenteromicrobium, Coprococcus, UBA11524, Coprococcus_A; higher in healthy adults: Bilophila, Parasutterella, Flavonifractor, Enterocloster (ranked by the study-level effect). 0 of 167 genera reach q &lt; 0.05 at the study level. No study contains both groups with &gt;= 20 samples each, so the contrast is entirely between studies (caveat: study, country and protocol differ between the groups).</p>
+<details><summary>Exact definition</summary><p>healthy adults: 24,679 samples, 298 studies; athletes: 400 samples, 7 studies. athletes = lifestyle athlete (any age; all but a handful are adults); healthy adults = health_condition healthy_control, age_category adult, lifestyle not athlete. Genera with prevalence &gt;= 10 % in the union set (n=167). Study level: mean log10(relabund + 1e-5) per study-group with &gt;= 20 samples; effect = difference of group medians over studies; p two-sided Mann–Whitney, q Benjamini–Hochberg. Within-study: studies with &gt;= 20 samples in both groups, effect = mean(athletes) − mean(healthy adults), median across studies and share agreeing with the sign of the median. Pooled effect (unadjusted) in the CSV.</p></details>
+<div class="conf"><b>Confounders.</b> no study in the catalog contains both athletes and non-athlete healthy adults with &gt;= 20 samples each, so this is an across-study contrast: athlete cohorts differ in country, diet, sequencing depth and recruitment from the healthy-control arms of case-control studies; several athlete studies also carry a health_condition label of intervention_cohort or none.</div>
+</section>
+
+<section class="obs" id="c_collection_year_drift">
+<h2>6. Does composition drift with collection year? </h2>
+<div class="meta">n = 41,037 samples · 82 studies · <a href="../data/atlas/obs/c_collection_year_drift.csv">CSV</a> · <a href="../data/atlas/obs/c_collection_year_drift.png">PNG</a></div>
+<a href="../data/atlas/obs/c_collection_year_drift.png"><img class="fig" src="../data/atlas/obs/c_collection_year_drift.png" alt="Does composition drift with collection year?" loading="lazy"></a>
+<p>Within the 82 studies that collected samples over three or more calendar years, richness rises with collection year in 60 % of studies (median within-study Spearman ρ = +0.50) and Prevotella prevalence in 55 % (median ρ = +0.50); the depth proxy drifts with a median ρ of -0.35, so part of any richness drift is technical. The drift is consistent enough to deserve a depth-matched follow-up. Across studies, the right panel shows the median of per-study medians per calendar year (all samples with a collection year: 200,800, 1,366 studies; years with &gt;= 3 studies).</p>
+<details><summary>Exact definition</summary><p>collection_year from the curated collection_date (2005–2025; n=200,800 samples with a year, 1,366 studies). Long-running study = &gt;= 3 calendar years with &gt;= 20 samples each (n=82 studies, 41,037 samples). Per study and year: median genus richness, Prevotella prevalence (relabund &gt;= 1e-4), median root_coverage_sum; within-study Spearman ρ between year and the yearly value. Across studies: per calendar year the median over studies (&gt;= 20 samples in that year) of the study median richness / Prevotella prevalence. Companion table c_collection_year_drift_by_year.csv.</p></details>
+<div class="conf"><b>Confounders.</b> Collection year is confounded with sequencing platform, read length and depth (later samples are deeper), with the age of longitudinal cohorts (infant cohorts age with calendar time) and with which studies were active in a given year; the across-study curve mixes different study populations per year and must not be read as a population trend.</div>
+</section>
+
+<section class="obs" id="d_disease_within_study">
+<h2>7. Disease signatures that reproduce within studies </h2>
+<div class="meta">n = 5,042 samples · 26 studies · <a href="../data/atlas/obs/d_disease_within_study.csv">CSV</a> · <a href="../data/atlas/obs/d_disease_within_study.png">PNG</a></div>
+<a href="../data/atlas/obs/d_disease_within_study.png"><img class="fig" src="../data/atlas/obs/d_disease_within_study.png" alt="Disease signatures that reproduce within studies" loading="lazy"></a>
+<p>Comparing patients with healthy controls inside the same study removes the between-study differences that dominate pooled contrasts. Inflammatory bowel disease: Faecalibacterium median Δ -0.83 (78 % of 9 studies agree), genus richness Δ -10.8 genera, Escherichia Δ +0.68 (89 % agree). Colorectal cancer: Fusobacterium higher in 100 % of 14 studies (median Δ +0.65). Type 2 diabetes rests on 3 studies and its shifts are small (largest |median Δ| = 0.14).</p>
+<details><summary>Exact definition</summary><p>Samples with health_condition = healthy_control vs (IBD = crohns_disease + ulcerative_colitis + ibd_unspecified | colorectal_cancer | type2_diabetes), all ages. Unit = study with &gt;= 20 samples in both groups. Per-study effect = mean(disease) − mean(healthy) of log10(relabund + 1e-5), or of genus richness. Summary = median of per-study effects; &#34;agree&#34; = fraction of studies whose effect has the sign of that median. IBD, Faecalibacterium: 9 studies, median Δ=-0.83, 78% agree; IBD, Escherichia: 9 studies, median Δ=+0.68, 89% agree; IBD, Fusobacterium (all GTDB genera): 9 studies, median Δ=+0.26, 100% agree; IBD, Bacteroides: 9 studies, median Δ=-0.12, 67% agree; IBD, Akkermansia: 9 studies, median Δ=-0.44, 56% agree; IBD, genus richness: 9 studies, median Δ=-10.79, 89% agree; Colorectal cancer, Faecalibacterium: 14 studies, median Δ=-0.38, 93% agree; Colorectal cancer, Escherichia: 14 studies, median Δ=+0.36, 93% agree; Colorectal cancer, Fusobacterium (all GTDB genera): 14 studies, median Δ=+0.65, 100% agree; Colorectal cancer, Bacteroides: 14 studies, median Δ=+0.15, 71% agree; Colorectal cancer, Akkermansia: 14 studies, median Δ=+0.24, 71% agree; Colorectal cancer, genus richness: 14 studies, median Δ=-1.20, 64% agree; Type 2 diabetes, Faecalibacterium: 3 studies, median Δ=-0.11, 67% agree; Type 2 diabetes, Escherichia: 3 studies, median Δ=+0.05, 67% agree; Type 2 diabetes, Fusobacterium (all GTDB genera): 3 studies, median Δ=+0.08, 67% agree; Type 2 diabetes, Bacteroides: 3 studies, median Δ=+0.06, 100% agree; Type 2 diabetes, Akkermansia: 3 studies, median Δ=-0.07, 67% agree; Type 2 diabetes, genus richness: 3 studies, median Δ=+0.14, 67% agree.</p></details>
+<div class="conf"><b>Confounders.</b> health_condition is a study-level label for most samples (R3/R4), so within a study controls may come from a different recruitment stream; treatments (antibiotics, chemotherapy, metformin) are not adjusted; several IBD cohorts sample the same patients longitudinally.</div>
+</section>
+
+<section class="obs" id="e_richness_shannon">
+<h2>8. Richness and Shannon diversity by life stage, HDI band and health condition </h2>
+<div class="meta">n = 306,165 samples · 1,905 studies · <a href="../data/atlas/obs/e_richness_shannon.csv">CSV</a> · <a href="../data/atlas/obs/e_richness_shannon.png">PNG</a></div>
+<a href="../data/atlas/obs/e_richness_shannon.png"><img class="fig" src="../data/atlas/obs/e_richness_shannon.png" alt="Richness and Shannon diversity by life stage, HDI band and health condition" loading="lazy"></a>
+<p>Genus richness rises from a median of 7 genera in neonates to 53 in adults and 61 in the elderly. Children and adults from low-HDI countries do not show more genera than those from high-HDI countries in this collection (median 49 vs 55; per-study medians 40 vs 50), a result that most likely reflects the shallower sequencing of many low-HDI cohorts rather than biology (see the depth card). Across health conditions the lowest median richness is in transplant or immunocompromised (19) and the highest in neurological psychiatric (53). Numbers inside the bars = n studies.</p>
+<details><summary>Exact definition</summary><p>Richness = number of genera with relabund &gt; 0 in the Sandpiper profile; Shannon on genus proportions (from the per-sample summary table; CSV only). Panels: life stage (n=202,760); HDI band for child-to-elderly samples with a country HDI (n=156,928; UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band); health condition for the 12 most common curated conditions (n=97,394). Bars = pooled median with IQR; black squares = median of per-study medians (studies &gt;= 20 samples). Per-group n, n studies and per-study medians are in the CSV.</p></details>
+<div class="conf"><b>Confounders.</b> Richness depends strongly on sequencing depth (see the depth card) and depth differs systematically between studies, countries and eras; age, country and condition are all study-level attributes for most samples. No depth rarefaction was applied, so the HDI-band panel in particular should not be read as a biological difference.</div>
+</section>
+
+<section class="obs" id="f_map_prevotella">
+<h2>9. World map: Prevotella prevalence </h2>
+<div class="meta">n = 157,333 samples · 992 studies · <a href="../data/atlas/obs/f_map_prevotella.csv">CSV</a> · <a href="../data/atlas/obs/f_map_prevotella.png">PNG</a></div>
+<a href="../data/atlas/obs/f_map_prevotella.png"><img class="fig" src="../data/atlas/obs/f_map_prevotella.png" alt="World map: Prevotella prevalence" loading="lazy"></a>
+<p>Prevotella is carried by nearly every child and adult sampled in low-HDI African, South-Asian and Latin-American countries but by well under half in most of Europe, North America and East Asia (interactive map: Atlas → taxon map). Highest: ZW 100%, FJ 100%, VE 100%; lowest: HN 3%, PE 21%, TR 29%.</p>
+<details><summary>Exact definition</summary><p>Prevalence = share of child-to-elderly samples (age_category child, adolescent, adult or elderly) with genus relative abundance &gt;= 1e-4 (0.01 %); countries with &gt;= 30 such samples (n=61). Dot colour = HDI band (UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band); black tick = median of per-study prevalences (studies with &gt;= 20 samples in the country). The CSV adds mean relative abundance and n studies.</p></details>
+<div class="conf"><b>Confounders.</b> Country-level prevalence is a mixture of a few studies per country, each with its own recruitment (many low-HDI cohorts are disease or malnutrition studies); the 1e-4 threshold detects low-level presence and is sensitive to sequencing depth; country is missing for 4 % of samples.</div>
+</section>
+
+<section class="obs" id="f_map_bifidobacterium">
+<h2>10. World map: Bifidobacterium prevalence </h2>
+<div class="meta">n = 157,333 samples · 992 studies · <a href="../data/atlas/obs/f_map_bifidobacterium.csv">CSV</a> · <a href="../data/atlas/obs/f_map_bifidobacterium.png">PNG</a></div>
+<a href="../data/atlas/obs/f_map_bifidobacterium.png"><img class="fig" src="../data/atlas/obs/f_map_bifidobacterium.png" alt="World map: Bifidobacterium prevalence" loading="lazy"></a>
+<p>In neonates and infants Bifidobacterium is present in 73% of samples overall, so the chart shows children and adults, where prevalence differs between countries. Highest: FI 97%, MY 96%, HK 92%; lowest: VE 6%, ZW 10%, BF 13%. The CSV also carries the infant values per country.</p>
+<details><summary>Exact definition</summary><p>Prevalence = share of child-to-elderly samples with genus relative abundance &gt;= 1e-4 (0.01 %); countries with &gt;= 30 such samples (n=61). Dot colour = HDI band (UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band); black tick = median of per-study prevalences (studies with &gt;= 20 samples in the country).</p></details>
+<div class="conf"><b>Confounders.</b> Country-level prevalence is a mixture of a few studies per country, each with its own recruitment; the 1e-4 threshold is sensitive to sequencing depth; country is missing for 4 % of samples.</div>
+</section>
+
+<section class="obs" id="g_depth_vs_richness">
+<h2>11. Caution: richness tracks sequencing depth </h2>
+<div class="meta">n = 306,165 samples · 1,905 studies · <a href="../data/atlas/obs/g_depth_vs_richness.csv">CSV</a> · <a href="../data/atlas/obs/g_depth_vs_richness.png">PNG</a></div>
+<a href="../data/atlas/obs/g_depth_vs_richness.png"><img class="fig" src="../data/atlas/obs/g_depth_vs_richness.png" alt="Caution: richness tracks sequencing depth" loading="lazy"></a>
+<p>The number of genera detected in a sample rises steadily with the amount of sequence profiled, and this holds inside individual studies too (median within-study Spearman ρ = 0.31; positive in 89 % of studies). Any richness difference between groups that also differ in depth (countries, eras, sample types) is therefore partly or wholly technical. The atlas does not rarefy, so read richness cards with this curve in mind.</p>
+<details><summary>Exact definition</summary><p>All 306,165 analysis samples; depth proxy = Sandpiper root_coverage_sum (marker-gene coverage summed over the profile; roughly proportional to bases sequenced); richness = genera with relabund &gt; 0. Hexbin on log10 depth; line = median richness in 0.25-log10 depth bins (companion CSV g_depth_vs_richness_bins.csv). Within-study ρ computed for studies with &gt;= 20 samples (n=1483); the card CSV lists them.</p></details>
+<div class="conf"><b>Confounders.</b> Root coverage also depends on read length and library type; samples flagged low-depth (root coverage &lt; 2) were already excluded; only Illumina runs &gt;= 100 Mbp are profiled by Sandpiper.</div>
+</section>
+
+<section class="obs" id="h_variance_explained">
+<h2>12. How much of the composition does &#34;study&#34; explain? </h2>
+<div class="meta">n = 5,000 samples · 809 studies · <a href="../data/atlas/obs/h_variance_explained.csv">CSV</a> · <a href="../data/atlas/obs/h_variance_explained.png">PNG</a></div>
+<a href="../data/atlas/obs/h_variance_explained.png"><img class="fig" src="../data/atlas/obs/h_variance_explained.png" alt="How much of the composition does &#34;study&#34; explain?" loading="lazy"></a>
+<p>On a random subsample of 5,000 samples, the study a sample came from explains 35% of the Aitchison-distance variance (Bray–Curtis: 44%), versus 8% for country, 7% for life stage and 3% for health condition; HDI band explains 2%. Study has many more levels than the other factors and so absorbs part of their signal, but the label-permuted baselines (black ticks) show how much R² the number of levels alone produces; study still stands far above its baseline. This is why every observation on this page reports a within-study check.</p>
+<details><summary>Exact definition</summary><p>Subsample: 5,000 samples drawn without replacement (seed 42) from samples with a known country and life stage; matrix = 167 genera with prevalence &gt;= 10 %, CLR after adding 1e-5, Euclidean (Aitchison) distance; Bray–Curtis on renormalised relabund (samples with none of the kept genera set to distance 1); also the Euclidean distance on the 5 released PCA scores (column r2_pca5). R² is the PERMANOVA numerator, one factor at a time (marginal, unadjusted). Permuted baseline = mean R² over 20 label shuffles. HDI band from UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band.</p></details>
+<div class="conf"><b>Confounders.</b> Marginal R² values are not additive and the factors are nested (study within country, mostly one life stage per study); a nested model would attribute shared variance differently. Subsample results vary by about ±0.01 between seeds (not shown).</div>
+</section>
+
+<section class="obs" id="i_dominant_genus_by_age">
+<h2>13. Exploratory: which genus dominates a sample, by life stage <span class="tag exploratory">exploratory</span></h2>
+<div class="meta">n = 306,165 samples · 1,905 studies · <a href="../data/atlas/obs/i_dominant_genus_by_age.csv">CSV</a> · <a href="../data/atlas/obs/i_dominant_genus_by_age.png">PNG</a></div>
+<a href="../data/atlas/obs/i_dominant_genus_by_age.png"><img class="fig" src="../data/atlas/obs/i_dominant_genus_by_age.png" alt="Exploratory: which genus dominates a sample, by life stage" loading="lazy"></a>
+<p>For each sample the single most abundant genus was taken from the Sandpiper profile. Bifidobacterium is the top genus in 23% of neonates and 40% of infants but only 4% of adults. The 103,405 samples without an age category have a dominant-genus mix that sits between children and adults (Bifidobacterium-dominated in 13%), i.e. they are mostly but not exclusively adult.</p>
+<details><summary>Exact definition</summary><p>All analysis samples (n=306,165); top genus = genus with the largest relative abundance in the genus table; the eight most common top genera are shown, the rest grouped as other.</p></details>
+<div class="conf"><b>Confounders.</b> Dominance is a single-feature summary and is sensitive to the GTDB genus splits (Phocaeicola vs Bacteroides); the unknown-age group is defined by missing metadata, not by biology.</div>
+</section>
+
+<section class="obs" id="i_delivery_mode_infants">
+<h2>14. Exploratory: birth mode and the infant gut, within studies <span class="tag exploratory">exploratory</span></h2>
+<div class="meta">n = 14,815 samples · 68 studies · <a href="../data/atlas/obs/i_delivery_mode_infants.csv">CSV</a> · <a href="../data/atlas/obs/i_delivery_mode_infants.png">PNG</a></div>
+<a href="../data/atlas/obs/i_delivery_mode_infants.png"><img class="fig" src="../data/atlas/obs/i_delivery_mode_infants.png" alt="Exploratory: birth mode and the infant gut, within studies" loading="lazy"></a>
+<p>Among infant studies that recorded both vaginal and Caesarean births, the well-known Caesarean signature reproduces study by study: Bacteroides and Phocaeicola are depleted after C-section (median Δ -0.55 / -0.53) while Enterococcus and Klebsiella are enriched (+0.32 / +0.33). Bifidobacterium shows a median within-study difference of -0.05 (52% of studies agree) against a pooled contrast of -0.91 — a textbook case of a between-study artefact. Each dot is one study.</p>
+<details><summary>Exact definition</summary><p>Neonate and infant samples with a curated delivery_mode (n=14,815, 68 studies); unit = study with &gt;= 20 samples in both birth modes; effect = mean log10(relabund + 1e-5) in C-section minus vaginal; summary = median across studies; agree = share of studies with the sign of the median. Bifidobacterium: 31 studies, median Δ=-0.05, 52% agree; Bacteroides: 31 studies, median Δ=-0.55, 90% agree; Phocaeicola: 31 studies, median Δ=-0.53, 84% agree; Escherichia: 31 studies, median Δ=-0.24, 58% agree; Enterococcus: 31 studies, median Δ=+0.32, 87% agree; Klebsiella: 31 studies, median Δ=+0.33, 81% agree.</p></details>
+<div class="conf"><b>Confounders.</b> Infant age at sampling differs between studies and the C-section effect fades with age; antibiotic exposure at birth, feeding and NICU status are not adjusted; delivery mode is a sample-level attribute here (R1/R2) but comes from a minority of infant studies.</div>
+</section>
+
+<section class="obs" id="i_akkermansia">
+<h2>15. Exploratory: Akkermansia prevalence by life stage and HDI band <span class="tag exploratory">exploratory</span></h2>
+<div class="meta">n = 306,165 samples · 1,905 studies · <a href="../data/atlas/obs/i_akkermansia.csv">CSV</a> · <a href="../data/atlas/obs/i_akkermansia.png">PNG</a></div>
+<a href="../data/atlas/obs/i_akkermansia.png"><img class="fig" src="../data/atlas/obs/i_akkermansia.png" alt="Exploratory: Akkermansia prevalence by life stage and HDI band" loading="lazy"></a>
+<p>Akkermansia (the mucin degrader A. muciniphila) is detected in 4% of neonates and 42% of adults. Among children and adults its prevalence is 14% in low-HDI countries versus 47% in high-HDI countries, consistent with its BloSSUM classification in the volcano card; the per-study dots show the spread behind the bars.</p>
+<details><summary>Exact definition</summary><p>Prevalence at relabund &gt;= 1e-4; life-stage panel over samples with a known age category (n=202,760); HDI panel over child-to-elderly samples with a country HDI (n=156,928; UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band); dots = per-study prevalence for studies with &gt;= 20 samples in the band (n=804).</p></details>
+<div class="conf"><b>Confounders.</b> Prevalence at a 1e-4 threshold depends on depth, and low-HDI cohorts tend to be shallower; the HDI panel is not depth-matched.</div>
+</section>
+
+<section class="obs" id="i_feeding_mode_infants">
+<h2>16. Exploratory: feeding mode and the infant gut, within studies <span class="tag exploratory">exploratory</span></h2>
+<div class="meta">n = 6,194 samples · 50 studies · <a href="../data/atlas/obs/i_feeding_mode_infants.csv">CSV</a> · <a href="../data/atlas/obs/i_feeding_mode_infants.png">PNG</a></div>
+<a href="../data/atlas/obs/i_feeding_mode_infants.png"><img class="fig" src="../data/atlas/obs/i_feeding_mode_infants.png" alt="Exploratory: feeding mode and the infant gut, within studies" loading="lazy"></a>
+<p>Only 12 infant studies record exclusive breastfeeding and formula feeding for at least 20 infants each, so the evidence base is thin. Bifidobacterium: median Δ -0.49 with 58% of 12 studies agreeing. Bacteroides: median Δ +0.32 with 67% of 12 studies agreeing. Escherichia: median Δ +0.17 with 67% of 12 studies agreeing. Klebsiella: median Δ +0.35 with 83% of 12 studies agreeing. Enterococcus: median Δ -0.10 with 58% of 12 studies agreeing. Bifidobacterium is lower in formula-fed infants in the median study.</p>
+<details><summary>Exact definition</summary><p>Neonate and infant samples with feeding_mode exclusive_breast or formula (n=6,194, 50 studies); unit = study with &gt;= 20 samples in both groups; effect = mean log10(relabund + 1e-5) in formula minus exclusive-breast; summary = median across studies. Bifidobacterium: 12 studies, median Δ=-0.49, 58% agree; Bacteroides: 12 studies, median Δ=+0.32, 67% agree; Escherichia: 12 studies, median Δ=+0.17, 67% agree; Klebsiella: 12 studies, median Δ=+0.35, 83% agree; Enterococcus: 12 studies, median Δ=-0.10, 58% agree.</p></details>
+<div class="conf"><b>Confounders.</b> Feeding mode changes with age and is recorded at different ages across studies; mixed feeding excluded; delivery mode and antibiotics not adjusted; very few studies qualify.</div>
+</section>
+
+<section class="obs" id="i_species_prevalence_by_age">
+<h2>17. Exploratory: the most prevalent species across life stages <span class="tag exploratory">exploratory</span></h2>
+<div class="meta">n = 306,165 samples · 1,905 studies · <a href="../data/atlas/obs/i_species_prevalence_by_age.csv">CSV</a> · <a href="../data/atlas/obs/i_species_prevalence_by_age.png">PNG</a></div>
+<a href="../data/atlas/obs/i_species_prevalence_by_age.png"><img class="fig" src="../data/atlas/obs/i_species_prevalence_by_age.png" alt="Exploratory: the most prevalent species across life stages" loading="lazy"></a>
+<p>At species level (GTDB R232 names; species table thresholded at 0.1 % relative abundance) the twelve most prevalent species in the whole collection are adult-type organisms except Bifidobacterium longum, which peaks in early life; the others are found in 4–14 % of neonates and climb through infancy and childhood. The unknown-age column again resembles adults. Suffixed names such as Blautia_A are GTDB placeholder genera.</p>
+<details><summary>Exact definition</summary><p>Species prevalence = share of samples with relabund &gt;= 1e-3 (the species table is released at this threshold); denominators are all analysis samples per life stage (n = neonate 8,687, infant 30,765, child 15,151, adolescent 3,065, adult 125,958, elderly 19,134, unknown 103,405).</p></details>
+<div class="conf"><b>Confounders.</b> The 0.1 % species threshold is ten times the genus presence threshold, so species prevalence is depth-sensitive and lower than genus prevalence; life stage is a study-level attribute for most samples.</div>
+</section>
+
+<section class="obs" id="i_recruitment_site">
+<h2>18. Exploratory: hospital- vs community-recruited adults (location_site) <span class="tag exploratory">exploratory</span></h2>
+<div class="meta">n = 13,286 samples · 128 studies · <a href="../data/atlas/obs/i_recruitment_site.csv">CSV</a> · <a href="../data/atlas/obs/i_recruitment_site.png">PNG</a></div>
+<a href="../data/atlas/obs/i_recruitment_site.png"><img class="fig" src="../data/atlas/obs/i_recruitment_site.png" alt="Exploratory: hospital- vs community-recruited adults (location_site)" loading="lazy"></a>
+<p>Adults whose location_site names a hospital or clinic (13,117 samples, 101 studies with &gt;= 20) versus adults whose location_site names a community, village, household or town (169 samples, 3 studies): at the study level, genus richness differs by -2.9 genera (hospital − community, p = 0.8) and Enterobacteriaceae by +0.19 log10 (p = 0.97). With only 3 community-recruited studies the comparison has almost no power; recruitment site is a proxy that mixes health status, country and protocol, so this card documents the contrast rather than interpreting it.</p>
+<details><summary>Exact definition</summary><p>Adults (child–elderly) with a curated location_site; hospital/clinic = site text matches /hospital|clinic|medical cent|health cent|infirmary|nicu|intensive care|ward\b/ and not the community pattern; community = matches /community|village|household|town\b|settlement/ and not the hospital pattern. Unit = study with &gt;= 20 samples in the group: study mean of genus richness and of log10(Enterobacteriaceae relabund + 1e-5) (family sum over GTDB genera); effect = difference of group medians over studies; p two-sided Mann–Whitney over studies.</p></details>
+<div class="conf"><b>Confounders.</b> location_site is recorded for a minority of samples (mostly R1 attributes of clinical cohorts); hospital-recruited samples are dominated by patients (the disease card handles health condition within studies), community samples by a handful of population cohorts from other countries; no study contains both groups, so the contrast is entirely between studies.</div>
+</section>
+
+
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.22"><span class="mono">R2026.22</span></a> · package <span class="mono">1.18.2</span> · build <span class="mono">16b814d</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.22.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.18.2',release:'data-v1.18.2',releaseId:'R2026.22',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

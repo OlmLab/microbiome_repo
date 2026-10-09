@@ -1,0 +1,5 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN04168656,PRJNA298489,,day 0,adult,8035.5,female,ES,healthy_control,Health,,,yes,2014-03-17,primary,8.0,98.262
+SAMN04168657,PRJNA298489,,day 3,adult,8035.5,female,ES,healthy_control,Health,antibiotic,,yes,2014-03-20,primary,8.0,97.459
+SAMN04168658,PRJNA298489,,day 7,adult,8035.5,female,ES,healthy_control,Health,antibiotic,,yes,2014-03-24,primary,8.0,76.665
+SAMN04168659,PRJNA298489,,week 8,adult,8035.5,female,ES,healthy_control,Health,,,yes,2014-05-12,primary,8.0,69.111

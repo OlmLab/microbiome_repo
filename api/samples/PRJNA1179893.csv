@@ -1,0 +1,17 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN44505033,PRJNA1179893,IBS001,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,6.61
+SAMN44505034,PRJNA1179893,IBS001,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,7.405
+SAMN44505035,PRJNA1179893,IBS001,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,5.986
+SAMN44505032,PRJNA1179893,IBS001,Intervention,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,5.595
+SAMN44505031,PRJNA1179893,IBS001,Start,,,,US,gi_infection_or_diarrhoea,,no_intervention,baseline before diet intervention; assigned arm: low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,7.402
+SAMN44505039,PRJNA1179893,IBS002,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,6.761
+SAMN44505040,PRJNA1179893,IBS002,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,5.78
+SAMN44505041,PRJNA1179893,IBS002,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,6.37
+SAMN44505037,PRJNA1179893,IBS002,Intervention,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,6.259
+SAMN44505038,PRJNA1179893,IBS002,Intervention,,,,US,gi_infection_or_diarrhoea,,diet_intervention,low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,7.031
+SAMN44505036,PRJNA1179893,IBS002,Start,,,,US,gi_infection_or_diarrhoea,,no_intervention,baseline before diet intervention; assigned arm: low FODMAP (low-fiber) diet arm,yes,2021,primary,1.0,6.732
+SAMN44505045,PRJNA1179893,IBS003,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,high-fiber diet arm,yes,2021,primary,1.0,6.678
+SAMN44505046,PRJNA1179893,IBS003,Follow up,,,,US,gi_infection_or_diarrhoea,,diet_intervention,high-fiber diet arm,yes,2021,primary,1.0,6.831
+SAMN44505043,PRJNA1179893,IBS003,Intervention,,,,US,gi_infection_or_diarrhoea,,diet_intervention,high-fiber diet arm,yes,2021,primary,1.0,5.693
+SAMN44505044,PRJNA1179893,IBS003,Intervention,,,,US,gi_infection_or_diarrhoea,,diet_intervention,high-fiber diet arm,yes,2021,primary,1.0,6.363
+SAMN44505042,PRJNA1179893,IBS003,Start,,,,US,gi_infection_or_diarrhoea,,no_intervention,baseline before diet intervention; assigned arm: high-fiber diet arm,yes,2021,primary,1.0,6.989

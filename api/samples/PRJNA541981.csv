@@ -1,0 +1,49 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN11605812,PRJNA541981,,Baseline,adult,22197.2,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,2.223
+SAMN11605815,PRJNA541981,,Baseline,elderly,29158.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,3.941
+SAMN11605818,PRJNA541981,,Baseline,elderly,26910.0,female,US,other_cancer,III,drug_therapy,anti-CTLA-4 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,2.88
+SAMN11605821,PRJNA541981,,Baseline,elderly,33082.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,5.631
+SAMN11605824,PRJNA541981,,Baseline,adult,19796.3,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,4.584
+SAMN11605827,PRJNA541981,,Baseline,elderly,26960.0,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,4.918
+SAMN11605830,PRJNA541981,,Baseline,elderly,24878.3,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,5.098
+SAMN11605833,PRJNA541981,,Baseline,elderly,30973.2,male,US,other_cancer,III,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,16.857
+SAMN11605836,PRJNA541981,,Baseline,elderly,24190.0,male,US,other_cancer,III,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,11.302
+SAMN11605837,PRJNA541981,,Baseline,infant,54.3,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,13.92
+SAMN11605838,PRJNA541981,,Baseline,elderly,29311.5,female,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,12.299
+SAMN11605839,PRJNA541981,,Baseline,adult,19498.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,8.806
+SAMN11605840,PRJNA541981,,Baseline,elderly,30794.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,7.637
+SAMN11605841,PRJNA541981,,Baseline,elderly,25456.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,9.16
+SAMN11605842,PRJNA541981,,Baseline,elderly,26201.9,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,6.487
+SAMN11605843,PRJNA541981,,Baseline,elderly,31118.3,female,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,3.779
+SAMN11605844,PRJNA541981,,Baseline,adult,17484.0,male,US,other_cancer,III,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,3.65
+SAMN11605845,PRJNA541981,,Baseline,elderly,28971.4,female,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,2.335
+SAMN11605846,PRJNA541981,,Baseline,elderly,27963.9,female,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,2.162
+SAMN11605847,PRJNA541981,,Baseline,adult,22562.0,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,2.682
+SAMN11605848,PRJNA541981,,Baseline,adult,17262.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,2.773
+SAMN11605849,PRJNA541981,,Baseline,elderly,25824.1,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,4.585
+SAMN11605850,PRJNA541981,,Baseline,elderly,26212.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,30.916
+SAMN11605851,PRJNA541981,,Baseline,elderly,25796.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,3.224
+SAMN11605852,PRJNA541981,,Baseline,adult,23032.3,female,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,7.159
+SAMN11605853,PRJNA541981,,Baseline,elderly,26405.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,5.143
+SAMN11605854,PRJNA541981,,Baseline,elderly,31010.7,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,4.104
+SAMN11605814,PRJNA541981,,Week 12,adult,22197.2,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,0.037
+SAMN11605817,PRJNA541981,,Week 12,elderly,29158.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,3.127
+SAMN11605820,PRJNA541981,,Week 12,infant,54.3,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,5.959
+SAMN11605823,PRJNA541981,,Week 12,elderly,33082.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,4.594
+SAMN11605826,PRJNA541981,,Week 12,adult,19796.3,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,0.11
+SAMN11605829,PRJNA541981,,Week 12,elderly,26960.0,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,0.017
+SAMN11605832,PRJNA541981,,Week 12,elderly,24878.3,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,5.286
+SAMN11605835,PRJNA541981,,Week 12,elderly,30973.2,male,US,other_cancer,III,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,11.607
+SAMN11605856,PRJNA541981,,Week 12,elderly,26212.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,2.946
+SAMN11605858,PRJNA541981,,Week 12,elderly,25796.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,34.301
+SAMN11605813,PRJNA541981,,Week 6,adult,22197.2,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,0.032
+SAMN11605816,PRJNA541981,,Week 6,elderly,29158.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,4.985
+SAMN11605819,PRJNA541981,,Week 6,infant,54.3,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,yes,2017,primary,1.0,2.858
+SAMN11605822,PRJNA541981,,Week 6,elderly,33082.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,2.511
+SAMN11605825,PRJNA541981,,Week 6,adult,19796.3,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,0.037
+SAMN11605828,PRJNA541981,,Week 6,elderly,26960.0,male,US,other_cancer,III,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,0.08
+SAMN11605831,PRJNA541981,,Week 6,elderly,24878.3,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,5.299
+SAMN11605834,PRJNA541981,,Week 6,elderly,30973.2,male,US,other_cancer,III,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,yes,2017,primary,1.0,9.169
+SAMN11605855,PRJNA541981,,Week 6,elderly,26212.0,male,US,other_cancer,IV,drug_therapy,anti-PD-1 checkpoint inhibitor immunotherapy,no,2017,primary,1.0,4.761
+SAMN11605857,PRJNA541981,,Week 6,elderly,25796.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,2.866
+SAMN11605859,PRJNA541981,,Week 6,adult,19498.0,male,US,other_cancer,IV,drug_therapy,combined anti-CTLA-4 plus anti-PD-1 immunotherapy,no,2017,primary,1.0,44.229
