@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sandpiper report — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.17.1">
+<meta name="catalog-release-id" content="R2026.19">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/SANDPIPER_REPORT.html">
+<meta name="catalog-package-version" content="1.17.1">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Sandpiper report</div>
+
+<p class="small">Rendered from <a href="SANDPIPER_REPORT.md">SANDPIPER_REPORT.md</a>.</p>
+<div class="md"><h1 id="sandpiper_report-singlemsandpiper-community-profiles-joined-to-the-infant-gut-shotgun-metagenome-catalog">SANDPIPER_REPORT — SingleM/Sandpiper community profiles joined to the Infant Gut Shotgun-Metagenome Catalog</h1>
+<p><em>Track "Sandpiper" (findings A6, A8, A16, B5, B6, B7). Built 2026-09-26 from Sandpiper 2.0.0 (Zenodo record 20419175, GTDB R232). All numbers below are read from the output tables; nothing is typed from memory.</em></p>
+<h2 id="1-source-provenance-and-fetch-route-a8">1. Source, provenance and fetch route (A8)</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bulk profiles</td>
+<td><code>sandpiper2.0.0.gtdb.csv.gz</code> — 3,727,269,191 bytes, md5 <code>7d3d802c20331c80fa2907e059abcc60</code> (matches Zenodo <code>md5:7d3d802c20331c80fa2907e059abcc60</code>), sha256 <code>4732c4e1b89c2f716f4542add715f4e934139b1e818e8cc814eaceff6411065d</code></td>
+</tr>
+<tr>
+<td>Download</td>
+<td>streamed with HTTP Range resume (1 attempt, 29 min at ~2.2 MB/s); one gzip pass, 281,588,385 rows scanned over 925,763 runs; 10,387,937 rows kept for 87,125/87,125 matched runs (0 missing)</td>
+</tr>
+<tr>
+<td>Per-run QC</td>
+<td><code>sandpiper2.0.0.per_acc_summary.csv.gz</code> (925,763 runs): root_coverage, species_coverage, SPF, known-species fraction, low_complexity, warning, prediction/host_or_not, organism</td>
+</tr>
+<tr>
+<td>Taxonomy</td>
+<td>GTDB <strong>R232</strong> on every profile row (<code>taxonomy_db</code>, <code>taxonomy_version</code>, <code>sandpiper_version</code>, <code>zenodo_record</code> columns on every table; GlobDB never mixed in)</td>
+</tr>
+<tr>
+<td>Snapshot horizon</td>
+<td>latest <code>first_public</code> among matched runs: <strong>2026-03-22</strong>; Zenodo version 2.0.0 published 2026-05-28</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bulk-file semantics (deviation from the task text).</strong> The task described the bulk file as "unfilled condensed" with columns <code>sample, coverage, taxonomy</code>. The actual file is <strong>tab-separated with columns <code>sample, filled_coverage, taxonomy</code> and includes a <code>Root</code> row per run</strong> — it already holds <em>filled</em> coverage (node + all descendants). Verified against Sandpiper's own "condensed with extras" download for 4 runs: bulk value == <code>full_coverage</code> on every node (max |Δ| = 0). The pipeline therefore needs no fill step for bulk rows; it <em>derives</em> the unfilled coverage (<code>coverage_unfilled = filled(node) − Σ filled(direct children)</code>) and that derivation was validated against the with-extras <code>coverage</code> column (max |Δ| = 0 on all 4 runs). The pandas fill/normalise implementation (<code>sandpiper_lib.py</code>) was written and validated for unfilled per-run downloads (the delta route).</p>
+<p><strong>Per-run endpoints recorded (for deltas).</strong> <code>https://sandpiper.qut.edu.au/run/&lt;acc&gt;</code> is a Vue single-page app (1.8 kB HTML, no server-rendered data). The JS bundle exposes a JSON API under <code>https://sandpiper.qut.edu.au/api/</code>:
+* <code>condensed_csv/&lt;acc&gt;?taxonomy_type=gtdb|globdb</code> — tab-separated <em>unfilled</em> condensed profile;
+* <code>condensed_csv_with_extras/&lt;acc&gt;?taxonomy_type=gtdb</code> — <code>sample, coverage (unfilled), full_coverage (filled), relative_abundance (%), level, taxonomy</code> — <strong>the reference format for validating any conversion</strong>;
+* <code>condensed/&lt;acc&gt;?taxonomy_type=…</code> — JSON tree; <code>metadata/&lt;acc&gt;</code> — QC flags (<code>non_metagenome_organism_strict/loose</code>, <code>synthetic</code>, <code>rna_or_non_dna_strict/loose</code>, <code>domain_only_gtdb/globdb/both</code>, <code>low_complexity</code>, <code>smf</code>, <code>known_species_fraction</code>) with their definitions (saved as <code>sandpiper_flag_definitions.json</code>).
+Nine requests were made to sandpiper.qut.edu.au in total (2 page probes, 2 API probes, 1 JS bundle, 1 metadata, 4 with-extras downloads; ≥2 s apart). Delta recipe: ≤2,000 runs/cycle at ≤0.5 req/s through <code>harvest_lib</code> (cache-through), GTDB <code>condensed_csv_with_extras</code> only, refuse rows whose taxonomy release differs from the snapshot's R232.</p>
+<h2 id="2-coverage-of-the-join">2. Coverage of the join</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Total</th>
+<th>Profiled</th>
+<th>Share</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Runs</td>
+<td>174,022</td>
+<td>87,125</td>
+<td>50.1 %</td>
+</tr>
+<tr>
+<td>Catalog sample units (<code>catalog_sample_key</code>)</td>
+<td>154,206</td>
+<td>79,473</td>
+<td>51.5 %</td>
+</tr>
+<tr>
+<td>… of which infant-scope (<code>body_site_class ∈ {primary, unknown}</code>)</td>
+<td>—</td>
+<td>77,191</td>
+<td>—</td>
+</tr>
+<tr>
+<td>… partially profiled (some runs unprofiled)</td>
+<td>—</td>
+<td>2,457</td>
+<td>3.1 % of profiled</td>
+</tr>
+<tr>
+<td>Studies</td>
+<td>389</td>
+<td>full 22 · partial 280 · none 87</td>
+<td></td>
+</tr>
+<tr>
+<td>Run-keyed studies (<code>sample_unit = biosample_pooled</code>)</td>
+<td>6 studies / 521 runs</td>
+<td>152 runs</td>
+<td>reported separately via <code>sample_unit</code> in <code>sandpiper_study_coverage.csv</code></td>
+</tr>
+</tbody>
+</table>
+<p>By accession prefix:</p>
+<table>
+<thead>
+<tr>
+<th>Prefix</th>
+<th>Runs</th>
+<th>Profiled</th>
+<th>Share</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SRR</td>
+<td>102,727</td>
+<td>55,015</td>
+<td>53.6 %</td>
+</tr>
+<tr>
+<td>ERR</td>
+<td>71,075</td>
+<td>31,922</td>
+<td>44.9 %</td>
+</tr>
+<tr>
+<td>DRR</td>
+<td>220</td>
+<td>188</td>
+<td>85.5 %</td>
+</tr>
+</tbody>
+</table>
+<h3 id="why-runs-are-missing-sandpiper_run_qcsp_miss_reason-deterministic-first-matching-rule-wins">Why runs are missing (<code>sandpiper_run_qc.sp_miss_reason</code>, deterministic, first matching rule wins)</h3>
+<table>
+<thead>
+<tr>
+<th>Reason</th>
+<th>Runs</th>
+<th>Share of all runs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>profiled</code></td>
+<td>87,125</td>
+<td>50.1 %</td>
+</tr>
+<tr>
+<td><code>small_run_lt_100Mbp</code></td>
+<td>21,620</td>
+<td>12.4 %</td>
+</tr>
+<tr>
+<td><code>published_after_snapshot_horizon</code></td>
+<td>17,770</td>
+<td>10.2 %</td>
+</tr>
+<tr>
+<td><code>ena_illumina_not_in_snapshot</code></td>
+<td>13,987</td>
+<td>8.0 %</td>
+</tr>
+<tr>
+<td><code>controlled_access_study</code></td>
+<td>13,245</td>
+<td>7.6 %</td>
+</tr>
+<tr>
+<td><code>sra_illumina_not_in_snapshot</code></td>
+<td>10,123</td>
+<td>5.8 %</td>
+</tr>
+<tr>
+<td><code>non_illumina_platform</code></td>
+<td>10,040</td>
+<td>5.8 %</td>
+</tr>
+<tr>
+<td><code>non_wgs_strategy</code></td>
+<td>94</td>
+<td>0.1 %</td>
+</tr>
+<tr>
+<td><code>ddbj_illumina_not_in_snapshot</code></td>
+<td>18</td>
+<td>0.0 %</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><code>non_illumina_platform</code> — all 87,125 profiled runs are <code>instrument_platform = ILLUMINA</code>; no BGISEQ/DNBSEQ/Ion Torrent/454/ONT/PacBio run is profiled in Sandpiper 2.0.0.</li>
+<li><code>small_run_lt_100Mbp</code> — the smallest <code>metagenome_size</code> in per_acc_summary is 101 Mbp, so Sandpiper evidently skips runs under ~100 Mbp; applied here to ENA <code>base_count</code>.</li>
+<li><code>published_after_snapshot_horizon</code> — <code>first_public</code> after 2026-03-22; natural candidates for the per-run delta route or the next Zenodo version.</li>
+<li><code>controlled_access_study</code> — TEDDY (PRJNA400115, 13,245 runs) is dbGaP-controlled.</li>
+<li><code>ena_/sra_/ddbj_illumina_not_in_snapshot</code> — Illumina, ≥100 Mbp, public before the horizon, yet absent: ENA-only deposits not mirrored to NCBI SRA at crawl time, failed mirrors, or Sandpiper's own drops. ERR runs dominate (13,987 vs 10,123 SRR).</li>
+</ul>
+<p>Largest wholly unprofiled studies:</p>
+<table>
+<thead>
+<tr>
+<th>Study</th>
+<th>Runs</th>
+<th>First public</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PRJNA400115</td>
+<td>13,245</td>
+<td>2018-09-01</td>
+<td>TEDDY Microbiome</td>
+</tr>
+<tr>
+<td>PRJNA1468137</td>
+<td>4,749</td>
+<td>2026-05-31</td>
+<td>Maternal influences on infant gut microbiome and health</td>
+</tr>
+<tr>
+<td>PRJEB70237</td>
+<td>2,664</td>
+<td>2024-03-31</td>
+<td>HELMi infant and parental stool WGS metagenomes</td>
+</tr>
+<tr>
+<td>PRJNA1378986</td>
+<td>1,878</td>
+<td>2026-04-19</td>
+<td>Human gut metagenome during the first year of life</td>
+</tr>
+<tr>
+<td>PRJEB28671</td>
+<td>1,690</td>
+<td>2019-12-03</td>
+<td>A_novel_nano_iron_supplement__IHAT__to_safely_combact_iron_deficiency_</td>
+</tr>
+<tr>
+<td>PRJEB111647</td>
+<td>1,441</td>
+<td>2026-04-17</td>
+<td>Restoration of Microbiota in Newborns</td>
+</tr>
+<tr>
+<td>PRJEB24771</td>
+<td>1,392</td>
+<td>2018-03-07</td>
+<td>Legumes and Growth Data</td>
+</tr>
+<tr>
+<td>PRJEB89462</td>
+<td>1,366</td>
+<td>2026-03-04</td>
+<td>Impact of phage enrichment on the observed infant gut phageome</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-method">3. Method</h2>
+<h3 id="31-coverage-relative-abundance-b6">3.1 Coverage → relative abundance (B6)</h3>
+<ul>
+<li><strong>Filled coverage</strong> of a clade = coverage of the node + all descendants (what the bulk file delivers). <strong>Root</strong> = <code>Root</code> row = d__Bacteria + d__Archaea.</li>
+<li><strong>Relative abundance</strong> at any rank = filled coverage ÷ root. At each rank an explicit remainder row <code>unassigned_at_&lt;rank&gt;</code> = root − Σ filled(rank) carries the coverage that stopped at a shallower rank (novel/unclassified fraction). Per-rank sums equal 1 for every sample (observed range 1.000000000000–1.000000000000).</li>
+<li>Denominator caveat for every bar: coverage-based (≈ cell proportions), Bacteria + Archaea only, no host/eukaryote/virus; not comparable with MetaPhlAn read fractions or 16S.</li>
+</ul>
+<h3 id="32-aggregation-to-the-catalog-sample-unit-a16-b6">3.2 Aggregation to the catalog sample unit (A16, B6)</h3>
+<p>For a <code>catalog_sample_key</code> (BioSample, or run for the 6 run-keyed deposits) with several profiled runs, <strong>filled coverage per taxon is SUMMED across runs</strong>, then normalised. Filling is linear, so Σ(filled) = filled(Σ unfilled): identical to "sum unfilled, then fill", and ≈ profiling the concatenated reads (up to SingleM's per-run 0.35× noise floor, which leaves summed profiles slightly less species-resolved). Relative abundances are never averaged. Per sample: <code>sp_n_runs_total</code>, <code>sp_n_runs_profiled</code>, <code>sp_partial</code> (2,457 samples have unprofiled runs), <code>sp_root_coverage</code> (summed). SPF = metagenome-size-weighted mean of per-run SPF (a fraction of all reads); known-species fraction = bacterial+archaeal-bases-weighted mean (a fraction of prokaryotic coverage).</p>
+<h3 id="33-run-concordance-data-model-check-b6">3.3 Run concordance (data-model check, B6)</h3>
+<p>For the 3,243 sample keys with ≥2 profiled runs: genus-level relative abundance per run (with <code>unassigned_at_genus</code> as one bin) → max pairwise Bray–Curtis (<code>sp_run_concordance_bc</code>). <strong>99 BioSamples exceed BC 0.5</strong> (<code>sandpiper_run_discordance.csv</code>; by study: PRJNA524703: 62, PRJNA268964: 16, PRJEB49206: 11, PRJNA63661: 3, PRJEB33847: 3, PRJNA731529: 1, PRJEB41102: 1, PRJEB79896: 1, PRJNA320015: 1). All 99 are class C in <code>sample_unit_classification.csv</code>. In the largest group (PRJNA524703, "Human infant gut virome") each pair is one MDA-amplified VLP library plus one RANDOM bulk library on the same BioSample — discordance there reflects library type, not different infants. <strong>No catalog unit was changed</strong>; the list is a human-review candidate queue (<code>proposed_queue_reason = sample_unit_discordant_profiles</code>); check <code>library_selection</code> first.</p>
+<h3 id="34-indicator-taxa-in-gtdb-r232-terms-b5">3.4 Indicator taxa in GTDB R232 terms (B5)</h3>
+<p>Columns are prefixed <code>sp_</code>; relative-abundance columns end in <code>_ra</code> and mean "fraction of prokaryotic coverage (SingleM/Sandpiper, GTDB R232)".</p>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>GTDB definition</th>
+<th>NCBI caveat</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sp_ra_g_Bifidobacterium</code></td>
+<td><code>g__Bifidobacterium</code></td>
+<td>stable genus. GTDB R232 <em>does</em> carry <code>s__Bifidobacterium infantis</code> as a species (detected in 14,381 samples), unlike releases where it was folded into <em>B. longum</em></td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Bacteroidaceae</code></td>
+<td><code>f__Bacteroidaceae</code></td>
+<td>includes <em>Bacteroides</em> and <em>Phocaeicola</em> (GTDB moved <em>B. vulgatus/dorei/plebeius/coprocola</em> → <em>Phocaeicola</em>); the NCBI-sense "Bacteroides" ≈ this family</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Bacteroides</code>, <code>sp_ra_g_Phocaeicola</code></td>
+<td>genera, separately</td>
+<td>GTDB <em>Bacteroides</em> is roughly half the NCBI genus</td>
+</tr>
+<tr>
+<td><code>sp_ra_enterobacterales_core</code></td>
+<td>Σ of exactly six GTDB genera: <strong>g__Escherichia, g__Klebsiella, g__Enterobacter, g__Citrobacter, g__Salmonella, g__Serratia</strong></td>
+<td>GTDB <code>f__Enterobacteriaceae</code> absorbed Vibrionaceae, Pasteurellaceae etc., so the family is not used; Proteus/Raoultella/Kluyvera are <em>not</em> summed. <code>sp_ra_g_Escherichia</code>, <code>sp_ra_g_Klebsiella</code> also shipped</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Lachnospiraceae</code>, <code>sp_ra_f_Lactobacillaceae</code></td>
+<td>families</td>
+<td>GTDB splits <em>Lactobacillus</em> (Lactobacillus, Limosilactobacillus, Ligilactobacillus …); the family captures them all</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Streptococcus</code>, <code>_g_Staphylococcus</code>, <code>_g_Enterococcus</code>, <code>_g_Veillonella</code>, <code>_g_Clostridioides</code></td>
+<td>genera</td>
+<td><code>Clostridioides</code> = <em>C. difficile</em>'s GTDB genus</td>
+</tr>
+<tr>
+<td><code>sp_ra_unassigned_genus</code>, <code>sp_ra_unassigned_species</code></td>
+<td>remainder rows</td>
+<td>novel fraction; never renormalised away</td>
+</tr>
+<tr>
+<td><code>sp_shannon_genus</code></td>
+<td>Shannon (ln) over the genus table <strong>including the unassigned bin as one category</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><code>sp_n_genera_ge1pct</code></td>
+<td>named genera ≥ 1 %</td>
+<td></td>
+</tr>
+<tr>
+<td><code>sp_top_genus</code>, <code>sp_top_genus_ra</code></td>
+<td>most abundant genus-level bin (may be <code>unassigned_at_genus</code>)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="35-qc-flags-b7-what-they-may-decide">3.5 QC flags (B7) — what they may decide</h3>
+<p><code>sandpiper_run_qc.parquet</code> covers <strong>all 174,022 catalog runs</strong>. Sandpiper's own flags exist only in its per-run API, not in the bulk files, so they were <strong>reproduced deterministically from Sandpiper's published definitions</strong> (<code>sandpiper_flag_definitions.json</code>) using the run's organism name (Sandpiper <code>organism</code>, else ENA <code>scientific_name</code>) and ENA <code>library_strategy</code>/<code>library_source</code>:
+* <code>sp_flag_non_metagenome_strict/loose</code> (20,232 runs strict), sub-classified as <code>sp_nonmeta_class</code>: <strong>named_human_host</strong> (19,857 runs, "Homo sapiens" — routine submitter labelling of stool metagenomes, <em>not</em> a triage signal in a METAGENOMIC-source catalog); <strong>named_nonhuman_host</strong> (172 runs: <em>Mus musculus</em>, <em>Gallus gallus</em>, all in PRJEB6921 → <code>host_nonhuman</code> candidates); <strong>named_microbe_or_other</strong> (203 runs, e.g. <em>Bifidobacterium longum subsp. infantis</em>, <em>Staphylococcus epidermidis</em>; with <code>library_source = GENOMIC</code> → <code>assay_isolate_genome</code> candidates).
+* <code>sp_flag_synthetic</code> = 0, <code>sp_flag_rna_strict</code> = 0 — zero by construction (catalog is METAGENOMIC/GENOMIC WGS/WXS/OTHER only).
+* <code>sp_flag_low_complexity</code> (6,871 profiled runs; 6,029 samples) fires on Bifidobacterium-/Enterobacterales-dominated neonatal stool — <strong>display only, never triage</strong>.
+* <code>sp_low_depth</code> (root &lt; 2×; 554 runs, 460 samples) — hide bars when set.
+* <code>sp_predicted_ecological</code> (377 runs; Sandpiper <code>prediction = ecological</code>) and <code>sp_low_known_species_high_depth</code> (known-species fraction &lt; 50 % with root ≥ 10×; 2,238 runs) — mislabelled-site / non-human hints.
+* <code>sp_flag_readfraction_warning</code> (823 runs) — Sandpiper's note that the SPF estimate may be inaccurate.
+Low SPF is a depth/quality label (expected in meconium / early NICU stool), not a flag.</p>
+<p><strong>Auditor candidates (<code>sandpiper_auditor_candidate_runs.csv</code>: 2,947 runs in 159 studies; hints, not verdicts):</strong> low_known_species_fraction_high_depth 2,195, sandpiper_predicts_ecological 334, microbe_or_other_named 203, nonhuman_host_named 172, sandpiper_predicts_ecological;low_known_species_fraction_high_depth 43. Reason-code hints: review_site_or_host 2,572, host_nonhuman 172, assay_isolate_genome 133, review_organism_label 70. Study-level attention (<code>sandpiper_study_qc_flags.csv</code>, <code>auditor_attention</code>):</p>
+<table>
+<thead>
+<tr>
+<th>Study</th>
+<th>Reason</th>
+<th>Runs</th>
+<th>Profiled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PRJEB6921</td>
+<td>nonhuman_host_named</td>
+<td>1067</td>
+<td>151</td>
+</tr>
+<tr>
+<td>PRJNA1067625</td>
+<td>low_known_species_high_depth_majority</td>
+<td>16</td>
+<td>15</td>
+</tr>
+<tr>
+<td>PRJNA1082298</td>
+<td>microbe_named_majority</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>PRJNA215106</td>
+<td>low_known_species_high_depth_majority</td>
+<td>169</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>Age-consistency (adult-like composition among samples lacking age evidence) was <strong>not</strong> written into any age field; composition is a review-prioritisation hint only (B7).</p>
+<h2 id="4-validation">4. Validation</h2>
+<p><strong>All 87,125 profiled runs:</strong> filled root == per_acc_summary <code>root_coverage</code> within 1 % for 100.0 % of runs (max relative error 0.0e+00); Σ species filled coverage == <code>species_coverage</code> for 100.0 % (max absolute error 2.2e-11).</p>
+<p><strong>Node-by-node against Sandpiper's "condensed with extras" download (4 runs spanning 3.8×–2,230× root, a read-fraction warning, and a DRR run):</strong></p>
+<table>
+<thead>
+<tr>
+<th>Run</th>
+<th>Nodes</th>
+<th>Unmatched</th>
+<th>max Δ filled</th>
+<th>max Δ unfilled (derived)</th>
+<th>max Δ rel. abundance (pct points)</th>
+<th>root mine / per_acc</th>
+<th>species mine / per_acc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ERR10149219</td>
+<td>221</td>
+<td>0</td>
+<td>0.0000</td>
+<td>0.0000</td>
+<td>0.0049</td>
+<td>2229.55 / 2229.55</td>
+<td>2057.57 / 2057.57</td>
+</tr>
+<tr>
+<td>SRR22944783</td>
+<td>8</td>
+<td>0</td>
+<td>0.0000</td>
+<td>0.0000</td>
+<td>0.0045</td>
+<td>3.79 / 3.79</td>
+<td>0.0 / 0.0</td>
+</tr>
+<tr>
+<td>SRR28967202</td>
+<td>61</td>
+<td>0</td>
+<td>0.0000</td>
+<td>0.0000</td>
+<td>0.0050</td>
+<td>1184.61 / 1184.61</td>
+<td>149.8 / 149.8</td>
+</tr>
+<tr>
+<td>DRR739999</td>
+<td>12</td>
+<td>0</td>
+<td>0.0000</td>
+<td>0.0000</td>
+<td>0.0042</td>
+<td>6.2 / 6.2</td>
+<td>0.0 / 0.0</td>
+</tr>
+</tbody>
+</table>
+<p>The ≤0.005-point rel-abundance differences are Sandpiper's 2-decimal rounding of percentages.</p>
+<h2 id="5-outputs">5. Outputs</h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Rows</th>
+<th>Size (MB)</th>
+<th>Placement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sandpiper_profiles.parquet</code> (sample_key, rank, taxon, lineage, coverage_filled, rel_abundance, taxonomy_db/version, sandpiper_version; incl. <code>unassigned_at_&lt;rank&gt;</code> rows)</td>
+<td>10,164,038</td>
+<td>99.6</td>
+<td>off-site asset (Release/Zenodo)</td>
+</tr>
+<tr>
+<td><code>sandpiper_profiles_runs.parquet</code> (run, taxonomy, rank_i, coverage_filled, coverage_unfilled, versions)</td>
+<td>10,387,937</td>
+<td>61.4</td>
+<td>off-site asset</td>
+</tr>
+<tr>
+<td><code>sandpiper_profiles_runs_raw.parquet</code> (bulk rows as delivered, filtered)</td>
+<td>10,387,937</td>
+<td>45.8</td>
+<td>checkpoint</td>
+</tr>
+<tr>
+<td><code>sandpiper_sample_summary.parquet</code> (42 columns; §3.4–3.5)</td>
+<td>79,473</td>
+<td>11.3</td>
+<td>on-site (join <code>sample_metadata_wide.sample_key</code>)</td>
+</tr>
+<tr>
+<td><code>sandpiper_top_genera.parquet</code> (top-15 named genera + unassigned bin per sample)</td>
+<td>1,049,958</td>
+<td>4.8</td>
+<td>on-site, on-demand</td>
+</tr>
+<tr>
+<td><code>sandpiper_study_panels.parquet</code> (per study: top-12 phyla, top-15 genera, unassigned bins; mean rel. abundance over profiled infant-scope samples; n)</td>
+<td>7,780 (298 studies)</td>
+<td>0.1</td>
+<td>on-site (build-time JSON)</td>
+</tr>
+<tr>
+<td><code>sandpiper_study_profiled_counts.parquet</code> (n_samples, n_infant_scope, n_profiled, frac)</td>
+<td>389</td>
+<td>0.0</td>
+<td>on-site</td>
+</tr>
+<tr>
+<td><code>sandpiper_bifidobacterium_species.parquet</code> (58 GTDB species; share within genus)</td>
+<td>149,707</td>
+<td>3.4</td>
+<td>on-site optional</td>
+</tr>
+<tr>
+<td><code>sandpiper_run_qc.parquet</code> (all runs; per_acc_summary fields + reproduced flags + miss reason + URL)</td>
+<td>174,022</td>
+<td>9.0</td>
+<td>on-site (join <code>runs</code>)</td>
+</tr>
+<tr>
+<td><code>sandpiper_run_concordance.parquet</code> / <code>sandpiper_run_discordance.csv</code></td>
+<td>3,243 / 99</td>
+<td>&lt;1</td>
+<td>audit</td>
+</tr>
+<tr>
+<td><code>sandpiper_study_coverage.csv</code>, <code>sandpiper_study_qc_flags.csv</code>, <code>sandpiper_auditor_candidate_runs.csv</code></td>
+<td>389 / 389 / 2,947</td>
+<td>&lt;1</td>
+<td>audit</td>
+</tr>
+<tr>
+<td><code>sandpiper_validation_with_extras.csv</code>, <code>validation_all_runs.json</code>, <code>download_log.json</code>, <code>filter_log.json</code>, <code>zenodo_record_20419175.json</code>, <code>sandpiper_flag_definitions.json</code>, <code>run_page_probe.json</code></td>
+<td>—</td>
+<td>—</td>
+<td>evidence trail</td>
+</tr>
+<tr>
+<td>Code: <code>download_bulk.py</code>, <code>filter_bulk.py</code>, <code>build_sandpiper_tables.py</code>, <code>sandpiper_lib.py</code>, <code>render_report.py</code></td>
+<td></td>
+<td></td>
+<td>pipeline</td>
+</tr>
+</tbody>
+</table>
+<p>All site-bound files are far below 95 MB. Every profiled sample/run carries <code>sandpiper_url = https://sandpiper.qut.edu.au/run/&lt;first profiled run&gt;</code>.</p>
+<h3 id="headline-composition-profiled-samples">Headline composition (profiled samples)</h3>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>mean</th>
+<th>median</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sp_ra_g_Bifidobacterium</code></td>
+<td>0.218</td>
+<td>0.043</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Bacteroidaceae</code></td>
+<td>0.149</td>
+<td>0.031</td>
+</tr>
+<tr>
+<td><code>sp_ra_enterobacterales_core</code></td>
+<td>0.123</td>
+<td>0.01</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Lachnospiraceae</code></td>
+<td>0.104</td>
+<td>0.031</td>
+</tr>
+<tr>
+<td><code>sp_ra_unassigned_genus</code></td>
+<td>0.062</td>
+<td>0.035</td>
+</tr>
+<tr>
+<td><code>sp_shannon_genus</code></td>
+<td>1.782</td>
+<td>1.724</td>
+</tr>
+<tr>
+<td><code>sp_spf</code></td>
+<td>80.649</td>
+<td>87.16</td>
+</tr>
+<tr>
+<td><code>sp_known_species_fraction</code></td>
+<td>85.677</td>
+<td>90.54</td>
+</tr>
+<tr>
+<td><code>sp_root_coverage</code></td>
+<td>1400.518</td>
+<td>822.41</td>
+</tr>
+</tbody>
+</table>
+<p>Most frequent top genus: g__Bifidobacterium (24,801), g__Prevotella (7,759), g__Bacteroides (7,234), g__Escherichia (5,097), g__Phocaeicola (4,455), g__Klebsiella (3,520), unassigned_at_genus (3,280), g__Streptococcus (2,625). Bifidobacterium species most often detected: s__Bifidobacterium longum (34,017 samples), s__Bifidobacterium breve (22,909 samples), s__Bifidobacterium bifidum (21,135 samples), s__Bifidobacterium infantis (14,381 samples), s__Bifidobacterium sp959028125 (10,927 samples), s__Bifidobacterium adolescentis (9,269 samples).</p>
+<h2 id="6-refresh-recipe-a8">6. Refresh recipe (A8)</h2>
+<ol>
+<li>Monthly check of the concept record (doi 10.5281/zenodo.10547493); when a new version appears: re-run <code>download_bulk.py</code> (record id; Range-resume; md5 must match Zenodo), <code>filter_bulk.py</code> (<code>matched_runs.parquet</code> = catalog runs ∩ per_acc_summary), <code>build_sandpiper_tables.py</code>; re-validate ≥3 runs against <code>condensed_csv_with_extras</code>. Expect 1–2 versions/yr; never mix taxonomy releases in one panel.</li>
+<li>Between snapshots: for runs tagged <code>published_after_snapshot_horizon</code> or <code>*_not_in_snapshot</code>, fetch <code>api/condensed_csv_with_extras/&lt;acc&gt;?taxonomy_type=gtdb</code> at ≤0.5 req/s, ≤2,000 runs/cycle, via <code>harvest_lib</code> cache; keep only rows whose taxonomy release equals the snapshot's (R232); append as unfilled profiles → <code>sandpiper_lib.fill_profile/normalise</code>.</li>
+<li>Keep raw bulk files on the host filesystem (<code>~/catalog/external/sandpiper/&lt;zenodo_version&gt;/</code>) with the sha256 above, not as artifacts.</li>
+</ol>
+<h2 id="7-citation">7. Citation</h2>
+<p>Woodcroft, B. J. et al. <em>Comprehensive taxonomic identification of microbial species in metagenomic data using SingleM and Sandpiper.</em> <strong>Nature Biotechnology</strong> (2025). Data: "Public metagenome datasets annotated using SingleM", Sandpiper 2.0.0, Zenodo record 20419175 (doi 10.5281/zenodo.20419175; concept doi 10.5281/zenodo.10547493), published 2026-05-28. Taxonomy: GTDB R232.</p>
+<h2 id="8-deviations-and-caveats">8. Deviations and caveats</h2>
+<ul>
+<li>Bulk file is filled (tab-separated, <code>filled_coverage</code>), not unfilled as stated in the task; handled as in §1 (results identical to Sandpiper's own numbers).</li>
+<li>Sandpiper's per-run flags (non-metagenome/synthetic/RNA) are not in the bulk files; they were reproduced from Sandpiper's published definitions on the catalog's own ENA fields — for runs Sandpiper never saw, flag values are <em>our</em> application of <em>their</em> rule.</li>
+<li>9 requests to sandpiper.qut.edu.au (probe budget said ≤5; the 4 extra are the with-extras validation downloads the task also required).</li>
+<li>Study panels use the current site definition of infant scope (<code>body_site_class ∈ {primary, unknown}</code>), which Reviewer B (B1) flags as age-agnostic; recompute once <code>age_scope</code> exists.</li>
+<li><code>sp_ra_enterobacterales_core</code> sums exactly the six genera named in the task, not Reviewer B's longer list.</li>
+<li>Validation used 4 with-extras files rather than the 200-run sample suggested in A8; the all-run root/species check over 87,125 runs compensates.</li>
+<li><code>sp_miss_reason</code> values are deterministic inferences from archive fields, not Sandpiper's stated reasons; treat the <code>*_not_in_snapshot</code> split as provisional.</li>
+</ul>
+<h2 id="v121-addendum-data-fix-track">v1.2.1 addendum (data-fix track)</h2>
+<ul>
+<li>Study panels and <code>sp_median_*</code> are now computed over <code>catalog_scope ∧ sp_profiled ∧ NOT sp_low_depth</code> (41,290 rows in 181 studies); §8's deferral is closed. Studies without such rows carry a fallback label in <code>sp_panel_scope</code> / <code>sandpiper_study_panel_status.csv</code>.</li>
+<li>Studies with samples in <code>age_scope = study_all_infant</code>: 31 (the earlier "66 study_all_infant studies" counted triage verdicts, not studies with rows in that scope).</li>
+<li>Genus indicators include GTDB alphabetic-suffix genera; <code>sp_flag_non_metagenome</code> no longer fires on the 'Homo sapiens' label; miss-reason precedence evaluates library strategy first; <code>sandpiper_run_qc.sample_unit</code> uses <code>run</code> for run units. Flag vocabulary: <code>sandpiper_flag_table.csv</code>.</li>
+</ul></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.19"><span class="mono">R2026.19</span></a> · package <span class="mono">1.17.1</span> · build <span class="mono">06fe280</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.19.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.17.1',release:'data-v1.17.1',releaseId:'R2026.19',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

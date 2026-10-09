@@ -1,0 +1,396 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA2042012,PRJEB1220,CD1,0,adult,9131.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,2.042
+SAMEA1968151,PRJEB1220,CD10,0,adult,13879.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,2.0,1.211
+SAMEA2042013,PRJEB1220,CD11,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.192
+SAMEA2042014,PRJEB1220,CD12,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,2.273
+SAMEA2042101,PRJEB1220,CD13,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.338
+SAMEA2042102,PRJEB1220,CD14,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.512
+SAMEA1965852,PRJEB1220,CD15,0,adult,12418.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,2.499
+SAMEA2042103,PRJEB1220,CD15,3,adult,,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,8.446
+SAMEA2042104,PRJEB1220,CD16,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.864
+SAMEA2042105,PRJEB1220,CD17,0,adult,7670.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,2.0,3.819
+SAMEA2042106,PRJEB1220,CD17,4,adult,7670.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,5.993
+SAMEA2042107,PRJEB1220,CD18,0,adult,6574.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,5.646
+SAMEA2042108,PRJEB1220,CD18,3,adult,6574.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,4.73
+SAMEA2042109,PRJEB1220,CD19,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,5.603
+SAMEA2042110,PRJEB1220,CD2,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.967
+SAMEA2042111,PRJEB1220,CD20,4,adult,9496.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,8.354
+SAMEA2042112,PRJEB1220,CD21,0,adult,12418.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,5.374
+SAMEA2042113,PRJEB1220,CD21,4,adult,12418.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,4.952
+SAMEA2042114,PRJEB1220,CD22,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,5.852
+SAMEA2042115,PRJEB1220,CD24,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.919
+SAMEA2042215,PRJEB1220,CD25,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,2.0,3.993
+SAMEA2042216,PRJEB1220,CD25,4,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,9.708
+SAMEA2042217,PRJEB1220,CD27,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.808
+SAMEA2042218,PRJEB1220,CD28,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,6.425
+SAMEA2042219,PRJEB1220,CD29,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.182
+SAMEA2042220,PRJEB1220,CD3,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.994
+SAMEA2042221,PRJEB1220,CD30,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.106
+SAMEA2042222,PRJEB1220,CD31,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.863
+SAMEA2042223,PRJEB1220,CD34,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,6.213
+SAMEA2042224,PRJEB1220,CD35,0,adult,9861.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,6.855
+SAMEA2042225,PRJEB1220,CD35,1,adult,9861.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,5.443
+SAMEA2042226,PRJEB1220,CD36,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,6.51
+SAMEA2042304,PRJEB1220,CD38,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,5.942
+SAMEA2042394,PRJEB1220,CD4,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.772
+SAMEA2042395,PRJEB1220,CD41,0,adult,9131.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,9.332
+SAMEA2042396,PRJEB1220,CD42,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,12.416
+SAMEA2042397,PRJEB1220,CD6,0,adult,13149.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,1.629
+SAMEA1963786,PRJEB1220,CD6,4,adult,13149.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,5.774
+SAMEA2042398,PRJEB1220,CD7,0,adult,8035.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,2.0,3.861
+SAMEA2042399,PRJEB1220,CD7,4,adult,8035.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Crohn Disease,,,,2008/2010,primary,4.0,5.807
+SAMEA2042400,PRJEB1220,CD8,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.751
+SAMEA2042401,PRJEB1220,CD9,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.888
+SAMEA2042402,PRJEB1220,UC1,0,adult,11322.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.044
+SAMEA2042741,PRJEB1220,UC1,0,adult,13514.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.837
+SAMEA2042742,PRJEB1220,UC1,2,adult,13514.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.288
+SAMEA2042403,PRJEB1220,UC10,0,adult,16436.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,2.021
+SAMEA2042404,PRJEB1220,UC10,2,adult,16436.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.279
+SAMEA2042405,PRJEB1220,UC11,0,adult,17532.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.801
+SAMEA2042743,PRJEB1220,UC11,0,adult,12418.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.54
+SAMEA2042744,PRJEB1220,UC11,2,adult,12418.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.684
+SAMEA2042406,PRJEB1220,UC11,5,adult,17532.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,8.232
+SAMEA2042407,PRJEB1220,UC12,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,2.819
+SAMEA2042745,PRJEB1220,UC12,0,adult,15705.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.492
+SAMEA2042828,PRJEB1220,UC12,2,adult,15705.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.577
+SAMEA2042408,PRJEB1220,UC12,4,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.857
+SAMEA2042439,PRJEB1220,UC13,0,adult,18627.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,2.084
+SAMEA2042829,PRJEB1220,UC13,0,elderly,24837.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.544
+SAMEA2042832,PRJEB1220,UC13,2,elderly,24837.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.277
+SAMEA2042440,PRJEB1220,UC13,3,adult,18627.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.901
+SAMEA2042441,PRJEB1220,UC14,0,adult,19358.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,2.14
+SAMEA2042831,PRJEB1220,UC14,0,adult,11322.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,0.824
+SAMEA1966253,PRJEB1220,UC14,1,adult,19358.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,7.478
+SAMEA2042830,PRJEB1220,UC14,2,adult,11322.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.11
+SAMEA2042442,PRJEB1220,UC15,0,adult,9131.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.808
+SAMEA2042443,PRJEB1220,UC15,3,adult,9131.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.047
+SAMEA2042444,PRJEB1220,UC16,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.944
+SAMEA2042833,PRJEB1220,UC16,0,adult,17166.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.545
+SAMEA2042834,PRJEB1220,UC16,2,adult,17166.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.54
+SAMEA2042445,PRJEB1220,UC17,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.008
+SAMEA2042835,PRJEB1220,UC17,0,adult,20454.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.641
+SAMEA2042446,PRJEB1220,UC17,2,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.994
+SAMEA2042836,PRJEB1220,UC17,2,adult,20454.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.756
+SAMEA2042447,PRJEB1220,UC18,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,1.973
+SAMEA2042838,PRJEB1220,UC18,2,adult,17532.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.929
+SAMEA2042448,PRJEB1220,UC19,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.086
+SAMEA2042837,PRJEB1220,UC19,0,adult,15340.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.755
+SAMEA1972440,PRJEB1220,UC19,2,adult,15340.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.206
+SAMEA2042449,PRJEB1220,UC2,0,adult,22645.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,2.966
+SAMEA2042840,PRJEB1220,UC2,0,adult,16801.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,3.841
+SAMEA2042841,PRJEB1220,UC2,2,adult,16801.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.582
+SAMEA2042450,PRJEB1220,UC2,4,adult,22645.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,2.404
+SAMEA2042842,PRJEB1220,UC20,0,adult,18627.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.686
+SAMEA2042911,PRJEB1220,UC20,2,adult,18627.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.968
+SAMEA2042451,PRJEB1220,UC21,0,adult,22645.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.808
+SAMEA2042912,PRJEB1220,UC21,0,adult,17897.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,0.726
+SAMEA2042913,PRJEB1220,UC21,2,adult,17897.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.695
+SAMEA2042452,PRJEB1220,UC21,4,adult,22645.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.024
+SAMEA2042914,PRJEB1220,UC22,0,adult,16071.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.732
+SAMEA1968361,PRJEB1220,UC22,2,adult,16071.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.959
+SAMEA2042453,PRJEB1220,UC23,0,adult,15705.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.554
+SAMEA2042915,PRJEB1220,UC23,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.5
+SAMEA2042504,PRJEB1220,UC23,1,adult,15705.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,2.603
+SAMEA2042916,PRJEB1220,UC23,2,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.288
+SAMEA2042505,PRJEB1220,UC24,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.552
+SAMEA2042917,PRJEB1220,UC24,0,adult,20088.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.985
+SAMEA2042918,PRJEB1220,UC24,2,adult,20088.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.681
+SAMEA2042506,PRJEB1220,UC25,0,adult,18993.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.354
+SAMEA2042507,PRJEB1220,UC25,1,adult,18993.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.364
+SAMEA2042508,PRJEB1220,UC26,0,adult,13149.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.912
+SAMEA2042919,PRJEB1220,UC26,0,adult,14975.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.353
+SAMEA2042920,PRJEB1220,UC26,2,adult,14975.25,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.262
+SAMEA2042509,PRJEB1220,UC26,4,adult,13149.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.638
+SAMEA2042510,PRJEB1220,UC27,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.736
+SAMEA2042921,PRJEB1220,UC27,0,adult,18993.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.04
+SAMEA1972463,PRJEB1220,UC27,2,adult,18993.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.524
+SAMEA2042511,PRJEB1220,UC28,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.726
+SAMEA2042512,PRJEB1220,UC29,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.529
+SAMEA2042922,PRJEB1220,UC29,0,adult,20088.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.739
+SAMEA2042923,PRJEB1220,UC29,2,adult,20088.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.669
+SAMEA2042513,PRJEB1220,UC3,0,adult,16071.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.943
+SAMEA2042924,PRJEB1220,UC3,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.881
+SAMEA2042515,PRJEB1220,UC3,2,adult,16071.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.048
+SAMEA2042980,PRJEB1220,UC3,2,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.819
+SAMEA2042516,PRJEB1220,UC30,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.958
+SAMEA2042981,PRJEB1220,UC30,0,adult,18627.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.944
+SAMEA2042982,PRJEB1220,UC30,2,adult,18627.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,4.299
+SAMEA2042517,PRJEB1220,UC31,0,adult,9496.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.616
+SAMEA2042983,PRJEB1220,UC31,0,adult,10957.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,4.212
+SAMEA2042984,PRJEB1220,UC31,2,adult,10957.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,4.265
+SAMEA2042518,PRJEB1220,UC31,4,adult,9496.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,7.411
+SAMEA2042519,PRJEB1220,UC32,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,5.596
+SAMEA2042985,PRJEB1220,UC32,0,adult,19723.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.992
+SAMEA2042986,PRJEB1220,UC32,2,adult,19723.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.185
+SAMEA2042520,PRJEB1220,UC33,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,5.071
+SAMEA2042570,PRJEB1220,UC34,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,6.692
+SAMEA2042987,PRJEB1220,UC34,0,adult,23376.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.153
+SAMEA2042988,PRJEB1220,UC34,2,adult,23376.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.313
+SAMEA1964348,PRJEB1220,UC35,0,adult,14244.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.485
+SAMEA2042571,PRJEB1220,UC35,0,adult,12053.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.408
+SAMEA2042990,PRJEB1220,UC35,2,adult,14244.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.991
+SAMEA2042572,PRJEB1220,UC35,4,adult,12053.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,7.239
+SAMEA2042573,PRJEB1220,UC36,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,4.075
+SAMEA2042991,PRJEB1220,UC36,2,adult,15705.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.085
+SAMEA2042574,PRJEB1220,UC37,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.903
+SAMEA2042992,PRJEB1220,UC37,0,adult,16071.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.079
+SAMEA2042993,PRJEB1220,UC37,2,adult,16071.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.454
+SAMEA2042575,PRJEB1220,UC38,0,adult,8766.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.61
+SAMEA2042994,PRJEB1220,UC38,0,adult,20088.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.847
+SAMEA2042995,PRJEB1220,UC38,2,adult,20088.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.265
+SAMEA2042576,PRJEB1220,UC39,0,adult,9496.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.039
+SAMEA2042577,PRJEB1220,UC4,0,adult,17166.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.872
+SAMEA2043040,PRJEB1220,UC4,0,adult,20819.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,1.51
+SAMEA2043041,PRJEB1220,UC4,2,adult,20819.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.477
+SAMEA2042578,PRJEB1220,UC4,5,adult,17166.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,7.616
+SAMEA2042579,PRJEB1220,UC40,0,adult,11688.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.916
+SAMEA2043042,PRJEB1220,UC40,0,adult,12783.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.764
+SAMEA2043043,PRJEB1220,UC40,2,adult,12783.75,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.072
+SAMEA2042580,PRJEB1220,UC41,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,4.826
+SAMEA2043044,PRJEB1220,UC41,0,adult,15705.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.967
+SAMEA2043045,PRJEB1220,UC41,2,adult,15705.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,1.989
+SAMEA2042581,PRJEB1220,UC42,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.926
+SAMEA1971886,PRJEB1220,UC43,0,adult,8766.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.755
+SAMEA2042582,PRJEB1220,UC43,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,7.068
+SAMEA2043046,PRJEB1220,UC43,2,adult,8766.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.577
+SAMEA2042583,PRJEB1220,UC44,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.812
+SAMEA2043048,PRJEB1220,UC44,0,adult,16436.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.969
+SAMEA2043049,PRJEB1220,UC44,2,adult,16436.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.621
+SAMEA2042584,PRJEB1220,UC45,0,adult,18262.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.533
+SAMEA2042585,PRJEB1220,UC46,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,4.176
+SAMEA2043050,PRJEB1220,UC46,0,adult,11688.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.98
+SAMEA1965906,PRJEB1220,UC46,2,adult,11688.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,4.188
+SAMEA2042618,PRJEB1220,UC47,0,adult,16801.5,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,4.036
+SAMEA2043051,PRJEB1220,UC47,0,adult,10592.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,3.597
+SAMEA1964914,PRJEB1220,UC47,2,adult,10592.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,3.369
+SAMEA2042619,PRJEB1220,UC48,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,5.007
+SAMEA2043052,PRJEB1220,UC48,0,adult,16801.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.289
+SAMEA1968035,PRJEB1220,UC48,2,adult,16801.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,3.856
+SAMEA2041923,PRJEB1220,UC49,0,adult,8035.5,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,4.1
+SAMEA2042620,PRJEB1220,UC49,0,adult,9131.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.143
+SAMEA2042621,PRJEB1220,UC49,1,adult,9131.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.419
+SAMEA2041924,PRJEB1220,UC49,2,adult,8035.5,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.775
+SAMEA2041925,PRJEB1220,UC5,0,adult,14610.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.866
+SAMEA2042622,PRJEB1220,UC5,0,adult,10957.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.374
+SAMEA2041926,PRJEB1220,UC5,2,adult,14610.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,2.0,3.19
+SAMEA2042623,PRJEB1220,UC5,3,adult,10957.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,8.413
+SAMEA2041927,PRJEB1220,UC50,0,adult,8766.0,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,4.393
+SAMEA2042624,PRJEB1220,UC50,1,adult,16436.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.585
+SAMEA2041928,PRJEB1220,UC50,2,adult,8766.0,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.596
+SAMEA2041930,PRJEB1220,UC51,0,adult,11688.0,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.924
+SAMEA2042625,PRJEB1220,UC51,0,adult,16071.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.847
+SAMEA2041931,PRJEB1220,UC51,2,adult,11688.0,female,ES,healthy_control,Healthy,,,,2008/2010,primary,6.0,8.028
+SAMEA2042626,PRJEB1220,UC51,4,adult,16071.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.058
+SAMEA2041932,PRJEB1220,UC52,0,adult,11688.0,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.125
+SAMEA2042627,PRJEB1220,UC52,0,adult,15705.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,3.909
+SAMEA2042628,PRJEB1220,UC52,1,adult,15705.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,5.998
+SAMEA2041933,PRJEB1220,UC52,2,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.934
+SAMEA1965191,PRJEB1220,UC53,0,adult,8766.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,8.704
+SAMEA2041934,PRJEB1220,UC53,0,adult,7670.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.513
+SAMEA2041935,PRJEB1220,UC53,2,adult,7670.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.219
+SAMEA2042629,PRJEB1220,UC53,4,adult,8766.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,8.761
+SAMEA2041936,PRJEB1220,UC54,0,adult,7305.0,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.712
+SAMEA2042630,PRJEB1220,UC54,0,adult,11688.0,male,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,9.572
+SAMEA2041937,PRJEB1220,UC54,2,adult,7305.0,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.71
+SAMEA2041938,PRJEB1220,UC55,0,adult,16071.0,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.005
+SAMEA2042632,PRJEB1220,UC55,0,adult,16801.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,8.688
+SAMEA2041939,PRJEB1220,UC55,2,adult,16071.0,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.25
+SAMEA2042633,PRJEB1220,UC55,4,adult,16801.5,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,6.0,9.175
+SAMEA1964895,PRJEB1220,UC56,0,adult,10592.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,4.323
+SAMEA2042659,PRJEB1220,UC56,0,adult,12783.75,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.422
+SAMEA2042000,PRJEB1220,UC56,2,adult,10592.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.932
+SAMEA2042001,PRJEB1220,UC57,0,adult,10592.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.685
+SAMEA2042661,PRJEB1220,UC57,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,4.996
+SAMEA2042002,PRJEB1220,UC57,2,adult,10592.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.864
+SAMEA2042003,PRJEB1220,UC58,0,adult,15340.5,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.718
+SAMEA2042660,PRJEB1220,UC58,0,adult,14975.25,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,5.825
+SAMEA2042004,PRJEB1220,UC58,2,adult,15340.5,female,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.831
+SAMEA2042005,PRJEB1220,UC59,0,adult,14975.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.894
+SAMEA2042006,PRJEB1220,UC59,2,adult,14975.25,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.92
+SAMEA2042662,PRJEB1220,UC6,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.555
+SAMEA2042007,PRJEB1220,UC60,0,adult,12783.75,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,3.574
+SAMEA2042009,PRJEB1220,UC60,2,adult,12783.75,male,ES,healthy_control,Healthy,,,,2008/2010,primary,2.0,3.763
+SAMEA1967055,PRJEB1220,UC61,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,6.616
+SAMEA1972229,PRJEB1220,UC62,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,6.11
+SAMEA2042663,PRJEB1220,UC7,0,adult,,female,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.229
+SAMEA2042664,PRJEB1220,UC8,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.47
+SAMEA2042010,PRJEB1220,UC9,0,adult,18993.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.022
+SAMEA2042665,PRJEB1220,UC9,0,adult,,male,ES,healthy_control,Healthy,,,,2008/2010,primary,4.0,2.285
+SAMEA2042011,PRJEB1220,UC9,2,adult,18993.0,female,ES,ibd_unspecified,Inflammatory Bowel Disease;Ulcerative Colitis,,,,2008/2010,primary,4.0,4.035
+SAMEA1965033,PRJEB1220,,,adult,16071.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.238
+SAMEA1965112,PRJEB1220,,,adult,16071.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,3.787
+SAMEA1965384,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,4.089
+SAMEA1965767,PRJEB1220,,,adult,23741.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.572
+SAMEA1969296,PRJEB1220,,,adult,18262.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,14.0,5.041
+SAMEA1972159,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.849
+SAMEA1972794,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.531
+SAMEA1973207,PRJEB1220,,,adult,16436.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.923
+SAMEA2042087,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.058
+SAMEA2042088,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.028
+SAMEA2042089,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.271
+SAMEA2042090,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.68
+SAMEA2042091,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.734
+SAMEA2042092,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.833
+SAMEA2042093,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.863
+SAMEA2042095,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.461
+SAMEA2042096,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.031
+SAMEA2042097,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.828
+SAMEA2042098,PRJEB1220,,,adult,16071.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.001
+SAMEA2042099,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.733
+SAMEA2042100,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.952
+SAMEA2042191,PRJEB1220,,,elderly,24471.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.037
+SAMEA2042192,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.395
+SAMEA2042193,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.564
+SAMEA2042194,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.142
+SAMEA2042195,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.01
+SAMEA2042196,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.093
+SAMEA2042197,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.51
+SAMEA2042198,PRJEB1220,,,elderly,25202.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.695
+SAMEA2042199,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.354
+SAMEA2042200,PRJEB1220,,,adult,16071.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.882
+SAMEA2042201,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.33
+SAMEA2042202,PRJEB1220,,,elderly,25202.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.373
+SAMEA2042203,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.911
+SAMEA2042204,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.314
+SAMEA2042205,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.217
+SAMEA2042206,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.192
+SAMEA2042280,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.765
+SAMEA2042281,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,2.846
+SAMEA2042282,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,2.955
+SAMEA2042283,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.606
+SAMEA2042284,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.583
+SAMEA2042285,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,9.135
+SAMEA2042286,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.486
+SAMEA2042287,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.78
+SAMEA2042288,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.944
+SAMEA2042289,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.251
+SAMEA2042290,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.27
+SAMEA2042292,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.369
+SAMEA2042293,PRJEB1220,,,elderly,25202.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.94
+SAMEA2042294,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.14
+SAMEA2042295,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.017
+SAMEA2042296,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.942
+SAMEA2042297,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.68
+SAMEA2042298,PRJEB1220,,,adult,16071.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.828
+SAMEA2042299,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.026
+SAMEA2042300,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.063
+SAMEA2042301,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,3.506
+SAMEA2042302,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.971
+SAMEA2042303,PRJEB1220,,,adult,16436.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.125
+SAMEA2042360,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,2.416
+SAMEA2042361,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.579
+SAMEA2042362,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,3.068
+SAMEA2042363,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,14.0,11.021
+SAMEA2042364,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.591
+SAMEA2042365,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,2.873
+SAMEA2042366,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.288
+SAMEA2042367,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,2.452
+SAMEA2042368,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.422
+SAMEA2042369,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.421
+SAMEA2042371,PRJEB1220,,,adult,16071.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.369
+SAMEA2042372,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.001
+SAMEA2042373,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.653
+SAMEA2042374,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.27
+SAMEA2042375,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.409
+SAMEA2042376,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.774
+SAMEA2042377,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,0.894
+SAMEA2042378,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.827
+SAMEA2042379,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.054
+SAMEA2042380,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.06
+SAMEA2042381,PRJEB1220,,,elderly,25202.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.938
+SAMEA2042382,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.245
+SAMEA2042383,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.797
+SAMEA2042384,PRJEB1220,,,adult,23741.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.708
+SAMEA2042385,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.118
+SAMEA2042386,PRJEB1220,,,adult,18262.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.21
+SAMEA2042387,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.25
+SAMEA2042388,PRJEB1220,,,adult,20088.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.449
+SAMEA2042389,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,1.727
+SAMEA2042391,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.369
+SAMEA2042392,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,2.987
+SAMEA2042393,PRJEB1220,,,adult,20088.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.986
+SAMEA2042425,PRJEB1220,,,adult,20088.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.528
+SAMEA2042426,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.251
+SAMEA2042427,PRJEB1220,,,adult,18262.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.879
+SAMEA2042428,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,3.543
+SAMEA2042429,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,4.195
+SAMEA2042430,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,3.332
+SAMEA2042431,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,4.089
+SAMEA2042433,PRJEB1220,,,adult,19358.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,3.553
+SAMEA2042434,PRJEB1220,,,adult,20088.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,4.512
+SAMEA2042435,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.405
+SAMEA2042436,PRJEB1220,,,elderly,25202.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.421
+SAMEA2042437,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.484
+SAMEA2042438,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.829
+SAMEA2042488,PRJEB1220,,,adult,19358.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,14.0,4.623
+SAMEA2042489,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.776
+SAMEA2042490,PRJEB1220,,,adult,16071.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,14.0,4.918
+SAMEA2042491,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,4.805
+SAMEA2042492,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.947
+SAMEA2042493,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,4.119
+SAMEA2042495,PRJEB1220,,,adult,20088.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.341
+SAMEA2042496,PRJEB1220,,,adult,16436.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,4.078
+SAMEA2042497,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,3.406
+SAMEA2042498,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,12.0,3.895
+SAMEA2042499,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.55
+SAMEA2042500,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,3.407
+SAMEA2042501,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.558
+SAMEA2042502,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.698
+SAMEA2042503,PRJEB1220,,,adult,23741.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,4.046
+SAMEA2042553,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.613
+SAMEA2042554,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.52
+SAMEA2042555,PRJEB1220,,,adult,23741.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.764
+SAMEA2042556,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.439
+SAMEA2042557,PRJEB1220,,,adult,20088.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.248
+SAMEA2042558,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.76
+SAMEA2042559,PRJEB1220,,,adult,16071.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.262
+SAMEA2042560,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.734
+SAMEA2042561,PRJEB1220,,,adult,20088.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.443
+SAMEA2042562,PRJEB1220,,,adult,16436.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.586
+SAMEA2042563,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.468
+SAMEA2042564,PRJEB1220,,,elderly,25567.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.314
+SAMEA2042566,PRJEB1220,,,adult,23741.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.601
+SAMEA2042567,PRJEB1220,,,adult,19723.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.463
+SAMEA2042568,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.845
+SAMEA2042569,PRJEB1220,,,adult,14610.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.805
+SAMEA2042602,PRJEB1220,,,adult,17897.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.717
+SAMEA2042603,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.709
+SAMEA2042604,PRJEB1220,,,adult,23010.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.433
+SAMEA2042605,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.483
+SAMEA2042606,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.733
+SAMEA2042607,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,4.458
+SAMEA2042608,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.865
+SAMEA2042609,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,4.13
+SAMEA2042611,PRJEB1220,,,adult,19358.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,4.383
+SAMEA2042612,PRJEB1220,,,adult,18262.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.576
+SAMEA2042613,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.721
+SAMEA2042614,PRJEB1220,,,adult,18262.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.693
+SAMEA2042615,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.628
+SAMEA2042616,PRJEB1220,,,adult,23376.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.838
+SAMEA2042617,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.781
+SAMEA2042643,PRJEB1220,,,adult,14610.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.38
+SAMEA2042644,PRJEB1220,,,adult,23376.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.536
+SAMEA2042645,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.464
+SAMEA2042646,PRJEB1220,,,adult,16071.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.729
+SAMEA2042647,PRJEB1220,,,adult,21915.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,3.673
+SAMEA2042648,PRJEB1220,,,adult,16436.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.919
+SAMEA2042649,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,10.0,3.884
+SAMEA2042650,PRJEB1220,,,elderly,25567.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,6.0,3.357
+SAMEA2042651,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.499
+SAMEA2042653,PRJEB1220,,,adult,21549.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.598
+SAMEA2042654,PRJEB1220,,,adult,18262.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,4.0,4.138
+SAMEA2042655,PRJEB1220,,,adult,18262.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,4.644
+SAMEA2042656,PRJEB1220,,,adult,19723.5,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.036
+SAMEA2042657,PRJEB1220,,,adult,23741.25,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.109
+SAMEA2042658,PRJEB1220,,,adult,17897.25,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.976
+SAMEA2042729,PRJEB1220,,,adult,18262.5,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.944
+SAMEA2042730,PRJEB1220,,,adult,14244.75,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,3.163
+SAMEA2042731,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.995
+SAMEA2042732,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.129
+SAMEA2042733,PRJEB1220,,,adult,16071.0,male,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,3.661
+SAMEA2042734,PRJEB1220,,,adult,20088.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.672
+SAMEA2042736,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.985
+SAMEA2042737,PRJEB1220,,,adult,20088.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,5.188
+SAMEA2042738,PRJEB1220,,,adult,21549.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,8.0,4.579
+SAMEA2042739,PRJEB1220,,,adult,21915.0,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,4.949
+SAMEA2042740,PRJEB1220,,,adult,14244.75,female,DK,healthy_control,Healthy,,,no,2008/2010,primary,2.0,5.013

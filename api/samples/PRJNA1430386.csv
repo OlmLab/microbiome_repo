@@ -1,0 +1,164 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN56287171,PRJNA1430386,NEG1,,,,,CA,,,,,,2022-09-21,unknown,1.0,0.995
+SAMN56287172,PRJNA1430386,NEG2,,,,,CA,,,,,,2022-09-21,unknown,1.0,0.002
+SAMN56287173,PRJNA1430386,NEG3,,,,,CA,,,,,,2022-09-21,unknown,1.0,0.026
+SAMN56287174,PRJNA1430386,NEG4,,,,,CA,,,,,,2022-09-21,unknown,1.0,0.027
+SAMN56287175,PRJNA1430386,NEG5,,,,,CA,,,,,,2022-09-21,unknown,1.0,0.028
+SAMN61845440,PRJNA1430386,Neg1,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,primary,1.0,1.336
+SAMN61845441,PRJNA1430386,Neg1,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,excluded,1.0,0.382
+SAMN61845442,PRJNA1430386,Neg2,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,primary,1.0,8.832
+SAMN61845443,PRJNA1430386,Neg2,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,excluded,1.0,0.021
+SAMN61845444,PRJNA1430386,Neg3,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,primary,1.0,0.211
+SAMN61845445,PRJNA1430386,Neg3,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,excluded,1.0,0.064
+SAMN61845446,PRJNA1430386,Neg4,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,primary,1.0,0.113
+SAMN61845447,PRJNA1430386,Neg4,negative control,,,,CA,,,no_intervention,"control arm, no BCG therapy",,,excluded,1.0,0.2
+SAMN56287177,PRJNA1430386,Negative2,,,,,CA,,,,,,2022-09-21,unknown,1.0,1.617
+SAMN56287178,PRJNA1430386,Negative3,,,,,CA,,,,,,2022-09-21,unknown,1.0,0.752
+SAMN56287149,PRJNA1430386,RH002,After,,,,CA,,No,,,,,excluded,1.0,0.099
+SAMN61845448,PRJNA1430386,RH002,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,4.272
+SAMN56287150,PRJNA1430386,RH003,After,,,,CA,,,,,,,excluded,1.0,4.013
+SAMN61845449,PRJNA1430386,RH003,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,7.426
+SAMN56287151,PRJNA1430386,RH004,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,0.08
+SAMN61845450,PRJNA1430386,RH004,BCG,,,male,CA,crohns_disease,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,5.075
+SAMN56287121,PRJNA1430386,RH005,Before,,,,US,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.367
+SAMN61845451,PRJNA1430386,RH006,BCG,,,female,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,1.412
+SAMN61845452,PRJNA1430386,RH006,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,excluded,1.0,2.581
+SAMN56287152,PRJNA1430386,RH007,After,,,,CA,,No,,,,,excluded,1.0,3.126
+SAMN56287153,PRJNA1430386,RH008,After,,,,CA,,No,,,,,excluded,1.0,0.073
+SAMN56287122,PRJNA1430386,RH008,Before,,,,US,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.517
+SAMN61845453,PRJNA1430386,RH010,BCG,,,female,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.982
+SAMN61845454,PRJNA1430386,RH010,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,excluded,1.0,2.241
+SAMN56287154,PRJNA1430386,RH011,After,,,,CA,,No,,,,,excluded,1.0,2.898
+SAMN61845455,PRJNA1430386,RH011,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,7.719
+SAMN56287155,PRJNA1430386,RH012,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,0.618
+SAMN56287123,PRJNA1430386,RH012,Before,,,,US,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.081
+SAMN61845456,PRJNA1430386,RH016,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,5.392
+SAMN61845457,PRJNA1430386,RH016,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,excluded,1.0,3.186
+SAMN61845458,PRJNA1430386,RH017,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,excluded,1.0,3.603
+SAMN61845459,PRJNA1430386,RH018,BCG,,,male,CA,neurological_psychiatric,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,10.115
+SAMN61845460,PRJNA1430386,RH018,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,excluded,1.0,1.126
+SAMN56287156,PRJNA1430386,RH021,After,,,,CA,,No,,,,,excluded,1.0,4.825
+SAMN56287125,PRJNA1430386,RH021,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.325
+SAMN56287157,PRJNA1430386,RH022,After,,,,CA,,No,,,,,excluded,1.0,0.482
+SAMN56287158,PRJNA1430386,RH023,After,,,,CA,,No,,,,,excluded,1.0,0.557
+SAMN56287126,PRJNA1430386,RH023,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.351
+SAMN56287127,PRJNA1430386,RH024,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.545
+SAMN61845461,PRJNA1430386,RH025,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,7.0
+SAMN56287159,PRJNA1430386,RH025,,,,,CA,,,,,,,excluded,1.0,12.621
+SAMN56287160,PRJNA1430386,RH026,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,1.858
+SAMN56287130,PRJNA1430386,RH028,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.777
+SAMN56287131,PRJNA1430386,RH029,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.411
+SAMN56287132,PRJNA1430386,RH031,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.714
+SAMN56287180,PRJNA1430386,RV003,After,,,,CA,,No,,,,2020-08-10,excluded,1.0,5.952
+SAMN56287179,PRJNA1430386,RV003,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2020-05-13,excluded,1.0,4.604
+SAMN56287182,PRJNA1430386,RV005,After,,,,CA,other_disease,Yes,,,,2020-08-05,excluded,1.0,10.047
+SAMN56287181,PRJNA1430386,RV005,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,2020-05-26,excluded,1.0,4.41
+SAMN56287184,PRJNA1430386,RV006,After,,,,CA,,No,,,,,excluded,1.0,6.029
+SAMN56287183,PRJNA1430386,RV006,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2020-07-14,excluded,1.0,7.183
+SAMN56287185,PRJNA1430386,RV010,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2021-01-14,excluded,1.0,6.024
+SAMN56287188,PRJNA1430386,RV013,After,,,,CA,,No,,,,2021-04-29,excluded,1.0,6.588
+SAMN56287187,PRJNA1430386,RV013,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2021-02-25,excluded,1.0,6.917
+SAMN56287190,PRJNA1430386,RV021,After,,,,CA,,No,,,,2021-12-20,excluded,1.0,0.48
+SAMN56287189,PRJNA1430386,RV021,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2021-09-09,excluded,1.0,1.99
+SAMN56287192,PRJNA1430386,RV022,After,,,,CA,,No,,,,2022-02-15,excluded,1.0,9.578
+SAMN56287191,PRJNA1430386,RV022,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2021-10-13,excluded,1.0,9.359
+SAMN56287194,PRJNA1430386,RV023,After,,,,CA,other_disease,Yes,,,,2022-01-10,excluded,1.0,7.013
+SAMN56287193,PRJNA1430386,RV023,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,8.146
+SAMN56287196,PRJNA1430386,RV025,After,,,,CA,,No,,,,,excluded,1.0,4.174
+SAMN56287195,PRJNA1430386,RV025,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2021-11-17,excluded,1.0,8.136
+SAMN56287198,PRJNA1430386,RV026,After,,,,CA,other_disease,Yes,,,,2022-02-28,excluded,1.0,6.507
+SAMN56287197,PRJNA1430386,RV026,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,2021-11-18,excluded,1.0,8.843
+SAMN56287200,PRJNA1430386,RV027,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,6.476
+SAMN56287199,PRJNA1430386,RV027,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,2021-11-18,excluded,1.0,10.675
+SAMN56287202,PRJNA1430386,RV028,After,,,,CA,,No,,,,2022-02-10,excluded,1.0,6.792
+SAMN56287201,PRJNA1430386,RV028,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2021-11-18,excluded,1.0,7.25
+SAMN56287205,PRJNA1430386,RV030,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2020-12-02,excluded,1.0,6.974
+SAMN56287208,PRJNA1430386,RV031,After,,,,CA,other_disease,Yes,,,,2022-04-06,excluded,1.0,3.46
+SAMN56287207,PRJNA1430386,RV031,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,2022-12-08,excluded,1.0,7.999
+SAMN56287210,PRJNA1430386,RV032,After,,,,CA,,No,,,,2022-03-10,excluded,1.0,9.13
+SAMN56287209,PRJNA1430386,RV032,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,2022-01-05,excluded,1.0,6.605
+SAMN61845462,PRJNA1430386,RV033,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,primary,1.0,5.514
+SAMN61845463,PRJNA1430386,RV033,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,excluded,1.0,4.146
+SAMN56287161,PRJNA1430386,RV034,After,,,,CA,,No,,,,,excluded,1.0,1.586
+SAMN61845464,PRJNA1430386,RV034,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,primary,1.0,3.308
+SAMN56287162,PRJNA1430386,RV036,After,,,,CA,,No,,,,,excluded,1.0,1.52
+SAMN61845465,PRJNA1430386,RV036,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,primary,1.0,6.135
+SAMN61845466,PRJNA1430386,RV037,BCG1,,,male,CA,colorectal_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,6.444
+SAMN56287133,PRJNA1430386,RV037,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.266
+SAMN61845467,PRJNA1430386,RV037,Csto11,,,male,CA,colorectal_cancer,bladder cancer,,,,,primary,1.0,4.639
+SAMN61845468,PRJNA1430386,RV037,Csto11,,,male,CA,colorectal_cancer,bladder cancer,,,,,excluded,1.0,3.955
+SAMN56287134,PRJNA1430386,RV039,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.795
+SAMN61845470,PRJNA1430386,RV040,BCG,,,female,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.893
+SAMN61845469,PRJNA1430386,RV040,BCG1,,,female,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.486
+SAMN61845471,PRJNA1430386,RV040,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,primary,1.0,3.348
+SAMN61845472,PRJNA1430386,RV040,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,excluded,1.0,0.563
+SAMN61845474,PRJNA1430386,RV041,BCG,,,male,CA,crohns_disease,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.258
+SAMN61845473,PRJNA1430386,RV041,BCG1,,,male,CA,crohns_disease,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.772
+SAMN61845475,PRJNA1430386,RV041,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,primary,1.0,4.753
+SAMN61845476,PRJNA1430386,RV041,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,excluded,1.0,3.931
+SAMN61845478,PRJNA1430386,RV042,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,5.105
+SAMN61845477,PRJNA1430386,RV042,BCG1,,,male,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.551
+SAMN61845479,PRJNA1430386,RV042,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,primary,1.0,4.27
+SAMN61845480,PRJNA1430386,RV042,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,excluded,1.0,4.202
+SAMN56287163,PRJNA1430386,RV043,After,,,,CA,,No,,,,,excluded,1.0,3.413
+SAMN61845481,PRJNA1430386,RV043,BCG1,,,male,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.747
+SAMN56287135,PRJNA1430386,RV043,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.061
+SAMN61845482,PRJNA1430386,RV043,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,primary,1.0,6.698
+SAMN61845483,PRJNA1430386,RV044,BCG1,,,male,CA,crohns_disease,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,3.738
+SAMN56287136,PRJNA1430386,RV044,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.292
+SAMN61845484,PRJNA1430386,RV044,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,primary,1.0,5.203
+SAMN61845485,PRJNA1430386,RV044,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,excluded,1.0,3.908
+SAMN61845487,PRJNA1430386,RV045,BCG,,,female,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.639
+SAMN61845486,PRJNA1430386,RV045,BCG1,,,female,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,3.905
+SAMN61845488,PRJNA1430386,RV045,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,primary,1.0,3.389
+SAMN61845489,PRJNA1430386,RV045,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,excluded,1.0,3.316
+SAMN61845490,PRJNA1430386,RV046,BCG1,,,male,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.213
+SAMN56287137,PRJNA1430386,RV046,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.524
+SAMN61845491,PRJNA1430386,RV046,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,primary,1.0,4.346
+SAMN61845492,PRJNA1430386,RV046,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,excluded,1.0,3.232
+SAMN56287164,PRJNA1430386,RV049,,,,,CA,,,,,,,excluded,1.0,3.557
+SAMN56287165,PRJNA1430386,RV050,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,0.705
+SAMN61845493,PRJNA1430386,RV053,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.037
+SAMN61845494,PRJNA1430386,RV053,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,excluded,1.0,6.158
+SAMN56287139,PRJNA1430386,RV054,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.583
+SAMN56287166,PRJNA1430386,RV057,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,4.372
+SAMN61845495,PRJNA1430386,RV057,BCG1,,,male,CA,crohns_disease,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.457
+SAMN61845496,PRJNA1430386,RV057,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,primary,1.0,4.523
+SAMN61845497,PRJNA1430386,RV058,BCG1,,,male,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,3.608
+SAMN56287141,PRJNA1430386,RV058,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.084
+SAMN61845498,PRJNA1430386,RV058,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,primary,1.0,5.027
+SAMN56287167,PRJNA1430386,RV059,After,,,,CA,other_disease,Yes,,,,,excluded,1.0,0.272
+SAMN56287168,PRJNA1430386,RV061,After,,,,CA,,No,,,,,excluded,1.0,3.418
+SAMN56287142,PRJNA1430386,RV061,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.565
+SAMN61845499,PRJNA1430386,RV062,BCG1,,,male,CA,neurological_psychiatric,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.278
+SAMN56287143,PRJNA1430386,RV062,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.396
+SAMN61845500,PRJNA1430386,RV062,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,primary,1.0,4.75
+SAMN56287169,PRJNA1430386,RV065,After,,,,CA,,No,,,,,excluded,1.0,0.054
+SAMN61845501,PRJNA1430386,RV065,BCG,,,female,CA,neurological_psychiatric,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.184
+SAMN61845502,PRJNA1430386,RV067,BCG1,,,male,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.157
+SAMN61845503,PRJNA1430386,RV067,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,primary,1.0,5.027
+SAMN56287170,PRJNA1430386,RV067,,,,,CA,,,,,,,excluded,1.0,0.532
+SAMN61845504,PRJNA1430386,RV068,BCG1,,,male,CA,neurological_psychiatric,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,3.963
+SAMN56287144,PRJNA1430386,RV068,Before,,,,CA,,No,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,3.031
+SAMN61845505,PRJNA1430386,RV068,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,primary,1.0,3.843
+SAMN61845506,PRJNA1430386,RV068,Csto11,,,male,CA,neurological_psychiatric,bladder cancer,,,,,excluded,1.0,3.4
+SAMN56287145,PRJNA1430386,RV069,Before,,,,CA,other_disease,Yes,no_intervention,baseline sample before BCG therapy,,,excluded,1.0,5.503
+SAMN61845507,PRJNA1430386,RV070,BCG1,,,female,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.355
+SAMN61845508,PRJNA1430386,RV070,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,primary,1.0,9.111
+SAMN56287146,PRJNA1430386,RV070,,,,,CA,,,,,,,excluded,1.0,3.529
+SAMN61845509,PRJNA1430386,RV071,BCG1,,,male,CA,crohns_disease,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.605
+SAMN61845510,PRJNA1430386,RV071,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,primary,1.0,5.785
+SAMN61845511,PRJNA1430386,RV071,Csto11,,,male,CA,crohns_disease,bladder cancer,,,,,excluded,1.0,16.917
+SAMN56287147,PRJNA1430386,RV071,,,,,CA,,,,,,,excluded,1.0,3.462
+SAMN61845512,PRJNA1430386,RV072,BCG1,,,female,CA,other_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,4.575
+SAMN61845513,PRJNA1430386,RV072,Csto11,,,female,CA,other_cancer,bladder cancer,,,,,primary,1.0,5.906
+SAMN61845514,PRJNA1430386,RV073,Csto11,,,male,CA,colorectal_cancer,bladder cancer,,,,,excluded,1.0,4.127
+SAMN56287148,PRJNA1430386,RV073,,,,,CA,,,,,,,excluded,1.0,3.149
+SAMN61845516,PRJNA1430386,RV075,BCG,,,male,CA,colorectal_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,3.568
+SAMN61845515,PRJNA1430386,RV075,BCG1,,,male,CA,colorectal_cancer,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,3.425
+SAMN61845517,PRJNA1430386,RV075,Csto11,,,male,CA,colorectal_cancer,bladder cancer,,,,,excluded,1.0,4.054
+SAMN61845518,PRJNA1430386,RV076,BCG1,,,female,CA,crohns_disease,bladder cancer,drug_therapy,"BCG intravesical instillation, timepoint 1",,,primary,1.0,3.912
+SAMN61845519,PRJNA1430386,RV076,Csto11,,,female,CA,crohns_disease,bladder cancer,,,,,primary,1.0,4.163
+SAMN61845520,PRJNA1430386,RV076,Csto11,,,female,CA,crohns_disease,bladder cancer,,,,,excluded,1.0,3.886
+SAMN61845521,PRJNA1430386,RV077,BCG,,,male,CA,other_cancer,bladder cancer,drug_therapy,BCG intravesical instillation,,,excluded,1.0,5.738
+SAMN61845522,PRJNA1430386,RV077,Csto11,,,male,CA,other_cancer,bladder cancer,,,,,excluded,1.0,3.762

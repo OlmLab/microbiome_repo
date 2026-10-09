@@ -1,0 +1,88 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN18106010,PRJNA705895,Donor_A,,adult,,,US,healthy_control,Donor.A,,,,2012-01-17,primary,1.0,6.743
+SAMN18106013,PRJNA705895,Donor_B,,adult,,,US,healthy_control,Donor.B,,,,2012-06-14,primary,1.0,6.459
+SAMN18106016,PRJNA705895,Donor_C,,adult,,,US,healthy_control,Donor.C,,,,2013-01-28,primary,1.0,7.254
+SAMN18106021,PRJNA705895,Donor_D,,adult,,,US,healthy_control,Donor.D,,,,2013-12-10,primary,1.0,6.999
+SAMN18106024,PRJNA705895,Donor_E,,adult,,,US,healthy_control,Donor.E,,,,2015-08-20,primary,1.0,7.028
+SAMN18106027,PRJNA705895,Donor_F,,adult,,,US,healthy_control,Donor.F,,,,2015-10-27,primary,1.0,6.845
+SAMN18106030,PRJNA705895,Donor_G,,adult,,,US,healthy_control,Donor.G,,,,2016-07-07,primary,1.0,7.45
+SAMN18106033,PRJNA705895,Donor_H,,adult,,,US,healthy_control,Donor.H,,,,2016-08-09,primary,1.0,7.731
+SAMN18106036,PRJNA705895,Donor_I,,adult,,,US,healthy_control,Donor.I,,,,2016-09-13,primary,1.0,7.916
+SAMN18106039,PRJNA705895,Donor_J,,adult,,,US,healthy_control,Donor.J,,,,2017-02-14,primary,1.0,6.812
+SAMN18106045,PRJNA705895,Donor_K,month 0,adult,,,US,healthy_control,Donor.K.0.month,,,,2011-11-02,primary,1.0,10.547
+SAMN18106046,PRJNA705895,Donor_K,month 1,adult,,,US,healthy_control,Donor.K.1.month,,,,2011-12-09,primary,1.0,10.407
+SAMN18106047,PRJNA705895,Donor_K,month 2,adult,,,US,healthy_control,Donor.K.2.month,,,,2012-01-20,primary,1.0,11.466
+SAMN18106048,PRJNA705895,Donor_K,month 4,adult,,,US,healthy_control,Donor.K.4.month,,,,2012-03-23,primary,1.0,7.815
+SAMN18106052,PRJNA705895,Donor_L,,adult,,,US,healthy_control,Donor.L,,,,2012-05-17,primary,1.0,11.607
+SAMN18106056,PRJNA705895,Donor_M,,adult,,,US,healthy_control,Donor.M,,,,2012-05-24,primary,1.0,7.794
+SAMN18106059,PRJNA705895,Donor_N,,adult,,,US,healthy_control,Donor.N,,,,2012-09-06,primary,1.0,8.196
+SAMN18106065,PRJNA705895,Donor_O,month 0,adult,,,US,healthy_control,Donor.O.0.month,,,,2012-10-04,primary,1.0,10.46
+SAMN18106066,PRJNA705895,Donor_O,month 0.25,adult,,,US,healthy_control,Donor.O.0.25.month,,,,2012-10-11,primary,1.0,9.859
+SAMN18106067,PRJNA705895,Donor_O,month 0.5,adult,,,US,healthy_control,Donor.O.0.5.month,,,,2012-10-18,primary,1.0,10.09
+SAMN18106068,PRJNA705895,Donor_O,month 0.75,adult,,,US,healthy_control,Donor.O.0.75.month,,,,2012-10-25,primary,1.0,9.968
+SAMN18106069,PRJNA705895,Donor_O,month 1,adult,,,US,healthy_control,Donor.O.1.month,,,,2012-11-02,primary,1.0,10.691
+SAMN18106072,PRJNA705895,Donor_P,,adult,,,US,healthy_control,Donor.P,,,,2014-08-21,primary,1.0,7.096
+SAMN18106075,PRJNA705895,Donor_Q,,adult,,,US,healthy_control,Donor.Q,,,,2015-08-04,primary,1.0,18.198
+SAMN18106078,PRJNA705895,Donor_R,,adult,,,US,healthy_control,Donor R,,,,2016-09-08,primary,1.0,6.585
+SAMN18106079,PRJNA705895,Donor_R,,adult,,,US,healthy_control,Donor R,,,,2016-10-21,primary,1.0,10.699
+SAMN18106081,PRJNA705895,Donor_S,,adult,,,US,healthy_control,Donor.S,,,,2017-03-21,primary,1.0,8.761
+SAMN18106092,PRJNA705895,Donor_V,,adult,,,US,healthy_control,Donor.V,,,,2018-04-24,primary,1.0,8.217
+SAMN18106008,PRJNA705895,Patient_A,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.A,,,,2012-01-17,primary,1.0,7.128
+SAMN18106009,PRJNA705895,Patient_A,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.A.3.month,,,,2012-03-16,primary,1.0,6.089
+SAMN18106011,PRJNA705895,Patient_B,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.B,,,,2012-06-14,primary,1.0,7.057
+SAMN18106012,PRJNA705895,Patient_B,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.B.4.month,,,,2012-10-14,primary,1.0,7.39
+SAMN18106014,PRJNA705895,Patient_C,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.C,,,,2013-01-28,primary,1.0,6.817
+SAMN18106015,PRJNA705895,Patient_C,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.C.2.month,,,,2013-03-28,primary,1.0,6.362
+SAMN18106017,PRJNA705895,Patient_D,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.D,,,,2013-12-10,primary,1.0,6.951
+SAMN18106018,PRJNA705895,Patient_D,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.D.5.month,,,,2014-05-10,primary,1.0,5.698
+SAMN18106019,PRJNA705895,Patient_D,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.D.1.month,,,,2014-01-08,primary,1.0,7.06
+SAMN18106020,PRJNA705895,Patient_D,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.D.24.month,,,,2015-12-07,primary,1.0,7.387
+SAMN18106022,PRJNA705895,Patient_E,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.E,,,,2015-08-19,primary,1.0,6.955
+SAMN18106023,PRJNA705895,Patient_E,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.E.3.month,,,,2015-11-18,primary,1.0,7.803
+SAMN18106025,PRJNA705895,Patient_F,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.F,,,,2015-10-26,primary,1.0,6.901
+SAMN18106026,PRJNA705895,Patient_F,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.F.5.month,,,,2016-03-07,primary,1.0,8.133
+SAMN18106028,PRJNA705895,Patient_G,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.G,,,,2016-07-06,primary,1.0,7.424
+SAMN18106029,PRJNA705895,Patient_G,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.G.4.month,,,,2016-11-14,primary,1.0,6.513
+SAMN18106031,PRJNA705895,Patient_H,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.H,,,,2016-08-09,primary,1.0,8.768
+SAMN18106032,PRJNA705895,Patient_H,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.H.8.month,,,,2017-04-03,primary,1.0,8.26
+SAMN18106034,PRJNA705895,Patient_I,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.I,,,,2016-09-13,primary,1.0,8.063
+SAMN18106035,PRJNA705895,Patient_I,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.I.4.month,,,,2017-01-20,primary,1.0,7.735
+SAMN18106080,PRJNA705895,Patient_I,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.I.7.month,,,,2017-05-31,primary,1.0,10.268
+SAMN18106037,PRJNA705895,Patient_J,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.J,,,,2017-02-14,primary,1.0,7.219
+SAMN18106038,PRJNA705895,Patient_J,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.J.4.month,,,,2017-06-19,primary,1.0,8.032
+SAMN18106040,PRJNA705895,Patient_K,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.K,,,,2011-11-02,primary,1.0,8.406
+SAMN18106041,PRJNA705895,Patient_K,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.K.1.month,,,,2011-12-09,primary,1.0,8.621
+SAMN18106042,PRJNA705895,Patient_K,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.K.2.month,,,,2012-01-20,primary,1.0,9.149
+SAMN18106043,PRJNA705895,Patient_K,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.K.3.month,,,,2012-02-27,primary,1.0,10.173
+SAMN18106044,PRJNA705895,Patient_K,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.K.4.month,,,,2012-03-23,primary,1.0,12.471
+SAMN18106049,PRJNA705895,Patient_L,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.L,,,,2012-05-17,primary,1.0,9.093
+SAMN18106050,PRJNA705895,Patient_L,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.L.1.month,,,,2012-06-17,primary,1.0,8.92
+SAMN18106051,PRJNA705895,Patient_L,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.L.5.month,,,,2012-10-17,primary,1.0,6.702
+SAMN18106053,PRJNA705895,Patient_M,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.M,,,,2012-05-24,primary,1.0,9.957
+SAMN18106054,PRJNA705895,Patient_M,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.M.1.month,,,,2012-07-08,primary,1.0,8.957
+SAMN18106055,PRJNA705895,Patient_M,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.M.2.month,,,,2012-08-07,primary,1.0,8.091
+SAMN18106057,PRJNA705895,Patient_N,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.N,,,,2012-09-06,primary,1.0,9.008
+SAMN18106058,PRJNA705895,Patient_N,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.N.0.25.month,,,,2012-09-13,primary,1.0,7.904
+SAMN18106060,PRJNA705895,Patient_O,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.O,,,,2012-10-04,primary,1.0,9.829
+SAMN18106061,PRJNA705895,Patient_O,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.O.0.25.month,,,,2012-10-11,primary,1.0,8.653
+SAMN18106062,PRJNA705895,Patient_O,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.O.0.5.month,,,,2012-10-18,primary,1.0,6.68
+SAMN18106063,PRJNA705895,Patient_O,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.O.0.75.month,,,,2012-10-25,primary,1.0,9.185
+SAMN18106064,PRJNA705895,Patient_O,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.O.1.month,,,,2012-11-02,primary,1.0,9.053
+SAMN18106070,PRJNA705895,Patient_P,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.P,,,,2014-08-21,primary,1.0,10.297
+SAMN18106071,PRJNA705895,Patient_P,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.P.1.month,,,,2014-09-21,primary,1.0,11.745
+SAMN18106073,PRJNA705895,Patient_Q,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.Q,,,,2015-08-03,primary,1.0,9.691
+SAMN18106074,PRJNA705895,Patient_Q,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.Q.9.month,,,,2016-05-23,primary,1.0,10.589
+SAMN18106076,PRJNA705895,Patient_R,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.R,,,,2016-09-08,primary,1.0,8.296
+SAMN18106077,PRJNA705895,Patient_R,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.R.1.month,,,,2016-10-21,primary,1.0,10.527
+SAMN18106082,PRJNA705895,Patient_S,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.S,,,,2017-06-27,primary,1.0,8.165
+SAMN18106083,PRJNA705895,Patient_S,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.S.1.month,,,,2017-07-26,primary,1.0,7.284
+SAMN18106084,PRJNA705895,Patient_S,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.S.3.month,,,,2017-10-04,primary,1.0,9.945
+SAMN18106085,PRJNA705895,Patient_S,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.S.6.month,,,,2018-01-10,primary,1.0,7.048
+SAMN18106086,PRJNA705895,Patient_S,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.S.12.month,,,,2019-08-14,primary,1.0,7.89
+SAMN18106088,PRJNA705895,Patient_T,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.T,,,,2018-03-15,primary,1.0,10.331
+SAMN18106089,PRJNA705895,Patient_T,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.T.3.month,,,,2018-06-18,primary,1.0,10.803
+SAMN18106090,PRJNA705895,Patient_U,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.U,,,,2018-05-10,primary,1.0,10.469
+SAMN18106091,PRJNA705895,Patient_U,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.U.1.month,,,,2018-06-07,primary,1.0,7.476
+SAMN18106093,PRJNA705895,Patient_V,pre-FMT,adult,,,US,gi_infection_or_diarrhoea,PreFMT.V,,,,2018-06-28,primary,1.0,8.042
+SAMN18106094,PRJNA705895,Patient_V,,adult,,,US,gi_infection_or_diarrhoea,PostFMT.V.1.month,,,,2018-08-02,primary,1.0,7.55
+SAMN18106087,PRJNA705895,,,adult,,,US,,mixed_case_control: RCDI patients vs healthy donors,,,,2018-02-27,primary,1.0,9.915

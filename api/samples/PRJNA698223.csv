@@ -1,0 +1,994 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN17772726,PRJNA698223,TD0002,12 - 21,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-03,primary,1.0,3.537
+SAMN17772727,PRJNA698223,TD0002,21 - 26,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-12,primary,1.0,2.74
+SAMN17772728,PRJNA698223,TD0002,26 - 34,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-17,primary,1.0,2.43
+SAMN17772729,PRJNA698223,TD0002,34 - 41,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-25,primary,1.0,3.587
+SAMN17772725,PRJNA698223,TD0002,4 - 12,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-06-25,primary,1.0,2.629
+SAMN17772730,PRJNA698223,TD0002,41 - 46,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-01,primary,1.0,1.506
+SAMN17772731,PRJNA698223,TD0002,46 - 55,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-06,primary,1.0,2.016
+SAMN17772732,PRJNA698223,TD0002,55 - 60,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-15,primary,1.0,3.625
+SAMN17772733,PRJNA698223,TD0002,,adult,8035.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-08-20,primary,1.0,5.615
+SAMN17772735,PRJNA698223,TD0004,13 - 19,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-11,primary,1.0,1.592
+SAMN17772736,PRJNA698223,TD0004,19 - 27,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-17,primary,1.0,1.115
+SAMN17772737,PRJNA698223,TD0004,27 - 33,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-25,primary,1.0,1.479
+SAMN17772738,PRJNA698223,TD0004,33 - 40,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-31,primary,1.0,1.702
+SAMN17772739,PRJNA698223,TD0004,40 - 48,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-07,primary,1.0,1.655
+SAMN17772740,PRJNA698223,TD0004,48 - 56,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-15,primary,1.0,1.647
+SAMN17772734,PRJNA698223,TD0004,5 - 13,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-03,primary,1.0,1.345
+SAMN17772742,PRJNA698223,TD0004,71 - 76,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-07,primary,1.0,1.489
+SAMN17772743,PRJNA698223,TD0004,>=11,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-12,primary,1.0,1.221
+SAMN17772744,PRJNA698223,TD0004,>=11,adult,9131.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-09-13,primary,1.0,1.783
+SAMN17772741,PRJNA698223,TD0004,,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-23,primary,1.0,1.726
+SAMN17772745,PRJNA698223,TD0004,,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-27,primary,1.0,1.397
+SAMN17772747,PRJNA698223,TD0005,13 - 19,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-07-11,primary,1.0,1.098
+SAMN17772748,PRJNA698223,TD0005,19 - 28,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-07-17,primary,1.0,1.582
+SAMN17772749,PRJNA698223,TD0005,28 - 34,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-07-26,primary,1.0,1.177
+SAMN17772750,PRJNA698223,TD0005,34 - 41,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-08-01,primary,1.0,0.998
+SAMN17772752,PRJNA698223,TD0005,54 - 57,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-08-21,primary,1.0,1.173
+SAMN17772753,PRJNA698223,TD0005,57 - 70,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-08-24,primary,1.0,0.868
+SAMN17772746,PRJNA698223,TD0005,6 - 13,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-07-04,primary,1.0,1.126
+SAMN17772755,PRJNA698223,TD0005,85 - 90,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-09-21,primary,1.0,2.011
+SAMN17772751,PRJNA698223,TD0005,,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-08-08,primary,1.0,1.793
+SAMN17772754,PRJNA698223,TD0005,,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-09-06,primary,1.0,1.905
+SAMN17772756,PRJNA698223,TD0005,,adult,8766.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-09-26,primary,1.0,1.874
+SAMN17772768,PRJNA698223,TD0006,104 - 109,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2012-10-10,primary,1.0,1.83
+SAMN17772769,PRJNA698223,TD0006,109 - 118,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2012-10-15,primary,1.0,1.544
+SAMN17772770,PRJNA698223,TD0006,118 - 125,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2012-10-24,primary,1.0,1.725
+SAMN17772772,PRJNA698223,TD0006,134 - 141,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2012-11-09,primary,1.0,1.64
+SAMN17772757,PRJNA698223,TD0006,14 - 18,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-12,primary,1.0,1.135
+SAMN17772773,PRJNA698223,TD0006,141 - 146,adult,7670.2,female,PE,healthy_control,A,,,,2012-11-16,primary,1.0,1.886
+SAMN17772775,PRJNA698223,TD0006,155 - 161,adult,7670.2,female,PE,healthy_control,A,,,,2012-11-30,primary,1.0,1.023
+SAMN17772777,PRJNA698223,TD0006,166 - 173,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,,2012-12-11,primary,1.0,1.608
+SAMN17772758,PRJNA698223,TD0006,18 - 28,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-16,primary,1.0,1.997
+SAMN17772759,PRJNA698223,TD0006,28 - 35,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-07-26,primary,1.0,2.616
+SAMN17772761,PRJNA698223,TD0006,43 - 48,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-10,primary,1.0,1.692
+SAMN17772763,PRJNA698223,TD0006,57 - 62,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-24,primary,1.0,0.915
+SAMN17772765,PRJNA698223,TD0006,75 - 81,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-11,primary,1.0,1.685
+SAMN17772766,PRJNA698223,TD0006,81 - 89,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-17,primary,1.0,1.558
+SAMN17772760,PRJNA698223,TD0006,,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-08-02,primary,1.0,1.695
+SAMN17772762,PRJNA698223,TD0006,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-15,primary,1.0,1.345
+SAMN17772764,PRJNA698223,TD0006,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-29,primary,1.0,1.1
+SAMN17772767,PRJNA698223,TD0006,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-25,primary,1.0,1.062
+SAMN17772771,PRJNA698223,TD0006,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2012-10-31,primary,1.0,1.5
+SAMN17772774,PRJNA698223,TD0006,,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-11-21,primary,1.0,1.186
+SAMN17772776,PRJNA698223,TD0006,,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-12-06,primary,1.0,1.759
+SAMN17772778,PRJNA698223,TD0006,,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-12-18,primary,1.0,1.804
+SAMN17772779,PRJNA698223,TD0009,3 - 9,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-17,primary,1.0,1.73
+SAMN17772780,PRJNA698223,TD0009,9 - 16,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-23,primary,1.0,3.032
+SAMN17772781,PRJNA698223,TD0009,,adult,8035.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-07-30,primary,1.0,0.927
+SAMN17772783,PRJNA698223,TD0014,14 - 15,adult,9496.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-03,primary,1.0,1.753
+SAMN17772784,PRJNA698223,TD0014,15 - 17,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-08-04,primary,1.0,1.814
+SAMN17772782,PRJNA698223,TD0014,3 - 14,adult,9496.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-07-23,primary,1.0,0.887
+SAMN17772785,PRJNA698223,TD0014,,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-08-06,primary,1.0,0.882
+SAMN17772788,PRJNA698223,TD0020,16 - 21,adult,10234.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-15,primary,1.0,1.069
+SAMN17772786,PRJNA698223,TD0020,2 - 7,adult,10234.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-01,primary,1.0,1.541
+SAMN17772787,PRJNA698223,TD0020,,adult,10234.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-06,primary,1.0,1.093
+SAMN17772789,PRJNA698223,TD0020,,adult,10234.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-20,primary,1.0,1.28
+SAMN17772791,PRJNA698223,TD0024,18 - 21,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-08-21,primary,1.0,0.892
+SAMN17772790,PRJNA698223,TD0024,,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-08,primary,1.0,1.596
+SAMN17772792,PRJNA698223,TD0024,,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-08-24,primary,1.0,1.03
+SAMN17772794,PRJNA698223,TD0025,16 - 25,adult,8766.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-16,primary,1.0,1.066
+SAMN17772793,PRJNA698223,TD0025,9 - 16,adult,8766.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-08-09,primary,1.0,1.421
+SAMN17772795,PRJNA698223,TD0025,,adult,8766.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-25,primary,1.0,1.571
+SAMN17772797,PRJNA698223,TD0027,15 - 22,adult,21549.8,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-17,primary,1.0,1.3
+SAMN17772798,PRJNA698223,TD0027,22 - 23,adult,21549.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-08-24,primary,1.0,1.656
+SAMN17772799,PRJNA698223,TD0027,4,adult,21549.8,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-25,primary,1.0,1.627
+SAMN17772796,PRJNA698223,TD0027,,adult,21549.8,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-09,primary,1.0,1.588
+SAMN17772800,PRJNA698223,TD0029,43 - 50,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-16,primary,1.0,1.028
+SAMN17772801,PRJNA698223,TD0029,50 - 58,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-23,primary,1.0,0.911
+SAMN17772802,PRJNA698223,TD0029,58 - 61,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-31,primary,1.0,1.85
+SAMN17772803,PRJNA698223,TD0029,,adult,7670.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-09-03,primary,1.0,1.15
+SAMN17772804,PRJNA698223,TD0030,10 - 19,adult,11688.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08-28,primary,1.0,1.739
+SAMN17772805,PRJNA698223,TD0030,19 - 26,adult,11688.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-09-06,primary,1.0,1.507
+SAMN17772806,PRJNA698223,TD0030,,adult,11688.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-13,primary,1.0,1.606
+SAMN17772808,PRJNA698223,TD0032,2022-07-08 00:00:00,adult,8766.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-28,primary,1.0,2.04
+SAMN17772807,PRJNA698223,TD0032,43 - 48,adult,8766.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-08-23,primary,1.0,1.613
+SAMN17772809,PRJNA698223,TD0035,12 - 18,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-08-28,primary,1.0,1.016
+SAMN17772810,PRJNA698223,TD0035,18 - 26,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-09-03,primary,1.0,1.884
+SAMN17772812,PRJNA698223,TD0035,41 - 46,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-09-26,primary,1.0,3.629
+SAMN17772814,PRJNA698223,TD0035,61 - 68,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-10-16,primary,1.0,1.481
+SAMN17772815,PRJNA698223,TD0035,68 - 75,adult,11312.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-10-23,primary,1.0,2.838
+SAMN17772816,PRJNA698223,TD0035,75 - 81,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-10-30,primary,1.0,1.627
+SAMN17772817,PRJNA698223,TD0035,81 - 89,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-11-05,primary,1.0,1.845
+SAMN17772818,PRJNA698223,TD0035,89 - 95,adult,11312.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-11-13,primary,1.0,1.712
+SAMN17772811,PRJNA698223,TD0035,,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-09-11,primary,1.0,1.457
+SAMN17772813,PRJNA698223,TD0035,,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-10-01,primary,1.0,1.603
+SAMN17772819,PRJNA698223,TD0035,,adult,11312.8,male,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2012-11-19,primary,1.0,2.539
+SAMN17772825,PRJNA698223,TD0037,2022-07-08 00:00:00,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-26,primary,1.0,1.248
+SAMN17772821,PRJNA698223,TD0037,26 - 33,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-28,primary,1.0,1.263
+SAMN17772822,PRJNA698223,TD0037,33 - 39,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-05,primary,1.0,1.415
+SAMN17772823,PRJNA698223,TD0037,39 - 40,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-11,primary,1.0,1.436
+SAMN17772824,PRJNA698223,TD0037,6,adult,6574.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-10-12,primary,1.0,1.425
+SAMN17772820,PRJNA698223,TD0037,,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-10,primary,1.0,1.423
+SAMN17772827,PRJNA698223,TD0038,10 - 18,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-10,primary,1.0,0.97
+SAMN17772828,PRJNA698223,TD0038,18 - 26,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-18,primary,1.0,0.991
+SAMN17772829,PRJNA698223,TD0038,26 - 34,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-26,primary,1.0,1.455
+SAMN17772830,PRJNA698223,TD0038,34 - 42,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-04,primary,1.0,1.135
+SAMN17772831,PRJNA698223,TD0038,42 - 46,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-12,primary,1.0,1.32
+SAMN17772832,PRJNA698223,TD0038,46 - 52,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-16,primary,1.0,0.996
+SAMN17772833,PRJNA698223,TD0038,52 - 61,adult,6574.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-10-22,primary,1.0,1.361
+SAMN17772834,PRJNA698223,TD0038,61 - 68,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-31,primary,1.0,0.94
+SAMN17772826,PRJNA698223,TD0038,7 - 10,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-09-07,primary,1.0,1.603
+SAMN17772835,PRJNA698223,TD0038,,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-11-07,primary,1.0,1.01
+SAMN17772836,PRJNA698223,TD0041,10 - 12,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-12,primary,1.0,1.83
+SAMN17772838,PRJNA698223,TD0041,18 - 25,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-20,primary,1.0,1.202
+SAMN17772839,PRJNA698223,TD0041,25 - 33,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-27,primary,1.0,1.901
+SAMN17772840,PRJNA698223,TD0041,33 - 39,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-05,primary,1.0,3.008
+SAMN17772841,PRJNA698223,TD0041,39 - 45,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-11,primary,1.0,1.795
+SAMN17772842,PRJNA698223,TD0041,45 - 52,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-17,primary,1.0,1.376
+SAMN17772844,PRJNA698223,TD0041,64 - 65,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-05,primary,1.0,2.077
+SAMN17772837,PRJNA698223,TD0041,,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-14,primary,1.0,1.353
+SAMN17772843,PRJNA698223,TD0041,,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-24,primary,1.0,1.612
+SAMN17772845,PRJNA698223,TD0041,,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-06,primary,1.0,1.481
+SAMN17772846,PRJNA698223,TD0041,,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-16,primary,1.0,1.719
+SAMN17772847,PRJNA698223,TD0042,44 - 54,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-17,primary,1.0,0.927
+SAMN17772849,PRJNA698223,TD0042,72 - 83,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-15,primary,1.0,2.342
+SAMN17772848,PRJNA698223,TD0042,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-27,primary,1.0,2.214
+SAMN17772850,PRJNA698223,TD0042,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-26,primary,1.0,1.846
+SAMN17772851,PRJNA698223,TD0042,,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-11-05,primary,1.0,0.998
+SAMN17772852,PRJNA698223,TD0042,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2012-11-23,primary,1.0,1.125
+SAMN17772853,PRJNA698223,TD0043,11 - 18,adult,20088.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-09-18,primary,1.0,1.171
+SAMN17772854,PRJNA698223,TD0043,,adult,20088.8,male,PE,other_disease,gastroesophageal reflux disease,,,yes,2012-09-25,primary,1.0,1.038
+SAMN17772855,PRJNA698223,TD0044,11 - 13,adult,13149.0,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2012-09-18,primary,1.0,1.497
+SAMN17772856,PRJNA698223,TD0044,2,adult,13149.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-09-20,primary,1.0,1.519
+SAMN17772857,PRJNA698223,TD0044,,adult,13149.0,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2012-09-28,primary,1.0,1.41
+SAMN17772858,PRJNA698223,TD0045,,adult,22980.8,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-09-20,primary,1.0,1.63
+SAMN17772859,PRJNA698223,TD0045,,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,no,2012-10-02,primary,1.0,1.452
+SAMN17772862,PRJNA698223,TD0046,19 - 26,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-03,primary,1.0,3.184
+SAMN17772863,PRJNA698223,TD0046,26 - 31,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-10-10,primary,1.0,3.813
+SAMN17772864,PRJNA698223,TD0046,31 - 41,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-15,primary,1.0,2.023
+SAMN17772865,PRJNA698223,TD0046,41 - 43,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-25,primary,1.0,3.37
+SAMN17772866,PRJNA698223,TD0046,43 - 46,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-10-27,primary,1.0,1.14
+SAMN17772860,PRJNA698223,TD0046,8 - 14,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-22,primary,1.0,3.884
+SAMN17772861,PRJNA698223,TD0046,,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-28,primary,1.0,4.794
+SAMN17772867,PRJNA698223,TD0046,,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-30,primary,1.0,3.032
+SAMN17772868,PRJNA698223,TD0047,11 - 19,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-09-27,primary,1.0,1.188
+SAMN17772869,PRJNA698223,TD0047,19 - 26,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-05,primary,1.0,1.206
+SAMN17772873,PRJNA698223,TD0047,81 - 85,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-06,primary,1.0,3.397
+SAMN17772870,PRJNA698223,TD0047,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-12,primary,1.0,1.355
+SAMN17772871,PRJNA698223,TD0047,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-26,primary,1.0,1.151
+SAMN17772872,PRJNA698223,TD0047,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-13,primary,1.0,1.667
+SAMN17772874,PRJNA698223,TD0047,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-10,primary,1.0,1.467
+SAMN17772875,PRJNA698223,TD0048,,adult,10234.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-09-26,primary,1.0,1.03
+SAMN17772876,PRJNA698223,TD0048,,adult,10234.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-10-11,primary,1.0,1.728
+SAMN17772877,PRJNA698223,TD0050,11 - 18,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-17,primary,1.0,1.155
+SAMN17772879,PRJNA698223,TD0050,32 - 41,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-07,primary,1.0,1.061
+SAMN17772880,PRJNA698223,TD0050,41 - 47,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-16,primary,1.0,1.268
+SAMN17772881,PRJNA698223,TD0050,47 - 52,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-22,primary,1.0,1.817
+SAMN17772878,PRJNA698223,TD0050,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-24,primary,1.0,1.927
+SAMN17772882,PRJNA698223,TD0050,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-27,primary,1.0,2.319
+SAMN17772893,PRJNA698223,TD0052,120 - 126,adult,7670.2,male,PE,healthy_control,Non-diarrhea,,,no,2013-01-31,primary,1.0,1.442
+SAMN17772884,PRJNA698223,TD0052,16 - 21,adult,7670.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-10-19,primary,1.0,1.557
+SAMN17772886,PRJNA698223,TD0052,44 - 54,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-16,primary,1.0,5.139
+SAMN17772887,PRJNA698223,TD0052,54 - 62,adult,7670.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-11-26,primary,1.0,1.566
+SAMN17772889,PRJNA698223,TD0052,72 - 77,adult,7670.2,male,PE,healthy_control,Non-diarrhea,,,no,2012-12-14,primary,1.0,1.207
+SAMN17772883,PRJNA698223,TD0052,,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-10,primary,1.0,1.794
+SAMN17772885,PRJNA698223,TD0052,,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-24,primary,1.0,1.151
+SAMN17772888,PRJNA698223,TD0052,,adult,7670.2,male,PE,healthy_control,Non-diarrhea,,,no,2012-12-04,primary,1.0,1.157
+SAMN17772890,PRJNA698223,TD0052,,adult,7670.2,male,PE,healthy_control,Non-diarrhea,,,no,2012-12-19,primary,1.0,0.958
+SAMN17772891,PRJNA698223,TD0052,,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-09,primary,1.0,1.268
+SAMN17772892,PRJNA698223,TD0052,,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-21,primary,1.0,1.227
+SAMN17772894,PRJNA698223,TD0052,,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-06,primary,1.0,1.884
+SAMN17772897,PRJNA698223,TD0057,16 - 23,adult,8035.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-22,primary,1.0,1.685
+SAMN17772898,PRJNA698223,TD0057,23 - 31,adult,8035.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-29,primary,1.0,1.505
+SAMN17772895,PRJNA698223,TD0057,5 - 9,adult,8035.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-11,primary,1.0,1.462
+SAMN17772896,PRJNA698223,TD0057,9 - 16,adult,8035.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-15,primary,1.0,1.82
+SAMN17772899,PRJNA698223,TD0057,,adult,8035.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-06,primary,1.0,1.613
+SAMN17772900,PRJNA698223,TD0058,10 - 18,adult,10601.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-10-15,primary,1.0,0.885
+SAMN17772901,PRJNA698223,TD0058,,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-23,primary,1.0,0.997
+SAMN17772902,PRJNA698223,TD0059,8 - 12,adult,22980.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-10-17,primary,1.0,1.633
+SAMN17772903,PRJNA698223,TD0059,,adult,22980.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-10-21,primary,1.0,1.561
+SAMN17772904,PRJNA698223,TD0061,19 - 26,adult,11688.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-10-23,primary,1.0,1.367
+SAMN17772905,PRJNA698223,TD0061,,adult,11688.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-10-30,primary,1.0,1.507
+SAMN17772906,PRJNA698223,TD0066,18 - 24,adult,6939.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-11-23,primary,1.0,1.869
+SAMN17772907,PRJNA698223,TD0066,24 - 32,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-11-29,primary,1.0,1.084
+SAMN17772908,PRJNA698223,TD0066,32 - 38,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-07,primary,1.0,1.724
+SAMN17772909,PRJNA698223,TD0066,,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-13,primary,1.0,1.73
+SAMN17772910,PRJNA698223,TD0069,5 - 7,adult,21549.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2012-11-28,primary,1.0,1.399
+SAMN17772911,PRJNA698223,TD0069,,adult,21549.8,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2012-11-30,primary,1.0,1.592
+SAMN17772912,PRJNA698223,TD0069,,adult,21549.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2012-12-05,primary,1.0,1.432
+SAMN17772915,PRJNA698223,TD0072,24 - 28,adult,17532.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-12-31,primary,1.0,2.378
+SAMN17772916,PRJNA698223,TD0072,4,adult,17532.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-04,primary,1.0,1.775
+SAMN17772913,PRJNA698223,TD0072,4 - 11,adult,17532.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-11,primary,1.0,2.286
+SAMN17772914,PRJNA698223,TD0072,,adult,17532.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-18,primary,1.0,3.191
+SAMN17772917,PRJNA698223,TD0074,12 - 16,elderly,23741.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-10,primary,1.0,1.372
+SAMN17772918,PRJNA698223,TD0074,16 - 18,elderly,23741.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-14,primary,1.0,2.068
+SAMN17772919,PRJNA698223,TD0074,3,elderly,23741.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2012-12-16,primary,1.0,1.539
+SAMN17772920,PRJNA698223,TD0074,,elderly,23741.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2012-12-19,primary,1.0,1.466
+SAMN17772922,PRJNA698223,TD0077,10 - 18,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-15,primary,1.0,2.088
+SAMN17772924,PRJNA698223,TD0077,32 - 41,adult,8391.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-02-06,primary,1.0,1.715
+SAMN17772921,PRJNA698223,TD0077,4 - 10,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-09,primary,1.0,2.033
+SAMN17772923,PRJNA698223,TD0077,,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-23,primary,1.0,1.723
+SAMN17772925,PRJNA698223,TD0077,,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-15,primary,1.0,1.865
+SAMN17772929,PRJNA698223,TD0078,18 - 23,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-24,primary,1.0,1.774
+SAMN17772930,PRJNA698223,TD0078,23 - 29,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-29,primary,1.0,1.938
+SAMN17772931,PRJNA698223,TD0078,29 - 39,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-02-04,primary,1.0,1.799
+SAMN17772926,PRJNA698223,TD0078,3 - 9,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-09,primary,1.0,1.54
+SAMN17772927,PRJNA698223,TD0078,9 - 11,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-01-15,primary,1.0,1.46
+SAMN17772928,PRJNA698223,TD0078,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-17,primary,1.0,1.413
+SAMN17772932,PRJNA698223,TD0078,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-02-14,primary,1.0,1.892
+SAMN17772934,PRJNA698223,TD0079,10 - 12,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-01-15,primary,1.0,1.793
+SAMN17772933,PRJNA698223,TD0079,4 - 10,adult,7305.0,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-01-09,primary,1.0,1.666
+SAMN17772935,PRJNA698223,TD0079,,adult,7305.0,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-01-17,primary,1.0,1.809
+SAMN17772936,PRJNA698223,TD0081,4 - 6,adult,22627.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-07,primary,1.0,1.604
+SAMN17772937,PRJNA698223,TD0081,,adult,22627.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-01-09,primary,1.0,0.9
+SAMN17772939,PRJNA698223,TD0082,29 - 37,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-23,primary,1.0,3.116
+SAMN17772938,PRJNA698223,TD0082,,adult,9131.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-01-07,primary,1.0,1.015
+SAMN17772940,PRJNA698223,TD0082,,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-31,primary,1.0,2.133
+SAMN17772943,PRJNA698223,TD0083,12 - 19,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-15,primary,1.0,1.417
+SAMN17772944,PRJNA698223,TD0083,19 - 26,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-22,primary,1.0,2.137
+SAMN17772945,PRJNA698223,TD0083,26 - 32,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-29,primary,1.0,1.743
+SAMN17772946,PRJNA698223,TD0083,32 - 35,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-02-04,primary,1.0,1.207
+SAMN17772941,PRJNA698223,TD0083,6 - 7,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-01-09,primary,1.0,1.678
+SAMN17772942,PRJNA698223,TD0083,,adult,12417.9,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-01-10,primary,1.0,1.222
+SAMN17772947,PRJNA698223,TD0083,,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-02-07,primary,1.0,1.289
+SAMN17772949,PRJNA698223,TD0084,15 - 25,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-21,primary,1.0,2.131
+SAMN17772950,PRJNA698223,TD0084,25 - 31,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-31,primary,1.0,1.989
+SAMN17772951,PRJNA698223,TD0084,31 - 37,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-06,primary,1.0,1.841
+SAMN17772952,PRJNA698223,TD0084,37 - 43,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-12,primary,1.0,2.329
+SAMN17772953,PRJNA698223,TD0084,43 - 50,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-18,primary,1.0,2.842
+SAMN17772948,PRJNA698223,TD0084,9 - 15,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-15,primary,1.0,1.624
+SAMN17772954,PRJNA698223,TD0084,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-25,primary,1.0,2.732
+SAMN17772956,PRJNA698223,TD0085,16 - 24,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-30,primary,1.0,1.304
+SAMN17772957,PRJNA698223,TD0085,24 - 32,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-07,primary,1.0,1.874
+SAMN17772955,PRJNA698223,TD0085,8 - 16,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-01-22,primary,1.0,1.661
+SAMN17772958,PRJNA698223,TD0085,,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-15,primary,1.0,1.343
+SAMN17772959,PRJNA698223,TD0085,,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-27,primary,1.0,1.566
+SAMN17772962,PRJNA698223,TD0086,29 - 33,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-02-25,primary,1.0,1.782
+SAMN17772964,PRJNA698223,TD0086,40 - 46,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-03-08,primary,1.0,1.84
+SAMN17772965,PRJNA698223,TD0086,46 - 53,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-03-14,primary,1.0,1.084
+SAMN17772960,PRJNA698223,TD0086,5 - 12,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-02-01,primary,1.0,1.635
+SAMN17772961,PRJNA698223,TD0086,,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-02-08,primary,1.0,1.697
+SAMN17772963,PRJNA698223,TD0086,,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-03-01,primary,1.0,1.349
+SAMN17772966,PRJNA698223,TD0086,,adult,8035.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-03-21,primary,1.0,1.362
+SAMN17772967,PRJNA698223,TD0089,,adult,8766.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-02-11,primary,1.0,1.343
+SAMN17772968,PRJNA698223,TD0089,,adult,8766.0,male,PE,other_disease,gastroesophageal reflux disease,,,no,2013-02-25,primary,1.0,1.448
+SAMN17772969,PRJNA698223,TD0089,,adult,8766.0,male,PE,other_disease,gastroesophageal reflux disease,,,no,2013-03-07,primary,1.0,1.54
+SAMN17772970,PRJNA698223,TD0091,21 - 25,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-02-25,primary,1.0,1.165
+SAMN17772971,PRJNA698223,TD0091,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-03-01,primary,1.0,1.425
+SAMN17772972,PRJNA698223,TD0096,54 - 59,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-03-06,primary,1.0,2.081
+SAMN17772973,PRJNA698223,TD0096,59 - 60,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-03-11,primary,1.0,1.666
+SAMN17772974,PRJNA698223,TD0096,,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,,2013-03-12,primary,1.0,1.429
+SAMN17772975,PRJNA698223,TD0096,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2013-03-27,primary,1.0,1.906
+SAMN17772976,PRJNA698223,TD0096,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2013-04-06,primary,1.0,1.004
+SAMN17772978,PRJNA698223,TD0097,16 - 21,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-03-19,primary,1.0,1.109
+SAMN17772977,PRJNA698223,TD0097,,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-03-07,primary,1.0,1.357
+SAMN17772979,PRJNA698223,TD0097,,adult,8035.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-03-24,primary,1.0,1.265
+SAMN17772980,PRJNA698223,TD0097,,adult,8035.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-03-27,primary,1.0,1.594
+SAMN17772982,PRJNA698223,TD0098,16 - 24,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-03-18,primary,1.0,1.533
+SAMN17772984,PRJNA698223,TD0098,41 - 45,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-04-12,primary,1.0,1.576
+SAMN17772985,PRJNA698223,TD0098,45 - 52,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-04-16,primary,1.0,1.534
+SAMN17772981,PRJNA698223,TD0098,,adult,6574.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-03-09,primary,1.0,1.565
+SAMN17772983,PRJNA698223,TD0098,,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-03-26,primary,1.0,1.519
+SAMN17772986,PRJNA698223,TD0098,,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-04-23,primary,1.0,1.344
+SAMN17772987,PRJNA698223,TD0099,1,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-03-12,primary,1.0,1.004
+SAMN17772989,PRJNA698223,TD0099,30 - 34,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-05,primary,1.0,1.305
+SAMN17772991,PRJNA698223,TD0099,37 - 49,adult,8766.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-04-12,primary,1.0,1.178
+SAMN17772988,PRJNA698223,TD0099,,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-03-26,primary,1.0,1.089
+SAMN17772990,PRJNA698223,TD0099,,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-09,primary,1.0,1.165
+SAMN17772992,PRJNA698223,TD0099,,adult,8766.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-24,primary,1.0,1.067
+SAMN17772995,PRJNA698223,TD0101,17 - 28,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-04,primary,1.0,1.472
+SAMN17772996,PRJNA698223,TD0101,28 - 32,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-15,primary,1.0,1.43
+SAMN17772997,PRJNA698223,TD0101,32 - 37,adult,10601.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-04-19,primary,1.0,1.504
+SAMN17772998,PRJNA698223,TD0101,37 - 45,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-24,primary,1.0,1.391
+SAMN17772993,PRJNA698223,TD0101,7 - 9,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-03-25,primary,1.0,1.258
+SAMN17772994,PRJNA698223,TD0101,9 - 17,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-03-27,primary,1.0,1.435
+SAMN17772999,PRJNA698223,TD0101,,adult,10601.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-02,primary,1.0,1.634
+SAMN17773001,PRJNA698223,TD0102,11 - 16,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-04,primary,1.0,1.999
+SAMN17773000,PRJNA698223,TD0102,3 - 11,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-03-27,primary,1.0,1.972
+SAMN17773002,PRJNA698223,TD0102,,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-09,primary,1.0,1.87
+SAMN17773003,PRJNA698223,TD0103,32 - 35,adult,9857.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-02,primary,1.0,1.511
+SAMN17773006,PRJNA698223,TD0103,49 - 54,adult,9857.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-19,primary,1.0,1.001
+SAMN17773004,PRJNA698223,TD0103,5,adult,9857.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-04-05,primary,1.0,1.471
+SAMN17773007,PRJNA698223,TD0103,54 - 60,adult,9857.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-24,primary,1.0,1.515
+SAMN17773005,PRJNA698223,TD0103,6,adult,9857.0,female,PE,healthy_control,Non-diarrhea,,,,2013-04-05,primary,1.0,1.647
+SAMN17773008,PRJNA698223,TD0103,60 - 65,adult,9857.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-04-30,primary,1.0,1.623
+SAMN17773009,PRJNA698223,TD0103,,adult,9857.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-05-05,primary,1.0,2.014
+SAMN17773012,PRJNA698223,TD0107,18 - 27,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-04-24,primary,1.0,1.651
+SAMN17773013,PRJNA698223,TD0107,27 - 32,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-05-03,primary,1.0,1.621
+SAMN17773010,PRJNA698223,TD0107,9 - 11,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-04-15,primary,1.0,1.989
+SAMN17773011,PRJNA698223,TD0107,,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-04-17,primary,1.0,1.485
+SAMN17773014,PRJNA698223,TD0107,,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-05-08,primary,1.0,1.618
+SAMN17773016,PRJNA698223,TD0117,12 - 19,adult,8391.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-14,primary,1.0,1.751
+SAMN17773015,PRJNA698223,TD0117,5 - 12,adult,8391.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-07,primary,1.0,1.649
+SAMN17773017,PRJNA698223,TD0117,,adult,8391.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-21,primary,1.0,1.493
+SAMN17773019,PRJNA698223,TD0118,13 - 19,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-17,primary,1.0,1.236
+SAMN17773021,PRJNA698223,TD0118,31 - 41,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-04,primary,1.0,1.671
+SAMN17773018,PRJNA698223,TD0118,4 - 13,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-08,primary,1.0,1.887
+SAMN17773020,PRJNA698223,TD0118,,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-23,primary,1.0,1.607
+SAMN17773022,PRJNA698223,TD0118,,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-14,primary,1.0,1.718
+SAMN17773024,PRJNA698223,TD0119,13 - 19,adult,9131.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-05-17,primary,1.0,1.926
+SAMN17773025,PRJNA698223,TD0119,19 - 25,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-23,primary,1.0,1.698
+SAMN17773026,PRJNA698223,TD0119,25 - 31,adult,9131.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-05-29,primary,1.0,1.413
+SAMN17773023,PRJNA698223,TD0119,6 - 13,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-10,primary,1.0,1.802
+SAMN17773027,PRJNA698223,TD0119,,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-04,primary,1.0,1.344
+SAMN17773029,PRJNA698223,TD0120,11 - 13,adult,7305.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-05-16,primary,1.0,1.786
+SAMN17773028,PRJNA698223,TD0120,3 - 11,adult,7305.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-08,primary,1.0,1.681
+SAMN17773030,PRJNA698223,TD0120,,adult,7305.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-18,primary,1.0,1.675
+SAMN17773031,PRJNA698223,TD0120,,adult,7305.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-24,primary,1.0,1.386
+SAMN17773032,PRJNA698223,TD0121,,adult,7305.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-07,primary,1.0,1.144
+SAMN17773033,PRJNA698223,TD0121,,adult,7305.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-20,primary,1.0,1.266
+SAMN17773034,PRJNA698223,TD0126,3 - 9,adult,6939.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-09,primary,1.0,2.258
+SAMN17773035,PRJNA698223,TD0126,9 - 18,adult,6939.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-15,primary,1.0,1.965
+SAMN17773036,PRJNA698223,TD0126,,adult,6939.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-24,primary,1.0,1.614
+SAMN17773038,PRJNA698223,TD0127,12 - 18,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-17,primary,1.0,1.879
+SAMN17773039,PRJNA698223,TD0127,18 - 26,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-23,primary,1.0,1.883
+SAMN17773037,PRJNA698223,TD0127,5 - 12,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-10,primary,1.0,1.941
+SAMN17773040,PRJNA698223,TD0127,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-31,primary,1.0,2.094
+SAMN17773041,PRJNA698223,TD0128,61 - 67,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-05-17,primary,1.0,0.96
+SAMN17773042,PRJNA698223,TD0128,67 - 75,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,,2013-05-23,primary,1.0,1.767
+SAMN17773043,PRJNA698223,TD0128,>=11,adult,6939.0,female,PE,healthy_control,Non-diarrhea,,,,2013-05-31,primary,1.0,1.2
+SAMN17773044,PRJNA698223,TD0132,4 - 8,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-09,primary,1.0,0.998
+SAMN17773045,PRJNA698223,TD0132,,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-05-13,primary,1.0,0.917
+SAMN17773047,PRJNA698223,TD0135,15 - 22,adult,10234.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-28,primary,1.0,1.648
+SAMN17773048,PRJNA698223,TD0135,22 - 29,adult,10234.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-04,primary,1.0,1.598
+SAMN17773046,PRJNA698223,TD0135,8 - 15,adult,10234.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-21,primary,1.0,1.105
+SAMN17773049,PRJNA698223,TD0135,,adult,10234.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-11,primary,1.0,1.191
+SAMN17773051,PRJNA698223,TD0140,18 - 28,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-12,primary,1.0,2.198
+SAMN17773052,PRJNA698223,TD0140,28 - 32,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-22,primary,1.0,1.035
+SAMN17773053,PRJNA698223,TD0140,32 - 40,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-26,primary,1.0,0.962
+SAMN17773050,PRJNA698223,TD0140,9 - 18,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-03,primary,1.0,1.552
+SAMN17773054,PRJNA698223,TD0140,,adult,7670.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-04,primary,1.0,1.605
+SAMN17773056,PRJNA698223,TD0141,14 - 20,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-06-08,primary,1.0,0.964
+SAMN17773057,PRJNA698223,TD0141,20 - 27,adult,6939.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-06-14,primary,1.0,0.926
+SAMN17773058,PRJNA698223,TD0141,27 - 31,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-06-21,primary,1.0,1.254
+SAMN17773055,PRJNA698223,TD0141,3 - 14,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-05-28,primary,1.0,1.53
+SAMN17773059,PRJNA698223,TD0141,,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-06-25,primary,1.0,1.535
+SAMN17773062,PRJNA698223,TD0142,17 - 26,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-06-11,primary,1.0,1.974
+SAMN17773063,PRJNA698223,TD0142,26 - 32,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-20,primary,1.0,1.836
+SAMN17773060,PRJNA698223,TD0142,6 - 9,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-05-31,primary,1.0,4.164
+SAMN17773061,PRJNA698223,TD0142,9 - 17,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-03,primary,1.0,1.041
+SAMN17773064,PRJNA698223,TD0142,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-26,primary,1.0,1.893
+SAMN17773065,PRJNA698223,TD0145,29 - 38,adult,14239.8,male,PE,other_disease,gastroesophageal reflux disease,,,no,2013-06-12,primary,1.0,1.449
+SAMN17773066,PRJNA698223,TD0145,38 - 45,adult,14239.8,male,PE,other_disease,gastroesophageal reflux disease,,,no,2013-06-21,primary,1.0,1.113
+SAMN17773067,PRJNA698223,TD0145,,adult,14239.8,male,PE,other_disease,gastroesophageal reflux disease,,,no,2013-06-28,primary,1.0,1.064
+SAMN17773069,PRJNA698223,TD0146,36 - 44,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-07-01,primary,1.0,5.374
+SAMN17773070,PRJNA698223,TD0146,44 - 51,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-07-09,primary,1.0,3.306
+SAMN17773068,PRJNA698223,TD0146,,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-06-20,primary,1.0,1.437
+SAMN17773071,PRJNA698223,TD0146,,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-07-16,primary,1.0,4.64
+SAMN17773072,PRJNA698223,TD0146,,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-08-01,primary,1.0,1.484
+SAMN17773073,PRJNA698223,TD0148,9 - 10,adult,7305.0,female,PE,other_disease,lactose intolerant,,,no,2013-06-11,primary,1.0,1.484
+SAMN17773074,PRJNA698223,TD0148,,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-06-12,primary,1.0,1.714
+SAMN17773075,PRJNA698223,TD0152,1,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-18,primary,1.0,1.279
+SAMN17773076,PRJNA698223,TD0152,15 - 24,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-06-26,primary,1.0,1.746
+SAMN17773077,PRJNA698223,TD0152,24 - 30,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-05,primary,1.0,1.602
+SAMN17773078,PRJNA698223,TD0152,30 - 36,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-11,primary,1.0,1.743
+SAMN17773079,PRJNA698223,TD0152,36 - 44,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-17,primary,1.0,1.795
+SAMN17773080,PRJNA698223,TD0152,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-25,primary,1.0,1.553
+SAMN17773081,PRJNA698223,TD0155,14 - 21,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-06-26,primary,1.0,1.64
+SAMN17773083,PRJNA698223,TD0155,37 - 43,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-19,primary,1.0,1.022
+SAMN17773082,PRJNA698223,TD0155,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-03,primary,1.0,1.513
+SAMN17773084,PRJNA698223,TD0155,,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-25,primary,1.0,1.936
+SAMN17773085,PRJNA698223,TD0155,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2013-08-08,primary,1.0,1.43
+SAMN17773086,PRJNA698223,TD0160,2 - 9,adult,14239.8,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-01,primary,1.0,0.912
+SAMN17773087,PRJNA698223,TD0160,,adult,14239.8,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-08,primary,1.0,1.015
+SAMN17773089,PRJNA698223,TD0166,19 - 27,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-23,primary,1.0,1.425
+SAMN17773088,PRJNA698223,TD0166,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-11,primary,1.0,1.885
+SAMN17773090,PRJNA698223,TD0166,,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-31,primary,1.0,0.975
+SAMN17773092,PRJNA698223,TD0169,15 - 25,adult,8035.5,female,PE,other_disease,lactose intolerant,,,no,2013-07-22,primary,1.0,1.189
+SAMN17773091,PRJNA698223,TD0169,,adult,8035.5,female,PE,other_disease,lactose intolerant,,,no,2013-07-13,primary,1.0,1.041
+SAMN17773093,PRJNA698223,TD0169,,adult,8035.5,female,PE,other_disease,lactose intolerant,,,no,2013-08-01,primary,1.0,1.469
+SAMN17773094,PRJNA698223,TD0171,13 - 20,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-18,primary,1.0,6.08
+SAMN17773095,PRJNA698223,TD0171,20 - 25,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-25,primary,1.0,3.477
+SAMN17773096,PRJNA698223,TD0171,25 - 34,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-30,primary,1.0,5.474
+SAMN17773097,PRJNA698223,TD0171,34 - 41,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-08,primary,1.0,2.434
+SAMN17773098,PRJNA698223,TD0171,41 - 48,adult,8391.0,female,PE,healthy_control,Non-diarrhea,,,no,2013-08-15,primary,1.0,6.394
+SAMN17773099,PRJNA698223,TD0171,48 - 54,adult,8391.0,female,PE,healthy_control,Non-diarrhea,,,no,2013-08-22,primary,1.0,2.704
+SAMN17773100,PRJNA698223,TD0171,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-28,primary,1.0,2.066
+SAMN17773102,PRJNA698223,TD0177,16 - 19,adult,10957.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-02,primary,1.0,2.826
+SAMN17773101,PRJNA698223,TD0177,8 - 16,adult,10957.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-25,primary,1.0,2.632
+SAMN17773103,PRJNA698223,TD0177,,adult,10957.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-05,primary,1.0,2.044
+SAMN17773104,PRJNA698223,TD0177,,adult,10957.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-27,primary,1.0,1.471
+SAMN17773107,PRJNA698223,TD0179,11 - 15,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-01,primary,1.0,1.627
+SAMN17773108,PRJNA698223,TD0179,15 - 25,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-05,primary,1.0,1.711
+SAMN17773105,PRJNA698223,TD0179,3 - 5,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-24,primary,1.0,1.237
+SAMN17773106,PRJNA698223,TD0179,,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-07-26,primary,1.0,1.249
+SAMN17773109,PRJNA698223,TD0179,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-15,primary,1.0,1.176
+SAMN17773111,PRJNA698223,TD0180,16 - 22,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-07,primary,1.0,1.462
+SAMN17773112,PRJNA698223,TD0180,22 - 30,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-08-13,primary,1.0,1.227
+SAMN17773113,PRJNA698223,TD0180,5,adult,8035.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-21,primary,1.0,1.199
+SAMN17773110,PRJNA698223,TD0180,,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-07-29,primary,1.0,1.213
+SAMN17773114,PRJNA698223,TD0181,,adult,9131.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-26,primary,1.0,0.85
+SAMN17773115,PRJNA698223,TD0188,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-08-06,primary,1.0,1.669
+SAMN17773117,PRJNA698223,TD0194,42 - 46,adult,17532.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-08-22,primary,1.0,1.63
+SAMN17773118,PRJNA698223,TD0194,46 - 47,adult,17532.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,,2013-08-26,primary,1.0,1.186
+SAMN17773120,PRJNA698223,TD0194,57 - 68,adult,17532.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2013-09-06,primary,1.0,0.972
+SAMN17773116,PRJNA698223,TD0194,,adult,17532.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-08-08,primary,1.0,1.476
+SAMN17773119,PRJNA698223,TD0194,,adult,17532.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,,2013-08-27,primary,1.0,1.09
+SAMN17773121,PRJNA698223,TD0194,,adult,17532.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2013-09-17,primary,1.0,1.627
+SAMN17773124,PRJNA698223,TD0195,25 - 33,adult,11688.0,male,PE,healthy_control,A,,,,2013-08-26,primary,1.0,1.222
+SAMN17773122,PRJNA698223,TD0195,8 - 11,adult,11688.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-09,primary,1.0,1.472
+SAMN17773123,PRJNA698223,TD0195,,adult,11688.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-12,primary,1.0,0.945
+SAMN17773125,PRJNA698223,TD0195,,adult,11688.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-09-03,primary,1.0,1.789
+SAMN17773126,PRJNA698223,TD0195,,adult,11688.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2013-09-18,primary,1.0,1.157
+SAMN17773127,PRJNA698223,TD0197,39 - 47,adult,6574.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-09-08,primary,1.0,1.729
+SAMN17773128,PRJNA698223,TD0197,47 - 53,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-09-16,primary,1.0,1.519
+SAMN17773129,PRJNA698223,TD0197,53 - 59,adult,6574.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-09-22,primary,1.0,0.977
+SAMN17773130,PRJNA698223,TD0197,,adult,6574.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-09-28,primary,1.0,1.192
+SAMN17773131,PRJNA698223,TD0198,2,adult,10234.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-08-15,primary,1.0,0.978
+SAMN17773132,PRJNA698223,TD0200,9 - 10,adult,11312.8,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-08-26,primary,1.0,0.886
+SAMN17773133,PRJNA698223,TD0200,,adult,11312.8,female,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2013-08-27,primary,1.0,0.884
+SAMN17773134,PRJNA698223,TD0204,17 - 25,adult,7670.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-09-04,primary,1.0,0.952
+SAMN17773135,PRJNA698223,TD0204,,adult,7670.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-09-12,primary,1.0,1.187
+SAMN17773136,PRJNA698223,TD0207,,adult,8766.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-09-17,primary,1.0,1.491
+SAMN17773137,PRJNA698223,TD0207,,adult,8766.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-09,primary,1.0,2.108
+SAMN17773138,PRJNA698223,TD0207,,adult,8766.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-30,primary,1.0,1.935
+SAMN17773140,PRJNA698223,TD0209,27 - 34,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-09-27,primary,1.0,2.673
+SAMN17773141,PRJNA698223,TD0209,34 - 41,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-04,primary,1.0,1.078
+SAMN17773142,PRJNA698223,TD0209,41 - 44,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-11,primary,1.0,0.996
+SAMN17773143,PRJNA698223,TD0209,44 - 54,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-10-14,primary,1.0,1.956
+SAMN17773144,PRJNA698223,TD0209,54 - 59,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-24,primary,1.0,1.864
+SAMN17773145,PRJNA698223,TD0209,59 - 67,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-29,primary,1.0,1.42
+SAMN17773147,PRJNA698223,TD0209,>=11,adult,7305.0,female,PE,healthy_control,Non-diarrhea,,,,2013-12-11,primary,1.0,1.494
+SAMN17773139,PRJNA698223,TD0209,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-09-12,primary,1.0,1.615
+SAMN17773146,PRJNA698223,TD0209,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-06,primary,1.0,1.622
+SAMN17773149,PRJNA698223,TD0213,15 - 25,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-09-23,primary,1.0,1.236
+SAMN17773150,PRJNA698223,TD0213,25 - 32,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-10-03,primary,1.0,1.752
+SAMN17773151,PRJNA698223,TD0213,32 - 38,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-10-10,primary,1.0,1.619
+SAMN17773152,PRJNA698223,TD0213,38 - 43,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-10-16,primary,1.0,0.917
+SAMN17773153,PRJNA698223,TD0213,43 - 50,adult,9131.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-10-21,primary,1.0,1.737
+SAMN17773148,PRJNA698223,TD0213,,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-09-12,primary,1.0,1.15
+SAMN17773154,PRJNA698223,TD0213,,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-10-28,primary,1.0,1.726
+SAMN17773155,PRJNA698223,TD0213,,adult,9131.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2013-11-11,primary,1.0,2.498
+SAMN17773156,PRJNA698223,TD0216,13 - 21,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-09-26,primary,1.0,1.815
+SAMN17773158,PRJNA698223,TD0216,32 - 35,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-15,primary,1.0,1.195
+SAMN17773160,PRJNA698223,TD0216,39 - 47,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-10-22,primary,1.0,1.45
+SAMN17773161,PRJNA698223,TD0216,47 - 54,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-30,primary,1.0,1.541
+SAMN17773162,PRJNA698223,TD0216,54 - 60,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-06,primary,1.0,1.673
+SAMN17773163,PRJNA698223,TD0216,60 - 61,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-12,primary,1.0,1.401
+SAMN17773165,PRJNA698223,TD0216,68 - 75,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-20,primary,1.0,1.444
+SAMN17773157,PRJNA698223,TD0216,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-04,primary,1.0,1.043
+SAMN17773159,PRJNA698223,TD0216,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-18,primary,1.0,1.023
+SAMN17773164,PRJNA698223,TD0216,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-13,primary,1.0,1.582
+SAMN17773166,PRJNA698223,TD0216,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-27,primary,1.0,1.628
+SAMN17773167,PRJNA698223,TD0216,,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-19,primary,1.0,1.624
+SAMN17773170,PRJNA698223,TD0217,43 - 56,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-18,primary,1.0,1.396
+SAMN17773172,PRJNA698223,TD0217,67 - 77,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-11,primary,1.0,3.452
+SAMN17773168,PRJNA698223,TD0217,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-09-26,primary,1.0,1.425
+SAMN17773169,PRJNA698223,TD0217,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-10,primary,1.0,1.294
+SAMN17773171,PRJNA698223,TD0217,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-31,primary,1.0,1.485
+SAMN17773173,PRJNA698223,TD0217,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-21,primary,1.0,1.707
+SAMN17773174,PRJNA698223,TD0217,,adult,6574.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-04,primary,1.0,1.762
+SAMN17773177,PRJNA698223,TD0218,11 - 21,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-10-04,primary,1.0,1.064
+SAMN17773178,PRJNA698223,TD0218,21 - 28,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-10-14,primary,1.0,1.382
+SAMN17773180,PRJNA698223,TD0218,36 - 43,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-10-29,primary,1.0,1.905
+SAMN17773175,PRJNA698223,TD0218,4 - 7,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-09-27,primary,1.0,1.197
+SAMN17773176,PRJNA698223,TD0218,,adult,22980.8,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-09-30,primary,1.0,1.287
+SAMN17773179,PRJNA698223,TD0218,,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-10-21,primary,1.0,1.036
+SAMN17773181,PRJNA698223,TD0218,,adult,22980.8,female,PE,other_disease,gastroesophageal reflux disease,,,yes,2013-11-05,primary,1.0,1.186
+SAMN17773183,PRJNA698223,TD0225,26 - 33,adult,12043.2,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-08,primary,1.0,1.692
+SAMN17773182,PRJNA698223,TD0225,,adult,12043.2,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-10-18,primary,1.0,2.934
+SAMN17773184,PRJNA698223,TD0225,,adult,12043.2,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-15,primary,1.0,1.611
+SAMN17773187,PRJNA698223,TD0226,32 - 37,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-11-14,primary,1.0,1.453
+SAMN17773188,PRJNA698223,TD0226,37 - 39,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-11-19,primary,1.0,1.65
+SAMN17773190,PRJNA698223,TD0226,60 - 64,adult,8035.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-12-12,primary,1.0,3.454
+SAMN17773185,PRJNA698223,TD0226,,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-10-18,primary,1.0,1.436
+SAMN17773186,PRJNA698223,TD0226,,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-10-30,primary,1.0,1.51
+SAMN17773189,PRJNA698223,TD0226,,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-11-21,primary,1.0,1.284
+SAMN17773191,PRJNA698223,TD0226,,adult,8035.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2013-12-16,primary,1.0,1.649
+SAMN17773192,PRJNA698223,TD0227,38 - 46,adult,8391.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-11-06,primary,1.0,1.648
+SAMN17773193,PRJNA698223,TD0227,46 - 53,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-14,primary,1.0,1.666
+SAMN17773194,PRJNA698223,TD0227,,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-21,primary,1.0,1.497
+SAMN17773195,PRJNA698223,TD0229,,adult,6939.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-11-11,primary,1.0,1.806
+SAMN17773196,PRJNA698223,TD0229,,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-13,primary,1.0,1.756
+SAMN17773197,PRJNA698223,TD0229,,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-16,primary,1.0,1.581
+SAMN17773201,PRJNA698223,TD0230,2022-07-08 00:00:00,adult,6939.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-12-01,primary,1.0,1.19
+SAMN17773198,PRJNA698223,TD0230,36 - 43,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-11-15,primary,1.0,1.867
+SAMN17773199,PRJNA698223,TD0230,43 - 50,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-11-22,primary,1.0,0.972
+SAMN17773200,PRJNA698223,TD0230,50 - 52,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-11-29,primary,1.0,1.748
+SAMN17773202,PRJNA698223,TD0230,63 - 69,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-12-12,primary,1.0,1.67
+SAMN17773203,PRJNA698223,TD0230,,adult,6939.0,male,PE,other_disease,lactose intolerant,,,no,2013-12-18,primary,1.0,1.855
+SAMN17773204,PRJNA698223,TD0231,1,adult,8035.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-11-15,primary,1.0,1.547
+SAMN17773206,PRJNA698223,TD0231,2022-07-08 00:00:00,adult,8035.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-01-04,primary,1.0,1.619
+SAMN17773205,PRJNA698223,TD0231,,adult,8035.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2013-12-09,primary,1.0,1.594
+SAMN17773208,PRJNA698223,TD0233,13 - 19,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-23,primary,1.0,1.508
+SAMN17773209,PRJNA698223,TD0233,19 - 26,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-29,primary,1.0,1.717
+SAMN17773210,PRJNA698223,TD0233,26 - 32,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-06,primary,1.0,1.469
+SAMN17773207,PRJNA698223,TD0233,3 - 13,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-13,primary,1.0,1.972
+SAMN17773211,PRJNA698223,TD0233,32 - 37,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-12,primary,1.0,1.609
+SAMN17773212,PRJNA698223,TD0233,,adult,14610.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-17,primary,1.0,1.846
+SAMN17773215,PRJNA698223,TD0234,6,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-12-10,primary,1.0,1.438
+SAMN17773217,PRJNA698223,TD0234,>=11,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-16,primary,1.0,1.82
+SAMN17773213,PRJNA698223,TD0234,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-14,primary,1.0,1.726
+SAMN17773214,PRJNA698223,TD0234,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2013-11-26,primary,1.0,1.556
+SAMN17773216,PRJNA698223,TD0234,,adult,6574.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-03,primary,1.0,1.793
+SAMN17773218,PRJNA698223,TD0236,19 - 27,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2013-12-12,primary,1.0,1.521
+SAMN17773220,PRJNA698223,TD0236,45 - 54,adult,7670.2,female,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2014-01-07,primary,1.0,1.73
+SAMN17773219,PRJNA698223,TD0236,,adult,7670.2,female,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2013-12-20,primary,1.0,1.569
+SAMN17773221,PRJNA698223,TD0236,,adult,7670.2,female,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,yes,2014-01-16,primary,1.0,1.679
+SAMN17773222,PRJNA698223,TD0239,15 - 22,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease; lactose intolerant,,,no,2014-01-16,primary,1.0,1.04
+SAMN17773223,PRJNA698223,TD0239,4,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-01-23,primary,1.0,0.884
+SAMN17773225,PRJNA698223,TD0240,13 - 20,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-16,primary,1.0,1.692
+SAMN17773226,PRJNA698223,TD0240,20 - 27,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-23,primary,1.0,1.903
+SAMN17773227,PRJNA698223,TD0240,27 - 35,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-30,primary,1.0,1.152
+SAMN17773228,PRJNA698223,TD0240,35 - 41,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-02-07,primary,1.0,1.061
+SAMN17773230,PRJNA698223,TD0240,53 - 61,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-02-25,primary,1.0,1.541
+SAMN17773224,PRJNA698223,TD0240,6 - 13,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-09,primary,1.0,1.949
+SAMN17773229,PRJNA698223,TD0240,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-02-13,primary,1.0,1.872
+SAMN17773231,PRJNA698223,TD0240,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-05,primary,1.0,1.131
+SAMN17773232,PRJNA698223,TD0240,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-17,primary,1.0,1.506
+SAMN17773233,PRJNA698223,TD0245,5 - 13,adult,14610.0,male,PE,other_disease,lactose intolerant,,,no,2014-01-14,primary,1.0,1.779
+SAMN17773234,PRJNA698223,TD0245,,adult,14610.0,male,PE,other_disease,lactose intolerant,,,no,2014-01-22,primary,1.0,1.778
+SAMN17773235,PRJNA698223,TD0245,,adult,14610.0,male,PE,other_disease,lactose intolerant,,,no,2014-02-07,primary,1.0,1.766
+SAMN17773236,PRJNA698223,TD0246,,adult,6574.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2014-01-14,primary,1.0,1.552
+SAMN17773237,PRJNA698223,TD0246,,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-02-05,primary,1.0,1.759
+SAMN17773238,PRJNA698223,TD0246,,adult,6574.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-02-18,primary,1.0,1.505
+SAMN17773239,PRJNA698223,TD0250,22 - 23,adult,13504.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-01-27,primary,1.0,0.935
+SAMN17773240,PRJNA698223,TD0250,,adult,13504.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-01-28,primary,1.0,0.979
+SAMN17773242,PRJNA698223,TD0253,12 - 19,adult,7305.0,female,PE,other_disease,lactose intolerant,,,no,2014-02-14,primary,1.0,1.435
+SAMN17773241,PRJNA698223,TD0253,5 - 12,adult,7305.0,female,PE,other_disease,lactose intolerant,,,no,2014-02-07,primary,1.0,1.209
+SAMN17773243,PRJNA698223,TD0253,,adult,7305.0,female,PE,other_disease,lactose intolerant,,,no,2014-02-21,primary,1.0,1.715
+SAMN17773245,PRJNA698223,TD0255,16 - 23,adult,23376.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-03-04,primary,1.0,1.129
+SAMN17773246,PRJNA698223,TD0255,23 - 30,adult,23376.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-03-11,primary,1.0,1.78
+SAMN17773247,PRJNA698223,TD0255,30 - 37,adult,23376.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-03-18,primary,1.0,0.957
+SAMN17773248,PRJNA698223,TD0255,37 - 45,adult,23376.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-03-25,primary,1.0,2.426
+SAMN17773244,PRJNA698223,TD0255,8 - 16,adult,23376.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-02-24,primary,1.0,1.249
+SAMN17773249,PRJNA698223,TD0255,,adult,23376.0,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-04-02,primary,1.0,0.967
+SAMN17773251,PRJNA698223,TD0256,16 - 23,adult,20088.8,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-04,primary,1.0,1.306
+SAMN17773252,PRJNA698223,TD0256,23 - 30,adult,20088.8,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-11,primary,1.0,1.4
+SAMN17773253,PRJNA698223,TD0256,30 - 37,adult,20088.8,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-18,primary,1.0,1.339
+SAMN17773254,PRJNA698223,TD0256,37 - 45,adult,20088.8,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-25,primary,1.0,1.43
+SAMN17773250,PRJNA698223,TD0256,9 - 16,adult,20088.8,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-02-25,primary,1.0,1.441
+SAMN17773255,PRJNA698223,TD0256,,adult,20088.8,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-04-02,primary,1.0,1.121
+SAMN17773257,PRJNA698223,TD0258,64 - 70,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-03-14,primary,1.0,1.973
+SAMN17773256,PRJNA698223,TD0258,,adult,8035.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2014-03-06,primary,1.0,2.295
+SAMN17773258,PRJNA698223,TD0258,,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-03-20,primary,1.0,2.304
+SAMN17773259,PRJNA698223,TD0258,,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2014-04-11,primary,1.0,3.442
+SAMN17773260,PRJNA698223,TD0262,,adult,7305.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-03-30,primary,1.0,1.383
+SAMN17773261,PRJNA698223,TD0263,40 - 45,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-03-14,primary,1.0,1.014
+SAMN17773262,PRJNA698223,TD0263,45 - 52,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-19,primary,1.0,1.664
+SAMN17773263,PRJNA698223,TD0263,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-03-26,primary,1.0,0.882
+SAMN17773264,PRJNA698223,TD0272,38 - 45,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-04-08,primary,1.0,1.293
+SAMN17773265,PRJNA698223,TD0272,45 - 53,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-04-15,primary,1.0,2.446
+SAMN17773266,PRJNA698223,TD0272,53 - 59,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-04-23,primary,1.0,1.04
+SAMN17773267,PRJNA698223,TD0272,59 - 68,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-04-29,primary,1.0,1.725
+SAMN17773268,PRJNA698223,TD0272,68 - 75,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-08,primary,1.0,1.543
+SAMN17773269,PRJNA698223,TD0272,75 - 81,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-15,primary,1.0,1.673
+SAMN17773270,PRJNA698223,TD0272,81 - 87,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-21,primary,1.0,1.489
+SAMN17773271,PRJNA698223,TD0272,,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-27,primary,1.0,1.191
+SAMN17773272,PRJNA698223,TD0272,,adult,9496.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-10,primary,1.0,1.291
+SAMN17773273,PRJNA698223,TD0278,5 - 9,adult,12417.9,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-04-21,primary,1.0,1.136
+SAMN17773274,PRJNA698223,TD0278,9 - 19,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-04-25,primary,1.0,1.05
+SAMN17773275,PRJNA698223,TD0278,,adult,12417.9,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-05,primary,1.0,1.297
+SAMN17773276,PRJNA698223,TD0279,24 - 33,adult,6574.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-05-21,primary,1.0,1.997
+SAMN17773278,PRJNA698223,TD0279,45 - 50,adult,6574.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-06-11,primary,1.0,1.293
+SAMN17773277,PRJNA698223,TD0279,,adult,6574.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-05-30,primary,1.0,1.35
+SAMN17773279,PRJNA698223,TD0279,,adult,6574.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2014-06-16,primary,1.0,1.481
+SAMN17773281,PRJNA698223,TD0288,11 - 18,adult,7305.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-21,primary,1.0,1.779
+SAMN17773282,PRJNA698223,TD0288,3,adult,7305.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-28,primary,1.0,3.279
+SAMN17773280,PRJNA698223,TD0288,4 - 11,adult,7305.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-14,primary,1.0,1.341
+SAMN17773284,PRJNA698223,TD0289,12 - 17,adult,6939.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-22,primary,1.0,1.614
+SAMN17773283,PRJNA698223,TD0289,3 - 12,adult,6939.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-13,primary,1.0,2.753
+SAMN17773285,PRJNA698223,TD0289,,adult,6939.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-27,primary,1.0,1.582
+SAMN17773287,PRJNA698223,TD0290,16 - 25,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-27,primary,1.0,0.978
+SAMN17773288,PRJNA698223,TD0290,25 - 31,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-05,primary,1.0,1.14
+SAMN17773289,PRJNA698223,TD0290,31 - 38,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-11,primary,1.0,1.528
+SAMN17773286,PRJNA698223,TD0290,9 - 16,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-05-20,primary,1.0,0.95
+SAMN17773290,PRJNA698223,TD0290,,adult,8391.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-18,primary,1.0,1.215
+SAMN17773291,PRJNA698223,TD0292,2,adult,10234.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-05-15,primary,1.0,3.225
+SAMN17773292,PRJNA698223,TD0296,4 - 9,adult,12417.9,female,PE,other_disease,lactose intolerant,,,no,2014-05-21,primary,1.0,1.559
+SAMN17773293,PRJNA698223,TD0296,,adult,12417.9,female,PE,other_disease,lactose intolerant,,,no,2014-05-26,primary,1.0,1.848
+SAMN17773294,PRJNA698223,TD0296,,adult,12417.9,female,PE,other_disease,lactose intolerant,,,no,2014-06-09,primary,1.0,1.293
+SAMN17773295,PRJNA698223,TD0299,23 - 25,adult,9131.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-06-02,primary,1.0,1.259
+SAMN17773298,PRJNA698223,TD0299,39 - 46,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2014-06-18,primary,1.0,1.745
+SAMN17773299,PRJNA698223,TD0299,46 - 48,adult,9131.0,male,PE,healthy_control,A,,,,2014-06-25,primary,1.0,0.856
+SAMN17773301,PRJNA698223,TD0299,60 - 67,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2014-07-09,primary,1.0,1.591
+SAMN17773302,PRJNA698223,TD0299,67 - 74,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2014-07-16,primary,1.0,1.245
+SAMN17773296,PRJNA698223,TD0299,,adult,9131.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,,2014-06-04,primary,1.0,1.81
+SAMN17773297,PRJNA698223,TD0299,,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-05,primary,1.0,1.256
+SAMN17773300,PRJNA698223,TD0299,,adult,9131.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-06-27,primary,1.0,1.575
+SAMN17773303,PRJNA698223,TD0299,,adult,9131.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2014-07-23,primary,1.0,1.16
+SAMN17773304,PRJNA698223,TD0309,11 - 17,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-18,primary,1.0,1.227
+SAMN17773305,PRJNA698223,TD0309,17 - 24,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-06-24,primary,1.0,3.257
+SAMN17773306,PRJNA698223,TD0309,,adult,9131.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-01,primary,1.0,1.725
+SAMN17773308,PRJNA698223,TD0315,11 - 17,adult,8766.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-17,primary,1.0,1.295
+SAMN17773309,PRJNA698223,TD0315,17 - 24,adult,8766.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-23,primary,1.0,1.419
+SAMN17773307,PRJNA698223,TD0315,3 - 11,adult,8766.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-09,primary,1.0,1.674
+SAMN17773310,PRJNA698223,TD0315,,adult,8766.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-30,primary,1.0,1.642
+SAMN17773311,PRJNA698223,TD0317,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-30,primary,1.0,2.072
+SAMN17773314,PRJNA698223,TD0318,25 - 34,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-08-19,primary,1.0,0.897
+SAMN17773315,PRJNA698223,TD0318,34 - 39,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-08-28,primary,1.0,1.359
+SAMN17773316,PRJNA698223,TD0318,39 - 48,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-09-02,primary,1.0,1.118
+SAMN17773312,PRJNA698223,TD0318,5 - 14,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-07-30,primary,1.0,1.223
+SAMN17773313,PRJNA698223,TD0318,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-08-08,primary,1.0,2.29
+SAMN17773317,PRJNA698223,TD0318,,adult,6939.0,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-09-11,primary,1.0,1.115
+SAMN17773319,PRJNA698223,TD0320,14 - 19,adult,18262.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-08-22,primary,1.0,1.686
+SAMN17773318,PRJNA698223,TD0320,6 - 14,adult,18262.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-08-14,primary,1.0,1.391
+SAMN17773320,PRJNA698223,TD0320,,adult,18262.5,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-08-27,primary,1.0,1.25
+SAMN17773321,PRJNA698223,TD0322,26 - 33,adult,8035.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-26,primary,1.0,1.032
+SAMN17773322,PRJNA698223,TD0322,33 - 37,adult,8035.5,female,PE,gi_infection_or_diarrhoea,travelers diarrhea,,,no,2014-09-02,primary,1.0,1.148
+SAMN17773323,PRJNA698223,TD0322,,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-09-06,primary,1.0,1.277
+SAMN17773325,PRJNA698223,TD0323,26 - 26,adult,14610.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-09-23,primary,1.0,1.693
+SAMN17773324,PRJNA698223,TD0323,,adult,14610.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-09-02,primary,1.0,1.692
+SAMN17773326,PRJNA698223,TD0323,,adult,14610.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-09-23,primary,1.0,1.625
+SAMN17773327,PRJNA698223,TD0323,,adult,14610.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-09-26,primary,1.0,1.835
+SAMN17773328,PRJNA698223,TD0326,7 - 13,adult,9857.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2014-09-27,primary,1.0,1.41
+SAMN17773329,PRJNA698223,TD0326,,adult,9857.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2014-10-03,primary,1.0,1.052
+SAMN17773332,PRJNA698223,TD0334,16 - 25,adult,9496.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2014-12-02,primary,1.0,1.198
+SAMN17773330,PRJNA698223,TD0334,3 - 9,adult,9496.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-11-19,primary,1.0,1.811
+SAMN17773331,PRJNA698223,TD0334,9 - 16,adult,9496.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-11-25,primary,1.0,1.885
+SAMN17773333,PRJNA698223,TD0334,,adult,9496.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2014-12-11,primary,1.0,1.361
+SAMN17773334,PRJNA698223,TD0336,,adult,8035.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2014-12-22,primary,1.0,0.905
+SAMN17773335,PRJNA698223,TD0336,,adult,8035.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-01-05,primary,1.0,1.58
+SAMN17773336,PRJNA698223,TD0339,19 - 27,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-01-08,primary,1.0,0.918
+SAMN17773337,PRJNA698223,TD0339,27 - 34,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-01-16,primary,1.0,2.033
+SAMN17773338,PRJNA698223,TD0339,34 - 41,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-01-23,primary,1.0,1.843
+SAMN17773339,PRJNA698223,TD0339,41 - 47,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-01-30,primary,1.0,1.651
+SAMN17773340,PRJNA698223,TD0339,47 - 55,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-02-05,primary,1.0,1.471
+SAMN17773342,PRJNA698223,TD0339,64 - 69,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-02-22,primary,1.0,1.705
+SAMN17773341,PRJNA698223,TD0339,,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-02-13,primary,1.0,1.872
+SAMN17773343,PRJNA698223,TD0339,,adult,9496.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-02-27,primary,1.0,1.997
+SAMN17773344,PRJNA698223,TD0340,1 - 2,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2015-01-12,primary,1.0,1.563
+SAMN17773346,PRJNA698223,TD0340,10 - 16,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2015-01-21,primary,1.0,1.65
+SAMN17773347,PRJNA698223,TD0340,16 - 22,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2015-01-27,primary,1.0,1.961
+SAMN17773348,PRJNA698223,TD0340,22 - 33,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2015-02-02,primary,1.0,1.868
+SAMN17773345,PRJNA698223,TD0340,,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-01-13,primary,1.0,1.938
+SAMN17773349,PRJNA698223,TD0340,,adult,9496.5,female,PE,other_disease,gastroesophageal reflux disease,,,no,2015-02-13,primary,1.0,1.647
+SAMN17773350,PRJNA698223,TD0341,11 - 18,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-01-14,primary,1.0,1.619
+SAMN17773352,PRJNA698223,TD0341,41 - 49,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-02-13,primary,1.0,1.36
+SAMN17773351,PRJNA698223,TD0341,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-01-21,primary,1.0,1.656
+SAMN17773353,PRJNA698223,TD0341,,adult,8391.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-02-21,primary,1.0,1.137
+SAMN17773355,PRJNA698223,TD0342,35 - 38,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-02-20,primary,1.0,1.678
+SAMN17773356,PRJNA698223,TD0342,38 - 46,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-02-23,primary,1.0,1.845
+SAMN17773357,PRJNA698223,TD0342,46 - 55,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-03-03,primary,1.0,1.165
+SAMN17773354,PRJNA698223,TD0342,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-01-22,primary,1.0,1.718
+SAMN17773358,PRJNA698223,TD0342,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-03-12,primary,1.0,1.68
+SAMN17773361,PRJNA698223,TD0343,19 - 26,adult,14975.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-02-11,primary,1.0,1.753
+SAMN17773359,PRJNA698223,TD0343,4 - 8,adult,14975.2,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-01-27,primary,1.0,1.703
+SAMN17773360,PRJNA698223,TD0343,8 - 19,adult,14975.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-01-31,primary,1.0,1.41
+SAMN17773362,PRJNA698223,TD0343,,adult,14975.2,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2015-02-18,primary,1.0,1.747
+SAMN17773364,PRJNA698223,TD0346,83 - 89,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-02-27,primary,1.0,0.902
+SAMN17773363,PRJNA698223,TD0346,,adult,9496.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-02-13,primary,1.0,1.911
+SAMN17773365,PRJNA698223,TD0346,,adult,9496.5,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-03-05,primary,1.0,1.638
+SAMN17773368,PRJNA698223,TD0351,21 - 27,adult,11312.8,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-20,primary,1.0,1.56
+SAMN17773369,PRJNA698223,TD0351,27 - 33,adult,11312.8,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-26,primary,1.0,1.205
+SAMN17773366,PRJNA698223,TD0351,8 - 14,adult,11312.8,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-07,primary,1.0,1.755
+SAMN17773367,PRJNA698223,TD0351,,adult,11312.8,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-13,primary,1.0,1.142
+SAMN17773370,PRJNA698223,TD0351,,adult,11312.8,female,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-04-01,primary,1.0,1.406
+SAMN17773371,PRJNA698223,TD0357,18 - 25,adult,23376.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-03-11,primary,1.0,1.588
+SAMN17773372,PRJNA698223,TD0357,25 - 34,adult,23376.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-03-18,primary,1.0,1.428
+SAMN17773373,PRJNA698223,TD0357,34 - 36,adult,23376.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-03-27,primary,1.0,1.104
+SAMN17773374,PRJNA698223,TD0357,36 - 45,adult,23376.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-03-29,primary,1.0,1.595
+SAMN17773375,PRJNA698223,TD0357,,adult,23376.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-04-07,primary,1.0,1.408
+SAMN17773376,PRJNA698223,TD0358,10 - 16,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-17,primary,1.0,1.489
+SAMN17773377,PRJNA698223,TD0358,16 - 24,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-23,primary,1.0,1.439
+SAMN17773378,PRJNA698223,TD0358,24 - 29,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-31,primary,1.0,1.546
+SAMN17773379,PRJNA698223,TD0358,,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-04-05,primary,1.0,1.429
+SAMN17773384,PRJNA698223,TD0359,2022-07-08 00:00:00,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-05-05,primary,1.0,1.531
+SAMN17773381,PRJNA698223,TD0359,22 - 30,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-04-05,primary,1.0,2.121
+SAMN17773383,PRJNA698223,TD0359,45 - 52,adult,6939.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-04-28,primary,1.0,1.597
+SAMN17773380,PRJNA698223,TD0359,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-03-25,primary,1.0,1.718
+SAMN17773382,PRJNA698223,TD0359,,adult,6939.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-04-13,primary,1.0,1.584
+SAMN17773385,PRJNA698223,TD0370,,adult,8766.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-05-06,primary,1.0,1.63
+SAMN17773386,PRJNA698223,TD0371,,adult,8391.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-05-04,primary,1.0,0.893
+SAMN17773387,PRJNA698223,TD0376,6 - 9,adult,7670.2,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-05-08,primary,1.0,1.699
+SAMN17773388,PRJNA698223,TD0376,,adult,7670.2,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-05-11,primary,1.0,1.613
+SAMN17773389,PRJNA698223,TD0379,10 - 19,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-05-18,primary,1.0,1.578
+SAMN17773390,PRJNA698223,TD0379,,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-05-27,primary,1.0,1.845
+SAMN17773391,PRJNA698223,TD0379,,adult,8035.5,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-06-18,primary,1.0,1.874
+SAMN17773392,PRJNA698223,TD0386,10 - 20,adult,9857.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-05-19,primary,1.0,1.485
+SAMN17773393,PRJNA698223,TD0386,,adult,9857.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-05-29,primary,1.0,1.677
+SAMN17773394,PRJNA698223,TD0386,,adult,9857.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-06-11,primary,1.0,1.717
+SAMN17773395,PRJNA698223,TD0386,,adult,9857.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-06-22,primary,1.0,1.468
+SAMN17773396,PRJNA698223,TD0396,6 - 13,adult,18627.8,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-06-04,primary,1.0,1.747
+SAMN17773397,PRJNA698223,TD0396,,adult,18627.8,female,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-06-11,primary,1.0,1.358
+SAMN17773399,PRJNA698223,TD0401,52 - 55,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-06-29,primary,1.0,1.513
+SAMN17773398,PRJNA698223,TD0401,,adult,7305.0,female,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-06-10,primary,1.0,1.405
+SAMN17773400,PRJNA698223,TD0401,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-07-02,primary,1.0,1.486
+SAMN17773401,PRJNA698223,TD0401,,adult,7305.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-07-10,primary,1.0,1.391
+SAMN17773402,PRJNA698223,TD0402,23 - 30,adult,6939.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,yes,2015-06-19,primary,1.0,0.852
+SAMN17773403,PRJNA698223,TD0402,,adult,6939.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2015-06-26,primary,1.0,1.559
+SAMN17773404,PRJNA698223,TD0405,62 - 68,adult,20088.8,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-07-03,primary,1.0,1.603
+SAMN17773405,PRJNA698223,TD0405,68 - 74,adult,20088.8,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-07-09,primary,1.0,1.825
+SAMN17773406,PRJNA698223,TD0405,74 - 82,adult,20088.8,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-07-15,primary,1.0,1.807
+SAMN17773407,PRJNA698223,TD0405,82 - 91,adult,20088.8,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-07-23,primary,1.0,1.702
+SAMN17773408,PRJNA698223,TD0405,,adult,20088.8,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-01,primary,1.0,1.915
+SAMN17773409,PRJNA698223,TD0405,,adult,20088.8,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-21,primary,1.0,1.778
+SAMN17773411,PRJNA698223,TD0410,13 - 19,adult,10601.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-19,primary,1.0,2.013
+SAMN17773410,PRJNA698223,TD0410,6 - 13,adult,10601.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-12,primary,1.0,1.834
+SAMN17773412,PRJNA698223,TD0410,,adult,10601.0,male,PE,healthy_control,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-25,primary,1.0,1.973
+SAMN17773413,PRJNA698223,TD0416,7 - 11,adult,8766.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-21,primary,1.0,1.713
+SAMN17773414,PRJNA698223,TD0416,,adult,8766.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-08-25,primary,1.0,1.74
+SAMN17773415,PRJNA698223,TD0417,7 - 10,adult,8391.0,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-08-21,primary,1.0,1.502
+SAMN17773416,PRJNA698223,TD0417,,adult,8391.0,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-08-24,primary,1.0,1.184
+SAMN17773418,PRJNA698223,TD0420,12 - 20,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-09-02,primary,1.0,1.711
+SAMN17773420,PRJNA698223,TD0420,45 - 53,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-10-05,primary,1.0,1.642
+SAMN17773417,PRJNA698223,TD0420,5 - 12,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-08-26,primary,1.0,1.741
+SAMN17773421,PRJNA698223,TD0420,53 - 61,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-10-13,primary,1.0,1.705
+SAMN17773422,PRJNA698223,TD0420,61 - 69,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-10-21,primary,1.0,1.714
+SAMN17773423,PRJNA698223,TD0420,69 - 74,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-10-29,primary,1.0,1.655
+SAMN17773424,PRJNA698223,TD0420,74 - 81,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-11-03,primary,1.0,1.682
+SAMN17773425,PRJNA698223,TD0420,81 - 89,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-11-10,primary,1.0,1.668
+SAMN17773419,PRJNA698223,TD0420,,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-09-10,primary,1.0,1.708
+SAMN17773426,PRJNA698223,TD0420,,adult,14975.2,female,PE,other_disease,lactose intolerant,,,no,2015-11-18,primary,1.0,1.697
+SAMN17773427,PRJNA698223,TD0429,5 - 12,adult,9496.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-09-17,primary,1.0,1.681
+SAMN17773428,PRJNA698223,TD0429,,adult,9496.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-09-24,primary,1.0,1.562
+SAMN17773429,PRJNA698223,TD0443,,adult,9496.5,male,PE,other_disease,lactose intolerant,,,no,2015-10-20,primary,1.0,1.755
+SAMN17773430,PRJNA698223,TD0456,3 - 13,adult,9496.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-11-17,primary,1.0,1.76
+SAMN17773431,PRJNA698223,TD0456,,adult,9496.5,male,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2015-11-27,primary,1.0,1.954
+SAMN17773432,PRJNA698223,TD0456,,adult,9496.5,male,PE,gi_infection_or_diarrhoea,diarrhea,,,no,2015-12-07,primary,1.0,1.623
+SAMN17773433,PRJNA698223,TD0458,,adult,11688.0,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,no,2016-01-20,primary,1.0,1.049
+SAMN17773434,PRJNA698223,TD0460,,adult,6574.5,female,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,,2016-01-26,primary,1.0,1.45
+SAMN31371967,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,1.263
+SAMN31371968,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.086
+SAMN31371969,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.212
+SAMN31371970,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.024
+SAMN31371971,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.01
+SAMN31371972,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.001
+SAMN31371973,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.078
+SAMN31371974,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.003
+SAMN31371975,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.015
+SAMN31371976,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.016
+SAMN31371977,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.213
+SAMN31371978,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.045
+SAMN31371979,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.028
+SAMN31371980,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.014
+SAMN31371981,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.34
+SAMN31371982,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.003
+SAMN31371983,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.638
+SAMN31371984,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.021
+SAMN31371985,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,1.386
+SAMN31371986,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.376
+SAMN31371987,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.136
+SAMN31371988,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.009
+SAMN31371989,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.09
+SAMN31371990,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.146
+SAMN31371991,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.068
+SAMN31371992,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.012
+SAMN31371993,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.607
+SAMN31371994,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.499
+SAMN31371995,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.002
+SAMN31371996,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.008
+SAMN31371997,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.989
+SAMN31371998,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.18
+SAMN31371999,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.226
+SAMN31372000,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.319
+SAMN31372001,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.007
+SAMN31372002,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.017
+SAMN31372003,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.102
+SAMN31372004,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.102
+SAMN31372005,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.721
+SAMN31372006,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.008
+SAMN31372007,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.033
+SAMN31372008,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.005
+SAMN31372009,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.348
+SAMN31372010,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.854
+SAMN31372011,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.107
+SAMN31372012,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.354
+SAMN31372013,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.261
+SAMN31372014,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.297
+SAMN31372015,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.852
+SAMN31372016,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.031
+SAMN31372017,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.001
+SAMN31372018,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.0
+SAMN31372019,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.529
+SAMN31372020,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.006
+SAMN31372021,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.294
+SAMN31372022,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.448
+SAMN31372023,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.185
+SAMN31372024,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.033
+SAMN31372025,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.043
+SAMN31372026,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.003
+SAMN31372027,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.0
+SAMN31372028,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.635
+SAMN31372029,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.01
+SAMN31372030,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.734
+SAMN31372031,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.895
+SAMN31372032,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.372
+SAMN31372033,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.202
+SAMN31372034,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.008
+SAMN31372035,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.239
+SAMN31372036,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.031
+SAMN31372037,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.081
+SAMN31372038,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.314
+SAMN31372039,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.046
+SAMN31372040,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.086
+SAMN31372041,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.337
+SAMN31372042,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.789
+SAMN31372043,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.386
+SAMN31372044,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.026
+SAMN31372045,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.177
+SAMN31372046,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.178
+SAMN31372047,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.106
+SAMN31372048,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.095
+SAMN31372049,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.048
+SAMN31372050,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.068
+SAMN31372051,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.016
+SAMN31372052,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.261
+SAMN31372053,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.173
+SAMN31372054,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.629
+SAMN31372055,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.096
+SAMN31372056,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.157
+SAMN31372057,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.146
+SAMN31372058,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.117
+SAMN31372059,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.009
+SAMN31372060,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.502
+SAMN31372061,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.544
+SAMN31372062,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.794
+SAMN31372063,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.129
+SAMN31372064,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.166
+SAMN31372065,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.336
+SAMN31372066,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.065
+SAMN31372067,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.135
+SAMN31372068,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.323
+SAMN31372069,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.488
+SAMN31372070,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.062
+SAMN31372071,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.218
+SAMN31372072,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.116
+SAMN31372073,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.143
+SAMN31372074,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.063
+SAMN31372075,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.031
+SAMN31372076,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.101
+SAMN31372077,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.295
+SAMN31372078,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.315
+SAMN31372079,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.28
+SAMN31372080,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.011
+SAMN31372081,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.249
+SAMN31372082,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.168
+SAMN31372083,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.162
+SAMN31372084,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.34
+SAMN31372085,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.13
+SAMN31372086,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.144
+SAMN31372087,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.237
+SAMN31372088,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.248
+SAMN31372089,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.264
+SAMN31372090,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.143
+SAMN31372091,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.268
+SAMN31372092,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.41
+SAMN31372093,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.057
+SAMN31372094,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.339
+SAMN31372095,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.4
+SAMN31372096,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.122
+SAMN31372097,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.311
+SAMN31372098,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.13
+SAMN31372099,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.033
+SAMN31372100,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.059
+SAMN31372101,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.371
+SAMN31372102,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.326
+SAMN31372103,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.145
+SAMN31372104,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.189
+SAMN31372105,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.266
+SAMN31372106,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.083
+SAMN31372107,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.316
+SAMN31372108,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.723
+SAMN31372109,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.116
+SAMN31372110,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.293
+SAMN31372111,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.581
+SAMN31372112,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.058
+SAMN31372113,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.152
+SAMN31372114,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.08
+SAMN31372115,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.298
+SAMN31372116,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.209
+SAMN31372117,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.355
+SAMN31372118,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.441
+SAMN31372119,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.22
+SAMN31372120,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.504
+SAMN31372121,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.001
+SAMN31372122,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.236
+SAMN31372123,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.524
+SAMN31372124,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.023
+SAMN31372125,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.574
+SAMN31372126,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.339
+SAMN31372127,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.023
+SAMN31372128,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.166
+SAMN31372129,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.318
+SAMN31372130,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.81
+SAMN31372131,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.202
+SAMN31372132,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.409
+SAMN31372133,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.128
+SAMN31372134,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.049
+SAMN31372135,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.022
+SAMN31372136,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.254
+SAMN31372137,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.668
+SAMN31372138,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.066
+SAMN31372139,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.154
+SAMN31372140,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.245
+SAMN31372141,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.96
+SAMN31372142,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.109
+SAMN31372143,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.112
+SAMN31372144,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.071
+SAMN31372145,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.104
+SAMN31372146,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.164
+SAMN31372147,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.084
+SAMN31372148,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.279
+SAMN31372149,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.093
+SAMN31372150,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.015
+SAMN31372151,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.37
+SAMN31372152,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.006
+SAMN31372153,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.21
+SAMN31372154,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.04
+SAMN31372155,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.455
+SAMN31372156,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.016
+SAMN31372157,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.021
+SAMN31372158,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.192
+SAMN31372159,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.01
+SAMN31372160,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.067
+SAMN31372161,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.013
+SAMN31372162,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.006
+SAMN31372163,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.07
+SAMN31372164,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.007
+SAMN31372165,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.392
+SAMN31372166,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.027
+SAMN31372167,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.663
+SAMN31372168,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.034
+SAMN31372169,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.081
+SAMN31372170,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.005
+SAMN31372171,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.041
+SAMN31372172,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.046
+SAMN31372173,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.054
+SAMN31372174,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.009
+SAMN31372175,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.056
+SAMN31372176,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.02
+SAMN31372177,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.095
+SAMN31372178,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.07
+SAMN31372179,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.002
+SAMN31372180,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.003
+SAMN31372181,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.006
+SAMN31372182,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.035
+SAMN31372183,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.014
+SAMN31372184,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.008
+SAMN31372185,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.363
+SAMN31372186,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.171
+SAMN31372187,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.015
+SAMN31372188,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.063
+SAMN31372189,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.011
+SAMN31372190,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.278
+SAMN31372191,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.287
+SAMN31372192,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.046
+SAMN31372193,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.025
+SAMN31372194,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.102
+SAMN31372195,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.04
+SAMN31372196,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.223
+SAMN31372197,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.002
+SAMN31372198,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.861
+SAMN31372199,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.004
+SAMN31372200,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.037
+SAMN31372201,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.203
+SAMN31372202,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.015
+SAMN31372203,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.013
+SAMN31372204,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.038
+SAMN31372205,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.017
+SAMN31372206,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.043
+SAMN31372207,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.026
+SAMN31372208,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.02
+SAMN31372209,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.033
+SAMN31372210,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.449
+SAMN31372211,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.014
+SAMN31372212,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.028
+SAMN31372213,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.072
+SAMN31372214,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.019
+SAMN31372215,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,1.018
+SAMN31372216,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.036
+SAMN31372217,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.01
+SAMN31372218,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.406
+SAMN31372219,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.017
+SAMN31372220,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.0
+SAMN31372221,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.078
+SAMN31372222,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.066
+SAMN31372223,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.045
+SAMN31372224,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.065
+SAMN31372225,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.051
+SAMN31372226,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.013
+SAMN31372227,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.014
+SAMN31372228,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.325
+SAMN31372229,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.762
+SAMN31372230,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.014
+SAMN31372231,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.1
+SAMN31372232,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.133
+SAMN31372233,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.036
+SAMN31372234,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.059
+SAMN31372235,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.045
+SAMN31372236,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.692
+SAMN31372237,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.014
+SAMN31372238,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.037
+SAMN31372239,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.132
+SAMN31372240,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.63
+SAMN31372241,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.052
+SAMN31372242,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.106
+SAMN31372243,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.513
+SAMN31372244,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.255
+SAMN31372245,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.018
+SAMN31372246,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.27
+SAMN31372247,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.217
+SAMN31372248,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.461
+SAMN31372249,PRJNA698223,,,adult,,,PE,,mixed_case_control: Travelers with diarrhea vs travelers without diarrhea,,,yes,2012-08/2015-12,primary,1.0,0.04

@@ -1,0 +1,98 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN36946934,PRJNA1004560,CD-A,diagnosis,adolescent,5004.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,12.161
+SAMN36946935,PRJNA1004560,CD-A,diagnosis,adolescent,5004.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,9.739
+SAMN36946936,PRJNA1004560,CD-A,rescope,child,,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,7.264
+SAMN36946937,PRJNA1004560,CD-A,rescope,child,,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,8.566
+SAMN36946938,PRJNA1004560,CD-B,diagnosis,child,3762.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.725
+SAMN36946939,PRJNA1004560,CD-C,diagnosis,adolescent,5515.0,female,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,20.939
+SAMN36946940,PRJNA1004560,CD-C,diagnosis,adolescent,5515.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,7.502
+SAMN36946941,PRJNA1004560,CD-D,diagnosis,adolescent,5150.0,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.732
+SAMN36946942,PRJNA1004560,CD-D,diagnosis,adolescent,5150.0,male,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,4.571
+SAMN36946943,PRJNA1004560,CD-E,diagnosis,adolescent,4748.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,4.395
+SAMN36946944,PRJNA1004560,CD-E,rescope,child,,female,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,16.502
+SAMN36946945,PRJNA1004560,CD-F,diagnosis,child,3908.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,21.637
+SAMN36946946,PRJNA1004560,CD-F,diagnosis,child,3908.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,9.463
+SAMN36946947,PRJNA1004560,CD-G,diagnosis,adolescent,6319.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,10.45
+SAMN36946948,PRJNA1004560,CD-G,diagnosis,adolescent,6319.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,11.539
+SAMN36946949,PRJNA1004560,CD-H,diagnosis,adolescent,4383.0,female,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.713
+SAMN36946950,PRJNA1004560,CD-H,diagnosis,adolescent,4383.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.048
+SAMN36946951,PRJNA1004560,CD-H,rescope,child,,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,8.932
+SAMN36946952,PRJNA1004560,CD-I,diagnosis,adolescent,6319.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,20.195
+SAMN36946953,PRJNA1004560,CD-I,diagnosis,adolescent,6319.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,15.388
+SAMN36946954,PRJNA1004560,CD-I,rescope,child,,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,18.708
+SAMN36946955,PRJNA1004560,CD-I,rescope,child,,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,9.417
+SAMN36946956,PRJNA1004560,CD-J,diagnosis,adolescent,6282.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,12.257
+SAMN36946957,PRJNA1004560,CD-J,diagnosis,adolescent,6282.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,17.826
+SAMN36946958,PRJNA1004560,CD-K,diagnosis,child,3068.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,16.371
+SAMN36946959,PRJNA1004560,CD-L,diagnosis,child,3981.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,5.536
+SAMN36946960,PRJNA1004560,CD-L,diagnosis,child,3981.0,male,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,7.067
+SAMN36946961,PRJNA1004560,CD-M,diagnosis,adolescent,4383.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,9.684
+SAMN36946962,PRJNA1004560,CD-M,rescope,child,,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,18.629
+SAMN36946963,PRJNA1004560,CD-N,diagnosis,adolescent,6355.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,7.416
+SAMN36946964,PRJNA1004560,CD-N,diagnosis,adolescent,6355.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,10.454
+SAMN36946965,PRJNA1004560,CD-O,diagnosis,adolescent,5333.0,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,19.276
+SAMN36946966,PRJNA1004560,CD-P,diagnosis,adolescent,5406.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,20.862
+SAMN36946967,PRJNA1004560,CD-Q,diagnosis,adolescent,5771.0,female,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,17.299
+SAMN36946968,PRJNA1004560,CD-Q,rescope,child,,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,15.595
+SAMN36946969,PRJNA1004560,CD-R,diagnosis,adolescent,5954.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,12.32
+SAMN36946970,PRJNA1004560,CD-R,diagnosis,adolescent,5954.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,14.091
+SAMN36946971,PRJNA1004560,CD-S,diagnosis,adolescent,6063.0,male,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,16.587
+SAMN36946972,PRJNA1004560,CD-S,diagnosis,adolescent,6063.0,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,20.064
+SAMN36946973,PRJNA1004560,CD-T,diagnosis,adolescent,4675.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,26.22
+SAMN36946974,PRJNA1004560,CD-T,diagnosis,adolescent,4675.0,female,CA,crohns_disease,CD,,,no,2018-04/2019-12,excluded,1.0,24.082
+SAMN36946975,PRJNA1004560,CD-U,diagnosis,adolescent,4712.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,20.341
+SAMN36946976,PRJNA1004560,CD-U,diagnosis,adolescent,4712.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,17.265
+SAMN36946977,PRJNA1004560,NI-A,diagnosis,adolescent,5479.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,7.599
+SAMN36946978,PRJNA1004560,NI-B,diagnosis,adolescent,5406.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,6.217
+SAMN36946979,PRJNA1004560,NI-B,diagnosis,adolescent,5406.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,8.111
+SAMN36946980,PRJNA1004560,NI-C,diagnosis,adolescent,5479.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,7.96
+SAMN36946981,PRJNA1004560,NI-C,diagnosis,adolescent,5479.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,8.395
+SAMN36946982,PRJNA1004560,NI-D,diagnosis,adolescent,4529.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,7.519
+SAMN36946983,PRJNA1004560,NI-D,diagnosis,adolescent,4529.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,16.398
+SAMN36946984,PRJNA1004560,NI-E,diagnosis,adolescent,5698.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,6.023
+SAMN36946985,PRJNA1004560,NI-E,diagnosis,adolescent,5698.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,6.701
+SAMN36946986,PRJNA1004560,NI-F,diagnosis,child,3214.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,6.203
+SAMN36946987,PRJNA1004560,NI-F,diagnosis,child,3214.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,10.025
+SAMN36946988,PRJNA1004560,NI-G,diagnosis,child,1534.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,7.661
+SAMN36946989,PRJNA1004560,NI-H,diagnosis,child,1863.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,10.181
+SAMN36946990,PRJNA1004560,NI-H,diagnosis,child,1863.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,10.283
+SAMN36946991,PRJNA1004560,NI-I,diagnosis,adolescent,6136.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,9.767
+SAMN36946992,PRJNA1004560,NI-I,diagnosis,adolescent,6136.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,14.589
+SAMN36946993,PRJNA1004560,NI-J,diagnosis,adolescent,6027.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,15.514
+SAMN36946994,PRJNA1004560,NI-J,diagnosis,adolescent,6027.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,9.734
+SAMN36946995,PRJNA1004560,NI-K,diagnosis,adolescent,5479.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,19.553
+SAMN36946996,PRJNA1004560,NI-K,diagnosis,adolescent,5479.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,20.418
+SAMN36946997,PRJNA1004560,NI-L,diagnosis,adolescent,5223.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,16.59
+SAMN36946998,PRJNA1004560,NI-L,diagnosis,adolescent,5223.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,17.12
+SAMN36946999,PRJNA1004560,NI-M,diagnosis,child,3616.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,21.284
+SAMN36947000,PRJNA1004560,NI-M,diagnosis,child,3616.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,20.646
+SAMN36947001,PRJNA1004560,NI-N,diagnosis,adolescent,5698.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,20.92
+SAMN36947002,PRJNA1004560,NI-N,diagnosis,adolescent,5698.0,female,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,20.216
+SAMN36947003,PRJNA1004560,NI-O,diagnosis,adolescent,6355.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,17.031
+SAMN36947004,PRJNA1004560,NI-O,diagnosis,adolescent,6355.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,17.915
+SAMN36947005,PRJNA1004560,NI-P,diagnosis,adolescent,6465.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,18.842
+SAMN36947006,PRJNA1004560,NI-P,diagnosis,adolescent,6465.0,male,CA,healthy_control,NI,,,no,2018-04/2019-12,excluded,1.0,20.851
+SAMN36947016,PRJNA1004560,UC-A,diagnosis,child,4346.0,female,CA,other_disease,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,23.418
+SAMN36947017,PRJNA1004560,UC-A,rescope,child,,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,13.225
+SAMN36947018,PRJNA1004560,UC-A,rescope,child,,female,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,16.725
+SAMN36947019,PRJNA1004560,UC-B,diagnosis,adolescent,5734.0,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,16.151
+SAMN36947020,PRJNA1004560,UC-C,diagnosis,child,2301.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,11.119
+SAMN36947021,PRJNA1004560,UC-C,diagnosis,child,2301.0,female,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,12.013
+SAMN36947012,PRJNA1004560,UC-D,diagnosis,child,2447.0,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.436
+SAMN36947013,PRJNA1004560,UC-D,diagnosis,child,2447.0,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,7.709
+SAMN36947014,PRJNA1004560,UC-E,diagnosis,child,3908.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,7.408
+SAMN36947015,PRJNA1004560,UC-E,diagnosis,child,3908.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.606
+SAMN36947007,PRJNA1004560,UC-G,rescope,child,,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.031
+SAMN36947008,PRJNA1004560,UC-G,rescope,child,,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,8.977
+SAMN36947009,PRJNA1004560,UC-G,rescope,child,,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,8.277
+SAMN36947010,PRJNA1004560,UC-G,rescope,child,,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,22.763
+SAMN36947011,PRJNA1004560,UC-G,rescope,child,,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,13.481
+SAMN36947022,PRJNA1004560,UC-I,diagnosis,adolescent,5917.0,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,22.148
+SAMN36947023,PRJNA1004560,UC-J,diagnosis,adolescent,5661.0,female,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,18.832
+SAMN36947024,PRJNA1004560,UC-K,diagnosis,adolescent,5479.0,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,15.658
+SAMN36947025,PRJNA1004560,UC-K,diagnosis,adolescent,5479.0,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,18.226
+SAMN36947026,PRJNA1004560,UC-L,diagnosis,child,3506.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,17.248
+SAMN36947027,PRJNA1004560,UC-L,diagnosis,child,3506.0,female,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,20.919
+SAMN36947028,PRJNA1004560,UC-M,diagnosis,adolescent,4456.0,male,CA,gi_infection_or_diarrhoea,mixed_case_control: newly diagnosed treatment-naïve UC and CD patients vs non-IBD controls,,,no,2018-04/2019-12,excluded,1.0,17.141
+SAMN36947029,PRJNA1004560,UC-M,diagnosis,adolescent,4456.0,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,20.26
+SAMN36947030,PRJNA1004560,UC-N,diagnosis,adolescent,4785.0,male,CA,ulcerative_colitis,UC,,,no,2018-04/2019-12,excluded,1.0,18.946

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas — where taxa are carried · Microbiome Repo</title>
+<meta name="description" content="Interactive world map of genus and species carriage across 306,165 human gut metagenomes from 1,905 studies and 101 countries.">
+<meta name="catalog-release" content="data-v1.17.1">
+<meta name="catalog-release-id" content="R2026.19">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/atlas/index.html">
+<meta name="catalog-package-version" content="1.17.1">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<style>
+.atlas{display:grid;grid-template-columns:300px 1fr 320px;gap:1rem;align-items:start}
+@media (max-width:1100px){.atlas{grid-template-columns:1fr}}
+.atlas .side{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:.7rem;font-size:.88rem;position:sticky;top:56px;max-height:calc(100vh - 64px);overflow:auto}
+.atlas .side label{display:block;margin:.5rem 0 .15rem;color:var(--muted);font-size:.8rem}
+.atlas .side select,.atlas .side input{width:100%;padding:.35rem .45rem;border:1px solid var(--cu-light-gray);border-radius:5px;font-size:.9rem}
+#taxon-hits{list-style:none;margin:.3rem 0 0;padding:0;max-height:300px;overflow:auto;border:1px solid var(--line);border-radius:5px;background:#fff}
+#taxon-hits li{padding:.25rem .45rem;border-bottom:1px solid var(--line);cursor:pointer;display:flex;justify-content:space-between;gap:.5rem}
+#taxon-hits li:hover,#taxon-hits li.sel{background:var(--cu-pale-gold)}
+#taxon-hits li .r{color:var(--muted);font-size:.75rem;white-space:nowrap}
+#map-wrap{position:relative;background:#fff;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+#map{width:100%;height:auto;display:block;touch-action:none}
+#map .country{stroke:#fff;stroke-width:.4px;cursor:pointer}
+#map .country:hover{stroke:#000;stroke-width:1px}
+#map .country.sel{stroke:#000;stroke-width:1.4px}
+#map .graticule{fill:none;stroke:#eee;stroke-width:.5px}
+#map .sphere{fill:#f7f7f5;stroke:#ddd}
+#legend{position:absolute;left:.6rem;bottom:.6rem;background:rgba(255,255,255,.92);border:1px solid var(--line);border-radius:6px;padding:.35rem .5rem;font-size:.75rem}
+#tip{position:absolute;pointer-events:none;background:#000;color:#fff;font-size:.78rem;padding:.3rem .5rem;border-radius:4px;display:none;max-width:260px}
+.toggles{display:flex;flex-wrap:wrap;gap:.35rem;margin:.4rem 0}
+.toggles .btn.xs{padding:.15rem .5rem}
+.toggles .btn.xs.on{background:var(--cu-black);color:var(--cu-gold);border-color:var(--cu-black)}
+#taxon-head h2{margin:.2rem 0 .3rem;border:0;padding:0}
+#dossier table{font-size:.8rem}
+#dossier .agebar{display:flex;height:9px;border-radius:3px;overflow:hidden;background:var(--line);margin:.2rem 0}
+#dossier .agebar span{display:block;height:100%}
+.about{font-size:.88rem;background:var(--cu-pale-gold);border:1px solid var(--cu-gold);border-radius:8px;padding:.7rem .9rem;margin-top:1rem}
+.about summary{cursor:pointer;font-weight:600}
+details.crumb summary{cursor:pointer;color:var(--muted);font-size:.8rem}
+.mini{font-size:.78rem;color:var(--muted)}
+</style>
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html" class="active">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › Atlas</div>
+
+<h1>Atlas — where taxa are carried</h1>
+<p class="subnav"><a href="index.html" class="active">Taxon map</a> · <a href="pca.html">PCA of community profiles</a> · <a href="observations.html">Observations</a></p>
+<p class="lead">Pick a taxon and the map recolours every country by how often it is detected in that country's gut metagenomes.</p>
+<details class="about-page"><summary>About this page</summary><p>Data: Sandpiper 2.0.0 community profiles (GTDB R232 (Sandpiper 2.0.0, Zenodo 20419175)) for <b>306,165</b> catalog samples in <b>1,905</b> studies and <b>101</b> countries; the whole atlas payload is 22.9 MB and loads once per rank.
+See also the <a href="observations.html">18 data-driven observations</a> built on the same tables.</p></details>
+
+<div class="atlas">
+<div class="side">
+  <label for="taxon-q">Search a taxon</label>
+  <input id="taxon-q" type="search" placeholder="Bifidobacterium, Prevotella copri, Bacillota …" autocomplete="off">
+  <label for="rank-sel">Browse by rank</label>
+  <select id="rank-sel"><option value="phylum" >phylum (65)</option><option value="class" >class (168)</option><option value="order" >order (466)</option><option value="family" >family (1,093)</option><option value="genus" selected>genus (5,700)</option><option value="species" >species (500)</option></select>
+  <div class="mini" id="rank-note">Species: the 500 most prevalent species (detection ≥ 0.1 %).</div>
+  <ul id="taxon-hits"></ul>
+  <label>Colour by</label>
+  <div class="toggles" id="metric-toggle"><button class="btn xs on" data-v="prev">prevalence</button><button class="btn xs" data-v="mean">mean rel. abundance</button></div>
+  <label>Colour scale</label>
+  <div class="toggles" id="scale-toggle"><button class="btn xs on" data-v="rel">relative (0 – max)</button><button class="btn xs" data-v="fix">fixed (0 – 100 %)</button></div>
+  <label>Projection</label>
+  <div class="toggles" id="proj-toggle"><button class="btn xs on" data-v="flat">flat map</button><button class="btn xs" data-v="globe">globe (drag)</button></div>
+  <div class="mini">Countries with fewer than 30 samples are grey. Prevalence = share of a country's samples with relative abundance ≥ 1e-04 (genus and above) or ≥ 1e-03 (species).</div>
+</div>
+
+<div>
+  <div id="map-wrap"><svg id="map" viewBox="0 0 960 500" preserveAspectRatio="xMidYMid meet"></svg><div id="legend"></div><div id="tip"></div></div>
+  <div id="taxon-head"></div>
+  <div id="country-table"></div>
+</div>
+
+<div class="side" id="dossier"><b>Study dossier</b><div class="mini">Click a country to list its studies, then a study for its dossier (n samples, prevalence, mean abundance, life stages, link to the study page).</div></div>
+</div>
+
+<details class="about" id="about" open>
+<summary>About this view — read before interpreting a map</summary>
+<ul>
+<li><b>Study is the master confounder.</b> Most studies sample one country and one life stage with one protocol; a country's colour is the mixture of its few studies (click a country to see them). Compare countries only when the study list looks comparable, and prefer the per-study dossiers.</li>
+<li><b>Repeated measures.</b> Longitudinal cohorts contribute many samples per subject; n samples overstates the number of people.</li>
+<li><b>Depth.</b> Detection at ≥ 1e-4 depends on sequencing depth; shallow studies under-detect rare taxa (see the depth card on the observations page).</li>
+<li><b>Which runs are profiled.</b> Sandpiper profiles Illumina runs ≥ 100 Mbp public before its snapshot; runs failing its QC (non-metagenome, synthetic, RNA, predicted non-gut, root coverage &lt; 2) and samples whose body site is not primary gut were excluded (body_site_class == primary; not qc_non_metagenome / qc_synthetic / qc_rna / qc_predicted_ecological / qc_low_depth / qc_no_genus_assigned).</li>
+<li><b>Taxonomy.</b> GTDB R232 (Sandpiper 2.0.0, Zenodo 20419175): names follow GTDB, so <i>Prevotella copri</i> is <i>Prevotella</i>, <i>Bacteroides vulgatus</i> is <i>Phocaeicola vulgatus</i>, and suffixed genera (Blautia_A) are GTDB placeholders.</li>
+<li><b>Hong Kong and Singapore</b> are drawn as dots (the 110 m base map merges them into larger polygons). Country is missing for 4.0 % of samples.</li>
+<li><b>Payload.</b> <code>data/atlas/taxa.json</code> (index), <code>countries.json</code>, <code>studies.json</code>, <code>matrix_&lt;rank&gt;.bin</code> — format documented in <code>taxa.json → meta.format</code>; HDI values in <code>country_hdi.csv</code> (UNDP Human Development Report 2025, Statistical Annex Table 1 (HDI 2023); band: high &gt;= 0.80, middle 0.70-0.79, low &lt; 0.70; countries without a UNDP value (e.g. PR, TW, GF, IO, TC) have no band; 96 of 101 atlas countries have a value).</li>
+</ul>
+</details>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.19"><span class="mono">R2026.19</span></a> · package <span class="mono">1.17.1</span> · build <span class="mono">06fe280</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.19.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.17.1',release:'data-v1.17.1',releaseId:'R2026.19',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+<script>window.ATLAS_ROOT='../';</script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js" integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67" crossorigin="anonymous"></script>
+<script src="../static/atlas.js"></script>
+
+</body>
+</html>

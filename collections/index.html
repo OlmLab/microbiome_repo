@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Collections — Microbiome Repo</title>
+<meta name="description" content="32 curated collections of catalog studies and samples — benchmark cohorts, populations, lifestyles, diseases, study designs and age bands — each opening in the sample explorer with its filters pre-entered.">
+<meta name="catalog-release" content="data-v1.17.1">
+<meta name="catalog-release-id" content="R2026.19">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/collections/index.html">
+<meta name="catalog-package-version" content="1.17.1">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html" class="active">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › Collections</div>
+
+<h1>Collections (32)</h1>
+<p class="lead">A collection is a named, curated set of catalog studies or samples with its filters pre-entered: the reference cohorts everyone re-analyses, landmark populations, disease reference sets, dense longitudinal designs, age bands.</p>
+<details class="about-page"><summary>About this page</summary><p>Every count below is computed at build time on the released sample table, so it equals what the <a href="../samples/index.html">sample explorer</a> shows when you open the collection. Membership rules live in <span class="mono">config/collections.yaml</span>; to propose a collection or a correction, <a href="../docs/COLLECTIONS.html">open a pull request</a>.</p></details>
+
+<h2 id="kind-benchmark">Benchmark and reference cohorts <span class="small">(5)</span></h2>
+<div class="cards">
+<a class="card" id="hmp1-healthy-adults" href="hmp1-healthy-adults.html"><b>HMP1 healthy adult reference (Human Microbiome Project, WGS)</b><br><span class="small">The NIH Human Microbiome Project phase 1 shotgun metagenomes of clinically healthy US adults (Houston and St Louis), the most reused healthy-adult reference set; the BioProject spans all HMP body sites, so restrict to gut samples with body_site_class.</span><br><span class="mono small">2 studies · 530 samples</span></a>
+<a class="card" id="hmp2-ibdmdb" href="hmp2-ibdmdb.html"><b>HMP2 / IBDMDB longitudinal IBD multi-omics cohort</b><br><span class="small">The Integrative HMP inflammatory bowel disease cohort (IBDMDB): 132 subjects with Crohn&#39;s disease, ulcerative colitis or no IBD, followed for one year with stool metagenomes, metatranscriptomes and biopsies at five US centres.</span><br><span class="mono small">2 studies · 2,341 samples</span></a>
+<a class="card" id="metahit" href="metahit.html"><b>MetaHIT European gut metagenome cohorts</b><br><span class="small">The MetaHIT consortium deposits underlying the first gut gene catalogue and the metagenomic-species work: Danish and Spanish adults (Qin 2010), Danish obese/lean adults (Le Chatelier 2013, Nielsen 2014) and the integrated gene catalogue samples (Li 2014).</span><br><span class="mono small">4 studies · 1,071 samples</span></a>
+<a class="card" id="healthy-adult-reference" href="healthy-adult-reference.html"><b>Curated healthy adult gut samples (all studies)</b><br><span class="small">Every gut sample in the curated catalog whose source states the subject is healthy or a control and whose age at collection falls in the adult band (18–65 y). The catalog&#39;s own counterpart of the curatedMetagenomicData healthy-adult set; membership is evidence-backed per sample.</span><br><span class="mono small">524 studies · 54,676 samples</span></a>
+<a class="card" id="protocol-benchmarks-mock-controls" href="protocol-benchmarks-mock-controls.html"><b>Protocol benchmarks with mock-community controls</b><br><span class="small">Human stool studies that sequenced a defined mock community (ZymoBIOMICS or in-house standards) alongside real samples to compare DNA extraction kits, library protocols or 16S versus shotgun profiling — useful as positive controls and for bias estimation.</span><br><span class="mono small">5 studies · 577 samples</span></a>
+</div>
+
+<h2 id="kind-population">Population cohorts <span class="small">(5)</span></h2>
+<div class="cards">
+<a class="card" id="american-gut-shotgun" href="american-gut-shotgun.html"><b>American Gut Project shotgun subset</b><br><span class="small">Shotgun metagenomes from the crowd-sourced American Gut Project (US, UK and Australia self-collected stool with extensive diet and lifestyle questionnaires); the largest single citizen-science deposit in the catalog.</span><br><span class="mono small">1 studies · 7,024 samples</span></a>
+<a class="card" id="predict-diet-cohorts" href="predict-diet-cohorts.html"><b>PREDICT personalised-nutrition cohorts (UK/US)</b><br><span class="small">ZOE PREDICT 1, 2 and 3 deep-phenotyped adults (TwinsUK and volunteers in the UK and US) with habitual-diet records and postprandial metabolic responses; PREDICT 3 adds more than 20,000 stool metagenomes.</span><br><span class="mono small">4 studies · 22,890 samples</span></a>
+<a class="card" id="hadza-hunter-gatherers" href="hadza-hunter-gatherers.html"><b>Hadza hunter-gatherers (Tanzania)</b><br><span class="small">All shotgun deposits from the Hadza of Tanzania, the reference hunter-gatherer population: Rampelli 2015, the seasonal-cycling cohort (Smits 2017) and the deep-sequenced adults and infants of Carter 2023 / Olm 2022 (with Nepali comparison groups in the same BioProject).</span><br><span class="mono small">1 studies · 40 samples</span></a>
+<a class="card" id="amazonian-amerindian" href="amazonian-amerindian.html"><b>Amazonian and Amerindian communities</b><br><span class="small">Indigenous South American communities with traditional subsistence: Matses hunter-gatherers and Tunapuco highland agriculturalists (Peru), Yanomami and Yekwana villages (Venezuela, Brazil) and the Wayampi of French Guiana — the low-industrialization reference for Prevotella/Treponema-rich microbiomes.</span><br><span class="mono small">1 studies · 15 samples</span></a>
+<a class="card" id="controlled-access-population-cohorts" href="controlled-access-population-cohorts.html"><b>Controlled-access population cohorts (reference only)</b><br><span class="small">Large general-population gut metagenome cohorts whose raw reads are deposited under controlled access and therefore cannot be curated here: LifeLines-DEEP (Netherlands, Zhernakova et al. 2016) has only its metagenome-assembled genomes in the public archive (PRJEB76860, 0 read runs). Listed so the gap is explicit; the collection carries no samples.</span><br><span class="mono small">0 studies · 0 samples</span></a>
+</div>
+
+<h2 id="kind-lifestyle">Lifestyle <span class="small">(5)</span></h2>
+<div class="cards">
+<a class="card" id="olm-2022-lifestyle-infants" href="olm-2022-lifestyle-infants.html"><b>Olm 2022 Hadza infant cohort (lifestyle spectrum)</b><br><span class="small">Infant stool metagenomes from the Hadza deposited with Olm et al. 2022 (Science), the non-industrialized anchor of the infant lifestyle-spectrum comparison; restricted to the neonate/infant age bands of BioProject PRJEB49206.</span><br><span class="mono small">1 studies · 121 samples</span></a>
+<a class="card" id="industrialization-gradients" href="industrialization-gradients.html"><b>Industrialised vs non-industrialised comparisons</b><br><span class="small">Cohorts designed around an urbanisation or industrialisation contrast: Cameroon and African rural–urban gradients, Ghanaian and Malagasy villages (Pasolli 2019), isolated Honduran villages, Fijian villages, Orang Asli, the Baiga tribe and Irish Travellers.</span><br><span class="mono small">3 studies · 2,651 samples</span></a>
+<a class="card" id="highland-and-plateau" href="highland-and-plateau.html"><b>High-altitude and plateau populations</b><br><span class="small">Residents of high-altitude environments: Tibetan and Yi populations of the Qinghai–Tibet plateau, Papua New Guinea highlanders and a mountaineering-expedition cohort.</span><br><span class="mono small">2 studies · 75 samples</span></a>
+<a class="card" id="athletes" href="athletes.html"><b>Athletes and elite sport</b><br><span class="small">Cohorts defined by sport: professional and elite cyclists, Irish and Chinese elite athletes, marathon runners, recreational athletes stratified by fitness, and sport-nutrition trials.</span><br><span class="mono small">6 studies · 319 samples</span></a>
+<a class="card" id="vegetarian-vegan" href="vegetarian-vegan.html"><b>Vegan and vegetarian diet cohorts</b><br><span class="small">Cohorts recruited by habitual diet — vegans, vegetarians and omnivore comparison groups — including the Stanford identical-twin vegan trial and Central European vegan/omnivore cohorts.</span><br><span class="mono small">0 studies · 0 samples</span></a>
+</div>
+
+<h2 id="kind-disease">Disease reference sets <span class="small">(8)</span></h2>
+<div class="cards">
+<a class="card" id="crc-meta-analysis-cohorts" href="crc-meta-analysis-cohorts.html"><b>Colorectal cancer meta-analysis cohorts (Wirbel / Thomas 2019)</b><br><span class="small">The eight case–control shotgun cohorts pooled by Wirbel et al. and Thomas et al. (Nature Medicine 2019): France, Austria, Germany, China, USA, two Italian cohorts and Japan — the standard benchmark for cross-cohort CRC classifiers.</span><br><span class="mono small">8 studies · 1,641 samples</span></a>
+<a class="card" id="colorectal-cancer-samples" href="colorectal-cancer-samples.html"><b>All colorectal cancer and adenoma samples</b><br><span class="small">Every gut sample in the catalog whose evidence assigns colorectal cancer or colorectal adenoma/polyp as the health condition, whatever the study — for extending the CRC benchmark beyond the 2019 meta-analysis cohorts.</span><br><span class="mono small">84 studies · 5,951 samples</span></a>
+<a class="card" id="t2d-reference-cohorts" href="t2d-reference-cohorts.html"><b>Type 2 diabetes reference cohorts (Qin 2012, Karlsson 2013)</b><br><span class="small">The two founding T2D metagenome-wide association cohorts — Chinese adults (Qin 2012) and 70-year-old European women with normal, impaired and diabetic glucose control (Karlsson 2013) — plus the large Gothenburg pre-diabetes/T2D cohort.</span><br><span class="mono small">3 studies · 2,340 samples</span></a>
+<a class="card" id="type2-diabetes-samples" href="type2-diabetes-samples.html"><b>All type 2 diabetes / prediabetes samples</b><br><span class="small">Every gut sample assigned type 2 diabetes or prediabetes by the curated health_condition, across all studies.</span><br><span class="mono small">68 studies · 5,121 samples</span></a>
+<a class="card" id="ibd-reference-cohorts" href="ibd-reference-cohorts.html"><b>IBD reference cohorts</b><br><span class="small">Landmark inflammatory bowel disease shotgun cohorts: HMP2/IBDMDB, the PRISM cohort (Franzosa 2019), the Broad longitudinal IBD stool study (Hall 2017) and the disease-adapted-lineage cohort of 2024.</span><br><span class="mono small">5 studies · 3,783 samples</span></a>
+<a class="card" id="ibd-samples" href="ibd-samples.html"><b>All IBD samples (Crohn&#39;s, ulcerative colitis, unspecified)</b><br><span class="small">Every gut sample whose curated health_condition is Crohn&#39;s disease, ulcerative colitis or IBD unspecified, across all studies.</span><br><span class="mono small">167 studies · 15,369 samples</span></a>
+<a class="card" id="liver-cirrhosis-cohorts" href="liver-cirrhosis-cohorts.html"><b>Liver cirrhosis cohorts</b><br><span class="small">Shotgun cohorts of liver cirrhosis: the Chinese case–control cohort of Qin 2014 (the cirrhosis MWAS), the MICROB-PREDICT decompensated-cirrhosis deposit and the PROFIT FMT-in-cirrhosis trial. Pair with the liver_disease health-condition filter for all liver-disease samples.</span><br><span class="mono small">3 studies · 808 samples</span></a>
+<a class="card" id="liver-disease-samples" href="liver-disease-samples.html"><b>All liver disease samples</b><br><span class="small">Every gut sample whose curated health_condition is liver disease (cirrhosis, hepatitis, hepatocellular carcinoma, hepatic encephalopathy), across all studies.</span><br><span class="mono small">48 studies · 4,386 samples</span></a>
+</div>
+
+<h2 id="kind-design">Study design <span class="small">(6)</span></h2>
+<div class="cards">
+<a class="card" id="twins-and-families" href="twins-and-families.html"><b>Twin and family cohorts</b><br><span class="small">Twin-pair and family designs that separate host genetics from shared environment: TwinsUK shotgun deposits, Turnbaugh 2009 obese/lean twins, Korean and Chinese twins, Malawian twins discordant for malnutrition, and twin viromes.</span><br><span class="mono small">12 studies · 4,130 samples</span></a>
+<a class="card" id="dense-longitudinal-subjects" href="dense-longitudinal-subjects.html"><b>Densely sampled subjects (≥ 5 gut samples per subject)</b><br><span class="small">Every subject in the catalog with at least five gut samples linked to the same subject_id — the time-series slice for strain tracking, stability and perturbation-recovery analyses. Dominated by infant birth cohorts (TEDDY, DIABIMMUNE), IBDMDB and adult time-series studies.</span><br><span class="mono small">417 studies · 105,839 samples</span></a>
+<a class="card" id="adult-time-series-cohorts" href="adult-time-series-cohorts.html"><b>Adult time-series reference cohorts</b><br><span class="small">Healthy-adult cohorts sampled repeatedly over months to years: the Broad/OpenBiome BIO-ML donors, dense FMT-donor series, the Gothenburg longitudinal non-disease cohort, HPFS men sampled twice six months apart and the ciprofloxacin time-series volunteers.</span><br><span class="mono small">5 studies · 3,763 samples</span></a>
+<a class="card" id="fmt-trials" href="fmt-trials.html"><b>Faecal microbiota transplantation trials</b><br><span class="small">Randomised and single-arm FMT trials with shotgun follow-up across indications — ulcerative colitis, IBS, obesity, Parkinson&#39;s disease, hypertension, cirrhosis, diabetic neuropathy, immunotherapy resistance in melanoma and lung cancer, and CPE decolonisation — plus FMT donor series.</span><br><span class="mono small">19 studies · 5,375 samples</span></a>
+<a class="card" id="antibiotic-intervention-cohorts" href="antibiotic-intervention-cohorts.html"><b>Antibiotic intervention and recovery cohorts</b><br><span class="small">Studies in which antibiotics were administered by design or documented as the exposure of interest, with before/after shotgun sampling: healthy-volunteer courses (cefprozil, ciprofloxacin, beta-lactams), probiotic-after-antibiotic trials, travellers&#39;-diarrhoea regimens, mass azithromycin distribution and preterm-infant exposure.</span><br><span class="mono small">14 studies · 5,920 samples</span></a>
+<a class="card" id="antibiotic-exposed-samples" href="antibiotic-exposed-samples.html"><b>Samples with documented antibiotic exposure</b><br><span class="small">All gut samples whose source records antibiotics at or shortly before collection (antibiotic_exposure = yes), across every study — the cross-study exposure set for resistome and recovery analyses.</span><br><span class="mono small">189 studies · 16,020 samples</span></a>
+</div>
+
+<h2 id="kind-age">Age bands <span class="small">(3)</span></h2>
+<div class="cards">
+<a class="card" id="neonates-first-28-days" href="neonates-first-28-days.html"><b>Neonates (first 28 days of life)</b><br><span class="small">Every gut sample collected in the first 28 days of life (age_category = neonate), across term and preterm birth cohorts and NICU studies; the earliest colonisation window.</span><br><span class="mono small">130 studies · 12,574 samples</span></a>
+<a class="card" id="centenarians-extreme-longevity" href="centenarians-extreme-longevity.html"><b>Centenarians and extreme longevity</b><br><span class="small">Cohorts recruited for exceptional age: Japanese centenarians (Sato 2021), Sardinian semi-supercentenarians (Rampelli 2020), Chinese longevity areas (Guangxi and Sichuan cohorts), longevous families and the Greek Blue Zone cohort.</span><br><span class="mono small">5 studies · 755 samples</span></a>
+<a class="card" id="elderly-samples" href="elderly-samples.html"><b>Older adults (≥ 65 y)</b><br><span class="small">Every gut sample from subjects in the elderly age band (≥ 65 y at collection), across all studies.</span><br><span class="mono small">364 studies · 28,299 samples</span></a>
+</div>
+
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.19"><span class="mono">R2026.19</span></a> · package <span class="mono">1.17.1</span> · build <span class="mono">06fe280</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.19.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.17.1',release:'data-v1.17.1',releaseId:'R2026.19',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

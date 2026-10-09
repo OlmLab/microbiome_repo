@@ -1,0 +1,430 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN15156364,PRJNA637785,DF12,donation 2,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.321
+SAMN15156365,PRJNA637785,DF12,donation 3,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.414
+SAMN15156366,PRJNA637785,DF12,donation 4,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.641
+SAMN15156367,PRJNA637785,DF12,donation 5,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.247
+SAMN15156368,PRJNA637785,DF12,donation 6,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.293
+SAMN15156369,PRJNA637785,DF12,donation 7,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.581
+SAMN15156370,PRJNA637785,DF12,donation 8,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.847
+SAMN15156371,PRJNA637785,DF12,donation 9,adult,6939.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.583
+SAMN15156372,PRJNA637785,DF14,donation 2,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.193
+SAMN15156373,PRJNA637785,DF14,donation 3,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.373
+SAMN15156374,PRJNA637785,DF14,donation 4,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.345
+SAMN15156375,PRJNA637785,DF14,donation 5,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.681
+SAMN15156376,PRJNA637785,DF14,donation 6,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.651
+SAMN15156377,PRJNA637785,DF14,donation 7,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.748
+SAMN15156378,PRJNA637785,DF14,donation 8,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.849
+SAMN15156379,PRJNA637785,DF14,donation 9,adult,9496.5,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.493
+SAMN15156380,PRJNA637785,DF16,donation 2,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,8.003
+SAMN15156381,PRJNA637785,DF16,donation 3,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.182
+SAMN15156387,PRJNA637785,DF16,donation 4a,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.426
+SAMN15156388,PRJNA637785,DF16,donation 4b,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.428
+SAMN15156382,PRJNA637785,DF16,donation 5,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.256
+SAMN15156383,PRJNA637785,DF16,donation 6,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,8.099
+SAMN15156384,PRJNA637785,DF16,donation 7,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.686
+SAMN15156385,PRJNA637785,DF16,donation 8,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.293
+SAMN15156386,PRJNA637785,DF16,donation 9,adult,9857.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.437
+SAMN15156396,PRJNA637785,DF17,donation 2a,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.598
+SAMN15156397,PRJNA637785,DF17,donation 2b,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.846
+SAMN15156389,PRJNA637785,DF17,donation 3,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.374
+SAMN15156390,PRJNA637785,DF17,donation 4,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.932
+SAMN15156391,PRJNA637785,DF17,donation 5,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.458
+SAMN15156392,PRJNA637785,DF17,donation 6,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.226
+SAMN15156393,PRJNA637785,DF17,donation 7,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.781
+SAMN15156394,PRJNA637785,DF17,donation 8,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.836
+SAMN15156395,PRJNA637785,DF17,donation 9,adult,9131.0,female,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.103
+SAMN15156398,PRJNA637785,DM03,donation 1,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,8.543
+SAMN15156399,PRJNA637785,DM03,donation 2,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.435
+SAMN15156400,PRJNA637785,DM03,donation 3,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.856
+SAMN15156401,PRJNA637785,DM03,donation 4,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.306
+SAMN15156402,PRJNA637785,DM03,donation 5,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.492
+SAMN15156403,PRJNA637785,DM03,donation 6,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.799
+SAMN15156404,PRJNA637785,DM05,donation 1,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,8.408
+SAMN15156405,PRJNA637785,DM07,donation 1,adult,7670.2,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.701
+SAMN15156406,PRJNA637785,DM07,donation 2,adult,7670.2,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.135
+SAMN15156407,PRJNA637785,DM07,donation 3,adult,7670.2,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.802
+SAMN15156408,PRJNA637785,DM07,donation 4,adult,7670.2,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.822
+SAMN15156409,PRJNA637785,DM07,donation 5,adult,7670.2,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.663
+SAMN15156410,PRJNA637785,DM07,donation 6,adult,7670.2,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.434
+SAMN15156411,PRJNA637785,DM08,donation 1,adult,9857.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.555
+SAMN15156412,PRJNA637785,DM08,donation 2,adult,9857.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.686
+SAMN15156413,PRJNA637785,DM08,donation 3,adult,9857.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.337
+SAMN15156414,PRJNA637785,DM08,donation 4,adult,9857.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.333
+SAMN15156415,PRJNA637785,DM08,donation 5,adult,9857.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.044
+SAMN15156416,PRJNA637785,DM08,donation 6,adult,9857.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.352
+SAMN15156417,PRJNA637785,DM12,donation 2,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.238
+SAMN15156418,PRJNA637785,DM12,donation 3,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.646
+SAMN15156419,PRJNA637785,DM12,donation 4,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,5.941
+SAMN15156420,PRJNA637785,DM12,donation 5,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,6.466
+SAMN15156421,PRJNA637785,DM12,donation 6,adult,9131.0,male,NZ,healthy_control,donor,no_intervention,donor stool donation sample,,2017-10/2019-03,primary,1.0,7.053
+SAMN15156425,PRJNA637785,TF01,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,7.288
+SAMN15156422,PRJNA637785,TF01,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.338
+SAMN15156423,PRJNA637785,TF01,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.182
+SAMN15156424,PRJNA637785,TF01,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.38
+SAMN15156429,PRJNA637785,TF02,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,7.587
+SAMN15156426,PRJNA637785,TF02,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.476
+SAMN15156427,PRJNA637785,TF02,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.492
+SAMN15156428,PRJNA637785,TF02,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.276
+SAMN44563938,PRJNA637785,TF02,year 4,adult,7670.2,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-12,primary,1.0,6.363
+SAMN15156433,PRJNA637785,TF03,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.63
+SAMN15156430,PRJNA637785,TF03,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.895
+SAMN15156431,PRJNA637785,TF03,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.991
+SAMN15156432,PRJNA637785,TF03,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.117
+SAMN15156434,PRJNA637785,TF04,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.26
+SAMN15156438,PRJNA637785,TF05,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.783
+SAMN15156435,PRJNA637785,TF05,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.143
+SAMN15156436,PRJNA637785,TF05,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.634
+SAMN15156437,PRJNA637785,TF05,week 6,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.045
+SAMN44563939,PRJNA637785,TF05,year 4,adult,8391.0,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-18,primary,1.0,6.119
+SAMN15156442,PRJNA637785,TF06,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.047
+SAMN15156439,PRJNA637785,TF06,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.281
+SAMN15156440,PRJNA637785,TF06,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.51
+SAMN15156441,PRJNA637785,TF06,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.546
+SAMN15156446,PRJNA637785,TF07,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.52
+SAMN15156443,PRJNA637785,TF07,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.924
+SAMN15156444,PRJNA637785,TF07,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.511
+SAMN15156445,PRJNA637785,TF07,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.705
+SAMN44563940,PRJNA637785,TF07,year 4,adult,8035.5,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-06,primary,1.0,4.97
+SAMN15156448,PRJNA637785,TF08,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.48
+SAMN15156447,PRJNA637785,TF08,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.894
+SAMN15156450,PRJNA637785,TF09,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.874
+SAMN15156449,PRJNA637785,TF09,week 6,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.45
+SAMN44563941,PRJNA637785,TF09,year 4,adult,8391.0,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-16,primary,1.0,6.099
+SAMN15156454,PRJNA637785,TF10,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.422
+SAMN15156451,PRJNA637785,TF10,week 12,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.146
+SAMN15156452,PRJNA637785,TF10,week 26,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.637
+SAMN15156453,PRJNA637785,TF10,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.879
+SAMN44563942,PRJNA637785,TF10,year 4,adult,8391.0,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-09-14,primary,1.0,6.171
+SAMN15156458,PRJNA637785,TF11,baseline,adult,6939.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.745
+SAMN15156455,PRJNA637785,TF11,week 12,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.067
+SAMN15156456,PRJNA637785,TF11,week 26,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.337
+SAMN15156457,PRJNA637785,TF11,week 6,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.699
+SAMN15156462,PRJNA637785,TF12,baseline,adolescent,5113.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.812
+SAMN15156459,PRJNA637785,TF12,week 12,adolescent,5113.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.196
+SAMN15156460,PRJNA637785,TF12,week 26,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.62
+SAMN15156461,PRJNA637785,TF12,week 6,adolescent,5113.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.601
+SAMN15156466,PRJNA637785,TF13,baseline,adolescent,5113.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.121
+SAMN15156463,PRJNA637785,TF13,week 12,adolescent,5113.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.07
+SAMN15156464,PRJNA637785,TF13,week 26,adolescent,,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.291
+SAMN15156465,PRJNA637785,TF13,week 6,adolescent,5113.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.51
+SAMN15156468,PRJNA637785,TF14,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.616
+SAMN15156467,PRJNA637785,TF14,week 6,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.571
+SAMN15156472,PRJNA637785,TF15,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.258
+SAMN15156469,PRJNA637785,TF15,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.442
+SAMN15156470,PRJNA637785,TF15,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.473
+SAMN15156471,PRJNA637785,TF15,week 6,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.051
+SAMN44563943,PRJNA637785,TF15,year 4,adult,8035.5,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-07-08,primary,1.0,6.161
+SAMN15156476,PRJNA637785,TF16,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.891
+SAMN15156473,PRJNA637785,TF16,week 12,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.953
+SAMN15156474,PRJNA637785,TF16,week 26,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.719
+SAMN15156475,PRJNA637785,TF16,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,8.028
+SAMN15156480,PRJNA637785,TF17,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.444
+SAMN15156477,PRJNA637785,TF17,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.265
+SAMN15156478,PRJNA637785,TF17,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.076
+SAMN15156479,PRJNA637785,TF17,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.466
+SAMN15156484,PRJNA637785,TF18,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,7.241
+SAMN15156481,PRJNA637785,TF18,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.782
+SAMN15156482,PRJNA637785,TF18,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.145
+SAMN15156483,PRJNA637785,TF18,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.991
+SAMN44563944,PRJNA637785,TF18,year 4,adult,8035.5,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-12,primary,1.0,5.474
+SAMN15156488,PRJNA637785,TF19,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.277
+SAMN15156485,PRJNA637785,TF19,week 12,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.101
+SAMN15156486,PRJNA637785,TF19,week 26,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.552
+SAMN15156487,PRJNA637785,TF19,week 6,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.061
+SAMN44563945,PRJNA637785,TF19,year 4,adult,8391.0,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-28,primary,1.0,6.09
+SAMN15156492,PRJNA637785,TF20,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.2
+SAMN15156489,PRJNA637785,TF20,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.459
+SAMN15156490,PRJNA637785,TF20,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.673
+SAMN15156491,PRJNA637785,TF20,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.558
+SAMN15156496,PRJNA637785,TF21,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.518
+SAMN15156493,PRJNA637785,TF21,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.606
+SAMN15156494,PRJNA637785,TF21,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.396
+SAMN15156495,PRJNA637785,TF21,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.458
+SAMN44563946,PRJNA637785,TF21,year 4,adult,8035.5,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-11-15,primary,1.0,6.152
+SAMN15156500,PRJNA637785,TF22,baseline,adult,6939.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.47
+SAMN15156497,PRJNA637785,TF22,week 12,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.512
+SAMN15156498,PRJNA637785,TF22,week 26,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.054
+SAMN15156499,PRJNA637785,TF22,week 6,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.942
+SAMN44563947,PRJNA637785,TF22,year 4,adult,8391.0,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-09-29,primary,1.0,5.999
+SAMN15156504,PRJNA637785,TF23,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.474
+SAMN15156501,PRJNA637785,TF23,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,4.99
+SAMN15156502,PRJNA637785,TF23,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.714
+SAMN15156503,PRJNA637785,TF23,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.893
+SAMN15156508,PRJNA637785,TF24,baseline,adolescent,5113.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.871
+SAMN15156505,PRJNA637785,TF24,week 12,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.514
+SAMN15156506,PRJNA637785,TF24,week 26,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.009
+SAMN15156507,PRJNA637785,TF24,week 6,adolescent,5113.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.334
+SAMN15156512,PRJNA637785,TF25,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.412
+SAMN15156509,PRJNA637785,TF25,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.247
+SAMN15156510,PRJNA637785,TF25,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.086
+SAMN15156511,PRJNA637785,TF25,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.348
+SAMN15156516,PRJNA637785,TF26,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.836
+SAMN15156513,PRJNA637785,TF26,week 12,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.043
+SAMN15156514,PRJNA637785,TF26,week 26,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.003
+SAMN15156515,PRJNA637785,TF26,week 6,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.795
+SAMN44563948,PRJNA637785,TF26,year 4,adult,8391.0,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-06-09,primary,1.0,6.243
+SAMN15156520,PRJNA637785,TF27,baseline,adult,6939.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.791
+SAMN15156517,PRJNA637785,TF27,week 12,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.368
+SAMN15156518,PRJNA637785,TF27,week 26,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,2.997
+SAMN15156519,PRJNA637785,TF27,week 6,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.511
+SAMN44563949,PRJNA637785,TF27,year 4,adult,8391.0,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-04-29,primary,1.0,6.285
+SAMN15156524,PRJNA637785,TF28,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.358
+SAMN15156521,PRJNA637785,TF28,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.568
+SAMN15156522,PRJNA637785,TF28,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,4.955
+SAMN15156523,PRJNA637785,TF28,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.048
+SAMN44563950,PRJNA637785,TF28,year 4,adult,8035.5,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-11-10,primary,1.0,6.258
+SAMN15156528,PRJNA637785,TF29,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.971
+SAMN15156525,PRJNA637785,TF29,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.781
+SAMN15156526,PRJNA637785,TF29,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.239
+SAMN15156527,PRJNA637785,TF29,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.25
+SAMN44563951,PRJNA637785,TF29,year 4,adult,8035.5,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-26,primary,1.0,6.069
+SAMN15156532,PRJNA637785,TF30,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,8.482
+SAMN15156529,PRJNA637785,TF30,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.126
+SAMN15156530,PRJNA637785,TF30,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.606
+SAMN15156531,PRJNA637785,TF30,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.549
+SAMN15156536,PRJNA637785,TF31,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.62
+SAMN15156533,PRJNA637785,TF31,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.179
+SAMN15156534,PRJNA637785,TF31,week 26,adult,6939.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,4.474
+SAMN15156535,PRJNA637785,TF31,week 6,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.172
+SAMN15156540,PRJNA637785,TF32,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.527
+SAMN15156537,PRJNA637785,TF32,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,4.998
+SAMN15156538,PRJNA637785,TF32,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.519
+SAMN15156539,PRJNA637785,TF32,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.942
+SAMN44563952,PRJNA637785,TF32,year 4,adult,8035.5,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-02-06,primary,1.0,5.399
+SAMN15156542,PRJNA637785,TF33,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,7.418
+SAMN15156541,PRJNA637785,TF33,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,8.086
+SAMN15156546,PRJNA637785,TF34,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.846
+SAMN15156543,PRJNA637785,TF34,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.022
+SAMN15156544,PRJNA637785,TF34,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.652
+SAMN15156545,PRJNA637785,TF34,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,8.196
+SAMN44563953,PRJNA637785,TF34,year 4,adult,7305.0,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-09-20,primary,1.0,6.363
+SAMN15156550,PRJNA637785,TF35,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.25
+SAMN15156547,PRJNA637785,TF35,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.353
+SAMN15156548,PRJNA637785,TF35,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.501
+SAMN15156549,PRJNA637785,TF35,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.682
+SAMN44563954,PRJNA637785,TF35,year 4,adult,7670.2,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-10,primary,1.0,5.553
+SAMN15156554,PRJNA637785,TF36,baseline,adolescent,5479.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.312
+SAMN15156551,PRJNA637785,TF36,week 12,adolescent,5479.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.6
+SAMN15156552,PRJNA637785,TF36,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.445
+SAMN15156553,PRJNA637785,TF36,week 6,adolescent,5479.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.485
+SAMN44563955,PRJNA637785,TF36,year 4,adult,6939.0,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-12-21,primary,1.0,6.186
+SAMN15156558,PRJNA637785,TF37,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,7.36
+SAMN15156555,PRJNA637785,TF37,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.062
+SAMN15156556,PRJNA637785,TF37,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.872
+SAMN15156557,PRJNA637785,TF37,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.462
+SAMN44563956,PRJNA637785,TF37,year 4,adult,7670.2,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-12-12,primary,1.0,4.618
+SAMN15156562,PRJNA637785,TF38,baseline,adolescent,5113.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,7.034
+SAMN15156559,PRJNA637785,TF38,week 12,adolescent,5113.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.068
+SAMN15156560,PRJNA637785,TF38,week 26,adolescent,5479.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.013
+SAMN15156561,PRJNA637785,TF38,week 6,adolescent,5113.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,8.96
+SAMN44563957,PRJNA637785,TF38,year 4,adult,6574.5,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-09-22,primary,1.0,5.972
+SAMN15156566,PRJNA637785,TF39,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.569
+SAMN15156563,PRJNA637785,TF39,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.285
+SAMN15156564,PRJNA637785,TF39,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.04
+SAMN15156565,PRJNA637785,TF39,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.976
+SAMN15156570,PRJNA637785,TF40,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.51
+SAMN15156567,PRJNA637785,TF40,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.003
+SAMN15156568,PRJNA637785,TF40,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.336
+SAMN15156569,PRJNA637785,TF40,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,8.871
+SAMN15156574,PRJNA637785,TF41,baseline,adolescent,5479.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,7.329
+SAMN15156571,PRJNA637785,TF41,week 12,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.551
+SAMN15156572,PRJNA637785,TF41,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.16
+SAMN15156573,PRJNA637785,TF41,week 6,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.954
+SAMN15156578,PRJNA637785,TF42,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.436
+SAMN15156575,PRJNA637785,TF42,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.706
+SAMN15156576,PRJNA637785,TF42,week 26,adult,6939.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.138
+SAMN15156577,PRJNA637785,TF42,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.566
+SAMN15156582,PRJNA637785,TF43,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.345
+SAMN15156579,PRJNA637785,TF43,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.585
+SAMN15156580,PRJNA637785,TF43,week 26,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.593
+SAMN15156581,PRJNA637785,TF43,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.613
+SAMN44563958,PRJNA637785,TF43,year 4,adult,8035.5,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-21,primary,1.0,6.181
+SAMN15156586,PRJNA637785,TF44,baseline,adolescent,5113.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.832
+SAMN15156583,PRJNA637785,TF44,week 12,adolescent,5113.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.625
+SAMN15156584,PRJNA637785,TF44,week 26,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.619
+SAMN15156585,PRJNA637785,TF44,week 6,adolescent,5113.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,8.104
+SAMN15156590,PRJNA637785,TF45,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.671
+SAMN15156587,PRJNA637785,TF45,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.298
+SAMN15156588,PRJNA637785,TF45,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.451
+SAMN15156589,PRJNA637785,TF45,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.301
+SAMN44563959,PRJNA637785,TF45,year 4,adult,7670.2,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-07-28,primary,1.0,6.185
+SAMN15156593,PRJNA637785,TF46,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.598
+SAMN15156591,PRJNA637785,TF46,week 12,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,4.959
+SAMN15156592,PRJNA637785,TF46,week 6,adult,6574.5,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,8.126
+SAMN15156597,PRJNA637785,TF47,baseline,adolescent,6205.8,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.471
+SAMN15156594,PRJNA637785,TF47,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.67
+SAMN15156595,PRJNA637785,TF47,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.62
+SAMN15156596,PRJNA637785,TF47,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,8.978
+SAMN44563960,PRJNA637785,TF47,year 4,adult,7670.2,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-19,primary,1.0,5.988
+SAMN15156601,PRJNA637785,TF48,baseline,adult,6574.5,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,7.174
+SAMN15156598,PRJNA637785,TF48,week 12,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.232
+SAMN15156599,PRJNA637785,TF48,week 26,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.671
+SAMN15156600,PRJNA637785,TF48,week 6,adult,6574.5,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.371
+SAMN15156605,PRJNA637785,TF49,baseline,adolescent,5479.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,7.657
+SAMN15156602,PRJNA637785,TF49,week 12,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.037
+SAMN15156603,PRJNA637785,TF49,week 26,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.812
+SAMN15156604,PRJNA637785,TF49,week 6,adolescent,5844.0,female,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.203
+SAMN44563961,PRJNA637785,TF49,year 4,adult,7305.0,female,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-12-18,primary,1.0,6.033
+SAMN15156609,PRJNA637785,TF50,baseline,adolescent,5844.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.98
+SAMN15156606,PRJNA637785,TF50,week 12,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.747
+SAMN15156607,PRJNA637785,TF50,week 26,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.436
+SAMN15156608,PRJNA637785,TF50,week 6,adolescent,6205.8,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.835
+SAMN15156613,PRJNA637785,TF51,baseline,adolescent,5479.0,female,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.149
+SAMN15156610,PRJNA637785,TF51,week 12,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.011
+SAMN15156611,PRJNA637785,TF51,week 26,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.077
+SAMN15156612,PRJNA637785,TF51,week 6,adolescent,5479.0,female,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.569
+SAMN44563962,PRJNA637785,TF51,year 4,adult,6939.0,female,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-26,primary,1.0,5.767
+SAMN15156617,PRJNA637785,TM01,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,7.264
+SAMN15156614,PRJNA637785,TM01,week 12,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.388
+SAMN15156615,PRJNA637785,TM01,week 26,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.419
+SAMN15156616,PRJNA637785,TM01,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,4.997
+SAMN15156621,PRJNA637785,TM02,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.124
+SAMN15156618,PRJNA637785,TM02,week 12,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.051
+SAMN15156619,PRJNA637785,TM02,week 26,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.344
+SAMN15156620,PRJNA637785,TM02,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.143
+SAMN15156625,PRJNA637785,TM03,baseline,adolescent,6205.8,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.755
+SAMN15156622,PRJNA637785,TM03,week 12,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.062
+SAMN15156623,PRJNA637785,TM03,week 26,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.893
+SAMN15156624,PRJNA637785,TM03,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.036
+SAMN44563963,PRJNA637785,TM03,year 4,adult,7670.2,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-26,primary,1.0,6.06
+SAMN15156629,PRJNA637785,TM04,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,8.302
+SAMN15156626,PRJNA637785,TM04,week 12,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.654
+SAMN15156627,PRJNA637785,TM04,week 26,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.358
+SAMN15156628,PRJNA637785,TM04,week 6,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.365
+SAMN15156633,PRJNA637785,TM05,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.282
+SAMN15156630,PRJNA637785,TM05,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.271
+SAMN15156631,PRJNA637785,TM05,week 26,adolescent,6205.8,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.548
+SAMN15156632,PRJNA637785,TM05,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.058
+SAMN15156637,PRJNA637785,TM06,baseline,adult,6939.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.549
+SAMN15156634,PRJNA637785,TM06,week 12,adult,6939.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.438
+SAMN15156635,PRJNA637785,TM06,week 26,adult,6939.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.924
+SAMN15156636,PRJNA637785,TM06,week 6,adult,6939.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.229
+SAMN44563964,PRJNA637785,TM06,year 4,adult,8391.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-29,primary,1.0,5.697
+SAMN15156641,PRJNA637785,TM07,baseline,adolescent,6205.8,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.398
+SAMN15156638,PRJNA637785,TM07,week 12,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.415
+SAMN15156639,PRJNA637785,TM07,week 26,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.26
+SAMN15156640,PRJNA637785,TM07,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.585
+SAMN44563965,PRJNA637785,TM07,year 4,adult,8035.5,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-06-20,primary,1.0,5.9
+SAMN15156645,PRJNA637785,TM08,baseline,adult,6939.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.341
+SAMN15156642,PRJNA637785,TM08,week 12,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.59
+SAMN15156643,PRJNA637785,TM08,week 26,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.64
+SAMN15156644,PRJNA637785,TM08,week 6,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.061
+SAMN44563966,PRJNA637785,TM08,year 4,adult,8766.0,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-09-23,primary,1.0,6.283
+SAMN15156649,PRJNA637785,TM09,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.057
+SAMN15156646,PRJNA637785,TM09,week 12,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.011
+SAMN15156647,PRJNA637785,TM09,week 26,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.139
+SAMN15156648,PRJNA637785,TM09,week 6,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.748
+SAMN44563967,PRJNA637785,TM09,year 4,adult,8035.5,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-07-12,primary,1.0,6.045
+SAMN15156653,PRJNA637785,TM10,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.241
+SAMN15156650,PRJNA637785,TM10,week 12,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.505
+SAMN15156651,PRJNA637785,TM10,week 26,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.123
+SAMN15156652,PRJNA637785,TM10,week 6,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.475
+SAMN15156654,PRJNA637785,TM11,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.335
+SAMN44563968,PRJNA637785,TM11,year 4,adult,7670.2,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-03,primary,1.0,6.435
+SAMN15156658,PRJNA637785,TM12,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.319
+SAMN15156655,PRJNA637785,TM12,week 12,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.587
+SAMN15156656,PRJNA637785,TM12,week 26,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.368
+SAMN15156657,PRJNA637785,TM12,week 6,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,4.857
+SAMN44563969,PRJNA637785,TM12,year 4,adult,8391.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-20,primary,1.0,6.211
+SAMN15156662,PRJNA637785,TM13,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.744
+SAMN15156659,PRJNA637785,TM13,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.949
+SAMN15156660,PRJNA637785,TM13,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.283
+SAMN15156661,PRJNA637785,TM13,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.179
+SAMN15156666,PRJNA637785,TM14,baseline,adolescent,5479.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.959
+SAMN15156663,PRJNA637785,TM14,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.36
+SAMN15156664,PRJNA637785,TM14,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.068
+SAMN15156665,PRJNA637785,TM14,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.774
+SAMN15156668,PRJNA637785,TM15,baseline,adolescent,6205.8,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.176
+SAMN15156667,PRJNA637785,TM15,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.076
+SAMN15156672,PRJNA637785,TM16,baseline,adolescent,6205.8,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.479
+SAMN15156669,PRJNA637785,TM16,week 12,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.626
+SAMN15156670,PRJNA637785,TM16,week 26,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.227
+SAMN15156671,PRJNA637785,TM16,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.689
+SAMN44563970,PRJNA637785,TM16,year 4,adult,7670.2,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-04-26,primary,1.0,5.247
+SAMN15156676,PRJNA637785,TM17,baseline,adolescent,5479.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.251
+SAMN15156673,PRJNA637785,TM17,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.214
+SAMN15156674,PRJNA637785,TM17,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.658
+SAMN15156675,PRJNA637785,TM17,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.556
+SAMN44563971,PRJNA637785,TM17,year 4,adult,7305.0,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-12,primary,1.0,6.267
+SAMN15156680,PRJNA637785,TM18,baseline,adolescent,5113.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.207
+SAMN15156677,PRJNA637785,TM18,week 12,adolescent,5479.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.532
+SAMN15156678,PRJNA637785,TM18,week 26,adolescent,5479.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.752
+SAMN44563972,PRJNA637785,TM18,year 4,adult,6939.0,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-17,primary,1.0,6.287
+SAMN15156681,PRJNA637785,TM19,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.879
+SAMN44563973,PRJNA637785,TM19,year 4,adult,8035.5,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-12-12,primary,1.0,4.86
+SAMN15156685,PRJNA637785,TM20,baseline,adolescent,5479.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.062
+SAMN15156682,PRJNA637785,TM20,week 12,adolescent,5479.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.027
+SAMN15156683,PRJNA637785,TM20,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.141
+SAMN15156684,PRJNA637785,TM20,week 6,adolescent,5479.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.364
+SAMN44563974,PRJNA637785,TM20,year 4,adult,6939.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-07-08,primary,1.0,5.957
+SAMN15156689,PRJNA637785,TM21,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.558
+SAMN15156686,PRJNA637785,TM21,week 12,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.234
+SAMN15156687,PRJNA637785,TM21,week 26,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.93
+SAMN15156688,PRJNA637785,TM21,week 6,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,7.12
+SAMN44563975,PRJNA637785,TM21,year 4,adult,8035.5,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-11-07,primary,1.0,6.247
+SAMN15156693,PRJNA637785,TM22,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.463
+SAMN15156690,PRJNA637785,TM22,week 12,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.542
+SAMN15156691,PRJNA637785,TM22,week 26,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.175
+SAMN15156692,PRJNA637785,TM22,week 6,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.552
+SAMN15156697,PRJNA637785,TM23,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.387
+SAMN15156694,PRJNA637785,TM23,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.834
+SAMN15156695,PRJNA637785,TM23,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.678
+SAMN15156696,PRJNA637785,TM23,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.024
+SAMN44563976,PRJNA637785,TM23,year 4,adult,7305.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-21,primary,1.0,5.315
+SAMN15156701,PRJNA637785,TM24,baseline,adolescent,5113.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.987
+SAMN15156698,PRJNA637785,TM24,week 12,adolescent,5479.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.434
+SAMN15156699,PRJNA637785,TM24,week 26,adolescent,5479.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.088
+SAMN15156700,PRJNA637785,TM24,week 6,adolescent,5113.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.108
+SAMN44563977,PRJNA637785,TM24,year 4,adult,6939.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-07,primary,1.0,6.067
+SAMN15156705,PRJNA637785,TM25,baseline,adolescent,6205.8,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.653
+SAMN15156702,PRJNA637785,TM25,week 12,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.971
+SAMN15156703,PRJNA637785,TM25,week 26,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.095
+SAMN15156704,PRJNA637785,TM25,week 6,adolescent,6205.8,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.056
+SAMN44563978,PRJNA637785,TM25,year 4,adult,7305.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-13,primary,1.0,5.154
+SAMN15156709,PRJNA637785,TM27,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.957
+SAMN15156706,PRJNA637785,TM27,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.447
+SAMN15156707,PRJNA637785,TM27,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.472
+SAMN15156708,PRJNA637785,TM27,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.895
+SAMN44563979,PRJNA637785,TM27,year 4,adult,7305.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2023-01-12,primary,1.0,5.968
+SAMN15156713,PRJNA637785,TM28,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,6.295
+SAMN15156710,PRJNA637785,TM28,week 12,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.488
+SAMN15156711,PRJNA637785,TM28,week 26,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.744
+SAMN15156712,PRJNA637785,TM28,week 6,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.15
+SAMN44563980,PRJNA637785,TM28,year 4,adult,8035.5,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-02,primary,1.0,6.22
+SAMN15156717,PRJNA637785,TM29,baseline,adolescent,5479.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.591
+SAMN15156714,PRJNA637785,TM29,week 12,adolescent,5479.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.983
+SAMN15156715,PRJNA637785,TM29,week 26,adolescent,5479.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.814
+SAMN15156716,PRJNA637785,TM29,week 6,adolescent,5479.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.97
+SAMN44563981,PRJNA637785,TM29,year 4,adult,6939.0,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-10-04,primary,1.0,6.231
+SAMN15156721,PRJNA637785,TM30,baseline,adolescent,5113.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.956
+SAMN15156718,PRJNA637785,TM30,week 12,adolescent,5113.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.709
+SAMN15156719,PRJNA637785,TM30,week 26,adolescent,5113.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.356
+SAMN15156720,PRJNA637785,TM30,week 6,adolescent,5113.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.24
+SAMN44563982,PRJNA637785,TM30,year 4,adult,6574.5,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-12-07,primary,1.0,5.94
+SAMN15156725,PRJNA637785,TM32,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.326
+SAMN15156722,PRJNA637785,TM32,week 12,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.044
+SAMN15156723,PRJNA637785,TM32,week 26,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.068
+SAMN15156724,PRJNA637785,TM32,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.8
+SAMN44563983,PRJNA637785,TM32,year 4,adult,6939.0,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-12,primary,1.0,5.961
+SAMN15156729,PRJNA637785,TM33,baseline,adolescent,5113.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.525
+SAMN15156726,PRJNA637785,TM33,week 12,adolescent,5113.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.714
+SAMN15156727,PRJNA637785,TM33,week 26,adolescent,5479.0,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.235
+SAMN15156728,PRJNA637785,TM33,week 6,adolescent,5113.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.375
+SAMN44563984,PRJNA637785,TM33,year 4,adult,6574.5,male,NZ,obesity,recipient,placebo,placebo capsule arm,,2022-05-12,primary,1.0,4.867
+SAMN15156733,PRJNA637785,TM34,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.398
+SAMN15156730,PRJNA637785,TM34,week 12,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.605
+SAMN15156731,PRJNA637785,TM34,week 26,adult,6939.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.755
+SAMN15156732,PRJNA637785,TM34,week 6,adult,6574.5,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,6.238
+SAMN44563985,PRJNA637785,TM34,year 4,adult,8391.0,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-12-01,primary,1.0,6.216
+SAMN15156735,PRJNA637785,TM35,baseline,adolescent,5844.0,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: FMT capsule arm",,2017-10/2019-03,primary,1.0,5.775
+SAMN15156734,PRJNA637785,TM35,week 6,adolescent,5844.0,male,NZ,obesity,Recipient,fmt,FMT capsule arm,,2017-10/2019-03,primary,1.0,5.206
+SAMN44563986,PRJNA637785,TM35,year 4,adult,7305.0,male,NZ,obesity,recipient,fmt,FMT capsule arm,,2022-09-13,primary,1.0,6.058
+SAMN15156739,PRJNA637785,TM36,baseline,adolescent,5113.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.45
+SAMN15156736,PRJNA637785,TM36,week 12,adolescent,5113.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.584
+SAMN15156737,PRJNA637785,TM36,week 26,adolescent,5113.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,4.978
+SAMN15156738,PRJNA637785,TM36,week 6,adolescent,5113.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,5.374
+SAMN15156740,PRJNA637785,TM37,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,6.067
+SAMN15156744,PRJNA637785,TM39,baseline,adult,6574.5,male,NZ,obesity,Recipient,no_intervention,"baseline, pre-treatment; assigned arm: placebo capsule arm",,2017-10/2019-03,primary,1.0,5.061
+SAMN15156741,PRJNA637785,TM39,week 12,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.277
+SAMN15156742,PRJNA637785,TM39,week 26,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,6.24
+SAMN15156743,PRJNA637785,TM39,week 6,adult,6574.5,male,NZ,obesity,Recipient,placebo,placebo capsule arm,,2017-10/2019-03,primary,1.0,7.214

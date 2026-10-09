@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sandpiper profiles for the whole catalog (report) — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.17.1">
+<meta name="catalog-release-id" content="R2026.19">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/GUT_SANDPIPER_REPORT.html">
+<meta name="catalog-package-version" content="1.17.1">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Sandpiper profiles for the whole catalog (report)</div>
+
+<p class="small">Rendered from <a href="GUT_SANDPIPER_REPORT.md">GUT_SANDPIPER_REPORT.md</a>.</p>
+<div class="md"><h1 id="gut_sandpiper_report-sandpiper-profiles-for-the-whole-gut-catalog-interactive-pca-r202612-prep">GUT_SANDPIPER_REPORT — Sandpiper profiles for the whole gut catalog + interactive PCA (R2026.12 prep)</h1>
+<p>Inputs: Sandpiper 2.0.0 bulk GTDB R232 profiles (Zenodo record 20419175, <code>sandpiper2.0.0.gtdb.csv.gz</code>), <code>sandpiper2.0.0.per_acc_summary.csv.gz</code>, <code>gut_runs.parquet</code> (721,678 runs of the 2,837 catalog studies), package 1.11.0 (<code>gut_sample_metadata_wide.parquet</code>, 579,252 samples). All numbers below are read from the build logs and output tables (<code>work/sp/filter_log.json</code>, <code>work/sp/build_log.json</code>).</p>
+<h2 id="1-streaming-pass-over-the-bulk-file">1. Streaming pass over the bulk file</h2>
+<p>One pass with <code>filter_gut.py</code> (same semantics as <code>src/catalog/sandpiper/filter_bulk.py</code>; pyarrow CSV reader, 64 MB blocks, 16 zstd parquet parts).</p>
+<table>
+<thead>
+<tr>
+<th>quantity</th>
+<th>value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>rows scanned</td>
+<td>281,588,385</td>
+</tr>
+<tr>
+<td>rows kept (profiled gut runs)</td>
+<td>76,546,223</td>
+</tr>
+<tr>
+<td>runs expected (sandpiper_profiled = True)</td>
+<td>372,911</td>
+</tr>
+<tr>
+<td>runs found in bulk</td>
+<td>372,911</td>
+</tr>
+<tr>
+<td>runs missing from bulk</td>
+<td>0</td>
+</tr>
+<tr>
+<td>wall time</td>
+<td>52.7 s</td>
+</tr>
+</tbody>
+</table>
+<p>Rows per rank in the kept set (0 = Root … 7 = species): 0: 372,911, 1: 623,321, 2: 2,365,479, 3: 3,419,840, 4: 5,477,004, 5: 9,418,268, 6: 23,170,193, 7: 31,699,207. Unfilled coverage (filled(node) − Σ filled(children)) was derived for every node; rows with unfilled &lt; −0.02 (rounding): 0.</p>
+<h2 id="2-join-to-catalog-samples">2. Join to catalog samples</h2>
+<p>372,911 profiled runs → 369,957 carry a <code>sample_key</code>; <strong>2,954 profiled runs have no sample_key in gut_runs.parquet</strong> (their biosample is not a catalog sample in package 1.11.0; e.g. ERR209550/PRJEB1220, ERR719072/PRJEB8094) and are excluded from every sample table. Result: <strong>339,626 profiled samples</strong> in <strong>2,084 studies</strong> (study_accession from the wide table; 2,081 by the runs table). Aggregation to the sample = SUM of filled coverage over the sample's profiled runs, normalised by the summed root coverage — identical to the root-coverage-weighted mean of per-run relative abundance. Per-rank relative abundances sum to 1 per sample (genus min/max 1.000000/1.000000; species 1.000000/1.000000).</p>
+<h3 id="coverage-by-accession-prefix">Coverage by accession prefix</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">prefix</th>
+<th style="text-align: right;">studies</th>
+<th style="text-align: right;">studies_profiled</th>
+<th style="text-align: right;">runs</th>
+<th style="text-align: right;">runs_profiled</th>
+<th style="text-align: right;">samples</th>
+<th style="text-align: right;">samples_profiled</th>
+<th style="text-align: right;">frac_runs</th>
+<th style="text-align: right;">frac_samples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">PRJDA</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">0.75</td>
+<td style="text-align: right;">0.75</td>
+</tr>
+<tr>
+<td style="text-align: left;">PRJDB</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">11029</td>
+<td style="text-align: right;">5837</td>
+<td style="text-align: right;">10387</td>
+<td style="text-align: right;">5566</td>
+<td style="text-align: right;">0.529</td>
+<td style="text-align: right;">0.536</td>
+</tr>
+<tr>
+<td style="text-align: left;">PRJEB</td>
+<td style="text-align: right;">708</td>
+<td style="text-align: right;">498</td>
+<td style="text-align: right;">299828</td>
+<td style="text-align: right;">143848</td>
+<td style="text-align: right;">235720</td>
+<td style="text-align: right;">128371</td>
+<td style="text-align: right;">0.48</td>
+<td style="text-align: right;">0.545</td>
+</tr>
+<tr>
+<td style="text-align: left;">PRJNA</td>
+<td style="text-align: right;">2033</td>
+<td style="text-align: right;">1529</td>
+<td style="text-align: right;">410741</td>
+<td style="text-align: right;">223166</td>
+<td style="text-align: right;">333065</td>
+<td style="text-align: right;">205629</td>
+<td style="text-align: right;">0.543</td>
+<td style="text-align: right;">0.617</td>
+</tr>
+</tbody>
+</table>
+<p>Totals: 2,084 of 2,837 studies have ≥ 1 profiled sample; 372,911 of 721,678 runs (51.7%); 339,626 of 579,252 samples (58.6%). Study coverage classes (<code>gut_sandpiper_study_coverage.csv</code>, frac_samples_profiled): majority 1,371, none 753, complete 568, partial 145 (complete ≥ 95 %, majority ≥ 50 %, partial &gt; 0, none = 0).</p>
+<h3 id="coverage-by-age-category-wide-table">Coverage by age category (wide table)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">age_category</th>
+<th style="text-align: right;">n_samples</th>
+<th style="text-align: right;">n_profiled</th>
+<th style="text-align: right;">frac_profiled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">adolescent</td>
+<td style="text-align: right;">5853</td>
+<td style="text-align: right;">3226</td>
+<td style="text-align: right;">0.551</td>
+</tr>
+<tr>
+<td style="text-align: left;">adult</td>
+<td style="text-align: right;">229779</td>
+<td style="text-align: right;">140152</td>
+<td style="text-align: right;">0.61</td>
+</tr>
+<tr>
+<td style="text-align: left;">child</td>
+<td style="text-align: right;">26268</td>
+<td style="text-align: right;">16698</td>
+<td style="text-align: right;">0.636</td>
+</tr>
+<tr>
+<td style="text-align: left;">elderly</td>
+<td style="text-align: right;">30826</td>
+<td style="text-align: right;">21411</td>
+<td style="text-align: right;">0.695</td>
+</tr>
+<tr>
+<td style="text-align: left;">infant</td>
+<td style="text-align: right;">66200</td>
+<td style="text-align: right;">34673</td>
+<td style="text-align: right;">0.524</td>
+</tr>
+<tr>
+<td style="text-align: left;">neonate</td>
+<td style="text-align: right;">14663</td>
+<td style="text-align: right;">9611</td>
+<td style="text-align: right;">0.655</td>
+</tr>
+<tr>
+<td style="text-align: left;">unknown</td>
+<td style="text-align: right;">205663</td>
+<td style="text-align: right;">113855</td>
+<td style="text-align: right;">0.554</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-qc-flags-per-sample-flagged-never-dropped">3. QC flags per sample (flagged, never dropped)</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">flag</th>
+<th style="text-align: right;">n_samples</th>
+<th style="text-align: right;">pct</th>
+<th style="text-align: left;">definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">qc_low_depth</td>
+<td style="text-align: right;">2051</td>
+<td style="text-align: right;">0.6</td>
+<td style="text-align: left;">summed root coverage &lt; 2 genome equivalents</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_low_complexity</td>
+<td style="text-align: right;">11306</td>
+<td style="text-align: right;">3.33</td>
+<td style="text-align: left;">Sandpiper low_complexity = yes on any run</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_readfraction_warning</td>
+<td style="text-align: right;">3564</td>
+<td style="text-align: right;">1.05</td>
+<td style="text-align: left;">Sandpiper read-fraction warning on any run</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_non_metagenome</td>
+<td style="text-align: right;">1754</td>
+<td style="text-align: right;">0.52</td>
+<td style="text-align: left;">organism label names a single non-human species on any run (strict rule minus 'Homo sapiens'; approximates the v1.2.1 curated class)</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_non_metagenome_strict</td>
+<td style="text-align: right;">16030</td>
+<td style="text-align: right;">4.72</td>
+<td style="text-align: left;">Sandpiper strict rule incl. 'Homo sapiens' (kept for reproducibility)</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_synthetic</td>
+<td style="text-align: right;">169</td>
+<td style="text-align: right;">0.05</td>
+<td style="text-align: left;">organism contains synthetic/simulat or library_source = SYNTHETIC</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_rna</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">RNA library strategy/source (strict)</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_predicted_ecological</td>
+<td style="text-align: right;">3795</td>
+<td style="text-align: right;">1.12</td>
+<td style="text-align: left;">Sandpiper host_or_not = ecological on any run</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_partial</td>
+<td style="text-align: right;">9697</td>
+<td style="text-align: right;">2.86</td>
+<td style="text-align: left;">n_runs_profiled &lt; n_runs_total</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_no_genus_assigned</td>
+<td style="text-align: right;">2234</td>
+<td style="text-align: right;">0.66</td>
+<td style="text-align: left;">no coverage reaches genus level (richness 0)</td>
+</tr>
+<tr>
+<td style="text-align: left;">qc_any_flag</td>
+<td style="text-align: right;">41947</td>
+<td style="text-align: right;">12.35</td>
+<td style="text-align: left;">any of the above</td>
+</tr>
+</tbody>
+</table>
+<p>Multi-run samples: 11,865 samples have &gt; 1 profiled run (max 321). <code>qc_flags</code> is the semicolon-joined list; the boolean columns are also shipped.</p>
+<h2 id="4-tables">4. Tables</h2>
+<table>
+<thead>
+<tr>
+<th>file</th>
+<th>rows</th>
+<th>bytes</th>
+<th>content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>gut_sandpiper_sample_genus.parquet</td>
+<td>22,380,090</td>
+<td>185,885,848</td>
+<td>long: sample_key, genus (GTDB <code>g__</code>), lineage, relabund, coverage — all genera + <code>unassigned_at_genus</code> (8,916 genera)</td>
+</tr>
+<tr>
+<td>gut_sandpiper_sample_species.parquet</td>
+<td>20,477,008</td>
+<td>199,447,330</td>
+<td>long, species with relabund ≥ 0.001 + <code>unassigned_at_species</code> (25,946 species)</td>
+</tr>
+<tr>
+<td>gut_sandpiper_sample_summary.parquet</td>
+<td>339,626</td>
+<td>24,478,106</td>
+<td>sample_key, study_accession, n_runs_profiled, n_runs_total, root_coverage_sum, richness_genus (relabund ≥ 0.001), shannon_genus (incl. unassigned bin) and shannon_genus_assigned, top_genus, top_genus_relabund, unassigned shares, spf, known_species_fraction, qc_flags + booleans, runs, sandpiper_url</td>
+</tr>
+<tr>
+<td>gut_sandpiper_study_coverage.csv</td>
+<td>2,837</td>
+<td>568,468</td>
+<td>per study: runs/samples profiled, fractions, coverage_class, flag counts, medians, top_genus_mode</td>
+</tr>
+<tr>
+<td>gut_sandpiper_pca_scores.parquet</td>
+<td>335,956</td>
+<td>13,024,317</td>
+<td>sample_key, pc1..pc5 (float32), study_accession, root_coverage_sum</td>
+</tr>
+<tr>
+<td>gut_sandpiper_pca_loadings.parquet</td>
+<td>383</td>
+<td>37,707</td>
+<td>genus, pc1..pc5, prevalence, mean_relabund, clr_mean</td>
+</tr>
+<tr>
+<td>gut_sandpiper_pca_variance.csv</td>
+<td>5</td>
+<td>531</td>
+<td>explained_variance_ratio, singular_value, method parameters</td>
+</tr>
+<tr>
+<td>All carry taxonomy_db = GTDB, taxonomy_version = R232, sandpiper_version = 2.0.0, zenodo_record = 20419175. The run-level table with unfilled coverage (gut_sandpiper_profiles_runs.parquet, 76,546,223 rows, 490,237,969 bytes) was built but is not shipped as an artifact: it is regenerated in ≈ 1 min by <code>filter_gut.py</code> + <code>build_gut_tables.py</code> (both saved).</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="5-pca">5. PCA</h2>
+<p>Matrix: samples with summed root coverage ≥ 2 genome equivalents (336,952); genera detected (relabund ≥ 0.001) in ≥ 1 % of those samples: <strong>383 of 8,916</strong>; 996 samples contain none of the kept genera and are not scored → <strong>335,956 scored samples</strong> (2,073 studies). Kept genera hold a median 0.934 (5th percentile 0.681) of a sample's root coverage; the unassigned remainder is excluded and the kept genera re-closed to 1. Zeros replaced by multiplicative replacement with δ = 1e-05 (non-zeros scaled by 1 − n_zeros·δ), CLR = log x − mean(log x) per sample, columns centred, randomized SVD (sklearn <code>randomized_svd</code>, 5 components, 30 oversamples, 7 power iterations, seed 0). Sign convention: the largest-|loading| genus of each axis is positive.</p>
+<p>Explained variance ratio: PC1 0.1626, PC2 0.0653, PC3 0.0381, PC4 0.0320, PC5 0.0228 (cumulative 0.3207).</p>
+<p>Top loadings (genus, weight):
+- <strong>PC1</strong> + g__Faecalibacterium 0.186, g__Roseburia 0.179, g__Gemmiger 0.174, g__Alistipes 0.174, g__Vescimonas 0.156, g__Fusicatenibacter 0.152, g__Blautia_A 0.150, g__Lachnospira 0.149; − g__Escherichia -0.110, g__Veillonella -0.109, g__Klebsiella -0.095, g__Enterococcus -0.088, g__ECMA0423 -0.083, g__Staphylococcus -0.080, g__Rothia -0.075, g__Enterobacter -0.063
+- <strong>PC2</strong> + g__Enterocloster 0.204, g__Flavonifractor 0.189, g__Mediterraneibacter 0.170, g__Anaerostipes 0.162, g__Eggerthella 0.157, g__Blautia 0.155, g__Bacteroides 0.151, g__Blautia_A 0.144; − g__CAG-170 -0.175, g__Prevotella -0.175, g__Hominicoprocola -0.154, g__Faecousia -0.137, g__Coprococcus -0.130, g__Vescimonas -0.128, g__CAG-177 -0.126, g__UBA11524 -0.124
+- <strong>PC3</strong> + g__Alistipes 0.215, g__Bacteroides 0.186, g__Akkermansia 0.180, g__Parabacteroides 0.165, g__Phocaeicola 0.148, g__Ruthenibacterium 0.142, g__Oscillibacter 0.128, g__Lawsonibacter 0.124; − g__Streptococcus -0.199, g__Dorea_A -0.168, g__Prevotella -0.155, g__Dorea -0.148, g__Oliverpabstia -0.136, g__Bifidobacterium -0.133, g__Veillonella -0.133, g__Anaerobutyricum -0.131
+- <strong>PC4</strong> + g__Prevotella 0.319, g__Phocaeicola 0.215, g__Pilosibacter 0.176, g__Sutterella 0.172, g__Parabacteroides 0.166, g__Bacteroides 0.165, g__Lachnospira 0.133, g__Faecalibacterium 0.131; − g__Hominenteromicrobium -0.151, g__Lentihominibacter -0.143, g__Anaerotardibacter -0.143, g__Evtepia -0.135, g__Adlercreutzia -0.129, g__Akkermansia -0.127, g__Bifidobacterium -0.117, g__Anaerobutyricum -0.113
+- <strong>PC5</strong> + g__Prevotella 0.292, g__Collinsella 0.214, g__Escherichia 0.171, g__Bifidobacterium 0.170, g__Holdemanella 0.160, g__Mediterraneibacter 0.158, g__CAG-177 0.145, g__Ruthenibacterium 0.137; − g__Butyribacter -0.181, g__Eubacterium_F -0.148, g__Hominilimicola -0.133, g__Anthropogastromicrobium -0.129, g__Hominisplanchenecus -0.128, g__Hominimerdicola -0.126, g__Hominiventricola -0.118, g__Brotaphodocola -0.114</p>
+<p>PC1 opposes the diverse adult-type community (Faecalibacterium, Roseburia, Gemmiger, Alistipes) to facultative-anaerobe-dominated communities (Escherichia, Veillonella, Klebsiella, Enterococcus, Staphylococcus) — the infant/neonatal flank in the figure. PC2 opposes Enterocloster/Flavonifractor/Mediterraneibacter/Eggerthella to Prevotella/CAG-170/Coprococcus.</p>
+<h3 id="check-against-pcoa-20000-sample-random-subsample-seed-0-same-383-genus-closure">Check against PCoA (20,000-sample random subsample, seed 0, same 383-genus closure)</h3>
+<table>
+<thead>
+<tr>
+<th>comparison</th>
+<th>Procrustes disparity (2 axes)</th>
+<th>Procrustes disparity (5 axes)</th>
+<th>abs r axis 1</th>
+<th>abs r axis 2</th>
+<th>abs r diagonal (1–5)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CLR-PCA vs Hellinger PCoA</td>
+<td>0.3907</td>
+<td>0.3803</td>
+<td>0.857</td>
+<td>0.585 (best match PCo2)</td>
+<td>[0.857, 0.585, 0.439, 0.556, 0.043]</td>
+</tr>
+<tr>
+<td>CLR-PCA vs Bray-Curtis PCoA</td>
+<td>0.4187</td>
+<td>0.4117</td>
+<td>0.851</td>
+<td>0.521 (best match PCo5)</td>
+<td>[0.851, 0.512, 0.285, 0.455, 0.012]</td>
+</tr>
+<tr>
+<td>Hellinger vs Bray-Curtis PCoA</td>
+<td>0.0607</td>
+<td>0.0267</td>
+<td>0.992</td>
+<td>0.934</td>
+<td>[0.992, 0.934, 0.922, 0.959, 0.968]</td>
+</tr>
+</tbody>
+</table>
+<p>Hellinger PCoA explained variance 0.147, 0.097, 0.081, 0.054, 0.043; Bray-Curtis PCoA 0.160, 0.112, 0.092, 0.061, 0.051. The first axis is shared by all three ordinations (|r| ≈ 0.85–0.86 between CLR-PCA PC1 and PCo1); the second CLR axis agrees only moderately with the abundance-based PCo2 (|r| 0.59 Hellinger, 0.52 Bray-Curtis), as expected because CLR weights low-abundance genera that Hellinger/Bray-Curtis down-weight. The two abundance-based ordinations agree closely with each other (Procrustes 0.06). Read PC2–PC5 as CLR-specific structure.</p>
+<h2 id="6-interactive-page-site_generatorgenpagespcapy-templatesatlas_pcahtml-staticpcajs-staticpcacss-teststest_pca_pagepy">6. Interactive page (site_generator/gen/pages/pca.py, templates/atlas_pca.html, static/pca.js, static/pca.css, tests/test_pca_page.py)</h2>
+<p><code>build(env, render, ctx, out_dir)</code> renders <code>atlas/pca.html</code> (root <code>../</code>, nav <code>atlas</code>) and writes <code>data/atlas/</code>:</p>
+<table>
+<thead>
+<tr>
+<th>file</th>
+<th>bytes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pca_points.bin (Float32 n × 5, row-major)</td>
+<td>6,719,120</td>
+</tr>
+<tr>
+<td>pca_codes.bin (Uint16 study + Uint8 age_category, country, health_condition, body_site_class, top_genus[, lifestyle])</td>
+<td>2,351,692</td>
+</tr>
+<tr>
+<td>pca_meta.json (labels, counts, sample keys, explained variance, loadings, study titles)</td>
+<td>5,122,093</td>
+</tr>
+<tr>
+<td>total</td>
+<td>14,192,905 (13.54 MiB, cap 15 MB enforced by an assert)</td>
+</tr>
+</tbody>
+</table>
+<p>Points on the page: <strong>335,956</strong> (2,073 studies). Features: PC axis selectors (PC1–PC5), colour-by (age_category, country top 15 + other, health_condition top 15 + other, body_site_class, top_genus top 15 + other, study top 20 + other, lifestyle when the wide table has the column — 1.11.0 does not, so the page built here has no lifestyle option; the harness covers both cases), alpha scaling with the number of visible points, hover tooltip (sample_key → samples/index.html?sample=, study → studies/<acc>.html, age category, country, condition, top genus), study-highlight text box with datalist (drawn on top in red), box selection (checkbox or shift-drag) reporting count / study breakdown and an "open selection in sample explorer" button (samples/index.html?study=<acc>) when the selection is one study, legend click to isolate a category, wheel zoom / drag pan, URL state (x, y, color, study), explained-variance caption, top-loading genera panel, and the binary layout documented in the page footer. Canvas2D only; no external libraries. <code>pca.js</code> passes a JavaScriptCore syntax check; <code>python -m pytest tests/test_pca_page.py</code> → 3 passed (500-sample synthetic input; asserts files, byte layout vs meta, selectors, PC options, footer layout text, lifestyle optional). build_site.py is untouched — the root wires the page in (<code>from pages import pca; pca.build(env, render, ctx, out)</code> with ctx = wide, studies + the PCA/summary tables or <code>pkg</code> dir) and adds the Atlas nav entry; <code>static/pca.css</code> is picked up by the existing static copy loop.</p>
+<h2 id="7-deviations-caveats">7. Deviations / caveats</h2>
+<ul>
+<li>2,954 profiled runs without a sample_key in gut_runs.parquet are excluded from sample tables (listed in <code>sp/gut_runs_profiled</code> join; not a data loss in the bulk pass).</li>
+<li><code>qc_non_metagenome</code> approximates the shipped v1.2.1 curated class (strict rule minus the 'Homo sapiens' label); the shipped infant tables used a hand-curated organism-class table that was not among this task's inputs.</li>
+<li>The PCoA check uses a 20,000-sample subsample (by design); Bray-Curtis PCoA eigenpairs via Lanczos on the Gower-centred matrix.</li>
+<li>Lifestyle colouring is implemented but inactive against package 1.11.0 (no <code>lifestyle</code> column yet).</li>
+<li>The run-level table is not shipped as an artifact (490 MB; regenerable in ≈ 1 min with the saved scripts).</li>
+</ul></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.19"><span class="mono">R2026.19</span></a> · package <span class="mono">1.17.1</span> · build <span class="mono">06fe280</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.19.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.17.1',release:'data-v1.17.1',releaseId:'R2026.19',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

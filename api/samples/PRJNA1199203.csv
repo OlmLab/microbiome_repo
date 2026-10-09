@@ -1,0 +1,110 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN45868344,PRJNA1199203,1,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-1_S65),,,,2017-08-01,primary,1.0,1.804
+SAMN45868360,PRJNA1199203,1,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-1_S69),,,,2017-08-01,primary,1.0,0.947
+SAMN45868379,PRJNA1199203,1,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.365
+SAMN45868400,PRJNA1199203,1,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-1_S62),,,,2017-08-01,primary,1.0,2.03
+SAMN45868417,PRJNA1199203,1,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-1_S64),,,,2017-08-01,primary,1.0,2.175
+SAMN45868320,PRJNA1199203,10,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.86
+SAMN45868354,PRJNA1199203,10,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-10_S21),,,,2017-08-01,primary,1.0,0.851
+SAMN45868372,PRJNA1199203,10,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.327
+SAMN45868390,PRJNA1199203,10,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-10_S55),,,,2017-08-01,primary,1.0,5.263
+SAMN45868411,PRJNA1199203,10,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-10_S60),,,,2017-08-01,primary,1.0,0.565
+SAMN45868321,PRJNA1199203,11,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.55
+SAMN45868336,PRJNA1199203,11,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-11_S2),,,,2017-08-01,primary,1.0,1.285
+SAMN45868355,PRJNA1199203,11,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-11_S20),,,,2017-08-01,primary,1.0,1.509
+SAMN45868373,PRJNA1199203,11,N,,,,GB,,,,,,2017-08-01,primary,1.0,3.003
+SAMN45868391,PRJNA1199203,11,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-11_S30),,,,2017-08-01,primary,1.0,0.637
+SAMN45868337,PRJNA1199203,12,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-12_S16),,,,2017-08-01,primary,1.0,1.803
+SAMN45868356,PRJNA1199203,12,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-12_S70),,,,2017-08-01,primary,1.0,1.87
+SAMN45868392,PRJNA1199203,12,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-12_S6),,,,2017-08-01,primary,1.0,1.28
+SAMN45868412,PRJNA1199203,12,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-12_S82),,,,2017-08-01,primary,1.0,4.215
+SAMN45868322,PRJNA1199203,13,L,,,,GB,,,,,,2017-08-01,primary,1.0,0.394
+SAMN45868338,PRJNA1199203,13,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-13_S41),,,,2017-08-01,primary,1.0,0.723
+SAMN45868374,PRJNA1199203,13,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.906
+SAMN45868393,PRJNA1199203,13,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-13_S46),,,,2017-08-01,primary,1.0,0.96
+SAMN45868413,PRJNA1199203,13,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-13_S31),,,,2017-08-01,primary,1.0,1.025
+SAMN45868323,PRJNA1199203,14,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.616
+SAMN45868339,PRJNA1199203,14,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-14_S38),,,,2017-08-01,primary,1.0,1.345
+SAMN45868394,PRJNA1199203,14,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-14_S71),,,,2017-08-01,primary,1.0,1.091
+SAMN45868324,PRJNA1199203,15,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.836
+SAMN45868340,PRJNA1199203,15,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-15_S13),,,,2017-08-01,primary,1.0,0.685
+SAMN45868357,PRJNA1199203,15,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-15_S37),,,,2017-08-01,primary,1.0,1.02
+SAMN45868375,PRJNA1199203,15,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.947
+SAMN45868395,PRJNA1199203,15,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-15_S81),,,,2017-08-01,primary,1.0,2.877
+SAMN45868341,PRJNA1199203,16,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-16_S54),,,,2017-08-01,primary,1.0,2.139
+SAMN45868376,PRJNA1199203,16,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.412
+SAMN45868396,PRJNA1199203,16,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-16_S40),,,,2017-08-01,primary,1.0,0.0
+SAMN45868325,PRJNA1199203,17,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.194
+SAMN45868342,PRJNA1199203,17,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-17_S77),,,,2017-08-01,primary,1.0,2.185
+SAMN45868358,PRJNA1199203,17,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-17_S39),,,,2017-08-01,primary,1.0,0.924
+SAMN45868377,PRJNA1199203,17,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.196
+SAMN45868397,PRJNA1199203,17,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-17_S8),,,,2017-08-01,primary,1.0,1.856
+SAMN45868414,PRJNA1199203,17,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-17_S57),,,,2017-08-01,primary,1.0,2.171
+SAMN45868343,PRJNA1199203,18,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-18_S54),,,,2017-08-01,primary,1.0,1.089
+SAMN45868359,PRJNA1199203,18,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-18_S68),,,,2017-08-01,primary,1.0,3.789
+SAMN45868378,PRJNA1199203,18,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.356
+SAMN45868398,PRJNA1199203,18,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-18_S25),,,,2017-08-01,primary,1.0,0.547
+SAMN45868415,PRJNA1199203,18,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-18_S53),,,,2017-08-01,primary,1.0,0.292
+SAMN45868399,PRJNA1199203,19,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-19_S14),,,,2017-08-01,primary,1.0,1.553
+SAMN45868416,PRJNA1199203,19,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-19_S22),,,,2017-08-01,primary,1.0,1.87
+SAMN45868330,PRJNA1199203,2,L,,,,GB,,,,,,2017-08-01,primary,1.0,2.005
+SAMN45868349,PRJNA1199203,2,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-2_S81),,,,2017-08-01,primary,1.0,1.959
+SAMN45868424,PRJNA1199203,2,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-2_S3),,,,2017-08-01,primary,1.0,1.15
+SAMN45868326,PRJNA1199203,20,L,,,,GB,,,,,,2017-08-01,primary,1.0,0.547
+SAMN45868345,PRJNA1199203,20,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-20_S56),,,,2017-08-01,primary,1.0,0.831
+SAMN45868361,PRJNA1199203,20,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-20_S75),,,,2017-08-01,primary,1.0,1.865
+SAMN45868380,PRJNA1199203,20,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.348
+SAMN45868401,PRJNA1199203,20,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-20_S4),,,,2017-08-01,primary,1.0,1.792
+SAMN45868327,PRJNA1199203,21,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.417
+SAMN45868346,PRJNA1199203,21,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-21_S23),,,,2017-08-01,primary,1.0,1.357
+SAMN45868362,PRJNA1199203,21,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-21_S80),,,,2017-08-01,primary,1.0,1.702
+SAMN45868402,PRJNA1199203,21,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-21_S76),,,,2017-08-01,primary,1.0,0.679
+SAMN45868328,PRJNA1199203,22,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.447
+SAMN45868363,PRJNA1199203,22,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-22_S15),,,,2017-08-01,primary,1.0,1.755
+SAMN45868381,PRJNA1199203,22,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.808
+SAMN45868403,PRJNA1199203,22,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-22_S7),,,,2017-08-01,primary,1.0,2.072
+SAMN45868329,PRJNA1199203,23,L,,,,GB,,,,,,2017-08-01,primary,1.0,2.523
+SAMN45868347,PRJNA1199203,23,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-23_S45),,,,2017-08-01,primary,1.0,0.301
+SAMN45868364,PRJNA1199203,23,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-23_S59),,,,2017-08-01,primary,1.0,1.554
+SAMN45868382,PRJNA1199203,23,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.648
+SAMN45868365,PRJNA1199203,24,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-24_S52),,,,2017-08-01,primary,1.0,1.672
+SAMN45868383,PRJNA1199203,24,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.042
+SAMN45868418,PRJNA1199203,24,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-24_S75),,,,2017-08-01,primary,1.0,3.811
+SAMN45868348,PRJNA1199203,25,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-25_S70),,,,2017-08-01,primary,1.0,1.112
+SAMN45868384,PRJNA1199203,25,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.373
+SAMN45868419,PRJNA1199203,25,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-25_S67),,,,2017-08-01,primary,1.0,2.78
+SAMN45868366,PRJNA1199203,26,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-26_S53),,,,2017-08-01,primary,1.0,1.629
+SAMN45868420,PRJNA1199203,26,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-26_S67),,,,2017-08-01,primary,1.0,1.469
+SAMN45868421,PRJNA1199203,27,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-27_S62),,,,2017-08-01,primary,1.0,1.189
+SAMN45868422,PRJNA1199203,28,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-28_S49),,,,2017-08-01,primary,1.0,1.339
+SAMN45868423,PRJNA1199203,29,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-29_S9),,,,2017-08-01,primary,1.0,0.815
+SAMN45868331,PRJNA1199203,3,L,,,,GB,,,,,,2017-08-01,primary,1.0,0.662
+SAMN45868350,PRJNA1199203,3,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-3_S19),,,,2017-08-01,primary,1.0,1.821
+SAMN45868385,PRJNA1199203,3,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.714
+SAMN45868404,PRJNA1199203,3,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-3_S42),,,,2017-08-01,primary,1.0,1.957
+SAMN45868425,PRJNA1199203,30,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-30_S35),,,,2017-08-01,primary,1.0,0.705
+SAMN45868332,PRJNA1199203,4,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.949
+SAMN45868367,PRJNA1199203,4,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-4_S80),,,,2017-08-01,primary,1.0,1.934
+SAMN45868386,PRJNA1199203,4,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.905
+SAMN45868405,PRJNA1199203,4,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-4_S1),,,,2017-08-01,primary,1.0,0.001
+SAMN45868426,PRJNA1199203,4,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-4_S27),,,,2017-08-01,primary,1.0,0.972
+SAMN45868333,PRJNA1199203,5,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.041
+SAMN45868368,PRJNA1199203,5,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-5_S79),,,,2017-08-01,primary,1.0,1.113
+SAMN45868406,PRJNA1199203,5,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-5_S50),,,,2017-08-01,primary,1.0,1.629
+SAMN45868427,PRJNA1199203,5,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-5_S74),,,,2017-08-01,primary,1.0,0.207
+SAMN45868334,PRJNA1199203,6,L,,,,GB,,,,,,2017-08-01,primary,1.0,4.048
+SAMN45868351,PRJNA1199203,6,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-6_S59),,,,2017-08-01,primary,1.0,3.192
+SAMN45868369,PRJNA1199203,6,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-6_S36),,,,2017-08-01,primary,1.0,1.653
+SAMN45868407,PRJNA1199203,6,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-6_S73),,,,2017-08-01,primary,1.0,3.476
+SAMN45868352,PRJNA1199203,7,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-7_S12),,,,2017-08-01,primary,1.0,1.219
+SAMN45868370,PRJNA1199203,7,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-7_S43),,,,2017-08-01,primary,1.0,0.942
+SAMN45868387,PRJNA1199203,7,N,,,,GB,,,,,,2017-08-01,primary,1.0,0.559
+SAMN45868408,PRJNA1199203,7,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-7_S34),,,,2017-08-01,primary,1.0,0.822
+SAMN45868388,PRJNA1199203,8,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.261
+SAMN45868409,PRJNA1199203,8,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-8_S10),,,,2017-08-01,primary,1.0,0.632
+SAMN45868428,PRJNA1199203,8,N,,,,GB,ibs,ibs (decoded from sample name N-IBS-8_S64),,,,2017-08-01,primary,1.0,1.247
+SAMN45868335,PRJNA1199203,9,L,,,,GB,,,,,,2017-08-01,primary,1.0,1.223
+SAMN45868353,PRJNA1199203,9,L,,,,GB,healthy_control,healthy_control (decoded from sample name L-HV-9_S77),,,,2017-08-01,primary,1.0,0.609
+SAMN45868371,PRJNA1199203,9,L,,,,GB,ibs,ibs (decoded from sample name L-IBS-9_S58),,,,2017-08-01,primary,1.0,1.916
+SAMN45868389,PRJNA1199203,9,N,,,,GB,,,,,,2017-08-01,primary,1.0,1.444
+SAMN45868410,PRJNA1199203,9,N,,,,GB,healthy_control,healthy_control (decoded from sample name N-HV-9_S66),,,,2017-08-01,primary,1.0,1.598

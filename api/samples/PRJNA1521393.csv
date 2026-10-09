@@ -1,0 +1,12 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN62799918,PRJNA1521393,Donor 1,,adult,,,RU,healthy_control,1,,,,2022-02,primary,1.0,1.5
+SAMN62799919,PRJNA1521393,Donor 2,,adult,,,RU,healthy_control,2,,,,2022-02,primary,1.0,0.29
+SAMN62799909,PRJNA1521393,Patient 1,,adult,,,RU,ulcerative_colitis,before,no_intervention,,,2022-05,primary,1.0,1.322
+SAMN62799912,PRJNA1521393,Patient 1,,adult,,,RU,ulcerative_colitis,one month after,other_intervention,,,2022-06,primary,1.0,0.187
+SAMN62799915,PRJNA1521393,Patient 1,,adult,,,RU,ulcerative_colitis,three months after,other_intervention,,,2022-08,primary,1.0,0.449
+SAMN62799910,PRJNA1521393,Patient 2,,adult,,,RU,ulcerative_colitis,before,no_intervention,,,2022-10,primary,1.0,0.077
+SAMN62799913,PRJNA1521393,Patient 2,,adult,,,RU,ulcerative_colitis,one month after,other_intervention,,,2022-11,primary,1.0,1.286
+SAMN62799916,PRJNA1521393,Patient 2,,adult,,,RU,ulcerative_colitis,three months after,other_intervention,,,2023-01,primary,1.0,0.483
+SAMN62799911,PRJNA1521393,Patient 3,,adult,,,RU,ulcerative_colitis,before,no_intervention,,,2023-01,primary,1.0,0.276
+SAMN62799914,PRJNA1521393,Patient 3,,adult,,,RU,ulcerative_colitis,one month after,other_intervention,,,2023-02,primary,1.0,0.045
+SAMN62799917,PRJNA1521393,Patient 3,,adult,,,RU,ulcerative_colitis,three months after,other_intervention,,,2023-04,primary,1.0,0.215

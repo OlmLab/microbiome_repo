@@ -1,0 +1,17 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN29488152,PRJNA855302,Case1,2 weeks after Bifidobacterium subtilis treatment of Case1,adult,11305.8,male,,ibs,disease,probiotic,,,,primary,1.0,11.864
+SAMN29488150,PRJNA855302,Case1,2 weeks after fecal bacteria transplantation capsule treatment of Case1,adult,11305.8,male,,ibs,disease,fmt,,,,primary,1.0,10.914
+SAMN29488148,PRJNA855302,Case1,2 weeks after precise capsule treatment of Case1,adult,11305.8,male,,ibs,disease,other_intervention,,,,primary,1.0,10.422
+SAMN29488153,PRJNA855302,Case1,2 weeks after stopping Bifidobacterium subtilis treatment of Case1,adult,11305.8,male,,ibs,disease,probiotic,,,,primary,1.0,11.009
+SAMN29488151,PRJNA855302,Case1,2 weeks after stopping fecal bacteria transplantation capsule treatment( before Bifidobacterium subtilis treatment) of Case1,adult,11305.8,male,,ibs,disease,,,,,primary,1.0,11.256
+SAMN29488149,PRJNA855302,Case1,2 weeks after stopping precise capsule treatment( before fecal bacteria transplantation capsule treatment) of Case1,adult,11305.8,male,,ibs,disease,,,,,primary,1.0,6.071
+SAMN29488147,PRJNA855302,Case1,Before treatment of the Case 1,adult,11305.8,male,,ibs,disease,no_intervention,,,,primary,1.0,11.046
+SAMN29488160,PRJNA855302,Case2,2 weeks after Bifidobacterium subtilis treatment of Case2,adult,7305.0,male,,ibs,disease,probiotic,,,,primary,1.0,17.565
+SAMN29488158,PRJNA855302,Case2,2 weeks after fecal bacteria transplantation capsule treatment of Case2,adult,7305.0,male,,ibs,disease,fmt,,,,primary,1.0,16.305
+SAMN29488156,PRJNA855302,Case2,2 weeks after precise capsule treatment of Case2,adult,7305.0,male,,ibs,disease,other_intervention,,,,primary,1.0,24.833
+SAMN29488161,PRJNA855302,Case2,2 weeks after stopping Bifidobacterium subtilis treatment of Case2,adult,7305.0,male,,ibs,disease,probiotic,,,,primary,1.0,11.045
+SAMN29488159,PRJNA855302,Case2,2 weeks after stopping fecal bacteria transplantation capsule treatment( before Bifidobacterium subtilis treatment) of Case2,adult,7305.0,male,,ibs,disease,,,,,primary,1.0,11.524
+SAMN29488157,PRJNA855302,Case2,2 weeks after stopping precise capsule treatment( before fecal bacteria transplantation capsule treatment) of Case2,adult,7305.0,male,,ibs,disease,,,,,primary,1.0,25.725
+SAMN29488155,PRJNA855302,Case2,Before treatment of the Case 2,adult,7305.0,male,,ibs,disease,no_intervention,,,,primary,1.0,18.637
+SAMN29488154,PRJNA855302,DonorA,DonorA,adult,8034.0,male,,healthy_control,health,,,,,primary,1.0,11.935
+SAMN29488162,PRJNA855302,DonorB,DonorB,adult,8034.0,male,,healthy_control,health,,,,,primary,1.0,11.792

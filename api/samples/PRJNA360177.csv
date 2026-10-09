@@ -1,0 +1,5 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN06046216,PRJNA360177,A,0,adult,12784.0,male,CN,healthy_control,no liver disorder,,,,2015-05-08,primary,1.0,6.22
+SAMN06046218,PRJNA360177,A,33,adult,12784.0,male,CN,healthy_control,no liver disorder,,,,2015-06-10,primary,1.0,5.411
+SAMN06046217,PRJNA360177,B,0,adult,10958.0,male,CN,healthy_control,no liver disorder,,,,2015-05-08,primary,1.0,7.688
+SAMN06046219,PRJNA360177,B,33,adult,10958.0,male,CN,healthy_control,no liver disorder,,,,2015-06-10,primary,1.0,6.228

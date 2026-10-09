@@ -1,0 +1,224 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA6869294,PRJEB38528,Subject 1,,adult,12783.8,female,SE,,,,,yes,2017-03-13,excluded,1.0,0.143
+SAMEA6869295,PRJEB38528,Subject 1,,adult,12783.8,female,SE,,,,,yes,2017-03-13,primary,1.0,0.208
+SAMEA6869296,PRJEB38528,Subject 1,,adult,12783.8,female,SE,,,,,yes,2017-03-13,excluded,1.0,0.142
+SAMEA6869361,PRJEB38528,Subject 10,,adult,13149.0,female,SE,,,,,no,2017-03-29,excluded,1.0,0.182
+SAMEA6869362,PRJEB38528,Subject 10,,adult,13149.0,female,SE,,,,,no,2017-03-29,primary,1.0,0.138
+SAMEA6869363,PRJEB38528,Subject 10,,adult,13149.0,female,SE,,,,,no,2017-03-29,excluded,1.0,0.232
+SAMEA6869368,PRJEB38528,Subject 11,,adult,14975.2,female,SE,cardiometabolic_other,hypertension,,,,2017-03-29,excluded,1.0,0.17
+SAMEA6869369,PRJEB38528,Subject 11,,adult,14975.2,female,SE,cardiometabolic_other,hypertension,,,,2017-03-29,primary,1.0,0.229
+SAMEA6869370,PRJEB38528,Subject 11,,adult,14975.2,female,SE,cardiometabolic_other,hypertension,,,,2017-03-29,excluded,1.0,0.114
+SAMEA6869375,PRJEB38528,Subject 12,,adult,12783.8,female,SE,allergy_or_atopy,asthma,,,,2017-04-05,excluded,1.0,0.188
+SAMEA6869376,PRJEB38528,Subject 12,,adult,12783.8,female,SE,allergy_or_atopy,asthma,,,,2017-04-05,primary,1.0,0.006
+SAMEA6869377,PRJEB38528,Subject 12,,adult,12783.8,female,SE,allergy_or_atopy,asthma,,,,2017-04-05,excluded,1.0,0.157
+SAMEA6869382,PRJEB38528,Subject 13,,adult,13504.0,female,SE,autoimmune_inflammatory,hypothyroidism,,,,2017-04-05,excluded,1.0,0.157
+SAMEA6869383,PRJEB38528,Subject 13,,adult,13504.0,female,SE,autoimmune_inflammatory,hypothyroidism,,,,2017-04-05,primary,1.0,0.189
+SAMEA6869384,PRJEB38528,Subject 13,,adult,13504.0,female,SE,autoimmune_inflammatory,hypothyroidism,,,,2017-04-05,excluded,1.0,0.231
+SAMEA6869389,PRJEB38528,Subject 14,,adult,13149.0,female,SE,other_infection,"previous drug usage, chronic UVI",,,yes,2017-04-05,excluded,1.0,0.219
+SAMEA6869390,PRJEB38528,Subject 14,,adult,13149.0,female,SE,other_infection,"previous drug usage, chronic UVI",,,yes,2017-04-05,primary,1.0,0.207
+SAMEA6869391,PRJEB38528,Subject 14,,adult,13149.0,female,SE,other_infection,"previous drug usage, chronic UVI",,,yes,2017-04-05,excluded,1.0,0.14
+SAMEA6869396,PRJEB38528,Subject 15,,adult,13149.0,female,SE,autoimmune_inflammatory,hypothyroidism,,,yes,2017-04-05,excluded,1.0,0.005
+SAMEA6869397,PRJEB38528,Subject 15,,adult,13149.0,female,SE,autoimmune_inflammatory,hypothyroidism,,,yes,2017-04-05,primary,1.0,0.221
+SAMEA6869398,PRJEB38528,Subject 15,,adult,13149.0,female,SE,autoimmune_inflammatory,hypothyroidism,,,yes,2017-04-05,excluded,1.0,0.165
+SAMEA6869403,PRJEB38528,Subject 16,,adult,12043.2,female,SE,neurological_psychiatric,"previous depression, chronic UVI",,,no,2017-04-11,excluded,1.0,0.169
+SAMEA6869404,PRJEB38528,Subject 16,,adult,12043.2,female,SE,neurological_psychiatric,"previous depression, chronic UVI",,,no,2017-04-11,primary,1.0,0.166
+SAMEA6869405,PRJEB38528,Subject 16,,adult,12043.2,female,SE,neurological_psychiatric,"previous depression, chronic UVI",,,no,2017-04-11,excluded,1.0,0.175
+SAMEA6869410,PRJEB38528,Subject 17,,adult,12417.9,female,SE,,,,,,2017-04-12,excluded,1.0,0.168
+SAMEA6869411,PRJEB38528,Subject 17,,adult,12417.9,female,SE,,,,,,2017-04-12,primary,1.0,0.179
+SAMEA6869412,PRJEB38528,Subject 17,,adult,12417.9,female,SE,,,,,,2017-04-12,excluded,1.0,0.182
+SAMEA6869417,PRJEB38528,Subject 18,,adult,12783.8,female,SE,autoimmune_inflammatory,hypothyroidism,,,,2017-04-20,excluded,1.0,0.158
+SAMEA6869418,PRJEB38528,Subject 18,,adult,12783.8,female,SE,autoimmune_inflammatory,hypothyroidism,,,,2017-04-20,primary,1.0,0.286
+SAMEA6869419,PRJEB38528,Subject 18,,adult,12783.8,female,SE,autoimmune_inflammatory,hypothyroidism,,,,2017-04-20,excluded,1.0,0.103
+SAMEA6869424,PRJEB38528,Subject 19,,adult,8391.0,female,SE,other_disease,prolactinome,,,yes,2017-04-20,excluded,1.0,0.215
+SAMEA6869425,PRJEB38528,Subject 19,,adult,8391.0,female,SE,other_disease,prolactinome,,,yes,2017-04-20,primary,1.0,0.207
+SAMEA6869426,PRJEB38528,Subject 19,,adult,8391.0,female,SE,other_disease,prolactinome,,,yes,2017-04-20,excluded,1.0,0.094
+SAMEA6869305,PRJEB38528,Subject 2,,adult,13149.0,female,SE,,,,,yes,2017-03-13,excluded,1.0,0.166
+SAMEA6869306,PRJEB38528,Subject 2,,adult,13149.0,female,SE,,,,,yes,2017-03-13,primary,1.0,0.188
+SAMEA6869307,PRJEB38528,Subject 2,,adult,13149.0,female,SE,,,,,yes,2017-03-13,excluded,1.0,0.15
+SAMEA6869431,PRJEB38528,Subject 20,,adult,11312.8,female,SE,neurological_psychiatric,bioplor disorder,,,yes,2017-04-20,excluded,1.0,0.207
+SAMEA6869432,PRJEB38528,Subject 20,,adult,11312.8,female,SE,neurological_psychiatric,bioplor disorder,,,yes,2017-04-20,primary,1.0,0.178
+SAMEA6869433,PRJEB38528,Subject 20,,adult,11312.8,female,SE,neurological_psychiatric,bioplor disorder,,,yes,2017-04-20,excluded,1.0,0.139
+SAMEA6869438,PRJEB38528,Subject 21,,adult,13149.0,female,SE,,,,,no,2017-04-24,excluded,1.0,0.143
+SAMEA6869439,PRJEB38528,Subject 21,,adult,13149.0,female,SE,,,,,no,2017-04-24,primary,1.0,0.121
+SAMEA6869440,PRJEB38528,Subject 21,,adult,13149.0,female,SE,,,,,no,2017-04-24,excluded,1.0,0.042
+SAMEA6869445,PRJEB38528,Subject 22,,adult,13504.0,female,SE,neurological_psychiatric,"depression, chronic pain",,,yes,2017-04-24,excluded,1.0,0.155
+SAMEA6869446,PRJEB38528,Subject 22,,adult,13504.0,female,SE,neurological_psychiatric,"depression, chronic pain",,,yes,2017-04-24,primary,1.0,0.202
+SAMEA6869447,PRJEB38528,Subject 22,,adult,13504.0,female,SE,neurological_psychiatric,"depression, chronic pain",,,yes,2017-04-24,excluded,1.0,0.117
+SAMEA6869452,PRJEB38528,Subject 23,,adult,14975.2,female,SE,,,,,,2017-04-24,excluded,1.0,0.14
+SAMEA6869453,PRJEB38528,Subject 23,,adult,14975.2,female,SE,,,,,,2017-04-24,primary,1.0,0.172
+SAMEA6869454,PRJEB38528,Subject 23,,adult,14975.2,female,SE,,,,,,2017-04-24,excluded,1.0,0.195
+SAMEA6869459,PRJEB38528,Subject 24,,adult,9857.0,female,SE,,,,,no,2017-04-25,excluded,1.0,0.15
+SAMEA6869460,PRJEB38528,Subject 24,,adult,9857.0,female,SE,,,,,no,2017-04-25,primary,1.0,0.157
+SAMEA6869461,PRJEB38528,Subject 24,,adult,9857.0,female,SE,,,,,no,2017-04-25,excluded,1.0,0.183
+SAMEA6869466,PRJEB38528,Subject 25,,adult,12417.9,female,SE,,,,,no,2017-04-25,excluded,1.0,0.142
+SAMEA6869467,PRJEB38528,Subject 25,,adult,12417.9,female,SE,,,,,no,2017-04-25,primary,1.0,0.204
+SAMEA6869468,PRJEB38528,Subject 25,,adult,12417.9,female,SE,,,,,no,2017-04-25,excluded,1.0,0.121
+SAMEA6869473,PRJEB38528,Subject 26,,adult,11688.0,female,SE,,,,,no,2017-04-25,excluded,1.0,0.183
+SAMEA6869474,PRJEB38528,Subject 26,,adult,11688.0,female,SE,,,,,no,2017-04-25,primary,1.0,0.191
+SAMEA6869475,PRJEB38528,Subject 26,,adult,11688.0,female,SE,,,,,no,2017-04-25,excluded,1.0,0.178
+SAMEA6869480,PRJEB38528,Subject 27,,adult,12783.8,female,SE,,,,,no,2017-04-26,excluded,1.0,0.137
+SAMEA6869481,PRJEB38528,Subject 27,,adult,12783.8,female,SE,,,,,no,2017-04-26,primary,1.0,0.184
+SAMEA6869482,PRJEB38528,Subject 27,,adult,12783.8,female,SE,,,,,no,2017-04-26,excluded,1.0,0.269
+SAMEA6869487,PRJEB38528,Subject 28,,adult,11312.8,female,SE,,,,,no,2017-04-26,excluded,1.0,0.21
+SAMEA6869488,PRJEB38528,Subject 28,,adult,11312.8,female,SE,,,,,no,2017-04-26,primary,1.0,0.179
+SAMEA6869489,PRJEB38528,Subject 28,,adult,11312.8,female,SE,,,,,no,2017-04-26,excluded,1.0,0.117
+SAMEA6869494,PRJEB38528,Subject 29,,adult,11312.8,female,SE,pregnancy_postpartum,Pregnancy hepatosis,,,no,2017-05-02,excluded,1.0,0.187
+SAMEA6869495,PRJEB38528,Subject 29,,adult,11312.8,female,SE,pregnancy_postpartum,Pregnancy hepatosis,,,no,2017-05-02,primary,1.0,0.243
+SAMEA6869496,PRJEB38528,Subject 29,,adult,11312.8,female,SE,pregnancy_postpartum,Pregnancy hepatosis,,,no,2017-05-02,excluded,1.0,0.173
+SAMEA6869312,PRJEB38528,Subject 3,,adult,9496.5,female,SE,,,,,no,2017-03-13,excluded,1.0,0.138
+SAMEA6869313,PRJEB38528,Subject 3,,adult,9496.5,female,SE,,,,,no,2017-03-13,primary,1.0,0.174
+SAMEA6869314,PRJEB38528,Subject 3,,adult,9496.5,female,SE,,,,,no,2017-03-13,excluded,1.0,0.187
+SAMEA6869501,PRJEB38528,Subject 30,,adult,11312.8,female,SE,neurological_psychiatric,anxiety,,,,2017-05-02,excluded,1.0,0.168
+SAMEA6869502,PRJEB38528,Subject 30,,adult,11312.8,female,SE,neurological_psychiatric,anxiety,,,,2017-05-02,primary,1.0,0.241
+SAMEA6869503,PRJEB38528,Subject 30,,adult,11312.8,female,SE,neurological_psychiatric,anxiety,,,,2017-05-02,excluded,1.0,0.194
+SAMEA6869508,PRJEB38528,Subject 31,,adult,11312.8,female,SE,,,,,no,2017-05-02,excluded,1.0,0.176
+SAMEA6869509,PRJEB38528,Subject 31,,adult,11312.8,female,SE,,,,,no,2017-05-02,primary,1.0,0.213
+SAMEA6869510,PRJEB38528,Subject 31,,adult,11312.8,female,SE,,,,,no,2017-05-02,excluded,1.0,0.194
+SAMEA6869515,PRJEB38528,Subject 32,,adult,15696.8,female,SE,,,,,no,2017-05-03,excluded,1.0,0.188
+SAMEA6869516,PRJEB38528,Subject 32,,adult,15696.8,female,SE,,,,,no,2017-05-03,primary,1.0,0.247
+SAMEA6869517,PRJEB38528,Subject 32,,adult,15696.8,female,SE,,,,,no,2017-05-03,excluded,1.0,0.112
+SAMEA6869522,PRJEB38528,Subject 33,,adult,10601.0,female,SE,,,,,,2017-05-03,excluded,1.0,0.177
+SAMEA6869523,PRJEB38528,Subject 33,,adult,10601.0,female,SE,,,,,,2017-05-03,primary,1.0,0.124
+SAMEA6869524,PRJEB38528,Subject 33,,adult,10601.0,female,SE,,,,,,2017-05-03,excluded,1.0,0.207
+SAMEA6869529,PRJEB38528,Subject 34,,adult,9857.0,female,SE,,,,,no,2017-05-04,excluded,1.0,0.122
+SAMEA6869530,PRJEB38528,Subject 34,,adult,9857.0,female,SE,,,,,no,2017-05-04,primary,1.0,0.195
+SAMEA6869531,PRJEB38528,Subject 34,,adult,9857.0,female,SE,,,,,no,2017-05-04,excluded,1.0,0.204
+SAMEA6869536,PRJEB38528,Subject 35,,adult,13504.0,female,SE,,,,,,2017-05-04,excluded,1.0,0.218
+SAMEA6869537,PRJEB38528,Subject 35,,adult,13504.0,female,SE,,,,,,2017-05-04,primary,1.0,0.216
+SAMEA6869538,PRJEB38528,Subject 35,,adult,13504.0,female,SE,,,,,,2017-05-04,excluded,1.0,0.118
+SAMEA6869543,PRJEB38528,Subject 36,,adult,9131.0,female,SE,,,,,no,2017-05-04,excluded,1.0,0.174
+SAMEA6869544,PRJEB38528,Subject 36,,adult,9131.0,female,SE,,,,,no,2017-05-04,primary,1.0,0.218
+SAMEA6869545,PRJEB38528,Subject 36,,adult,9131.0,female,SE,,,,,no,2017-05-04,excluded,1.0,0.178
+SAMEA6869551,PRJEB38528,Subject 37,,adult,12783.8,female,SE,allergy_or_atopy,"asthma, Pregnancy hypertension",,,,2017-05-05,primary,1.0,0.229
+SAMEA6869552,PRJEB38528,Subject 37,,adult,12783.8,female,SE,allergy_or_atopy,"asthma, Pregnancy hypertension",,,,2017-05-05,excluded,1.0,0.172
+SAMEA6869558,PRJEB38528,Subject 38,,adult,10957.5,female,SE,ulcerative_colitis,ulcerative colitis,,,,2017-05-11,primary,1.0,0.229
+SAMEA6869559,PRJEB38528,Subject 38,,adult,10957.5,female,SE,ulcerative_colitis,ulcerative colitis,,,,2017-05-11,excluded,1.0,0.208
+SAMEA6869564,PRJEB38528,Subject 39,,adult,12417.9,female,SE,allergy_or_atopy,asthma,,,no,2017-05-11,excluded,1.0,0.154
+SAMEA6869565,PRJEB38528,Subject 39,,adult,12417.9,female,SE,allergy_or_atopy,asthma,,,no,2017-05-11,primary,1.0,0.304
+SAMEA6869319,PRJEB38528,Subject 4,,adult,11312.8,female,SE,,,,,no,2017-03-16,excluded,1.0,0.156
+SAMEA6869320,PRJEB38528,Subject 4,,adult,11312.8,female,SE,,,,,no,2017-03-16,primary,1.0,0.222
+SAMEA6869321,PRJEB38528,Subject 4,,adult,11312.8,female,SE,,,,,no,2017-03-16,excluded,1.0,0.144
+SAMEA6869571,PRJEB38528,Subject 40,,adult,10234.0,female,SE,neurological_psychiatric,anxiety,,,no,2017-05-30,excluded,1.0,0.205
+SAMEA6869572,PRJEB38528,Subject 40,,adult,10234.0,female,SE,neurological_psychiatric,anxiety,,,no,2017-05-30,primary,1.0,0.144
+SAMEA6869573,PRJEB38528,Subject 40,,adult,10234.0,female,SE,neurological_psychiatric,anxiety,,,no,2017-05-30,excluded,1.0,0.134
+SAMEA6869578,PRJEB38528,Subject 41,,adult,10234.0,female,SE,autoimmune_inflammatory,psoriasis,,,no,2017-05-30,excluded,1.0,0.434
+SAMEA6869579,PRJEB38528,Subject 41,,adult,10234.0,female,SE,autoimmune_inflammatory,psoriasis,,,no,2017-05-30,primary,1.0,0.144
+SAMEA6869580,PRJEB38528,Subject 41,,adult,10234.0,female,SE,autoimmune_inflammatory,psoriasis,,,no,2017-05-30,excluded,1.0,0.142
+SAMEA6869585,PRJEB38528,Subject 42,,adult,9857.0,female,SE,neurological_psychiatric,"bipolar disorder, ADHD",,,,2017-05-30,excluded,1.0,0.198
+SAMEA6869586,PRJEB38528,Subject 42,,adult,9857.0,female,SE,neurological_psychiatric,"bipolar disorder, ADHD",,,,2017-05-30,primary,1.0,0.235
+SAMEA6869587,PRJEB38528,Subject 42,,adult,9857.0,female,SE,neurological_psychiatric,"bipolar disorder, ADHD",,,,2017-05-30,excluded,1.0,0.175
+SAMEA6869592,PRJEB38528,Subject 43,,adult,12783.8,female,SE,,,,,no,2017-05-31,excluded,1.0,0.209
+SAMEA6869593,PRJEB38528,Subject 43,,adult,12783.8,female,SE,,,,,no,2017-05-31,primary,1.0,0.237
+SAMEA6869594,PRJEB38528,Subject 43,,adult,12783.8,female,SE,,,,,no,2017-05-31,excluded,1.0,0.158
+SAMEA6869599,PRJEB38528,Subject 44,,adult,12043.2,female,SE,,,,,no,2017-05-30,excluded,1.0,0.154
+SAMEA6869600,PRJEB38528,Subject 44,,adult,12043.2,female,SE,,,,,no,2017-05-30,primary,1.0,0.226
+SAMEA6869601,PRJEB38528,Subject 44,,adult,12043.2,female,SE,,,,,no,2017-05-30,excluded,1.0,0.147
+SAMEA6869606,PRJEB38528,Subject 45,,adult,10601.0,female,SE,,,,,no,2017-05-30,excluded,1.0,0.161
+SAMEA6869607,PRJEB38528,Subject 45,,adult,10601.0,female,SE,,,,,no,2017-05-30,primary,1.0,0.04
+SAMEA6869608,PRJEB38528,Subject 45,,adult,10601.0,female,SE,,,,,no,2017-05-30,excluded,1.0,0.167
+SAMEA6869613,PRJEB38528,Subject 46,,adult,15330.0,female,SE,pregnancy_postpartum,Pregnancy anemia,,,no,2017-06-08,excluded,1.0,0.149
+SAMEA6869614,PRJEB38528,Subject 46,,adult,15330.0,female,SE,pregnancy_postpartum,Pregnancy anemia,,,no,2017-06-08,primary,1.0,0.179
+SAMEA6869615,PRJEB38528,Subject 46,,adult,15330.0,female,SE,pregnancy_postpartum,Pregnancy anemia,,,no,2017-06-08,excluded,1.0,0.16
+SAMEA6869620,PRJEB38528,Subject 47,,adult,16436.2,female,SE,,Reinault syndrome,,,no,2017-06-08,excluded,1.0,0.144
+SAMEA6869621,PRJEB38528,Subject 47,,adult,16436.2,female,SE,,Reinault syndrome,,,no,2017-06-08,primary,1.0,0.148
+SAMEA6869622,PRJEB38528,Subject 47,,adult,16436.2,female,SE,,Reinault syndrome,,,no,2017-06-08,excluded,1.0,0.18
+SAMEA6869627,PRJEB38528,Subject 48,,adult,12783.8,female,SE,,,,,no,2017-06-08,excluded,1.0,0.197
+SAMEA6869628,PRJEB38528,Subject 48,,adult,12783.8,female,SE,,,,,no,2017-06-08,primary,1.0,0.184
+SAMEA6869629,PRJEB38528,Subject 48,,adult,12783.8,female,SE,,,,,no,2017-06-08,excluded,1.0,0.181
+SAMEA6869634,PRJEB38528,Subject 49,,adult,13149.0,female,SE,crohns_disease,Chron�s disease,,,,2017-06-14,excluded,1.0,0.168
+SAMEA6869635,PRJEB38528,Subject 49,,adult,13149.0,female,SE,crohns_disease,Chron�s disease,,,,2017-06-14,primary,1.0,0.011
+SAMEA6869636,PRJEB38528,Subject 49,,adult,13149.0,female,SE,crohns_disease,Chron�s disease,,,,2017-06-14,excluded,1.0,0.179
+SAMEA6869326,PRJEB38528,Subject 5,,adult,10601.0,female,SE,autoimmune_inflammatory,hyperthyroidism,,,,2017-03-16,excluded,1.0,0.235
+SAMEA6869327,PRJEB38528,Subject 5,,adult,10601.0,female,SE,autoimmune_inflammatory,hyperthyroidism,,,,2017-03-16,primary,1.0,0.23
+SAMEA6869328,PRJEB38528,Subject 5,,adult,10601.0,female,SE,autoimmune_inflammatory,hyperthyroidism,,,,2017-03-16,excluded,1.0,0.136
+SAMEA6869641,PRJEB38528,Subject 50,,adult,12783.8,female,SE,allergy_or_atopy,"asthma, Hashimoto tyreoiditis",,,,2017-06-14,excluded,1.0,0.224
+SAMEA6869642,PRJEB38528,Subject 50,,adult,12783.8,female,SE,allergy_or_atopy,"asthma, Hashimoto tyreoiditis",,,,2017-06-14,primary,1.0,0.744
+SAMEA6869643,PRJEB38528,Subject 50,,adult,12783.8,female,SE,allergy_or_atopy,"asthma, Hashimoto tyreoiditis",,,,2017-06-14,excluded,1.0,0.222
+SAMEA6869648,PRJEB38528,Subject 51,,adult,14975.2,female,SE,,,,,no,2017-08-19,excluded,1.0,0.124
+SAMEA6869649,PRJEB38528,Subject 51,,adult,14975.2,female,SE,,,,,no,2017-08-19,primary,1.0,0.156
+SAMEA6869650,PRJEB38528,Subject 51,,adult,14975.2,female,SE,,,,,no,2017-08-19,excluded,1.0,0.203
+SAMEA6869655,PRJEB38528,Subject 52,,adult,12417.9,female,SE,,,,,no,2017-08-19,excluded,1.0,0.138
+SAMEA6869656,PRJEB38528,Subject 52,,adult,12417.9,female,SE,,,,,no,2017-08-19,primary,1.0,0.225
+SAMEA6869657,PRJEB38528,Subject 52,,adult,12417.9,female,SE,,,,,no,2017-08-19,excluded,1.0,0.198
+SAMEA6869662,PRJEB38528,Subject 53,,adult,14239.8,female,SE,other_infection,"hypothyroidism, parvovirus",,,,2017-09-04,excluded,1.0,0.151
+SAMEA6869663,PRJEB38528,Subject 53,,adult,14239.8,female,SE,other_infection,"hypothyroidism, parvovirus",,,,2017-09-04,primary,1.0,0.178
+SAMEA6869664,PRJEB38528,Subject 53,,adult,14239.8,female,SE,other_infection,"hypothyroidism, parvovirus",,,,2017-09-04,excluded,1.0,0.123
+SAMEA6869670,PRJEB38528,Subject 54,,adult,13878.5,female,SE,,,,,no,2017-09-04,excluded,1.0,0.132
+SAMEA6869671,PRJEB38528,Subject 54,,adult,13878.5,female,SE,,,,,no,2017-09-04,primary,1.0,0.329
+SAMEA6869672,PRJEB38528,Subject 54,,adult,13878.5,female,SE,,,,,no,2017-09-04,excluded,1.0,0.148
+SAMEA6869677,PRJEB38528,Subject 55,,adult,9496.5,female,SE,,,,,no,2017-09-04,excluded,1.0,0.211
+SAMEA6869678,PRJEB38528,Subject 55,,adult,9496.5,female,SE,,,,,no,2017-09-04,primary,1.0,0.203
+SAMEA6869679,PRJEB38528,Subject 55,,adult,9496.5,female,SE,,,,,no,2017-09-04,excluded,1.0,0.102
+SAMEA6869684,PRJEB38528,Subject 56,,adult,11688.0,female,SE,,,,,no,2017-09-06,excluded,1.0,0.307
+SAMEA6869685,PRJEB38528,Subject 56,,adult,11688.0,female,SE,,,,,no,2017-09-06,primary,1.0,0.036
+SAMEA6869686,PRJEB38528,Subject 56,,adult,11688.0,female,SE,,,,,no,2017-09-06,excluded,1.0,0.084
+SAMEA6869691,PRJEB38528,Subject 57,,adult,10957.5,female,SE,,,,,no,2017-09-06,excluded,1.0,0.105
+SAMEA6869692,PRJEB38528,Subject 57,,adult,10957.5,female,SE,,,,,no,2017-09-06,primary,1.0,0.236
+SAMEA6869693,PRJEB38528,Subject 57,,adult,10957.5,female,SE,,,,,no,2017-09-06,excluded,1.0,0.188
+SAMEA6869698,PRJEB38528,Subject 58,,adult,10957.5,female,SE,,,,,no,2017-09-07,excluded,1.0,0.181
+SAMEA6869699,PRJEB38528,Subject 58,,adult,10957.5,female,SE,,,,,no,2017-09-07,primary,1.0,0.28
+SAMEA6869700,PRJEB38528,Subject 58,,adult,10957.5,female,SE,,,,,no,2017-09-07,excluded,1.0,0.108
+SAMEA6869705,PRJEB38528,Subject 59,,adult,10234.0,female,SE,pregnancy_postpartum,Pre-eclampsia,,,,2017-09-19,excluded,1.0,0.144
+SAMEA6869706,PRJEB38528,Subject 59,,adult,10234.0,female,SE,pregnancy_postpartum,Pre-eclampsia,,,,2017-09-19,primary,1.0,0.211
+SAMEA6869707,PRJEB38528,Subject 59,,adult,10234.0,female,SE,pregnancy_postpartum,Pre-eclampsia,,,,2017-09-19,excluded,1.0,0.186
+SAMEA6869333,PRJEB38528,Subject 6,,adult,16069.0,female,SE,,,,,,2017-03-16,excluded,1.0,0.166
+SAMEA6869334,PRJEB38528,Subject 6,,adult,16069.0,female,SE,,,,,,2017-03-16,primary,1.0,0.242
+SAMEA6869335,PRJEB38528,Subject 6,,adult,16069.0,female,SE,,,,,,2017-03-16,excluded,1.0,0.209
+SAMEA6869712,PRJEB38528,Subject 60,,adult,10234.0,female,SE,,,,,no,2017-10-02,excluded,1.0,0.057
+SAMEA6869713,PRJEB38528,Subject 60,,adult,10234.0,female,SE,,,,,no,2017-10-02,primary,1.0,0.035
+SAMEA6869714,PRJEB38528,Subject 60,,adult,10234.0,female,SE,,,,,no,2017-10-02,excluded,1.0,0.206
+SAMEA6869719,PRJEB38528,Subject 61,,adult,8766.0,female,SE,pregnancy_postpartum,pregnancy hypothyroidism,,,,2017-10-08,excluded,1.0,0.158
+SAMEA6869720,PRJEB38528,Subject 61,,adult,8766.0,female,SE,pregnancy_postpartum,pregnancy hypothyroidism,,,,2017-10-08,primary,1.0,0.115
+SAMEA6869721,PRJEB38528,Subject 61,,adult,8766.0,female,SE,pregnancy_postpartum,pregnancy hypothyroidism,,,,2017-10-08,excluded,1.0,0.133
+SAMEA6869726,PRJEB38528,Subject 62,,adult,10957.5,female,SE,pregnancy_postpartum,"asthma, hypothyroidism, Pregnancy hypertension",,,,2017-10-08,excluded,1.0,0.198
+SAMEA6869733,PRJEB38528,Subject 63,,adult,9857.0,female,SE,,,,,,2017-10-08,excluded,1.0,0.268
+SAMEA6869734,PRJEB38528,Subject 63,,adult,9857.0,female,SE,,,,,,2017-10-08,primary,1.0,0.253
+SAMEA6869735,PRJEB38528,Subject 63,,adult,9857.0,female,SE,,,,,,2017-10-08,excluded,1.0,0.192
+SAMEA6869740,PRJEB38528,Subject 64,,adult,11312.8,female,SE,,,,,no,2017-10-08,excluded,1.0,0.13
+SAMEA6869741,PRJEB38528,Subject 64,,adult,11312.8,female,SE,,,,,no,2017-10-08,primary,1.0,0.12
+SAMEA6869742,PRJEB38528,Subject 64,,adult,11312.8,female,SE,,,,,no,2017-10-08,excluded,1.0,0.149
+SAMEA6869747,PRJEB38528,Subject 65,,adult,13149.0,female,SE,,,,,no,2017-10-16,excluded,1.0,0.126
+SAMEA6869748,PRJEB38528,Subject 65,,adult,13149.0,female,SE,,,,,no,2017-10-16,primary,1.0,0.176
+SAMEA6869749,PRJEB38528,Subject 65,,adult,13149.0,female,SE,,,,,no,2017-10-16,excluded,1.0,0.001
+SAMEA6869754,PRJEB38528,Subject 66,,adult,15696.8,female,SE,,,,,no,2017-10-16,excluded,1.0,0.129
+SAMEA6869755,PRJEB38528,Subject 66,,adult,15696.8,female,SE,,,,,no,2017-10-16,primary,1.0,0.227
+SAMEA6869756,PRJEB38528,Subject 66,,adult,15696.8,female,SE,,,,,no,2017-10-16,excluded,1.0,0.137
+SAMEA6869761,PRJEB38528,Subject 67,,adult,11312.8,female,SE,type1_diabetes,diabetes type 1,,,,2017-10-17,excluded,1.0,0.133
+SAMEA6869762,PRJEB38528,Subject 67,,adult,11312.8,female,SE,type1_diabetes,diabetes type 1,,,,2017-10-17,primary,1.0,0.301
+SAMEA6869763,PRJEB38528,Subject 67,,adult,11312.8,female,SE,type1_diabetes,diabetes type 1,,,,2017-10-17,excluded,1.0,0.134
+SAMEA6869768,PRJEB38528,Subject 68,,adult,12783.8,female,SE,,,,,no,2017-10-17,excluded,1.0,0.15
+SAMEA6869769,PRJEB38528,Subject 68,,adult,12783.8,female,SE,,,,,no,2017-10-17,primary,1.0,0.247
+SAMEA6869770,PRJEB38528,Subject 68,,adult,12783.8,female,SE,,,,,no,2017-10-17,excluded,1.0,0.146
+SAMEA6869775,PRJEB38528,Subject 69,,adult,13878.5,female,SE,,,,,no,2017-10-17,excluded,1.0,0.054
+SAMEA6869776,PRJEB38528,Subject 69,,adult,13878.5,female,SE,,,,,no,2017-10-17,primary,1.0,0.15
+SAMEA6869777,PRJEB38528,Subject 69,,adult,13878.5,female,SE,,,,,no,2017-10-17,excluded,1.0,0.142
+SAMEA6869340,PRJEB38528,Subject 7,,adult,14239.8,female,SE,,,,,,2017-03-28,excluded,1.0,0.161
+SAMEA6869341,PRJEB38528,Subject 7,,adult,14239.8,female,SE,,,,,,2017-03-28,primary,1.0,0.002
+SAMEA6869342,PRJEB38528,Subject 7,,adult,14239.8,female,SE,,,,,,2017-03-28,excluded,1.0,0.137
+SAMEA6869782,PRJEB38528,Subject 70,,adult,11312.8,female,SE,,,,,,2017-10-17,excluded,1.0,0.12
+SAMEA6869783,PRJEB38528,Subject 70,,adult,11312.8,female,SE,,,,,,2017-10-17,primary,1.0,0.301
+SAMEA6869784,PRJEB38528,Subject 70,,adult,11312.8,female,SE,,,,,,2017-10-17,excluded,1.0,0.172
+SAMEA6869789,PRJEB38528,Subject 71,,adult,17897.2,female,SE,cardiometabolic_other,"hypothyroidism, increased blood pressure",,,,2017-10-17,excluded,1.0,0.484
+SAMEA6869790,PRJEB38528,Subject 71,,adult,17897.2,female,SE,cardiometabolic_other,"hypothyroidism, increased blood pressure",,,,2017-10-17,primary,1.0,0.267
+SAMEA6869791,PRJEB38528,Subject 71,,adult,17897.2,female,SE,cardiometabolic_other,"hypothyroidism, increased blood pressure",,,,2017-10-17,excluded,1.0,0.179
+SAMEA6869796,PRJEB38528,Subject 72,,adult,10957.5,female,SE,neurological_psychiatric,Obsessive-compulsive disorder,,,no,2017-10-18,excluded,1.0,0.153
+SAMEA6869797,PRJEB38528,Subject 72,,adult,10957.5,female,SE,neurological_psychiatric,Obsessive-compulsive disorder,,,no,2017-10-18,primary,1.0,0.213
+SAMEA6869798,PRJEB38528,Subject 72,,adult,10957.5,female,SE,neurological_psychiatric,Obsessive-compulsive disorder,,,no,2017-10-18,excluded,1.0,0.102
+SAMEA6869803,PRJEB38528,Subject 73,,adult,13504.0,female,SE,pregnancy_postpartum,Pregnancy hepatosis,,,no,2017-10-20,excluded,1.0,0.112
+SAMEA6869804,PRJEB38528,Subject 73,,adult,13504.0,female,SE,pregnancy_postpartum,Pregnancy hepatosis,,,no,2017-10-20,primary,1.0,0.349
+SAMEA6869805,PRJEB38528,Subject 73,,adult,13504.0,female,SE,pregnancy_postpartum,Pregnancy hepatosis,,,no,2017-10-20,excluded,1.0,0.003
+SAMEA6869810,PRJEB38528,Subject 74,,adult,10957.5,female,SE,,,,,no,2017-10-20,excluded,1.0,0.125
+SAMEA6869811,PRJEB38528,Subject 74,,adult,10957.5,female,SE,,,,,no,2017-10-20,primary,1.0,0.228
+SAMEA6869812,PRJEB38528,Subject 74,,adult,10957.5,female,SE,,,,,no,2017-10-20,excluded,1.0,0.16
+SAMEA6869817,PRJEB38528,Subject 75,,adult,7670.2,female,SE,,,,,no,2017-10-20,excluded,1.0,0.128
+SAMEA6869818,PRJEB38528,Subject 75,,adult,7670.2,female,SE,,,,,no,2017-10-20,primary,1.0,0.002
+SAMEA6869819,PRJEB38528,Subject 75,,adult,7670.2,female,SE,,,,,no,2017-10-20,excluded,1.0,0.131
+SAMEA6869824,PRJEB38528,Subject 76,,adult,13504.0,female,SE,,,,,no,2017-10-20,excluded,1.0,0.118
+SAMEA6869825,PRJEB38528,Subject 76,,adult,13504.0,female,SE,,,,,no,2017-10-20,primary,1.0,0.279
+SAMEA6869826,PRJEB38528,Subject 76,,adult,13504.0,female,SE,,,,,no,2017-10-20,excluded,1.0,0.126
+SAMEA6869347,PRJEB38528,Subject 8,,adult,17151.0,female,SE,,,,,,2017-03-28,excluded,1.0,0.318
+SAMEA6869348,PRJEB38528,Subject 8,,adult,17151.0,female,SE,,,,,,2017-03-28,primary,1.0,0.241
+SAMEA6869349,PRJEB38528,Subject 8,,adult,17151.0,female,SE,,,,,,2017-03-28,excluded,1.0,0.072
+SAMEA6869354,PRJEB38528,Subject 9,,adult,11688.0,female,SE,,,,,no,2017-03-28,excluded,1.0,0.17
+SAMEA6869355,PRJEB38528,Subject 9,,adult,11688.0,female,SE,,,,,no,2017-03-28,primary,1.0,0.02
+SAMEA6869356,PRJEB38528,Subject 9,,adult,11688.0,female,SE,,,,,no,2017-03-28,excluded,1.0,0.196
