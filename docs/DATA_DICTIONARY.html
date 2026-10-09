@@ -1,0 +1,4628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data dictionary — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.17.0">
+<meta name="catalog-release-id" content="R2026.18">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/DATA_DICTIONARY.html">
+<meta name="catalog-package-version" content="1.17.0">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Data dictionary</div>
+
+<p class="small">Rendered from <a href="DATA_DICTIONARY.md">DATA_DICTIONARY.md</a>.</p>
+<div class="md"><h1 id="data-dictionary">Data dictionary</h1>
+<h2 id="sample_metadata_wideparquet">sample_metadata_wide.parquet</h2>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>type</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code></td>
+<td>string</td>
+<td>ENA/BioSample accession (SAMEA/SAMN/SAMD) — primary key</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>BioProject (PRJ…)</td>
+</tr>
+<tr>
+<td><code>secondary_sample</code></td>
+<td>str</td>
+<td>ENA secondary sample accession (ERS/SRS/DRS)</td>
+</tr>
+<tr>
+<td><code>sample_title</code></td>
+<td>str</td>
+<td>submitter sample title</td>
+</tr>
+<tr>
+<td><code>body_site_class</code></td>
+<td>str</td>
+<td>vocabulary (v1.2.1): <code>primary</code> — infant gut/stool/meconium/rectal sample; <code>unknown</code> — no body-site evidence, kept in body-site scope; <code>excluded</code> — non-gut site (skin, oral, milk, vaginal, nasal, blood…) or, since v1.2.1, a non-human host / isolate-genome sample (<code>exclusion_reason_code</code>); <code>linked</code> — mother/other sample linked to an infant subject, outside body-site scope. Body-site scope = {primary, unknown}; headline scope = <code>catalog_scope</code> (age scope ∧ body-site scope)</td>
+</tr>
+<tr>
+<td><code>collection_date</code></td>
+<td>str</td>
+<td>archive collection_date as given</td>
+</tr>
+<tr>
+<td><code>is_gold_heldout</code></td>
+<td>bool</td>
+<td>True if in the curatedMetagenomicData evaluation set</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure</code></td>
+<td>str</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>preterm_status</code></td>
+<td>str</td>
+<td>preterm</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks</code></td>
+<td>float64</td>
+<td>float weeks at birth</td>
+</tr>
+<tr>
+<td><code>delivery_mode</code></td>
+<td>str</td>
+<td>vaginal</td>
+</tr>
+<tr>
+<td><code>feeding_mode</code></td>
+<td>str</td>
+<td>exclusive_breast</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>str</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>float64</td>
+<td>integer days postnatal</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams</code></td>
+<td>float64</td>
+<td>integer grams</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>str</td>
+<td>ISO-3166 alpha-2</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics</code></td>
+<td>str</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation</code></td>
+<td>str</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>nec_status</code></td>
+<td>str</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>str</td>
+<td>healthy_control</td>
+</tr>
+<tr>
+<td><code>multiple_birth</code></td>
+<td>str</td>
+<td>singleton</td>
+</tr>
+<tr>
+<td><code>sibling_in_study</code></td>
+<td>str</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>geo_subregion</code></td>
+<td>str</td>
+<td>'City, Region' free text as given by submitter (never reverse-geocoded)</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>str</td>
+<td>male</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>str</td>
+<td>study's own label (free text)</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>str</td>
+<td>study's own subject identifier (free text)</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>probiotic_exposure</code></td>
+</tr>
+<tr>
+<td><code>preterm_status__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>preterm_status</code></td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>gestational_age_weeks</code></td>
+</tr>
+<tr>
+<td><code>delivery_mode__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>delivery_mode</code></td>
+</tr>
+<tr>
+<td><code>feeding_mode__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>feeding_mode</code></td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>antibiotic_exposure</code></td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>age_at_collection_days</code></td>
+</tr>
+<tr>
+<td><code>birth_weight_grams__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>birth_weight_grams</code></td>
+</tr>
+<tr>
+<td><code>country__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>country</code></td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>maternal_antibiotics</code></td>
+</tr>
+<tr>
+<td><code>hmo_supplementation__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>hmo_supplementation</code></td>
+</tr>
+<tr>
+<td><code>nec_status__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>nec_status</code></td>
+</tr>
+<tr>
+<td><code>health_condition__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>health_condition</code></td>
+</tr>
+<tr>
+<td><code>multiple_birth__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>multiple_birth</code></td>
+</tr>
+<tr>
+<td><code>sibling_in_study__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>sibling_in_study</code></td>
+</tr>
+<tr>
+<td><code>geo_subregion__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>geo_subregion</code></td>
+</tr>
+<tr>
+<td><code>sex__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>sex</code></td>
+</tr>
+<tr>
+<td><code>timepoint_label__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>timepoint_label</code></td>
+</tr>
+<tr>
+<td><code>subject_id__confidence</code></td>
+<td>float</td>
+<td>confidence (0–1) of <code>subject_id</code></td>
+</tr>
+<tr>
+<td><code>probiotic_exposure__route</code></td>
+<td>str</td>
+<td>evidence route of <code>probiotic_exposure</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>preterm_status__route</code></td>
+<td>str</td>
+<td>evidence route of <code>preterm_status</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks__route</code></td>
+<td>str</td>
+<td>evidence route of <code>gestational_age_weeks</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>delivery_mode__route</code></td>
+<td>str</td>
+<td>evidence route of <code>delivery_mode</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>feeding_mode__route</code></td>
+<td>str</td>
+<td>evidence route of <code>feeding_mode</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__route</code></td>
+<td>str</td>
+<td>evidence route of <code>antibiotic_exposure</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__route</code></td>
+<td>str</td>
+<td>evidence route of <code>age_at_collection_days</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams__route</code></td>
+<td>str</td>
+<td>evidence route of <code>birth_weight_grams</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>country__route</code></td>
+<td>str</td>
+<td>evidence route of <code>country</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics__route</code></td>
+<td>str</td>
+<td>evidence route of <code>maternal_antibiotics</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation__route</code></td>
+<td>str</td>
+<td>evidence route of <code>hmo_supplementation</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>nec_status__route</code></td>
+<td>str</td>
+<td>evidence route of <code>nec_status</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>health_condition__route</code></td>
+<td>str</td>
+<td>evidence route of <code>health_condition</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>multiple_birth__route</code></td>
+<td>str</td>
+<td>evidence route of <code>multiple_birth</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>sibling_in_study__route</code></td>
+<td>str</td>
+<td>evidence route of <code>sibling_in_study</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>geo_subregion__route</code></td>
+<td>str</td>
+<td>evidence route of <code>geo_subregion</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>sex__route</code></td>
+<td>str</td>
+<td>evidence route of <code>sex</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>timepoint_label__route</code></td>
+<td>str</td>
+<td>evidence route of <code>timepoint_label</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>subject_id__route</code></td>
+<td>str</td>
+<td>evidence route of <code>subject_id</code> (R1–R4)</td>
+</tr>
+<tr>
+<td><code>subject_key</code></td>
+<td>str</td>
+<td>resolved subject id (study-scoped)</td>
+</tr>
+<tr>
+<td><code>role</code></td>
+<td>str</td>
+<td>infant · mother · other · unknown · adult (age ≥ 18 y) · child (1,101 d – 18 y). <code>infant</code> only when evidenced: an attribute/sample-name role, or <code>age_scope ∈ {infant_evidenced, study_all_infant}</code>; unevidenced body-site defaults are <code>unknown</code> (v1.2)</td>
+</tr>
+<tr>
+<td><code>role_source</code></td>
+<td>str</td>
+<td>what evidences <code>role</code>: <code>attr_role</code>, <code>sample_name_token</code>, <code>body_site_raw</code>, <code>body_site_class=linked</code>, <code>age_scope:&lt;value&gt;</code>, <code>none</code></td>
+</tr>
+<tr>
+<td><code>t_index</code></td>
+<td>float64</td>
+<td>ordinal timepoint within subject</td>
+</tr>
+<tr>
+<td><code>n_timepoints_subject</code></td>
+<td>float64</td>
+<td>timepoints for this subject</td>
+</tr>
+<tr>
+<td><code>linked_infant_subject_key</code></td>
+<td>str</td>
+<td>for mother samples: the infant's subject_key</td>
+</tr>
+<tr>
+<td><code>run_accessions</code></td>
+<td>str</td>
+<td>';'-joined run accessions</td>
+</tr>
+<tr>
+<td><code>n_runs</code></td>
+<td>int64</td>
+<td>runs for this sample</td>
+</tr>
+<tr>
+<td><code>instrument_model</code></td>
+<td>str</td>
+<td>instrument model(s)</td>
+</tr>
+<tr>
+<td><code>library_layout</code></td>
+<td>str</td>
+<td>PAIRED/SINGLE</td>
+</tr>
+<tr>
+<td><code>read_count_total</code></td>
+<td>int64</td>
+<td>sum of read_count over runs</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>str</td>
+<td>BioProject title</td>
+</tr>
+<tr>
+<td><code>cohort_id</code></td>
+<td>str</td>
+<td>cohort cluster id (COH…)</td>
+</tr>
+<tr>
+<td><code>cohort_name</code></td>
+<td>str</td>
+<td>cohort name</td>
+</tr>
+<tr>
+<td><code>first_public_min</code></td>
+<td>str</td>
+<td>earliest run release date in study</td>
+</tr>
+<tr>
+<td><code>adult_age_flag</code></td>
+<td>bool</td>
+<td><strong>Rule (v1.2):</strong> True iff <code>age_at_collection_days</code> &gt; 1,100 — i.e. the sample carries a committed <code>age_at_collection_days</code> determination whose <code>parse_note</code> starts with <code>out_of_scope_adult</code> (an archive age attribute, R1, that the validator's in-scope check <code>validate_age</code> rejected as <code>age N days outside 0-1100</code>). The flag is therefore always evidence-linked; the 12 v1.1 samples that carried both an in-scope and an out-of-range age were resolved in favour of the archive attribute (reasons in <code>value_history.parquet</code>, <code>change_stage = auditor_review:B9</code>)</td>
+</tr>
+<tr>
+<td><code>n_fields_with_value</code></td>
+<td>int64</td>
+<td>count of populated metadata fields</td>
+</tr>
+<tr>
+<td><code>ena_sample_url</code></td>
+<td>str</td>
+<td>ENA browser link</td>
+</tr>
+<tr>
+<td><code>ena_study_url</code></td>
+<td>str</td>
+<td>ENA browser link</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sample_determinationsparquet">sample_determinations.parquet</h2>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code>, <code>study_accession</code>, <code>field_name</code></td>
+<td>key</td>
+</tr>
+<tr>
+<td><code>field_value</code></td>
+<td>raw value as found in the source</td>
+</tr>
+<tr>
+<td><code>value_normalized</code></td>
+<td>value in the controlled vocabulary/unit</td>
+</tr>
+<tr>
+<td><code>confidence</code></td>
+<td>0–1</td>
+</tr>
+<tr>
+<td><code>evidence_source</code></td>
+<td>label: <code>sample.attr.&lt;key&gt;</code>, <code>run.library_name</code>, <code>sample_id_pattern</code>, <code>paper.supp.table</code>, <code>paper.fulltext.methods</code>, <code>paper.abstract</code>, <code>study.description</code> …</td>
+</tr>
+<tr>
+<td><code>evidence_locator</code></td>
+<td>attribute key / pmcid:file:sheet:column / section</td>
+</tr>
+<tr>
+<td><code>evidence_quote</code></td>
+<td>≤12-word verbatim quote</td>
+</tr>
+<tr>
+<td><code>evidence_limited_to_abstract</code></td>
+<td>1 when the paper was paywalled</td>
+</tr>
+<tr>
+<td><code>determined_by</code></td>
+<td>parser or model id</td>
+</tr>
+<tr>
+<td><code>route</code></td>
+<td>R1–R4</td>
+</tr>
+<tr>
+<td><code>scope</code></td>
+<td>sample</td>
+</tr>
+<tr>
+<td><code>parse_note</code></td>
+<td>derivation notes (unit resolution, propagation, supersession, review flags)</td>
+</tr>
+<tr>
+<td><code>group_audit</code></td>
+<td>keep/downgrade for group statements (Opus audit)</td>
+</tr>
+<tr>
+<td><code>src_track</code></td>
+<td>pipeline pass that produced the row</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>release in which this row first became visible (<code>R&lt;YYYY&gt;.&lt;n&gt;</code> or a pre-numbered package semver <code>1.0.0</code>–<code>1.2.2</code>); pre-1.3.0 values are reconstructed — see DATA_DICTIONARY 'Release columns'</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>release that replaced/removed the row; null (empty in CSV) = current row</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>semver of the data package in which the row first appeared</td>
+</tr>
+</tbody>
+</table>
+<h2 id="routes">Routes</h2>
+<p>R1 = archive sample attribute or sample-name convention (per sample); R2 = supplementary table row (per sample; 'subject_level_join' in parse_note when copied from a per-subject row); R3 = statement in the paper text applied to a defined group; R4 = abstract/ENA description statement (group; confidence ≤0.5).</p>
+<h2 id="field-vocabularies">Field vocabularies</h2>
+<table>
+<thead>
+<tr>
+<th>field</th>
+<th>values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>delivery_mode</code></td>
+<td>vaginal</td>
+</tr>
+<tr>
+<td><code>feeding_mode</code></td>
+<td>exclusive_breast</td>
+</tr>
+<tr>
+<td><code>preterm_status</code></td>
+<td>preterm</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics</code></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure</code></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation</code></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>nec_status</code></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>integer days postnatal</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks</code></td>
+<td>float weeks at birth</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams</code></td>
+<td>integer grams</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>ISO-3166 alpha-2</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>male</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>study's own label (free text)</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>study's own subject identifier (free text)</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>healthy_control</td>
+</tr>
+<tr>
+<td><code>multiple_birth</code></td>
+<td>singleton</td>
+</tr>
+<tr>
+<td><code>sibling_in_study</code></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>geo_subregion</code></td>
+<td>'City, Region' free text as given by submitter (never reverse-geocoded)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="study_metadata_wideparquet">study_metadata_wide.parquet</h2>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code>, <code>study_title</code>, <code>n_samples</code>, <code>n_runs</code>, <code>first_public_min</code></td>
+<td>archive identity and size</td>
+</tr>
+<tr>
+<td><code>catalog_status</code>, <code>triage_verdict</code>, <code>decision_stage</code>, <code>confidence</code>, <code>evidence</code></td>
+<td>INFANT-catalog inclusion verdict and its evidence (historical; not all-age catalog membership — use <code>gut_studies.parquet</code>)</td>
+</tr>
+<tr>
+<td><code>universe_slice</code></td>
+<td>enumeration channel that found the study</td>
+</tr>
+<tr>
+<td><code>recov_age</code>, <code>recov_delivery</code>, …</td>
+<td>recoverability tier predicted before extraction (R1 archive / R2 table / R3 paper / R4 abstract / R0 none)</td>
+</tr>
+<tr>
+<td><code>cov_&lt;field&gt;</code></td>
+<td>fraction of the study's infant-scope samples with a value</td>
+</tr>
+<tr>
+<td><code>cohort_id</code>, <code>cohort_name</code>, <code>n_linked_papers</code>, <code>linked_pmids</code></td>
+<td>cohort and literature</td>
+</tr>
+<tr>
+<td><code>n_unique_infants_est</code></td>
+<td>distinct resolved <code>subject_key</code> among <code>role = infant</code> samples — populated only when <code>n_unique_infants_source ∈ {subject_ids, subject_ids_partial}</code>; NaN otherwise (v1.2; v1.1 wrote 0 or n = n_samples sentinels)</td>
+</tr>
+<tr>
+<td><code>n_unique_infants_source</code></td>
+<td><code>subject_ids</code> (every infant sample has a resolved subject and subjects repeat), <code>subject_ids_partial</code> (subjects resolved on part of the infant samples), <code>subject_ids_all_distinct</code> (one subject id per sample — cannot distinguish cross-sectional from unresolved; render "≤ n"), <code>no_subject_evidence</code> (render "unknown (≤ n)"), <code>no_infant_role_samples</code></td>
+</tr>
+<tr>
+<td><code>n_unique_infants_upper</code>, <code>n_unique_infants_display</code></td>
+<td>upper bound (number of infant-role samples) and the string the site should render</td>
+</tr>
+<tr>
+<td><code>n_infant_role_samples</code>, <code>n_infant_samples_with_subject</code></td>
+<td>inputs to the above</td>
+</tr>
+<tr>
+<td><code>n_infant_evidenced</code>, <code>n_study_all_infant</code>, <code>n_age_unknown_mixed_study</code>, <code>n_age_unknown_no_study_estimate</code>, <code>n_adult_flagged</code>, <code>n_non_infant_role</code>, <code>n_age_scope_infant</code></td>
+<td>per-study <code>age_scope</code> counts; <code>n_age_scope_infant</code> = infant_evidenced + study_all_infant</td>
+</tr>
+<tr>
+<td><code>mixed_age_deposit</code></td>
+<td>True when more than half of the study's sample rows are <code>age_unknown_mixed_study</code> or <code>adult_flagged</code> — render a banner</td>
+</tr>
+<tr>
+<td><code>n_samples</code>, <code>n_runs</code>, <code>n_biosamples</code></td>
+<td>from <code>runs.parquet</code>: runs of the study; distinct BioSamples; <code>n_samples</code> = runs for run-unit studies, else BioSamples. <code>n_sample_rows</code> = rows of the sample table keyed to this study (differs when a BioSample carries runs from two BioProjects; <code>n_biosamples_shared_with_other_study</code>)</td>
+</tr>
+<tr>
+<td><code>longitudinal</code>, <code>max_timepoints</code>, <code>n_mothers</code></td>
+<td>subject resolution (infant-role samples)</td>
+</tr>
+<tr>
+<td><code>worklist_rank</code>, <code>effort_class</code></td>
+<td>curation priority</td>
+</tr>
+<tr>
+<td><code>ena_url</code>, <code>ncbi_url</code></td>
+<td>links</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sample-unit-added-after-the-auditors-run-vs-biosample-finding">Sample unit (added after the auditor's run-vs-BioSample finding)</h2>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>biosample_accession</code></td>
+<td>str</td>
+</tr>
+<tr>
+<td><code>run_accession</code></td>
+<td>str</td>
+</tr>
+<tr>
+<td><code>age_scope</code></td>
+<td>str</td>
+</tr>
+<tr>
+<td><code>age_scope_basis</code></td>
+<td>str</td>
+</tr>
+<tr>
+<td><code>sample_unit</code></td>
+<td><code>biosample</code> (default: one BioSample = one stool), <code>run</code> (child row: the submitter registered one BioSample per infant and one run per stool — 6 studies, 521 rows), <code>biosample_pooled</code> rows were moved to <code>parent_biosamples.parquet</code> in v1.2 — the sample table contains only <code>biosample</code> and <code>run</code> units</td>
+</tr>
+<tr>
+<td><code>parent_biosample</code></td>
+<td>for <code>run</code> rows, the pooled BioSample they belong to</td>
+</tr>
+<tr>
+<td>studies.<code>n_samples</code></td>
+<td>catalog sample rows (biosample + run units); <code>n_biosamples</code> keeps the archive's BioSample count (e.g. PRJNA294605: 158 samples, 11 BioSamples)</td>
+</tr>
+</tbody>
+</table>
+<p>Class-A decision rule (deterministic, <code>sample_unit_classification.csv</code>): BioSample text says 'Assembly of N … samples'/'pooled', or a run-keyed supplementary table gives ≥2 distinct ages/timepoints across the BioSample's runs, or NCBI BioSample carries a collection-date range. Technical multi-run BioSamples (lanes, replicates, paired/unpaired, long+short reads; 33 studies) keep the BioSample as unit.</p>
+<h2 id="confidence-v12-clarification">Confidence (v1.2 clarification)</h2>
+<p><code>confidence</code> (and every <code>&lt;field&gt;__confidence</code>) is an <strong>ordinal reliability tier assigned by the route and engine that produced the value, not a calibrated probability</strong>. Deterministic R1 parsers emit 0.90 (title parser 0.70, unit resolution 0.75–0.85, date arithmetic 0.85, subject propagation 0.70–0.85); R2 table extraction emits 0.65–0.85 (0.75 typical, 0.85 when a paper's own table maps by exact run/sample accession); R3 paper-text group statements 0.25–0.80 (Opus-downgraded statements are capped at 0.40); R4 abstract statements 0.40–0.50. The full tier list is <code>confidence_tiers.csv</code> (route × determiner × scope, with the discrete values emitted). The empirical precision of each tier against the curatedMetagenomicData gold join is in <code>tier_field_precision.csv</code> (<code>gold_set = hires</code> excludes gold rows whose age is an integer number of years; <code>all</code> is the full 3,670-sample join; value mapping: cMD c-section subtypes → <code>c_section</code>, <code>No Breastfeeding</code>/<code>Exclusively Formula Feeding</code> → <code>formula</code>; age tolerance max(7 d, 10 %); GA ± 1 wk). On that join the tiers are monotone for age (R1 0.90 → 1.00, R1 0.85 date/propagation → 0.70, R2 0.85 → 1.00, R2 0.75 → 0.98) but not for feeding (R2 0.75 → 0.48, R2 0.85 → 0.94), and no gold exists for R4 or for exposure fields — treat the number as a tier label and read the precision table for the field you use.</p>
+<h2 id="parent_biosamplesparquet">parent_biosamples.parquet</h2>
+<p>The 16 BioSamples that the submitters of 6 deposits registered one-per-infant with one run per stool. Their runs are the catalog's <code>run</code> sample units (<code>n_child_run_units</code>, <code>child_run_units</code>). Same columns as the sample table plus <code>n_determinations_moved</code> (their 97 v1.1 determinations are in <code>value_history.parquet</code>, status <code>moved_to_parent_biosamples</code>). Excluded from every count.</p>
+<h2 id="study_verdict_historyparquet">study_verdict_history.parquet</h2>
+<p>One row per (study, stage table, replicate). <code>stage_order</code> (v1.2.1) follows the stage ontology <code>stage_rank</code>/<code>stage_level</code>: screen &lt; tier1_rubric &lt; confirm r1–r3 &lt; adjudication &lt; growth_wave (wave order ff, gap, grow, grow_w2, grow_w3, gsa, loose, nm, r3, v3_delta; r1 &lt; r2 &lt; wave adjudication) &lt; growth_wave_merged &lt; biosample_rejudge &lt; human_review (round 1, round 2) &lt; consolidated_triage_v2 &lt; consolidated_final; ties broken by date, replicate, stage. <code>is_consolidated</code> marks rows copied from a consolidated table (<code>consolidated_kind</code> = final / triage_v2 / growth_wave) — render only the <code>final</code> row as the single 'final' line. <code>verdict_norm</code> (v1.2.1): Haiku screen <code>yes</code> → <code>uncertain</code> (screen-pass, not a verdict), <code>no</code> → <code>exclude</code>, <code>ERROR</code> and empty verdicts → null; <code>verdict_norm_note</code> explains each mapping. <code>stage_family</code> groups tables (haiku_screen, sonnet_rubric_tier1, sonnet_confirm:<em>, opus_adjudication:</em>, growth_triage_merged:*, biosample_rejudge, human_review_round1/2, triage_v2_consolidated, catalog_final). <code>verdict</code> is the raw label of that stage (include/exclude/unsure/uncertain; the Haiku screen's yes/no; <code>ERROR</code> for failed requests); <code>verdict_norm</code> maps it to include/exclude/uncertain/None. <code>is_final</code> marks the row that equals <code>universe_studies_all</code>. <code>evidence</code> is the stage's JSON evidence list; <code>src_artifact</code>/<code>src_version_id</code> name the release-bundle table the row was copied from.</p>
+<h2 id="value_historyparquet">value_history.parquet</h2>
+<p>Determinations that are not in <code>sample_determinations.parquet</code>. <code>status</code>: <code>superseded</code> (a higher-precedence value replaced it; <code>replaced_by</code> names it), <code>rejected</code> (validator or rule rejection; <code>reason</code>), <code>dropped</code> (group statement failed the Opus checklist audit; <code>reason</code> = drop_reason), <code>recommitted_out_of_scope_adult</code> (an R1 age the v1.1 validator rejected as out of range that v1.2 commits with <code>parse_note out_of_scope_adult</code> to evidence <code>adult_age_flag</code>), <code>not_committed_duplicate</code> (second out-of-range age attribute on the same sample), <code>moved_to_parent_biosamples</code>, <code>auditor_finding_applied</code> (study-level auditor findings and what was done). <code>change_stage</code> names the pipeline stage that made the change (<code>auditor_review:B2</code>/<code>B9</code> for v1.2.0; <code>auditor_review:R3-3</code> for the v1.2.1 host/isolate rule, statuses <code>recommitted_out_of_scope_host</code> and <code>recommitted_out_of_scope_isolate</code>, field_name <code>body_site_class</code>, evidence source <code>run.scientific_name</code> / <code>run.library_source</code>).</p>
+<h2 id="release-columns-r20261-package-130">Release columns (R2026.1, package 1.3.0)</h2>
+<p>Fact tables — <code>sample_determinations.parquet</code>, <code>universe_studies_all.parquet</code>, <code>study_metadata_wide.parquet</code>, <code>cohorts.csv</code>, <code>study_paper_links.csv</code>, <code>sandpiper_sample_summary.parquet</code>, <code>sandpiper_run_qc.parquet</code>, <code>sandpiper_top_genera.parquet</code>, <code>sandpiper_study_panels.parquet</code>, <code>study_metadata_wide.csv</code> — end with three columns:</p>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>release in which this row first became visible (<code>R&lt;YYYY&gt;.&lt;n&gt;</code> or a pre-numbered package semver <code>1.0.0</code>–<code>1.2.2</code>); pre-1.3.0 values are reconstructed — see DATA_DICTIONARY 'Release columns'</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string | null</td>
+<td>release that replaced/removed the row; null (empty in CSV) = current row</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>semver of the data package in which the row first appeared</td>
+</tr>
+</tbody>
+</table>
+<p>Release ids are <code>R&lt;YYYY&gt;.&lt;n&gt;</code> (first: <code>R2026.1</code> = package 1.3.0) or, for states published before numbering, the package
+semver <code>1.0.0</code> (first public package, 2026-09-25), <code>1.1.0</code> (release v11), <code>1.2.0</code>, <code>1.2.1</code>, <code>1.2.2</code>. "Current" = <code>release_retired IS NULL</code>;
+in the shipped fact tables every row is current. <code>sample_metadata_wide</code> is derived from <code>sample_determinations</code> and carries no release columns.</p>
+<p><strong>Reconstruction caveat.</strong> Packages before 1.3.0 carried no release columns, so <code>release_added</code> of pre-existing rows was reconstructed:
+newest <code>value_history.change_stage</code> touching the (sample_key, field_name) or <code>sample_determinations.src_track</code>, mapped to the package the
+CHANGELOG records for that stage (<code>sample_unit_fix</code> → 1.1.0, <code>auditor_review:B2</code>/<code>B9</code> → 1.2.0, <code>auditor_review:R3-3</code> → 1.2.1,
+<code>owner_decision</code> → 1.2.2). Exact for rows those stages touched (13191 current determinations:
+<code>src_track = sample_unit_fix</code> → 1.1.0, <code>src_track = adult_scope_fix</code> → 1.2.0); every other pre-1.3.0 row is labelled <code>1.0.0</code> by assumption
+(the first package is not archived as a table, so this cannot be verified row by row). <code>package_added</code> equals <code>release_added</code> for all
+pre-1.3.0 rows. Study verdict rows are all <code>1.0.0</code> (no verdict change is dated after the first package); Sandpiper rows are <code>1.2.0</code>
+(when Sandpiper landed; the v1.2.1 recomputation of existing rows is recorded in the CHANGELOG, not as retire+add).</p>
+<h2 id="sample_determinations_allparquet-r20261">sample_determinations_all.parquet (R2026.1)</h2>
+<p><code>sample_determinations</code> columns + the three release columns + <code>retired_reason</code> (string|null; <code>value_history.reason</code>) +
+<code>retired_change_stage</code> (string|null; <code>value_history.change_stage</code>). Rows: every current determination (618,898,
+<code>release_retired</code> null) ∪ every <strong>retired published value</strong> (1,316) reconstructed from <code>value_history</code>
+rows whose <code>status</code> ∈ {<code>superseded</code>, <code>moved_to_parent_biosamples</code>, <code>recommitted_out_of_scope_host</code>, <code>recommitted_out_of_scope_isolate</code>}
+(<code>release_retired</code> = the package of their <code>change_stage</code>). value_history rows with status <code>rejected</code>, <code>dropped</code>, <code>not_committed_duplicate</code>,
+<code>recommitted_out_of_scope_adult</code> (the pre-history of a row that IS current) or <code>auditor_finding_applied</code> were never published and are not
+rows here. Exactly one current row per (<code>sample_key</code>, <code>field_name</code>); retired rows may repeat a key. <code>sample_determinations_superseded.parquet</code>
+(223 rows) is the same set as the <code>superseded</code> rows of stages <code>sample_unit_fix</code> (75) and <code>auditor_review:B9</code> (148) and is kept for the v1.1 layout.</p>
+<h2 id="releasescsv-r20261">releases.csv (R2026.1)</h2>
+<p>One row per release id, oldest first: <code>release_id</code>, <code>package_version</code>, <code>release_date</code>, <code>data_tag</code>, <code>site_tag</code>, <code>doi</code> (empty until Zenodo
+mints one), <code>n_studies_included</code>, <code>n_samples</code>, <code>n_catalog_scope</code>, <code>n_determinations_current</code>, <code>sandpiper_version</code>, <code>notes_file</code>. Historical
+rows carry only the counts the CHANGELOGs state (empty otherwise — never invented).</p>
+<h2 id="contribute-worklist-r20262-package-140">Contribute worklist (R2026.2, package 1.4.0)</h2>
+<p><code>contribute_worklist.csv</code> — one row per <strong>open</strong> study (<code>universe_studies_all.triage_verdict ∈ {include, uncertain}</code> and at least one of the
+six worklist fields below 0.5 coverage on its catalog_scope samples; studies with 0 catalog_scope samples are judged on body-site scope
+<code>body_site_class ∈ {primary, unknown}</code>). Complete studies are not listed. Rules, templates and vocabularies: the pipeline's
+<code>config/contribute.yaml</code> and <code>docs/CONTRIBUTE.md</code>. Read-only: nothing here is a curated value — every column is derived from the tables
+of this package and from the recoverability / R2-rescue / supplement-inventory artifacts registered in <code>config/inputs.json</code> (group <code>contribute</code>).</p>
+<h3 id="contribute_worklistcsv-439-rows">contribute_worklist.csv (439 rows)</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>rank</code></td>
+<td>int64</td>
+<td>1 = highest priority_score (ties: n_samples desc, accession)</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>BioProject accession (universe_studies_all key)</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>string</td>
+<td>universe_studies_all.study_title</td>
+</tr>
+<tr>
+<td><code>cohort_id</code></td>
+<td>string</td>
+<td>cohorts.csv id</td>
+</tr>
+<tr>
+<td><code>cohort_name</code></td>
+<td>string</td>
+<td>cohorts.csv name</td>
+</tr>
+<tr>
+<td><code>triage_verdict</code></td>
+<td>string</td>
+<td><code>include</code></td>
+</tr>
+<tr>
+<td><code>n_samples</code></td>
+<td>int64</td>
+<td>sample units of the study (universe_studies_all.n_samples)</td>
+</tr>
+<tr>
+<td><code>n_catalog_scope</code></td>
+<td>int64</td>
+<td>sample_metadata_wide rows with catalog_scope = True</td>
+</tr>
+<tr>
+<td><code>n_infant_samples_est</code></td>
+<td>float64</td>
+<td>null</td>
+</tr>
+<tr>
+<td><code>missing_fields</code></td>
+<td>string</td>
+<td>';'-joined short field names (age, delivery, feeding, preterm, antibiotics, probiotic) whose coverage &lt; 0.5</td>
+</tr>
+<tr>
+<td><code>n_missing_fields</code></td>
+<td>int64</td>
+<td>count of missing_fields (≥ 1 for every listed study)</td>
+</tr>
+<tr>
+<td><code>coverage_&lt;field&gt;</code></td>
+<td>float64</td>
+<td>fraction of catalog_scope samples with a value for the field (body-site scope {primary, unknown} when n_catalog_scope = 0); six columns: age, delivery, feeding, preterm, antibiotics, probiotic</td>
+</tr>
+<tr>
+<td><code>best_tier_&lt;field&gt;</code></td>
+<td>string</td>
+<td>best recoverability tier for study × field (<code>R1</code> archive attribute · <code>R2</code> supplementary table · <code>R3</code> paper text · <code>R4</code> abstract · <code>R0</code> none); six columns</td>
+</tr>
+<tr>
+<td><code>blocker_code</code></td>
+<td>string</td>
+<td>dominant reason the study is open — vocabulary in config/contribute.yaml <code>blocker_codes</code> (controlled_access, no_linked_paper, paywalled_abstract_only, tables_unjoinable_need_key, pdf_only_supplement, no_supplement_found, archive_only_uncertain, unitless_age_needs_curator, partial_coverage); decision order <code>blocker_order</code></td>
+</tr>
+<tr>
+<td><code>blocker_detail</code></td>
+<td>string ≤ 200</td>
+<td>the deciding evidence (counts, access tier, sample-ID forms from RESCUE_REPORT_v2, human-review note)</td>
+</tr>
+<tr>
+<td><code>unlock_text</code></td>
+<td>string ≤ 200</td>
+<td>imperative 'what would unlock this' sentence from the <code>unlock_templates</code> of the blocker (id form / missing fields substituted)</td>
+</tr>
+<tr>
+<td><code>contribution_type</code></td>
+<td>string</td>
+<td>primary ask: per_sample_table</td>
+</tr>
+<tr>
+<td><code>n_linked_papers</code></td>
+<td>int64</td>
+<td>rows in study_paper_links for the study</td>
+</tr>
+<tr>
+<td><code>own_data_pmids</code></td>
+<td>string</td>
+<td>';'-joined PMIDs of the linked papers (empty when none)</td>
+</tr>
+<tr>
+<td><code>n_supp_tables_inventoried</code></td>
+<td>int64</td>
+<td>supp_inventory members with member_type = table across the linked papers</td>
+</tr>
+<tr>
+<td><code>controlled_access</code></td>
+<td>bool</td>
+<td>study or its cohort is in controlled_access_registry.csv (non-open tier) or flagged controlled in extraction_worklist / universe_studies_all</td>
+</tr>
+<tr>
+<td><code>priority_score</code></td>
+<td>float64</td>
+<td>Σ over missing fields of weight × (1 − coverage) × log10(n_catalog_scope + 1); weights age 3, delivery 2, feeding 2, preterm 1.5, antibiotics 1, probiotic 0.5</td>
+</tr>
+<tr>
+<td><code>ena_url</code></td>
+<td>string</td>
+<td>ENA browser URL of the study</td>
+</tr>
+<tr>
+<td><code>ncbi_url</code></td>
+<td>string</td>
+<td>NCBI BioProject URL</td>
+</tr>
+<tr>
+<td><code>issue_url</code></td>
+<td>string</td>
+<td>prefilled GitHub Issue (form catalog-contribution.yml, label contribution; query keys study_accession, contribution_type, release_tag, title)</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>release in which this row first became visible (<code>R&lt;YYYY&gt;.&lt;n&gt;</code> or a pre-numbered package semver <code>1.0.0</code>–<code>1.2.2</code>); pre-1.3.0 values are reconstructed — see DATA_DICTIONARY 'Release columns'</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>release that replaced/removed the row; null (empty in CSV) = current row</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>semver of the data package in which the row first appeared</td>
+</tr>
+</tbody>
+</table>
+<h3 id="contribute_worklist_fieldscsv-2634-rows-6-per-worklist-study">contribute_worklist_fields.csv (2,634 rows = 6 per worklist study)</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>BioProject accession</td>
+</tr>
+<tr>
+<td><code>field</code></td>
+<td>string</td>
+<td>age</td>
+</tr>
+<tr>
+<td><code>coverage</code></td>
+<td>float64</td>
+<td>fraction of in-scope samples with a value (same scope rule as the worklist)</td>
+</tr>
+<tr>
+<td><code>n_with_value</code></td>
+<td>int64</td>
+<td>in-scope samples with a value</td>
+</tr>
+<tr>
+<td><code>n_catalog_scope</code></td>
+<td>int64</td>
+<td>catalog_scope samples of the study</td>
+</tr>
+<tr>
+<td><code>best_tier</code></td>
+<td>string</td>
+<td>best recoverability tier R0–R4 for the study × field</td>
+</tr>
+<tr>
+<td><code>blocker_code</code></td>
+<td>string</td>
+<td><code>complete</code> when coverage ≥ 0.5, else the study blocker (only the age field carries unitless_age_needs_curator; other fields then partial_coverage)</td>
+</tr>
+<tr>
+<td><code>evidence</code></td>
+<td>string ≤ 120</td>
+<td>tier + first recoverability evidence quote/source + note</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>release in which this row first became visible (<code>R&lt;YYYY&gt;.&lt;n&gt;</code> or a pre-numbered package semver <code>1.0.0</code>–<code>1.2.2</code>); pre-1.3.0 values are reconstructed — see DATA_DICTIONARY 'Release columns'</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>release that replaced/removed the row; null (empty in CSV) = current row</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>semver of the data package in which the row first appeared</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Blocker codes</strong> (one per study, decision order = listing order for included studies; uncertain studies always <code>archive_only_uncertain</code>):
+<code>controlled_access</code> (study/cohort in the controlled-access registry) · <code>no_linked_paper</code> (0 rows in study_paper_links) · <code>paywalled_abstract_only</code>
+(extraction_worklist access_tier C/D/E) · <code>tables_unjoinable_need_key</code> (R2 rescue: supplementary tables keyed by paper-internal names) ·
+<code>pdf_only_supplement</code> (only PDF/DOCX supplements) · <code>no_supplement_found</code> (paper but no inventoried supplement) · <code>unitless_age_needs_curator</code>
+(age column without unit) · <code>partial_coverage</code> (paper + tables processed, fields still missing). Field-level code <code>complete</code> = field at/above threshold.
+<strong>Contribution types</strong>: <code>per_sample_table</code>, <code>id_key</code>, <code>paper_pointer</code>, <code>age_schedule</code>, <code>verdict_evidence</code> (dropdown of the GitHub Issue form
+<code>catalog-contribution.yml</code> that <code>issue_url</code> opens prefilled). Rows get <code>release_retired</code> when the study becomes complete in a later release.</p>
+<h2 id="registry-tier-r20264-package-160">Registry tier (R2026.4, package 1.6.0)</h2>
+<p>The registry is the <strong>outer tier</strong> of the catalog (docs/EXPANSION.md): every ENA study with a human shotgun-metagenome signal, any body site,
+any age, classified at STUDY level from ENA study/sample/run metadata (no paper reading). Enumeration slices: S1 <code>library_source=METAGENOMIC</code> ×
+<code>WGS|WXS</code>; S2 misfiled <code>GENOMIC</code> on verified human-metagenome taxa; S3 <code>OTHER|Targeted-Capture|WGA</code> adjudication (per-slice completeness in
+<code>registry_universe_audit.csv</code>). Classification stages: <code>deterministic_prior</code> (infant-universe verdict carried over), <code>deterministic_rule</code>,
+<code>sonnet_x2</code> (two rubric replicates agree), <code>opus_adjudicated</code> (replicates disagreed → adjudication), <code>pending</code>. Vocabularies: the pipeline's
+<code>config/vocab/{body_sites,life_stages,assay,population_flags}.yaml</code>; scope rules: <code>config/scope.yaml</code>. The curated infant catalog is the scope
+<code>infant_gut</code> inside this registry (<code>in_infant_catalog</code> mirrors <code>universe_studies_all.triage_verdict</code>). The run-level table <code>registry_runs.parquet</code>
+(all runs of the universe, 46 ENA fields + <code>found_by</code>) is attached to the GitHub Release of the data repository as <code>registry_runs_v&lt;version&gt;.parquet</code>
+(too large for this package). Bitemporal columns follow the package convention (<code>release_added</code>, <code>release_retired</code>, <code>package_added</code>).</p>
+<h3 id="registry_studiesparquet-54410-rows">registry_studies.parquet (54,410 rows)</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>ENA/INSDC BioProject accession (PRJ…); primary key</td>
+</tr>
+<tr>
+<td><code>secondary_study_accession</code></td>
+<td>string</td>
+<td>ENA secondary study accession (ERP/SRP/DRP)</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>string</td>
+<td>ENA study title</td>
+</tr>
+<tr>
+<td><code>description_short</code></td>
+<td>string</td>
+<td>ENA study description truncated to 300 characters</td>
+</tr>
+<tr>
+<td><code>center_name</code></td>
+<td>string</td>
+<td>Submitting centre</td>
+</tr>
+<tr>
+<td><code>first_public_min</code></td>
+<td>string</td>
+<td>Earliest run first_public date (ISO)</td>
+</tr>
+<tr>
+<td><code>first_public_max</code></td>
+<td>string</td>
+<td>Latest run first_public date (ISO)</td>
+</tr>
+<tr>
+<td><code>n_runs</code></td>
+<td>int64</td>
+<td>Runs in the registry universe for this study</td>
+</tr>
+<tr>
+<td><code>n_samples</code></td>
+<td>int64</td>
+<td>Distinct sample_accession values</td>
+</tr>
+<tr>
+<td><code>n_biosamples</code></td>
+<td>int64</td>
+<td>Distinct BioSample accessions</td>
+</tr>
+<tr>
+<td><code>library_strategies</code></td>
+<td>string</td>
+<td>JSON dict strategy → run count</td>
+</tr>
+<tr>
+<td><code>library_sources</code></td>
+<td>string</td>
+<td>';'-joined distinct library_source values</td>
+</tr>
+<tr>
+<td><code>instrument_platforms</code></td>
+<td>string</td>
+<td>';'-joined distinct instrument_platform values</td>
+</tr>
+<tr>
+<td><code>scientific_names_top</code></td>
+<td>string</td>
+<td>';'-joined top-5 scientific_name values with run counts, e.g. 'human gut metagenome (120)'</td>
+</tr>
+<tr>
+<td><code>host_tax_ids</code></td>
+<td>string</td>
+<td>';'-joined distinct host_tax_id values</td>
+</tr>
+<tr>
+<td><code>n_runs_host_9606</code></td>
+<td>int64</td>
+<td>Runs with host_tax_id 9606</td>
+</tr>
+<tr>
+<td><code>n_runs_nonhuman_host</code></td>
+<td>int64</td>
+<td>Runs with a non-9606 host_tax_id</td>
+</tr>
+<tr>
+<td><code>human_signal</code></td>
+<td>bool</td>
+<td>Frame-free sweep human-signal rule outcome (pre-filter)</td>
+</tr>
+<tr>
+<td><code>human_signal_rule</code></td>
+<td>string</td>
+<td>A</td>
+</tr>
+<tr>
+<td><code>ambiguous</code></td>
+<td>bool</td>
+<td>Human-signal rule tie flag</td>
+</tr>
+<tr>
+<td><code>host_human</code></td>
+<td>string</td>
+<td>Classified host</td>
+</tr>
+<tr>
+<td><code>host_evidence</code></td>
+<td>string</td>
+<td>JSON list of {source, quote} (quote ≤ 12 words; source from the curation-skill label list)</td>
+</tr>
+<tr>
+<td><code>assay</code></td>
+<td>string</td>
+<td>Assay class (config/vocab/assay.yaml)</td>
+</tr>
+<tr>
+<td><code>access</code></td>
+<td>string</td>
+<td>Access tier</td>
+</tr>
+<tr>
+<td><code>body_sites</code></td>
+<td>string</td>
+<td>';'-joined body-site codes (config/vocab/body_sites.yaml)</td>
+</tr>
+<tr>
+<td><code>body_site_primary</code></td>
+<td>string</td>
+<td>Primary body-site code (multi_site when ≥ 3 strong sites)</td>
+</tr>
+<tr>
+<td><code>body_site_evidence</code></td>
+<td>string</td>
+<td>JSON evidence list</td>
+</tr>
+<tr>
+<td><code>life_stages</code></td>
+<td>string</td>
+<td>';'-joined life-stage codes (config/vocab/life_stages.yaml)</td>
+</tr>
+<tr>
+<td><code>life_stage_primary</code></td>
+<td>string</td>
+<td>Primary life-stage code (mixed_ages when ≥ 3 strong stages)</td>
+</tr>
+<tr>
+<td><code>life_stage_evidence</code></td>
+<td>string</td>
+<td>JSON evidence list</td>
+</tr>
+<tr>
+<td><code>population_flags</code></td>
+<td>string</td>
+<td>';'-joined flags (config/vocab/population_flags.yaml)</td>
+</tr>
+<tr>
+<td><code>health_context</code></td>
+<td>string</td>
+<td>≤ 120 chars free text or null</td>
+</tr>
+<tr>
+<td><code>classification_stage</code></td>
+<td>string</td>
+<td>Cascade stage that produced the classification</td>
+</tr>
+<tr>
+<td><code>classification_confidence</code></td>
+<td>float64</td>
+<td>0–1; minimum over components</td>
+</tr>
+<tr>
+<td><code>classification_model</code></td>
+<td>string</td>
+<td>'deterministic' or the resolved model id of the deciding stage</td>
+</tr>
+<tr>
+<td><code>in_infant_catalog</code></td>
+<td>string</td>
+<td>Infant-catalog verdict</td>
+</tr>
+<tr>
+<td><code>infant_reason_code</code></td>
+<td>string</td>
+<td>Infant triage reason_code (curation-skill vocabulary) or null</td>
+</tr>
+<tr>
+<td><code>scope_memberships</code></td>
+<td>string</td>
+<td>';'-joined scope ids from config/scope.yaml</td>
+</tr>
+<tr>
+<td><code>universe_slice</code></td>
+<td>string</td>
+<td>Enumeration slice that found the study</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Bitemporal: release id in which the row first appeared</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Bitemporal: release id in which the row was retired; null = current</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Bitemporal: package semver of first appearance</td>
+</tr>
+</tbody>
+</table>
+<h3 id="registry_universe_auditcsv">registry_universe_audit.csv</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>slice</code></td>
+<td>string</td>
+<td>Slice tag / ENA query label</td>
+</tr>
+<tr>
+<td><code>ena_query</code></td>
+<td>string</td>
+<td>ENA portal query string</td>
+</tr>
+<tr>
+<td><code>ena_count</code></td>
+<td>int64</td>
+<td>Count returned by the ENA count endpoint</td>
+</tr>
+<tr>
+<td><code>rows_pulled</code></td>
+<td>int64</td>
+<td>read_run rows actually streamed</td>
+</tr>
+<tr>
+<td><code>n_studies</code></td>
+<td>int64</td>
+<td>Distinct studies in the slice</td>
+</tr>
+<tr>
+<td><code>completeness</code></td>
+<td>float64</td>
+<td>rows_pulled / ena_count</td>
+</tr>
+<tr>
+<td><code>pulled_at</code></td>
+<td>string</td>
+<td>ISO timestamp of the pull</td>
+</tr>
+</tbody>
+</table>
+<h3 id="registry_biosamplesparquet-611601-rows-one-row-per-harvested-biosample-of-a-registry-study-s2-human_all-studies-outside-the-curated-infant-catalog-added-r20265">registry_biosamples.parquet (611,601 rows) — one row per harvested BioSample of a registry study (S2: human_all studies outside the curated infant catalog) — added R2026.5</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_accession</code></td>
+<td>string</td>
+<td>BioSample accession (SAMN/SAME/SAMD) as listed in registry_biosample_index; primary key</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>ENA study (BioProject) the sample belongs to</td>
+</tr>
+<tr>
+<td><code>n_attributes</code></td>
+<td>int64</td>
+<td>Non-placeholder attribute rows harvested for the sample</td>
+</tr>
+<tr>
+<td><code>source</code></td>
+<td>string</td>
+<td>ena_xml</td>
+</tr>
+<tr>
+<td><code>body_site_code</code></td>
+<td>string</td>
+<td>config/vocab/body_sites.yaml code from the normalised body-site attribute; unknown_site when an attribute existed but mapped to no site; null when no body-site attribute</td>
+</tr>
+<tr>
+<td><code>body_site_raw_key</code></td>
+<td>string</td>
+<td>Normalised attribute key the code came from (e.g. host_body_site, isolation_source)</td>
+</tr>
+<tr>
+<td><code>body_site_raw_value</code></td>
+<td>string</td>
+<td>Raw attribute value the code came from</td>
+</tr>
+<tr>
+<td><code>life_stage</code></td>
+<td>string</td>
+<td>config/vocab/life_stages.yaml code from the age attribute (or from age_days); unknown_age when an age attribute existed but was not interpretable; null when none</td>
+</tr>
+<tr>
+<td><code>age_days</code></td>
+<td>float64</td>
+<td>Age at collection in days when a numeric age with unit was given</td>
+</tr>
+<tr>
+<td><code>age_raw_key</code></td>
+<td>string</td>
+<td>Attribute key the age came from</td>
+</tr>
+<tr>
+<td><code>age_raw_value</code></td>
+<td>string</td>
+<td>Raw age value</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>string</td>
+<td>female</td>
+</tr>
+<tr>
+<td><code>sex_raw_key</code></td>
+<td>string</td>
+<td>Attribute key the sex came from</td>
+</tr>
+<tr>
+<td><code>sex_raw_value</code></td>
+<td>string</td>
+<td>Raw sex/gender value</td>
+</tr>
+<tr>
+<td><code>country_iso2</code></td>
+<td>string</td>
+<td>ISO-3166-1 alpha-2 from geo_loc_name / country attributes</td>
+</tr>
+<tr>
+<td><code>country_raw_key</code></td>
+<td>string</td>
+<td>Attribute key the country came from</td>
+</tr>
+<tr>
+<td><code>country_raw_value</code></td>
+<td>string</td>
+<td>Raw geographic value</td>
+</tr>
+<tr>
+<td><code>collection_date_raw</code></td>
+<td>string</td>
+<td>Raw collection date attribute</td>
+</tr>
+<tr>
+<td><code>collection_year</code></td>
+<td>Int64</td>
+<td>Year extracted from collection_date_raw</td>
+</tr>
+<tr>
+<td><code>disease_raw</code></td>
+<td>string</td>
+<td>First non-placeholder disease/health/phenotype attribute value (≤200 chars; NOT normalised — no controlled vocabulary yet)</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id in which the row first appeared</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id in which the row was retired (null = current)</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version that first carried the row</td>
+</tr>
+</tbody>
+</table>
+<h3 id="registry_study_papersparquet-6398-rows-one-row-per-study-linked-paper-accession-mention-in-europe-pmc-andor-publication-declared-in-the-ncbi-bioproject-record-4217-human_all-studies-outside-the-curated-infant-catalog-added-r20265">registry_study_papers.parquet (6,398 rows) — one row per study × linked paper (accession mention in Europe PMC and/or publication declared in the NCBI BioProject record); 4,217 human_all studies outside the curated infant catalog — added R2026.5</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>ENA study (BioProject) accession</td>
+</tr>
+<tr>
+<td><code>paper_id</code></td>
+<td>str</td>
+<td>Europe PMC id (MED:<pmid></td>
+</tr>
+<tr>
+<td><code>pmid</code></td>
+<td>str</td>
+<td>PubMed id of the linked paper</td>
+</tr>
+<tr>
+<td><code>pmcid</code></td>
+<td>str</td>
+<td>PubMed Central id</td>
+</tr>
+<tr>
+<td><code>doi</code></td>
+<td>str</td>
+<td>DOI</td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td>str</td>
+<td>Paper title</td>
+</tr>
+<tr>
+<td><code>journal</code></td>
+<td>str</td>
+<td>Journal</td>
+</tr>
+<tr>
+<td><code>year</code></td>
+<td>Int64</td>
+<td>Publication year</td>
+</tr>
+<tr>
+<td><code>pub_type</code></td>
+<td>str</td>
+<td>Europe PMC publication types</td>
+</tr>
+<tr>
+<td><code>is_open_access</code></td>
+<td>boolean</td>
+<td>Europe PMC open-access flag</td>
+</tr>
+<tr>
+<td><code>in_epmc_fulltext</code></td>
+<td>object</td>
+<td>Full text available in Europe PMC</td>
+</tr>
+<tr>
+<td><code>source</code></td>
+<td>str</td>
+<td>europepmc_mention</td>
+</tr>
+<tr>
+<td><code>match_field</code></td>
+<td>str</td>
+<td>abstract_or_title</td>
+</tr>
+<tr>
+<td><code>match_accession</code></td>
+<td>str</td>
+<td>Accession matched (primary PRJ… or secondary ERP/SRP/DRP)</td>
+</tr>
+<tr>
+<td><code>bioproject_declared</code></td>
+<td>bool</td>
+<td>Paper is listed as a publication in the NCBI BioProject record</td>
+</tr>
+<tr>
+<td><code>n_registry_studies</code></td>
+<td>int64</td>
+<td>How many processed registry studies this paper mentions</td>
+</tr>
+<tr>
+<td><code>relation</code></td>
+<td>str</td>
+<td>data_paper</td>
+</tr>
+<tr>
+<td><code>method</code></td>
+<td>str</td>
+<td>Rule that produced the relation (det_bioproject_declared 0.9, det_single_mention_abstract 0.75, det_single_mention_fulltext 0.6)</td>
+</tr>
+<tr>
+<td><code>confidence</code></td>
+<td>float64</td>
+<td>Rule confidence (null for unsure)</td>
+</tr>
+<tr>
+<td><code>contested</code></td>
+<td>bool</td>
+<td>True when the paper mentions ≥ 2 processed studies</td>
+</tr>
+<tr>
+<td><code>contest_reason</code></td>
+<td>str</td>
+<td>multi_study</td>
+</tr>
+<tr>
+<td><code>epmc_rank</code></td>
+<td>float64</td>
+<td>Rank of the paper in the Europe PMC hit list for the study</td>
+</tr>
+<tr>
+<td><code>epmc_hit_count</code></td>
+<td>float64</td>
+<td>Europe PMC hitCount for the study query</td>
+</tr>
+<tr>
+<td><code>epmc_hits_capped</code></td>
+<td>object</td>
+<td>Hit list truncated at 300 (never true in R2026.5)</td>
+</tr>
+<tr>
+<td><code>body_site_primary</code></td>
+<td>str</td>
+<td>registry_studies.body_site_primary at harvest time (convenience)</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id in which the row first appeared</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id in which the row was retired (null = current)</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version that first carried the row</td>
+</tr>
+</tbody>
+</table>
+<h3 id="registry_bioproject_recordsparquet-4217-rows-one-row-per-processed-registry-study-ncbi-bioproject-xml-added-r20265">registry_bioproject_records.parquet (4,217 rows) — one row per processed registry study (NCBI BioProject XML) — added R2026.5</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>ENA study (BioProject) accession</td>
+</tr>
+<tr>
+<td><code>secondary_study_accession</code></td>
+<td>str</td>
+<td>ENA secondary study accession</td>
+</tr>
+<tr>
+<td><code>found_in_ncbi</code></td>
+<td>bool</td>
+<td>BioProject record found via esearch</td>
+</tr>
+<tr>
+<td><code>bioproject_uid</code></td>
+<td>str</td>
+<td>NCBI BioProject UID</td>
+</tr>
+<tr>
+<td><code>archive</code></td>
+<td>str</td>
+<td>NCBI</td>
+</tr>
+<tr>
+<td><code>center_id</code></td>
+<td>str</td>
+<td>Submitting center id</td>
+</tr>
+<tr>
+<td><code>center_id_center</code></td>
+<td>str</td>
+<td>Center attribute of center_id</td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td>str</td>
+<td>Paper title</td>
+</tr>
+<tr>
+<td><code>name</code></td>
+<td>str</td>
+<td>BioProject name</td>
+</tr>
+<tr>
+<td><code>organisation</code></td>
+<td>str</td>
+<td>Submitting organisation (first)</td>
+</tr>
+<tr>
+<td><code>submitter_owner</code></td>
+<td>str</td>
+<td>Submitter/owner organisation</td>
+</tr>
+<tr>
+<td><code>organizations_json</code></td>
+<td>str</td>
+<td>JSON list of organisations (name, abbr, role)</td>
+</tr>
+<tr>
+<td><code>n_publications</code></td>
+<td>float64</td>
+<td>Publications declared in the record</td>
+</tr>
+<tr>
+<td><code>publication_pmids</code></td>
+<td>str</td>
+<td>; -joined PMIDs declared</td>
+</tr>
+<tr>
+<td><code>publication_dois</code></td>
+<td>str</td>
+<td>; -joined DOIs declared</td>
+</tr>
+<tr>
+<td><code>publications_json</code></td>
+<td>str</td>
+<td>JSON list of declared publications</td>
+</tr>
+<tr>
+<td><code>grants_json</code></td>
+<td>str</td>
+<td>JSON list of grants</td>
+</tr>
+<tr>
+<td><code>external_links_json</code></td>
+<td>str</td>
+<td>JSON list of external links</td>
+</tr>
+<tr>
+<td><code>registration_date</code></td>
+<td>str</td>
+<td>ProjectReleaseDate when present (239 studies)</td>
+</tr>
+<tr>
+<td><code>submitted</code></td>
+<td>str</td>
+<td>Submission date</td>
+</tr>
+<tr>
+<td><code>last_update</code></td>
+<td>str</td>
+<td>Last update date</td>
+</tr>
+<tr>
+<td><code>submission_access</code></td>
+<td>str</td>
+<td>public</td>
+</tr>
+<tr>
+<td><code>data_types</code></td>
+<td>str</td>
+<td>Declared data types</td>
+</tr>
+<tr>
+<td><code>target_material</code></td>
+<td>str</td>
+<td>BioProject target material (eGenome, …)</td>
+</tr>
+<tr>
+<td><code>target_capture</code></td>
+<td>str</td>
+<td>Target capture (eWhole, …)</td>
+</tr>
+<tr>
+<td><code>target_sample_scope</code></td>
+<td>str</td>
+<td>Sample scope (eMultiisolate, eEnvironment, …)</td>
+</tr>
+<tr>
+<td><code>method_type</code></td>
+<td>str</td>
+<td>Method type (eSequencing, …)</td>
+</tr>
+<tr>
+<td><code>relevance_medical</code></td>
+<td>str</td>
+<td>Medical relevance flag</td>
+</tr>
+<tr>
+<td><code>body_site_primary</code></td>
+<td>str</td>
+<td>registry_studies.body_site_primary at harvest time (convenience)</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id in which the row first appeared</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id in which the row was retired (null = current)</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version that first carried the row</td>
+</tr>
+</tbody>
+</table>
+<h3 id="registry_authorsparquet-52110-rows-one-row-per-study-paper-author-europe-pmc-core-records-of-5-linked-papers-per-study-added-r20265">registry_authors.parquet (52,110 rows) — one row per study × paper × author (Europe PMC core records of ≤ 5 linked papers per study) — added R2026.5</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>ENA study (BioProject) accession</td>
+</tr>
+<tr>
+<td><code>author_full_name</code></td>
+<td>str</td>
+<td>Author full name (Europe PMC)</td>
+</tr>
+<tr>
+<td><code>author_display</code></td>
+<td>str</td>
+<td>Surname + initials</td>
+</tr>
+<tr>
+<td><code>author_surname</code></td>
+<td>str</td>
+<td>Surname</td>
+</tr>
+<tr>
+<td><code>author_initials</code></td>
+<td>str</td>
+<td>Initials</td>
+</tr>
+<tr>
+<td><code>is_group</code></td>
+<td>bool</td>
+<td>Collective/group author</td>
+</tr>
+<tr>
+<td><code>source</code></td>
+<td>str</td>
+<td>europepmc_mention</td>
+</tr>
+<tr>
+<td><code>pmid</code></td>
+<td>str</td>
+<td>PubMed id of the linked paper</td>
+</tr>
+<tr>
+<td><code>pmcid</code></td>
+<td>str</td>
+<td>PubMed Central id</td>
+</tr>
+<tr>
+<td><code>doi</code></td>
+<td>str</td>
+<td>DOI</td>
+</tr>
+<tr>
+<td><code>paper_title</code></td>
+<td>str</td>
+<td>Paper title</td>
+</tr>
+<tr>
+<td><code>pub_year</code></td>
+<td>Int64</td>
+<td>Publication year</td>
+</tr>
+<tr>
+<td><code>position</code></td>
+<td>int64</td>
+<td>Author position (1 = first); part of the key</td>
+</tr>
+<tr>
+<td><code>n_authors</code></td>
+<td>int64</td>
+<td>Authors on the paper</td>
+</tr>
+<tr>
+<td><code>is_first</code></td>
+<td>bool</td>
+<td>First author</td>
+</tr>
+<tr>
+<td><code>is_last</code></td>
+<td>bool</td>
+<td>Last author</td>
+</tr>
+<tr>
+<td><code>affiliation</code></td>
+<td>str</td>
+<td>Affiliation string (e-mail addresses removed, rule F7)</td>
+</tr>
+<tr>
+<td><code>orcid</code></td>
+<td>str</td>
+<td>ORCID iD when present</td>
+</tr>
+<tr>
+<td><code>paper_relation</code></td>
+<td>str</td>
+<td>relation of the study×paper link (registry_study_papers)</td>
+</tr>
+<tr>
+<td><code>link_method</code></td>
+<td>str</td>
+<td>method of the link</td>
+</tr>
+<tr>
+<td><code>author_source</code></td>
+<td>str</td>
+<td>europepmc_core</td>
+</tr>
+<tr>
+<td><code>author_key</code></td>
+<td>str</td>
+<td>lower-case surname + initials key for de-duplication</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id in which the row first appeared</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id in which the row was retired (null = current)</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version that first carried the row</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sample_determinationsparquet-1659128-rows-one-row-per-sample-field-of-the-gut_all-curated-scope-current-value-precedence-infant-catalog-r1-r2-r3-r4-added-r20267">gut_sample_determinations.parquet (1,659,128 rows) — one row per sample × field of the gut_all curated scope (current value; precedence infant catalog &gt; R1 &gt; R2 &gt; R3 &gt; R4) — added R2026.7</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code></td>
+<td>string</td>
+<td>BioSample accession (or run accession for run-unit samples); with field_name the key</td>
+</tr>
+<tr>
+<td><code>field_name</code></td>
+<td>string</td>
+<td>Field of config/packs/gut.yaml</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>ENA study</td>
+</tr>
+<tr>
+<td><code>field_value</code></td>
+<td>string</td>
+<td>Raw value as found in the source</td>
+</tr>
+<tr>
+<td><code>value_normalized</code></td>
+<td>string</td>
+<td>Normalised value (days for age, vocabulary codes, ISO-2 country, yes/no)</td>
+</tr>
+<tr>
+<td><code>confidence</code></td>
+<td>float64</td>
+<td>Route/parser confidence tier (R1 0.85–0.9, R2 0.8–0.85, R3 ≤ 0.7, R4 ≤ 0.5)</td>
+</tr>
+<tr>
+<td><code>evidence_source</code></td>
+<td>string</td>
+<td>Labelled source: sample.attr.<key></td>
+</tr>
+<tr>
+<td><code>evidence_locator</code></td>
+<td>string</td>
+<td>biosample_attr</td>
+</tr>
+<tr>
+<td><code>evidence_quote</code></td>
+<td>string</td>
+<td>Verbatim quote ≤ 12 words</td>
+</tr>
+<tr>
+<td><code>evidence_limited_to_abstract</code></td>
+<td>float64</td>
+<td>1 when the evidence is abstract/description only (R4)</td>
+</tr>
+<tr>
+<td><code>determined_by</code></td>
+<td>string</td>
+<td>Parser / stage id</td>
+</tr>
+<tr>
+<td><code>route</code></td>
+<td>string</td>
+<td>R1</td>
+</tr>
+<tr>
+<td><code>scope</code></td>
+<td>string</td>
+<td>sample (rows expanded from study_all statements carry 'expanded from study_all' in parse_note)</td>
+</tr>
+<tr>
+<td><code>parse_note</code></td>
+<td>string</td>
+<td>Parser notes</td>
+</tr>
+<tr>
+<td><code>group_audit</code></td>
+<td>string</td>
+<td>Audit note for group statements (infant rows)</td>
+</tr>
+<tr>
+<td><code>src_track</code></td>
+<td>string</td>
+<td>infant_catalog (copied from the curated infant tables)</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id in which the row first appeared</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id in which the row was retired (null = current)</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version that first carried the row</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sample_metadata_wideparquet-579252-rows-one-row-per-sample-of-the-gut_all-curated-scope-one-column-per-field-with-its-route-and-confidence-added-r20267">gut_sample_metadata_wide.parquet (579,252 rows) — one row per sample of the gut_all curated scope (one column per field with its route and confidence) — added R2026.7</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code></td>
+<td>string</td>
+<td>BioSample accession; primary key</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>ENA study</td>
+</tr>
+<tr>
+<td><code>biosample_accession</code></td>
+<td>string</td>
+<td>BioSample accession</td>
+</tr>
+<tr>
+<td><code>secondary_sample</code></td>
+<td>string</td>
+<td>ERS/SRS/DRS accession (infant rows)</td>
+</tr>
+<tr>
+<td><code>sample_unit</code></td>
+<td>string</td>
+<td>biosample</td>
+</tr>
+<tr>
+<td><code>body_site_code</code></td>
+<td>string</td>
+<td>Registry body-site code of the sample (from its attributes) or the infant catalog's class</td>
+</tr>
+<tr>
+<td><code>sample_life_stage</code></td>
+<td>string</td>
+<td>Registry life stage from the sample's age attribute</td>
+</tr>
+<tr>
+<td><code>curated_source</code></td>
+<td>string</td>
+<td>infant_catalog</td>
+</tr>
+<tr>
+<td><code>in_infant_catalog</code></td>
+<td>bool</td>
+<td>Study is an included infant-catalog study</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>float64</td>
+<td>Age at collection in days</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>string</td>
+<td>female</td>
+</tr>
+<tr>
+<td><code>bmi</code></td>
+<td>float64</td>
+<td>Body-mass index kg/m²</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>string</td>
+<td>ISO-3166-1 alpha-2</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>string</td>
+<td>config/vocab/health_conditions.yaml code</td>
+</tr>
+<tr>
+<td><code>health_condition_detail</code></td>
+<td>string</td>
+<td>Raw health / disease text</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>string</td>
+<td>yes</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>string</td>
+<td>Subject / participant identifier as given by the source</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>string</td>
+<td>Timepoint / visit label as given</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed age_at_collection_days value</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__route</code></td>
+<td>string</td>
+<td>Route of the committed age_at_collection_days value</td>
+</tr>
+<tr>
+<td><code>sex__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed sex value</td>
+</tr>
+<tr>
+<td><code>sex__route</code></td>
+<td>string</td>
+<td>Route of the committed sex value</td>
+</tr>
+<tr>
+<td><code>bmi__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed bmi value</td>
+</tr>
+<tr>
+<td><code>bmi__route</code></td>
+<td>string</td>
+<td>Route of the committed bmi value</td>
+</tr>
+<tr>
+<td><code>country__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed country value</td>
+</tr>
+<tr>
+<td><code>country__route</code></td>
+<td>string</td>
+<td>Route of the committed country value</td>
+</tr>
+<tr>
+<td><code>health_condition__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed health_condition value</td>
+</tr>
+<tr>
+<td><code>health_condition__route</code></td>
+<td>string</td>
+<td>Route of the committed health_condition value</td>
+</tr>
+<tr>
+<td><code>health_condition_detail__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed health_condition_detail value</td>
+</tr>
+<tr>
+<td><code>health_condition_detail__route</code></td>
+<td>string</td>
+<td>Route of the committed health_condition_detail value</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed antibiotic_exposure value</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__route</code></td>
+<td>string</td>
+<td>Route of the committed antibiotic_exposure value</td>
+</tr>
+<tr>
+<td><code>subject_id__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed subject_id value</td>
+</tr>
+<tr>
+<td><code>subject_id__route</code></td>
+<td>string</td>
+<td>Route of the committed subject_id value</td>
+</tr>
+<tr>
+<td><code>timepoint_label__confidence</code></td>
+<td>float64</td>
+<td>Confidence of the committed timepoint_label value</td>
+</tr>
+<tr>
+<td><code>timepoint_label__route</code></td>
+<td>string</td>
+<td>Route of the committed timepoint_label value</td>
+</tr>
+<tr>
+<td><code>delivery_mode</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>feeding_mode</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>preterm_status</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>nec_status</code></td>
+<td>string</td>
+<td>Infant-catalog field (only on infant rows)</td>
+</tr>
+<tr>
+<td><code>age_category</code></td>
+<td>string</td>
+<td>neonate</td>
+</tr>
+<tr>
+<td><code>age_category_basis</code></td>
+<td>string</td>
+<td>age_at_collection_days</td>
+</tr>
+<tr>
+<td><code>body_site_class</code></td>
+<td>string</td>
+<td>primary (gut/stool)</td>
+</tr>
+<tr>
+<td><code>body_site_basis</code></td>
+<td>string</td>
+<td>sample_attribute</td>
+</tr>
+<tr>
+<td><code>infant_scope</code></td>
+<td>bool</td>
+<td>== the infant catalog's catalog_scope rule (reproduces the infant catalog exactly)</td>
+</tr>
+<tr>
+<td><code>n_fields_with_value</code></td>
+<td>int64</td>
+<td>Pack fields with a committed value</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id when retired (null = current)</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_studiesparquet-2837-rows-one-row-per-study-of-the-gut_all-curated-scope-registry-columns-plus-curation-coverage-added-r20267">gut_studies.parquet (2,837 rows) — one row per study of the gut_all curated scope — registry columns plus curation coverage — added R2026.7</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>ENA study; primary key</td>
+</tr>
+<tr>
+<td><code>secondary_study_accession</code></td>
+<td>string</td>
+<td>registry_studies column (see registry_studies.parquet)</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>string</td>
+<td>registry_studies column (see registry_studies.parquet)</td>
+</tr>
+<tr>
+<td><code>description_short</code></td>
+<td>string</td>
+<td>registry_studies column (see registry_studies.parquet)</td>
+</tr>
+<tr>
+<td><code>center_name</code></td>
+<td>string</td>
+<td>registry_studies column (see registry_studies.parquet)</td>
+</tr>
+<tr>
+<td><code>first_public_min</code></td>
+<td>string</td>
+<td>registry_studies column (see registry_studies.parquet)</td>
+</tr>
+<tr>
+<td><code>first_public_max</code></td>
+<td>string</td>
+<td>registry_studies column (see registry_studies.parquet)</td>
+</tr>
+<tr>
+<td><code>n_runs</code></td>
+<td>int64</td>
+<td>Runs</td>
+</tr>
+<tr>
+<td><code>n_samples</code></td>
+<td>int64</td>
+<td>Samples</td>
+</tr>
+<tr>
+<td><code>n_biosamples</code></td>
+<td>int64</td>
+<td>BioSamples</td>
+</tr>
+<tr>
+<td><code>n_runs_sandpiper</code></td>
+<td>int64</td>
+<td>Runs with Sandpiper profiles</td>
+</tr>
+<tr>
+<td><code>…registry_studies columns…</code></td>
+<td></td>
+<td>all registry_studies columns are carried (classification, evidence, scope memberships, sample roll-ups)</td>
+</tr>
+<tr>
+<td><code>cov_&lt;field&gt;</code></td>
+<td>float64</td>
+<td>Share of the study's samples with a value for each pack field</td>
+</tr>
+<tr>
+<td><code>n_samples_curated</code></td>
+<td>int64</td>
+<td>Samples in gut_sample_metadata_wide</td>
+</tr>
+<tr>
+<td><code>age_categories</code></td>
+<td>string</td>
+<td>JSON dict age_category → samples</td>
+</tr>
+<tr>
+<td><code>health_conditions</code></td>
+<td>string</td>
+<td>JSON dict health_condition → samples (top 6)</td>
+</tr>
+<tr>
+<td><code>curated_depth</code></td>
+<td>string</td>
+<td>Routes present among the study's committed values (e.g. R1;R2;R4)</td>
+</tr>
+<tr>
+<td><code>curated_source</code></td>
+<td>string</td>
+<td>infant_catalog</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>Release id</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>Release id when retired</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>Package version</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_runsparquet-721678-rows-one-row-per-sequencing-run-of-a-gut_all-catalog-study-registry_runs-gut_studies-with-the-catalog-sample_key-added-r202612-1120-added-r202612">gut_runs.parquet (721,678 rows) — one row per sequencing run of a gut_all catalog study (registry_runs ∩ gut_studies) with the catalog sample_key — added R2026.12 / 1.12.0 — added R2026.12</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>run_accession</code></td>
+<td>string</td>
+<td>ENA/SRA run accession (SRR/ERR/DRR)</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>string</td>
+<td>BioProject of the run (a gut_studies row)</td>
+</tr>
+<tr>
+<td><code>sample_accession</code></td>
+<td>string</td>
+<td>BioSample accession(s) of the run (';'-joined when the run pools several)</td>
+</tr>
+<tr>
+<td><code>secondary_sample_accession</code></td>
+<td>string</td>
+<td>SRS/ERS secondary sample accession(s)</td>
+</tr>
+<tr>
+<td><code>experiment_accession</code></td>
+<td>string</td>
+<td>SRX/ERX experiment accession</td>
+</tr>
+<tr>
+<td><code>library_name</code></td>
+<td>string</td>
+<td>Submitter library name</td>
+</tr>
+<tr>
+<td><code>library_strategy</code></td>
+<td>string</td>
+<td>ENA library_strategy (WGS / WXS / OTHER …)</td>
+</tr>
+<tr>
+<td><code>library_source</code></td>
+<td>string</td>
+<td>ENA library_source (METAGENOMIC …)</td>
+</tr>
+<tr>
+<td><code>library_layout</code></td>
+<td>string</td>
+<td>SINGLE</td>
+</tr>
+<tr>
+<td><code>instrument_platform</code></td>
+<td>string</td>
+<td>ENA instrument_platform</td>
+</tr>
+<tr>
+<td><code>instrument_model</code></td>
+<td>string</td>
+<td>ENA instrument_model</td>
+</tr>
+<tr>
+<td><code>read_count</code></td>
+<td>string</td>
+<td>ENA read_count (as delivered by the portal)</td>
+</tr>
+<tr>
+<td><code>base_count</code></td>
+<td>string</td>
+<td>ENA base_count (as delivered by the portal)</td>
+</tr>
+<tr>
+<td><code>first_public</code></td>
+<td>string</td>
+<td>ENA first_public date (YYYY-MM-DD); its year bounds collection_date (R1 parser)</td>
+</tr>
+<tr>
+<td><code>sandpiper_profiled</code></td>
+<td>bool</td>
+<td>Run present in the Sandpiper snapshot (registry_runs_sandpiper)</td>
+</tr>
+<tr>
+<td><code>sample_key</code></td>
+<td>string</td>
+<td>gut_sample_metadata_wide.sample_key of the run's sample (run accession for run-unit samples; null when the BioSample is not a catalog sample, e.g. pooled runs)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sandpiper_sample_summaryparquet-339626-rows-one-row-per-catalog-sample-with-1-run-in-the-sandpiper-200-snapshot-339626-samples-2084-studies-added-r202612-added-r202612">gut_sandpiper_sample_summary.parquet (339,626 rows) — one row per catalog sample with &gt;= 1 run in the Sandpiper 2.0.0 snapshot (339,626 samples / 2,084 studies) — added R2026.12 — added R2026.12</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code></td>
+<td>str</td>
+<td>catalog sample key (gut_sample_metadata_wide)</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>BioProject</td>
+</tr>
+<tr>
+<td><code>n_runs_profiled</code></td>
+<td>int64</td>
+<td>runs of the sample with a Sandpiper profile</td>
+</tr>
+<tr>
+<td><code>n_runs_total</code></td>
+<td>int64</td>
+<td>runs of the sample in gut_runs</td>
+</tr>
+<tr>
+<td><code>qc_partial</code></td>
+<td>bool</td>
+<td>1 = some runs of the sample are unprofiled</td>
+</tr>
+<tr>
+<td><code>root_coverage_sum</code></td>
+<td>float64</td>
+<td>summed SingleM root coverage over the profiled runs (depth proxy)</td>
+</tr>
+<tr>
+<td><code>richness_genus</code></td>
+<td>int64</td>
+<td>genera with relative abundance &gt;= 0.001</td>
+</tr>
+<tr>
+<td><code>shannon_genus</code></td>
+<td>float64</td>
+<td>Shannon index over genus relative abundances (natural log)</td>
+</tr>
+<tr>
+<td><code>shannon_genus_assigned</code></td>
+<td>float64</td>
+<td>Shannon over genus-assigned coverage only (unassigned remainder excluded)</td>
+</tr>
+<tr>
+<td><code>top_genus</code></td>
+<td>str</td>
+<td>most abundant GTDB genus</td>
+</tr>
+<tr>
+<td><code>top_genus_relabund</code></td>
+<td>float64</td>
+<td>its relative abundance (0-1)</td>
+</tr>
+<tr>
+<td><code>unassigned_genus_relabund</code></td>
+<td>float64</td>
+<td>share of root coverage not resolved to a genus</td>
+</tr>
+<tr>
+<td><code>unassigned_species_relabund</code></td>
+<td>float64</td>
+<td>share of root coverage not resolved to a species</td>
+</tr>
+<tr>
+<td><code>spf</code></td>
+<td>float64</td>
+<td>Sandpiper single-copy-marker profile fraction (per_acc_summary)</td>
+</tr>
+<tr>
+<td><code>known_species_fraction</code></td>
+<td>float64</td>
+<td>fraction of coverage in known species (per_acc_summary)</td>
+</tr>
+<tr>
+<td><code>qc_flags</code></td>
+<td>str</td>
+<td>';'-joined QC flags (qc_low_depth, qc_low_complexity, qc_non_metagenome, qc_partial, ...) — flagged, never dropped</td>
+</tr>
+<tr>
+<td><code>qc_any_flag</code></td>
+<td>bool</td>
+<td>1 = at least one QC flag set</td>
+</tr>
+<tr>
+<td><code>qc_low_depth</code></td>
+<td>bool</td>
+<td>root coverage below the depth threshold</td>
+</tr>
+<tr>
+<td><code>qc_low_complexity</code></td>
+<td>bool</td>
+<td>Sandpiper low_complexity flag</td>
+</tr>
+<tr>
+<td><code>qc_readfraction_warning</code></td>
+<td>bool</td>
+<td>Sandpiper read-fraction warning</td>
+</tr>
+<tr>
+<td><code>qc_non_metagenome</code></td>
+<td>bool</td>
+<td>organism prediction not a metagenome (loose rule)</td>
+</tr>
+<tr>
+<td><code>qc_non_metagenome_strict</code></td>
+<td>bool</td>
+<td>organism prediction not a metagenome (strict rule)</td>
+</tr>
+<tr>
+<td><code>qc_synthetic</code></td>
+<td>bool</td>
+<td>Sandpiper synthetic-sample flag</td>
+</tr>
+<tr>
+<td><code>qc_rna</code></td>
+<td>bool</td>
+<td>RNA / non-DNA library flag</td>
+</tr>
+<tr>
+<td><code>qc_predicted_ecological</code></td>
+<td>bool</td>
+<td>Sandpiper host_or_not prediction = ecological</td>
+</tr>
+<tr>
+<td><code>qc_no_genus_assigned</code></td>
+<td>bool</td>
+<td>no coverage resolved to any genus</td>
+</tr>
+<tr>
+<td><code>organism_labels</code></td>
+<td>str</td>
+<td>';'-joined Sandpiper organism labels of the runs</td>
+</tr>
+<tr>
+<td><code>runs_profiled</code></td>
+<td>str</td>
+<td>';'-joined profiled run accessions</td>
+</tr>
+<tr>
+<td><code>sandpiper_url</code></td>
+<td>str</td>
+<td>Sandpiper page of the first profiled run</td>
+</tr>
+<tr>
+<td><code>age_category</code></td>
+<td>str</td>
+<td>catalog age category (copied from the wide table)</td>
+</tr>
+<tr>
+<td><code>body_site_class</code></td>
+<td>str</td>
+<td>catalog body-site class</td>
+</tr>
+<tr>
+<td><code>infant_scope</code></td>
+<td>bool</td>
+<td>infant-extension filter flag</td>
+</tr>
+<tr>
+<td><code>taxonomy_db</code></td>
+<td>str</td>
+<td>taxonomy database (GTDB)</td>
+</tr>
+<tr>
+<td><code>taxonomy_version</code></td>
+<td>str</td>
+<td>GTDB release (R232)</td>
+</tr>
+<tr>
+<td><code>sandpiper_version</code></td>
+<td>str</td>
+<td>Sandpiper version (2.0.0)</td>
+</tr>
+<tr>
+<td><code>zenodo_record</code></td>
+<td>str</td>
+<td>Zenodo record of the bulk snapshot (20419175)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sandpiper_pca_scoresparquet-335956-rows-one-row-per-scored-sample-of-the-genus-level-clr-pca-335956-samples-x-383-genera-root-coverage-2-added-r202612-added-r202612">gut_sandpiper_pca_scores.parquet (335,956 rows) — one row per scored sample of the genus-level CLR-PCA (335,956 samples x 383 genera; root coverage &gt;= 2) — added R2026.12 — added R2026.12</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code></td>
+<td>str</td>
+<td>catalog sample key</td>
+</tr>
+<tr>
+<td><code>pc1</code></td>
+<td>float32</td>
+<td>PCA score, component 1 (16.3 % variance)</td>
+</tr>
+<tr>
+<td><code>pc2</code></td>
+<td>float32</td>
+<td>component 2 (6.5 %)</td>
+</tr>
+<tr>
+<td><code>pc3</code></td>
+<td>float32</td>
+<td>component 3 (3.8 %)</td>
+</tr>
+<tr>
+<td><code>pc4</code></td>
+<td>float32</td>
+<td>component 4 (3.2 %)</td>
+</tr>
+<tr>
+<td><code>pc5</code></td>
+<td>float32</td>
+<td>component 5 (2.3 %)</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>BioProject</td>
+</tr>
+<tr>
+<td><code>root_coverage_sum</code></td>
+<td>float64</td>
+<td>summed root coverage (depth proxy)</td>
+</tr>
+<tr>
+<td><code>taxonomy_db</code></td>
+<td>str</td>
+<td>taxonomy database (GTDB)</td>
+</tr>
+<tr>
+<td><code>taxonomy_version</code></td>
+<td>str</td>
+<td>GTDB release (R232)</td>
+</tr>
+<tr>
+<td><code>sandpiper_version</code></td>
+<td>str</td>
+<td>Sandpiper version (2.0.0)</td>
+</tr>
+<tr>
+<td><code>zenodo_record</code></td>
+<td>str</td>
+<td>Zenodo record of the bulk snapshot (20419175)</td>
+</tr>
+<tr>
+<td><code>pca_method</code></td>
+<td>str</td>
+<td>CLR on 383 genera (prevalence &gt;= 1 %), multiplicative pseudocount, randomized SVD</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sandpiper_pca_loadingsparquet-383-rows-one-row-per-genus-x-component-loading-of-the-clr-pca-added-r202612-added-r202612">gut_sandpiper_pca_loadings.parquet (383 rows) — one row per genus x component loading of the CLR-PCA — added R2026.12 — added R2026.12</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>genus</code></td>
+<td>str</td>
+<td>GTDB R232 genus</td>
+</tr>
+<tr>
+<td><code>pc1</code></td>
+<td>float64</td>
+<td>loading</td>
+</tr>
+<tr>
+<td><code>pc2</code></td>
+<td>float64</td>
+<td>loading</td>
+</tr>
+<tr>
+<td><code>pc3</code></td>
+<td>float64</td>
+<td>loading</td>
+</tr>
+<tr>
+<td><code>pc4</code></td>
+<td>float64</td>
+<td>loading</td>
+</tr>
+<tr>
+<td><code>pc5</code></td>
+<td>float64</td>
+<td>loading</td>
+</tr>
+<tr>
+<td><code>prevalence_ge_0p1pct</code></td>
+<td>float64</td>
+<td>share of samples where the genus is &gt;= 0.1 % relative abundance</td>
+</tr>
+<tr>
+<td><code>mean_relabund</code></td>
+<td>float64</td>
+<td>mean relative abundance over scored samples</td>
+</tr>
+<tr>
+<td><code>clr_mean</code></td>
+<td>float64</td>
+<td>mean CLR value</td>
+</tr>
+<tr>
+<td><code>taxonomy_db</code></td>
+<td>str</td>
+<td>taxonomy database (GTDB)</td>
+</tr>
+<tr>
+<td><code>taxonomy_version</code></td>
+<td>str</td>
+<td>GTDB release (R232)</td>
+</tr>
+<tr>
+<td><code>sandpiper_version</code></td>
+<td>str</td>
+<td>Sandpiper version (2.0.0)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sandpiper_pca_variancecsv-5-rows-one-row-per-pca-component-explained-variance-ratio-added-r202612-added-r202612">gut_sandpiper_pca_variance.csv (5 rows) — one row per PCA component: explained variance ratio — added R2026.12 — added R2026.12</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>pc</code></td>
+<td>str</td>
+<td>component index</td>
+</tr>
+<tr>
+<td><code>explained_variance_ratio</code></td>
+<td>float64</td>
+<td>share of CLR variance</td>
+</tr>
+<tr>
+<td><code>singular_value</code></td>
+<td>float64</td>
+<td>singular value</td>
+</tr>
+<tr>
+<td><code>cumulative</code></td>
+<td>float64</td>
+<td>cumulative explained variance ratio</td>
+</tr>
+<tr>
+<td><code>n_samples</code></td>
+<td>int64</td>
+<td>samples in the PCA</td>
+</tr>
+<tr>
+<td><code>n_genera</code></td>
+<td>int64</td>
+<td>genera in the PCA</td>
+</tr>
+<tr>
+<td><code>root_coverage_min</code></td>
+<td>int64</td>
+<td>minimum root coverage for inclusion</td>
+</tr>
+<tr>
+<td><code>prevalence_min</code></td>
+<td>float64</td>
+<td>minimum genus prevalence for inclusion</td>
+</tr>
+<tr>
+<td><code>prevalence_detection</code></td>
+<td>float64</td>
+<td>relative-abundance threshold used for prevalence</td>
+</tr>
+<tr>
+<td><code>pseudocount</code></td>
+<td>float64</td>
+<td>multiplicative pseudocount before CLR</td>
+</tr>
+<tr>
+<td><code>total_clr_variance</code></td>
+<td>float64</td>
+<td>total variance of the CLR matrix</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gut_sandpiper_study_coveragecsv-2837-rows-one-row-per-catalog-study-sandpiper-join-coverage-added-r202612-added-r202612">gut_sandpiper_study_coverage.csv (2,837 rows) — one row per catalog study: Sandpiper join coverage — added R2026.12 — added R2026.12</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>BioProject</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>str</td>
+<td>study title</td>
+</tr>
+<tr>
+<td><code>n_runs</code></td>
+<td>int64</td>
+<td>runs in gut_runs</td>
+</tr>
+<tr>
+<td><code>n_runs_profiled</code></td>
+<td>int64</td>
+<td>runs with a profile</td>
+</tr>
+<tr>
+<td><code>n_samples</code></td>
+<td>int64</td>
+<td>samples</td>
+</tr>
+<tr>
+<td><code>n_infant_scope</code></td>
+<td>int64</td>
+<td>infant-scope samples</td>
+</tr>
+<tr>
+<td><code>n_samples_profiled</code></td>
+<td>int64</td>
+<td>samples with &gt;= 1 profiled run</td>
+</tr>
+<tr>
+<td><code>n_samples_partial</code></td>
+<td>int64</td>
+<td>samples with unprofiled runs</td>
+</tr>
+<tr>
+<td><code>n_low_depth</code></td>
+<td>int64</td>
+<td>samples flagged low depth</td>
+</tr>
+<tr>
+<td><code>n_low_complexity</code></td>
+<td>int64</td>
+<td>samples flagged low complexity</td>
+</tr>
+<tr>
+<td><code>n_any_flag</code></td>
+<td>int64</td>
+<td>samples with any QC flag</td>
+</tr>
+<tr>
+<td><code>root_coverage_median</code></td>
+<td>float64</td>
+<td>median root coverage</td>
+</tr>
+<tr>
+<td><code>richness_genus_median</code></td>
+<td>float64</td>
+<td>median genus richness</td>
+</tr>
+<tr>
+<td><code>shannon_genus_median</code></td>
+<td>float64</td>
+<td>median Shannon</td>
+</tr>
+<tr>
+<td><code>frac_runs_profiled</code></td>
+<td>float64</td>
+<td>profiled / total runs</td>
+</tr>
+<tr>
+<td><code>frac_samples_profiled</code></td>
+<td>float64</td>
+<td>profiled / total samples</td>
+</tr>
+<tr>
+<td><code>coverage_class</code></td>
+<td>str</td>
+<td>full</td>
+</tr>
+<tr>
+<td><code>top_genus_mode</code></td>
+<td>str</td>
+<td>most frequent top genus</td>
+</tr>
+<tr>
+<td><code>prefix</code></td>
+<td>str</td>
+<td>accession prefix (SRR/ERR/DRR)</td>
+</tr>
+<tr>
+<td><code>sandpiper_version</code></td>
+<td>str</td>
+<td>Sandpiper version (2.0.0)</td>
+</tr>
+<tr>
+<td><code>taxonomy_db</code></td>
+<td>str</td>
+<td>taxonomy database (GTDB)</td>
+</tr>
+<tr>
+<td><code>taxonomy_version</code></td>
+<td>str</td>
+<td>GTDB release (R232)</td>
+</tr>
+<tr>
+<td><code>zenodo_record</code></td>
+<td>int64</td>
+<td>Zenodo record of the bulk snapshot (20419175)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sandpiper-columns-added-v120">Sandpiper columns (added v1.2.0)</h2>
+<p>Source: SingleM community profiles from Sandpiper 2.0.0 (Woodcroft et al. 2025, <em>Nat Biotechnol</em>; Zenodo record 20419175, CC-BY), taxonomy GTDB R232. Profiles are keyed by run; for a catalog sample with several profiled runs the filled coverage per taxon is <strong>summed across runs and then normalised</strong> (never averaged). Every <code>*_ra</code> column is a <strong>fraction of prokaryotic (Bacteria + Archaea) coverage</strong> — approximately a cell proportion, not a read fraction; not comparable with MetaPhlAn or 16S numbers.</p>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sp_profiled</code></td>
+<td>True when at least one run of the sample has a Sandpiper profile</td>
+</tr>
+<tr>
+<td><code>sandpiper_url</code></td>
+<td><code>https://sandpiper.qut.edu.au/run/&lt;run&gt;</code> — the RANDOM-selection profiled run with the highest root coverage (v1.2.1)</td>
+</tr>
+<tr>
+<td><code>sp_n_runs_total</code>, <code>sp_n_runs_profiled</code>, <code>sp_partial</code></td>
+<td>run counts; <code>sp_partial</code> = some runs unprofiled</td>
+</tr>
+<tr>
+<td><code>sp_spf</code></td>
+<td>prokaryotic read fraction (%), metagenome-size-weighted over runs</td>
+</tr>
+<tr>
+<td><code>sp_known_species_fraction</code></td>
+<td>% of prokaryotic coverage assigned to a named GTDB species</td>
+</tr>
+<tr>
+<td><code>sp_root_coverage</code></td>
+<td>summed root coverage (× genome equivalents); <code>sp_low_depth</code> = root &lt; 2× (bars hidden)</td>
+</tr>
+<tr>
+<td><code>sp_top_genus</code>, <code>sp_top_genus_ra</code></td>
+<td>most abundant genus-level bin (may be <code>unassigned_at_genus</code>)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Bifidobacterium</code></td>
+<td>GTDB <code>g__Bifidobacterium</code> (stable genus)</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Bacteroidaceae</code>, <code>sp_ra_g_Bacteroides</code>, <code>sp_ra_g_Phocaeicola</code></td>
+<td>GTDB moved <em>B. vulgatus/dorei/plebeius/coprocola</em> to <em>Phocaeicola</em>; the family ≈ NCBI-sense <em>Bacteroides</em></td>
+</tr>
+<tr>
+<td><code>sp_ra_enterobacterales_core</code></td>
+<td>Σ of six GTDB genera incl. their alphabetic-suffix genera (<code>^g__&lt;Name&gt;(_[A-Z]+)?$</code>): Escherichia, Klebsiella, Enterobacter(+_B,_D), Citrobacter(+_A = amalonaticus/farmeri, _B = koseri, _C, _D), Salmonella, Serratia(+_B,_G) (GTDB <code>f__Enterobacteriaceae</code> is broader than NCBI's, so the family is not used)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Escherichia</code>, <code>sp_ra_g_Klebsiella</code>, <code>sp_ra_f_Lachnospiraceae</code>, <code>sp_ra_f_Lactobacillaceae</code> (GTDB splits <em>Lactobacillus</em>), <code>sp_ra_g_Streptococcus</code>, <code>sp_ra_g_Staphylococcus</code>, <code>sp_ra_g_Enterococcus</code>, <code>sp_ra_g_Veillonella</code>, <code>sp_ra_g_Clostridioides</code> (<em>C. difficile</em>)</td>
+<td>indicator taxa</td>
+</tr>
+<tr>
+<td><code>sp_ra_unassigned_genus</code></td>
+<td>coverage not resolved to a genus (novel fraction; never renormalised away)</td>
+</tr>
+<tr>
+<td><code>sp_shannon_genus</code>, <code>sp_n_genera_ge1pct</code></td>
+<td>Shannon (ln) over genus bins incl. the unassigned bin; named genera ≥ 1 %</td>
+</tr>
+<tr>
+<td><code>sp_flag_low_complexity</code></td>
+<td>Sandpiper low-complexity rule — expected for Bifidobacterium-/Enterobacterales-dominated neonatal stool; display only, never triage</td>
+</tr>
+<tr>
+<td><code>sp_nonmeta_class</code>, <code>sp_flag_non_metagenome</code>, <code>sp_flag_synthetic</code>, <code>sp_flag_rna</code>, <code>sp_flag_readfraction_warning</code></td>
+<td>see <strong>sandpiper_flag_table.csv</strong> (single source for field, site label, definition, level; <code>sandpiper_flag_definitions.json</code> is generated from it). <code>sp_flag_non_metagenome</code> = <code>sp_nonmeta_class ∈ {named_nonhuman_host, named_microbe_or_other}</code> over the sample's runs (v1.2.1)</td>
+</tr>
+<tr>
+<td><code>sp_run_concordance_bc</code>, <code>sp_runs_discordant</code></td>
+<td>max pairwise genus-level Bray–Curtis between the sample's runs; discordant = BC &gt; 0.5 (human-review hint, not a verdict)</td>
+</tr>
+<tr>
+<td><code>taxonomy_db</code>, <code>taxonomy_version</code>, <code>sandpiper_version</code></td>
+<td>GTDB / R232 / 2.0.0 on every profiled row</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gtdb-alphabetic-suffix-genera-v121-r3-1">GTDB alphabetic-suffix genera (v1.2.1, R3-1)</h3>
+<p>Every genus indicator matches <code>^g__&lt;Name&gt;(_[A-Z]+)?$</code>, i.e. the GTDB genus <strong>and</strong> its alphabetic-suffix split genera, so that the NCBI-sense genus is covered. <code>gtdb_to_ncbi_note</code> per indicator:</p>
+<table>
+<thead>
+<tr>
+<th>indicator</th>
+<th>GTDB taxa summed</th>
+<th>gtdb_to_ncbi_note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sp_ra_g_Bifidobacterium</code></td>
+<td>g__Bifidobacterium</td>
+<td>single GTDB genus; equals NCBI Bifidobacterium</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Bacteroides</code></td>
+<td>g__Bacteroides, g__Bacteroides_D, g__Bacteroides_E, g__Bacteroides_F</td>
+<td>Bacteroides_D/_E/_F are NCBI Bacteroides species split by GTDB (e.g. B. pectinophilus)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Phocaeicola</code></td>
+<td>g__Phocaeicola, g__Phocaeicola_A</td>
+<td>Phocaeicola_A added; the family f__Bacteroidaceae ≈ NCBI-sense Bacteroides</td>
+</tr>
+<tr>
+<td><code>sp_ra_enterobacterales_core</code></td>
+<td>g__Citrobacter, g__Citrobacter_A, g__Citrobacter_B, g__Citrobacter_C, g__Citrobacter_D, g__Enterobacter, g__Enterobacter_B, g__Enterobacter_D, g__Escherichia, g__Klebsiella, g__Salmonella, g__Serratia, g__Serratia_B, g__Serratia_G</td>
+<td>includes Citrobacter_A (amalonaticus/farmeri), Citrobacter_B (koseri), Enterobacter_B/_D, Serratia_B/_G; Escherichia includes NCBI Shigella</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Escherichia</code></td>
+<td>g__Escherichia</td>
+<td>GTDB Escherichia includes NCBI Shigella</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Klebsiella</code></td>
+<td>g__Klebsiella</td>
+<td>single GTDB genus</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Streptococcus</code></td>
+<td>g__Streptococcus</td>
+<td>single GTDB genus in this dataset</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Staphylococcus</code></td>
+<td>g__Staphylococcus</td>
+<td>single GTDB genus in this dataset</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Enterococcus</code></td>
+<td>g__Enterococcus, g__Enterococcus_A, g__Enterococcus_B, g__Enterococcus_C, g__Enterococcus_D, g__Enterococcus_E, g__Enterococcus_F, g__Enterococcus_G, g__Enterococcus_H, g__Enterococcus_I, g__Enterococcus_J, g__Enterococcus_K, g__Enterococcus_L</td>
+<td>includes GTDB Enterococcus_A (avium/raffinosus/gilvus), _B (faecium/lactis/hirae/durans), _C (asini/dispar), _D (gallinarum/casseliflavus), _E (cecorum), _F … _L; plain g__Enterococcus = E. faecalis group</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Veillonella</code></td>
+<td>g__Veillonella, g__Veillonella_A</td>
+<td>includes Veillonella_A (seminalis/ratti and unnamed species)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Clostridioides</code></td>
+<td>g__Clostridioides</td>
+<td>single GTDB genus (C. difficile)</td>
+</tr>
+</tbody>
+</table>
+<p>Placeholder genera: GTDB R232 contains alphanumeric placeholder genera without a Latin name, e.g. <code>g__ECMA0423</code> (Enterobacteriaceae; one species, detected in ~34 % of profiled samples at ~0.25 % mean RA) and <code>g__G047199095</code>. They are real GTDB genera, appear in <code>sandpiper_top_genera.parquet</code> and in study panels under their placeholder name, and are <strong>not</strong> counted in any named indicator column. Bifidobacterium species shares (<code>share_within_bifidobacterium</code>, off-package table) are normalised over <strong>named species only</strong>; in ~20 % of samples &gt; 10 % of genus coverage is unresolved at species rank, so shares overstate named species — use <code>sp_ra_unassigned_species</code> as the denominator caveat.</p>
+<p><code>&lt;field&gt;__scope</code> (16 coverage fields): scope of the winning determination — <code>sample</code>, <code>subject</code>, <code>biosample</code> (propagated from a parent BioSample) or <code>group</code> (R3/R4 statement applied to a defined group). Apply the README reading rule to <code>group</code>-scope values.</p>
+<p>Study columns <code>sp_*</code>: <code>sp_frac_samples_profiled</code> = profiled rows / <code>n_sample_rows</code> (one denominator, v1.2.1); <code>sp_median_*</code> are computed over <strong>panel-scope</strong> rows (<code>catalog_scope</code> ∧ profiled ∧ NOT <code>sp_low_depth</code>) and are null with <code>sp_panel_scope</code> giving the fallback label when a study has none; <code>sp_frac_runs_flagged</code> counts runs whose organism label is a non-human host or a named microbe, or synthetic / RNA (the routine "Homo sapiens" host label is <em>not</em> counted). <code>sp_auditor_attention</code>/<code>sp_auditor_reason</code>: the Sandpiper track's hint that a study deserves a human look (never a verdict).</p>
+<h2 id="author-columns-added-v120">Author columns (added v1.2.0)</h2>
+<p><code>authors.parquet</code>: one row per study × author × paper (<code>author_display</code>, <code>author_surname</code>, <code>author_initials</code>, <code>is_group</code>, <code>source</code> ∈ linked_paper / bioproject_publication / ena_study_xref, <code>pmid</code>, <code>doi</code>, <code>position</code>, <code>n_authors</code>, <code>is_first</code>, <code>is_last</code>, <code>paper_relation</code>, <code>catalog_status</code>). <code>study_authors_summary.csv</code>: per screened study <code>first_author</code>, <code>last_author</code>, <code>n_authors</code>, <code>n_papers</code>, <code>organisations</code> (ENA centre / broker and NCBI BioProject owner names, <code>;</code>-joined). Names are string-matched from Europe PMC <code>authorString</code>; the same person may appear under several initial variants and no disambiguation was attempted.</p>
+<h2 id="sandpiper_run_qcparquet-documented-v121">sandpiper_run_qc.parquet (documented v1.2.1)</h2>
+<p>One row per run of the 389 included studies (174,022 rows). Keys: <code>run_accession</code>, <code>study_accession</code>, <code>sample_accession</code> (BioSample), <code>catalog_sample_key</code> (sample-table key), <code>sample_unit</code> (<code>biosample</code> / <code>run</code> — v1.2.0 wrote the retired value <code>biosample_pooled</code> for the 521 run-unit runs; renamed in v1.2.1 so a join on <code>sample_unit = 'run'</code> works).</p>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>in_sandpiper</code></td>
+<td>True when the run has a profile in the Zenodo snapshot</td>
+</tr>
+<tr>
+<td><code>sp_miss_reason</code></td>
+<td>why not (precedence v1.2.1: strategy → platform → access → horizon → size → snapshot gap): <code>profiled</code> · <code>non_wgs_strategy</code> (library_strategy in {AMPLICON, Targeted-Capture, WXS} — the strategies with zero profiled runs in the snapshot; OTHER and WGA are profiled by Sandpiper and are not miss reasons) · <code>non_illumina_platform</code> · <code>controlled_access_study</code> · <code>published_after_snapshot_horizon</code> · <code>unknown_size</code> (ENA base_count ≤ 0, so size cannot be judged) · <code>small_run_lt_100Mbp</code> · <code>ena_illumina_not_in_snapshot</code> / <code>sra_illumina_not_in_snapshot</code> / <code>ddbj_illumina_not_in_snapshot</code> (eligible by every rule but absent from the snapshot)</td>
+</tr>
+<tr>
+<td><code>library_strategy</code>, <code>library_source</code>, <code>instrument_platform</code>, <code>base_count</code>, <code>first_public</code>, <code>organism</code></td>
+<td>ENA run/sample fields used by the rules</td>
+</tr>
+<tr>
+<td><code>sp_root_coverage</code>, <code>sp_species_coverage</code></td>
+<td>root / species-level coverage (genome equivalents)</td>
+</tr>
+<tr>
+<td><code>top1_order_fraction</code>, <code>top3_order_fraction</code></td>
+<td>share of coverage in the top 1 / top 3 orders (low-complexity inputs)</td>
+</tr>
+<tr>
+<td><code>sp_spf</code>, <code>sp_known_species_fraction</code></td>
+<td>prokaryotic read fraction (%), known-species fraction (%)</td>
+</tr>
+<tr>
+<td><code>bacterial_archaeal_bases</code>, <code>metagenome_size</code>, <code>average_bacterial_archaeal_genome_size</code></td>
+<td>Sandpiper size estimates (bases)</td>
+</tr>
+<tr>
+<td><code>sp_warning_present</code></td>
+<td>Sandpiper emitted a warning for the run</td>
+</tr>
+<tr>
+<td><code>sp_prediction</code>, <code>sp_host_or_not</code></td>
+<td>Sandpiper ecological prediction and host-associated call</td>
+</tr>
+<tr>
+<td><code>sp_nonmeta_class</code></td>
+<td>organism-label class: <code>not_flagged</code> · <code>named_human_host</code> · <code>named_nonhuman_host</code> · <code>named_microbe_or_other</code> (see sandpiper_flag_table.csv)</td>
+</tr>
+<tr>
+<td><code>sp_flag_*</code>, <code>sp_low_depth</code>, <code>sp_predicted_ecological</code>, <code>sp_low_known_species_high_depth</code></td>
+<td>run-level flags — every one is defined in <strong>sandpiper_flag_table.csv</strong></td>
+</tr>
+<tr>
+<td><code>sandpiper_url</code>, <code>sandpiper_version</code>, <code>taxonomy_db</code>, <code>taxonomy_version</code>, <code>zenodo_record</code></td>
+<td>provenance (Sandpiper 2.0.0 outputs, Zenodo 20419175, GTDB R232; the live Sandpiper site may show a newer version)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sandpiper_study_panelsparquet-v2-v121">sandpiper_study_panels.parquet (v2, v1.2.1)</h2>
+<p>Mean relative abundance per study over <strong>panel-scope rows</strong> = <code>catalog_scope</code> ∧ <code>sp_profiled</code> ∧ NOT <code>sp_low_depth</code> (top-12 phyla, top-15 genera, plus the <code>unassigned_at_*</code> bins with <code>rank_order = 0</code>). Columns: <code>study_accession</code>, <code>rank</code>, <code>taxon</code>, <code>mean_rel_abundance</code>, <code>n_samples_panel</code> (rows averaged; asserted equal to the recomputation from the shipped sample table), <code>rank_order</code>, <code>n_samples_study</code> (rows of the study), <code>n_catalog_scope</code>, <code>n_profiled</code>, <code>n_profiled_catalog_scope</code>, <code>n_profiled_age_infant</code> / <code>n_profiled_age_adult</code> / <code>n_profiled_age_unknown_or_other</code> (age_scope breakdown of all profiled rows, for the caption), <code>n_low_depth_excluded_from_panel</code>, <code>frac_samples_profiled</code>, <code>panel_scope</code>, <code>panel_definition</code>, <code>taxonomy_db</code>, <code>taxonomy_version</code>. Studies without panel-scope rows have <strong>no rows</strong> here; their fallback label is in <code>sandpiper_study_panel_status.csv</code> and in <code>study_metadata_wide.sp_panel_scope</code>. The v1.2.0 merge artefacts <code>n_samples_x</code>/<code>n_samples_y</code> are gone.</p>
+<h2 id="sandpiper_flag_tablecsv-v121">sandpiper_flag_table.csv (v1.2.1)</h2>
+<p>Single source for every Sandpiper flag: <code>field</code>, <code>level</code> (run / sample / study), <code>site_label</code>, <code>definition</code>, <code>used</code>. <code>sandpiper_flag_definitions.json</code> is generated from it; the GlobDB domain-only flags are kept with <code>used = false</code> (the catalog uses GTDB profiles only).</p>
+<h2 id="organisationsparquet-v2-v121-and-study_authors_summarycsv">organisations.parquet (v2, v1.2.1) and study_authors_summary.csv</h2>
+<p>One row per study × organisation token × source (<code>bioproject_organization</code> = NCBI BioProject Organization, <code>submitter_center</code> = ENA center_name, <code>ena_broker</code>). v1.2.1 adds <code>not_org_reason</code> (<code>submission_id</code> for <code>^SUB\d+( \| SUB\d+)*$</code>, <code>email_or_handle</code> for tokens containing <code>@</code>, <code>placeholder</code> for n/a / None / '.', <code>lowercase_username</code> for single all-lowercase tokens such as <code>hpsun</code>), <code>is_organisation</code> (not_org_reason is null; such rows get <code>org_type = not_an_organisation</code>) and <code>display_eligible</code> (is_organisation AND, for PRJNA studies with an NCBI BioProject organisation, not an ENA center_name). <code>organisations_index.json</code>, <code>study_authors_summary.organisations</code> and <code>study_metadata_wide.organisations</code> are built from <code>display_eligible</code> rows only; a check asserts that no published organisation string matches <code>SUB\d{6,}</code> or contains <code>@</code>. Single lowercase tokens include some genuine company/institute acronyms (e.g. novogene, rivm) — they stay in the parquet for owner whitelisting but are not displayed.</p>
+<p><code>authors.parquet</code> (v2): <code>author_key</code> folds names with a transliteration map (ø→o, æ→ae, ß→ss, ł→l, đ→d, İ→i, Ð→d, Þ→th) before NFKD stripping, and folds initials too; the group regex includes office / production / editorial; <code>name_needs_check</code> flags no-initials multi-token person names for manual review.</p>
+<h2 id="complete-column-reference-generated-from-the-parquet-schema-the-build-fails-on-an-undocumented-column">Complete column reference (generated from the parquet schema; the build fails on an undocumented column)</h2>
+<h3 id="sample_metadata_wideparquet-147-columns">sample_metadata_wide.parquet (147 columns)</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sample_key</code></td>
+<td>str</td>
+<td>primary key: BioSample accession for <code>biosample</code> units, run accession for <code>run</code> units</td>
+</tr>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>BioProject accession</td>
+</tr>
+<tr>
+<td><code>secondary_sample</code></td>
+<td>str</td>
+<td>ENA secondary sample accession</td>
+</tr>
+<tr>
+<td><code>sample_title</code></td>
+<td>str</td>
+<td>submitter sample title</td>
+</tr>
+<tr>
+<td><code>body_site_class</code></td>
+<td>str</td>
+<td>body-site scope class — vocabulary: <code>primary</code> (infant gut/stool/meconium/rectal), <code>unknown</code> (no body-site evidence; kept in body-site scope), <code>excluded</code> (non-gut site: skin, oral, milk, vaginal, nasal…; or, since v1.2.1, non-human host / isolate genome — see <code>exclusion_reason_code</code>), <code>linked</code> (mother/other sample linked to an infant subject; out of body-site scope)</td>
+</tr>
+<tr>
+<td><code>collection_date</code></td>
+<td>str</td>
+<td>archive collection_date as given</td>
+</tr>
+<tr>
+<td><code>is_gold_heldout</code></td>
+<td>bool</td>
+<td>True if in the curatedMetagenomicData evaluation set</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure</code></td>
+<td>str</td>
+<td>metadata field <code>probiotic_exposure</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>preterm_status</code></td>
+<td>str</td>
+<td>metadata field <code>preterm_status</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks</code></td>
+<td>float64</td>
+<td>metadata field <code>gestational_age_weeks</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>delivery_mode</code></td>
+<td>str</td>
+<td>metadata field <code>delivery_mode</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>feeding_mode</code></td>
+<td>str</td>
+<td>metadata field <code>feeding_mode</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>str</td>
+<td>metadata field <code>antibiotic_exposure</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>float64</td>
+<td>metadata field <code>age_at_collection_days</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams</code></td>
+<td>float64</td>
+<td>metadata field <code>birth_weight_grams</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>str</td>
+<td>metadata field <code>country</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics</code></td>
+<td>str</td>
+<td>metadata field <code>maternal_antibiotics</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation</code></td>
+<td>str</td>
+<td>metadata field <code>hmo_supplementation</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>nec_status</code></td>
+<td>str</td>
+<td>metadata field <code>nec_status</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>str</td>
+<td>metadata field <code>health_condition</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>multiple_birth</code></td>
+<td>str</td>
+<td>metadata field <code>multiple_birth</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>sibling_in_study</code></td>
+<td>str</td>
+<td>metadata field <code>sibling_in_study</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>geo_subregion</code></td>
+<td>str</td>
+<td>metadata field <code>geo_subregion</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>str</td>
+<td>metadata field <code>sex</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>str</td>
+<td>metadata field <code>timepoint_label</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>str</td>
+<td>metadata field <code>subject_id</code> (see Field vocabularies)</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>probiotic_exposure</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>preterm_status__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>preterm_status</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>gestational_age_weeks</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>delivery_mode__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>delivery_mode</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>feeding_mode__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>feeding_mode</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>antibiotic_exposure</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>age_at_collection_days</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>birth_weight_grams</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>country__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>country</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>maternal_antibiotics</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>hmo_supplementation</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>nec_status__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>nec_status</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>health_condition__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>health_condition</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>multiple_birth__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>multiple_birth</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>sibling_in_study__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>sibling_in_study</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>geo_subregion__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>geo_subregion</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>sex__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>sex</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>timepoint_label__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>timepoint_label</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>subject_id__confidence</code></td>
+<td>float64</td>
+<td>confidence of <code>subject_id</code> (0–1)</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure__route</code></td>
+<td>str</td>
+<td>route of <code>probiotic_exposure</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>preterm_status__route</code></td>
+<td>str</td>
+<td>route of <code>preterm_status</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks__route</code></td>
+<td>str</td>
+<td>route of <code>gestational_age_weeks</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>delivery_mode__route</code></td>
+<td>str</td>
+<td>route of <code>delivery_mode</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>feeding_mode__route</code></td>
+<td>str</td>
+<td>route of <code>feeding_mode</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__route</code></td>
+<td>str</td>
+<td>route of <code>antibiotic_exposure</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__route</code></td>
+<td>str</td>
+<td>route of <code>age_at_collection_days</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams__route</code></td>
+<td>str</td>
+<td>route of <code>birth_weight_grams</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>country__route</code></td>
+<td>str</td>
+<td>route of <code>country</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics__route</code></td>
+<td>str</td>
+<td>route of <code>maternal_antibiotics</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation__route</code></td>
+<td>str</td>
+<td>route of <code>hmo_supplementation</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>nec_status__route</code></td>
+<td>str</td>
+<td>route of <code>nec_status</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>health_condition__route</code></td>
+<td>str</td>
+<td>route of <code>health_condition</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>multiple_birth__route</code></td>
+<td>str</td>
+<td>route of <code>multiple_birth</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>sibling_in_study__route</code></td>
+<td>str</td>
+<td>route of <code>sibling_in_study</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>geo_subregion__route</code></td>
+<td>str</td>
+<td>route of <code>geo_subregion</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>sex__route</code></td>
+<td>str</td>
+<td>route of <code>sex</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>timepoint_label__route</code></td>
+<td>str</td>
+<td>route of <code>timepoint_label</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>subject_id__route</code></td>
+<td>str</td>
+<td>route of <code>subject_id</code> (R1–R4, see Routes)</td>
+</tr>
+<tr>
+<td><code>subject_key</code></td>
+<td>str</td>
+<td>resolved subject id (study-scoped)</td>
+</tr>
+<tr>
+<td><code>role</code></td>
+<td>str</td>
+<td>infant · mother · other · unknown · adult · child (see Sample unit section)</td>
+</tr>
+<tr>
+<td><code>t_index</code></td>
+<td>float64</td>
+<td>timepoint index within subject</td>
+</tr>
+<tr>
+<td><code>n_timepoints_subject</code></td>
+<td>float64</td>
+<td>timepoints of the subject</td>
+</tr>
+<tr>
+<td><code>linked_infant_subject_key</code></td>
+<td>str</td>
+<td>infant subject a mother/other sample is linked to</td>
+</tr>
+<tr>
+<td><code>run_accessions</code></td>
+<td>str</td>
+<td><code>;</code>-joined run accessions of the sample</td>
+</tr>
+<tr>
+<td><code>n_runs</code></td>
+<td>float64</td>
+<td>number of runs</td>
+</tr>
+<tr>
+<td><code>instrument_model</code></td>
+<td>str</td>
+<td>instrument model (top)</td>
+</tr>
+<tr>
+<td><code>library_layout</code></td>
+<td>str</td>
+<td>PAIRED/SINGLE</td>
+</tr>
+<tr>
+<td><code>read_count_total</code></td>
+<td>float64</td>
+<td>summed read_count over runs</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>str</td>
+<td>BioProject title</td>
+</tr>
+<tr>
+<td><code>cohort_id</code></td>
+<td>str</td>
+<td>cohort id (cohorts.csv)</td>
+</tr>
+<tr>
+<td><code>cohort_name</code></td>
+<td>str</td>
+<td>cohort name</td>
+</tr>
+<tr>
+<td><code>first_public_min</code></td>
+<td>str</td>
+<td>earliest first_public of the runs</td>
+</tr>
+<tr>
+<td><code>adult_age_flag</code></td>
+<td>bool</td>
+<td>True when a committed age is &gt; 1,100 d (see <code>age_scope = adult_flagged</code>)</td>
+</tr>
+<tr>
+<td><code>n_fields_with_value</code></td>
+<td>int64</td>
+<td>count of the 19 fields with a value</td>
+</tr>
+<tr>
+<td><code>ena_sample_url</code></td>
+<td>str</td>
+<td>ENA browser link</td>
+</tr>
+<tr>
+<td><code>ena_study_url</code></td>
+<td>str</td>
+<td>ENA study link</td>
+</tr>
+<tr>
+<td><code>sample_unit</code></td>
+<td>str</td>
+<td><code>biosample</code> or <code>run</code> (see Sample unit section)</td>
+</tr>
+<tr>
+<td><code>parent_biosample</code></td>
+<td>str</td>
+<td>parent BioSample of a <code>run</code> unit</td>
+</tr>
+<tr>
+<td><code>biosample_accession</code></td>
+<td>str</td>
+<td>BioSample accession (always populated)</td>
+</tr>
+<tr>
+<td><code>run_accession</code></td>
+<td>str</td>
+<td>run accession for <code>run</code> units, else null</td>
+</tr>
+<tr>
+<td><code>age_scope</code></td>
+<td>str</td>
+<td>age-scope class (see Sample unit section). Footnote: <code>adult_flagged</code> means "over-age flagged" — any committed age &gt; 1,100 d, which includes children aged 3–18 y (<code>role = child</code>), not only adults</td>
+</tr>
+<tr>
+<td><code>age_scope_basis</code></td>
+<td>str</td>
+<td>evidence behind age_scope</td>
+</tr>
+<tr>
+<td><code>role_source</code></td>
+<td>str</td>
+<td>evidence behind role</td>
+</tr>
+<tr>
+<td><code>sp_profiled</code></td>
+<td>bool</td>
+<td>True when at least one run has a Sandpiper profile</td>
+</tr>
+<tr>
+<td><code>sandpiper_url</code></td>
+<td>str</td>
+<td>link to the representative profiled run: RANDOM-selection run with the highest root coverage (v1.2.1; v1.2.0 used the alphabetically first run)</td>
+</tr>
+<tr>
+<td><code>sp_n_runs_total</code></td>
+<td>int64</td>
+<td>runs of the sample (populated for every row since v1.2.1)</td>
+</tr>
+<tr>
+<td><code>sp_n_runs_profiled</code></td>
+<td>int64</td>
+<td>profiled runs (0 when unprofiled)</td>
+</tr>
+<tr>
+<td><code>sp_partial</code></td>
+<td>bool</td>
+<td>True when 0 &lt; profiled runs &lt; total runs; False for unprofiled rows</td>
+</tr>
+<tr>
+<td><code>sp_spf</code></td>
+<td>float64</td>
+<td>prokaryotic read fraction (%)</td>
+</tr>
+<tr>
+<td><code>sp_known_species_fraction</code></td>
+<td>float64</td>
+<td>% of prokaryotic coverage assigned to a named GTDB species</td>
+</tr>
+<tr>
+<td><code>sp_root_coverage</code></td>
+<td>float64</td>
+<td>summed root coverage (genome equivalents)</td>
+</tr>
+<tr>
+<td><code>sp_low_depth</code></td>
+<td>boolean</td>
+<td>root coverage &lt; 2 (excluded from panels/medians)</td>
+</tr>
+<tr>
+<td><code>sp_top_genus</code></td>
+<td>str</td>
+<td>most abundant genus bin</td>
+</tr>
+<tr>
+<td><code>sp_top_genus_ra</code></td>
+<td>float64</td>
+<td>its relative abundance</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Bifidobacterium</code></td>
+<td>float64</td>
+<td>GTDB g__Bifidobacterium (no suffix genera in R232)</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Bacteroidaceae</code></td>
+<td>float64</td>
+<td>GTDB f__Bacteroidaceae</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Bacteroides</code></td>
+<td>float64</td>
+<td>GTDB g__Bacteroides + suffix genera Bacteroides_D/_E/_F</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Phocaeicola</code></td>
+<td>float64</td>
+<td>GTDB g__Phocaeicola + Phocaeicola_A</td>
+</tr>
+<tr>
+<td><code>sp_ra_enterobacterales_core</code></td>
+<td>float64</td>
+<td>Σ of GTDB Escherichia, Klebsiella, Enterobacter(+_B,_D), Citrobacter(+_A,_B,_C,_D), Salmonella, Serratia(+_B,_G)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Escherichia</code></td>
+<td>float64</td>
+<td>GTDB g__Escherichia (includes NCBI Shigella)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Klebsiella</code></td>
+<td>float64</td>
+<td>GTDB g__Klebsiella</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Lachnospiraceae</code></td>
+<td>float64</td>
+<td>GTDB f__Lachnospiraceae</td>
+</tr>
+<tr>
+<td><code>sp_ra_f_Lactobacillaceae</code></td>
+<td>float64</td>
+<td>GTDB f__Lactobacillaceae (GTDB splits NCBI Lactobacillus into many genera)</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Streptococcus</code></td>
+<td>float64</td>
+<td>GTDB g__Streptococcus</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Staphylococcus</code></td>
+<td>float64</td>
+<td>GTDB g__Staphylococcus</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Enterococcus</code></td>
+<td>float64</td>
+<td>GTDB g__Enterococcus (= E. faecalis group) + Enterococcus_A (avium/raffinosus/gilvus) + _B (faecium/lactis/hirae/durans) + _C … _L</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Veillonella</code></td>
+<td>float64</td>
+<td>GTDB g__Veillonella + Veillonella_A</td>
+</tr>
+<tr>
+<td><code>sp_ra_g_Clostridioides</code></td>
+<td>float64</td>
+<td>GTDB g__Clostridioides (C. difficile)</td>
+</tr>
+<tr>
+<td><code>sp_ra_unassigned_genus</code></td>
+<td>float64</td>
+<td>coverage not resolved to a genus</td>
+</tr>
+<tr>
+<td><code>sp_shannon_genus</code></td>
+<td>float64</td>
+<td>Shannon (ln) over genus bins incl. unassigned</td>
+</tr>
+<tr>
+<td><code>sp_n_genera_ge1pct</code></td>
+<td>float64</td>
+<td>named genera ≥ 1 %</td>
+</tr>
+<tr>
+<td><code>sp_flag_low_complexity</code></td>
+<td>boolean</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_flag_non_metagenome</code></td>
+<td>bool</td>
+<td>see sandpiper_flag_table.csv (derived from sp_nonmeta_class since v1.2.1)</td>
+</tr>
+<tr>
+<td><code>sp_flag_synthetic</code></td>
+<td>boolean</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_flag_rna</code></td>
+<td>boolean</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_flag_readfraction_warning</code></td>
+<td>boolean</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_run_concordance_bc</code></td>
+<td>float64</td>
+<td>max pairwise genus Bray–Curtis between runs</td>
+</tr>
+<tr>
+<td><code>sp_runs_discordant</code></td>
+<td>boolean</td>
+<td>BC &gt; 0.5</td>
+</tr>
+<tr>
+<td><code>taxonomy_db</code></td>
+<td>str</td>
+<td>GTDB</td>
+</tr>
+<tr>
+<td><code>taxonomy_version</code></td>
+<td>str</td>
+<td>R232</td>
+</tr>
+<tr>
+<td><code>sandpiper_version</code></td>
+<td>str</td>
+<td>2.0.0 (Zenodo snapshot 20419175; the live Sandpiper site may show a newer version)</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>age_at_collection_days</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>antibiotic_exposure</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>birth_weight_grams</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>country__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>country</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>delivery_mode__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>delivery_mode</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>feeding_mode__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>feeding_mode</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>geo_subregion__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>geo_subregion</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>gestational_age_weeks</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>health_condition__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>health_condition</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>hmo_supplementation</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>maternal_antibiotics</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>multiple_birth__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>multiple_birth</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>nec_status__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>nec_status</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>preterm_status__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>preterm_status</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>probiotic_exposure__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>probiotic_exposure</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>sibling_in_study__scope</code></td>
+<td>string</td>
+<td>scope of the winning <code>sibling_in_study</code> determination: sample / subject / biosample / group</td>
+</tr>
+<tr>
+<td><code>exclusion_reason_code</code></td>
+<td>object</td>
+<td>controlled reason code when a deterministic sample rule set <code>body_site_class = excluded</code> in v1.2.1: <code>host_nonhuman</code> (ENA scientific_name/tax_id is a non-human animal) or <code>assay_isolate_genome</code> (all runs GENOMIC with a named microbe organism); null otherwise. Rows are logged in value_history (change_stage <code>auditor_review:R3-3</code>)</td>
+</tr>
+<tr>
+<td><code>sp_nonmeta_class</code></td>
+<td>str</td>
+<td>any-run organism-label class over ALL runs of the sample (see sandpiper_flag_table.csv): not_flagged · named_human_host · named_nonhuman_host · named_microbe_or_other</td>
+</tr>
+<tr>
+<td><code>catalog_scope</code></td>
+<td>bool</td>
+<td><strong>headline scope (v1.2.1)</strong> = <code>age_scope ∈ {infant_evidenced, study_all_infant}</code> AND <code>body_site_class ∈ {primary, unknown}</code>; the intersection used for headline counts (71,795 rows) and for Sandpiper study panels/medians</td>
+</tr>
+<tr>
+<td><code>panel_scope</code></td>
+<td>bool</td>
+<td>True when the row enters its study's Sandpiper panel/medians: <code>catalog_scope AND sp_profiled AND NOT sp_low_depth</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="study_metadata_wideparquet-120-columns">study_metadata_wide.parquet (120 columns)</h3>
+<table>
+<thead>
+<tr>
+<th>column</th>
+<th>dtype</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>study_accession</code></td>
+<td>str</td>
+<td>BioProject accession (key)</td>
+</tr>
+<tr>
+<td><code>triage_verdict</code></td>
+<td>str</td>
+<td>include/exclude/uncertain from the infant triage cascade. INFANT-CATALOG verdict (historical, 2026-09 infant screen) — NOT membership in the all-age catalog: a study can be <code>excluded</code> here (e.g. age_adult_only) and still be in <code>gut_studies</code>. Catalog membership = presence in <code>gut_studies.parquet</code>.</td>
+</tr>
+<tr>
+<td><code>outcome</code></td>
+<td>str</td>
+<td>contract outcome of the final verdict row</td>
+</tr>
+<tr>
+<td><code>confidence</code></td>
+<td>float64</td>
+<td>confidence of the final verdict</td>
+</tr>
+<tr>
+<td><code>reason_code</code></td>
+<td>str</td>
+<td>controlled exclusion reason of the INFANT screen (null for included); age_* codes are infant-age reasons, not catalog exclusions</td>
+</tr>
+<tr>
+<td><code>evidence</code></td>
+<td>str</td>
+<td>JSON evidence list of the final verdict</td>
+</tr>
+<tr>
+<td><code>model</code></td>
+<td>str</td>
+<td>model/stage that produced the final verdict</td>
+</tr>
+<tr>
+<td><code>decision_stage</code></td>
+<td>str</td>
+<td>stage table of the final verdict</td>
+</tr>
+<tr>
+<td><code>note</code></td>
+<td>str</td>
+<td>free-text note of the final verdict</td>
+</tr>
+<tr>
+<td><code>n_infant_samples_est</code></td>
+<td>float64</td>
+<td>triage estimate of infant samples</td>
+</tr>
+<tr>
+<td><code>body_site_call</code></td>
+<td>str</td>
+<td>triage body-site call for the study</td>
+</tr>
+<tr>
+<td><code>slot</code></td>
+<td>str</td>
+<td>verdict slot name</td>
+</tr>
+<tr>
+<td><code>validator_ok</code></td>
+<td>object</td>
+<td>validator result on the verdict row</td>
+</tr>
+<tr>
+<td><code>validator_msg</code></td>
+<td>str</td>
+<td>validator message</td>
+</tr>
+<tr>
+<td><code>study_title</code></td>
+<td>str</td>
+<td>BioProject title</td>
+</tr>
+<tr>
+<td><code>n_samples</code></td>
+<td>int64</td>
+<td>from runs.parquet: distinct BioSamples with runs registered under this study (runs for run-unit studies). Sums to 154,268 over studies because 62 BioSamples carry runs from two BioProjects; use <code>n_sample_rows</code> for rows in the sample table</td>
+</tr>
+<tr>
+<td><code>n_runs</code></td>
+<td>int64</td>
+<td>runs registered under the study</td>
+</tr>
+<tr>
+<td><code>first_public_min</code></td>
+<td>str</td>
+<td>earliest first_public</td>
+</tr>
+<tr>
+<td><code>sig_infant_hit</code></td>
+<td>bool</td>
+<td>enumeration infant signal hit</td>
+</tr>
+<tr>
+<td><code>sig_infant_title</code></td>
+<td>bool</td>
+<td>infant term in title</td>
+</tr>
+<tr>
+<td><code>screen_haiku</code></td>
+<td>str</td>
+<td>Haiku screen label (yes/no)</td>
+</tr>
+<tr>
+<td><code>linked_infant_paper</code></td>
+<td>bool</td>
+<td>a linked paper is infant-scoped</td>
+</tr>
+<tr>
+<td><code>universe_slice</code></td>
+<td>str</td>
+<td>enumeration channel</td>
+</tr>
+<tr>
+<td><code>catalog_status</code></td>
+<td>str</td>
+<td>included / excluded / human_review in the INFANT catalog. INFANT-CATALOG verdict (historical, 2026-09 infant screen) — NOT membership in the all-age catalog: a study can be <code>excluded</code> here (e.g. age_adult_only) and still be in <code>gut_studies</code>. Catalog membership = presence in <code>gut_studies.parquet</code>.</td>
+</tr>
+<tr>
+<td><code>assessed_downstream</code></td>
+<td>bool</td>
+<td>reached the extraction stage</td>
+</tr>
+<tr>
+<td><code>recov_age</code></td>
+<td>str</td>
+<td>recoverability tier for age (R0–R4)</td>
+</tr>
+<tr>
+<td><code>recov_antibiotics</code></td>
+<td>str</td>
+<td>recoverability tier for antibiotics (R0–R4)</td>
+</tr>
+<tr>
+<td><code>recov_delivery</code></td>
+<td>str</td>
+<td>recoverability tier for delivery (R0–R4)</td>
+</tr>
+<tr>
+<td><code>recov_feeding</code></td>
+<td>str</td>
+<td>recoverability tier for feeding (R0–R4)</td>
+</tr>
+<tr>
+<td><code>recov_preterm</code></td>
+<td>str</td>
+<td>recoverability tier for preterm (R0–R4)</td>
+</tr>
+<tr>
+<td><code>recov_probiotic</code></td>
+<td>str</td>
+<td>recoverability tier for probiotic (R0–R4)</td>
+</tr>
+<tr>
+<td><code>cohort_id</code></td>
+<td>str</td>
+<td>cohort id</td>
+</tr>
+<tr>
+<td><code>cohort_name</code></td>
+<td>str</td>
+<td>cohort name</td>
+</tr>
+<tr>
+<td><code>cohort_crosswalk_names</code></td>
+<td>str</td>
+<td>alternative cohort names</td>
+</tr>
+<tr>
+<td><code>n_biosample_infant_flagged</code></td>
+<td>int64</td>
+<td>BioSamples flagged infant by archive attributes at triage</td>
+</tr>
+<tr>
+<td><code>n_linked_papers</code></td>
+<td>int64</td>
+<td>linked papers</td>
+</tr>
+<tr>
+<td><code>linked_pmids</code></td>
+<td>str</td>
+<td><code>;</code>-joined PMIDs</td>
+</tr>
+<tr>
+<td><code>median_gbp</code></td>
+<td>float64</td>
+<td>median bases per run (Gbp)</td>
+</tr>
+<tr>
+<td><code>median_read_len</code></td>
+<td>float64</td>
+<td>median nominal read length</td>
+</tr>
+<tr>
+<td><code>paired_share</code></td>
+<td>float64</td>
+<td>fraction of PAIRED runs</td>
+</tr>
+<tr>
+<td><code>instrument_model_top</code></td>
+<td>str</td>
+<td>most frequent instrument model</td>
+</tr>
+<tr>
+<td><code>generation_top</code></td>
+<td>str</td>
+<td>sequencer generation of instrument_model_top</td>
+</tr>
+<tr>
+<td><code>timepoint_class</code></td>
+<td>str</td>
+<td>cross_sectional / longitudinal heuristic from sample titles</td>
+</tr>
+<tr>
+<td><code>country_top</code></td>
+<td>str</td>
+<td>most frequent country</td>
+</tr>
+<tr>
+<td><code>worklist_rank</code></td>
+<td>float64</td>
+<td>curation priority rank</td>
+</tr>
+<tr>
+<td><code>expected_field_yield</code></td>
+<td>float64</td>
+<td>predicted number of recoverable fields</td>
+</tr>
+<tr>
+<td><code>effort_class</code></td>
+<td>str</td>
+<td>curation effort class</td>
+</tr>
+<tr>
+<td><code>controlled_access</code></td>
+<td>object</td>
+<td>True when the study is controlled-access (dbGaP/EGA)</td>
+</tr>
+<tr>
+<td><code>n_biosamples</code></td>
+<td>int64</td>
+<td>BioSample-unit rows of the study in the sample table (v1.2.1: parents of run units no longer counted here; see n_run_units, n_parent_biosamples)</td>
+</tr>
+<tr>
+<td><code>sample_unit</code></td>
+<td>str</td>
+<td>dominant sample unit of the study: biosample / run</td>
+</tr>
+<tr>
+<td><code>cov_probiotic_exposure</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>probiotic_exposure</code> value</td>
+</tr>
+<tr>
+<td><code>cov_preterm_status</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>preterm_status</code> value</td>
+</tr>
+<tr>
+<td><code>cov_gestational_age_weeks</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>gestational_age_weeks</code> value</td>
+</tr>
+<tr>
+<td><code>cov_delivery_mode</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>delivery_mode</code> value</td>
+</tr>
+<tr>
+<td><code>cov_feeding_mode</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>feeding_mode</code> value</td>
+</tr>
+<tr>
+<td><code>cov_antibiotic_exposure</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>antibiotic_exposure</code> value</td>
+</tr>
+<tr>
+<td><code>cov_age_at_collection_days</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>age_at_collection_days</code> value</td>
+</tr>
+<tr>
+<td><code>cov_birth_weight_grams</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>birth_weight_grams</code> value</td>
+</tr>
+<tr>
+<td><code>cov_country</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>country</code> value</td>
+</tr>
+<tr>
+<td><code>cov_maternal_antibiotics</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>maternal_antibiotics</code> value</td>
+</tr>
+<tr>
+<td><code>cov_hmo_supplementation</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>hmo_supplementation</code> value</td>
+</tr>
+<tr>
+<td><code>cov_nec_status</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>nec_status</code> value</td>
+</tr>
+<tr>
+<td><code>cov_health_condition</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>health_condition</code> value</td>
+</tr>
+<tr>
+<td><code>cov_multiple_birth</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>multiple_birth</code> value</td>
+</tr>
+<tr>
+<td><code>cov_sibling_in_study</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>sibling_in_study</code> value</td>
+</tr>
+<tr>
+<td><code>cov_geo_subregion</code></td>
+<td>float64</td>
+<td>fraction of catalog-scope-eligible rows (n_infant_scope_samples denominator) with a <code>geo_subregion</code> value</td>
+</tr>
+<tr>
+<td><code>n_unique_infants_est</code></td>
+<td>float64</td>
+<td>distinct infant subjects (see Sample unit section)</td>
+</tr>
+<tr>
+<td><code>max_timepoints</code></td>
+<td>float64</td>
+<td>max timepoints per infant subject</td>
+</tr>
+<tr>
+<td><code>longitudinal</code></td>
+<td>bool</td>
+<td>True when max_timepoints &gt; 1</td>
+</tr>
+<tr>
+<td><code>n_mothers</code></td>
+<td>int64</td>
+<td>mother-role subjects</td>
+</tr>
+<tr>
+<td><code>n_infant_scope_samples</code></td>
+<td>int64</td>
+<td><strong>body-site scope</strong> count: rows with body_site_class ∈ {primary, unknown} (name kept for compatibility; not age-evidenced)</td>
+</tr>
+<tr>
+<td><code>ena_url</code></td>
+<td>str</td>
+<td>ENA link</td>
+</tr>
+<tr>
+<td><code>ncbi_url</code></td>
+<td>str</td>
+<td>NCBI link</td>
+</tr>
+<tr>
+<td><code>n_age_scope_infant</code></td>
+<td>int64</td>
+<td>rows with age_scope ∈ {infant_evidenced, study_all_infant}</td>
+</tr>
+<tr>
+<td><code>n_adult_flagged</code></td>
+<td>int64</td>
+<td>rows with age_scope = adult_flagged (over-age, includes children)</td>
+</tr>
+<tr>
+<td><code>n_age_unknown_mixed_study</code></td>
+<td>int64</td>
+<td>rows age_unknown_mixed_study</td>
+</tr>
+<tr>
+<td><code>n_age_unknown_no_study_estimate</code></td>
+<td>int64</td>
+<td>rows age_unknown_no_study_estimate</td>
+</tr>
+<tr>
+<td><code>n_infant_evidenced</code></td>
+<td>int64</td>
+<td>rows infant_evidenced</td>
+</tr>
+<tr>
+<td><code>n_non_infant_role</code></td>
+<td>int64</td>
+<td>rows non_infant_role</td>
+</tr>
+<tr>
+<td><code>n_study_all_infant</code></td>
+<td>int64</td>
+<td>rows study_all_infant</td>
+</tr>
+<tr>
+<td><code>mixed_age_deposit</code></td>
+<td>bool</td>
+<td>&gt; 50 % of rows are age_unknown_mixed_study or adult_flagged</td>
+</tr>
+<tr>
+<td><code>n_infant_role_samples</code></td>
+<td>int64</td>
+<td>rows with role = infant</td>
+</tr>
+<tr>
+<td><code>n_infant_samples_with_subject</code></td>
+<td>int64</td>
+<td>infant rows with a resolved subject</td>
+</tr>
+<tr>
+<td><code>n_unique_infants_source</code></td>
+<td>str</td>
+<td>source class of the unique-infant estimate</td>
+</tr>
+<tr>
+<td><code>n_unique_infants_upper</code></td>
+<td>float64</td>
+<td>upper bound</td>
+</tr>
+<tr>
+<td><code>n_unique_infants_display</code></td>
+<td>str</td>
+<td>string to render</td>
+</tr>
+<tr>
+<td><code>n_sample_rows</code></td>
+<td>int64</td>
+<td>rows of the sample table keyed to this study</td>
+</tr>
+<tr>
+<td><code>n_biosamples_shared_with_other_study</code></td>
+<td>int64</td>
+<td>BioSamples of this study also registered under another BioProject</td>
+</tr>
+<tr>
+<td><code>sp_n_samples_profiled</code></td>
+<td>int64</td>
+<td>sample rows with a profile</td>
+</tr>
+<tr>
+<td><code>sp_frac_samples_profiled</code></td>
+<td>float64</td>
+<td>sp_n_samples_profiled / n_sample_rows (single denominator since v1.2.1)</td>
+</tr>
+<tr>
+<td><code>sp_median_bifidobacterium_ra</code></td>
+<td>float64</td>
+<td>median sp_ra_g_Bifidobacterium over panel-scope rows (catalog_scope ∧ profiled ∧ NOT low depth); null when the study has none</td>
+</tr>
+<tr>
+<td><code>sp_median_shannon_genus</code></td>
+<td>float64</td>
+<td>median Shannon over panel-scope rows</td>
+</tr>
+<tr>
+<td><code>sp_n_runs_profiled</code></td>
+<td>int64</td>
+<td>profiled runs registered under this study</td>
+</tr>
+<tr>
+<td><code>sp_frac_runs_profiled</code></td>
+<td>float64</td>
+<td>sp_n_runs_profiled / n_runs</td>
+</tr>
+<tr>
+<td><code>sp_coverage_class</code></td>
+<td>str</td>
+<td>none (no profiled rows) · partial · full (every row profiled); defined on sample rows since v1.2.1</td>
+</tr>
+<tr>
+<td><code>sp_frac_runs_flagged</code></td>
+<td>float64</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_frac_low_complexity_profiled</code></td>
+<td>float64</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_frac_low_depth_profiled</code></td>
+<td>float64</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_median_spf</code></td>
+<td>float64</td>
+<td>median prokaryotic read fraction over panel-scope rows</td>
+</tr>
+<tr>
+<td><code>sp_median_known_species_fraction</code></td>
+<td>float64</td>
+<td>median known-species fraction over panel-scope rows</td>
+</tr>
+<tr>
+<td><code>sp_auditor_attention</code></td>
+<td>bool</td>
+<td>see sandpiper_flag_table.csv</td>
+</tr>
+<tr>
+<td><code>sp_auditor_reason</code></td>
+<td>str</td>
+<td>reason text for sp_auditor_attention</td>
+</tr>
+<tr>
+<td><code>first_author</code></td>
+<td>str</td>
+<td>first author of the primary linked paper</td>
+</tr>
+<tr>
+<td><code>last_author</code></td>
+<td>str</td>
+<td>last author</td>
+</tr>
+<tr>
+<td><code>n_authors</code></td>
+<td>int64</td>
+<td>distinct author keys over linked papers</td>
+</tr>
+<tr>
+<td><code>n_author_papers</code></td>
+<td>int64</td>
+<td>papers contributing authors</td>
+</tr>
+<tr>
+<td><code>organisations</code></td>
+<td>str</td>
+<td><code>;</code>-joined organisation names (v1.2.1: submission ids, e-mail addresses, placeholders and single lowercase tokens removed; NCBI BioProject Organization preferred over ENA center_name for PRJNA studies)</td>
+</tr>
+<tr>
+<td><code>sp_median_scope</code></td>
+<td>str</td>
+<td>scope label of the medians (same vocabulary as sp_panel_scope)</td>
+</tr>
+<tr>
+<td><code>sp_n_samples_panel</code></td>
+<td>int64</td>
+<td>rows in the panel scope</td>
+</tr>
+<tr>
+<td><code>sp_panel_scope</code></td>
+<td>str</td>
+<td><code>catalog_scope_adequate_depth</code> (panel shown) · <code>fallback:no_catalog_scope_samples</code> · <code>fallback:no_age_evidenced_profiled_samples</code> · <code>fallback:all_age_evidenced_profiled_samples_low_depth</code> · <code>no_profiled_samples</code> — render the fallback text instead of a panel</td>
+</tr>
+<tr>
+<td><code>sp_coverage_note</code></td>
+<td>str</td>
+<td>set when rows are profiled only through runs registered under a sibling BioProject</td>
+</tr>
+<tr>
+<td><code>n_catalog_scope</code></td>
+<td>int64</td>
+<td>rows with catalog_scope = True (age scope ∧ body-site scope) — the headline denominator</td>
+</tr>
+<tr>
+<td><code>n_excluded_host_or_isolate</code></td>
+<td>int64</td>
+<td>rows set to body_site_class = excluded by the v1.2.1 host/isolate rule (exclusion_reason_code not null)</td>
+</tr>
+<tr>
+<td><code>n_body_site_excluded</code></td>
+<td>int64</td>
+<td>rows with body_site_class = excluded</td>
+</tr>
+<tr>
+<td><code>n_run_units</code></td>
+<td>int64</td>
+<td>run-unit rows (one BioSample per infant, one run per stool)</td>
+</tr>
+<tr>
+<td><code>n_parent_biosamples</code></td>
+<td>int64</td>
+<td>parent BioSamples of the run units (listed in parent_biosamples.parquet, counted nowhere else)</td>
+</tr>
+<tr>
+<td><code>shared_biosample_note</code></td>
+<td>object</td>
+<td>human-readable note for the five studies sharing BioSamples (F6)</td>
+</tr>
+<tr>
+<td><code>release_added</code></td>
+<td>string</td>
+<td>release in which this row first became visible (<code>R&lt;YYYY&gt;.&lt;n&gt;</code> or a pre-numbered package semver <code>1.0.0</code>–<code>1.2.2</code>); pre-1.3.0 values are reconstructed — see DATA_DICTIONARY 'Release columns'</td>
+</tr>
+<tr>
+<td><code>release_retired</code></td>
+<td>string</td>
+<td>release that replaced/removed the row; null (empty in CSV) = current row</td>
+</tr>
+<tr>
+<td><code>package_added</code></td>
+<td>string</td>
+<td>semver of the data package in which the row first appeared</td>
+</tr>
+</tbody>
+</table></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.18"><span class="mono">R2026.18</span></a> · package <span class="mono">1.17.0</span> · build <span class="mono">b3714d4</span> · built 2026-10-09 · data tag <span class="mono">data-v1.17.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.18.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.18 (data package 1.17.0), OlmLab, 2026-10-09.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.17.0',release:'data-v1.17.0',releaseId:'R2026.18',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

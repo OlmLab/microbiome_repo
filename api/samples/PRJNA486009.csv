@@ -1,0 +1,316 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN12583207,PRJNA486009,B001,,infant,426.1,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-04-24,primary,1.0,0.441
+SAMN12583231,PRJNA486009,B109,,child,2130.6,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-11-09,primary,1.0,2.65
+SAMN12583232,PRJNA486009,B200,,infant,943.6,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2015-04-11,primary,1.0,3.5
+SAMN12583223,PRJNA486009,B228,,child,2069.8,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2015-05-22,primary,1.0,2.607
+SAMN12583208,PRJNA486009,B24,,infant,821.8,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-06-02,primary,1.0,3.32
+SAMN12583233,PRJNA486009,B244,,infant,456.6,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2015-06-13,primary,1.0,2.088
+SAMN12583234,PRJNA486009,B255,,infant,639.2,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2015-06-24,primary,1.0,2.838
+SAMN12583209,PRJNA486009,B274,,infant,487.0,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2015-07-07,primary,1.0,2.155
+SAMN12583235,PRJNA486009,B295,,infant,821.8,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2015-08-05,primary,1.0,2.186
+SAMN12583236,PRJNA486009,B45,,infant,760.9,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-30,primary,1.0,3.147
+SAMN12583224,PRJNA486009,B56,,child,1461.0,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-24,primary,1.0,2.505
+SAMN12583237,PRJNA486009,B62,,infant,547.9,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-01,primary,1.0,2.554
+SAMN12583238,PRJNA486009,B64,,adult,9709.6,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-07,primary,1.0,2.485
+SAMN12583239,PRJNA486009,B68,,infant,821.8,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-25,primary,1.0,2.341
+SAMN12583225,PRJNA486009,B69,,infant,730.5,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-29,primary,1.0,2.221
+SAMN12583210,PRJNA486009,B89,,infant,395.7,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-10-03,primary,1.0,0.288
+SAMN12583211,PRJNA486009,E124,,infant,426.1,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-06-20,primary,1.0,3.154
+SAMN12583212,PRJNA486009,E158,,infant,395.7,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-10,primary,1.0,2.102
+SAMN12583226,PRJNA486009,E162,,child,2374.1,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-14,primary,1.0,1.453
+SAMN12583240,PRJNA486009,E184,,infant,487.0,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-21,primary,1.0,1.841
+SAMN12583227,PRJNA486009,E187,,infant,639.2,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-22,primary,1.0,2.518
+SAMN12583228,PRJNA486009,E205,,infant,639.2,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-07-31,primary,1.0,2.084
+SAMN12583213,PRJNA486009,E230,,infant,426.1,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-22,primary,1.0,2.554
+SAMN12583214,PRJNA486009,E26,,child,1552.3,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-05-09,primary,1.0,1.574
+SAMN12583215,PRJNA486009,E27,,infant,456.6,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-05-14,primary,1.0,2.2
+SAMN12583216,PRJNA486009,Q196,,child,1795.8,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-10-11,primary,1.0,0.327
+SAMN12583229,PRJNA486009,Q233,,infant,974.0,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-09-16,primary,1.0,2.636
+SAMN12583241,PRJNA486009,Q294,,infant,547.9,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-09-22,primary,1.0,3.903
+SAMN12583230,PRJNA486009,Q300,,child,1795.8,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-09-23,primary,1.0,2.836
+SAMN12583217,PRJNA486009,Q308,,infant,700.1,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-09-23,primary,1.0,2.941
+SAMN12583218,PRJNA486009,Q310,,infant,487.0,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-09-23,primary,1.0,2.035
+SAMN12583219,PRJNA486009,Q49,,infant,639.2,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-26,primary,1.0,2.148
+SAMN12583220,PRJNA486009,Q51,,child,1461.0,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-26,primary,1.0,0.276
+SAMN12583221,PRJNA486009,Q56,,infant,517.4,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-27,primary,1.0,2.129
+SAMN12583222,PRJNA486009,Q65,,infant,730.5,female,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-08-28,primary,1.0,1.795
+SAMN09833071,PRJNA486009,,,child,1308.8,male,EC,healthy_control,asymptomatic,,,no,2014-09-03,primary,1.0,2.653
+SAMN09833086,PRJNA486009,,,child,1339.2,male,EC,healthy_control,asymptomatic,,,no,2014-09-18,primary,1.0,3.03
+SAMN09833087,PRJNA486009,,,child,1704.5,male,EC,healthy_control,asymptomatic,,,no,2014-09-18,primary,1.0,1.515
+SAMN09833089,PRJNA486009,,,infant,974.0,male,EC,healthy_control,asymptomatic,,,no,2014-09-23,primary,1.0,4.286
+SAMN09833094,PRJNA486009,,,infant,913.1,female,EC,healthy_control,asymptomatic,,,no,2014-09-19,primary,1.0,2.314
+SAMN09833095,PRJNA486009,,,infant,487.0,female,EC,healthy_control,asymptomatic,,,no,2014-09-19,primary,1.0,2.254
+SAMN09833117,PRJNA486009,,,infant,395.7,male,EC,gi_infection_or_diarrhoea,diarrhea,,,no,2014-09-01,primary,1.0,3.106
+SAMN09833119,PRJNA486009,,,infant,669.6,male,EC,healthy_control,asymptomatic,,,no,2014-09-02,primary,1.0,2.172
+SAMN09833120,PRJNA486009,,,infant,669.6,male,EC,healthy_control,asymptomatic,,,no,2014-09-02,primary,1.0,3.187
+SAMN10908397,PRJNA486009,,,infant,365.25,male,EC,healthy_control,Healthy,,,no,2014-09-04,primary,1.0,1.595
+SAMN10908398,PRJNA486009,,,infant,365.25,male,EC,healthy_control,Healthy,,,no,2014-09-04,primary,1.0,2.291
+SAMN10908399,PRJNA486009,,,infant,365.25,male,EC,healthy_control,Healthy,,,no,2014-09-04,primary,1.0,2.233
+SAMN10908400,PRJNA486009,,,infant,730.5,male,EC,healthy_control,Healthy,,,no,2014-09-03,primary,1.0,2.473
+SAMN10908401,PRJNA486009,,,infant,730.5,female,EC,healthy_control,Healthy,,,no,2014-09-04,primary,1.0,1.905
+SAMN10908402,PRJNA486009,,,child,1826.25,male,EC,healthy_control,Healthy,,,no,2014-09-16,primary,1.0,2.291
+SAMN10908403,PRJNA486009,,,child,1461.0,female,EC,healthy_control,Healthy,,,no,2014-09-18,primary,1.0,2.678
+SAMN10908404,PRJNA486009,,,child,1461.0,female,EC,healthy_control,Healthy,,,no,2014-09-18,primary,1.0,2.641
+SAMN10908405,PRJNA486009,,,infant,365.25,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-09-19,primary,1.0,1.966
+SAMN10908406,PRJNA486009,,,infant,365.25,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-09-22,primary,1.0,2.367
+SAMN10908407,PRJNA486009,,,infant,1095.75,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-09-23,primary,1.0,2.818
+SAMN10908408,PRJNA486009,,,infant,365.25,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-10-14,primary,1.0,2.804
+SAMN10908409,PRJNA486009,,,infant,1095.75,female,EC,healthy_control,Healthy,,,no,2015-08-11,primary,1.0,2.745
+SAMN10908410,PRJNA486009,,,infant,730.5,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-08-14,primary,1.0,1.927
+SAMN10908411,PRJNA486009,,,infant,730.5,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-08-15,primary,1.0,2.45
+SAMN10908412,PRJNA486009,,,infant,730.5,male,EC,healthy_control,Healthy,,,no,2015-09-17,primary,1.0,2.641
+SAMN10908413,PRJNA486009,,,infant,365.25,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-09-20,primary,1.0,3.26
+SAMN10908414,PRJNA486009,,,infant,730.5,male,EC,healthy_control,Healthy,,,no,2015-09-20,primary,1.0,2.302
+SAMN10908415,PRJNA486009,,,child,1826.25,male,EC,healthy_control,Healthy,,,no,2015-09-21,primary,1.0,2.714
+SAMN10908416,PRJNA486009,,,child,1461.0,male,EC,healthy_control,Healthy,,,no,2015-09-21,primary,1.0,2.215
+SAMN10908417,PRJNA486009,,,infant,365.25,male,EC,healthy_control,Healthy,,,no,2015-09-21,primary,1.0,2.719
+SAMN10908418,PRJNA486009,,,infant,730.5,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-09-23,primary,1.0,3.052
+SAMN10908419,PRJNA486009,,,infant,365.25,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-10-15,primary,1.0,2.433
+SAMN10908420,PRJNA486009,,,infant,1095.75,male,EC,healthy_control,Healthy,,,no,2014-10-15,primary,1.0,2.517
+SAMN10908421,PRJNA486009,,,infant,365.25,female,EC,healthy_control,Healthy,,,no,2014-10-16,primary,1.0,2.096
+SAMN10908422,PRJNA486009,,,child,1461.0,male,EC,healthy_control,Healthy,,,no,2014-10-16,primary,1.0,2.965
+SAMN10908423,PRJNA486009,,,infant,730.5,female,EC,healthy_control,Healthy,,,no,2014-10-16,primary,1.0,2.222
+SAMN10908424,PRJNA486009,,,child,1826.25,female,EC,healthy_control,Healthy,,,no,2014-10-16,primary,1.0,2.225
+SAMN10908425,PRJNA486009,,,child,1461.0,male,EC,healthy_control,Healthy,,,no,2014-12-12,primary,1.0,2.554
+SAMN10908426,PRJNA486009,,,infant,1095.75,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-02-19,primary,1.0,2.213
+SAMN10908427,PRJNA486009,,,infant,730.5,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-10-14,primary,1.0,2.121
+SAMN10908428,PRJNA486009,,,infant,365.25,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2014-10-14,primary,1.0,2.216
+SAMN10908429,PRJNA486009,,,infant,730.5,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-06-17,primary,1.0,1.822
+SAMN10908430,PRJNA486009,,,infant,730.5,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-06-17,primary,1.0,1.429
+SAMN10908431,PRJNA486009,,,infant,365.25,female,EC,healthy_control,Healthy,,,no,2015-06-17,primary,1.0,2.064
+SAMN10908432,PRJNA486009,,,infant,365.25,male,EC,healthy_control,Healthy,,,no,2015-06-17,primary,1.0,1.803
+SAMN10908433,PRJNA486009,,,infant,365.25,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-06-18,primary,1.0,2.013
+SAMN10908434,PRJNA486009,,,infant,730.5,male,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-10-15,primary,1.0,2.275
+SAMN10908435,PRJNA486009,,,infant,365.25,female,EC,healthy_control,Healthy,,,no,2015-07-17,primary,1.0,1.687
+SAMN10908436,PRJNA486009,,,child,1461.0,male,EC,healthy_control,Healthy,,,no,2015-07-17,primary,1.0,2.771
+SAMN10908437,PRJNA486009,,,infant,730.5,female,EC,gi_infection_or_diarrhoea,Diarrhea,,,no,2015-07-17,primary,1.0,1.671
+SAMN10908438,PRJNA486009,,,infant,730.5,female,EC,healthy_control,Healthy,,,no,2015-07-27,primary,1.0,3.107
+SAMN34233824,PRJNA486009,,,neonate,0.0,male,EC,healthy_control,Control,,,,2014-06-24,primary,1.0,2.25
+SAMN34233825,PRJNA486009,,,neonate,0.0,male,EC,healthy_control,Control,,,,2014-10-10,primary,1.0,1.632
+SAMN34233826,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2015-01-26,primary,1.0,2.908
+SAMN34233827,PRJNA486009,,,child,2192.0,female,EC,healthy_control,Control,,,,2015-06-26,primary,1.0,2.455
+SAMN34233828,PRJNA486009,,,infant,365.2,female,EC,healthy_control,Control,,,,2015-07-28,primary,1.0,2.629
+SAMN34233829,PRJNA486009,,,infant,365.2,female,EC,healthy_control,Control,,,,2015-09-05,primary,1.0,2.817
+SAMN34233830,PRJNA486009,,,neonate,0.0,male,EC,healthy_control,Control,,,,2015-10-02,primary,1.0,2.42
+SAMN34233831,PRJNA486009,,,infant,1095.8,male,EC,healthy_control,Control,,,,2015-03-02,primary,1.0,1.929
+SAMN34233832,PRJNA486009,,,infant,730.0,male,EC,healthy_control,Control,,,,2015-06-06,primary,1.0,2.261
+SAMN34233833,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2015-06-27,primary,1.0,0.79
+SAMN34233834,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2014-06-02,primary,1.0,3.499
+SAMN34233835,PRJNA486009,,,child,2922.0,female,EC,healthy_control,Control,,,,2014-06-05,primary,1.0,2.537
+SAMN34233836,PRJNA486009,,,adult,20820.0,male,EC,healthy_control,Control,,,,2014-06-11,primary,1.0,3.231
+SAMN34233837,PRJNA486009,,,infant,1095.8,female,EC,healthy_control,Control,,,,2014-06-20,primary,1.0,3.324
+SAMN34233838,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2014-06-24,primary,1.0,2.765
+SAMN34233839,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2014-06-24,primary,1.0,2.219
+SAMN34233840,PRJNA486009,,,child,2922.0,female,EC,healthy_control,Control,,,,2014-07-16,primary,1.0,1.804
+SAMN34233841,PRJNA486009,,,child,1826.2,female,EC,gi_infection_or_diarrhoea,Case,,,,2014-08-26,primary,1.0,0.0
+SAMN34233842,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-01,primary,1.0,3.085
+SAMN34233843,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-02,primary,1.0,2.171
+SAMN34233844,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-02,primary,1.0,2.449
+SAMN34233845,PRJNA486009,,,infant,1095.8,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-03,primary,1.0,2.653
+SAMN34233846,PRJNA486009,,,neonate,0.0,female,EC,healthy_control,Control,,,,2014-09-12,primary,1.0,3.157
+SAMN34233847,PRJNA486009,,,infant,1095.8,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-18,primary,1.0,3.029
+SAMN34233848,PRJNA486009,,,child,1461.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-18,primary,1.0,1.515
+SAMN34233849,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-18,primary,1.0,4.284
+SAMN34233850,PRJNA486009,,,infant,730.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-19,primary,1.0,2.314
+SAMN34233851,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-19,primary,1.0,2.253
+SAMN34233852,PRJNA486009,,,neonate,0.0,male,EC,healthy_control,Control,,,,2014-09-24,primary,1.0,2.726
+SAMN34233853,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2014-10-15,primary,1.0,2.073
+SAMN34233854,PRJNA486009,,,infant,365.2,male,EC,healthy_control,Control,,,,2015-06-23,primary,1.0,3.603
+SAMN34233855,PRJNA486009,,,infant,730.0,female,EC,healthy_control,Control,,,,2015-06-23,primary,1.0,2.732
+SAMN34233856,PRJNA486009,,,infant,365.2,female,EC,gi_infection_or_diarrhoea,Case,,,,2015-08-22,primary,1.0,0.397
+SAMN34233857,PRJNA486009,,,child,2554.0,male,EC,healthy_control,Control,,,,2015-08-22,primary,1.0,2.856
+SAMN34572192,PRJNA486009,,,adult,10234.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-09,primary,1.0,0.019
+SAMN34572193,PRJNA486009,,,child,2554.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-16,primary,1.0,0.04
+SAMN34572194,PRJNA486009,,,adult,10234.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-22,primary,1.0,0.033
+SAMN34572195,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-02,primary,1.0,0.04
+SAMN34572196,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-02,primary,1.0,0.023
+SAMN34572197,PRJNA486009,,,child,2192.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-06,primary,1.0,0.07
+SAMN34572198,PRJNA486009,,,adult,6574.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-10,primary,1.0,0.193
+SAMN34572199,PRJNA486009,,,adult,6939.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-12,primary,1.0,0.023
+SAMN34572200,PRJNA486009,,,child,4019.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-13,primary,1.0,0.052
+SAMN34572201,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-18,primary,1.0,0.028
+SAMN34572202,PRJNA486009,,,adult,16069.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-18,primary,1.0,0.027
+SAMN34572203,PRJNA486009,,,adult,10957.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-27,primary,1.0,0.006
+SAMN34572204,PRJNA486009,,,infant,730.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-03,primary,1.0,0.036
+SAMN34572205,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-24,primary,1.0,0.029
+SAMN34572206,PRJNA486009,,,adult,8035.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-04,primary,1.0,0.011
+SAMN34572207,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-02,primary,1.0,0.038
+SAMN34572208,PRJNA486009,,,adult,9496.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-07,primary,1.0,0.031
+SAMN34572209,PRJNA486009,,,adult,6939.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-29,primary,1.0,0.032
+SAMN34572210,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-09-30,primary,1.0,0.027
+SAMN34572211,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-01,primary,1.0,0.032
+SAMN34572212,PRJNA486009,,,adult,17532.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-02,primary,1.0,0.018
+SAMN34572213,PRJNA486009,,,neonate,0.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-08,primary,1.0,0.019
+SAMN34572214,PRJNA486009,,,adult,16791.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-08,primary,1.0,0.037
+SAMN34572215,PRJNA486009,,,child,2554.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-10,primary,1.0,0.023
+SAMN34572216,PRJNA486009,,,adult,9857.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-10,primary,1.0,0.115
+SAMN34572217,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-10,primary,1.0,0.03
+SAMN34572218,PRJNA486009,,,infant,1095.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-15,primary,1.0,0.044
+SAMN34572219,PRJNA486009,,,child,1461.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-15,primary,1.0,0.048
+SAMN34572220,PRJNA486009,,,adult,10601.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-27,primary,1.0,0.021
+SAMN34572221,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-10-30,primary,1.0,0.037
+SAMN34572222,PRJNA486009,,,child,1826.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-11-09,primary,1.0,0.019
+SAMN34572223,PRJNA486009,,,child,2922.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-11-17,primary,1.0,0.035
+SAMN34572224,PRJNA486009,,,child,2554.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-12-05,primary,1.0,0.052
+SAMN34572225,PRJNA486009,,,adult,19706.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-12-05,primary,1.0,0.016
+SAMN34572226,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-12-05,primary,1.0,0.029
+SAMN34572227,PRJNA486009,,,adult,6574.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-12-09,primary,1.0,0.011
+SAMN34572228,PRJNA486009,,,child,1461.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-12-14,primary,1.0,0.038
+SAMN34572229,PRJNA486009,,,adolescent,5479.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-08,primary,1.0,0.021
+SAMN34572230,PRJNA486009,,,child,1826.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-11,primary,1.0,0.01
+SAMN34572231,PRJNA486009,,,child,1461.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-11,primary,1.0,0.06
+SAMN34572232,PRJNA486009,,,child,1461.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-23,primary,1.0,0.061
+SAMN34572233,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-22,primary,1.0,0.099
+SAMN34572234,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-24,primary,1.0,0.047
+SAMN34572235,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-26,primary,1.0,0.05
+SAMN34572236,PRJNA486009,,,child,2922.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-02-09,primary,1.0,0.01
+SAMN34572237,PRJNA486009,,,adolescent,5479.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-02-11,primary,1.0,0.016
+SAMN34572238,PRJNA486009,,,adolescent,4383.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-02-11,primary,1.0,0.026
+SAMN34572239,PRJNA486009,,,adolescent,4383.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-03,primary,1.0,0.023
+SAMN34572240,PRJNA486009,,,adult,13878.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-18,primary,1.0,0.013
+SAMN34572241,PRJNA486009,,,adolescent,5844.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-27,primary,1.0,0.016
+SAMN34572242,PRJNA486009,,,child,3652.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-28,primary,1.0,0.032
+SAMN34572243,PRJNA486009,,,adolescent,6205.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-05,primary,1.0,0.03
+SAMN34572244,PRJNA486009,,,adult,12783.8,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-07,primary,1.0,0.031
+SAMN34572245,PRJNA486009,,,elderly,25550.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-07,primary,1.0,0.01
+SAMN34572246,PRJNA486009,,,infant,730.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-11,primary,1.0,0.031
+SAMN34572247,PRJNA486009,,,child,1461.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-14,primary,1.0,0.021
+SAMN34572248,PRJNA486009,,,adolescent,5479.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-20,primary,1.0,0.01
+SAMN34572249,PRJNA486009,,,adult,6574.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-21,primary,1.0,0.013
+SAMN34572250,PRJNA486009,,,adolescent,4383.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-04,primary,1.0,0.021
+SAMN34572251,PRJNA486009,,,adult,7305.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-09,primary,1.0,0.029
+SAMN34572252,PRJNA486009,,,adult,16791.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-11,primary,1.0,0.023
+SAMN34572253,PRJNA486009,,,child,2192.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-12,primary,1.0,0.021
+SAMN34572254,PRJNA486009,,,adolescent,5479.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-13,primary,1.0,0.014
+SAMN34572255,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-14,primary,1.0,0.03
+SAMN34572256,PRJNA486009,,,adult,13504.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-14,primary,1.0,0.127
+SAMN34572257,PRJNA486009,,,adult,8391.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-15,primary,1.0,0.012
+SAMN34572258,PRJNA486009,,,adult,7305.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-15,primary,1.0,0.007
+SAMN34572259,PRJNA486009,,,adult,13878.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-17,primary,1.0,0.043
+SAMN34572260,PRJNA486009,,,adult,23376.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-21,primary,1.0,0.025
+SAMN34572261,PRJNA486009,,,child,1826.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-22,primary,1.0,0.037
+SAMN34572262,PRJNA486009,,,adult,10601.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-23,primary,1.0,0.01
+SAMN34572263,PRJNA486009,,,neonate,0.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-27,primary,1.0,0.014
+SAMN34572264,PRJNA486009,,,adult,10601.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-28,primary,1.0,0.048
+SAMN34572265,PRJNA486009,,,elderly,31016.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-01,primary,1.0,0.022
+SAMN34572266,PRJNA486009,,,adult,14239.8,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-05,primary,1.0,0.013
+SAMN34572267,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-13,primary,1.0,0.028
+SAMN34572268,PRJNA486009,,,adult,8035.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-11,primary,1.0,0.019
+SAMN34572269,PRJNA486009,,,adult,10957.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-17,primary,1.0,0.008
+SAMN34572270,PRJNA486009,,,adult,7670.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-18,primary,1.0,0.016
+SAMN34572271,PRJNA486009,,,adult,7670.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-19,primary,1.0,0.077
+SAMN34572272,PRJNA486009,,,adult,9496.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-19,primary,1.0,0.049
+SAMN34572273,PRJNA486009,,,adult,9857.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-20,primary,1.0,0.025
+SAMN34572274,PRJNA486009,,,adult,12417.9,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-20,primary,1.0,0.008
+SAMN34572275,PRJNA486009,,,adult,16069.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-20,primary,1.0,0.256
+SAMN34572276,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-20,primary,1.0,0.031
+SAMN34572277,PRJNA486009,,,child,2192.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-26,primary,1.0,0.026
+SAMN34572278,PRJNA486009,,,adult,14975.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-03,primary,1.0,0.399
+SAMN34572279,PRJNA486009,,,adult,16069.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-04,primary,1.0,0.042
+SAMN34572280,PRJNA486009,,,adult,16436.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-09,primary,1.0,0.126
+SAMN34572281,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-07,primary,1.0,0.032
+SAMN34572282,PRJNA486009,,,adult,13149.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-10,primary,1.0,0.015
+SAMN34572283,PRJNA486009,,,adult,9131.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-11,primary,1.0,0.007
+SAMN34572284,PRJNA486009,,,adult,9131.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-11,primary,1.0,0.031
+SAMN34572285,PRJNA486009,,,adult,14239.8,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-11,primary,1.0,0.123
+SAMN34572286,PRJNA486009,,,adult,7305.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-11,primary,1.0,0.008
+SAMN34572287,PRJNA486009,,,adult,6939.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-11,primary,1.0,0.008
+SAMN34572288,PRJNA486009,,,adult,10601.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-11,primary,1.0,0.041
+SAMN34572289,PRJNA486009,,,child,2922.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-16,primary,1.0,0.059
+SAMN34572290,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-28,primary,1.0,0.026
+SAMN34572291,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-05,primary,1.0,0.038
+SAMN34572292,PRJNA486009,,,adult,18627.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-20,primary,1.0,0.036
+SAMN34572293,PRJNA486009,,,adolescent,6205.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-21,primary,1.0,0.045
+SAMN34572294,PRJNA486009,,,infant,1095.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-28,primary,1.0,0.018
+SAMN34572295,PRJNA486009,,,elderly,24106.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-09-02,primary,1.0,0.036
+SAMN34572296,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-09-05,primary,1.0,0.022
+SAMN34572297,PRJNA486009,,,adult,12043.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-09-06,primary,1.0,0.02
+SAMN34572298,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-09-17,primary,1.0,0.027
+SAMN34572299,PRJNA486009,,,adolescent,4383.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-09-28,primary,1.0,0.02
+SAMN34572300,PRJNA486009,,,elderly,25550.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-10-02,primary,1.0,0.016
+SAMN34572301,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-10-02,primary,1.0,0.03
+SAMN34572302,PRJNA486009,,,child,2554.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-14,primary,1.0,0.04
+SAMN34572303,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-14,primary,1.0,0.03
+SAMN34572304,PRJNA486009,,,child,3287.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-01-15,primary,1.0,0.038
+SAMN34572305,PRJNA486009,,,child,1461.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-02-25,primary,1.0,0.025
+SAMN34572306,PRJNA486009,,,infant,730.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-02,primary,1.0,0.021
+SAMN34572307,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-02,primary,1.0,0.032
+SAMN34572308,PRJNA486009,,,adolescent,5479.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-02,primary,1.0,0.034
+SAMN34572309,PRJNA486009,,,infant,1095.8,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-03-02,primary,1.0,0.026
+SAMN34572310,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-14,primary,1.0,0.039
+SAMN34572311,PRJNA486009,,,child,1461.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-04-20,primary,1.0,0.021
+SAMN34572312,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-05,primary,1.0,0.033
+SAMN34572313,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-04,primary,1.0,0.021
+SAMN34572314,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-04,primary,1.0,0.023
+SAMN34572315,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-06,primary,1.0,0.028
+SAMN34572316,PRJNA486009,,,adult,13504.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-11,primary,1.0,0.032
+SAMN34572317,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-27,primary,1.0,0.017
+SAMN34572318,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-06-27,primary,1.0,0.043
+SAMN34572319,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-07-28,primary,1.0,0.046
+SAMN34572320,PRJNA486009,,,infant,1095.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-01,primary,1.0,0.024
+SAMN34572321,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-02,primary,1.0,0.019
+SAMN34572322,PRJNA486009,,,adult,9857.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-02,primary,1.0,0.033
+SAMN34572323,PRJNA486009,,,adult,13878.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-19,primary,1.0,0.026
+SAMN34572324,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-22,primary,1.0,0.026
+SAMN34572325,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-08-22,primary,1.0,0.029
+SAMN34572326,PRJNA486009,,,infant,1095.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-09-16,primary,1.0,0.032
+SAMN34572327,PRJNA486009,,,adolescent,4748.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-04-28,primary,1.0,0.095
+SAMN34572328,PRJNA486009,,,child,1826.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2015-05-06,primary,1.0,0.041
+SAMN34572329,PRJNA486009,,,child,1461.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-09,primary,1.0,0.057
+SAMN34572330,PRJNA486009,,,adolescent,4748.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-04,primary,1.0,0.066
+SAMN34572331,PRJNA486009,,,adolescent,4748.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-16,primary,1.0,0.352
+SAMN34572332,PRJNA486009,,,adult,8766.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-16,primary,1.0,0.066
+SAMN34572333,PRJNA486009,,,child,2554.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-20,primary,1.0,0.073
+SAMN34572334,PRJNA486009,,,adult,10601.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-21,primary,1.0,0.13
+SAMN34572335,PRJNA486009,,,adult,10957.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-28,primary,1.0,0.005
+SAMN34572336,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-05-28,primary,1.0,0.027
+SAMN34572337,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-02,primary,1.0,0.047
+SAMN34572338,PRJNA486009,,,infant,730.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-02,primary,1.0,0.037
+SAMN34572339,PRJNA486009,,,child,4019.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-02,primary,1.0,0.04
+SAMN34572340,PRJNA486009,,,child,2922.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-05,primary,1.0,0.071
+SAMN34572341,PRJNA486009,,,adult,10234.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-09,primary,1.0,0.563
+SAMN34572342,PRJNA486009,,,child,2922.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-05,primary,1.0,0.049
+SAMN34572343,PRJNA486009,,,adult,21177.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-10,primary,1.0,0.064
+SAMN34572344,PRJNA486009,,,adult,20820.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-11,primary,1.0,0.052
+SAMN34572345,PRJNA486009,,,adult,10601.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-11,primary,1.0,0.042
+SAMN34572346,PRJNA486009,,,adult,7670.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-11,primary,1.0,0.08
+SAMN34572347,PRJNA486009,,,child,1461.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-16,primary,1.0,0.079
+SAMN34572348,PRJNA486009,,,child,2554.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-18,primary,1.0,0.085
+SAMN34572349,PRJNA486009,,,adult,22980.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-19,primary,1.0,0.174
+SAMN34572350,PRJNA486009,,,adolescent,5113.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-19,primary,1.0,0.015
+SAMN34572351,PRJNA486009,,,infant,1095.8,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-20,primary,1.0,0.198
+SAMN34572352,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-20,primary,1.0,0.041
+SAMN34572353,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-24,primary,1.0,0.018
+SAMN34572354,PRJNA486009,,,child,2192.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-24,primary,1.0,0.158
+SAMN34572355,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-24,primary,1.0,0.257
+SAMN34572356,PRJNA486009,,,child,3652.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-24,primary,1.0,0.051
+SAMN34572357,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-27,primary,1.0,0.147
+SAMN34572358,PRJNA486009,,,adult,10601.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-27,primary,1.0,0.195
+SAMN34572359,PRJNA486009,,,child,1461.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-06-27,primary,1.0,0.034
+SAMN34572360,PRJNA486009,,,adult,13149.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-01,primary,1.0,0.031
+SAMN34572361,PRJNA486009,,,elderly,25190.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-01,primary,1.0,0.06
+SAMN34572362,PRJNA486009,,,child,2922.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-07,primary,1.0,0.335
+SAMN34572363,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-10,primary,1.0,0.011
+SAMN34572364,PRJNA486009,,,child,2192.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-14,primary,1.0,0.011
+SAMN34572365,PRJNA486009,,,child,3652.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-15,primary,1.0,0.019
+SAMN34572366,PRJNA486009,,,child,2922.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-16,primary,1.0,0.029
+SAMN34572367,PRJNA486009,,,adult,6574.5,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-16,primary,1.0,0.017
+SAMN34572368,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-17,primary,1.0,0.011
+SAMN34572369,PRJNA486009,,,elderly,28124.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-17,primary,1.0,0.037
+SAMN34572370,PRJNA486009,,,infant,730.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-18,primary,1.0,0.031
+SAMN34572371,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-18,primary,1.0,0.009
+SAMN34572372,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-21,primary,1.0,0.132
+SAMN34572373,PRJNA486009,,,adult,8391.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-22,primary,1.0,0.101
+SAMN34572374,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-22,primary,1.0,0.045
+SAMN34572375,PRJNA486009,,,adolescent,4748.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-22,primary,1.0,0.035
+SAMN34572376,PRJNA486009,,,child,3287.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-23,primary,1.0,0.088
+SAMN34572377,PRJNA486009,,,neonate,0.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-23,primary,1.0,0.027
+SAMN34572378,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-30,primary,1.0,0.081
+SAMN34572379,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-31,primary,1.0,0.068
+SAMN34572380,PRJNA486009,,,adult,21915.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-07-31,primary,1.0,0.129
+SAMN34572381,PRJNA486009,,,elderly,24106.5,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-08,primary,1.0,0.048
+SAMN34572382,PRJNA486009,,,infant,730.0,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-13,primary,1.0,0.059
+SAMN34572383,PRJNA486009,,,adolescent,5479.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-13,primary,1.0,0.121
+SAMN34572384,PRJNA486009,,,neonate,0.0,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-19,primary,1.0,0.039
+SAMN34572385,PRJNA486009,,,infant,365.2,male,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-22,primary,1.0,0.071
+SAMN34572386,PRJNA486009,,,infant,365.2,female,EC,,mixed_case_control: diarrhea cases vs. controls without diarrhea,,,,2014-08-29,primary,1.0,0.055

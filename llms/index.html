@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>For LLMs & API — Microbiome Repo</title>
+<meta name="description" content="How to let an LLM or a script search Microbiome Repo: a copy-paste prompt, llms.txt, and static JSON / CSV endpoints by intervention, health condition and age.">
+<meta name="catalog-release" content="data-v1.17.0">
+<meta name="catalog-release-id" content="R2026.18">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/llms/index.html">
+<meta name="catalog-package-version" content="1.17.0">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../samples/index.html" >Sample sheet</a>
+<a href="../studies/index.html" >Project sheet</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html" class="active">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+</div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › For LLMs &amp; API</div>
+
+<h1>For LLMs &amp; API</h1>
+<p class="lead">Ask an AI assistant to search the catalog for you. Paste the prompt below into ChatGPT, Claude, Gemini or any assistant that can open web links, then add your question at the end.</p>
+<div class="note"><b>Prompt to paste</b>
+<pre id="llm-prompt" class="prompt">Help me find human gut metagenome datasets using Microbiome Repo. First read https://olmlab.github.io/microbiome_repo/llms.txt and follow it exactly: fetch the JSON/CSV files it points to (do not guess or rely on memory), filter them for my question, and answer with a table of BioProject accessions, sample counts, the relevant groups/arms and a link to each project page. My question: …</pre>
+<button type="button" class="btn" id="copy-prompt">Copy prompt</button> <span class="small" id="copied"></span>
+<p class="small" style="margin-top:.5rem">Example questions: <i>probiotic trials where both treated and placebo samples have metagenomes</i> · <i>ulcerative colitis FMT studies</i> · <i>adult colorectal cancer cohorts with healthy controls</i> · <i>infant samples from Finland with exact ages</i>.</p></div>
+
+<h2>How the search works</h2>
+<ol>
+<li><b>Start from a slice.</b> Small files list the projects for one intervention, health condition or age group:
+<ul><li>by intervention: <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/fmt.json">fmt</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/probiotic.json">probiotic</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/prebiotic_or_fibre.json">prebiotic_or_fibre</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/synbiotic.json">synbiotic</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/live_biotherapeutic.json">live_biotherapeutic</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/antibiotic.json">antibiotic</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/diet_intervention.json">diet_intervention</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/dietary_supplement.json">dietary_supplement</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/drug_therapy.json">drug_therapy</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/surgery.json">surgery</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/bowel_preparation.json">bowel_preparation</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/exercise.json">exercise</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/vaccine.json">vaccine</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/phage_therapy.json">phage_therapy</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-intervention/other_intervention.json">other_intervention</a></li>
+<li>by age: <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-age/neonate.json">neonate</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-age/infant.json">infant</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-age/child.json">child</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-age/adolescent.json">adolescent</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-age/adult.json">adult</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-age/elderly.json">elderly</a></li>
+<li>by health condition: <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/allergy_or_atopy.json">allergy_or_atopy</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/autoimmune_inflammatory.json">autoimmune_inflammatory</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/cardiometabolic_other.json">cardiometabolic_other</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/colorectal_adenoma.json">colorectal_adenoma</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/colorectal_cancer.json">colorectal_cancer</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/crohns_disease.json">crohns_disease</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/gi_infection_or_diarrhoea.json">gi_infection_or_diarrhoea</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/healthy_control.json">healthy_control</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/ibd_or_gi_disease.json">ibd_or_gi_disease</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/ibd_unspecified.json">ibd_unspecified</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/ibs.json">ibs</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/intervention_cohort.json">intervention_cohort</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/kidney_disease.json">kidney_disease</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/liver_disease.json">liver_disease</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/malnutrition.json">malnutrition</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/nec.json">nec</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/neurological_psychiatric.json">neurological_psychiatric</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/obesity.json">obesity</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/other_cancer.json">other_cancer</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/other_disease.json">other_disease</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/other_infection.json">other_infection</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/pregnancy_postpartum.json">pregnancy_postpartum</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/preterm_nicu.json">preterm_nicu</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/sepsis_or_infection.json">sepsis_or_infection</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/transplant_or_immunocompromised.json">transplant_or_immunocompromised</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/type1_diabetes.json">type1_diabetes</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/type2_diabetes.json">type2_diabetes</a> · <a class="mono" href="https://olmlab.github.io/microbiome_repo/api/by-condition/ulcerative_colitis.json">ulcerative_colitis</a></li></ul></li>
+<li><b>Combine.</b> Every project record has the same keys — e.g. take <span class="mono">by-intervention/probiotic.json</span> and keep projects whose <span class="mono">health_conditions</span> include <span class="mono">crohns_disease</span>: that is "Crohn's + probiotic".</li>
+<li><b>Open the samples.</b> <span class="mono">api/samples/&lt;ACCESSION&gt;.csv</span> lists every sample with its arm (<span class="mono">intervention</span>: probiotic / placebo / no_intervention …), condition, age, country and sequencing depth.</li>
+</ol>
+<p>The same filters are on the <a href="../studies/index.html">Project sheet</a> (health condition × intervention × design × "treated &amp; control arms") and the <a href="../samples/index.html">Sample sheet</a>.</p>
+
+<h2>Endpoints</h2>
+<table class="tbl small"><thead><tr><th>file</th><th>contents</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../llms.txt">llms.txt</a></td><td>plain-text instructions an assistant reads first (the prompt points here)</td></tr>
+<tr><td><a class="mono" href="../api/index.json">api/index.json</a></td><td>endpoint list, meaning of every key, counts</td></tr>
+<tr><td><a class="mono" href="../api/vocabularies.json">api/vocabularies.json</a></td><td>codes and labels: health conditions, interventions, designs, age categories</td></tr>
+<tr><td><a class="mono" href="../api/projects.json">api/projects.json</a></td><td>all 2,866 projects (≈ 2 MB; better for scripts)</td></tr>
+<tr><td class="mono">api/by-intervention/&lt;code&gt;.json · api/by-condition/&lt;code&gt;.json · api/by-age/&lt;category&gt;.json</td><td>the slices above</td></tr>
+<tr><td class="mono">api/samples/&lt;ACCESSION&gt;.csv</td><td>per-project sample sheet (plain CSV, key columns)</td></tr>
+<tr><td><a class="mono" href="../data/gut_sample_metadata_wide.parquet">data/gut_sample_metadata_wide.parquet</a></td><td>every sample, every field (for DuckDB / pandas / R)</td></tr>
+</tbody></table>
+<p class="small">The API is a set of static files regenerated with every release (release <span class="mono">R2026.18</span>); URLs are stable. No key, no rate limit beyond GitHub Pages'. Values are evidence-linked claims — the evidence for each is on the project page.</p>
+
+<h2>Project record keys</h2>
+<table class="tbl small"><tbody><tr><td class="mono">accession</td><td>BioProject accession</td></tr><tr><td class="mono">title</td><td>project title</td></tr><tr><td class="mono">n_samples</td><td>curated catalog samples</td></tr><tr><td class="mono">gbp_per_sample_median</td><td>median sequencing depth per sample (Gbp)</td></tr><tr><td class="mono">health_conditions</td><td>code -&gt; number of samples</td></tr><tr><td class="mono">age_categories</td><td>life stage -&gt; number of samples</td></tr><tr><td class="mono">countries</td><td>country -&gt; number of samples</td></tr><tr><td class="mono">sex</td><td>sex -&gt; number of samples</td></tr><tr><td class="mono">interventions</td><td>interventions the study ADMINISTERED (study level, from abstract / description; [] = none stated)</td></tr><tr><td class="mono">intervention_design</td><td>randomized_controlled_trial | non_randomized_controlled | crossover | single_arm_before_after | observational_with_procedure | none | unknown</td></tr><tr><td class="mono">intervention_detail</td><td>short free text naming agent / regimen</td></tr><tr><td class="mono">trial_population_condition</td><td>underlying condition of the trial population</td></tr><tr><td class="mono">sample_intervention_arms</td><td>code -&gt; number of samples whose own archive record states the arm (placebo / no_intervention = controls / baselines)</td></tr><tr><td class="mono">has_cases_and_healthy_controls</td><td>&gt;= 3 healthy_control samples and &gt;= 3 samples with a disease code</td></tr><tr><td class="mono">has_treated_and_control_arms</td><td>&gt;= 3 samples in an active arm and &gt;= 3 placebo / no_intervention samples (archive attributes)</td></tr><tr><td class="mono">papers</td><td>up to 5 linked papers</td></tr><tr><td class="mono">urls</td><td>page, samples_csv (plain CSV), samples_full_csv_gz, evidence_csv_gz, ena</td></tr></tbody></table>
+
+<h2>llms.txt</h2>
+<pre class="prompt small" style="max-height:28rem;overflow:auto"># Microbiome Repo — instructions for LLMs and agents
+&gt; Evidence-linked metadata for every public human gut shotgun metagenome (all ages): 2,866 projects (INSDC BioProjects), 572,830 samples. Release R2026.18 (package 1.17.0).
+
+Use ONLY the files below; fetch them, do not guess accessions or counts. All files are plain JSON / CSV at stable URLs.
+
+## How to search (do this in order)
+1. Choose the most specific slice and fetch it:
+   - by intervention the study administered: https://olmlab.github.io/microbiome_repo/api/by-intervention/&lt;code&gt;.json   (codes: fmt, probiotic, prebiotic_or_fibre, synbiotic, live_biotherapeutic, antibiotic, diet_intervention, dietary_supplement, drug_therapy, surgery, bowel_preparation, exercise, vaccine, phage_therapy, other_intervention)
+   - by health condition: https://olmlab.github.io/microbiome_repo/api/by-condition/&lt;code&gt;.json   (codes in https://olmlab.github.io/microbiome_repo/api/vocabularies.json, e.g. ulcerative_colitis, crohns_disease, ibd_unspecified, colorectal_cancer, type2_diabetes, obesity, healthy_control)
+   - by age category: https://olmlab.github.io/microbiome_repo/api/by-age/&lt;neonate|infant|child|adolescent|adult|elderly&gt;.json
+   - everything (large, ~2 MB): https://olmlab.github.io/microbiome_repo/api/projects.json
+2. Filter the slice&#39;s `projects` on the other keys: `health_conditions` (code -&gt; samples), `interventions`, `intervention_design`, `trial_population_condition`,
+   `sample_intervention_arms`, `has_cases_and_healthy_controls`, `has_treated_and_control_arms`, `n_samples`, `countries`, `age_categories`, `gbp_per_sample_median`.
+3. For each candidate fetch `urls.samples_csv` (https://olmlab.github.io/microbiome_repo/api/samples/&lt;ACCESSION&gt;.csv): one row per sample with subject_id, timepoint_label, age_category,
+   age_at_collection_days, sex, country, health_condition, intervention (this sample&#39;s arm), antibiotic_exposure, collection_date, n_runs, seq_gbp.
+4. Answer with accessions, sample counts per group/arm, and links (`urls.page`, `urls.ena`). Say when a value is missing rather than inferring it.
+
+## Meaning of the key fields
+- `interventions` = what the investigators ADMINISTERED (FMT, probiotic, diet, drug …), study level, read from the abstract / BioProject description. [] = none stated.
+- `sample_intervention_arms` / sample column `intervention` = the arm recorded in the archive for that sample; `placebo` and `no_intervention` are the controls / baselines.
+- `health_conditions` counts each sample&#39;s own condition; `trial_population_condition` is the condition of a trial&#39;s participants (e.g. ulcerative_colitis for a UC FMT trial).
+- An &#34;IBD + FMT study&#34; = by-intervention/fmt.json filtered to projects whose health_conditions or trial_population_condition include ulcerative_colitis, crohns_disease or ibd_unspecified.
+
+## Worked examples
+- &#34;Probiotic trials where both treated and control samples have metagenomes&#34;: fetch https://olmlab.github.io/microbiome_repo/api/by-intervention/probiotic.json; keep projects with
+  intervention_design in (randomized_controlled_trial, crossover, non_randomized_controlled) OR has_treated_and_control_arms = true. has_treated_and_control_arms = true
+  means the archive labels each sample&#39;s arm (best case); for the others read the samples_csv (intervention, timepoint_label, subject_id) and the paper to split arms.
+- &#34;Ulcerative colitis FMT studies&#34;: fetch https://olmlab.github.io/microbiome_repo/api/by-intervention/fmt.json; keep trial_population_condition = ulcerative_colitis or health_conditions containing ulcerative_colitis.
+- &#34;Adult colorectal-cancer case-control cohorts with healthy controls&#34;: fetch https://olmlab.github.io/microbiome_repo/api/by-condition/colorectal_cancer.json; keep has_cases_and_healthy_controls = true and age_categories containing adult.
+- &#34;Infant gut samples from Finland&#34;: fetch https://olmlab.github.io/microbiome_repo/api/by-age/infant.json; keep countries containing Finland; then read samples_csv.
+
+## For code-running agents
+DuckDB can query the full per-sample table over HTTP:
+  INSTALL httpfs; LOAD httpfs;
+  SELECT study_accession, intervention, count(*) FROM read_parquet(&#39;https://olmlab.github.io/microbiome_repo/data/gut_sample_metadata_wide.parquet&#39;) WHERE health_condition IN (&#39;ulcerative_colitis&#39;,&#39;crohns_disease&#39;) GROUP BY ALL;
+Study-level columns (interventions, intervention_design, population_condition …): https://olmlab.github.io/microbiome_repo/data/gut_studies.parquet. Field definitions: https://olmlab.github.io/microbiome_repo/fields/index.html.
+
+## Caveats
+Values are evidence-linked claims (route R1 archive attribute &gt; R2 supplementary table &gt; R3 paper text &gt; R4 abstract), not ground truth; study-level
+interventions come from abstracts and may miss arms; every value&#39;s evidence is on the project page. Cite: Microbiome Repo, release R2026.18 (data package 1.17.0), OlmLab, 2026-10-09.
+</pre>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> — release <a href="../downloads/index.html#rel-R2026.18"><span class="mono">R2026.18</span></a> · package <span class="mono">1.17.0</span> · build <span class="mono">b3714d4</span> · built 2026-10-09 · data tag <span class="mono">data-v1.17.0</span> · DOI (all versions) <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> (<a href="../data/VERSION.json">VERSION.json</a>, <a href="../changes/R2026.18.html">what changed</a>, <a href="../docs/CHANGELOG.html">changelog</a>). Curated tables (registry_*, gut_* and the infant extension) are released under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>; archive metadata remains under INSDC terms; community profiles from <a href="https://sandpiper.qut.edu.au/">Sandpiper</a> (Woodcroft et al. 2025, CC-BY).</div>
+<div>How to cite: <i>Microbiome Repo, release R2026.18 (data package 1.17.0), OlmLab, 2026-10-09.</i> · <a href="../about/index.html">About</a> · <a href="../about/sources.html">Sources and acknowledgements</a> · created in the <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a>, funded by <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic&#39;s AI for Science program</a></div>
+<div>Caveats: every value carries a route (R1 archive attribute, R2 supplementary table, R3 paper text, R4 abstract/description), a scope and a confidence tier (not a calibrated probability); R3/R4 values are cohort-wide statements applied to the study's samples — see <a href="../fields/index.html">Fields</a> and <a href="../about/methods.html#limitations">Methods › Limitations</a>. Built with an LLM-assisted pipeline; treat individual values as evidence-linked claims, not ground truth. Found an error? Every study and cohort page has a <b>Flag an issue</b> link that opens a short prefilled GitHub issue. Know a study's missing metadata? See <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+<script>window.CATALOG={version:'1.17.0',release:'data-v1.17.0',releaseId:'R2026.18',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+<script>
+document.getElementById('copy-prompt').addEventListener('click', async () => {
+  const t = document.getElementById('llm-prompt').textContent.replace(/…$/, '');
+  try { await navigator.clipboard.writeText(t); document.getElementById('copied').textContent = 'copied — now add your question'; }
+  catch (e) { document.getElementById('copied').textContent = 'select the text above and copy it'; }
+});
+</script>
+
+</body>
+</html>
