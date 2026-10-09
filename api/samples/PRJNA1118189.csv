@@ -1,0 +1,83 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN59740919,PRJNA1118189,001,,child,2556.8,female,CN,other_disease,CFM_Oral_metagenome_001,,,,2023,excluded,1.0,12.144
+SAMN59740953,PRJNA1118189,001,,child,3287.2,male,CN,healthy_control,Ctrl_Oral_metagenome_001,,,,2023,excluded,1.0,12.336
+SAMN59918601,PRJNA1118189,001,,child,,,CN,other_disease,CFM_gut_metagenome_001,,,,2023,primary,1.0,12.273
+SAMN59918614,PRJNA1118189,001,,child,,,CN,healthy_control,Ctrl_gut_metagenome_001,,,,2023,primary,1.0,11.634
+SAMN59740920,PRJNA1118189,002,,child,2922.0,female,CN,other_disease,CFM_Oral_metagenome_002,,,,2023,excluded,1.0,11.077
+SAMN59740954,PRJNA1118189,002,,child,2191.5,female,CN,healthy_control,Ctrl_Oral_metagenome_002,,,,2023,excluded,1.0,11.676
+SAMN59918602,PRJNA1118189,002,,child,,,CN,other_disease,CFM_gut_metagenome_002,,,,2023,primary,1.0,11.751
+SAMN59918615,PRJNA1118189,002,,child,,,CN,healthy_control,Ctrl_gut_metagenome_002,,,,2023,primary,1.0,11.605
+SAMN59740921,PRJNA1118189,003,,adolescent,4383.0,male,CN,other_disease,CFM_Oral_metagenome_003,,,,2023,excluded,1.0,11.639
+SAMN59740955,PRJNA1118189,003,,child,2922.0,female,CN,healthy_control,Ctrl_Oral_metagenome_003,,,,2023,excluded,1.0,12.189
+SAMN59918603,PRJNA1118189,003,,child,,,CN,other_disease,CFM_gut_metagenome_003,,,,2023,primary,1.0,11.934
+SAMN59918616,PRJNA1118189,003,,child,,,CN,healthy_control,Ctrl_gut_metagenome_003,,,,2023,primary,1.0,11.519
+SAMN59740922,PRJNA1118189,004,,child,2922.0,female,CN,other_disease,CFM_Oral_metagenome_004,,,,2023,excluded,1.0,11.729
+SAMN59740956,PRJNA1118189,004,,child,2556.8,female,CN,healthy_control,Ctrl_Oral_metagenome_004,,,,2023,excluded,1.0,11.602
+SAMN59918604,PRJNA1118189,004,,child,,,CN,other_disease,CFM_gut_metagenome_004,,,,2023,primary,1.0,10.982
+SAMN59918617,PRJNA1118189,004,,child,,,CN,healthy_control,Ctrl_gut_metagenome_004,,,,2023,primary,1.0,11.542
+SAMN59740923,PRJNA1118189,005,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_005,,,,2023,excluded,1.0,11.638
+SAMN59740957,PRJNA1118189,005,,child,2556.8,male,CN,healthy_control,Ctrl_Oral_metagenome_005,,,,2023,excluded,1.0,10.903
+SAMN59918605,PRJNA1118189,005,,child,,,CN,other_disease,CFM_gut_metagenome_005,,,,2023,primary,1.0,12.286
+SAMN59918618,PRJNA1118189,005,,child,,,CN,healthy_control,Ctrl_gut_metagenome_005,,,,2023,primary,1.0,12.461
+SAMN59740924,PRJNA1118189,006,,child,3652.5,male,CN,other_disease,CFM_Oral_metagenome_006,,,,2023,excluded,1.0,11.333
+SAMN59740958,PRJNA1118189,006,,adolescent,4383.0,male,CN,healthy_control,Ctrl_Oral_metagenome_006,,,,2023,excluded,1.0,12.324
+SAMN59918606,PRJNA1118189,006,,child,,,CN,other_disease,CFM_gut_metagenome_006,,,,2023,primary,1.0,11.868
+SAMN59918619,PRJNA1118189,006,,child,,,CN,healthy_control,Ctrl_gut_metagenome_006,,,,2023,primary,1.0,12.286
+SAMN59740925,PRJNA1118189,007,,child,2922.0,female,CN,other_disease,CFM_Oral_metagenome_007,,,,2023,excluded,1.0,11.201
+SAMN59740959,PRJNA1118189,007,,child,3287.2,female,CN,healthy_control,Ctrl_Oral_metagenome_007,,,,2023,excluded,1.0,11.509
+SAMN59918607,PRJNA1118189,007,,child,,,CN,other_disease,CFM_gut_metagenome_007,,,,2023,primary,1.0,12.2
+SAMN59918620,PRJNA1118189,007,,child,,,CN,healthy_control,Ctrl_gut_metagenome_007,,,,2023,primary,1.0,12.375
+SAMN59740926,PRJNA1118189,008,,child,3287.2,female,CN,other_disease,CFM_Oral_metagenome_008,,,,2023,excluded,1.0,11.777
+SAMN59740960,PRJNA1118189,008,,child,2922.0,female,CN,healthy_control,Ctrl_Oral_metagenome_008,,,,2023,excluded,1.0,10.649
+SAMN59918608,PRJNA1118189,008,,child,,,CN,other_disease,CFM_gut_metagenome_008,,,,2023,primary,1.0,12.033
+SAMN59918621,PRJNA1118189,008,,child,,,CN,healthy_control,Ctrl_gut_metagenome_008,,,,2023,primary,1.0,11.929
+SAMN59740927,PRJNA1118189,009,,child,3287.2,male,CN,other_disease,CFM_Oral_metagenome_009,,,,2023,excluded,1.0,11.643
+SAMN59740961,PRJNA1118189,009,,child,3287.2,male,CN,healthy_control,Ctrl_Oral_metagenome_009,,,,2023,excluded,1.0,11.246
+SAMN59918609,PRJNA1118189,009,,child,,,CN,other_disease,CFM_gut_metagenome_009,,,,2023,primary,1.0,12.371
+SAMN59918622,PRJNA1118189,009,,child,,,CN,healthy_control,Ctrl_gut_metagenome_009,,,,2023,primary,1.0,11.53
+SAMN59740928,PRJNA1118189,010,,child,2922.0,male,CN,other_disease,CFM_Oral_metagenome_010,,,,2023,excluded,1.0,12.393
+SAMN59740962,PRJNA1118189,010,,child,2556.8,male,CN,healthy_control,Ctrl_Oral_metagenome_010,,,,2023,excluded,1.0,10.894
+SAMN59918610,PRJNA1118189,010,,child,,,CN,other_disease,CFM_gut_metagenome_010,,,,2023,primary,1.0,11.999
+SAMN59740929,PRJNA1118189,011,,child,3287.2,male,CN,other_disease,CFM_Oral_metagenome_011,,,,2023,excluded,1.0,10.119
+SAMN59740963,PRJNA1118189,011,,child,2191.5,male,CN,healthy_control,Ctrl_Oral_metagenome_011,,,,2023,excluded,1.0,11.607
+SAMN59918611,PRJNA1118189,011,,child,,,CN,other_disease,CFM_gut_metagenome_011,,,,2023,primary,1.0,12.002
+SAMN59740930,PRJNA1118189,012,,adolescent,4383.0,female,CN,other_disease,CFM_Oral_metagenome_012,,,,2023,excluded,1.0,12.1
+SAMN59740964,PRJNA1118189,012,,child,3287.2,female,CN,healthy_control,Ctrl_Oral_metagenome_012,,,,2023,excluded,1.0,12.175
+SAMN59918612,PRJNA1118189,012,,child,,,CN,other_disease,CFM_gut_metagenome_012,,,,2023,primary,1.0,11.781
+SAMN59740931,PRJNA1118189,013,,child,4018.0,female,CN,other_disease,CFM_Oral_metagenome_013,,,,2023,excluded,1.0,11.765
+SAMN59740965,PRJNA1118189,013,,child,2556.8,female,CN,healthy_control,Ctrl_Oral_metagenome_013,,,,2023,excluded,1.0,12.335
+SAMN59918613,PRJNA1118189,013,,child,,,CN,other_disease,CFM_gut_metagenome_013,,,,2023,primary,1.0,11.671
+SAMN59740932,PRJNA1118189,014,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_014,,,,2023,excluded,1.0,11.468
+SAMN59740966,PRJNA1118189,014,,child,2922.0,male,CN,healthy_control,Ctrl_Oral_metagenome_014,,,,2023,excluded,1.0,11.927
+SAMN59740933,PRJNA1118189,015,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_015,,,,2023,excluded,1.0,12.07
+SAMN59740934,PRJNA1118189,016,,child,3652.5,male,CN,other_disease,CFM_Oral_metagenome_016,,,,2023,excluded,1.0,12.192
+SAMN59740935,PRJNA1118189,017,,child,2556.8,female,CN,other_disease,CFM_Oral_metagenome_017,,,,2023,excluded,1.0,12.151
+SAMN59740936,PRJNA1118189,018,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_018,,,,2023,excluded,1.0,11.724
+SAMN59740937,PRJNA1118189,019,,child,3652.5,male,CN,other_disease,CFM_Oral_metagenome_019,,,,2023,excluded,1.0,11.66
+SAMN59740938,PRJNA1118189,020,,child,4018.0,female,CN,other_disease,CFM_Oral_metagenome_020,,,,2023,excluded,1.0,11.129
+SAMN59740939,PRJNA1118189,021,,child,2191.5,male,CN,other_disease,CFM_Oral_metagenome_021,,,,2023,excluded,1.0,11.897
+SAMN59740940,PRJNA1118189,022,,child,2191.5,male,CN,other_disease,CFM_Oral_metagenome_022,,,,2023,excluded,1.0,11.482
+SAMN59740941,PRJNA1118189,023,,child,3287.2,male,CN,other_disease,CFM_Oral_metagenome_023,,,,2023,excluded,1.0,10.65
+SAMN59740942,PRJNA1118189,024,,adolescent,4383.0,male,CN,other_disease,CFM_Oral_metagenome_024,,,,2023,excluded,1.0,11.61
+SAMN59740943,PRJNA1118189,025,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_025,,,,2023,excluded,1.0,11.622
+SAMN59740944,PRJNA1118189,026,,child,2922.0,female,CN,other_disease,CFM_Oral_metagenome_026,,,,2023,excluded,1.0,12.104
+SAMN59740945,PRJNA1118189,027,,child,2922.0,male,CN,other_disease,CFM_Oral_metagenome_027,,,,2023,excluded,1.0,11.424
+SAMN59740946,PRJNA1118189,028,,child,3287.2,female,CN,other_disease,CFM_Oral_metagenome_028,,,,2023,excluded,1.0,11.769
+SAMN59740947,PRJNA1118189,029,,child,2922.0,female,CN,other_disease,CFM_Oral_metagenome_029,,,,2023,excluded,1.0,11.081
+SAMN59740948,PRJNA1118189,030,,child,3287.2,female,CN,other_disease,CFM_Oral_metagenome_030,,,,2023,excluded,1.0,10.447
+SAMN59740949,PRJNA1118189,031,,child,2922.0,male,CN,other_disease,CFM_Oral_metagenome_031,,,,2023,excluded,1.0,11.245
+SAMN59740950,PRJNA1118189,032,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_032,,,,2023,excluded,1.0,11.645
+SAMN59740951,PRJNA1118189,033,,child,2556.8,female,CN,other_disease,CFM_Oral_metagenome_033,,,,2023,excluded,1.0,11.692
+SAMN59740952,PRJNA1118189,034,,child,2556.8,male,CN,other_disease,CFM_Oral_metagenome_034,,,,2023,excluded,1.0,10.896
+SAMN41600440,PRJNA1118189,,,child,,,CN,other_disease,human oral metagenome CFM1,,,,2022,excluded,1.0,12.22
+SAMN41600441,PRJNA1118189,,,child,,,CN,other_disease,human oral metagenome CFM2,,,,2022,excluded,1.0,12.316
+SAMN41600442,PRJNA1118189,,,child,,,CN,other_disease,human oral metagenome CFM3,,,,2022,excluded,1.0,14.532
+SAMN41600443,PRJNA1118189,,,child,,,CN,other_disease,human oral metagenome CFM4,,,,2023,excluded,1.0,13.0
+SAMN41600444,PRJNA1118189,,,child,,,CN,other_disease,human oral metagenome CFM5,,,,2023,excluded,1.0,13.248
+SAMN41600445,PRJNA1118189,,,child,,,CN,other_disease,human oral metagenome CFM6,,,,2023,excluded,1.0,11.964
+SAMN41600446,PRJNA1118189,,,child,,,CN,healthy_control,human oral metagenome Ctrl1,,,,2023,excluded,1.0,14.259
+SAMN41600447,PRJNA1118189,,,child,,,CN,healthy_control,human oral metagenome Ctrl2,,,,2023,excluded,1.0,13.516
+SAMN41600448,PRJNA1118189,,,child,,,CN,healthy_control,human oral metagenome Ctrl3,,,,2022,excluded,1.0,13.591
+SAMN41600449,PRJNA1118189,,,child,,,CN,healthy_control,human oral metagenome Ctrl4,,,,2022,excluded,1.0,13.149
+SAMN41600450,PRJNA1118189,,,child,,,CN,healthy_control,human oral metagenome Ctrl5,,,,2022,excluded,1.0,12.941
+SAMN41600451,PRJNA1118189,,,child,,,CN,healthy_control,human oral metagenome Ctrl6,,,,2022,excluded,1.0,15.934

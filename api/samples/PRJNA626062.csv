@@ -1,0 +1,55 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN14615056,PRJNA626062,1,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615073,PRJNA626062,1,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615065,PRJNA626062,10,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615082,PRJNA626062,10,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615066,PRJNA626062,11,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615083,PRJNA626062,11,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615067,PRJNA626062,12,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.015
+SAMN14615084,PRJNA626062,12,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615068,PRJNA626062,13,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615085,PRJNA626062,13,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615069,PRJNA626062,14,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615086,PRJNA626062,14,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615070,PRJNA626062,15,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615087,PRJNA626062,15,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615071,PRJNA626062,16,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615088,PRJNA626062,16,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615072,PRJNA626062,17,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.022
+SAMN14615089,PRJNA626062,17,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615057,PRJNA626062,2,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615074,PRJNA626062,2,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615058,PRJNA626062,3,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615075,PRJNA626062,3,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615059,PRJNA626062,4,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615076,PRJNA626062,4,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615060,PRJNA626062,5,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615077,PRJNA626062,5,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615061,PRJNA626062,6,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615078,PRJNA626062,6,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615062,PRJNA626062,7,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615079,PRJNA626062,7,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615063,PRJNA626062,8,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.014
+SAMN14615080,PRJNA626062,8,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615064,PRJNA626062,9,after FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615081,PRJNA626062,9,before FMT,adult,,,CN,type2_diabetes,FMT,fmt,,,2018-09-30,primary,1.0,0.02
+SAMN14615090,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.021
+SAMN14615091,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.021
+SAMN14615092,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615093,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615094,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615095,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615096,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615097,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615098,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.024
+SAMN14615099,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615100,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615101,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615102,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615103,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615104,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615105,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615106,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615107,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615108,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02
+SAMN14615109,PRJNA626062,,,adult,,,CN,healthy_control,NC,no_intervention,,,2018-09-30,primary,1.0,0.02

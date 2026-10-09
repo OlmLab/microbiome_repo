@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Studies — Microbiome Repo</title>
+<meta name="description" content="All 2,918 human gut shotgun-metagenome studies of the catalog (all ages) with sample counts, age categories, health conditions, curation depth and per-field coverage.">
+<meta name="catalog-release" content="data-v1.18.0">
+<meta name="catalog-release-id" content="R2026.20">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/studies/index.html">
+<meta name="catalog-package-version" content="1.18.0">
+<meta name="catalog-build-date" content="2026-10-09">
+<link rel="stylesheet" href="../static/site.css">
+
+<link rel="stylesheet" href="../static/vendor/dataTables.dataTables-2.1.8.min.css" integrity="sha384-bK2L0Q3Sn2fB8YZTIjKejpTUJXd8xNtKn4RcIm7KM3EX3orMlOI31hwtNH0iyky/" crossorigin="anonymous">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="wide">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" class="active">Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › Studies</div>
+
+<div class="sheet-top"><div id="pglobe" class="globe-box" title="Projects per country for the current filters — drag to rotate"></div><div class="sheet-head"><h1>Project sheet</h1><p class="sheet-sub">2,918 human gut shotgun-metagenome projects (INSDC BioProjects in ENA, NCBI SRA or DDBJ). Hover any cell for details; click an accession for its page. <a href="../data/gut_studies.parquet" download>Download (parquet)</a> · <a href="../samples/index.html">Sample sheet</a></p></div></div>
+<form class="pfilters" id="pfilters" onsubmit="return false">
+<label>Health condition <select id="pf-condition"><option value="">any</option><option value="allergy_or_atopy">Allergy / atopy / asthma</option><option value="autoimmune_inflammatory">Autoimmune / inflammatory (RA</option><option value="cardiometabolic_other">Other cardiometabolic (hypertension</option><option value="colorectal_adenoma">Colorectal adenoma / polyp</option><option value="colorectal_cancer">Colorectal cancer</option><option value="crohns_disease">Crohn&#39;s disease</option><option value="gi_infection_or_diarrhoea">GI infection / diarrhoea (incl. C. difficile)</option><option value="healthy_control">Healthy / control</option><option value="ibd_or_gi_disease">IBD or GI disease (infant)</option><option value="ibd_unspecified">IBD (unspecified)</option><option value="ibs">Irritable bowel syndrome</option><option value="intervention_cohort">Intervention cohort (drug</option><option value="kidney_disease">Kidney disease</option><option value="liver_disease">Liver disease (cirrhosis</option><option value="malnutrition">Malnutrition / undernutrition</option><option value="nec">Necrotising enterocolitis (infant)</option><option value="neurological_psychiatric">Neurological / psychiatric (PD</option><option value="obesity">Obesity / overweight</option><option value="other_cancer">Other cancer (incl. immunotherapy cohorts)</option><option value="other_disease">Other disease / condition</option><option value="other_infection">Other infection (HIV</option><option value="pregnancy_postpartum">Pregnancy / postpartum</option><option value="preterm_nicu">Preterm / NICU (infant)</option><option value="sepsis_or_infection">Sepsis / infection (infant)</option><option value="transplant_or_immunocompromised">Transplant / immunocompromised (HSCT</option><option value="type1_diabetes">Type 1 diabetes</option><option value="type2_diabetes">Type 2 diabetes / prediabetes</option><option value="ulcerative_colitis">Ulcerative colitis</option></select></label>
+<label>Intervention <select id="pf-intervention"><option value="">any</option><option value="__any__">any intervention</option><option value="fmt">Faecal microbiota transplantation (165)</option><option value="probiotic">Probiotic (live microorganisms; single strain or mixture) (107)</option><option value="prebiotic_or_fibre">Prebiotic / dietary fibre supplement (65)</option><option value="synbiotic">Synbiotic (probiotic + prebiotic) (16)</option><option value="live_biotherapeutic">Defined bacterial consortium / live biotherapeutic product (13)</option><option value="antibiotic">Antibiotic given as the study intervention (incl. eradication therapy (118)</option><option value="diet_intervention">Controlled / prescribed diet or feeding regimen (146)</option><option value="dietary_supplement">Non-microbial dietary supplement (vitamins (57)</option><option value="drug_therapy">Non-antibiotic pharmaceutical given as the study intervention (metformin (126)</option><option value="surgery">Surgical procedure studied before/after (bariatric surgery (59)</option><option value="bowel_preparation">Bowel cleansing / colonoscopy preparation (11)</option><option value="exercise">Exercise / physical-training programme (14)</option><option value="vaccine">Vaccination as the study intervention (18)</option><option value="phage_therapy">Bacteriophage therapy (4)</option><option value="other_intervention">Other administered intervention (see intervention_detail) (62)</option><option value="__none__">none administered</option></select></label>
+<label>Design <select id="pf-design"><option value="">any</option><option value="__controlled__">any controlled design (RCT, crossover, controlled)</option><option value="randomized_controlled_trial">randomized controlled trial</option><option value="non_randomized_controlled">non randomized controlled</option><option value="crossover">crossover</option><option value="single_arm_before_after">single arm before after</option><option value="observational_with_procedure">observational with procedure</option></select></label>
+<label>Age <select id="pf-age"><option value="">any</option><option value="neonate">neonate</option><option value="infant">infant</option><option value="child">child</option><option value="adolescent">adolescent</option><option value="adult">adult</option><option value="elderly">elderly</option></select></label>
+<label>Country <input id="pf-country" type="search" placeholder="e.g. China" size="10"></label>
+<label>Min samples <input id="pf-min_samples" type="number" min="0" style="width:5.5rem"></label>
+<label title="≥ 3 healthy-control samples and ≥ 3 samples with a disease code"><input type="checkbox" id="pf-cases_controls"> cases &amp; healthy controls</label>
+<label>Source <select id="pf-source"><option value="">any</option><option value="0">sequence archive used</option><option value="1">abstract used</option><option value="2">full text used</option><option value="3">supplementary tables used</option><option value="4">external resource used</option><option value="5">user contribution</option><option value="6">human verified</option></select></label>
+<label title="≥ 3 samples in an active intervention arm and ≥ 3 in placebo / no-intervention (from archive attributes)"><input type="checkbox" id="pf-arms"> treated &amp; control arms</label>
+<button type="button" class="btn sec" id="pf-reset">reset</button> <span class="status" id="pf-count"></span>
+</form>
+<p class="small srclegend muted">Sources: <span class="srcmk u">✓</span> used · <span class="srcmk c">○</span> checked, nothing usable · <span class="srcmk n">–</span> not available. Hover a mark for details.</p>
+<div class="st-wrap"><table id="studies" class="tbl display compact ptbl" style="width:100%">
+<thead><tr><th>Project</th><th>Title</th><th class="num">Samples</th><th>Ages</th><th>Condition</th><th title="Interventions the study administered">Interv.</th><th>Country</th><th class="num" title="Linked papers">Papers</th><th title="First public">Year</th><th class="srch" title="Sequence archive records">Arch.</th><th class="srch" title="Paper abstract / archive description">Abs.</th><th class="srch" title="Open full text of the linked paper">Text</th><th class="srch" title="Supplementary tables of the linked paper">Supp.</th><th class="srch" title="External curated resources">Ext.</th><th class="srch" title="Metadata uploaded by a user">User</th><th class="srch" title="Human verified: a person checked the project against the web and confirmed the metadata is complete">Ver.</th><th class="num" title="Median Gbp per sample">Gbp</th></tr></thead>
+<tbody></tbody></table></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.20"><span class="mono">R2026.20</span></a> · package <span class="mono">1.18.0</span> · build <span class="mono">7e4d715</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.20.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script src="../static/vendor/jquery-3.7.1.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+<script src="../static/vendor/dataTables-2.1.8.min.js" integrity="sha384-MgwUq0TVErv5Lkj/jIAgQpC+iUIqwhwXxJMfrZQVAOhr++1MR02yXH8aXdPc3fk0" crossorigin="anonymous"></script>
+
+<script>window.CATALOG={version:'1.18.0',release:'data-v1.18.0',releaseId:'R2026.20',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js" integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67" crossorigin="anonymous"></script>
+<script>window.GLOBE_ROOT='../';</script><script src="../static/globe.js"></script>
+<script>
+fetch('../data/studies_index.json').then(r => r.json()).then(rows => {
+  const h = s => String(s === null || s === undefined ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const $ = id => document.getElementById(id);
+  const P = ['condition', 'intervention', 'design', 'age', 'country', 'min_samples', 'cases_controls', 'arms', 'source'];
+  const prm = new URLSearchParams(location.search);
+  for (const k of P) { const el = $('pf-' + k); const v = prm.get(k); if (el && v !== null) { if (el.type === 'checkbox') el.checked = v === '1'; else el.value = v; } }
+  const ok = r => {
+    const c = $('pf-condition').value, iv = $('pf-intervention').value, dz = $('pf-design').value, ag = $('pf-age').value;
+    const co = $('pf-country').value.trim().toLowerCase(), mn = $('pf-min_samples').value;
+    const ivs = (r.iv || '').split(';').filter(Boolean);
+    if (c && !(r.hcs || []).includes(c) && r.pc !== c) return false;
+    if (iv === '__any__' && !ivs.length) return false; if (iv === '__none__' && ivs.length) return false;
+    if (iv && !iv.startsWith('__') && !ivs.includes(iv) && !(r.arms || []).includes(iv)) return false;
+    if (dz === '__controlled__') { if (!['randomized_controlled_trial', 'non_randomized_controlled', 'crossover'].includes(r.dz) && !r.cca) return false; } else if (dz && r.dz !== dz) return false; if (ag && !(r.ags || []).includes(ag)) return false;
+    if (co && !String(r.co || '').toLowerCase().includes(co)) return false; if (mn !== '' && r.n < parseInt(mn)) return false;
+    if ($('pf-cases_controls').checked && !r.ccc) return false; if ($('pf-arms').checked && !r.cca) return false;
+    const so = $('pf-source').value; if (so !== '' && (r.sf || 'nnnnnnn')[parseInt(so)] !== 'u') return false;
+    return true;
+  };
+  DataTable.ext.search.push((settings, data, i, row) => settings.nTable.id !== 'studies' || ok(row));
+  const SRCN = ['Sequence archive', 'Abstract / description', 'Full text', 'Supplementary tables', 'External resources', 'User contribution', 'Human verified'];
+  const srcmk = (d, i, t) => { const c = (d || 'nnnnnnn')[i]; if (t !== 'display') return c === 'u' ? 2 : c === 'c' ? 1 : 0;
+    return c === 'u' ? '<span class="srcmk u" title="' + SRCN[i] + ': values used">✓</span>' : c === 'c' ? '<span class="srcmk c" title="' + SRCN[i] + ': checked, nothing usable">○</span>' : '<span class="srcmk n" title="' + SRCN[i] + ': not available">–</span>'; };
+  const tbl = new DataTable('#studies', {
+    data: rows, autoWidth: false, layout: {topEnd: null}, search: {search: prm.get('q') || ''}, pageLength: 50, lengthMenu: [25, 50, 100, 500], order: [[2, 'desc']], deferRender: true,
+    columns: [
+      {data: 'a', render: (d, t) => t === 'display' ? '<a class="mono" href="' + h(d) + '.html">' + h(d) + '</a>' : d},
+      {data: 't', className: 'clipc', render: (d, t, r) => t === 'display' ? '<span class="clip1" title="' + h(r.tf || d) + '">' + h(d) + '</span>' : d + ' ' + (r.tf || '')},
+      {data: 'n', className: 'num', render: (d, t) => t === 'display' ? Number(d).toLocaleString() : d},
+      {data: 'ag', className: 'clipc', render: (d, t) => t === 'display' ? '<span class="clip1 mono" title="Age categories (samples): ' + h(d) + '">' + h((d || '').split(' ')[0].split(':')[0]) + '</span>' : d},
+      {data: 'hc', className: 'clipc', render: (d, t, r) => t === 'display' ? '<span class="clip1 mono" title="Conditions present: ' + h((r.hcs || []).join(', ') || d) + '">' + h(d) + '</span>' : d},
+      {data: 'iv', defaultContent: '', className: 'clipc', render: (d, t, r) => t === 'display' ? '<span class="clip1 mono" title="' + h((d || '').replaceAll(';', ', ') + (r.dz ? ' · design: ' + r.dz : '')) + '">' + h((d || '').replaceAll(';', ' · ')) + '</span>' : d},
+      {data: 'co', className: 'mono'},
+      {data: 'p', className: 'num'},
+      {data: 'y', className: 'mono'},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 0, t)},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 1, t)},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 2, t)},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 3, t)},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 4, t)},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 5, t)},
+      {data: 'sf', className: 'srcc', render: (d, t) => srcmk(d, 6, t)},
+      {data: 'gs', className: 'num', render: (d, t) => t === 'display' ? (d === null || d === undefined ? '' : Number(d).toFixed(1)) : d}
+    ]
+  });
+  const sync = () => { const q = new URLSearchParams(); for (const k of P) { const el = $('pf-' + k); if (!el) continue; const v = el.type === 'checkbox' ? (el.checked ? '1' : '') : el.value.trim(); if (v) q.set(k, v); }
+    history.replaceState(null, '', location.pathname + (q.toString() ? '?' + q : '') + location.hash); tbl.draw();
+    $('pf-count').textContent = tbl.rows({search: 'applied'}).count().toLocaleString() + ' projects match';
+    if (window.PG) { const cnt = {}; tbl.rows({search: 'applied'}).data().each(r => { for (const c of (r.ctry || '').split(';')) if (c) cnt[c] = (cnt[c] || 0) + 1; }); window.PG.update(cnt); } };
+  for (const k of P) { const el = $('pf-' + k); if (el) el.addEventListener(el.tagName === 'INPUT' && el.type !== 'checkbox' ? 'input' : 'change', sync); }
+  $('pf-reset').addEventListener('click', () => { for (const k of P) { const el = $('pf-' + k); if (el.type === 'checkbox') el.checked = false; else el.value = ''; } sync(); });
+  const init = {}; rows.forEach(r => { for (const c of (r.ctry || '').split(';')) if (c) init[c] = (init[c] || 0) + 1; });
+  if (window.MiniGlobe) MiniGlobe.render($('pglobe'), {countries: init, size: 150, unit: 'projects'}).then(g => { window.PG = g; sync(); });
+  sync();
+});
+</script>
+
+</body>
+</html>

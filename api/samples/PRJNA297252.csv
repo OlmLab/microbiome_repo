@@ -1,0 +1,230 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN04126092,PRJNA297252,MM001,1,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2009-10-29,primary,1.0,0.632
+SAMN04126093,PRJNA297252,MM001,2,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2009-11-04,primary,1.0,4.04
+SAMN04126094,PRJNA297252,MM001,3,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2009-11-09,primary,1.0,4.144
+SAMN04126095,PRJNA297252,MM001,4,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2009-11-16,primary,1.0,1.896
+SAMN04126096,PRJNA297252,MM002,1,elderly,28854.8,male,CA,healthy_control,Healthy,,,yes,2009-10-29,primary,1.0,2.452
+SAMN04126097,PRJNA297252,MM002,2,elderly,28854.8,male,CA,healthy_control,Healthy,,,yes,2009-11-04,primary,1.0,2.813
+SAMN04126098,PRJNA297252,MM003,1,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2009-11-11,primary,1.0,0.689
+SAMN04126099,PRJNA297252,MM003,2,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2009-11-17,primary,1.0,1.464
+SAMN04126100,PRJNA297252,MM004,1,elderly,29580.0,male,CA,healthy_control,Healthy,,,no,2009-11-12,primary,1.0,2.754
+SAMN04126101,PRJNA297252,MM004,2,elderly,29580.0,male,CA,healthy_control,Healthy,,,no,2009-11-16,primary,1.0,3.902
+SAMN04126102,PRJNA297252,MM005,1,elderly,24106.5,female,CA,healthy_control,Healthy,,,no,2009-11-20,primary,1.0,0.645
+SAMN04126103,PRJNA297252,MM005,2,elderly,24106.5,female,CA,healthy_control,Healthy,,,no,2009-11-23,primary,1.0,4.483
+SAMN04126104,PRJNA297252,MM005,3,elderly,24106.5,female,CA,healthy_control,Healthy,,,no,2009-11-24,primary,1.0,2.358
+SAMN04126105,PRJNA297252,MM006,1,elderly,28489.5,male,CA,healthy_control,Control,,,yes,2009-12-02,primary,1.0,1.926
+SAMN04126106,PRJNA297252,MM006,2,elderly,28489.5,male,CA,healthy_control,Control,,,yes,2009-12-03,primary,1.0,2.712
+SAMN04126107,PRJNA297252,MM007,,elderly,28854.8,female,CA,healthy_control,Healthy,,,yes,2009-12-02,primary,1.0,1.944
+SAMN04126108,PRJNA297252,MM008,1,elderly,30702.0,male,CA,healthy_control,Healthy,,,yes,2009-12-11,primary,1.0,3.023
+SAMN04126109,PRJNA297252,MM008,2,elderly,30702.0,male,CA,healthy_control,Healthy,,,yes,2009-12-14,primary,1.0,0.677
+SAMN04126110,PRJNA297252,MM008,3,elderly,30702.0,male,CA,healthy_control,Healthy,,,yes,2009-12-15,primary,1.0,3.546
+SAMN04126111,PRJNA297252,MM009,1,elderly,25932.8,male,CA,healthy_control,Healthy,,,yes,2010-01-05,primary,1.0,5.948
+SAMN04126112,PRJNA297252,MM009,2,elderly,25932.8,male,CA,healthy_control,Healthy,,,yes,2010-01-07,primary,1.0,2.041
+SAMN04126113,PRJNA297252,MM010,,adult,22627.0,male,CA,healthy_control,Control,,,yes,2010-01-05,primary,3.0,12.244
+SAMN04126114,PRJNA297252,MM011,,elderly,31016.0,female,CA,healthy_control,Healthy,,,yes,2010-01-06,primary,1.0,2.737
+SAMN04126115,PRJNA297252,MM012,1,elderly,24106.5,male,CA,healthy_control,Healthy,,,yes,2010-01-07,primary,1.0,1.469
+SAMN04126116,PRJNA297252,MM012,2,elderly,24106.5,male,CA,healthy_control,Healthy,,,yes,2010-01-11,primary,1.0,2.517
+SAMN04126117,PRJNA297252,MM013,1,elderly,27759.0,male,CA,healthy_control,Healthy,,,yes,2010-01-07,primary,1.0,3.141
+SAMN04126118,PRJNA297252,MM013,2,elderly,27759.0,male,CA,healthy_control,Healthy,,,yes,2010-01-11,primary,1.0,0.371
+SAMN04126119,PRJNA297252,MM013,3,elderly,27759.0,male,CA,healthy_control,Healthy,,,yes,2010-01-13,primary,1.0,1.26
+SAMN04126120,PRJNA297252,MM014,,elderly,31394.0,male,CA,healthy_control,Healthy,,,yes,2010-01-08,primary,1.0,2.108
+SAMN04126121,PRJNA297252,MM015,1,elderly,29580.0,female,CA,healthy_control,Healthy,,,no,2010-01-08,primary,1.0,2.444
+SAMN04126122,PRJNA297252,MM015,2,elderly,29580.0,female,CA,healthy_control,Healthy,,,yes,2010-01-11,primary,1.0,3.045
+SAMN04126123,PRJNA297252,MM016,1,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-01-21,primary,3.0,3.171
+SAMN04126124,PRJNA297252,MM016,2,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-01-24,primary,1.0,3.89
+SAMN04126125,PRJNA297252,MM016,3,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-01-26,primary,1.0,1.978
+SAMN04126126,PRJNA297252,MM017,,elderly,27394.0,female,CA,other_infection,Pneumonia,,,yes,2010-01-21,primary,1.0,4.209
+SAMN04126127,PRJNA297252,MM018,,elderly,23741.2,male,CA,healthy_control,Control,,,yes,2010-01-22,primary,1.0,1.408
+SAMN04126128,PRJNA297252,MM019,1,elderly,27394.0,male,CA,healthy_control,Healthy,,,yes,2010-01-26,primary,1.0,0.646
+SAMN04126129,PRJNA297252,MM019,2,elderly,27394.0,male,CA,healthy_control,Healthy,,,yes,2010-01-29,primary,3.0,24.83
+SAMN04126130,PRJNA297252,MM019,3,elderly,27394.0,male,CA,healthy_control,Healthy,,,yes,2010-02-01,primary,1.0,1.695
+SAMN04126131,PRJNA297252,MM020,1,elderly,27028.5,female,CA,other_infection,Pneumonia,,,yes,2010-01-27,primary,1.0,1.767
+SAMN04126132,PRJNA297252,MM020,2,elderly,27028.5,female,CA,other_infection,Pneumonia,,,yes,2010-01-29,primary,1.0,0.345
+SAMN04126133,PRJNA297252,MM020,3,elderly,27028.5,female,CA,other_disease,Abdominal Hernia,,,yes,2010-02-05,primary,1.0,2.456
+SAMN04126134,PRJNA297252,MM021,1,adult,22280.2,female,CA,healthy_control,Healthy,,,yes,2010-01-28,primary,1.0,4.223
+SAMN04126135,PRJNA297252,MM021,2,adult,22280.2,female,CA,healthy_control,Healthy,,,yes,2010-02-01,primary,3.0,10.904
+SAMN04126136,PRJNA297252,MM021,3,adult,22280.2,female,CA,healthy_control,Healthy,,,yes,2010-02-04,primary,1.0,1.69
+SAMN04126137,PRJNA297252,MM021,4,adult,22280.2,female,CA,healthy_control,Healthy,,,yes,2010-02-08,primary,1.0,2.388
+SAMN04126138,PRJNA297252,MM022,1,elderly,28489.5,female,CA,healthy_control,Healthy,,,no,2010-01-29,primary,1.0,2.46
+SAMN04126139,PRJNA297252,MM022,2,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-02-01,primary,1.0,3.298
+SAMN04126140,PRJNA297252,MM022,3,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-02-03,primary,1.0,2.911
+SAMN04126141,PRJNA297252,MM023,1,adult,22627.0,male,CA,healthy_control,Control,,,no,2010-02-02,primary,1.0,2.248
+SAMN04126142,PRJNA297252,MM023,2,adult,22627.0,male,CA,healthy_control,Control,,,yes,2010-02-04,primary,1.0,5.111
+SAMN04126143,PRJNA297252,MM024,1,elderly,28854.8,male,CA,healthy_control,Healthy,,,yes,2010-02-03,primary,1.0,2.408
+SAMN04126144,PRJNA297252,MM024,2,elderly,28854.8,male,CA,healthy_control,Healthy,,,yes,2010-02-05,primary,1.0,2.49
+SAMN04126145,PRJNA297252,MM024,3,elderly,28854.8,male,CA,healthy_control,Healthy,,,yes,2010-02-08,primary,1.0,2.036
+SAMN04126146,PRJNA297252,MM025,,elderly,25932.8,male,CA,healthy_control,Control,,,yes,2010-02-05,primary,1.0,0.381
+SAMN04126147,PRJNA297252,MM026,1,elderly,24106.5,female,CA,healthy_control,Healthy,,,yes,2010-02-05,primary,1.0,1.827
+SAMN04126148,PRJNA297252,MM026,2,elderly,24106.5,female,CA,healthy_control,Healthy,,,yes,2010-02-10,primary,1.0,0.695
+SAMN04126149,PRJNA297252,MM027,1,elderly,23741.2,female,CA,healthy_control,Healthy,,,yes,2010-02-17,primary,1.0,2.669
+SAMN04126150,PRJNA297252,MM027,2,elderly,23741.2,female,CA,healthy_control,Healthy,,,yes,2010-02-22,primary,1.0,2.338
+SAMN04126151,PRJNA297252,MM027,3,elderly,23741.2,female,CA,healthy_control,Healthy,,,yes,2010-02-25,primary,1.0,2.046
+SAMN04126152,PRJNA297252,MM028,1,elderly,29220.0,male,CA,healthy_control,Healthy,,,no,2010-02-18,primary,1.0,1.192
+SAMN04126153,PRJNA297252,MM028,2,elderly,29220.0,male,CA,healthy_control,Healthy,,,yes,2010-02-22,primary,1.0,0.642
+SAMN04126154,PRJNA297252,MM029,1,elderly,27028.5,male,CA,healthy_control,Healthy,,,no,2010-02-18,primary,1.0,4.468
+SAMN04126155,PRJNA297252,MM029,2,elderly,27028.5,male,CA,healthy_control,Healthy,,,no,2010-02-22,primary,1.0,2.534
+SAMN04126156,PRJNA297252,MM029,3,elderly,27028.5,male,CA,healthy_control,Healthy,,,no,2010-02-23,primary,3.0,9.104
+SAMN04126157,PRJNA297252,MM030,1,elderly,26641.0,female,CA,other_infection,Clostridium difficile Infection,,,yes,2010-02-24,primary,3.0,27.187
+SAMN04126158,PRJNA297252,MM030,2,elderly,26641.0,female,CA,other_infection,Clostridium difficile Infection,,,yes,2010-03-01,primary,1.0,2.497
+SAMN04126159,PRJNA297252,MM031,,elderly,28489.5,male,CA,healthy_control,Healthy,,,yes,2010-02-24,primary,1.0,1.165
+SAMN04126160,PRJNA297252,MM032,1,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-01,primary,1.0,3.361
+SAMN04126161,PRJNA297252,MM032,2,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-04,primary,1.0,3.409
+SAMN04126162,PRJNA297252,MM032,3,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-08,primary,1.0,3.299
+SAMN04126163,PRJNA297252,MM032,4,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-11,primary,1.0,2.005
+SAMN04126164,PRJNA297252,MM033,1,elderly,28854.8,female,CA,healthy_control,Healthy,,,yes,2010-03-02,primary,1.0,1.772
+SAMN04126165,PRJNA297252,MM033,2,elderly,28854.8,female,CA,healthy_control,Healthy,,,yes,2010-03-05,primary,1.0,0.501
+SAMN04126166,PRJNA297252,MM033,3,elderly,28854.8,female,CA,healthy_control,Healthy,,,yes,2010-03-08,primary,1.0,2.347
+SAMN04126167,PRJNA297252,MM033,4,elderly,28854.8,female,CA,healthy_control,Healthy,,,yes,2010-03-09,primary,1.0,1.644
+SAMN04126168,PRJNA297252,MM034,1,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-04,primary,1.0,1.54
+SAMN04126169,PRJNA297252,MM034,2,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-08,primary,1.0,2.603
+SAMN04126170,PRJNA297252,MM034,3,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-11,primary,1.0,3.749
+SAMN04126171,PRJNA297252,MM035,1,elderly,29220.0,female,CA,other_infection,Clostridium difficile Infection,,,yes,2010-03-11,primary,1.0,0.979
+SAMN04126172,PRJNA297252,MM035,2,elderly,29220.0,female,CA,other_infection,Clostridium difficile Infection,,,yes,2010-03-15,primary,1.0,3.711
+SAMN04126173,PRJNA297252,MM036,,elderly,24837.0,female,CA,other_infection,Clostridium difficile Infection,,,yes,2010-03-11,primary,1.0,1.587
+SAMN04126174,PRJNA297252,MM037,1,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-15,primary,1.0,1.78
+SAMN04126175,PRJNA297252,MM037,2,elderly,28489.5,female,CA,healthy_control,Healthy,,,yes,2010-03-16,primary,1.0,2.436
+SAMN04126176,PRJNA297252,MM038,,elderly,27394.0,male,CA,healthy_control,Healthy,,,yes,2010-03-15,primary,1.0,2.495
+SAMN04126177,PRJNA297252,MM039,,elderly,24106.5,male,CA,healthy_control,Healthy,,,yes,2010-03-15,primary,1.0,1.624
+SAMN04126178,PRJNA297252,MM040,1,elderly,26641.0,female,CA,healthy_control,Control,,,yes,2010-03-25,primary,1.0,1.502
+SAMN04126179,PRJNA297252,MM040,2,elderly,26641.0,female,CA,healthy_control,Control,,,yes,2010-03-27,primary,1.0,1.411
+SAMN04126180,PRJNA297252,MM041,1,elderly,24837.0,male,CA,healthy_control,Healthy,,,yes,2010-04-14,primary,1.0,2.421
+SAMN04126181,PRJNA297252,MM041,2,elderly,24837.0,male,CA,healthy_control,Healthy,,,yes,2010-04-16,primary,1.0,3.13
+SAMN04126182,PRJNA297252,MM042,1,elderly,24106.5,male,CA,healthy_control,Healthy,,,yes,2010-04-15,primary,1.0,2.018
+SAMN04126183,PRJNA297252,MM042,2,elderly,24106.5,male,CA,healthy_control,Healthy,,,yes,2010-04-16,primary,1.0,1.044
+SAMN04126184,PRJNA297252,MM043,1,elderly,24106.5,female,CA,healthy_control,Healthy,,,yes,2010-04-19,primary,1.0,1.082
+SAMN04126185,PRJNA297252,MM043,2,elderly,24106.5,female,CA,healthy_control,Healthy,,,yes,2010-04-20,primary,1.0,0.977
+SAMN04126186,PRJNA297252,MM044,1,elderly,26641.0,female,CA,other_infection,Cellulitis,,,yes,2010-04-19,primary,1.0,3.536
+SAMN04126187,PRJNA297252,MM044,2,elderly,26641.0,female,CA,other_infection,Cellulitis,,,yes,2010-04-20,primary,1.0,3.487
+SAMN04126188,PRJNA297252,MM045,1,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-04-19,primary,1.0,3.218
+SAMN04126189,PRJNA297252,MM045,2,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-04-20,primary,1.0,6.827
+SAMN04126190,PRJNA297252,MM046,1,elderly,27759.0,female,CA,healthy_control,Healthy,,,yes,2010-04-21,primary,1.0,3.346
+SAMN04126191,PRJNA297252,MM046,2,elderly,27759.0,female,CA,healthy_control,Healthy,,,yes,2010-04-26,primary,1.0,1.416
+SAMN04126192,PRJNA297252,MM046,3,elderly,27759.0,female,CA,healthy_control,Healthy,,,yes,2010-04-29,primary,1.0,2.375
+SAMN04126193,PRJNA297252,MM047,1,elderly,28124.2,female,CA,healthy_control,Healthy,,,yes,2010-04-21,primary,1.0,3.736
+SAMN04126194,PRJNA297252,MM047,2,elderly,28124.2,female,CA,healthy_control,Healthy,,,yes,2010-04-26,primary,1.0,3.279
+SAMN04126195,PRJNA297252,MM047,3,elderly,28124.2,female,CA,healthy_control,Healthy,,,yes,2010-04-29,primary,1.0,2.424
+SAMN04126196,PRJNA297252,MM048,1,elderly,27759.0,female,CA,healthy_control,Healthy,,,yes,2010-04-28,primary,1.0,3.829
+SAMN04126197,PRJNA297252,MM048,2,elderly,27759.0,female,CA,healthy_control,Healthy,,,yes,2010-04-30,primary,1.0,2.032
+SAMN04126198,PRJNA297252,MM049,1,elderly,25550.0,female,CA,healthy_control,Healthy,,,yes,2010-04-28,primary,1.0,1.91
+SAMN04126199,PRJNA297252,MM049,2,elderly,25550.0,female,CA,healthy_control,Healthy,,,yes,2010-04-30,primary,1.0,1.091
+SAMN04126200,PRJNA297252,MM050,1,elderly,24455.0,female,CA,healthy_control,Healthy,,,yes,2010-05-11,primary,1.0,3.041
+SAMN04126201,PRJNA297252,MM050,2,elderly,24455.0,female,CA,healthy_control,Healthy,,,yes,2010-05-14,primary,1.0,1.503
+SAMN04126202,PRJNA297252,MM050,3,elderly,24455.0,female,CA,healthy_control,Healthy,,,yes,2010-05-17,primary,1.0,1.753
+SAMN04126203,PRJNA297252,MM050,4,elderly,24455.0,female,CA,healthy_control,Healthy,,,yes,2010-05-19,primary,1.0,8.209
+SAMN04126204,PRJNA297252,MM051,,elderly,29220.0,female,CA,healthy_control,Control,,,no,2010-05-12,primary,1.0,3.385
+SAMN04126205,PRJNA297252,MM052,1,elderly,26641.0,male,CA,healthy_control,Healthy,,,yes,2010-05-13,primary,1.0,2.437
+SAMN04126206,PRJNA297252,MM052,2,elderly,26641.0,male,CA,healthy_control,Healthy,,,yes,2010-05-17,primary,1.0,1.358
+SAMN04126207,PRJNA297252,MM053,,elderly,31394.0,female,CA,healthy_control,Control,,,yes,2010-05-13,primary,1.0,0.936
+SAMN04126208,PRJNA297252,MM054,1,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-05-18,primary,1.0,2.493
+SAMN04126209,PRJNA297252,MM054,2,elderly,26641.0,female,CA,healthy_control,Healthy,,,yes,2010-05-21,primary,1.0,0.323
+SAMN04126210,PRJNA297252,MM055,1,elderly,26298.0,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-06-01,primary,1.0,0.397
+SAMN04126211,PRJNA297252,MM055,3,elderly,26298.0,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-06-07,primary,1.0,1.844
+SAMN04126212,PRJNA297252,MM055,4,elderly,26298.0,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-06-15,primary,1.0,2.903
+SAMN04126213,PRJNA297252,MM055,5,elderly,26298.0,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-06-18,primary,1.0,7.32
+SAMN04126214,PRJNA297252,MM055,6,elderly,26298.0,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-06-22,primary,1.0,2.556
+SAMN04126215,PRJNA297252,MM055,7,elderly,26298.0,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-07-05,primary,1.0,1.673
+SAMN04126216,PRJNA297252,MM056,1,elderly,27759.0,male,CA,healthy_control,Healthy,,,yes,2010-06-02,primary,1.0,0.659
+SAMN04126217,PRJNA297252,MM056,2,elderly,27759.0,male,CA,healthy_control,Healthy,,,yes,2010-06-07,primary,1.0,1.736
+SAMN04126218,PRJNA297252,MM057,1,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-06-04,primary,1.0,0.913
+SAMN04126227,PRJNA297252,MM057,10,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-07-25,primary,1.0,2.213
+SAMN04126228,PRJNA297252,MM057,11,elderly,33237.8,male,CA,healthy_control,Healthy,,,no,2010-07-30,primary,1.0,2.18
+SAMN04126229,PRJNA297252,MM057,12,elderly,33237.8,male,CA,healthy_control,Healthy,,,no,2010-08-03,primary,1.0,2.821
+SAMN04126219,PRJNA297252,MM057,2,elderly,33237.8,male,CA,healthy_control,Healthy,,,no,2010-06-07,primary,1.0,2.409
+SAMN04126220,PRJNA297252,MM057,3,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-07-13,primary,1.0,2.094
+SAMN04126221,PRJNA297252,MM057,4,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-06-14,primary,1.0,9.527
+SAMN04126222,PRJNA297252,MM057,5,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-06-17,primary,1.0,1.225
+SAMN04126223,PRJNA297252,MM057,6,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-06-22,primary,1.0,2.907
+SAMN04126224,PRJNA297252,MM057,7,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-07-07,primary,1.0,2.169
+SAMN04126225,PRJNA297252,MM057,8,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-07-20,primary,3.0,2.336
+SAMN04126226,PRJNA297252,MM057,9,elderly,33237.8,male,CA,healthy_control,Healthy,,,yes,2010-07-23,primary,1.0,3.681
+SAMN04126230,PRJNA297252,MM058,1,elderly,30702.0,female,CA,healthy_control,Healthy,,,no,2010-06-10,primary,1.0,8.064
+SAMN04126231,PRJNA297252,MM058,2,elderly,30702.0,female,CA,healthy_control,Healthy,,,no,2010-06-14,primary,1.0,1.692
+SAMN04126232,PRJNA297252,MM059,1,elderly,27394.0,male,CA,healthy_control,Healthy,,,yes,2010-06-11,primary,1.0,4.911
+SAMN04126233,PRJNA297252,MM059,2,elderly,27394.0,male,CA,healthy_control,Healthy,,,yes,2010-06-14,primary,1.0,2.343
+SAMN04126234,PRJNA297252,MM060,1,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2010-06-17,primary,1.0,2.154
+SAMN04126235,PRJNA297252,MM060,2,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2010-06-21,primary,1.0,2.064
+SAMN04126236,PRJNA297252,MM061,,elderly,24837.0,male,CA,healthy_control,Healthy,,,no,2010-06-18,primary,1.0,4.056
+SAMN04126237,PRJNA297252,MM062,1,elderly,27394.0,female,CA,healthy_control,Control,,,yes,2010-06-21,primary,1.0,1.992
+SAMN04126238,PRJNA297252,MM062,2,elderly,27394.0,female,CA,healthy_control,Control,,,yes,2010-06-22,primary,1.0,3.996
+SAMN04126239,PRJNA297252,MM063,,elderly,25932.8,female,CA,other_infection,Clostridium difficile Infection,,,yes,2010-06-22,primary,1.0,2.296
+SAMN04126240,PRJNA297252,MM064,1,elderly,28489.5,female,CA,other_disease,Gangrene,,,no,2010-07-15,primary,3.0,8.036
+SAMN04126241,PRJNA297252,MM064,2,elderly,28489.5,female,CA,other_disease,Osteoarthritis,,,yes,2010-07-21,primary,3.0,6.829
+SAMN04126242,PRJNA297252,MM065,,elderly,27028.5,male,CA,healthy_control,Healthy,,,yes,2010-07-27,primary,1.0,2.484
+SAMN04126243,PRJNA297252,MM066,,elderly,24837.0,female,CA,other_infection,Pneumonia,,,no,2010-07-28,primary,1.0,0.289
+SAMN04126244,PRJNA297252,MM068,1,adult,23376.0,male,CA,healthy_control,Healthy,,,yes,2010-08-20,primary,1.0,3.701
+SAMN04126245,PRJNA297252,MM068,2,adult,23376.0,male,CA,healthy_control,Healthy,,,yes,2010-08-23,primary,1.0,1.024
+SAMN04126246,PRJNA297252,MM069,,adult,22280.2,female,CA,healthy_control,Healthy,,,yes,2010-08-24,primary,1.0,1.727
+SAMN04126247,PRJNA297252,MM070,1,elderly,24837.0,male,CA,other_infection,Cellulitis,,,yes,2010-08-31,primary,1.0,3.23
+SAMN04126248,PRJNA297252,MM070,2,elderly,24837.0,male,CA,other_infection,Cellulitis,,,yes,2010-09-02,primary,1.0,3.296
+SAMN04126249,PRJNA297252,MM070,3,elderly,24837.0,male,CA,other_infection,Cellulitis,,,yes,2010-09-13,primary,1.0,3.13
+SAMN04126250,PRJNA297252,MM071,2,elderly,25932.8,female,CA,healthy_control,Healthy,,,yes,2010-09-03,primary,1.0,1.648
+SAMN04126251,PRJNA297252,MM071,3,elderly,25932.8,female,CA,healthy_control,Healthy,,,yes,2010-09-07,primary,1.0,0.917
+SAMN04126252,PRJNA297252,MM072,1,elderly,26641.0,female,CA,other_disease,Abdominal Hernia,,,yes,2010-09-03,primary,1.0,1.684
+SAMN04126253,PRJNA297252,MM072,2,elderly,26641.0,female,CA,other_infection,Cellulitis,,,yes,2010-09-08,primary,1.0,2.527
+SAMN04126254,PRJNA297252,MM074,1,elderly,25550.0,male,CA,healthy_control,Healthy,,,yes,2010-09-23,primary,1.0,2.121
+SAMN04126255,PRJNA297252,MM074,2,elderly,25550.0,male,CA,healthy_control,Healthy,,,yes,2010-09-27,primary,1.0,2.051
+SAMN04126256,PRJNA297252,MM075,1,elderly,23741.2,male,CA,healthy_control,Control,,,yes,2010-09-28,primary,1.0,4.319
+SAMN04126257,PRJNA297252,MM075,2,elderly,23741.2,male,CA,healthy_control,Control,,,yes,2010-09-30,primary,1.0,3.558
+SAMN04126258,PRJNA297252,MM077,,adult,23376.0,female,CA,healthy_control,Healthy,,,no,2010-10-04,primary,1.0,3.217
+SAMN04126259,PRJNA297252,MM078,,elderly,32481.0,female,CA,healthy_control,Control,,,no,2010-10-06,primary,1.0,3.598
+SAMN04126260,PRJNA297252,MM079,1,elderly,30300.0,male,CA,healthy_control,Control,,,yes,2010-10-19,primary,1.0,2.361
+SAMN04126261,PRJNA297252,MM079,2,elderly,30300.0,male,CA,healthy_control,Control,,,yes,2010-10-21,primary,1.0,1.042
+SAMN04126262,PRJNA297252,MM080,,elderly,24837.0,female,CA,healthy_control,Healthy,,,no,2010-10-21,primary,1.0,4.63
+SAMN04126263,PRJNA297252,MM081,,elderly,31016.0,male,CA,healthy_control,Healthy,,,no,2010-10-26,primary,1.0,2.2
+SAMN04126264,PRJNA297252,MM082,,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2010-11-11,primary,1.0,2.11
+SAMN04126265,PRJNA297252,MM083,1,adult,22627.0,male,CA,healthy_control,Healthy,,,yes,2010-11-18,primary,1.0,2.686
+SAMN04126266,PRJNA297252,MM083,2,adult,22627.0,male,CA,healthy_control,Healthy,,,yes,2010-11-23,primary,1.0,1.096
+SAMN04126267,PRJNA297252,MM083,3,adult,22627.0,male,CA,healthy_control,Healthy,,,yes,2010-11-26,primary,1.0,1.046
+SAMN04126268,PRJNA297252,MM083,4,adult,22627.0,male,CA,healthy_control,Healthy,,,yes,2010-11-29,primary,1.0,3.302
+SAMN04126269,PRJNA297252,MM083,5,adult,22627.0,male,CA,healthy_control,Healthy,,,yes,2010-12-02,primary,1.0,2.081
+SAMN04126270,PRJNA297252,MM084,,elderly,29580.0,male,CA,healthy_control,Healthy,,,no,2010-11-18,primary,1.0,2.805
+SAMN04126271,PRJNA297252,MM085,1,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2010-11-30,primary,1.0,1.327
+SAMN04126272,PRJNA297252,MM085,2,elderly,29220.0,female,CA,healthy_control,Healthy,,,yes,2010-12-03,primary,1.0,3.868
+SAMN04126273,PRJNA297252,MM086,2,elderly,27028.5,male,CA,healthy_control,Healthy,,,no,2010-12-06,primary,1.0,0.854
+SAMN04126274,PRJNA297252,MM086,3,elderly,27028.5,male,CA,healthy_control,Healthy,,,no,2010-12-10,primary,1.0,3.242
+SAMN04126275,PRJNA297252,MM086,5,elderly,27028.5,male,CA,healthy_control,Healthy,,,no,2010-12-17,primary,1.0,1.366
+SAMN04126276,PRJNA297252,MM086,6,elderly,27028.5,male,CA,healthy_control,Healthy,,,yes,2010-12-21,primary,1.0,1.529
+SAMN04126277,PRJNA297252,MM087,1,elderly,28489.5,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-12-09,primary,1.0,1.879
+SAMN04126278,PRJNA297252,MM087,2,elderly,28489.5,male,CA,other_infection,Clostridium difficile Infection,,,yes,2010-12-12,primary,1.0,2.255
+SAMN04126279,PRJNA297252,MM088,,elderly,28489.5,male,CA,healthy_control,Control,,,no,2010-12-20,primary,1.0,1.307
+SAMN04126280,PRJNA297252,MM089,1,elderly,31016.0,female,CA,healthy_control,Healthy,,,no,2011-01-07,primary,1.0,7.503
+SAMN04126281,PRJNA297252,MM089,2,elderly,31016.0,female,CA,healthy_control,Healthy,,,no,2011-01-10,primary,1.0,2.081
+SAMN04126282,PRJNA297252,MM090,1,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2011-01-19,primary,1.0,5.573
+SAMN04126283,PRJNA297252,MM090,2,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2011-01-21,primary,1.0,2.479
+SAMN04126284,PRJNA297252,MM090,3,elderly,27394.0,female,CA,healthy_control,Healthy,,,yes,2011-01-24,primary,1.0,9.371
+SAMN04126285,PRJNA297252,MM091,1,elderly,25932.8,male,CA,healthy_control,Healthy,,,no,2011-01-24,primary,1.0,1.203
+SAMN04126286,PRJNA297252,MM091,2,elderly,25932.8,male,CA,healthy_control,Healthy,,,yes,2011-01-27,primary,1.0,1.122
+SAMN04126287,PRJNA297252,MM091,3,elderly,25932.8,male,CA,healthy_control,Healthy,,,yes,2011-01-31,primary,1.0,3.334
+SAMN04126288,PRJNA297252,MM091,4,elderly,25932.8,male,CA,healthy_control,Healthy,,,yes,2011-02-02,primary,1.0,1.046
+SAMN04126289,PRJNA297252,MM092,,elderly,31394.0,male,CA,healthy_control,Control,,,no,2011-02-08,primary,1.0,3.419
+SAMN04126290,PRJNA297252,MM093,,elderly,27394.0,female,CA,healthy_control,Control,,,no,2011-02-17,primary,3.0,14.051
+SAMN04126291,PRJNA297252,MM094,1,elderly,26641.0,male,CA,healthy_control,Healthy,,,no,2011-02-16,primary,1.0,1.267
+SAMN04126292,PRJNA297252,MM094,2,elderly,26641.0,male,CA,healthy_control,Healthy,,,yes,2011-02-18,primary,1.0,0.821
+SAMN04126293,PRJNA297252,MM096,,elderly,24837.0,male,CA,healthy_control,Control,,,yes,2011-03-01,primary,1.0,3.32
+SAMN04126294,PRJNA297252,MM098,1,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-03-11,primary,1.0,2.166
+SAMN04126303,PRJNA297252,MM098,10,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Cellulitis,,,yes,2011-04-21,primary,1.0,2.082
+SAMN04126304,PRJNA297252,MM098,11,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Cellulitis,,,yes,2011-04-26,primary,1.0,0.37
+SAMN04126305,PRJNA297252,MM098,12,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-04-29,primary,1.0,1.808
+SAMN04126306,PRJNA297252,MM098,13,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-05-02,primary,1.0,0.367
+SAMN04126307,PRJNA297252,MM098,14,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-05-05,primary,1.0,2.285
+SAMN04126308,PRJNA297252,MM098,15,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-05-06,primary,3.0,1.363
+SAMN04126295,PRJNA297252,MM098,2,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-03-21,primary,1.0,2.21
+SAMN04126296,PRJNA297252,MM098,3,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-03-24,primary,1.0,1.3
+SAMN04126297,PRJNA297252,MM098,4,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-03-29,primary,1.0,3.435
+SAMN04126298,PRJNA297252,MM098,5,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-04-05,primary,1.0,1.318
+SAMN04126299,PRJNA297252,MM098,6,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-04-08,primary,1.0,2.154
+SAMN04126300,PRJNA297252,MM098,7,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-04-11,primary,1.0,0.846
+SAMN04126301,PRJNA297252,MM098,8,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-04-15,primary,1.0,0.989
+SAMN04126302,PRJNA297252,MM098,9,elderly,24106.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-04-18,primary,1.0,0.623
+SAMN04126309,PRJNA297252,MM099,1,elderly,27028.5,male,CA,other_infection,Clostridium difficile Infection;Osteoarthritis,,,no,2011-03-18,primary,1.0,0.979
+SAMN04126310,PRJNA297252,MM099,2,elderly,27028.5,male,CA,other_infection,Clostridium difficile Infection;Ureterolithiasis,,,yes,2011-03-21,primary,1.0,1.774
+SAMN04126311,PRJNA297252,MM099,3,elderly,27028.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-03-25,primary,1.0,0.376
+SAMN04126312,PRJNA297252,MM099,4,elderly,27028.5,male,CA,other_infection,Clostridium difficile Infection;Pneumonia,,,yes,2011-03-29,primary,3.0,5.06
+SAMN04126313,PRJNA297252,MM100,1,elderly,26298.0,female,CA,healthy_control,Healthy,,,yes,2011-03-30,primary,1.0,2.485
+SAMN04126314,PRJNA297252,MM100,2,elderly,26298.0,female,CA,healthy_control,Healthy,,,yes,2011-04-01,primary,1.0,7.302
+SAMN04126315,PRJNA297252,MM101,1,elderly,29220.0,male,CA,healthy_control,Control,,,yes,2011-04-13,primary,1.0,2.954
+SAMN04126316,PRJNA297252,MM101,2,elderly,29220.0,male,CA,healthy_control,Control,,,yes,2011-04-15,primary,1.0,7.921
+SAMN04126317,PRJNA297252,MM103,1,elderly,31016.0,male,CA,healthy_control,Healthy,,,yes,2011-04-29,primary,1.0,3.27
+SAMN04126318,PRJNA297252,MM103,2,elderly,31016.0,male,CA,healthy_control,Healthy,,,yes,2011-05-03,primary,1.0,2.523
+SAMN04126319,PRJNA297252,MM103,3,elderly,31016.0,male,CA,healthy_control,Healthy,,,yes,2011-05-05,primary,1.0,0.986
+SAMN04126320,PRJNA297252,MM104,,elderly,29580.0,male,CA,healthy_control,Control,,,yes,2011-04-28,primary,1.0,1.341

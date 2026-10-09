@@ -1,0 +1,549 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA120835032,PRJEB105465,1003,-1.0,adult,10224.0,female,SE,healthy_control,,no_intervention,days_since_intervention = -1.0 (before intervention start),no,2017-10-17,primary,1.0,12.064
+SAMEA120835329,PRJEB105465,1003,121.0,adult,10224.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-16,primary,1.0,10.907
+SAMEA120835065,PRJEB105465,1003,14.0,adult,10224.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-01,primary,1.0,11.999
+SAMEA120835423,PRJEB105465,1003,202.0,adult,10224.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-08,primary,1.0,7.307
+SAMEA120835491,PRJEB105465,1003,364.0,adult,10224.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-10-17,primary,1.0,9.269
+SAMEA120835234,PRJEB105465,1003,48.0,adult,10224.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-05,primary,1.0,9.704
+SAMEA120835023,PRJEB105465,1004,0.0,adult,16801.5,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-10-17,primary,1.0,10.162
+SAMEA120835059,PRJEB105465,1004,14.0,adult,16801.5,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-10-31,primary,1.0,5.176
+SAMEA120835402,PRJEB105465,1004,189.0,adult,16801.5,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-04-24,primary,1.0,4.574
+SAMEA120835492,PRJEB105465,1004,372.0,adult,16801.5,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-10-24,primary,1.0,22.109
+SAMEA120835213,PRJEB105465,1004,43.0,adult,16801.5,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-29,primary,1.0,14.368
+SAMEA120835040,PRJEB105465,1004,7.0,adult,16801.5,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-10-24,primary,1.0,18.033
+SAMEA120835294,PRJEB105465,1004,99.0,adult,16801.5,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-01-24,primary,1.0,28.186
+SAMEA120835030,PRJEB105465,1005,0.0,adult,14610.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-10-19,primary,1.0,8.887
+SAMEA120835332,PRJEB105465,1005,120.0,adult,14610.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-16,primary,1.0,8.348
+SAMEA120835069,PRJEB105465,1005,14.0,adult,14610.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-02,primary,1.0,13.479
+SAMEA120835410,PRJEB105465,1005,193.0,adult,14610.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-04-30,primary,1.0,11.493
+SAMEA120835495,PRJEB105465,1005,372.0,adult,14610.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-10-26,primary,1.0,8.7
+SAMEA120835208,PRJEB105465,1005,41.0,adult,14610.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-29,primary,1.0,7.227
+SAMEA120835047,PRJEB105465,1005,7.0,adult,14610.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-10-26,primary,1.0,6.868
+SAMEA120835022,PRJEB105465,1006,0.0,adult,10224.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-17,primary,1.0,15.2
+SAMEA120835061,PRJEB105465,1006,14.0,adult,10224.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-31,primary,1.0,24.725
+SAMEA120835404,PRJEB105465,1006,190.0,adult,10224.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-04-25,primary,1.0,17.716
+SAMEA120835494,PRJEB105465,1006,373.0,adult,10224.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-10-25,primary,1.0,0.009
+SAMEA120835188,PRJEB105465,1006,38.0,adult,10224.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-24,primary,1.0,32.635
+SAMEA120835041,PRJEB105465,1006,7.0,adult,10224.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-24,primary,1.0,25.375
+SAMEA120835293,PRJEB105465,1006,99.0,adult,10224.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-01-24,primary,1.0,12.174
+SAMEA120835054,PRJEB105465,1007,0.0,adult,8766.0,male,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-10-30,primary,1.0,11.278
+SAMEA120835316,PRJEB105465,1007,100.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-07,primary,1.0,0.032
+SAMEA120835147,PRJEB105465,1007,18.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-17,primary,1.0,16.133
+SAMEA120835463,PRJEB105465,1007,212.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-30,primary,1.0,10.43
+SAMEA120835510,PRJEB105465,1007,374.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-08,primary,1.0,13.062
+SAMEA120835019,PRJEB105465,1008,0.0,adult,8391.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-10-24,primary,1.0,6.801
+SAMEA120835094,PRJEB105465,1008,14.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-07,primary,1.0,5.811
+SAMEA120835417,PRJEB105465,1008,192.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-04,primary,1.0,3.691
+SAMEA120835504,PRJEB105465,1008,372.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-10-31,primary,1.0,11.13
+SAMEA120835227,PRJEB105465,1008,41.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-04,primary,1.0,5.742
+SAMEA120835056,PRJEB105465,1008,7.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-10-31,primary,1.0,3.278
+SAMEA120835308,PRJEB105465,1008,99.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-01-31,primary,1.0,5.058
+SAMEA120835029,PRJEB105465,1010,-1.0,adult,8391.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-18,primary,1.0,8.1
+SAMEA120835302,PRJEB105465,1010,103.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-01-30,primary,1.0,9.766
+SAMEA120835068,PRJEB105465,1010,14.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-02,primary,1.0,6.596
+SAMEA120835405,PRJEB105465,1010,189.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-04-26,primary,1.0,4.212
+SAMEA120835497,PRJEB105465,1010,375.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-10-29,primary,1.0,9.77
+SAMEA120835207,PRJEB105465,1010,41.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-29,primary,1.0,10.279
+SAMEA120835048,PRJEB105465,1010,7.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-26,primary,1.0,7.942
+SAMEA120835021,PRJEB105465,1011,0.0,adult,7660.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-10-17,primary,1.0,12.851
+SAMEA120835335,PRJEB105465,1011,122.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-16,primary,1.0,16.285
+SAMEA120835403,PRJEB105465,1011,189.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-04-24,primary,1.0,16.59
+SAMEA120835078,PRJEB105465,1011,20.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-06,primary,1.0,11.716
+SAMEA120835191,PRJEB105465,1011,41.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-27,primary,1.0,0.005
+SAMEA120835044,PRJEB105465,1011,8.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-10-25,primary,1.0,12.524
+SAMEA120835020,PRJEB105465,1012,-3.0,adult,8391.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -3.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-10-17,primary,1.0,25.236
+SAMEA120835088,PRJEB105465,1012,18.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-07,primary,1.0,21.026
+SAMEA120835408,PRJEB105465,1012,189.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-04-27,primary,1.0,15.212
+SAMEA120835501,PRJEB105465,1012,375.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-10-30,primary,1.0,19.162
+SAMEA120835203,PRJEB105465,1012,39.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-28,primary,1.0,0.002
+SAMEA120835051,PRJEB105465,1012,7.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-10-27,primary,1.0,14.543
+SAMEA120835299,PRJEB105465,1012,98.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-01-26,primary,1.0,19.472
+SAMEA120835053,PRJEB105465,1013,0.0,adult,8030.8,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-10-20,primary,1.0,0.002
+SAMEA120835071,PRJEB105465,1013,14.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-03,primary,1.0,0.002
+SAMEA120835033,PRJEB105465,1017,-5.0,adult,8030.8,female,SE,healthy_control,,no_intervention,"days_since_intervention = -5.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",yes,2017-10-19,primary,1.0,10.705
+SAMEA120835317,PRJEB105465,1017,107.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",yes,2018-02-08,primary,1.0,14.509
+SAMEA120835087,PRJEB105465,1017,14.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",yes,2017-11-07,primary,1.0,9.847
+SAMEA120835430,PRJEB105465,1017,204.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",yes,2018-05-16,primary,1.0,12.879
+SAMEA120835527,PRJEB105465,1017,393.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",yes,2018-11-21,primary,1.0,12.199
+SAMEA120835241,PRJEB105465,1017,44.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",yes,2017-12-07,primary,1.0,12.264
+SAMEA120835063,PRJEB105465,1017,8.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",yes,2017-11-01,primary,1.0,10.138
+SAMEA120835037,PRJEB105465,1018,0.0,adult,8030.8,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-10-20,primary,1.0,9.883
+SAMEA120835311,PRJEB105465,1018,105.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-02-02,primary,1.0,8.793
+SAMEA120835103,PRJEB105465,1018,20.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-09,primary,1.0,8.063
+SAMEA120835431,PRJEB105465,1018,208.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-16,primary,1.0,12.429
+SAMEA120835519,PRJEB105465,1018,392.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-11-16,primary,1.0,10.163
+SAMEA120835250,PRJEB105465,1018,54.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-13,primary,1.0,14.793
+SAMEA120835052,PRJEB105465,1018,7.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-10-27,primary,1.0,8.01
+SAMEA120835028,PRJEB105465,1019,-7.0,adult,18262.5,female,SE,healthy_control,,no_intervention,"days_since_intervention = -7.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-10-18,primary,1.0,10.842
+SAMEA120835080,PRJEB105465,1019,12.0,adult,18262.5,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-06,primary,1.0,15.932
+SAMEA120835108,PRJEB105465,1019,15.0,adult,18262.5,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-09,primary,1.0,4.73
+SAMEA120835422,PRJEB105465,1019,194.0,adult,18262.5,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-07,primary,1.0,11.562
+SAMEA120835503,PRJEB105465,1019,371.0,adult,18262.5,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-10-31,primary,1.0,10.124
+SAMEA120835246,PRJEB105465,1019,48.0,adult,18262.5,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-12,primary,1.0,8.094
+SAMEA120835307,PRJEB105465,1019,98.0,adult,18262.5,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-01-31,primary,1.0,8.303
+SAMEA120835026,PRJEB105465,1020,-2.0,adult,17146.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",yes,2017-10-18,primary,1.0,9.197
+SAMEA120835300,PRJEB105465,1020,101.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-01-29,primary,1.0,6.961
+SAMEA120835066,PRJEB105465,1020,13.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2017-11-02,primary,1.0,10.45
+SAMEA120835409,PRJEB105465,1020,192.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-04-30,primary,1.0,11.672
+SAMEA120835498,PRJEB105465,1020,374.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-10-29,primary,1.0,10.488
+SAMEA120835243,PRJEB105465,1020,48.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2017-12-07,primary,1.0,0.005
+SAMEA120835049,PRJEB105465,1020,7.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2017-10-27,primary,1.0,10.907
+SAMEA120835024,PRJEB105465,1021,-6.0,adult,10587.0,female,SE,healthy_control,,no_intervention,days_since_intervention = -6.0 (before intervention start),no,2017-10-18,primary,1.0,10.789
+SAMEA120835097,PRJEB105465,1021,15.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-08,primary,1.0,13.93
+SAMEA120835413,PRJEB105465,1021,192.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-04,primary,1.0,20.284
+SAMEA120835220,PRJEB105465,1021,37.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-30,primary,1.0,10.942
+SAMEA120835502,PRJEB105465,1021,371.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-10-30,primary,1.0,12.666
+SAMEA120835060,PRJEB105465,1021,7.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-10-31,primary,1.0,12.921
+SAMEA120835306,PRJEB105465,1021,99.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-01-31,primary,1.0,8.621
+SAMEA120835035,PRJEB105465,1022,-6.0,adult,10587.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -6.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-10-19,primary,1.0,12.043
+SAMEA120835374,PRJEB105465,1022,133.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-03-07,primary,1.0,10.04
+SAMEA120835101,PRJEB105465,1022,15.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-09,primary,1.0,3.649
+SAMEA120835425,PRJEB105465,1022,201.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-14,primary,1.0,4.876
+SAMEA120835532,PRJEB105465,1022,392.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-21,primary,1.0,11.931
+SAMEA120835075,PRJEB105465,1022,9.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-03,primary,1.0,8.131
+SAMEA120835025,PRJEB105465,1023,-1.0,adult,20440.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-10-18,primary,1.0,7.024
+SAMEA120835064,PRJEB105465,1023,13.0,adult,20440.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-01,primary,1.0,13.759
+SAMEA120835419,PRJEB105465,1023,197.0,adult,20440.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-04,primary,1.0,10.889
+SAMEA120835493,PRJEB105465,1023,370.0,adult,20440.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-10-24,primary,1.0,14.542
+SAMEA120835238,PRJEB105465,1023,47.0,adult,20440.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-05,primary,1.0,12.664
+SAMEA120835045,PRJEB105465,1023,6.0,adult,20440.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-10-25,primary,1.0,12.531
+SAMEA120835298,PRJEB105465,1023,99.0,adult,20440.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-01-26,primary,1.0,14.834
+SAMEA120835034,PRJEB105465,1024,-1.0,adult,9491.5,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-19,primary,1.0,12.657
+SAMEA120835070,PRJEB105465,1024,13.0,adult,9491.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-02,primary,1.0,12.771
+SAMEA120835407,PRJEB105465,1024,189.0,adult,9491.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-04-27,primary,1.0,0.003
+SAMEA120835499,PRJEB105465,1024,375.0,adult,9491.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-10-30,primary,1.0,11.947
+SAMEA120835225,PRJEB105465,1024,45.0,adult,9491.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-04,primary,1.0,11.963
+SAMEA120835050,PRJEB105465,1024,7.0,adult,9491.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-27,primary,1.0,11.153
+SAMEA120835297,PRJEB105465,1024,98.0,adult,9491.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-01-26,primary,1.0,0.002
+SAMEA120835042,PRJEB105465,1025,-1.0,adult,9491.5,male,SE,healthy_control,,no_intervention,days_since_intervention = -1.0 (before intervention start),no,2017-10-24,primary,1.0,21.247
+SAMEA120835313,PRJEB105465,1025,104.0,adult,9491.5,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-06,primary,1.0,19.787
+SAMEA120835117,PRJEB105465,1025,16.0,adult,9491.5,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-10,primary,1.0,21.445
+SAMEA120835415,PRJEB105465,1025,191.0,adult,9491.5,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-04,primary,1.0,16.187
+SAMEA120835506,PRJEB105465,1025,373.0,adult,9491.5,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-02,primary,1.0,23.647
+SAMEA120835232,PRJEB105465,1025,41.0,adult,9491.5,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-05,primary,1.0,15.098
+SAMEA120835058,PRJEB105465,1025,6.0,adult,9491.5,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-10-31,primary,1.0,28.422
+SAMEA120835046,PRJEB105465,1026,0.0,adult,8766.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-10-25,primary,1.0,10.77
+SAMEA120835328,PRJEB105465,1026,113.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-15,primary,1.0,8.699
+SAMEA120835098,PRJEB105465,1026,14.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-08,primary,1.0,8.217
+SAMEA120835468,PRJEB105465,1026,218.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-31,primary,1.0,12.811
+SAMEA120835529,PRJEB105465,1026,392.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-21,primary,1.0,11.373
+SAMEA120835228,PRJEB105465,1026,40.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-04,primary,1.0,8.177
+SAMEA120835072,PRJEB105465,1026,9.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-03,primary,1.0,13.328
+SAMEA120835031,PRJEB105465,1027,-5.0,adult,13879.5,male,SE,healthy_control,,no_intervention,"days_since_intervention = -5.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-19,primary,1.0,3.186
+SAMEA120835320,PRJEB105465,1027,108.0,adult,13879.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-09,primary,1.0,7.168
+SAMEA120835081,PRJEB105465,1027,13.0,adult,13879.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-06,primary,1.0,15.333
+SAMEA120835420,PRJEB105465,1027,195.0,adult,13879.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-07,primary,1.0,10.038
+SAMEA120835508,PRJEB105465,1027,378.0,adult,13879.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-06,primary,1.0,15.375
+SAMEA120835240,PRJEB105465,1027,43.0,adult,13879.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-06,primary,1.0,3.21
+SAMEA120835057,PRJEB105465,1027,7.0,adult,13879.5,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-31,primary,1.0,5.757
+SAMEA120835027,PRJEB105465,1028,-6.0,adult,8766.0,male,SE,healthy_control,,no_intervention,days_since_intervention = -6.0 (before intervention start),no,2017-10-18,primary,1.0,8.858
+SAMEA120835090,PRJEB105465,1028,14.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-07,primary,1.0,19.131
+SAMEA120835412,PRJEB105465,1028,192.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-04,primary,1.0,10.516
+SAMEA120835507,PRJEB105465,1028,374.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-02,primary,1.0,4.345
+SAMEA120835222,PRJEB105465,1028,38.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-01,primary,1.0,17.622
+SAMEA120835055,PRJEB105465,1028,7.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-10-31,primary,1.0,16.467
+SAMEA120835304,PRJEB105465,1028,99.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-01-31,primary,1.0,14.904
+SAMEA120835036,PRJEB105465,1030,-7.0,adult,12418.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -7.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-10-20,primary,1.0,12.715
+SAMEA120835116,PRJEB105465,1030,14.0,adult,12418.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-10,primary,1.0,13.236
+SAMEA120835411,PRJEB105465,1030,188.0,adult,12418.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-03,primary,1.0,10.086
+SAMEA120835505,PRJEB105465,1030,371.0,adult,12418.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-02,primary,1.0,13.697
+SAMEA120835235,PRJEB105465,1030,39.0,adult,12418.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-05,primary,1.0,9.873
+SAMEA120835074,PRJEB105465,1030,7.0,adult,12418.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-03,primary,1.0,11.377
+SAMEA120835310,PRJEB105465,1030,98.0,adult,12418.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-02,primary,1.0,18.689
+SAMEA120835043,PRJEB105465,1031,0.0,adult,9491.5,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-10-24,primary,1.0,5.689
+SAMEA120835309,PRJEB105465,1031,101.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-02,primary,1.0,17.243
+SAMEA120835082,PRJEB105465,1031,14.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-07,primary,1.0,5.919
+SAMEA120835084,PRJEB105465,1031,14.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-07,primary,1.0,6.863
+SAMEA120835471,PRJEB105465,1031,223.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-06-04,primary,1.0,13.514
+SAMEA120835209,PRJEB105465,1031,36.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-29,primary,1.0,0.001
+SAMEA120835496,PRJEB105465,1031,370.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-10-29,primary,1.0,16.819
+SAMEA120835038,PRJEB105465,1032,-1.0,adult,8030.8,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-10-23,primary,1.0,28.541
+SAMEA120835357,PRJEB105465,1032,122.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-23,primary,1.0,10.316
+SAMEA120835079,PRJEB105465,1032,13.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-06,primary,1.0,13.13
+SAMEA120835113,PRJEB105465,1032,17.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-10,primary,1.0,10.696
+SAMEA120835421,PRJEB105465,1032,195.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-07,primary,1.0,9.063
+SAMEA120835511,PRJEB105465,1032,384.0,adult,8030.8,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-12,primary,1.0,8.5
+SAMEA120835039,PRJEB105465,1034,-1.0,adult,8391.0,female,SE,healthy_control,,no_intervention,days_since_intervention = -1.0 (before intervention start),no,2017-10-23,primary,1.0,23.908
+SAMEA120835314,PRJEB105465,1034,105.0,adult,8391.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-06,primary,1.0,21.145
+SAMEA120835096,PRJEB105465,1034,15.0,adult,8391.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-08,primary,1.0,0.004
+SAMEA120835414,PRJEB105465,1034,192.0,adult,8391.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-04,primary,1.0,30.509
+SAMEA120835500,PRJEB105465,1034,371.0,adult,8391.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-10-30,primary,1.0,26.239
+SAMEA120835231,PRJEB105465,1034,41.0,adult,8391.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-04,primary,1.0,20.235
+SAMEA120835067,PRJEB105465,1034,9.0,adult,8391.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-02,primary,1.0,32.001
+SAMEA120835062,PRJEB105465,1035,-6.0,adult,17897.2,female,SE,healthy_control,,no_intervention,"days_since_intervention = -6.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-01,primary,1.0,10.974
+SAMEA120835157,PRJEB105465,1035,13.0,adult,17897.2,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-20,primary,1.0,11.979
+SAMEA120835429,PRJEB105465,1035,189.0,adult,17897.2,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-15,primary,1.0,14.225
+SAMEA120835248,PRJEB105465,1035,36.0,adult,17897.2,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-13,primary,1.0,17.066
+SAMEA120835512,PRJEB105465,1035,371.0,adult,17897.2,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-11-13,primary,1.0,12.947
+SAMEA120835135,PRJEB105465,1035,7.0,adult,17897.2,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-14,primary,1.0,6.915
+SAMEA120835322,PRJEB105465,1035,98.0,adult,17897.2,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-13,primary,1.0,3.553
+SAMEA120835073,PRJEB105465,1036,-13.0,adult,12044.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -13.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-03,primary,1.0,5.381
+SAMEA120835219,PRJEB105465,1036,14.0,adult,12044.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-30,primary,1.0,15.335
+SAMEA120835448,PRJEB105465,1036,188.0,adult,12044.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-23,primary,1.0,11.828
+SAMEA120835274,PRJEB105465,1036,35.0,adult,12044.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-21,primary,1.0,6.625
+SAMEA120835537,PRJEB105465,1036,372.0,adult,12044.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-23,primary,1.0,13.342
+SAMEA120835182,PRJEB105465,1036,7.0,adult,12044.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-23,primary,1.0,5.234
+SAMEA120835359,PRJEB105465,1036,99.0,adult,12044.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-23,primary,1.0,6.437
+SAMEA120835076,PRJEB105465,1037,-3.0,adult,15340.5,female,SE,healthy_control,,no_intervention,"days_since_intervention = -3.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-03,primary,1.0,20.931
+SAMEA120835327,PRJEB105465,1037,100.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-14,primary,1.0,25.557
+SAMEA120835164,PRJEB105465,1037,15.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-21,primary,1.0,18.53
+SAMEA120835459,PRJEB105465,1037,203.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-28,primary,1.0,22.083
+SAMEA120835536,PRJEB105465,1037,382.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-23,primary,1.0,22.717
+SAMEA120835136,PRJEB105465,1037,8.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-14,primary,1.0,24.179
+SAMEA120835086,PRJEB105465,1039,-1.0,adult,8030.8,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-07,primary,1.0,0.006
+SAMEA120835334,PRJEB105465,1039,100.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-16,primary,1.0,12.423
+SAMEA120835168,PRJEB105465,1039,13.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-21,primary,1.0,8.998
+SAMEA120835461,PRJEB105465,1039,202.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-29,primary,1.0,12.652
+SAMEA120835556,PRJEB105465,1039,391.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-12-04,primary,1.0,13.161
+SAMEA120835257,PRJEB105465,1039,41.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-19,primary,1.0,13.879
+SAMEA120835128,PRJEB105465,1039,6.0,adult,8030.8,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-14,primary,1.0,18.686
+SAMEA120835077,PRJEB105465,1040,-1.0,adult,7305.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-06,primary,1.0,13.325
+SAMEA120835159,PRJEB105465,1040,14.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-21,primary,1.0,7.475
+SAMEA120835428,PRJEB105465,1040,189.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-15,primary,1.0,6.892
+SAMEA120835247,PRJEB105465,1040,35.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-12,primary,1.0,4.902
+SAMEA120835518,PRJEB105465,1040,373.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-15,primary,1.0,8.449
+SAMEA120835132,PRJEB105465,1040,7.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-14,primary,1.0,15.729
+SAMEA120835323,PRJEB105465,1040,98.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-13,primary,1.0,0.003
+SAMEA120835092,PRJEB105465,1041,0.0,adult,17146.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-11-07,primary,1.0,9.943
+SAMEA120835158,PRJEB105465,1041,14.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-21,primary,1.0,13.565
+SAMEA120835433,PRJEB105465,1041,190.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-16,primary,1.0,17.618
+SAMEA120835251,PRJEB105465,1041,37.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-14,primary,1.0,13.403
+SAMEA120835515,PRJEB105465,1041,372.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-11-14,primary,1.0,16.013
+SAMEA120835129,PRJEB105465,1041,7.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-14,primary,1.0,14.616
+SAMEA120835325,PRJEB105465,1041,98.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-02-13,primary,1.0,11.645
+SAMEA120835083,PRJEB105465,1042,-10.0,adult,10587.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -10.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-07,primary,1.0,7.994
+SAMEA120835373,PRJEB105465,1042,109.0,adult,10587.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-03-06,primary,1.0,10.533
+SAMEA120835214,PRJEB105465,1042,12.0,adult,10587.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-29,primary,1.0,0.001
+SAMEA120835236,PRJEB105465,1042,18.0,adult,10587.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-05,primary,1.0,0.0
+SAMEA120835474,PRJEB105465,1042,207.0,adult,10587.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-06-12,primary,1.0,13.781
+SAMEA120835266,PRJEB105465,1042,33.0,adult,10587.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-20,primary,1.0,8.511
+SAMEA120835553,PRJEB105465,1042,381.0,adult,10587.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-12-03,primary,1.0,8.182
+SAMEA120835089,PRJEB105465,1043,-14.0,adult,10587.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -14.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-11-07,primary,1.0,8.699
+SAMEA120835454,PRJEB105465,1043,185.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-25,primary,1.0,10.675
+SAMEA120835276,PRJEB105465,1043,30.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-21,primary,1.0,9.639
+SAMEA120835528,PRJEB105465,1043,365.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-11-21,primary,1.0,10.833
+SAMEA120835192,PRJEB105465,1043,6.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-27,primary,1.0,7.86
+SAMEA120835210,PRJEB105465,1043,8.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-29,primary,1.0,9.834
+SAMEA120835366,PRJEB105465,1043,98.0,adult,10587.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-02-27,primary,1.0,8.52
+SAMEA120835091,PRJEB105465,1045,0.0,adult,8030.8,female,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-11-06,primary,1.0,9.109
+SAMEA120835169,PRJEB105465,1045,16.0,adult,8030.8,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-22,primary,1.0,6.813
+SAMEA120835436,PRJEB105465,1045,192.0,adult,8030.8,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-17,primary,1.0,4.03
+SAMEA120835514,PRJEB105465,1045,373.0,adult,8030.8,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-14,primary,1.0,6.07
+SAMEA120835252,PRJEB105465,1045,39.0,adult,8030.8,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-15,primary,1.0,3.789
+SAMEA120835123,PRJEB105465,1045,8.0,adult,8030.8,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-14,primary,1.0,7.185
+SAMEA120835324,PRJEB105465,1045,99.0,adult,8030.8,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-13,primary,1.0,13.382
+SAMEA120835093,PRJEB105465,1046,-1.0,adult,10957.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-11-07,primary,1.0,10.765
+SAMEA120835349,PRJEB105465,1046,104.0,adult,10957.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-02-20,primary,1.0,10.367
+SAMEA120835170,PRJEB105465,1046,14.0,adult,10957.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-22,primary,1.0,10.103
+SAMEA120835434,PRJEB105465,1046,189.0,adult,10957.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-16,primary,1.0,15.427
+SAMEA120835521,PRJEB105465,1046,373.0,adult,10957.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-11-16,primary,1.0,9.958
+SAMEA120835260,PRJEB105465,1046,41.0,adult,10957.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-19,primary,1.0,14.063
+SAMEA120835138,PRJEB105465,1046,7.0,adult,10957.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-15,primary,1.0,8.81
+SAMEA120835102,PRJEB105465,1047,-7.0,adult,12044.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -7.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-11-09,primary,1.0,13.447
+SAMEA120835190,PRJEB105465,1047,11.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-27,primary,1.0,9.821
+SAMEA120835378,PRJEB105465,1047,113.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-09,primary,1.0,0.259
+SAMEA120835224,PRJEB105465,1047,15.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-01,primary,1.0,14.151
+SAMEA120835466,PRJEB105465,1047,194.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-29,primary,1.0,10.36
+SAMEA120835271,PRJEB105465,1047,35.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-21,primary,1.0,0.002
+SAMEA120835552,PRJEB105465,1047,378.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-11-29,primary,1.0,13.582
+SAMEA120835085,PRJEB105465,1048,0.0,adult,10587.0,female,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-11-04,primary,1.0,12.439
+SAMEA120835355,PRJEB105465,1048,109.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-21,primary,1.0,8.982
+SAMEA120835137,PRJEB105465,1048,11.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-15,primary,1.0,15.788
+SAMEA120835171,PRJEB105465,1048,18.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-22,primary,1.0,11.585
+SAMEA120835449,PRJEB105465,1048,200.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-23,primary,1.0,12.856
+SAMEA120835526,PRJEB105465,1048,381.0,adult,10587.0,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-20,primary,1.0,10.317
+SAMEA120835106,PRJEB105465,1050,-1.0,adult,8391.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",yes,2017-11-07,primary,1.0,7.382
+SAMEA120835333,PRJEB105465,1050,100.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2018-02-16,primary,1.0,10.94
+SAMEA120835174,PRJEB105465,1050,14.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2017-11-22,primary,1.0,12.213
+SAMEA120835462,PRJEB105465,1050,202.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2018-05-29,primary,1.0,11.401
+SAMEA120835555,PRJEB105465,1050,391.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2018-12-04,primary,1.0,12.105
+SAMEA120835148,PRJEB105465,1050,9.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2017-11-17,primary,1.0,9.023
+SAMEA120835095,PRJEB105465,1051,-2.0,adult,8391.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-07,primary,1.0,12.592
+SAMEA120835344,PRJEB105465,1051,103.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-20,primary,1.0,12.52
+SAMEA120835196,PRJEB105465,1051,18.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-27,primary,1.0,12.451
+SAMEA120835439,PRJEB105465,1051,189.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-17,primary,1.0,13.29
+SAMEA120835522,PRJEB105465,1051,375.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-19,primary,1.0,0.0
+SAMEA120835259,PRJEB105465,1051,40.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-19,primary,1.0,11.495
+SAMEA120835142,PRJEB105465,1051,6.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-15,primary,1.0,12.617
+SAMEA120835109,PRJEB105465,1052,0.0,adult,10224.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-09,primary,1.0,7.853
+SAMEA120835172,PRJEB105465,1052,13.0,adult,10224.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-22,primary,1.0,4.129
+SAMEA120835464,PRJEB105465,1052,202.0,adult,10224.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-30,primary,1.0,14.836
+SAMEA120835531,PRJEB105465,1052,377.0,adult,10224.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-21,primary,1.0,17.012
+SAMEA120835287,PRJEB105465,1052,54.0,adult,10224.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-01-02,primary,1.0,7.126
+SAMEA120835139,PRJEB105465,1052,6.0,adult,10224.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-15,primary,1.0,15.435
+SAMEA120835326,PRJEB105465,1052,97.0,adult,10224.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-14,primary,1.0,13.391
+SAMEA120835104,PRJEB105465,1053,-8.0,adult,8766.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -8.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-09,primary,1.0,13.496
+SAMEA120835460,PRJEB105465,1053,193.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-29,primary,1.0,11.806
+SAMEA120835269,PRJEB105465,1053,34.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-21,primary,1.0,15.098
+SAMEA120835541,PRJEB105465,1053,374.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-11-26,primary,1.0,12.063
+SAMEA120835186,PRJEB105465,1053,7.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-24,primary,1.0,12.861
+SAMEA120835358,PRJEB105465,1053,98.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-23,primary,1.0,10.536
+SAMEA120835105,PRJEB105465,1054,-4.0,adult,7660.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -4.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-09,primary,1.0,10.83
+SAMEA120835353,PRJEB105465,1054,100.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-21,primary,1.0,7.755
+SAMEA120835200,PRJEB105465,1054,15.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-28,primary,1.0,8.716
+SAMEA120835445,PRJEB105465,1054,190.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-22,primary,1.0,11.175
+SAMEA120835525,PRJEB105465,1054,372.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-20,primary,1.0,7.141
+SAMEA120835270,PRJEB105465,1054,38.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-21,primary,1.0,8.598
+SAMEA120835163,PRJEB105465,1054,8.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-21,primary,1.0,12.148
+SAMEA120835100,PRJEB105465,1055,-2.0,adult,8766.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",yes,2017-11-08,primary,1.0,10.26
+SAMEA120835156,PRJEB105465,1055,10.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",yes,2017-11-20,primary,1.0,10.046
+SAMEA120835338,PRJEB105465,1055,101.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",yes,2018-02-19,primary,1.0,6.807
+SAMEA120835185,PRJEB105465,1055,14.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",yes,2017-11-24,primary,1.0,7.492
+SAMEA120835438,PRJEB105465,1055,188.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",yes,2018-05-17,primary,1.0,8.128
+SAMEA120835524,PRJEB105465,1055,375.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",yes,2018-11-20,primary,1.0,11.83
+SAMEA120835253,PRJEB105465,1055,38.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",yes,2017-12-18,primary,1.0,9.131
+SAMEA120835245,PRJEB105465,1056,-1.0,adult,13879.5,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-12-11,primary,1.0,6.33
+SAMEA120835479,PRJEB105465,1056,191.0,adult,13879.5,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-06-21,primary,1.0,4.032
+SAMEA120835286,PRJEB105465,1056,21.0,adult,13879.5,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-01-02,primary,1.0,14.205
+SAMEA120835559,PRJEB105465,1056,372.0,adult,13879.5,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-12-19,primary,1.0,13.34
+SAMEA120835296,PRJEB105465,1056,44.0,adult,13879.5,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-01-25,primary,1.0,13.534
+SAMEA120835262,PRJEB105465,1056,8.0,adult,13879.5,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-20,primary,1.0,11.058
+SAMEA120835391,PRJEB105465,1056,99.0,adult,13879.5,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-21,primary,1.0,4.375
+SAMEA120835107,PRJEB105465,1057,-1.0,adult,7660.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-09,primary,1.0,11.97
+SAMEA120835177,PRJEB105465,1057,13.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-23,primary,1.0,8.67
+SAMEA120835435,PRJEB105465,1057,188.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-17,primary,1.0,13.463
+SAMEA120835520,PRJEB105465,1057,371.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-16,primary,1.0,19.058
+SAMEA120835267,PRJEB105465,1057,40.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-20,primary,1.0,0.001
+SAMEA120835150,PRJEB105465,1057,7.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-17,primary,1.0,14.714
+SAMEA120835331,PRJEB105465,1057,98.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-16,primary,1.0,12.118
+SAMEA120835119,PRJEB105465,1059,0.0,adult,8391.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-10,primary,1.0,9.297
+SAMEA120835155,PRJEB105465,1059,10.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-20,primary,1.0,8.279
+SAMEA120835347,PRJEB105465,1059,102.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-20,primary,1.0,11.204
+SAMEA120835183,PRJEB105465,1059,14.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-24,primary,1.0,11.198
+SAMEA120835437,PRJEB105465,1059,188.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-17,primary,1.0,13.253
+SAMEA120835530,PRJEB105465,1059,376.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-11-21,primary,1.0,9.892
+SAMEA120835256,PRJEB105465,1059,39.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-19,primary,1.0,12.052
+SAMEA120835114,PRJEB105465,1060,-1.0,adult,7305.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-08,primary,1.0,6.786
+SAMEA120835181,PRJEB105465,1060,14.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-23,primary,1.0,19.125
+SAMEA120835426,PRJEB105465,1060,187.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-15,primary,1.0,17.273
+SAMEA120835523,PRJEB105465,1060,375.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-19,primary,1.0,15.749
+SAMEA120835255,PRJEB105465,1060,40.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-19,primary,1.0,17.196
+SAMEA120835146,PRJEB105465,1060,7.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-16,primary,1.0,0.001
+SAMEA120835330,PRJEB105465,1060,99.0,adult,7305.0,female,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-16,primary,1.0,0.007
+SAMEA120835112,PRJEB105465,1061,-7.0,adult,17146.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -7.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-10,primary,1.0,14.276
+SAMEA120835226,PRJEB105465,1061,17.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-04,primary,1.0,6.935
+SAMEA120835467,PRJEB105465,1061,193.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-29,primary,1.0,5.739
+SAMEA120835258,PRJEB105465,1061,32.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-19,primary,1.0,11.829
+SAMEA120835539,PRJEB105465,1061,371.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-23,primary,1.0,8.264
+SAMEA120835187,PRJEB105465,1061,7.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-24,primary,1.0,13.747
+SAMEA120835362,PRJEB105465,1061,98.0,adult,17146.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-23,primary,1.0,0.002
+SAMEA120835380,PRJEB105465,1062,103.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-12,primary,1.0,6.166
+SAMEA120835249,PRJEB105465,1062,14.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-13,primary,1.0,0.0
+SAMEA120835472,PRJEB105465,1062,188.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-06-05,primary,1.0,13.615
+SAMEA120835223,PRJEB105465,1062,2.0,adult,8391.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-12-01,primary,1.0,0.001
+SAMEA120835558,PRJEB105465,1062,371.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-12-05,primary,1.0,6.095
+SAMEA120835289,PRJEB105465,1062,42.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-01-10,primary,1.0,12.844
+SAMEA120835242,PRJEB105465,1062,8.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-07,primary,1.0,4.569
+SAMEA120835110,PRJEB105465,1063,0.0,adult,7660.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-10,primary,1.0,24.572
+SAMEA120835153,PRJEB105465,1063,10.0,adult,7660.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-20,primary,1.0,25.679
+SAMEA120835342,PRJEB105465,1063,102.0,adult,7660.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-20,primary,1.0,24.477
+SAMEA120835199,PRJEB105465,1063,18.0,adult,7660.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-28,primary,1.0,21.301
+SAMEA120835432,PRJEB105465,1063,187.0,adult,7660.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-16,primary,1.0,18.515
+SAMEA120835538,PRJEB105465,1063,378.0,adult,7660.0,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-23,primary,1.0,24.612
+SAMEA120835099,PRJEB105465,1064,-2.0,adult,7660.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-08,primary,1.0,4.455
+SAMEA120835341,PRJEB105465,1064,102.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-20,primary,1.0,16.217
+SAMEA120835176,PRJEB105465,1064,12.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-22,primary,1.0,7.259
+SAMEA120835451,PRJEB105465,1064,195.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-24,primary,1.0,7.246
+SAMEA120835513,PRJEB105465,1064,368.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-13,primary,1.0,16.707
+SAMEA120835268,PRJEB105465,1064,40.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-20,primary,1.0,14.528
+SAMEA120835144,PRJEB105465,1064,6.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-16,primary,1.0,11.956
+SAMEA120835120,PRJEB105465,1065,0.0,adult,6929.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2017-11-10,primary,1.0,15.22
+SAMEA120835152,PRJEB105465,1065,10.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-20,primary,1.0,12.975
+SAMEA120835336,PRJEB105465,1065,101.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-02-19,primary,1.0,14.545
+SAMEA120835189,PRJEB105465,1065,14.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-11-24,primary,1.0,8.114
+SAMEA120835441,PRJEB105465,1065,192.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-05-21,primary,1.0,8.35
+SAMEA120835535,PRJEB105465,1065,377.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-11-22,primary,1.0,13.268
+SAMEA120835261,PRJEB105465,1065,39.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2017-12-19,primary,1.0,17.752
+SAMEA120835121,PRJEB105465,1067,0.0,adult,9131.2,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-10,primary,1.0,19.167
+SAMEA120835151,PRJEB105465,1067,10.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-20,primary,1.0,17.694
+SAMEA120835343,PRJEB105465,1067,102.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-20,primary,1.0,16.613
+SAMEA120835175,PRJEB105465,1067,12.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-22,primary,1.0,19.027
+SAMEA120835465,PRJEB105465,1067,201.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-30,primary,1.0,22.281
+SAMEA120835516,PRJEB105465,1067,369.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-11-14,primary,1.0,22.195
+SAMEA120835284,PRJEB105465,1067,47.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-27,primary,1.0,23.94
+SAMEA120835143,PRJEB105465,1068,0.0,adult,7305.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-15,primary,1.0,15.143
+SAMEA120835379,PRJEB105465,1068,114.0,adult,7305.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-03-09,primary,1.0,8.195
+SAMEA120835206,PRJEB105465,1068,14.0,adult,7305.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-29,primary,1.0,17.234
+SAMEA120835229,PRJEB105465,1068,19.0,adult,7305.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-04,primary,1.0,16.762
+SAMEA120835452,PRJEB105465,1068,191.0,adult,7305.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-25,primary,1.0,0.001
+SAMEA120835550,PRJEB105465,1068,379.0,adult,7305.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-29,primary,1.0,5.723
+SAMEA120835134,PRJEB105465,1069,0.0,adult,7660.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-10,primary,1.0,12.143
+SAMEA120835346,PRJEB105465,1069,102.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-20,primary,1.0,13.386
+SAMEA120835165,PRJEB105465,1069,11.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-21,primary,1.0,12.237
+SAMEA120835180,PRJEB105465,1069,13.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-23,primary,1.0,13.314
+SAMEA120835427,PRJEB105465,1069,186.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-15,primary,1.0,9.988
+SAMEA120835517,PRJEB105465,1069,370.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-15,primary,1.0,13.488
+SAMEA120835264,PRJEB105465,1069,40.0,adult,7660.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-20,primary,1.0,13.534
+SAMEA120835141,PRJEB105465,1071,-2.0,adult,8766.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-15,primary,1.0,7.457
+SAMEA120835363,PRJEB105465,1071,101.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-26,primary,1.0,20.609
+SAMEA120835202,PRJEB105465,1071,11.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-28,primary,1.0,1.78
+SAMEA120835233,PRJEB105465,1071,18.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-05,primary,1.0,12.259
+SAMEA120835446,PRJEB105465,1071,187.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-23,primary,1.0,21.273
+SAMEA120835280,PRJEB105465,1071,35.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-22,primary,1.0,15.217
+SAMEA120835544,PRJEB105465,1071,374.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-11-26,primary,1.0,20.864
+SAMEA120835122,PRJEB105465,1072,-2.0,adult,9860.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",yes,2017-11-13,primary,1.0,13.102
+SAMEA120835370,PRJEB105465,1072,107.0,adult,9860.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-03-02,primary,1.0,12.92
+SAMEA120835204,PRJEB105465,1072,13.0,adult,9860.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2017-11-28,primary,1.0,9.176
+SAMEA120835469,PRJEB105465,1072,197.0,adult,9860.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-05-31,primary,1.0,16.509
+SAMEA120835551,PRJEB105465,1072,379.0,adult,9860.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-11-29,primary,1.0,10.273
+SAMEA120835167,PRJEB105465,1072,6.0,adult,9860.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2017-11-21,primary,1.0,7.126
+SAMEA120835290,PRJEB105465,1072,64.0,adult,9860.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",yes,2018-01-18,primary,1.0,14.63
+SAMEA120835130,PRJEB105465,1073,-1.0,adult,8391.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: ceftibuten, 5-day course",yes,2017-11-14,primary,1.0,11.221
+SAMEA120835215,PRJEB105465,1073,14.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-29,primary,1.0,11.235
+SAMEA120835450,PRJEB105465,1073,190.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-05-24,primary,1.0,13.836
+SAMEA120835278,PRJEB105465,1073,36.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-12-21,primary,1.0,11.341
+SAMEA120835534,PRJEB105465,1073,372.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-11-22,primary,1.0,11.55
+SAMEA120835173,PRJEB105465,1073,7.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2017-11-22,primary,1.0,9.031
+SAMEA120835356,PRJEB105465,1073,98.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ceftibuten, 5-day course",yes,2018-02-21,primary,1.0,10.135
+SAMEA120835133,PRJEB105465,1074,-1.0,adult,9491.5,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-14,primary,1.0,14.613
+SAMEA120835395,PRJEB105465,1074,134.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-03-29,primary,1.0,19.787
+SAMEA120835216,PRJEB105465,1074,14.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-29,primary,1.0,15.59
+SAMEA120835455,PRJEB105465,1074,191.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-25,primary,1.0,12.218
+SAMEA120835265,PRJEB105465,1074,35.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-20,primary,1.0,4.888
+SAMEA120835546,PRJEB105465,1074,376.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-26,primary,1.0,7.189
+SAMEA120835184,PRJEB105465,1074,9.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-24,primary,1.0,4.368
+SAMEA120835352,PRJEB105465,1074,98.0,adult,9491.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-21,primary,1.0,14.859
+SAMEA120835118,PRJEB105465,1075,-11.0,adult,8766.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -11.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-10,primary,1.0,12.156
+SAMEA120835375,PRJEB105465,1075,106.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-03-07,primary,1.0,14.321
+SAMEA120835244,PRJEB105465,1075,17.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-08,primary,1.0,10.805
+SAMEA120835478,PRJEB105465,1075,210.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-06-19,primary,1.0,9.369
+SAMEA120835549,PRJEB105465,1075,372.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-28,primary,1.0,12.895
+SAMEA120835288,PRJEB105465,1075,43.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-01-03,primary,1.0,9.105
+SAMEA120835212,PRJEB105465,1075,8.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-29,primary,1.0,15.369
+SAMEA120835115,PRJEB105465,1076,0.0,adult,8030.8,male,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-11-10,primary,1.0,5.286
+SAMEA120835340,PRJEB105465,1076,101.0,adult,8030.8,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-19,primary,1.0,15.334
+SAMEA120835211,PRJEB105465,1076,19.0,adult,8030.8,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-29,primary,1.0,15.961
+SAMEA120835457,PRJEB105465,1076,199.0,adult,8030.8,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-28,primary,1.0,5.212
+SAMEA120835509,PRJEB105465,1076,363.0,adult,8030.8,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-08,primary,1.0,7.428
+SAMEA120835254,PRJEB105465,1076,38.0,adult,8030.8,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-18,primary,1.0,8.787
+SAMEA120835145,PRJEB105465,1076,6.0,adult,8030.8,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-16,primary,1.0,6.894
+SAMEA120835126,PRJEB105465,1077,-1.0,adult,8766.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-14,primary,1.0,14.709
+SAMEA120835218,PRJEB105465,1077,15.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-30,primary,1.0,6.626
+SAMEA120835443,PRJEB105465,1077,188.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-22,primary,1.0,17.895
+SAMEA120835282,PRJEB105465,1077,37.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-22,primary,1.0,5.729
+SAMEA120835548,PRJEB105465,1077,377.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-27,primary,1.0,0.007
+SAMEA120835161,PRJEB105465,1077,6.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-21,primary,1.0,13.168
+SAMEA120835351,PRJEB105465,1077,98.0,adult,8766.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-21,primary,1.0,15.974
+SAMEA120835131,PRJEB105465,1078,0.0,adult,15340.5,female,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-11-10,primary,1.0,11.945
+SAMEA120835348,PRJEB105465,1078,102.0,adult,15340.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-20,primary,1.0,10.116
+SAMEA120835166,PRJEB105465,1078,11.0,adult,15340.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-21,primary,1.0,11.262
+SAMEA120835197,PRJEB105465,1078,18.0,adult,15340.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-28,primary,1.0,10.978
+SAMEA120835470,PRJEB105465,1078,202.0,adult,15340.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-31,primary,1.0,11.123
+SAMEA120835533,PRJEB105465,1078,377.0,adult,15340.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-11-22,primary,1.0,10.357
+SAMEA120835272,PRJEB105465,1078,41.0,adult,15340.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-21,primary,1.0,10.655
+SAMEA120835111,PRJEB105465,1079,-7.0,adult,6929.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -7.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",yes,2017-11-10,primary,1.0,13.44
+SAMEA120835195,PRJEB105465,1079,10.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2017-11-27,primary,1.0,9.164
+SAMEA120835230,PRJEB105465,1079,17.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2017-12-04,primary,1.0,9.869
+SAMEA120835447,PRJEB105465,1079,187.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2018-05-23,primary,1.0,8.167
+SAMEA120835273,PRJEB105465,1079,34.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2017-12-21,primary,1.0,9.336
+SAMEA120835545,PRJEB105465,1079,374.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2018-11-26,primary,1.0,13.698
+SAMEA120835360,PRJEB105465,1079,98.0,adult,6929.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",yes,2018-02-23,primary,1.0,0.003
+SAMEA120835154,PRJEB105465,1080,0.0,adult,6929.0,male,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-17,primary,1.0,12.679
+SAMEA120835194,PRJEB105465,1080,10.0,adult,6929.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-27,primary,1.0,12.572
+SAMEA120835365,PRJEB105465,1080,101.0,adult,6929.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-26,primary,1.0,9.904
+SAMEA120835237,PRJEB105465,1080,18.0,adult,6929.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-05,primary,1.0,7.878
+SAMEA120835477,PRJEB105465,1080,214.0,adult,6929.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-06-19,primary,1.0,13.32
+SAMEA120835281,PRJEB105465,1080,35.0,adult,6929.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-22,primary,1.0,14.219
+SAMEA120835547,PRJEB105465,1080,375.0,adult,6929.0,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-27,primary,1.0,14.447
+SAMEA120835125,PRJEB105465,1081,-1.0,adult,9131.2,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2017-11-14,primary,1.0,9.537
+SAMEA120835387,PRJEB105465,1081,124.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-03-19,primary,1.0,0.009
+SAMEA120835217,PRJEB105465,1081,14.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-29,primary,1.0,12.112
+SAMEA120835440,PRJEB105465,1081,184.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-18,primary,1.0,6.575
+SAMEA120835283,PRJEB105465,1081,37.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-12-22,primary,1.0,9.385
+SAMEA120835543,PRJEB105465,1081,376.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-11-26,primary,1.0,11.082
+SAMEA120835179,PRJEB105465,1081,8.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2017-11-23,primary,1.0,8.947
+SAMEA120835337,PRJEB105465,1081,96.0,adult,9131.2,male,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-19,primary,1.0,8.145
+SAMEA120835140,PRJEB105465,1082,0.0,adult,9860.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2017-11-15,primary,1.0,19.77
+SAMEA120835361,PRJEB105465,1082,100.0,adult,9860.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-23,primary,1.0,17.712
+SAMEA120835205,PRJEB105465,1082,14.0,adult,9860.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-29,primary,1.0,6.013
+SAMEA120835458,PRJEB105465,1082,194.0,adult,9860.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-28,primary,1.0,10.297
+SAMEA120835540,PRJEB105465,1082,373.0,adult,9860.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-11-23,primary,1.0,3.188
+SAMEA120835285,PRJEB105465,1082,42.0,adult,9860.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-12-27,primary,1.0,20.894
+SAMEA120835178,PRJEB105465,1082,8.0,adult,9860.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2017-11-23,primary,1.0,13.741
+SAMEA120835160,PRJEB105465,1083,10.0,adult,9491.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-21,primary,1.0,12.089
+SAMEA120835350,PRJEB105465,1083,102.0,adult,9491.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-21,primary,1.0,11.06
+SAMEA120835198,PRJEB105465,1083,17.0,adult,9491.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-28,primary,1.0,12.368
+SAMEA120835442,PRJEB105465,1083,192.0,adult,9491.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-22,primary,1.0,12.309
+SAMEA120835127,PRJEB105465,1083,3.0,adult,9491.5,female,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-11-14,primary,1.0,10.863
+SAMEA120835554,PRJEB105465,1083,387.0,adult,9491.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2018-12-03,primary,1.0,13.714
+SAMEA120835279,PRJEB105465,1083,40.0,adult,9491.5,female,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-21,primary,1.0,11.711
+SAMEA120835149,PRJEB105465,1084,0.0,adult,8391.0,female,SE,healthy_control,,no_intervention,"timepoint = 0.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-17,primary,1.0,11.447
+SAMEA120835193,PRJEB105465,1084,10.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-11-27,primary,1.0,11.884
+SAMEA120835364,PRJEB105465,1084,101.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-26,primary,1.0,8.745
+SAMEA120835239,PRJEB105465,1084,18.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-05,primary,1.0,0.018
+SAMEA120835456,PRJEB105465,1084,189.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-25,primary,1.0,14.409
+SAMEA120835275,PRJEB105465,1084,34.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2017-12-21,primary,1.0,13.229
+SAMEA120835542,PRJEB105465,1084,374.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-11-26,primary,1.0,10.167
+SAMEA120835124,PRJEB105465,1087,0.0,adult,8766.0,male,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2017-11-12,primary,1.0,9.231
+SAMEA120835354,PRJEB105465,1087,101.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-02-21,primary,1.0,0.318
+SAMEA120835201,PRJEB105465,1087,16.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-28,primary,1.0,11.038
+SAMEA120835444,PRJEB105465,1087,191.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-05-22,primary,1.0,11.247
+SAMEA120835557,PRJEB105465,1087,387.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-12-04,primary,1.0,11.053
+SAMEA120835277,PRJEB105465,1087,39.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-12-21,primary,1.0,12.053
+SAMEA120835162,PRJEB105465,1087,9.0,adult,8766.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2017-11-21,primary,1.0,12.709
+SAMEA120835292,PRJEB105465,1088,-1.0,adult,12044.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2018-01-23,primary,1.0,13.183
+SAMEA120835416,PRJEB105465,1088,100.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-04,primary,1.0,15.15
+SAMEA120835319,PRJEB105465,1088,16.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-09,primary,1.0,15.096
+SAMEA120835483,PRJEB105465,1088,191.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-08-03,primary,1.0,10.871
+SAMEA120835367,PRJEB105465,1088,34.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-27,primary,1.0,13.529
+SAMEA120835560,PRJEB105465,1088,371.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2019-01-30,primary,1.0,15.309
+SAMEA120835305,PRJEB105465,1088,7.0,adult,12044.0,male,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-01-31,primary,1.0,10.274
+SAMEA120835301,PRJEB105465,1090,-1.0,adult,8391.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: sulfamethoxazole/trimethoprim, 5-day course",no,2018-01-30,primary,1.0,12.868
+SAMEA120835453,PRJEB105465,1090,114.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-05-25,primary,1.0,19.338
+SAMEA120835485,PRJEB105465,1090,189.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-08-08,primary,1.0,14.089
+SAMEA120835339,PRJEB105465,1090,19.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-19,primary,1.0,12.003
+SAMEA120835563,PRJEB105465,1090,373.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2019-02-08,primary,1.0,11.316
+SAMEA120835386,PRJEB105465,1090,47.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-03-19,primary,1.0,11.262
+SAMEA120835392,PRJEB105465,1090,50.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-03-22,primary,1.0,13.123
+SAMEA120835315,PRJEB105465,1090,6.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"sulfamethoxazole/trimethoprim, 5-day course",no,2018-02-06,primary,1.0,11.035
+SAMEA120835295,PRJEB105465,1092,-4.0,adult,8391.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -4.0 (before intervention start); assigned arm: pivmecillinam, 5-day course",no,2018-01-25,primary,1.0,11.713
+SAMEA120835321,PRJEB105465,1092,15.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-13,primary,1.0,8.4
+SAMEA120835482,PRJEB105465,1092,183.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-07-31,primary,1.0,10.825
+SAMEA120835371,PRJEB105465,1092,36.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-03-06,primary,1.0,10.679
+SAMEA120835561,PRJEB105465,1092,372.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2019-02-05,primary,1.0,8.996
+SAMEA120835312,PRJEB105465,1092,8.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-02-06,primary,1.0,9.274
+SAMEA120835418,PRJEB105465,1092,95.0,adult,8391.0,female,SE,healthy_control,,antibiotic,"pivmecillinam, 5-day course",no,2018-05-04,primary,1.0,9.151
+SAMEA120835303,PRJEB105465,1093,-1.0,adult,15340.5,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: nitrofurantoin, 5-day course",no,2018-01-30,primary,1.0,8.032
+SAMEA120835424,PRJEB105465,1093,100.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-05-11,primary,1.0,9.923
+SAMEA120835484,PRJEB105465,1093,188.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-08-07,primary,1.0,7.606
+SAMEA120835345,PRJEB105465,1093,20.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-20,primary,1.0,7.965
+SAMEA120835376,PRJEB105465,1093,35.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-03-07,primary,1.0,9.624
+SAMEA120835562,PRJEB105465,1093,372.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2019-02-07,primary,1.0,8.842
+SAMEA120835318,PRJEB105465,1093,8.0,adult,15340.5,female,SE,healthy_control,,antibiotic,"nitrofurantoin, 5-day course",no,2018-02-08,primary,1.0,8.391
+SAMEA120835368,PRJEB105465,1094,-5.0,adult,8766.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -5.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2018-02-28,primary,1.0,10.088
+SAMEA120835388,PRJEB105465,1094,15.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-20,primary,1.0,8.305
+SAMEA120835488,PRJEB105465,1094,210.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-10-01,primary,1.0,11.512
+SAMEA120835565,PRJEB105465,1094,373.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2019-03-13,primary,1.0,3.954
+SAMEA120835398,PRJEB105465,1094,38.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-04-12,primary,1.0,11.478
+SAMEA120835381,PRJEB105465,1094,8.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-13,primary,1.0,10.972
+SAMEA120835475,PRJEB105465,1094,99.0,adult,8766.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-06-12,primary,1.0,7.948
+SAMEA120835369,PRJEB105465,1095,-1.0,adult,11685.0,female,SE,healthy_control,,no_intervention,"days_since_intervention = -1.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2018-02-28,primary,1.0,8.741
+SAMEA120835473,PRJEB105465,1095,103.0,adult,11685.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-06-12,primary,1.0,10.23
+SAMEA120835385,PRJEB105465,1095,15.0,adult,11685.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-16,primary,1.0,6.021
+SAMEA120835486,PRJEB105465,1095,195.0,adult,11685.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-09-12,primary,1.0,0.006
+SAMEA120835564,PRJEB105465,1095,375.0,adult,11685.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2019-03-11,primary,1.0,12.047
+SAMEA120835397,PRJEB105465,1095,41.0,adult,11685.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-04-11,primary,1.0,13.066
+SAMEA120835377,PRJEB105465,1095,7.0,adult,11685.0,female,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-08,primary,1.0,0.001
+SAMEA120835372,PRJEB105465,1096,-2.0,adult,8391.0,male,SE,healthy_control,,no_intervention,"days_since_intervention = -2.0 (before intervention start); assigned arm: ciprofloxacin, 5-day course",no,2018-03-06,primary,1.0,11.053
+SAMEA120835390,PRJEB105465,1096,13.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-21,primary,1.0,16.697
+SAMEA120835487,PRJEB105465,1096,194.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-09-18,primary,1.0,9.808
+SAMEA120835566,PRJEB105465,1096,372.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2019-03-15,primary,1.0,10.174
+SAMEA120835399,PRJEB105465,1096,39.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-04-16,primary,1.0,14.291
+SAMEA120835382,PRJEB105465,1096,7.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-03-15,primary,1.0,13.636
+SAMEA120835476,PRJEB105465,1096,98.0,adult,8391.0,male,SE,healthy_control,,antibiotic,"ciprofloxacin, 5-day course",no,2018-06-14,primary,1.0,10.832
+SAMEA120835383,PRJEB105465,1097,0.0,adult,9860.0,male,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2018-03-15,primary,1.0,12.941
+SAMEA120835481,PRJEB105465,1097,102.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-06-25,primary,1.0,17.224
+SAMEA120835393,PRJEB105465,1097,12.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-03-27,primary,1.0,0.001
+SAMEA120835396,PRJEB105465,1097,20.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-04-04,primary,1.0,0.004
+SAMEA120835489,PRJEB105465,1097,201.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-10-02,primary,1.0,14.965
+SAMEA120835400,PRJEB105465,1097,35.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-04-19,primary,1.0,13.899
+SAMEA120835567,PRJEB105465,1097,377.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2019-03-27,primary,1.0,11.63
+SAMEA120835406,PRJEB105465,1097,43.0,adult,9860.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-04-27,primary,1.0,16.846
+SAMEA120835384,PRJEB105465,1098,0.0,adult,10224.0,male,SE,healthy_control,,no_intervention,timepoint = 0.0 (before intervention start),no,2018-03-16,primary,1.0,9.95
+SAMEA120835394,PRJEB105465,1098,12.0,adult,10224.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-03-28,primary,1.0,13.796
+SAMEA120835490,PRJEB105465,1098,202.0,adult,10224.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-10-04,primary,1.0,13.258
+SAMEA120835568,PRJEB105465,1098,378.0,adult,10224.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2019-03-29,primary,1.0,10.404
+SAMEA120835401,PRJEB105465,1098,38.0,adult,10224.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-04-23,primary,1.0,13.905
+SAMEA120835389,PRJEB105465,1098,4.0,adult,10224.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-03-20,primary,1.0,9.239
+SAMEA120835480,PRJEB105465,1098,97.0,adult,10224.0,male,SE,healthy_control,,no_intervention,untreated control arm,no,2018-06-21,primary,1.0,13.798
+SAMEA120835221,PRJEB105465,,,adult,8766.0,male,SE,healthy_control,,,,,,primary,1.0,12.164
