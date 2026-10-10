@@ -1,0 +1,947 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA114190907,PRJEB64515,1,,adult,9496.5,female,PL,other_infection,no,,,yes,2020-05-16,primary,1.0,0.082
+SAMEA114190908,PRJEB64515,1,,adult,9496.5,female,PL,other_infection,no,,,yes,2020-05-18,primary,1.0,0.09
+SAMEA114190909,PRJEB64515,10,,adult,23376.0,male,PL,other_disease,no,,,no,2020-05-20,primary,1.0,0.104
+SAMEA114190910,PRJEB64515,10,,adult,23376.0,male,PL,other_disease,no,,,no,2020-05-24,primary,1.0,0.1
+SAMEA114190911,PRJEB64515,10,,adult,23376.0,male,PL,other_disease,no,,,no,2020-05-28,primary,1.0,0.096
+SAMEA114190912,PRJEB64515,100,,elderly,23741.2,male,PL,other_infection,COVID-19,,,no,2020-12-05,primary,1.0,0.162
+SAMEA114190913,PRJEB64515,100,,elderly,23741.2,male,PL,other_infection,COVID-19,,,no,2020-12-08,primary,1.0,0.12
+SAMEA114190914,PRJEB64515,100,,elderly,23741.2,male,PL,other_infection,COVID-19,,,no,2020-12-24,primary,1.0,0.119
+SAMEA114190915,PRJEB64515,100,,elderly,23741.2,male,PL,other_infection,COVID-19,,,no,2020-12-29,primary,1.0,0.136
+SAMEA114190916,PRJEB64515,101k,,,,,PL,other_infection,COVID-19,,,no,2021-12-02,primary,1.0,0.067
+SAMEA114190917,PRJEB64515,103k,,,,,PL,other_infection,COVID-19,,,no,2021-12-08,primary,1.0,0.103
+SAMEA114190918,PRJEB64515,105,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2021-02-02,primary,1.0,0.07
+SAMEA114190919,PRJEB64515,105,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2021-01-18,primary,1.0,0.116
+SAMEA114190920,PRJEB64515,105,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2021-01-24,primary,1.0,0.11
+SAMEA114190921,PRJEB64515,105,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2020-11-24,primary,1.0,0.106
+SAMEA114190922,PRJEB64515,105k,,,,,PL,other_cancer,no,,,no,2021-12-05,primary,1.0,0.086
+SAMEA114190923,PRJEB64515,105k,,,,,PL,other_cancer,no,,,no,2021-12-06,primary,1.0,0.092
+SAMEA114190924,PRJEB64515,105k,,,,,PL,other_cancer,no,,,no,2021-12-08,primary,1.0,0.086
+SAMEA114190925,PRJEB64515,106k,,,,,PL,other_infection,COVID-19,,,no,2021-12-05,primary,1.0,0.067
+SAMEA114190926,PRJEB64515,106k,,,,,PL,other_infection,COVID-19,,,no,2021-12-06,primary,1.0,0.07
+SAMEA114190927,PRJEB64515,106k,,,,,PL,other_disease,no,,,no,2021-12-07,primary,1.0,0.094
+SAMEA114190928,PRJEB64515,108K,,,,,PL,other_disease,no,,,no,2021-12-08,primary,1.0,0.071
+SAMEA114190929,PRJEB64515,109k,,,,,PL,other_disease,no,,,no,2021-12-08,primary,1.0,0.083
+SAMEA114190930,PRJEB64515,10p,,adult,19706.0,female,PL,other_disease,no,,,no,2022-03-05,primary,1.0,0.095
+SAMEA114190931,PRJEB64515,10p,,adult,19706.0,female,PL,other_infection,COVID-19,,,no,2022-02-25,primary,1.0,0.108
+SAMEA114190932,PRJEB64515,10p,,adult,19706.0,female,PL,other_infection,COVID-19,,,no,2022-02-28,primary,1.0,0.097
+SAMEA114190933,PRJEB64515,11,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-06-06,primary,1.0,0.098
+SAMEA114190934,PRJEB64515,11,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-06-09,primary,1.0,0.108
+SAMEA114190935,PRJEB64515,11,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-05-25,primary,1.0,0.121
+SAMEA114190936,PRJEB64515,110,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-06,primary,1.0,0.072
+SAMEA114190937,PRJEB64515,110,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-07,primary,1.0,0.076
+SAMEA114190938,PRJEB64515,110,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-08,primary,1.0,0.07
+SAMEA114190939,PRJEB64515,110,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-09,primary,1.0,0.101
+SAMEA114190940,PRJEB64515,110,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-11,primary,1.0,0.064
+SAMEA114190941,PRJEB64515,110k,,,,,PL,other_disease,no,,,yes,2021-12-23,primary,1.0,0.073
+SAMEA114190942,PRJEB64515,111,,elderly,26298.0,male,PL,other_disease,no,,,yes,2020-12-02,primary,1.0,0.078
+SAMEA114190943,PRJEB64515,111,,elderly,26298.0,male,PL,other_disease,no,,,yes,2020-12-06,primary,1.0,0.078
+SAMEA114190944,PRJEB64515,111,,elderly,26298.0,male,PL,other_disease,no,,,yes,2020-12-09,primary,1.0,0.083
+SAMEA114190945,PRJEB64515,111k,,,,,PL,other_disease,no,,,yes,2022-01-09,primary,1.0,0.065
+SAMEA114190946,PRJEB64515,112,,adult,16436.2,female,PL,other_disease,no,,,yes,2020-12-06,primary,1.0,0.059
+SAMEA114190947,PRJEB64515,112,,adult,16436.2,female,PL,other_disease,no,,,yes,2020-12-09,primary,1.0,0.056
+SAMEA114190948,PRJEB64515,112,,adult,16436.2,female,PL,other_infection,COVID-19,,,no,2020-12-10,primary,1.0,0.058
+SAMEA114190949,PRJEB64515,112,,adult,16436.2,female,PL,other_infection,COVID-19,,,no,2020-12-16,primary,1.0,0.128
+SAMEA114283422,PRJEB64515,112,,adult,16436.2,female,PL,other_infection,no,,,no,2020-12-13,primary,1.0,0.039
+SAMEA114190950,PRJEB64515,112k,,,,,PL,other_infection,COVID-19,,,no,2021-12-22,primary,1.0,0.073
+SAMEA114283423,PRJEB64515,112k,,,,,PL,other_infection,other medical conditions: no,,,no,2021-12-20,primary,1.0,0.058
+SAMEA114190951,PRJEB64515,113K,,,,,PL,other_disease,no,,,yes,2021-12-19,primary,1.0,0.157
+SAMEA114190952,PRJEB64515,113k,,,,,PL,other_disease,no,,,yes,2021-12-20,primary,1.0,0.159
+SAMEA114190953,PRJEB64515,114k,,,,,PL,other_disease,no,,,yes,2021-12-30,primary,1.0,0.106
+SAMEA114190954,PRJEB64515,114k,,,,,PL,other_disease,no,,,yes,2021-12-31,primary,1.0,0.111
+SAMEA114190955,PRJEB64515,115,,adult,23376.0,male,PL,other_infection,COVID-19,,,no,2020-12-09,primary,1.0,0.105
+SAMEA114190956,PRJEB64515,117,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-12,primary,1.0,0.094
+SAMEA114190957,PRJEB64515,117,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-17,primary,1.0,0.116
+SAMEA114190958,PRJEB64515,117,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-12-20,primary,1.0,0.101
+SAMEA114190959,PRJEB64515,117k,,,,,PL,other_infection,COVID-19,,,no,2021-12-27,primary,1.0,0.127
+SAMEA114283424,PRJEB64515,117k,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-12-25,primary,1.0,0.056
+SAMEA114283425,PRJEB64515,117k,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-12-26,primary,1.0,0.052
+SAMEA114190960,PRJEB64515,118k,,,,,PL,other_infection,COVID-19,,,no,2021-12-21,primary,1.0,0.065
+SAMEA114190961,PRJEB64515,118k,,,,,PL,other_infection,COVID-19,,,no,2021-12-22,primary,1.0,0.075
+SAMEA114190962,PRJEB64515,118k,,,,,PL,other_infection,COVID-19,,,no,2021-12-24,primary,1.0,0.115
+SAMEA114190963,PRJEB64515,119k,,,,,PL,other_infection,COVID-19,,,no,2021-12-24,primary,1.0,0.066
+SAMEA114283426,PRJEB64515,119k,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-12-22,primary,1.0,0.048
+SAMEA114283427,PRJEB64515,119k,,,,,PL,other_infection,COVID-19,,,no,2021-12-23,primary,1.0,0.045
+SAMEA114190964,PRJEB64515,11p,,elderly,25190.0,female,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.102
+SAMEA114190965,PRJEB64515,11p,,elderly,25190.0,female,PL,other_disease,no,,,yes,2022-02-23,primary,1.0,0.124
+SAMEA114190966,PRJEB64515,11p,,elderly,25190.0,female,PL,other_disease,no,,,yes,2022-02-26,primary,1.0,0.109
+SAMEA114190967,PRJEB64515,12,,adult,22980.8,male,PL,other_disease,no,,,yes,2020-06-06,primary,1.0,0.11
+SAMEA114190968,PRJEB64515,12,,adult,22980.8,male,PL,other_disease,no,,,yes,2020-06-09,primary,1.0,0.104
+SAMEA114190969,PRJEB64515,12,,adult,22980.8,male,PL,other_disease,no,,,yes,2020-05-22,primary,1.0,0.12
+SAMEA114190970,PRJEB64515,12,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-24,primary,1.0,0.157
+SAMEA114190971,PRJEB64515,120K,,,,,PL,other_infection,COVID-19,,,no,2021-12-24,primary,1.0,0.101
+SAMEA114190972,PRJEB64515,120k,,,,,PL,other_infection,COVID-19,,,no,2021-12-22,primary,1.0,0.076
+SAMEA114190973,PRJEB64515,120k,,,,,PL,other_infection,COVID-19,,,no,2021-12-23,primary,1.0,0.093
+SAMEA114190974,PRJEB64515,121,,adult,15696.8,male,PL,other_infection,COVID-19,,,no,2020-12-12,primary,1.0,0.061
+SAMEA114190975,PRJEB64515,121,,adult,15696.8,male,PL,other_infection,COVID-19,,,no,2020-12-13,primary,1.0,0.057
+SAMEA114190976,PRJEB64515,121,,adult,15696.8,male,PL,other_infection,COVID-19,,,no,2020-12-15,primary,1.0,0.072
+SAMEA114190977,PRJEB64515,121,,adult,15696.8,male,PL,other_infection,COVID-19,,,no,2020-12-18,primary,1.0,0.064
+SAMEA114190978,PRJEB64515,121k,,,,,PL,other_disease,no,,,yes,2021-12-21,primary,1.0,0.077
+SAMEA114190979,PRJEB64515,121k,,,,,PL,other_disease,no,,,yes,2021-12-23,primary,1.0,0.068
+SAMEA114190980,PRJEB64515,121k,,,,,PL,other_disease,no,,,yes,2021-12-25,primary,1.0,0.074
+SAMEA114190981,PRJEB64515,123k,,,,,PL,other_disease,no,,,yes,2022-01-09,primary,1.0,0.092
+SAMEA114190982,PRJEB64515,123k,,,,,PL,other_disease,no,,,yes,2022-01-10,primary,1.0,0.069
+SAMEA114190983,PRJEB64515,123k,,,,,PL,other_disease,no,,,yes,2022-01-12,primary,1.0,0.081
+SAMEA114190984,PRJEB64515,124,,adult,11688.0,female,PL,other_infection,COVID-19,,,no,2020-12-11,primary,1.0,0.081
+SAMEA114190985,PRJEB64515,124,,adult,11688.0,female,PL,other_infection,COVID-19,,,no,2020-12-18,primary,1.0,0.065
+SAMEA114190986,PRJEB64515,124k,,,,,PL,other_infection,COVID-19,,,no,2022-01-01,primary,1.0,0.097
+SAMEA114190987,PRJEB64515,124k,,,,,PL,other_infection,COVID-19,,,no,2021-12-30,primary,1.0,0.15
+SAMEA114190988,PRJEB64515,124k,,,,,PL,other_infection,COVID-19,,,no,2021-12-31,primary,1.0,0.106
+SAMEA114190989,PRJEB64515,125k,,,,,PL,other_disease,no,,,yes,2022-01-12,primary,1.0,0.069
+SAMEA114190990,PRJEB64515,126,,adult,22627.0,male,PL,other_disease,no,,,yes,2021-01-01,primary,1.0,0.067
+SAMEA114190991,PRJEB64515,126,,adult,22627.0,male,PL,other_disease,no,,,yes,2021-01-05,primary,1.0,0.116
+SAMEA114190992,PRJEB64515,126,,adult,22627.0,male,PL,other_disease,no,,,yes,2020-12-23,primary,1.0,0.059
+SAMEA114190993,PRJEB64515,126,,adult,22627.0,male,PL,other_disease,no,,,yes,2020-12-25,primary,1.0,0.062
+SAMEA114190994,PRJEB64515,126,,adult,22627.0,male,PL,other_disease,no,,,yes,2020-12-28,primary,1.0,0.065
+SAMEA114283429,PRJEB64515,126,,adult,22627.0,male,PL,other_infection,no,,,yes,2020-12-30,primary,1.0,0.054
+SAMEA114190995,PRJEB64515,126k,,,,,PL,other_infection,COVID-19,,,no,2022-01-09,primary,1.0,0.072
+SAMEA114190996,PRJEB64515,127k,,,,,PL,other_infection,COVID-19,,,no,2022-01-01,primary,1.0,0.078
+SAMEA114190997,PRJEB64515,127k,,,,,PL,other_infection,COVID-19,,,no,2022-01-02,primary,1.0,0.085
+SAMEA114190998,PRJEB64515,128k,,,,,PL,other_infection,COVID-19,,,no,2022-01-06,primary,1.0,0.111
+SAMEA114190999,PRJEB64515,128k,,,,,PL,other_infection,COVID-19,,,no,2022-01-10,primary,1.0,0.139
+SAMEA114191000,PRJEB64515,129k,,,,,PL,other_infection,COVID-19,,,no,2022-01-01,primary,1.0,0.098
+SAMEA114191001,PRJEB64515,129k,,,,,PL,other_infection,COVID-19,,,no,2022-01-02,primary,1.0,0.125
+SAMEA114191002,PRJEB64515,129k,,,,,PL,other_infection,COVID-19,,,no,2021-12-31,primary,1.0,0.104
+SAMEA114191003,PRJEB64515,12p,,adult,23376.0,female,PL,other_infection,COVID-19,,,no,2022-03-01,primary,1.0,0.096
+SAMEA114191004,PRJEB64515,12p,,adult,23376.0,female,PL,other_infection,COVID-19,,,no,2022-02-23,primary,1.0,0.098
+SAMEA114191005,PRJEB64515,13,,adult,13878.5,female,PL,other_infection,COVID-19,,,no,2020-06-01,primary,1.0,0.175
+SAMEA114191006,PRJEB64515,13,,adult,13878.5,female,PL,other_infection,COVID-19,,,no,2020-05-22,primary,1.0,0.11
+SAMEA114191007,PRJEB64515,13,,adult,13878.5,female,PL,other_infection,COVID-19,,,no,2020-05-25,primary,1.0,0.093
+SAMEA114191008,PRJEB64515,13,,adult,13878.5,female,PL,other_infection,COVID-19,,,no,2020-05-28,primary,1.0,0.14
+SAMEA114191009,PRJEB64515,130k,,,,,PL,other_infection,COVID-19,,,no,2022-01-01,primary,1.0,0.097
+SAMEA114191010,PRJEB64515,130k,,,,,PL,other_infection,COVID-19,,,no,2022-01-03,primary,1.0,0.075
+SAMEA114191011,PRJEB64515,130k,,,,,PL,other_infection,COVID-19,,,no,2021-12-30,primary,1.0,0.1
+SAMEA114191012,PRJEB64515,131k,,,,,PL,other_infection,COVID-19,,,no,2022-01-05,primary,1.0,0.083
+SAMEA114191013,PRJEB64515,131k,,,,,PL,other_disease,no,,,no,2021-01-07,primary,1.0,0.096
+SAMEA114283430,PRJEB64515,131k,,,,,PL,other_infection,COVID-19,,,no,2022-01-04,primary,1.0,0.055
+SAMEA114191014,PRJEB64515,132,,adult,20434.0,male,PL,other_disease,no,,,no,2021-01-02,primary,1.0,0.067
+SAMEA114191015,PRJEB64515,132,,adult,20434.0,male,PL,other_disease,no,,,no,2021-01-04,primary,1.0,0.064
+SAMEA114191016,PRJEB64515,132,,adult,20434.0,male,PL,other_infection,COVID-19,,,no,2020-12-24,primary,1.0,0.058
+SAMEA114191017,PRJEB64515,132,,adult,20434.0,male,PL,other_infection,COVID-19,,,no,2020-12-26,primary,1.0,0.065
+SAMEA114191018,PRJEB64515,132,,adult,20434.0,male,PL,other_disease,no,,,yes,2020-12-28,primary,1.0,0.066
+SAMEA114191019,PRJEB64515,132,,adult,20434.0,male,PL,other_disease,no,,,yes,2020-12-29,primary,1.0,0.073
+SAMEA114191020,PRJEB64515,132k,,,,,PL,other_disease,no,,,yes,2022-01-03,primary,1.0,0.094
+SAMEA114191021,PRJEB64515,132k,,,,,PL,other_disease,no,,,yes,2022-01-05,primary,1.0,0.071
+SAMEA114191022,PRJEB64515,132k,,,,,PL,other_disease,no,,,yes,2022-01-06,primary,1.0,0.093
+SAMEA114191023,PRJEB64515,133k,,,,,PL,other_disease,no,,,yes,2022-01-04,primary,1.0,0.158
+SAMEA114191024,PRJEB64515,133k,,,,,PL,other_infection,COVID-19,,,no,2022-01-05,primary,1.0,0.123
+SAMEA114191025,PRJEB64515,134k,,,,,PL,other_infection,COVID-19,,,no,2022-01-02,primary,1.0,0.093
+SAMEA114191026,PRJEB64515,134k,,,,,PL,other_infection,COVID-19,,,no,2022-01-03,primary,1.0,0.098
+SAMEA114191027,PRJEB64515,134k,,,,,PL,other_infection,COVID-19,,,no,2022-01-04,primary,1.0,0.106
+SAMEA114191028,PRJEB64515,135,,adult,22627.0,male,PL,type2_diabetes,type II diabetes,,,no,2020-12-22,primary,1.0,0.159
+SAMEA114191029,PRJEB64515,135,,adult,22627.0,male,PL,type2_diabetes,type II diabetes,,,no,2020-12-24,primary,1.0,0.092
+SAMEA114191030,PRJEB64515,135k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-01-05,primary,1.0,0.102
+SAMEA114191031,PRJEB64515,135k,,,,,PL,other_infection,COVID-19,,,no,2022-01-06,primary,1.0,0.093
+SAMEA114191032,PRJEB64515,135k,,,,,PL,other_infection,COVID-19,,,no,2022-01-07,primary,1.0,0.097
+SAMEA114191033,PRJEB64515,136k,,,,,PL,other_infection,COVID-19,,,no,2022-01-06,primary,1.0,0.066
+SAMEA114191034,PRJEB64515,136k,,,,,PL,other_infection,COVID-19,,,no,2022-01-08,primary,1.0,0.118
+SAMEA114191035,PRJEB64515,136k,,,,,PL,other_cancer,no,,,yes,2022-01-10,primary,1.0,0.102
+SAMEA114283431,PRJEB64515,137,,adult,10957.5,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,no,2020-12-25,primary,1.0,0.042
+SAMEA114191036,PRJEB64515,137k,,,,,PL,other_cancer,no,,,yes,2022-01-27,primary,1.0,0.07
+SAMEA114191037,PRJEB64515,139k,,,,,PL,other_infection,COVID-19,,,no,2022-01-12,primary,1.0,0.082
+SAMEA114191038,PRJEB64515,13K,,,,,PL,other_infection,COVID-19,,,no,2021-10-07,primary,1.0,0.087
+SAMEA114191039,PRJEB64515,13K,,,,,PL,other_infection,COVID-19,,,no,2021-10-08,primary,1.0,0.084
+SAMEA114191040,PRJEB64515,13p,,adult,22980.8,female,PL,other_infection,COVID-19,,,no,2022-02-25,primary,1.0,0.088
+SAMEA114191041,PRJEB64515,14,,adult,21177.0,male,PL,other_infection,COVID-19,,,no,2020-05-28,primary,1.0,0.092
+SAMEA114191042,PRJEB64515,14,,adult,21177.0,male,PL,other_infection,COVID-19,,,no,2020-05-29,primary,1.0,0.091
+SAMEA114191043,PRJEB64515,140,,adult,21549.8,female,PL,other_infection,COVID-19,,,no,2021-01-05,primary,1.0,0.065
+SAMEA114191044,PRJEB64515,140,,adult,21549.8,female,PL,other_infection,COVID-19,,,no,2020-12-23,primary,1.0,0.063
+SAMEA114191045,PRJEB64515,140,,adult,21549.8,female,PL,other_infection,COVID-19,,,no,2020-12-29,primary,1.0,0.058
+SAMEA114283432,PRJEB64515,140,,adult,21549.8,female,PL,type2_diabetes,type II diabetes,,,no,2021-01-01,primary,1.0,0.046
+SAMEA114191046,PRJEB64515,141k,,,,,PL,other_infection,COVID-19,,,no,2022-01-20,primary,1.0,0.113
+SAMEA114191047,PRJEB64515,141k,,,,,PL,other_infection,COVID-19,,,no,2022-01-22,primary,1.0,0.131
+SAMEA114191048,PRJEB64515,142,,adolescent,6205.8,male,PL,other_infection,COVID-19,,,no,2020-12-23,primary,1.0,0.065
+SAMEA114191049,PRJEB64515,142,,adolescent,6205.8,male,PL,other_infection,COVID-19,,,no,2020-12-25,primary,1.0,0.066
+SAMEA114191050,PRJEB64515,142,,adolescent,6205.8,male,PL,other_infection,COVID-19,,,no,2020-12-26,primary,1.0,0.062
+SAMEA114191051,PRJEB64515,142,,adolescent,6205.8,male,PL,other_infection,COVID-19,,,no,2020-12-28,primary,1.0,0.059
+SAMEA114191052,PRJEB64515,142,,adolescent,6205.8,male,PL,other_infection,COVID-19,,,no,2020-12-29,primary,1.0,0.069
+SAMEA114191053,PRJEB64515,142,,adolescent,6205.8,male,PL,other_infection,no,,,no,2020-12-30,primary,1.0,0.052
+SAMEA114191054,PRJEB64515,143k,,,,,PL,other_infection,no,,,no,2022-01-18,primary,1.0,0.068
+SAMEA114191055,PRJEB64515,143k,,,,,PL,other_infection,no,,,no,2022-01-20,primary,1.0,0.081
+SAMEA114191056,PRJEB64515,144k,,,,,PL,other_disease,no,,,yes,2022-01-19,primary,1.0,0.099
+SAMEA114191057,PRJEB64515,144k,,,,,PL,other_disease,no,,,yes,2022-01-20,primary,1.0,0.091
+SAMEA114191058,PRJEB64515,145,,elderly,23741.2,female,PL,other_disease,no,,,yes,2021-01-01,primary,1.0,0.082
+SAMEA114191059,PRJEB64515,145,,elderly,23741.2,female,PL,other_disease,no,,,yes,2020-12-28,primary,1.0,0.088
+SAMEA114191060,PRJEB64515,145,,elderly,23741.2,female,PL,other_disease,no,,,yes,2020-12-29,primary,1.0,0.072
+SAMEA114191061,PRJEB64515,146,,elderly,30300.0,male,PL,other_infection,COVID-19,,,no,2020-12-27,primary,1.0,0.089
+SAMEA114191062,PRJEB64515,146k,,,,,PL,other_infection,COVID-19,,,no,2022-02-01,primary,1.0,0.087
+SAMEA114191063,PRJEB64515,146k,,,,,PL,other_infection,COVID-19,,,no,2022-02-03,primary,1.0,0.116
+SAMEA114191064,PRJEB64515,146k,,,,,PL,other_infection,COVID-19,,,no,2022-02-05,primary,1.0,0.068
+SAMEA114283433,PRJEB64515,149,,adult,19358.2,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,yes,2020-12-29,primary,1.0,0.061
+SAMEA114191065,PRJEB64515,149k,,,,,PL,other_infection,COVID-19,,,no,2022-01-20,primary,1.0,0.09
+SAMEA114191066,PRJEB64515,14p,,adult,22627.0,male,PL,other_infection,COVID-19,,,no,2022-02-24,primary,1.0,0.098
+SAMEA114191067,PRJEB64515,14p,,adult,22627.0,male,PL,other_infection,COVID-19,,,no,2022-02-27,primary,1.0,0.093
+SAMEA114191068,PRJEB64515,15,,adult,16791.5,female,PL,other_infection,COVID-19,,,no,2020-05-24,primary,1.0,0.141
+SAMEA114191069,PRJEB64515,15,,adult,16791.5,female,PL,other_infection,COVID-19,,,no,2020-06-26,primary,1.0,0.078
+SAMEA114191070,PRJEB64515,15,,adult,16791.5,female,PL,other_infection,COVID-19,,,no,2020-05-29,primary,1.0,0.082
+SAMEA114191071,PRJEB64515,150,,adult,14610.0,male,PL,other_infection,COVID-19,,,no,2020-12-29,primary,1.0,0.072
+SAMEA114191072,PRJEB64515,150k,,,,,PL,other_infection,COVID-19,,,no,2022-01-21,primary,1.0,0.086
+SAMEA114191073,PRJEB64515,150k,,,,,PL,type2_diabetes,type II diabetes,,,yes,2022-01-26,primary,1.0,0.079
+SAMEA114283434,PRJEB64515,151,,adult,20434.0,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,yes,2021-01-07,primary,1.0,0.06
+SAMEA114191074,PRJEB64515,151k,,,,,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.108
+SAMEA114191075,PRJEB64515,151k,,,,,PL,other_infection,COVID-19,,,no,2022-02-25,primary,1.0,0.119
+SAMEA114191076,PRJEB64515,151k,,,,,PL,other_infection,COVID-19,,,no,2022-02-28,primary,1.0,0.105
+SAMEA114191077,PRJEB64515,152,,elderly,33603.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-01-01,primary,1.0,0.063
+SAMEA114191078,PRJEB64515,152,,elderly,33603.0,male,PL,other_infection,COVID-19,,,no,2021-01-04,primary,1.0,0.064
+SAMEA114191079,PRJEB64515,152,,elderly,33603.0,male,PL,other_infection,COVID-19,,,no,2021-01-10,primary,1.0,0.07
+SAMEA114191080,PRJEB64515,152k,,,,,PL,other_infection,COVID-19,,,no,2022-03-01,primary,1.0,0.125
+SAMEA114191081,PRJEB64515,152k,,,,,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.105
+SAMEA114191082,PRJEB64515,152k,,,,,PL,other_infection,COVID-19,,,no,2022-03-03,primary,1.0,0.105
+SAMEA114191083,PRJEB64515,153k,,,,,PL,other_infection,COVID-19,,,no,2022-02-23,primary,1.0,0.092
+SAMEA114191084,PRJEB64515,153k,,,,,PL,other_infection,COVID-19,,,no,2022-02-24,primary,1.0,0.109
+SAMEA114191085,PRJEB64515,153k,,,,,PL,other_infection,COVID-19,,,no,2022-02-25,primary,1.0,0.116
+SAMEA114191086,PRJEB64515,154k,,,,,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.086
+SAMEA114191087,PRJEB64515,157k,,,,,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.122
+SAMEA114191088,PRJEB64515,158k,,,,,PL,other_infection,COVID-19,,,no,2022-03-01,primary,1.0,0.107
+SAMEA114191089,PRJEB64515,158k,,,,,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.097
+SAMEA114191090,PRJEB64515,158k,,,,,PL,other_infection,COVID-19,,,no,2022-03-03,primary,1.0,0.105
+SAMEA114191091,PRJEB64515,15p,,elderly,25932.8,male,PL,other_infection,COVID-19,,,no,2022-03-02,primary,1.0,0.104
+SAMEA114191092,PRJEB64515,15p,,elderly,25932.8,male,PL,type1_diabetes,type I diabetes,,,no,2022-02-25,primary,1.0,0.123
+SAMEA114191093,PRJEB64515,15p,,elderly,25932.8,male,PL,type2_diabetes,type II diabetes,,,no,2022-02-28,primary,1.0,0.102
+SAMEA114191094,PRJEB64515,16,,adult,10957.5,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-01,primary,1.0,0.141
+SAMEA114191095,PRJEB64515,16,,adult,10957.5,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-05,primary,1.0,0.095
+SAMEA114191096,PRJEB64515,16,,adult,10957.5,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-07,primary,1.0,0.115
+SAMEA114191097,PRJEB64515,16,,adult,10957.5,male,PL,type2_diabetes,type II diabetes,,,no,2020-05-24,primary,1.0,0.135
+SAMEA114191098,PRJEB64515,16,,adult,10957.5,male,PL,other_infection,COVID-19,,,no,2020-05-29,primary,1.0,0.157
+SAMEA114191099,PRJEB64515,160,,elderly,24106.5,male,PL,other_infection,COVID-19,,,no,2021-01-07,primary,1.0,0.065
+SAMEA114191100,PRJEB64515,160k,,,,,PL,other_infection,COVID-19,,,no,2022-03-07,primary,1.0,0.078
+SAMEA114191101,PRJEB64515,160k,,,,,PL,other_infection,no,,,yes,2022-03-11,primary,1.0,0.085
+SAMEA114191102,PRJEB64515,160k,,,,,PL,other_infection,no,,,yes,2022-03-13,primary,1.0,0.068
+SAMEA114191103,PRJEB64515,161,,elderly,33603.0,male,PL,other_infection,no,,,yes,2021-01-17,primary,1.0,0.1
+SAMEA114191104,PRJEB64515,161,,elderly,33603.0,male,PL,other_infection,no,,,yes,2021-01-18,primary,1.0,0.081
+SAMEA114191105,PRJEB64515,161k,,,,,PL,other_infection,no,,,yes,2022-03-07,primary,1.0,0.095
+SAMEA114191106,PRJEB64515,161k,,,,,PL,other_infection,no,,,yes,2022-03-08,primary,1.0,0.082
+SAMEA114191107,PRJEB64515,161k,,,,,PL,other_infection,COVID-19,,,no,2022-03-09,primary,1.0,0.086
+SAMEA114191108,PRJEB64515,162k,,,,,PL,other_infection,COVID-19,,,no,2022-03-06,primary,1.0,0.076
+SAMEA114191109,PRJEB64515,162k,,,,,PL,other_infection,COVID-19,,,no,2022-03-08,primary,1.0,0.1
+SAMEA114191110,PRJEB64515,162k,,,,,PL,other_infection,COVID-19,,,no,2022-03-11,primary,1.0,0.084
+SAMEA114191111,PRJEB64515,163k,,,,,PL,other_infection,COVID-19,,,no,2022-03-08,primary,1.0,0.099
+SAMEA114191112,PRJEB64515,163k,,,,,PL,other_infection,COVID-19,,,no,2022-03-09,primary,1.0,0.091
+SAMEA114191113,PRJEB64515,163k,,,,,PL,other_infection,COVID-19,,,no,2022-03-10,primary,1.0,0.092
+SAMEA114191114,PRJEB64515,164,,elderly,27394.0,male,PL,other_infection,COVID-19,,,no,2021-01-12,primary,1.0,0.102
+SAMEA114191115,PRJEB64515,164k,,,,,PL,other_infection,COVID-19,,,no,2022-03-06,primary,1.0,0.07
+SAMEA114191116,PRJEB64515,164k,,,,,PL,other_infection,COVID-19,,,no,2022-03-07,primary,1.0,0.072
+SAMEA114191117,PRJEB64515,164k,,,,,PL,other_infection,COVID-19,,,no,2022-03-08,primary,1.0,0.067
+SAMEA114191118,PRJEB64515,165,,elderly,31016.0,female,PL,type2_diabetes,type II diabetes,,,no,2021-01-21,primary,1.0,0.095
+SAMEA114283435,PRJEB64515,166,,adult,21177.0,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,no,2021-01-22,primary,1.0,0.062
+SAMEA114191119,PRJEB64515,166k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-06,primary,1.0,0.094
+SAMEA114191120,PRJEB64515,166k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-07,primary,1.0,0.095
+SAMEA114191121,PRJEB64515,166k,,,,,PL,other_disease,no,,,yes,2022-03-08,primary,1.0,0.104
+SAMEA114191122,PRJEB64515,167k,,,,,PL,other_disease,no,,,yes,2022-03-12,primary,1.0,0.072
+SAMEA114191123,PRJEB64515,167k,,,,,PL,other_disease,no,,,yes,2022-03-13,primary,1.0,0.089
+SAMEA114191124,PRJEB64515,168,,elderly,31788.0,female,PL,other_disease,no,,,yes,2021-01-21,primary,1.0,0.11
+SAMEA114191125,PRJEB64515,168K,,,,,PL,other_disease,no,,,yes,2022-03-12,primary,1.0,0.099
+SAMEA114191126,PRJEB64515,168k,,,,,PL,other_disease,no,,,yes,2022-03-11,primary,1.0,0.085
+SAMEA114191127,PRJEB64515,168k,,,,,PL,other_disease,no,,,yes,2022-03-14,primary,1.0,0.073
+SAMEA114191128,PRJEB64515,169k,,,,,PL,other_disease,no,,,yes,2022-03-11,primary,1.0,0.082
+SAMEA114191129,PRJEB64515,169k,,,,,PL,other_disease,no,,,yes,2022-03-12,primary,1.0,0.064
+SAMEA114191130,PRJEB64515,169k,,,,,PL,other_disease,no,,,yes,2022-03-13,primary,1.0,0.065
+SAMEA114191131,PRJEB64515,16K,,,,,PL,other_disease,no,,,yes,2021-09-19,primary,1.0,0.088
+SAMEA114191132,PRJEB64515,16K,,,,,PL,other_disease,no,,,yes,2021-09-20,primary,1.0,0.094
+SAMEA114191133,PRJEB64515,16K,,,,,PL,other_infection,COVID-19,,,no,2021-09-23,primary,1.0,0.063
+SAMEA114191134,PRJEB64515,16p,,elderly,29580.0,female,PL,other_infection,COVID-19,,,no,2022-03-01,primary,1.0,0.079
+SAMEA114191135,PRJEB64515,17,,adult,19706.0,male,PL,other_infection,COVID-19,,,no,2020-06-03,primary,1.0,0.094
+SAMEA114191136,PRJEB64515,17,,adult,19706.0,male,PL,other_infection,COVID-19,,,no,2020-06-17,primary,1.0,0.072
+SAMEA114191137,PRJEB64515,17,,adult,19706.0,male,PL,other_infection,COVID-19,,,no,2020-06-20,primary,1.0,0.105
+SAMEA114191138,PRJEB64515,17,,adult,19706.0,male,PL,other_infection,COVID-19,,,no,2020-05-24,primary,1.0,0.154
+SAMEA114191139,PRJEB64515,17,,adult,19706.0,male,PL,other_cancer,no,,,no,2020-05-28,primary,1.0,0.115
+SAMEA114191140,PRJEB64515,170k,,,,,PL,other_cancer,no,,,no,2022-03-11,primary,1.0,0.089
+SAMEA114191141,PRJEB64515,170k,,,,,PL,other_cancer,no,,,no,2022-05-12,primary,1.0,0.09
+SAMEA114191142,PRJEB64515,170k,,,,,PL,other_cancer,no,,,no,2022-03-13,primary,1.0,0.073
+SAMEA114191143,PRJEB64515,171,,adult,13878.5,male,PL,other_cancer,no,,,no,2021-02-01,primary,1.0,0.086
+SAMEA114191144,PRJEB64515,171,,adult,13878.5,male,PL,other_cancer,no,,,no,2021-02-02,primary,1.0,0.092
+SAMEA114191145,PRJEB64515,171,,adult,13878.5,male,PL,other_infection,COVID-19,,,no,2021-02-03,primary,1.0,0.096
+SAMEA114191146,PRJEB64515,171,,adult,13878.5,male,PL,other_infection,COVID-19,,,no,2021-01-28,primary,1.0,0.091
+SAMEA114191147,PRJEB64515,171,,adult,13878.5,male,PL,other_infection,COVID-19,,,no,2021-01-30,primary,1.0,0.097
+SAMEA114191148,PRJEB64515,171,,adult,13878.5,male,PL,other_infection,COVID-19,,,no,2021-01-31,primary,1.0,0.079
+SAMEA114191149,PRJEB64515,172,,adult,17897.2,male,PL,other_infection,COVID-19,,,no,2021-01-29,primary,1.0,0.084
+SAMEA114191150,PRJEB64515,173k,,,,,PL,other_infection,COVID-19,,,no,2022-03-11,primary,1.0,0.08
+SAMEA114191151,PRJEB64515,174k,,,,,PL,other_infection,COVID-19,,,no,2022-03-12,primary,1.0,0.089
+SAMEA114191152,PRJEB64515,174k,,,,,PL,other_infection,COVID-19,,,no,2022-03-13,primary,1.0,0.079
+SAMEA114191153,PRJEB64515,175,,elderly,27394.0,female,PL,other_infection,COVID-19,,,no,2021-01-30,primary,1.0,0.115
+SAMEA114191154,PRJEB64515,175K,,,,,PL,other_infection,COVID-19,,,no,2022-03-12,primary,1.0,0.164
+SAMEA114191155,PRJEB64515,175k,,,,,PL,other_infection,COVID-19,,,no,2022-03-13,primary,1.0,0.067
+SAMEA114191156,PRJEB64515,176k,,,,,PL,other_infection,COVID-19,,,no,2022-03-12,primary,1.0,0.087
+SAMEA114191157,PRJEB64515,176k,,,,,PL,other_disease,no,,,no,2022-03-13,primary,1.0,0.066
+SAMEA114283436,PRJEB64515,176k,,,,,PL,other_infection,COVID-19,,,no,2022-03-14,primary,1.0,0.062
+SAMEA114191158,PRJEB64515,177k,,,,,PL,other_disease,no,,,no,2022-03-13,primary,1.0,0.084
+SAMEA114191159,PRJEB64515,177k,,,,,PL,other_disease,no,,,no,2022-03-14,primary,1.0,0.079
+SAMEA114191160,PRJEB64515,177k,,,,,PL,other_disease,no,,,no,2022-03-15,primary,1.0,0.077
+SAMEA114191161,PRJEB64515,178k,,,,,PL,other_disease,no,,,no,2022-03-14,primary,1.0,0.082
+SAMEA114191162,PRJEB64515,179,,adult,21915.0,male,PL,other_disease,no,,,no,2021-01-29,primary,1.0,0.067
+SAMEA114191163,PRJEB64515,17p,,elderly,31788.0,female,PL,other_disease,no,,,no,2022-03-02,primary,1.0,0.096
+SAMEA114191164,PRJEB64515,17p,,elderly,31788.0,female,PL,other_infection,COVID-19,,,no,2022-02-24,primary,1.0,0.093
+SAMEA114191165,PRJEB64515,17p,,elderly,31788.0,female,PL,other_infection,COVID-19,,,no,2022-02-27,primary,1.0,0.093
+SAMEA114191166,PRJEB64515,18,,elderly,32481.0,female,PL,other_infection,COVID-19,,,no,2020-05-26,primary,1.0,0.122
+SAMEA114191167,PRJEB64515,180,,elderly,25190.0,male,PL,other_infection,COVID-19,,,no,2021-02-02,primary,1.0,0.089
+SAMEA114191168,PRJEB64515,180,,elderly,25190.0,male,PL,other_infection,COVID-19,,,no,2021-02-04,primary,1.0,0.101
+SAMEA114191169,PRJEB64515,180,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-06,primary,1.0,0.102
+SAMEA114191170,PRJEB64515,180,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-07,primary,1.0,0.107
+SAMEA114191171,PRJEB64515,180,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-08,primary,1.0,0.09
+SAMEA114191172,PRJEB64515,180,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,no,2021-01-30,primary,1.0,0.079
+SAMEA114191173,PRJEB64515,182,,adult,13878.5,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-02,primary,1.0,0.091
+SAMEA114191174,PRJEB64515,182,,adult,13878.5,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-04,primary,1.0,0.084
+SAMEA114191175,PRJEB64515,182,,adult,13878.5,male,PL,other_infection,COVID-19,,,no,2021-02-06,primary,1.0,0.082
+SAMEA114191176,PRJEB64515,182,,adult,13878.5,male,PL,other_infection,COVID-19,,,no,2021-02-08,primary,1.0,0.076
+SAMEA114191177,PRJEB64515,182,,adult,13878.5,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-09,primary,1.0,0.075
+SAMEA114191178,PRJEB64515,182,,adult,13878.5,male,PL,type2_diabetes,type II diabetes,,,no,2021-01-31,primary,1.0,0.082
+SAMEA114191179,PRJEB64515,182k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-13,primary,1.0,0.061
+SAMEA114191180,PRJEB64515,182k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-14,primary,1.0,0.116
+SAMEA114191181,PRJEB64515,182k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-15,primary,1.0,0.102
+SAMEA114191182,PRJEB64515,184k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-16,primary,1.0,0.125
+SAMEA114191183,PRJEB64515,184k,,,,,PL,other_infection,COVID-19,,,no,2022-03-17,primary,1.0,0.101
+SAMEA114191184,PRJEB64515,184k,,,,,PL,other_disease,no,,,yes,2022-03-18,primary,1.0,0.126
+SAMEA114191185,PRJEB64515,185,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-02-03,primary,1.0,0.08
+SAMEA114191186,PRJEB64515,185,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-02-07,primary,1.0,0.071
+SAMEA114191187,PRJEB64515,185,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-02-10,primary,1.0,0.096
+SAMEA114191188,PRJEB64515,185,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-02-12,primary,1.0,0.083
+SAMEA114191189,PRJEB64515,185,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-02-14,primary,1.0,0.084
+SAMEA114191190,PRJEB64515,185,,elderly,26641.0,male,PL,other_infection,no,,,no,2021-02-15,primary,1.0,0.075
+SAMEA114191191,PRJEB64515,185k,,,,,PL,other_cancer,leukaemia,,,yes,2022-03-16,primary,1.0,0.123
+SAMEA114191192,PRJEB64515,185k,,,,,PL,other_cancer,leukaemia,,,yes,2022-03-17,primary,1.0,0.121
+SAMEA114191193,PRJEB64515,185k,,,,,PL,other_cancer,leukaemia,,,yes,2022-03-18,primary,1.0,0.089
+SAMEA114191194,PRJEB64515,186,,adult,12783.8,male,PL,other_cancer,leukaemia,,,yes,2021-02-05,primary,1.0,0.062
+SAMEA114191195,PRJEB64515,186k,,,,,PL,other_cancer,leukaemia,,,yes,2022-03-18,primary,1.0,0.11
+SAMEA114191196,PRJEB64515,187,,adult,12417.9,male,PL,other_infection,no,,,no,2021-02-01,primary,1.0,0.078
+SAMEA114191197,PRJEB64515,187k,,,,,PL,other_infection,no,,,no,2022-03-19,primary,1.0,0.13
+SAMEA114191198,PRJEB64515,187k,,,,,PL,other_infection,no,,,no,2022-03-20,primary,1.0,0.136
+SAMEA114191199,PRJEB64515,187k,,,,,PL,other_infection,no,,,no,2022-03-21,primary,1.0,0.107
+SAMEA114191200,PRJEB64515,188,,elderly,25550.0,male,PL,other_infection,no,,,no,2021-02-09,primary,1.0,0.076
+SAMEA114191201,PRJEB64515,188,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2021-02-10,primary,1.0,0.09
+SAMEA114191202,PRJEB64515,188,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2021-02-19,primary,1.0,0.076
+SAMEA114191203,PRJEB64515,188,,elderly,25550.0,male,PL,other_cancer,no,,,no,2021-02-22,primary,1.0,0.088
+SAMEA114191204,PRJEB64515,188,,elderly,25550.0,male,PL,other_cancer,no,,,no,2021-02-25,primary,1.0,0.078
+SAMEA114191205,PRJEB64515,188,,elderly,25550.0,male,PL,other_cancer,no,,,no,2021-02-26,primary,1.0,0.09
+SAMEA114191206,PRJEB64515,188k,,,,,PL,other_cancer,no,,,no,2022-03-18,primary,1.0,0.125
+SAMEA114191207,PRJEB64515,188k,,,,,PL,other_cancer,no,,,no,2022-03-19,primary,1.0,0.124
+SAMEA114191208,PRJEB64515,188k,,,,,PL,other_cancer,no,,,no,2022-03-20,primary,1.0,0.119
+SAMEA114191209,PRJEB64515,189k,,,,,PL,other_disease,no,,,yes,2022-03-19,primary,1.0,0.117
+SAMEA114191210,PRJEB64515,189k,,,,,PL,other_disease,no,,,yes,2022-03-20,primary,1.0,0.115
+SAMEA114191211,PRJEB64515,18p,,adult,10601.0,male,PL,other_disease,no,,,yes,2022-03-02,primary,1.0,0.097
+SAMEA114191212,PRJEB64515,18p,,adult,10601.0,male,PL,other_disease,no,,,yes,2022-03-05,primary,1.0,0.113
+SAMEA114191213,PRJEB64515,19,,adult,17151.0,male,PL,other_cancer,no,,,yes,2020-06-01,primary,1.0,0.088
+SAMEA114191214,PRJEB64515,19,,adult,17151.0,male,PL,other_cancer,no,,,yes,2020-06-05,primary,1.0,0.146
+SAMEA114191215,PRJEB64515,19,,adult,17151.0,male,PL,other_infection,no,,,yes,2020-06-11,primary,1.0,0.098
+SAMEA114191216,PRJEB64515,19,,adult,17151.0,male,PL,other_infection,no,,,yes,2020-06-18,primary,1.0,0.081
+SAMEA114191217,PRJEB64515,19,,adult,17151.0,male,PL,other_infection,no,,,yes,2020-05-25,primary,1.0,0.095
+SAMEA114191218,PRJEB64515,190k,,,,,PL,other_cancer,no,,,no,2022-03-19,primary,1.0,0.139
+SAMEA114191219,PRJEB64515,190k,,,,,PL,other_cancer,no,,,no,2022-03-20,primary,1.0,0.122
+SAMEA114191220,PRJEB64515,191k,,,,,PL,other_cancer,no,,,no,2022-03-17,primary,1.0,0.12
+SAMEA114191221,PRJEB64515,191k,,,,,PL,other_disease,no,,,yes,2022-03-19,primary,1.0,0.076
+SAMEA114191222,PRJEB64515,191k,,,,,PL,other_disease,no,,,yes,2022-03-20,primary,1.0,0.136
+SAMEA114191223,PRJEB64515,192,,elderly,24455.0,female,PL,other_disease,no,,,yes,2021-02-11,primary,1.0,0.077
+SAMEA114191224,PRJEB64515,192,,elderly,24455.0,female,PL,other_disease,no,,,yes,2021-02-12,primary,1.0,0.091
+SAMEA114191225,PRJEB64515,192,,elderly,24455.0,female,PL,other_disease,no,,,yes,2021-02-14,primary,1.0,0.099
+SAMEA114191226,PRJEB64515,192,,elderly,24455.0,female,PL,other_disease,no,,,yes,2021-02-15,primary,1.0,0.085
+SAMEA114191227,PRJEB64515,192,,elderly,24455.0,female,PL,other_disease,no,,,yes,2021-02-16,primary,1.0,0.064
+SAMEA114191228,PRJEB64515,192,,elderly,24455.0,female,PL,other_disease,no,,,yes,2021-02-17,primary,1.0,0.081
+SAMEA114191229,PRJEB64515,193k,,,,,PL,other_infection,COVID-19,,,no,2022-03-23,primary,1.0,0.113
+SAMEA114191230,PRJEB64515,193k,,,,,PL,other_infection,COVID-19,,,no,2022-03-24,primary,1.0,0.107
+SAMEA114191231,PRJEB64515,195,,elderly,25550.0,male,PL,other_infection,COVID-19,,,no,2021-02-13,primary,1.0,0.081
+SAMEA114191232,PRJEB64515,195,,elderly,25550.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-14,primary,1.0,0.072
+SAMEA114191233,PRJEB64515,195,,elderly,25550.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-15,primary,1.0,0.073
+SAMEA114191234,PRJEB64515,195,,elderly,25550.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-16,primary,1.0,0.087
+SAMEA114191235,PRJEB64515,195,,elderly,25550.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-18,primary,1.0,0.078
+SAMEA114191236,PRJEB64515,195,,elderly,25550.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-19,primary,1.0,0.085
+SAMEA114191237,PRJEB64515,195k,,,,,PL,type2_diabetes,type II diabetes,,,no,2022-03-23,primary,1.0,0.087
+SAMEA114191238,PRJEB64515,196,,adult,23376.0,female,PL,type2_diabetes,type II diabetes,,,no,2021-03-06,primary,1.0,0.072
+SAMEA114191239,PRJEB64515,196,,adult,23376.0,female,PL,type2_diabetes,type II diabetes,,,no,2021-03-09,primary,1.0,0.081
+SAMEA114191240,PRJEB64515,196,,adult,23376.0,female,PL,type2_diabetes,type II diabetes,,,no,2021-03-14,primary,1.0,0.086
+SAMEA114191241,PRJEB64515,196,,adult,23376.0,female,PL,other_disease,no,,,yes,2021-03-16,primary,1.0,0.083
+SAMEA114191242,PRJEB64515,196,,adult,23376.0,female,PL,other_disease,no,,,yes,2021-02-19,primary,1.0,0.073
+SAMEA114191243,PRJEB64515,196,,adult,23376.0,female,PL,other_disease,no,,,yes,2021-02-23,primary,1.0,0.069
+SAMEA114191244,PRJEB64515,197,,elderly,28124.2,male,PL,other_disease,no,,,yes,2021-02-12,primary,1.0,0.119
+SAMEA114191245,PRJEB64515,197,,elderly,28124.2,male,PL,other_disease,no,,,yes,2021-02-23,primary,1.0,0.098
+SAMEA114191246,PRJEB64515,198,,elderly,25190.0,male,PL,other_disease,no,,,yes,2021-02-12,primary,1.0,0.073
+SAMEA114191247,PRJEB64515,198,,elderly,25190.0,male,PL,other_cancer,no,,,yes,2021-02-23,primary,1.0,0.104
+SAMEA114191248,PRJEB64515,198,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-25,primary,1.0,0.106
+SAMEA114191249,PRJEB64515,199,,adult,21549.8,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-17,primary,1.0,0.1
+SAMEA114191250,PRJEB64515,1p,,elderly,27028.5,male,PL,type2_diabetes,type II diabetes,,,yes,2022-03-01,primary,1.0,0.106
+SAMEA114191251,PRJEB64515,1p,,elderly,27028.5,male,PL,type2_diabetes,type II diabetes,,,yes,2022-02-17,primary,1.0,0.096
+SAMEA114191252,PRJEB64515,1p,,elderly,27028.5,male,PL,other_infection,COVID-19,,,no,2022-02-19,primary,1.0,0.105
+SAMEA114191253,PRJEB64515,1p,,elderly,27028.5,male,PL,other_infection,no,,,yes,2022-02-22,primary,1.0,0.103
+SAMEA114191254,PRJEB64515,1p,,elderly,27028.5,male,PL,other_infection,no,,,yes,2022-02-26,primary,1.0,0.101
+SAMEA114191255,PRJEB64515,2,,adult,14610.0,male,PL,other_infection,no,,,yes,2020-05-07,primary,1.0,0.089
+SAMEA114191256,PRJEB64515,2,,adult,14610.0,male,PL,other_infection,no,,,yes,2020-05-12,primary,1.0,0.112
+SAMEA114191257,PRJEB64515,2,,adult,14610.0,male,PL,type2_diabetes,type II diabetes,,,yes,2020-05-15,primary,1.0,0.083
+SAMEA114191258,PRJEB64515,2,,adult,14610.0,male,PL,other_disease,no,,,yes,2020-05-20,primary,1.0,0.092
+SAMEA114191259,PRJEB64515,2,,adult,14610.0,male,PL,other_disease,no,,,yes,2020-05-26,primary,1.0,0.099
+SAMEA114191260,PRJEB64515,200k,,,,,PL,other_disease,no,,,yes,2022-03-24,primary,1.0,0.105
+SAMEA114191261,PRJEB64515,200k,,,,,PL,other_disease,no,,,yes,2022-03-25,primary,1.0,0.074
+SAMEA114191262,PRJEB64515,201,,elderly,24455.0,male,PL,other_disease,no,,,yes,2021-03-09,primary,1.0,0.135
+SAMEA114191263,PRJEB64515,201,,elderly,24455.0,male,PL,other_disease,no,,,yes,2021-03-16,primary,1.0,0.123
+SAMEA114191264,PRJEB64515,201,,elderly,24455.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-20,primary,1.0,0.139
+SAMEA114191265,PRJEB64515,201,,elderly,24455.0,male,PL,other_infection,COVID-19,,,no,2021-02-22,primary,1.0,0.097
+SAMEA114191266,PRJEB64515,201,,elderly,24455.0,male,PL,colorectal_cancer,no,,,yes,2021-02-23,primary,1.0,0.114
+SAMEA114191267,PRJEB64515,201,,elderly,24455.0,male,PL,colorectal_cancer,no,,,yes,2021-02-25,primary,1.0,0.135
+SAMEA114191268,PRJEB64515,204,,elderly,26641.0,female,PL,type2_diabetes,type II diabetes,,,yes,2021-02-23,primary,1.0,0.065
+SAMEA114191269,PRJEB64515,206,,adult,11688.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-22,primary,1.0,0.103
+SAMEA114191270,PRJEB64515,206,,adult,11688.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-25,primary,1.0,0.09
+SAMEA114191271,PRJEB64515,206,,adult,11688.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-27,primary,1.0,0.09
+SAMEA114191272,PRJEB64515,206,,adult,11688.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-02-28,primary,1.0,0.1
+SAMEA114191273,PRJEB64515,207,,elderly,27759.0,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-20,primary,1.0,0.104
+SAMEA114191274,PRJEB64515,207,,elderly,27759.0,male,PL,type2_diabetes,type II diabetes,,,no,2021-02-22,primary,1.0,0.091
+SAMEA114191275,PRJEB64515,20p,,elderly,27394.0,female,PL,type2_diabetes,type II diabetes,,,no,2022-03-02,primary,1.0,0.115
+SAMEA114191276,PRJEB64515,20p,,elderly,27394.0,female,PL,type2_diabetes,type II diabetes,,,no,2022-03-04,primary,1.0,0.093
+SAMEA114191277,PRJEB64515,20p,,elderly,27394.0,female,PL,other_infection,COVID-19,,,no,2022-03-07,primary,1.0,0.095
+SAMEA114191278,PRJEB64515,21,,elderly,28124.2,female,PL,other_disease,no,,,no,2020-07-02,primary,1.0,0.154
+SAMEA114191279,PRJEB64515,21,,elderly,28124.2,female,PL,other_disease,no,,,no,2020-07-07,primary,1.0,0.138
+SAMEA114191280,PRJEB64515,21,,elderly,28124.2,female,PL,other_disease,no,,,no,2020-06-23,primary,1.0,0.657
+SAMEA114191281,PRJEB64515,213,,elderly,31016.0,female,PL,other_disease,no,,,no,2021-03-02,primary,1.0,0.094
+SAMEA114191282,PRJEB64515,214,,elderly,34303.5,male,PL,other_disease,no,,,no,2021-03-08,primary,1.0,0.092
+SAMEA114283437,PRJEB64515,217,,adult,20088.8,male,PL,other_disease,other medical conditions: yes,,,no,2021-03-01,primary,1.0,0.041
+SAMEA114191283,PRJEB64515,218,,adult,20088.8,female,PL,other_disease,no,,,no,2021-03-01,primary,1.0,0.141
+SAMEA114191284,PRJEB64515,218,,adult,20088.8,female,PL,other_infection,COVID-19,,,no,2021-03-07,primary,1.0,0.086
+SAMEA114191285,PRJEB64515,218,,adult,20088.8,female,PL,other_infection,COVID-19,,,no,2021-03-12,primary,1.0,0.081
+SAMEA114191286,PRJEB64515,218,,adult,20088.8,female,PL,other_disease,no,,,no,2021-03-24,primary,1.0,0.115
+SAMEA114191287,PRJEB64515,218,,adult,20088.8,female,PL,other_disease,no,,,no,2021-03-28,primary,1.0,0.112
+SAMEA114191288,PRJEB64515,218,,adult,20088.8,female,PL,other_disease,no,,,no,2021-03-31,primary,1.0,0.139
+SAMEA114191289,PRJEB64515,219,,adult,9131.0,male,PL,type2_diabetes,allergy: no,,,no,2021-03-19,primary,1.0,0.113
+SAMEA114191290,PRJEB64515,21K,,,,,PL,type2_diabetes,allergy: no,,,no,2021-10-01,primary,1.0,0.096
+SAMEA114191291,PRJEB64515,21K,,,,,PL,type2_diabetes,allergy: no,,,no,2021-09-30,primary,1.0,0.079
+SAMEA114191292,PRJEB64515,21k,,,,,PL,type2_diabetes,allergy: no,,,no,2021-09-28,primary,1.0,0.079
+SAMEA114191293,PRJEB64515,22,,adult,20820.0,male,PL,other_disease,no,,,no,2020-06-01,primary,1.0,0.156
+SAMEA114191294,PRJEB64515,22,,adult,20820.0,male,PL,other_disease,no,,,no,2020-06-04,primary,1.0,0.164
+SAMEA114191295,PRJEB64515,22,,adult,20820.0,male,PL,other_disease,no,,,no,2020-06-05,primary,1.0,0.102
+SAMEA114191296,PRJEB64515,22,,adult,20820.0,male,PL,other_disease,no,,,no,2020-06-10,primary,1.0,0.097
+SAMEA114191297,PRJEB64515,220,,elderly,29931.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-03,primary,1.0,0.084
+SAMEA114191298,PRJEB64515,221,,adult,13504.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-03,primary,1.0,0.094
+SAMEA114191299,PRJEB64515,222,,adult,14975.2,female,PL,type2_diabetes,type II diabetes,,,no,2021-03-05,primary,1.0,0.129
+SAMEA114191300,PRJEB64515,222,,adult,14975.2,female,PL,type2_diabetes,type II diabetes,,,no,2021-03-07,primary,1.0,0.148
+SAMEA114191301,PRJEB64515,222,,adult,14975.2,female,PL,type2_diabetes,type II diabetes,,,no,2021-03-13,primary,1.0,0.141
+SAMEA114191302,PRJEB64515,222,,adult,14975.2,female,PL,other_disease,no,,,yes,2021-03-16,primary,1.0,0.107
+SAMEA114191303,PRJEB64515,223,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-04-01,primary,1.0,0.105
+SAMEA114191304,PRJEB64515,223,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-03-06,primary,1.0,0.114
+SAMEA114191305,PRJEB64515,223,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-03-07,primary,1.0,0.087
+SAMEA114191306,PRJEB64515,223,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-03-11,primary,1.0,0.099
+SAMEA114191307,PRJEB64515,223,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-03-25,primary,1.0,0.081
+SAMEA114191308,PRJEB64515,223,,elderly,26641.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-27,primary,1.0,0.121
+SAMEA114191309,PRJEB64515,224,,adult,14610.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-17,primary,1.0,0.079
+SAMEA114191310,PRJEB64515,224,,adult,14610.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-19,primary,1.0,0.081
+SAMEA114191311,PRJEB64515,225,,elderly,25550.0,female,PL,colorectal_cancer,no,,,yes,2021-03-12,primary,1.0,0.117
+SAMEA114191312,PRJEB64515,227,,elderly,25190.0,female,PL,other_disease,no,,,yes,2021-03-09,primary,1.0,0.112
+SAMEA114191313,PRJEB64515,227,,elderly,25190.0,female,PL,other_disease,no,,,yes,2021-03-14,primary,1.0,0.085
+SAMEA114191314,PRJEB64515,228,,elderly,25932.8,female,PL,other_disease,no,,,yes,2021-03-10,primary,1.0,0.107
+SAMEA114191315,PRJEB64515,228,,elderly,25932.8,female,PL,other_infection,no,,,no,2021-03-14,primary,1.0,0.139
+SAMEA114191316,PRJEB64515,228,,elderly,25932.8,female,PL,other_infection,no,,,no,2021-03-16,primary,1.0,0.148
+SAMEA114191317,PRJEB64515,228,,elderly,25932.8,female,PL,other_infection,no,,,no,2021-03-17,primary,1.0,0.111
+SAMEA114191318,PRJEB64515,22K,,,,,PL,other_infection,no,,,no,2021-10-11,primary,1.0,0.144
+SAMEA114191319,PRJEB64515,23,,adult,10234.0,male,PL,other_infection,no,,,no,2020-06-01,primary,1.0,0.105
+SAMEA114191320,PRJEB64515,23,,adult,10234.0,male,PL,other_infection,COVID-19,,,no,2020-06-03,primary,1.0,0.173
+SAMEA114191321,PRJEB64515,23,,adult,10234.0,male,PL,other_disease,no,,,no,2020-06-06,primary,1.0,0.113
+SAMEA114191322,PRJEB64515,23,,adult,10234.0,male,PL,other_disease,no,,,no,2020-06-09,primary,1.0,0.099
+SAMEA114191323,PRJEB64515,231,,elderly,28854.8,female,PL,other_disease,no,,,no,2021-03-18,primary,1.0,0.104
+SAMEA114191324,PRJEB64515,233,,adult,20434.0,male,PL,other_disease,allergy: no,,,no,2021-03-17,primary,1.0,0.079
+SAMEA114191325,PRJEB64515,234,,elderly,28489.5,female,PL,other_disease,allergy: no,,,no,2021-03-25,primary,1.0,0.103
+SAMEA114191326,PRJEB64515,235,,adult,15696.8,male,PL,other_disease,allergy: no,,,no,2021-03-25,primary,1.0,0.153
+SAMEA114191327,PRJEB64515,235,,adult,15696.8,male,PL,other_cancer,no,,,yes,2021-03-27,primary,1.0,0.089
+SAMEA114191328,PRJEB64515,235,,adult,15696.8,male,PL,other_cancer,no,,,yes,2021-03-28,primary,1.0,0.103
+SAMEA114191329,PRJEB64515,235,,adult,15696.8,male,PL,other_cancer,no,,,yes,2021-03-29,primary,1.0,0.106
+SAMEA114191330,PRJEB64515,235,,adult,15696.8,male,PL,other_cancer,no,,,yes,2021-03-31,primary,1.0,0.11
+SAMEA114191331,PRJEB64515,238,,adult,23376.0,male,PL,other_cancer,no,,,yes,2021-03-23,primary,1.0,0.087
+SAMEA114191332,PRJEB64515,23K,,,,,PL,other_cancer,no,,,yes,2021-10-12,primary,1.0,0.073
+SAMEA114191333,PRJEB64515,23p,,elderly,24106.5,male,PL,other_cancer,no,,,yes,2022-03-04,primary,1.0,0.087
+SAMEA114191334,PRJEB64515,23p,,elderly,24106.5,male,PL,other_cancer,no,,,yes,2022-03-05,primary,1.0,0.081
+SAMEA114191335,PRJEB64515,23p,,elderly,24106.5,male,PL,other_cancer,no,,,yes,2022-03-06,primary,1.0,0.084
+SAMEA114191336,PRJEB64515,24,,elderly,27028.5,male,PL,type2_diabetes,type II diabetes,,,yes,2020-06-24,primary,1.0,0.086
+SAMEA114191337,PRJEB64515,24,,elderly,27028.5,male,PL,type2_diabetes,type II diabetes,,,yes,2020-06-27,primary,1.0,0.123
+SAMEA114191338,PRJEB64515,241,,adult,16436.2,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-24,primary,1.0,0.115
+SAMEA114191339,PRJEB64515,241,,adult,16436.2,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-25,primary,1.0,0.089
+SAMEA114191340,PRJEB64515,241,,adult,16436.2,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-26,primary,1.0,0.104
+SAMEA114191341,PRJEB64515,241,,adult,16436.2,male,PL,type2_diabetes,type II diabetes,,,yes,2021-03-29,primary,1.0,0.104
+SAMEA114191342,PRJEB64515,241,,adult,16436.2,male,PL,other_infection,COVID-19,,,no,2021-03-30,primary,1.0,0.109
+SAMEA114191343,PRJEB64515,242,,elderly,28124.2,female,PL,other_cancer,no,,,no,2021-03-25,primary,1.0,0.114
+SAMEA114191344,PRJEB64515,242,,elderly,28124.2,female,PL,other_cancer,no,,,no,2021-03-27,primary,1.0,0.159
+SAMEA114191345,PRJEB64515,242,,elderly,28124.2,female,PL,other_cancer,no,,,no,2021-03-28,primary,1.0,0.106
+SAMEA114191346,PRJEB64515,242,,elderly,28124.2,female,PL,other_disease,no,,,yes,2021-03-29,primary,1.0,0.112
+SAMEA114191347,PRJEB64515,249,,elderly,24106.5,male,PL,other_disease,no,,,yes,2021-03-25,primary,1.0,0.084
+SAMEA114191348,PRJEB64515,24K,,,,,PL,other_disease,no,,,yes,2021-10-08,primary,1.0,0.061
+SAMEA114191349,PRJEB64515,250,,elderly,30702.0,female,PL,other_disease,no,,,yes,2021-04-01,primary,1.0,0.1
+SAMEA114191350,PRJEB64515,250,,elderly,30702.0,female,PL,other_infection,COVID-19,,,no,2021-03-02,primary,1.0,0.107
+SAMEA114191351,PRJEB64515,250,,elderly,30702.0,female,PL,other_infection,COVID-19,,,no,2021-04-03,primary,1.0,0.128
+SAMEA114191352,PRJEB64515,250,,elderly,30702.0,female,PL,other_disease,no,,,no,2021-03-25,primary,1.0,0.1
+SAMEA114191353,PRJEB64515,250,,elderly,30702.0,female,PL,other_infection,no,,,yes,2021-03-28,primary,1.0,0.128
+SAMEA114191354,PRJEB64515,250,,elderly,30702.0,female,PL,other_infection,no,,,yes,2021-03-30,primary,1.0,0.122
+SAMEA114191355,PRJEB64515,252,,elderly,24455.0,male,PL,other_infection,no,,,yes,2021-04-01,primary,1.0,0.068
+SAMEA114283438,PRJEB64515,252,,elderly,24455.0,male,PL,other_disease,other medical conditions: yes,,,no,2021-03-27,primary,1.0,0.063
+SAMEA114191356,PRJEB64515,253,,adult,17532.0,male,PL,other_infection,no,,,yes,2021-04-01,primary,1.0,0.191
+SAMEA114191357,PRJEB64515,253,,adult,17532.0,male,PL,other_infection,no,,,yes,2021-04-08,primary,1.0,0.109
+SAMEA114191358,PRJEB64515,254,,adult,22627.0,female,PL,other_disease,no,,,yes,2021-04-08,primary,1.0,0.089
+SAMEA114191359,PRJEB64515,255,,adult,21177.0,male,PL,other_disease,no,,,yes,2021-04-04,primary,1.0,0.09
+SAMEA114191360,PRJEB64515,259,,adult,13149.0,male,PL,other_infection,COVID-19,,,no,2021-04-09,primary,1.0,0.086
+SAMEA114191361,PRJEB64515,259,,adult,13149.0,male,PL,other_infection,COVID-19,,,no,2021-04-12,primary,1.0,0.084
+SAMEA114191362,PRJEB64515,25K,,,,,PL,type2_diabetes,type II diabetes,,,yes,2021-10-01,primary,1.0,0.065
+SAMEA114191363,PRJEB64515,25K,,,,,PL,colorectal_cancer,no,,,yes,2021-10-04,primary,1.0,0.108
+SAMEA114191364,PRJEB64515,25p,,adult,19358.2,male,PL,colorectal_cancer,no,,,yes,2022-03-08,primary,1.0,0.084
+SAMEA114191365,PRJEB64515,25p,,adult,19358.2,male,PL,colorectal_cancer,no,,,yes,2022-03-10,primary,1.0,0.092
+SAMEA114191366,PRJEB64515,25p,,adult,19358.2,male,PL,type2_diabetes,type II diabetes,,,no,2022-03-12,primary,1.0,0.085
+SAMEA114191367,PRJEB64515,26,,adult,19358.2,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-08,primary,1.0,0.096
+SAMEA114191368,PRJEB64515,26,,adult,19358.2,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-09,primary,1.0,0.095
+SAMEA114191369,PRJEB64515,26,,adult,19358.2,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-12,primary,1.0,0.097
+SAMEA114191370,PRJEB64515,26,,adult,19358.2,male,PL,type2_diabetes,type II diabetes,,,no,2020-06-13,primary,1.0,0.108
+SAMEA114191371,PRJEB64515,260,,elderly,31016.0,female,PL,other_cancer,no,,,no,2021-04-22,primary,1.0,0.124
+SAMEA114191372,PRJEB64515,261,,elderly,24106.5,female,PL,other_cancer,no,,,no,2021-04-14,primary,1.0,0.12
+SAMEA114191373,PRJEB64515,262,,adult,23376.0,male,PL,other_cancer,no,,,no,2021-04-02,primary,1.0,0.096
+SAMEA114191374,PRJEB64515,262,,adult,23376.0,male,PL,other_disease,no,,,yes,2021-04-03,primary,1.0,0.1
+SAMEA114191375,PRJEB64515,262,,adult,23376.0,male,PL,other_disease,no,,,yes,2021-04-05,primary,1.0,0.148
+SAMEA114191376,PRJEB64515,262,,adult,23376.0,male,PL,other_cancer,no,,,yes,2021-04-06,primary,1.0,0.122
+SAMEA114191377,PRJEB64515,263,,adult,22980.8,female,PL,other_cancer,no,,,yes,2021-04-10,primary,1.0,0.116
+SAMEA114191378,PRJEB64515,263,,adult,22980.8,female,PL,other_cancer,no,,,yes,2021-04-11,primary,1.0,0.104
+SAMEA114191379,PRJEB64515,263,,adult,22980.8,female,PL,other_cancer,no,,,yes,2021-04-13,primary,1.0,0.106
+SAMEA114191380,PRJEB64515,263,,adult,22980.8,female,PL,other_cancer,no,,,yes,2021-04-15,primary,1.0,0.102
+SAMEA114191381,PRJEB64515,263,,adult,22980.8,female,PL,type2_diabetes,type II diabetes,,,yes,2021-04-16,primary,1.0,0.098
+SAMEA114191382,PRJEB64515,263,,adult,22980.8,female,PL,other_infection,no,,,yes,2021-04-18,primary,1.0,0.151
+SAMEA114283439,PRJEB64515,264,,adult,16791.5,female,PL,other_disease,other medical conditions: yes,,,yes,2021-04-14,primary,1.0,0.057
+SAMEA114191383,PRJEB64515,265,,elderly,27028.5,female,PL,other_infection,no,,,yes,2021-04-11,primary,1.0,0.131
+SAMEA114191384,PRJEB64515,265,,elderly,27028.5,female,PL,other_infection,no,,,yes,2021-04-12,primary,1.0,0.118
+SAMEA114191385,PRJEB64515,265,,elderly,27028.5,female,PL,other_infection,no,,,yes,2021-04-13,primary,1.0,0.129
+SAMEA114191386,PRJEB64515,265,,elderly,27028.5,female,PL,other_infection,no,,,yes,2021-04-15,primary,1.0,0.098
+SAMEA114191387,PRJEB64515,265,,elderly,27028.5,female,PL,other_infection,no,,,yes,2021-04-17,primary,1.0,0.094
+SAMEA114191388,PRJEB64515,265,,elderly,27028.5,female,PL,other_disease,no,,,yes,2021-04-19,primary,1.0,0.089
+SAMEA114191389,PRJEB64515,268,,elderly,34303.5,male,PL,other_disease,no,,,yes,2021-04-15,primary,1.0,0.114
+SAMEA114191390,PRJEB64515,268,,elderly,34303.5,male,PL,other_infection,COVID-19,,,no,2021-04-16,primary,1.0,0.095
+SAMEA114191391,PRJEB64515,269,,elderly,24106.5,male,PL,other_disease,no,,,yes,2021-05-01,primary,1.0,0.113
+SAMEA114191392,PRJEB64515,269,,elderly,24106.5,male,PL,other_disease,no,,,yes,2021-03-04,primary,1.0,0.124
+SAMEA114191393,PRJEB64515,269,,elderly,24106.5,male,PL,other_disease,no,,,yes,2021-05-10,primary,1.0,0.118
+SAMEA114191394,PRJEB64515,269,,elderly,24106.5,male,PL,other_infection,COVID-19,,,no,2021-04-13,primary,1.0,0.097
+SAMEA114191395,PRJEB64515,269,,elderly,24106.5,male,PL,other_disease,no,,,yes,2021-04-16,primary,1.0,0.087
+SAMEA114191396,PRJEB64515,269,,elderly,24106.5,male,PL,other_disease,no,,,yes,2021-04-29,primary,1.0,0.106
+SAMEA114191397,PRJEB64515,26p,,adult,21177.0,male,PL,other_infection,COVID-19,,,no,2022-03-08,primary,1.0,0.078
+SAMEA114191398,PRJEB64515,26p,,adult,21177.0,male,PL,other_infection,COVID-19,,,no,2022-03-10,primary,1.0,0.095
+SAMEA114191399,PRJEB64515,26p,,adult,21177.0,male,PL,other_infection,COVID-19,,,no,2022-03-13,primary,1.0,0.068
+SAMEA114191400,PRJEB64515,271,,adult,17151.0,male,PL,other_disease,no,,,no,2021-05-01,primary,1.0,0.092
+SAMEA114191401,PRJEB64515,271,,adult,17151.0,male,PL,other_disease,no,,,no,2021-04-14,primary,1.0,0.068
+SAMEA114191402,PRJEB64515,271,,adult,17151.0,male,PL,other_disease,no,,,no,2021-04-15,primary,1.0,0.082
+SAMEA114191403,PRJEB64515,271,,adult,17151.0,male,PL,other_disease,no,,,no,2021-04-16,primary,1.0,0.093
+SAMEA114191404,PRJEB64515,271,,adult,17151.0,male,PL,other_disease,no,,,no,2021-04-17,primary,1.0,0.103
+SAMEA114191405,PRJEB64515,271,,adult,17151.0,male,PL,other_disease,no,,,no,2021-04-26,primary,1.0,0.087
+SAMEA114191406,PRJEB64515,272,,adult,22627.0,female,PL,other_disease,no,,,no,2021-04-16,primary,1.0,0.07
+SAMEA114191407,PRJEB64515,275,,adult,17151.0,male,PL,other_disease,no,,,no,2021-04-22,primary,1.0,0.114
+SAMEA114191408,PRJEB64515,276,,adult,13149.0,male,PL,other_infection,COVID-19,,,no,2021-05-03,primary,1.0,0.122
+SAMEA114191409,PRJEB64515,276,,adult,13149.0,male,PL,other_disease,no,,,no,2021-05-08,primary,1.0,0.128
+SAMEA114191410,PRJEB64515,276,,adult,13149.0,male,PL,other_disease,no,,,no,2021-05-13,primary,1.0,0.132
+SAMEA114191411,PRJEB64515,276,,adult,13149.0,male,PL,other_disease,no,,,no,2021-05-18,primary,1.0,0.105
+SAMEA114191412,PRJEB64515,276,,adult,13149.0,male,PL,other_disease,no,,,no,2021-05-20,primary,1.0,0.14
+SAMEA114191413,PRJEB64515,276,,adult,13149.0,male,PL,other_disease,no,,,no,2021-05-21,primary,1.0,0.119
+SAMEA114191414,PRJEB64515,278,,adult,22280.2,male,PL,other_infection,COVID-19,,,no,2021-04-21,primary,1.0,0.073
+SAMEA114191415,PRJEB64515,279,,elderly,24106.5,female,PL,other_infection,COVID-19,,,no,2021-05-04,primary,1.0,0.072
+SAMEA114191416,PRJEB64515,27p,,adult,20820.0,male,PL,other_infection,COVID-19,,,no,2022-03-08,primary,1.0,0.084
+SAMEA114191417,PRJEB64515,27p,,adult,20820.0,male,PL,other_disease,allergy: no,,,yes,2022-03-10,primary,1.0,0.094
+SAMEA114191418,PRJEB64515,27p,,adult,20820.0,male,PL,other_disease,allergy: no,,,yes,2022-03-12,primary,1.0,0.095
+SAMEA114191419,PRJEB64515,28,,adult,22627.0,male,PL,other_disease,allergy: no,,,yes,2020-06-14,primary,1.0,0.092
+SAMEA114191420,PRJEB64515,28,,adult,22627.0,male,PL,other_disease,allergy: no,,,yes,2020-06-15,primary,1.0,0.117
+SAMEA114191421,PRJEB64515,281,,elderly,27028.5,female,PL,other_disease,allergy: no,,,yes,2021-05-01,primary,1.0,0.142
+SAMEA114191422,PRJEB64515,282,,elderly,24106.5,female,PL,other_disease,allergy: no,,,yes,2021-05-02,primary,1.0,0.136
+SAMEA114191423,PRJEB64515,282,,elderly,24106.5,female,PL,type2_diabetes,type II diabetes,,,yes,2021-05-11,primary,1.0,0.114
+SAMEA114191424,PRJEB64515,282,,elderly,24106.5,female,PL,type2_diabetes,type II diabetes,,,yes,2021-05-13,primary,1.0,0.133
+SAMEA114191425,PRJEB64515,282,,elderly,24106.5,female,PL,type2_diabetes,type II diabetes,,,yes,2021-04-23,primary,1.0,0.149
+SAMEA114191426,PRJEB64515,283,,elderly,25550.0,female,PL,type2_diabetes,type II diabetes,,,yes,2021-04-25,primary,1.0,0.12
+SAMEA114191427,PRJEB64515,286,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-03,primary,1.0,0.114
+SAMEA114191428,PRJEB64515,286,,elderly,25190.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-05,primary,1.0,0.106
+SAMEA114191429,PRJEB64515,286,,elderly,25190.0,male,PL,other_infection,COVID-19,,,no,2021-05-06,primary,1.0,0.098
+SAMEA114191430,PRJEB64515,286,,elderly,25190.0,male,PL,other_infection,COVID-19,,,no,2021-05-11,primary,1.0,0.109
+SAMEA114283440,PRJEB64515,286,,elderly,25190.0,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,no,2021-05-02,primary,1.0,0.0
+SAMEA114191431,PRJEB64515,287,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-05-02,primary,1.0,0.088
+SAMEA114191432,PRJEB64515,287,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-05-10,primary,1.0,0.137
+SAMEA114191433,PRJEB64515,287,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-05-11,primary,1.0,0.072
+SAMEA114191434,PRJEB64515,287,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-05-12,primary,1.0,0.06
+SAMEA114191435,PRJEB64515,287,,elderly,26641.0,male,PL,other_disease,no,,,yes,2021-05-13,primary,1.0,0.132
+SAMEA114191436,PRJEB64515,287,,elderly,26641.0,male,PL,other_infection,COVID-19,,,no,2021-05-17,primary,1.0,0.127
+SAMEA114191437,PRJEB64515,288,,adult,21177.0,male,PL,other_disease,no,,,no,2021-05-06,primary,1.0,0.093
+SAMEA114191438,PRJEB64515,288,,adult,21177.0,male,PL,other_disease,no,,,no,2021-05-13,primary,1.0,0.063
+SAMEA114191439,PRJEB64515,289,,elderly,28854.8,female,PL,other_infection,COVID-19,,,no,2021-05-01,primary,1.0,0.113
+SAMEA114191440,PRJEB64515,289,,elderly,28854.8,female,PL,other_infection,COVID-19,,,no,2021-05-03,primary,1.0,0.107
+SAMEA114191441,PRJEB64515,28p,,elderly,26298.0,male,PL,other_infection,COVID-19,,,no,2022-03-08,primary,1.0,0.093
+SAMEA114191442,PRJEB64515,28p,,elderly,26298.0,male,PL,other_infection,COVID-19,,,no,2022-03-12,primary,1.0,0.084
+SAMEA114191443,PRJEB64515,28p,,elderly,26298.0,male,PL,other_infection,COVID-19,,,no,2022-03-13,primary,1.0,0.121
+SAMEA114191444,PRJEB64515,290,,elderly,35046.0,female,PL,other_infection,COVID-19,,,no,2021-06-09,primary,1.0,0.086
+SAMEA114191445,PRJEB64515,290,,elderly,35046.0,female,PL,other_infection,COVID-19,,,no,2021-05-16,primary,1.0,0.085
+SAMEA114283441,PRJEB64515,291,,elderly,23741.2,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,yes,2021-05-15,primary,1.0,0.053
+SAMEA114191446,PRJEB64515,292,,adult,7670.2,male,PL,other_infection,COVID-19,,,no,2021-05-07,primary,1.0,0.103
+SAMEA114191447,PRJEB64515,292,,adult,7670.2,male,PL,other_infection,no,,,no,2021-05-09,primary,1.0,0.07
+SAMEA114191448,PRJEB64515,292,,adult,7670.2,male,PL,other_infection,no,,,no,2021-05-10,primary,1.0,0.11
+SAMEA114191449,PRJEB64515,292,,adult,7670.2,male,PL,other_infection,no,,,no,2021-05-15,primary,1.0,0.093
+SAMEA114191450,PRJEB64515,292,,adult,7670.2,male,PL,other_infection,no,,,no,2021-05-16,primary,1.0,0.169
+SAMEA114191451,PRJEB64515,292,,adult,7670.2,male,PL,other_infection,no,,,no,2021-05-17,primary,1.0,0.085
+SAMEA114191452,PRJEB64515,293,,elderly,28854.8,female,PL,other_infection,no,,,no,2021-05-11,primary,1.0,0.102
+SAMEA114191453,PRJEB64515,293,,elderly,28854.8,female,PL,other_infection,COVID-19,,,no,2021-05-17,primary,1.0,0.073
+SAMEA114283442,PRJEB64515,294,,adult,17897.2,female,PL,other_disease,other medical conditions: yes,,,no,2021-05-07,primary,1.0,0.054
+SAMEA114191454,PRJEB64515,296,,adult,18262.5,male,PL,other_infection,COVID-19,,,no,2021-05-10,primary,1.0,0.074
+SAMEA114191455,PRJEB64515,296,,adult,18262.5,male,PL,other_infection,COVID-19,,,no,2021-05-11,primary,1.0,0.076
+SAMEA114191456,PRJEB64515,296,,adult,18262.5,male,PL,other_infection,no,,,yes,2021-05-13,primary,1.0,0.141
+SAMEA114191457,PRJEB64515,296,,adult,18262.5,male,PL,other_infection,no,,,yes,2021-05-16,primary,1.0,0.076
+SAMEA114191458,PRJEB64515,296,,adult,18262.5,male,PL,other_infection,no,,,yes,2021-05-17,primary,1.0,0.131
+SAMEA114191459,PRJEB64515,296,,adult,18262.5,male,PL,other_infection,no,,,yes,2021-05-19,primary,1.0,0.084
+SAMEA114191460,PRJEB64515,297,,elderly,28124.2,male,PL,other_infection,no,,,yes,2021-05-13,primary,1.0,0.102
+SAMEA114191461,PRJEB64515,297,,elderly,28124.2,male,PL,other_infection,no,,,yes,2021-05-18,primary,1.0,0.118
+SAMEA114191462,PRJEB64515,298,,adult,10234.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-13,primary,1.0,0.129
+SAMEA114191463,PRJEB64515,298,,adult,10234.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-14,primary,1.0,0.139
+SAMEA114191464,PRJEB64515,298,,adult,10234.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-15,primary,1.0,0.125
+SAMEA114191465,PRJEB64515,298,,adult,10234.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-17,primary,1.0,0.155
+SAMEA114191466,PRJEB64515,298,,adult,10234.0,male,PL,type2_diabetes,type II diabetes,,,yes,2021-05-18,primary,1.0,0.105
+SAMEA114191467,PRJEB64515,29K,,,,,PL,type2_diabetes,type II diabetes,,,yes,2021-10-02,primary,1.0,0.238
+SAMEA114191468,PRJEB64515,29p,,elderly,25932.8,male,PL,type2_diabetes,type II diabetes,,,yes,2022-03-08,primary,1.0,0.108
+SAMEA114191469,PRJEB64515,29p,,elderly,25932.8,male,PL,type2_diabetes,type II diabetes,,,yes,2022-03-11,primary,1.0,0.087
+SAMEA114191470,PRJEB64515,29p,,elderly,25932.8,male,PL,type2_diabetes,type II diabetes,,,yes,2022-03-12,primary,1.0,0.106
+SAMEA114191471,PRJEB64515,2p,,elderly,24106.5,male,PL,other_disease,no,,,no,2022-02-19,primary,1.0,0.094
+SAMEA114191472,PRJEB64515,2p,,elderly,24106.5,male,PL,other_disease,no,,,no,2022-02-21,primary,1.0,0.095
+SAMEA114191473,PRJEB64515,2p,,elderly,24106.5,male,PL,other_disease,no,,,no,2022-02-24,primary,1.0,0.093
+SAMEA114191474,PRJEB64515,3,,adult,21549.8,female,PL,other_disease,no,,,no,2020-05-07,primary,1.0,0.099
+SAMEA114191475,PRJEB64515,3,,adult,21549.8,female,PL,other_disease,no,,,no,2020-05-10,primary,1.0,0.073
+SAMEA114191476,PRJEB64515,3,,adult,21549.8,female,PL,other_infection,no,,,yes,2020-05-13,primary,1.0,0.095
+SAMEA114191477,PRJEB64515,3,,adult,21549.8,female,PL,other_infection,no,,,yes,2020-05-17,primary,1.0,0.073
+SAMEA114191478,PRJEB64515,3,,adult,21549.8,female,PL,other_infection,no,,,yes,2020-05-30,primary,1.0,0.115
+SAMEA114191479,PRJEB64515,300,,elderly,25550.0,female,PL,other_infection,no,,,yes,2021-05-13,primary,1.0,0.114
+SAMEA114191480,PRJEB64515,300,,elderly,25550.0,female,PL,other_disease,no,,,no,2021-05-15,primary,1.0,0.11
+SAMEA114191481,PRJEB64515,300,,elderly,25550.0,female,PL,other_disease,no,,,no,2021-05-17,primary,1.0,0.09
+SAMEA114191482,PRJEB64515,300,,elderly,25550.0,female,PL,other_cancer,no,,,yes,2021-05-20,primary,1.0,0.11
+SAMEA114191483,PRJEB64515,300,,elderly,25550.0,female,PL,other_cancer,no,,,yes,2021-05-25,primary,1.0,0.079
+SAMEA114191484,PRJEB64515,300,,elderly,25550.0,female,PL,other_infection,COVID-19,,,no,2021-05-26,primary,1.0,0.093
+SAMEA114191485,PRJEB64515,302,,elderly,24455.0,male,PL,other_infection,COVID-19,,,no,2021-05-17,primary,1.0,0.114
+SAMEA114191486,PRJEB64515,303,,elderly,31788.0,female,PL,other_infection,COVID-19,,,no,2021-05-24,primary,1.0,0.079
+SAMEA114283443,PRJEB64515,303,,elderly,31788.0,female,PL,other_disease,other medical conditions: yes,,,yes,2021-05-19,primary,1.0,0.061
+SAMEA114191487,PRJEB64515,304,,adult,21915.0,male,PL,other_infection,COVID-19,,,no,2021-05-17,primary,1.0,0.186
+SAMEA114191488,PRJEB64515,304,,adult,21915.0,male,PL,other_infection,COVID-19,,,no,2021-05-19,primary,1.0,0.132
+SAMEA114191489,PRJEB64515,304,,adult,21915.0,male,PL,other_infection,COVID-19,,,no,2021-05-23,primary,1.0,0.143
+SAMEA114191490,PRJEB64515,304,,adult,21915.0,male,PL,other_infection,COVID-19,,,no,2021-05-31,primary,1.0,0.098
+SAMEA114191491,PRJEB64515,305,,adult,22280.2,male,PL,other_infection,COVID-19,,,no,2021-05-17,primary,1.0,0.094
+SAMEA114191492,PRJEB64515,305,,adult,22280.2,male,PL,other_cancer,no,,,no,2021-05-22,primary,1.0,0.106
+SAMEA114191493,PRJEB64515,309,,elderly,32481.0,female,PL,other_cancer,no,,,no,2021-06-02,primary,1.0,0.13
+SAMEA114191494,PRJEB64515,309,,elderly,32481.0,female,PL,other_cancer,no,,,no,2021-06-03,primary,1.0,0.108
+SAMEA114191495,PRJEB64515,309,,elderly,32481.0,female,PL,other_cancer,no,,,no,2021-06-06,primary,1.0,0.157
+SAMEA114191496,PRJEB64515,309,,elderly,32481.0,female,PL,other_infection,COVID-19,,,no,2021-06-08,primary,1.0,0.136
+SAMEA114191497,PRJEB64515,309,,elderly,32481.0,female,PL,other_infection,COVID-19,,,no,2021-06-09,primary,1.0,0.123
+SAMEA114191498,PRJEB64515,309,,elderly,32481.0,female,PL,other_infection,COVID-19,,,no,2021-06-20,primary,1.0,0.146
+SAMEA114191499,PRJEB64515,30K,,,,,PL,other_infection,no,,,yes,2021-09-28,primary,1.0,0.104
+SAMEA114191500,PRJEB64515,30p,,adult,21915.0,male,PL,other_infection,no,,,yes,2022-03-09,primary,1.0,0.101
+SAMEA114191501,PRJEB64515,30p,,adult,21915.0,male,PL,other_infection,no,,,yes,2022-03-11,primary,1.0,0.113
+SAMEA114191502,PRJEB64515,30p,,adult,21915.0,male,PL,other_infection,no,,,yes,2022-03-14,primary,1.0,0.155
+SAMEA114191503,PRJEB64515,31,,elderly,26641.0,female,PL,other_infection,no,,,yes,2020-06-14,primary,1.0,0.115
+SAMEA114191504,PRJEB64515,31,,elderly,26641.0,female,PL,other_infection,COVID-19,,,no,2020-06-19,primary,1.0,0.125
+SAMEA114191505,PRJEB64515,31,,elderly,26641.0,female,PL,other_infection,COVID-19,,,no,2020-06-25,primary,1.0,0.144
+SAMEA114191506,PRJEB64515,31,,elderly,26641.0,female,PL,other_infection,COVID-19,,,no,2020-06-29,primary,1.0,0.188
+SAMEA114191507,PRJEB64515,311,,elderly,29220.0,male,PL,other_infection,COVID-19,,,no,2021-06-04,primary,1.0,0.092
+SAMEA114191508,PRJEB64515,313,,adult,11688.0,female,PL,other_infection,COVID-19,,,no,2021-06-06,primary,1.0,0.097
+SAMEA114191509,PRJEB64515,313,,adult,11688.0,female,PL,other_infection,COVID-19,,,no,2021-06-07,primary,1.0,0.113
+SAMEA114191510,PRJEB64515,313,,adult,11688.0,female,PL,other_disease,allergy: no,,,no,2021-06-10,primary,1.0,0.18
+SAMEA114191511,PRJEB64515,315,,elderly,24455.0,female,PL,other_cancer,no,,,no,2021-12-01,primary,1.0,0.073
+SAMEA114191512,PRJEB64515,315,,elderly,24455.0,female,PL,other_cancer,no,,,no,2021-12-04,primary,1.0,0.08
+SAMEA114283444,PRJEB64515,315,,elderly,24455.0,female,PL,other_disease,other medical conditions: yes,,,no,2021-12-03,primary,1.0,0.052
+SAMEA114283445,PRJEB64515,315,,elderly,24455.0,female,PL,other_disease,other medical conditions: yes,,,no,2021-11-29,primary,1.0,0.053
+SAMEA114283446,PRJEB64515,315,,elderly,24455.0,female,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,no,2021-11-30,primary,1.0,0.049
+SAMEA114191513,PRJEB64515,316,,elderly,24455.0,female,PL,other_cancer,no,,,no,2021-12-04,primary,1.0,0.067
+SAMEA114191514,PRJEB64515,318,,adult,11312.8,male,PL,other_cancer,no,,,no,2021-12-02,primary,1.0,0.085
+SAMEA114191515,PRJEB64515,318,,adult,11312.8,male,PL,other_cancer,no,,,no,2021-12-03,primary,1.0,0.063
+SAMEA114191516,PRJEB64515,318,,adult,11312.8,male,PL,other_cancer,no,,,no,2021-12-04,primary,1.0,0.064
+SAMEA114191517,PRJEB64515,318,,adult,11312.8,male,PL,other_infection,COVID-19,,,no,2021-11-29,primary,1.0,0.078
+SAMEA114283447,PRJEB64515,318,,adult,11312.8,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,yes,2021-11-30,primary,1.0,0.051
+SAMEA114191518,PRJEB64515,31K,,,,,PL,other_infection,COVID-19,,,no,2021-09-25,primary,1.0,0.075
+SAMEA114191519,PRJEB64515,31K,,,,,PL,other_infection,COVID-19,,,no,2021-09-26,primary,1.0,0.178
+SAMEA114191520,PRJEB64515,31p,,elderly,24837.0,male,PL,other_infection,COVID-19,,,no,2022-03-10,primary,1.0,0.159
+SAMEA114191521,PRJEB64515,32,,adult,18993.0,female,PL,other_infection,COVID-19,,,no,2020-06-13,primary,1.0,0.068
+SAMEA114191522,PRJEB64515,32,,adult,18993.0,female,PL,other_infection,COVID-19,,,no,2020-06-16,primary,1.0,0.092
+SAMEA114191523,PRJEB64515,32,,adult,18993.0,female,PL,other_infection,COVID-19,,,no,2020-06-19,primary,1.0,0.09
+SAMEA114191524,PRJEB64515,32,,adult,18993.0,female,PL,other_infection,COVID-19,,,no,2020-06-22,primary,1.0,0.121
+SAMEA114191525,PRJEB64515,32,,adult,18993.0,female,PL,other_infection,COVID-19,,,no,2020-06-23,primary,1.0,0.068
+SAMEA114191526,PRJEB64515,320,,adult,10957.5,male,PL,other_infection,COVID-19,,,no,2021-12-06,primary,1.0,0.093
+SAMEA114191527,PRJEB64515,321,,elderly,33237.8,female,PL,other_infection,COVID-19,,,no,2021-12-07,primary,1.0,0.103
+SAMEA114191528,PRJEB64515,321,,elderly,33237.8,female,PL,other_infection,COVID-19,,,no,2021-12-08,primary,1.0,0.078
+SAMEA114191529,PRJEB64515,32p,,adult,23376.0,female,PL,other_infection,COVID-19,,,no,2022-03-16,primary,1.0,0.149
+SAMEA114191530,PRJEB64515,32p,,adult,23376.0,female,PL,other_disease,allergy: no,,,no,2022-03-17,primary,1.0,0.121
+SAMEA114191531,PRJEB64515,33,,adult,12783.8,male,PL,other_disease,allergy: no,,,no,2020-06-25,primary,1.0,0.104
+SAMEA114191532,PRJEB64515,33k,,,,,PL,other_disease,allergy: no,,,no,2021-10-03,primary,1.0,0.105
+SAMEA114191533,PRJEB64515,33k,,,,,PL,other_infection,COVID-19,,,no,2021-09-26,primary,1.0,0.065
+SAMEA114191534,PRJEB64515,33p,,adult,19706.0,male,PL,other_disease,no,,,yes,2022-03-11,primary,1.0,0.138
+SAMEA114191535,PRJEB64515,34,,elderly,28489.5,male,PL,other_infection,COVID-19,,,no,2020-07-17,primary,1.0,0.097
+SAMEA114191536,PRJEB64515,34,,elderly,28489.5,male,PL,other_infection,COVID-19,,,no,2020-06-21,primary,1.0,0.09
+SAMEA114191537,PRJEB64515,34,,elderly,28489.5,male,PL,other_infection,COVID-19,,,no,2020-06-24,primary,1.0,0.113
+SAMEA114191538,PRJEB64515,34,,elderly,28489.5,male,PL,other_disease,no,,,no,2020-06-26,primary,1.0,0.098
+SAMEA114191539,PRJEB64515,34p,,elderly,33237.8,male,PL,other_disease,no,,,no,2022-03-10,primary,1.0,0.114
+SAMEA114191540,PRJEB64515,34p,,elderly,33237.8,male,PL,other_disease,no,,,no,2022-03-12,primary,1.0,0.127
+SAMEA114191541,PRJEB64515,34p,,elderly,33237.8,male,PL,other_disease,no,,,no,2022-03-20,primary,1.0,0.114
+SAMEA114191542,PRJEB64515,36,,elderly,29220.0,female,PL,other_disease,no,,,no,2020-07-11,primary,1.0,0.09
+SAMEA114191543,PRJEB64515,36,,elderly,29220.0,female,PL,other_disease,no,,,no,2020-07-17,primary,1.0,0.093
+SAMEA114191544,PRJEB64515,36,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-07-24,primary,1.0,0.073
+SAMEA114191545,PRJEB64515,36,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-07-26,primary,1.0,0.094
+SAMEA114191546,PRJEB64515,36,,elderly,29220.0,female,PL,other_infection,COVID-19,,,no,2020-07-28,primary,1.0,0.097
+SAMEA114191547,PRJEB64515,36p,,elderly,24106.5,male,PL,other_infection,COVID-19,,,no,2022-03-12,primary,1.0,0.121
+SAMEA114191548,PRJEB64515,36p,,elderly,24106.5,male,PL,other_infection,COVID-19,,,no,2022-03-13,primary,1.0,0.112
+SAMEA114191549,PRJEB64515,36p,,elderly,24106.5,male,PL,other_disease,no,,,yes,2022-03-15,primary,1.0,0.225
+SAMEA114191550,PRJEB64515,37,,elderly,24106.5,female,PL,other_disease,no,,,yes,2020-07-07,primary,1.0,0.077
+SAMEA114191551,PRJEB64515,37,,elderly,24106.5,female,PL,other_infection,COVID-19,,,no,2020-06-24,primary,1.0,0.102
+SAMEA114191552,PRJEB64515,37p,,adult,17897.2,female,PL,other_infection,COVID-19,,,no,2022-03-12,primary,1.0,0.089
+SAMEA114191553,PRJEB64515,37p,,adult,17897.2,female,PL,other_infection,COVID-19,,,no,2022-03-13,primary,1.0,0.103
+SAMEA114191554,PRJEB64515,39,,adult,12043.2,male,PL,other_infection,COVID-19,,,no,2020-07-01,primary,1.0,0.11
+SAMEA114191555,PRJEB64515,39,,adult,12043.2,male,PL,other_infection,COVID-19,,,no,2020-07-09,primary,1.0,0.07
+SAMEA114191556,PRJEB64515,39,,adult,12043.2,male,PL,other_infection,COVID-19,,,no,2020-07-10,primary,1.0,0.072
+SAMEA114191557,PRJEB64515,39,,adult,12043.2,male,PL,other_infection,COVID-19,,,no,2020-07-12,primary,1.0,0.082
+SAMEA114191558,PRJEB64515,39,,adult,12043.2,male,PL,other_infection,COVID-19,,,no,2020-06-29,primary,1.0,0.102
+SAMEA114191559,PRJEB64515,3p,,elderly,26298.0,male,PL,other_infection,COVID-19,,,no,2022-02-19,primary,1.0,0.123
+SAMEA114191560,PRJEB64515,4,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-09,primary,1.0,0.117
+SAMEA114191561,PRJEB64515,4,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-12,primary,1.0,0.088
+SAMEA114191562,PRJEB64515,4,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-16,primary,1.0,0.134
+SAMEA114191563,PRJEB64515,4,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-20,primary,1.0,0.145
+SAMEA114191564,PRJEB64515,4,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-25,primary,1.0,0.084
+SAMEA114191565,PRJEB64515,4,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-05-31,primary,1.0,0.088
+SAMEA114191566,PRJEB64515,40,,elderly,30300.0,female,PL,other_infection,COVID-19,,,no,2020-06-27,primary,1.0,0.102
+SAMEA114191567,PRJEB64515,40,,elderly,30300.0,female,PL,other_infection,COVID-19,,,no,2020-06-30,primary,1.0,0.132
+SAMEA114191568,PRJEB64515,41,,elderly,31016.0,male,PL,other_infection,COVID-19,,,no,2020-06-27,primary,1.0,0.079
+SAMEA114191569,PRJEB64515,41,,elderly,31016.0,male,PL,other_infection,COVID-19,,,no,2020-06-30,primary,1.0,0.085
+SAMEA114191570,PRJEB64515,41K,,,,,PL,other_infection,COVID-19,,,no,2021-09-27,primary,1.0,0.078
+SAMEA114191571,PRJEB64515,42,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-07-20,primary,1.0,0.09
+SAMEA114191572,PRJEB64515,42,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-07-23,primary,1.0,0.103
+SAMEA114191573,PRJEB64515,42,,adult,22980.8,male,PL,other_infection,COVID-19,,,no,2020-07-29,primary,1.0,0.091
+SAMEA114191574,PRJEB64515,42K,,,,,PL,other_infection,COVID-19,,,no,2021-09-27,primary,1.0,0.056
+SAMEA114191575,PRJEB64515,43,,adult,9857.0,female,PL,other_infection,COVID-19,,,no,2020-07-19,primary,1.0,0.092
+SAMEA114191576,PRJEB64515,43,,adult,9857.0,female,PL,other_infection,COVID-19,,,no,2020-07-28,primary,1.0,0.113
+SAMEA114191577,PRJEB64515,44,,elderly,33237.8,female,PL,other_infection,COVID-19,,,no,2020-07-08,primary,1.0,0.08
+SAMEA114191578,PRJEB64515,44,,elderly,33237.8,female,PL,other_infection,COVID-19,,,no,2020-06-30,primary,1.0,0.061
+SAMEA114283448,PRJEB64515,46,,elderly,31394.0,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,yes,2021-07-07,primary,1.0,0.047
+SAMEA114191579,PRJEB64515,46K,,,,,PL,other_infection,COVID-19,,,no,2021-10-22,primary,1.0,0.118
+SAMEA114191580,PRJEB64515,46K,,,,,PL,other_infection,COVID-19,,,no,2021-10-23,primary,1.0,0.107
+SAMEA114191581,PRJEB64515,46K,,,,,PL,other_infection,COVID-19,,,no,2021-10-25,primary,1.0,0.1
+SAMEA114191582,PRJEB64515,47,,elderly,27028.5,female,PL,other_infection,COVID-19,,,no,2020-07-19,primary,1.0,0.095
+SAMEA114191583,PRJEB64515,47,,elderly,27028.5,female,PL,other_infection,COVID-19,,,no,2020-07-20,primary,1.0,0.089
+SAMEA114191584,PRJEB64515,47,,elderly,27028.5,female,PL,other_infection,COVID-19,,,no,2020-07-23,primary,1.0,0.071
+SAMEA114191585,PRJEB64515,48,,adult,22627.0,male,PL,other_infection,COVID-19,,,no,2020-07-17,primary,1.0,0.075
+SAMEA114191586,PRJEB64515,48,,adult,22627.0,male,PL,other_infection,COVID-19,,,no,2020-07-20,primary,1.0,0.088
+SAMEA114191587,PRJEB64515,48,,adult,22627.0,male,PL,other_infection,COVID-19,,,no,2020-07-23,primary,1.0,0.072
+SAMEA114191588,PRJEB64515,48,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2020-07-25,primary,1.0,0.073
+SAMEA114191589,PRJEB64515,48,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2020-07-29,primary,1.0,0.113
+SAMEA114191590,PRJEB64515,48K,,,,,PL,other_infection,COVID-19,,,,2021-09-29,primary,1.0,0.057
+SAMEA114191591,PRJEB64515,49,,adult,16436.2,male,PL,other_infection,COVID-19,,,,2020-07-20,primary,1.0,0.085
+SAMEA114191592,PRJEB64515,49,,adult,16436.2,male,PL,other_infection,COVID-19,,,,2020-07-22,primary,1.0,0.087
+SAMEA114191593,PRJEB64515,49,,adult,16436.2,male,PL,other_infection,COVID-19,,,,2020-07-24,primary,1.0,0.09
+SAMEA114191594,PRJEB64515,49,,adult,16436.2,male,PL,other_infection,COVID-19,,,,2020-07-29,primary,1.0,0.087
+SAMEA114191595,PRJEB64515,49,,adult,16436.2,male,PL,other_infection,COVID-19,,,,2020-07-30,primary,1.0,0.083
+SAMEA114191596,PRJEB64515,4K,,,,,PL,other_infection,COVID-19,,,,2021-09-02,primary,1.0,0.029
+SAMEA114191597,PRJEB64515,4K,,,,,PL,other_infection,COVID-19,,,,2021-09-03,primary,1.0,0.145
+SAMEA114191598,PRJEB64515,4K,,,,,PL,other_infection,COVID-19,,,,2021-09-05,primary,1.0,0.119
+SAMEA114191599,PRJEB64515,4p,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2022-03-02,primary,1.0,0.125
+SAMEA114191600,PRJEB64515,4p,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2022-02-19,primary,1.0,0.099
+SAMEA114191601,PRJEB64515,4p,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2022-02-21,primary,1.0,0.093
+SAMEA114191602,PRJEB64515,4p,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2022-02-22,primary,1.0,0.104
+SAMEA114191603,PRJEB64515,4p,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2022-02-24,primary,1.0,0.12
+SAMEA114191604,PRJEB64515,4p,,adult,22627.0,male,PL,other_infection,COVID-19,,,,2022-02-28,primary,1.0,0.109
+SAMEA114191605,PRJEB64515,5,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-06-01,primary,1.0,0.067
+SAMEA114191606,PRJEB64515,5,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-06-02,primary,1.0,0.089
+SAMEA114191607,PRJEB64515,5,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-05-10,primary,1.0,0.109
+SAMEA114191608,PRJEB64515,5,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-05-19,primary,1.0,0.1
+SAMEA114191609,PRJEB64515,5,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-05-22,primary,1.0,0.065
+SAMEA114191610,PRJEB64515,5,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-05-28,primary,1.0,0.125
+SAMEA114191611,PRJEB64515,50K,,,,,PL,other_infection,COVID-19,,,,2021-09-29,primary,1.0,0.126
+SAMEA114191612,PRJEB64515,50k,,,,,PL,other_infection,COVID-19,,,,2021-09-30,primary,1.0,0.053
+SAMEA114191613,PRJEB64515,51,,adult,15330.0,male,PL,other_infection,COVID-19,,,,2020-08-02,primary,1.0,0.074
+SAMEA114191614,PRJEB64515,51,,adult,15330.0,male,PL,other_infection,COVID-19,,,,2020-08-08,primary,1.0,0.104
+SAMEA114191615,PRJEB64515,51,,adult,15330.0,male,PL,other_infection,COVID-19,,,,2020-08-16,primary,1.0,0.114
+SAMEA114191616,PRJEB64515,51,,adult,15330.0,male,PL,other_infection,COVID-19,,,,2020-07-25,primary,1.0,0.082
+SAMEA114191617,PRJEB64515,51,,adult,15330.0,male,PL,other_infection,COVID-19,,,,2020-07-28,primary,1.0,0.09
+SAMEA114191618,PRJEB64515,51K,,,,,PL,other_infection,COVID-19,,,,2021-10-09,primary,1.0,0.067
+SAMEA114191619,PRJEB64515,52,,adult,16069.0,male,PL,other_infection,COVID-19,,,,2020-08-01,primary,1.0,0.111
+SAMEA114191620,PRJEB64515,52,,adult,16069.0,male,PL,other_infection,COVID-19,,,,2020-07-27,primary,1.0,0.065
+SAMEA114191621,PRJEB64515,52k,,,,,PL,other_infection,COVID-19,,,,2021-11-28,primary,1.0,0.075
+SAMEA114191622,PRJEB64515,52k,,,,,PL,other_infection,COVID-19,,,,2021-11-29,primary,1.0,0.075
+SAMEA114191623,PRJEB64515,53,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-08-14,primary,1.0,0.087
+SAMEA114191624,PRJEB64515,53,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-08-16,primary,1.0,0.063
+SAMEA114191625,PRJEB64515,53,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-07-26,primary,1.0,0.071
+SAMEA114191626,PRJEB64515,53,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-07-29,primary,1.0,0.117
+SAMEA114191627,PRJEB64515,53,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-07-30,primary,1.0,0.092
+SAMEA114191628,PRJEB64515,53k,,,,,PL,other_infection,COVID-19,,,,2021-11-27,primary,1.0,0.079
+SAMEA114191629,PRJEB64515,53k,,,,,PL,other_infection,COVID-19,,,,2021-11-30,primary,1.0,0.092
+SAMEA114283449,PRJEB64515,53k,,,,,PL,other_infection,COVID-19,,,no,2021-11-28,primary,1.0,0.059
+SAMEA114191630,PRJEB64515,54,,adult,17151.0,male,PL,other_infection,COVID-19,,,,2020-08-02,primary,1.0,0.114
+SAMEA114191631,PRJEB64515,54,,adult,17151.0,male,PL,other_infection,COVID-19,,,,2020-08-06,primary,1.0,0.068
+SAMEA114191632,PRJEB64515,54,,adult,17151.0,male,PL,other_infection,COVID-19,,,,2020-07-28,primary,1.0,0.071
+SAMEA114191633,PRJEB64515,54,,adult,17151.0,male,PL,other_infection,COVID-19,,,,2020-07-31,primary,1.0,0.093
+SAMEA114191634,PRJEB64515,54k,,,,,PL,other_infection,COVID-19,,,,2021-11-27,primary,1.0,0.081
+SAMEA114191635,PRJEB64515,54k,,,,,PL,other_infection,COVID-19,,,,2021-11-28,primary,1.0,0.071
+SAMEA114191636,PRJEB64515,55k,,,,,PL,other_infection,COVID-19,,,,2021-12-01,primary,1.0,0.097
+SAMEA114191637,PRJEB64515,55k,,,,,PL,other_infection,COVID-19,,,,2021-11-02,primary,1.0,0.065
+SAMEA114191638,PRJEB64515,56,,adult,14610.0,male,PL,other_infection,COVID-19,,,,2020-08-03,primary,1.0,0.099
+SAMEA114191639,PRJEB64515,56,,adult,14610.0,male,PL,other_infection,COVID-19,,,,2020-08-05,primary,1.0,0.126
+SAMEA114191640,PRJEB64515,56,,adult,14610.0,male,PL,other_infection,COVID-19,,,,2020-08-07,primary,1.0,0.102
+SAMEA114191641,PRJEB64515,56,,adult,14610.0,male,PL,other_infection,COVID-19,,,,2020-08-09,primary,1.0,0.107
+SAMEA114191642,PRJEB64515,56,,adult,14610.0,male,PL,other_infection,COVID-19,,,,2020-07-29,primary,1.0,0.065
+SAMEA114191643,PRJEB64515,56,,adult,14610.0,male,PL,other_infection,COVID-19,,,,2020-07-31,primary,1.0,0.116
+SAMEA114191644,PRJEB64515,56K,,,,,PL,other_infection,COVID-19,,,,2021-12-05,primary,1.0,0.16
+SAMEA114191645,PRJEB64515,56k,,,,,PL,other_infection,COVID-19,,,,2021-11-30,primary,1.0,0.091
+SAMEA114191646,PRJEB64515,57,,adult,9857.0,male,PL,other_infection,COVID-19,,,,2020-08-01,primary,1.0,0.133
+SAMEA114191647,PRJEB64515,57k,,,,,PL,other_infection,COVID-19,,,,2021-12-02,primary,1.0,0.064
+SAMEA114191648,PRJEB64515,58,,adult,14610.0,female,PL,other_infection,COVID-19,,,,2020-08-01,primary,1.0,0.071
+SAMEA114191649,PRJEB64515,58,,adult,14610.0,female,PL,other_infection,COVID-19,,,,2020-07-29,primary,1.0,0.077
+SAMEA114283450,PRJEB64515,58k,,,,,PL,other_infection,COVID-19,,,no,2021-12-16,primary,1.0,0.052
+SAMEA114191650,PRJEB64515,6,,elderly,29220.0,female,PL,other_infection,COVID-19,,,,2020-05-09,primary,1.0,0.115
+SAMEA114191651,PRJEB64515,6,,elderly,29220.0,female,PL,other_infection,COVID-19,,,,2020-05-14,primary,1.0,0.084
+SAMEA114191652,PRJEB64515,6,,elderly,29220.0,female,PL,other_infection,COVID-19,,,,2020-05-19,primary,1.0,0.078
+SAMEA114191653,PRJEB64515,6,,elderly,29220.0,female,PL,other_infection,COVID-19,,,,2020-05-23,primary,1.0,0.081
+SAMEA114191654,PRJEB64515,6,,elderly,29220.0,female,PL,other_infection,COVID-19,,,,2020-05-27,primary,1.0,0.112
+SAMEA114191655,PRJEB64515,6,,elderly,29220.0,female,PL,other_infection,COVID-19,,,,2020-05-29,primary,1.0,0.099
+SAMEA114191656,PRJEB64515,60,,adult,21915.0,male,PL,other_infection,COVID-19,,,,2020-08-13,primary,1.0,0.123
+SAMEA114191657,PRJEB64515,60,,adult,21915.0,male,PL,other_infection,COVID-19,,,,2020-08-15,primary,1.0,0.114
+SAMEA114191658,PRJEB64515,60,,adult,21915.0,male,PL,other_infection,COVID-19,,,,2020-08-19,primary,1.0,0.114
+SAMEA114191659,PRJEB64515,61,,adult,18262.5,female,PL,other_infection,COVID-19,,,,2020-08-11,primary,1.0,0.104
+SAMEA114191660,PRJEB64515,61,,adult,18262.5,female,PL,other_infection,COVID-19,,,,2020-08-15,primary,1.0,0.109
+SAMEA114191661,PRJEB64515,61,,adult,18262.5,female,PL,other_infection,COVID-19,,,,2020-08-18,primary,1.0,0.093
+SAMEA114191662,PRJEB64515,61,,adult,18262.5,female,PL,other_infection,COVID-19,,,,2020-08-21,primary,1.0,0.108
+SAMEA114191663,PRJEB64515,61,,adult,18262.5,female,PL,other_infection,COVID-19,,,,2020-08-23,primary,1.0,0.122
+SAMEA114191664,PRJEB64515,61,,adult,18262.5,female,PL,other_infection,COVID-19,,,,2020-08-25,primary,1.0,0.116
+SAMEA114191665,PRJEB64515,62,,adult,18627.8,male,PL,other_infection,COVID-19,,,,2020-08-16,primary,1.0,0.075
+SAMEA114283451,PRJEB64515,62,,adult,18627.8,male,PL,other_infection,"COVID-19 (hospitalised patient, case)",,,yes,2020-08-12,primary,1.0,0.049
+SAMEA114191666,PRJEB64515,63,,elderly,27028.5,female,PL,other_infection,COVID-19,,,,2020-08-13,primary,1.0,0.107
+SAMEA114191667,PRJEB64515,63,,elderly,27028.5,female,PL,other_infection,COVID-19,,,,2020-08-15,primary,1.0,0.167
+SAMEA114191668,PRJEB64515,63,,elderly,27028.5,female,PL,other_infection,COVID-19,,,,2020-08-19,primary,1.0,0.156
+SAMEA114191669,PRJEB64515,63,,elderly,27028.5,female,PL,other_infection,COVID-19,,,,2020-08-24,primary,1.0,0.179
+SAMEA114191670,PRJEB64515,63,,elderly,27028.5,female,PL,other_infection,COVID-19,,,,2020-08-26,primary,1.0,0.15
+SAMEA114283452,PRJEB64515,63,,elderly,27028.5,female,PL,other_infection,no,,,no,2020-08-22,primary,1.0,0.06
+SAMEA114191671,PRJEB64515,64,,adult,14610.0,female,PL,other_infection,COVID-19,,,,2020-09-09,primary,1.0,0.099
+SAMEA114191672,PRJEB64515,64,,adult,14610.0,female,PL,other_infection,COVID-19,,,,2020-09-10,primary,1.0,0.093
+SAMEA114191673,PRJEB64515,64,,adult,14610.0,female,PL,other_infection,COVID-19,,,,2020-09-11,primary,1.0,0.121
+SAMEA114191674,PRJEB64515,64,,adult,14610.0,female,PL,other_infection,COVID-19,,,,2020-09-13,primary,1.0,0.119
+SAMEA114191675,PRJEB64515,66,,elderly,26641.0,male,PL,other_infection,COVID-19,,,,2020-09-23,primary,1.0,0.072
+SAMEA114191676,PRJEB64515,7,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-05-18,primary,1.0,0.112
+SAMEA114191677,PRJEB64515,7,,elderly,28124.2,female,PL,other_infection,COVID-19,,,,2020-05-22,primary,1.0,0.107
+SAMEA114191678,PRJEB64515,70,,adult,22280.2,male,PL,other_infection,COVID-19,,,,2020-12-10,primary,1.0,0.066
+SAMEA114191679,PRJEB64515,70,,adult,22280.2,male,PL,other_infection,COVID-19,,,,2020-11-28,primary,1.0,0.084
+SAMEA114283453,PRJEB64515,70,,adult,22280.2,male,PL,other_cancer,no,,,yes,2020-11-01,primary,1.0,0.043
+SAMEA114283454,PRJEB64515,70,,adult,22280.2,male,PL,other_cancer,no,,,yes,2020-12-01,primary,1.0,0.042
+SAMEA114283455,PRJEB64515,70,,adult,22280.2,male,PL,other_cancer,no,,,yes,2020-12-03,primary,1.0,0.047
+SAMEA114283456,PRJEB64515,70,,adult,22280.2,male,PL,other_cancer,no,,,yes,2020-11-21,primary,1.0,0.045
+SAMEA114191680,PRJEB64515,70K,,,,,PL,other_infection,COVID-19,,,,2021-10-19,primary,1.0,0.121
+SAMEA114191681,PRJEB64515,70K,,,,,PL,other_infection,COVID-19,,,,2021-10-20,primary,1.0,0.098
+SAMEA114191682,PRJEB64515,70K,,,,,PL,other_infection,COVID-19,,,,2021-10-21,primary,1.0,0.089
+SAMEA114191683,PRJEB64515,73K,,,,,PL,other_infection,COVID-19,,,,2021-10-25,primary,1.0,0.107
+SAMEA114191684,PRJEB64515,74K,,,,,PL,other_infection,COVID-19,,,,2021-10-20,primary,1.0,0.078
+SAMEA114191685,PRJEB64515,75K,,,,,PL,other_infection,COVID-19,,,,2021-10-21,primary,1.0,0.097
+SAMEA114191686,PRJEB64515,75K,,,,,PL,other_infection,COVID-19,,,,2021-10-22,primary,1.0,0.102
+SAMEA114191687,PRJEB64515,75K,,,,,PL,other_infection,COVID-19,,,,2021-10-23,primary,1.0,0.095
+SAMEA114191688,PRJEB64515,76,,adult,19358.2,female,PL,other_infection,COVID-19,,,,2020-11-04,primary,1.0,0.106
+SAMEA114191689,PRJEB64515,76,,adult,19358.2,female,PL,other_infection,COVID-19,,,,2020-11-07,primary,1.0,0.13
+SAMEA114191690,PRJEB64515,76,,adult,19358.2,female,PL,other_infection,COVID-19,,,,2020-11-11,primary,1.0,0.108
+SAMEA114191691,PRJEB64515,76,,adult,19358.2,female,PL,other_infection,COVID-19,,,,2020-11-13,primary,1.0,0.128
+SAMEA114191692,PRJEB64515,77,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-11-05,primary,1.0,0.062
+SAMEA114191693,PRJEB64515,77,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-11-07,primary,1.0,0.059
+SAMEA114283457,PRJEB64515,77,,elderly,25550.0,male,PL,other_disease,no,,,no,2020-11-08,primary,1.0,0.04
+SAMEA114283458,PRJEB64515,77,,elderly,25550.0,male,PL,other_disease,no,,,no,2020-11-10,primary,1.0,0.043
+SAMEA114283459,PRJEB64515,77,,elderly,25550.0,male,PL,other_disease,no,,,no,2020-11-11,primary,1.0,0.037
+SAMEA114283460,PRJEB64515,77,,elderly,25550.0,male,PL,other_disease,no,,,no,2020-11-13,primary,1.0,0.038
+SAMEA114191694,PRJEB64515,77K,,,,,PL,other_infection,COVID-19,,,,2021-10-22,primary,1.0,0.126
+SAMEA114191695,PRJEB64515,77K,,,,,PL,other_infection,COVID-19,,,,2021-10-23,primary,1.0,0.098
+SAMEA114191696,PRJEB64515,77K,,,,,PL,other_infection,COVID-19,,,,2021-10-24,primary,1.0,0.111
+SAMEA114191697,PRJEB64515,78,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2020-11-06,primary,1.0,0.07
+SAMEA114191698,PRJEB64515,78,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2020-11-09,primary,1.0,0.126
+SAMEA114191699,PRJEB64515,78,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2020-11-10,primary,1.0,0.067
+SAMEA114191700,PRJEB64515,78,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2020-11-11,primary,1.0,0.107
+SAMEA114191701,PRJEB64515,78,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2020-11-12,primary,1.0,0.116
+SAMEA114191702,PRJEB64515,78K,,,,,PL,other_infection,COVID-19,,,,2021-10-23,primary,1.0,0.123
+SAMEA114191703,PRJEB64515,78K,,,,,PL,other_infection,COVID-19,,,,2021-10-24,primary,1.0,0.114
+SAMEA114191704,PRJEB64515,78K,,,,,PL,other_infection,COVID-19,,,,2021-10-25,primary,1.0,0.118
+SAMEA114191705,PRJEB64515,79,,elderly,24106.5,male,PL,other_infection,COVID-19,,,,2020-11-07,primary,1.0,0.081
+SAMEA114191706,PRJEB64515,79K,,,,,PL,other_infection,COVID-19,,,,2021-10-20,primary,1.0,0.106
+SAMEA114191707,PRJEB64515,79K,,,,,PL,other_infection,COVID-19,,,,2021-10-22,primary,1.0,0.101
+SAMEA114191708,PRJEB64515,79K,,,,,PL,other_infection,COVID-19,,,,2021-10-24,primary,1.0,0.093
+SAMEA114191709,PRJEB64515,7p,,elderly,26298.0,female,PL,other_infection,COVID-19,,,,2022-02-20,primary,1.0,0.101
+SAMEA114191710,PRJEB64515,80,,adult,21177.0,male,PL,other_infection,COVID-19,,,,2020-11-06,primary,1.0,0.083
+SAMEA114191711,PRJEB64515,80,,adult,21177.0,male,PL,other_infection,COVID-19,,,,2020-11-08,primary,1.0,0.086
+SAMEA114191712,PRJEB64515,80,,adult,21177.0,male,PL,other_infection,COVID-19,,,,2020-11-12,primary,1.0,0.081
+SAMEA114191713,PRJEB64515,81,,elderly,24455.0,male,PL,other_infection,COVID-19,,,,2020-11-18,primary,1.0,0.066
+SAMEA114283461,PRJEB64515,81,,elderly,24455.0,male,PL,type2_diabetes,type II diabetes,,,yes,2020-11-13,primary,1.0,0.044
+SAMEA114283462,PRJEB64515,81,,elderly,24455.0,male,PL,type2_diabetes,type II diabetes,,,yes,2020-11-17,primary,1.0,0.048
+SAMEA114283463,PRJEB64515,81,,elderly,24455.0,male,PL,type2_diabetes,type II diabetes,,,yes,2020-11-20,primary,1.0,0.048
+SAMEA114283464,PRJEB64515,81,,elderly,24455.0,male,PL,type2_diabetes,type II diabetes,,,yes,2020-11-27,primary,1.0,0.038
+SAMEA114283465,PRJEB64515,81,,elderly,24455.0,male,PL,type2_diabetes,type II diabetes,,,yes,2020-11-29,primary,1.0,0.05
+SAMEA114191714,PRJEB64515,82,,adult,22980.8,male,PL,other_infection,COVID-19,,,,2020-11-10,primary,1.0,0.064
+SAMEA114191715,PRJEB64515,82,,adult,22980.8,male,PL,other_infection,COVID-19,,,,2020-11-12,primary,1.0,0.153
+SAMEA114191716,PRJEB64515,82,,adult,22980.8,male,PL,other_infection,COVID-19,,,,2020-11-13,primary,1.0,0.12
+SAMEA114191717,PRJEB64515,82,,adult,22980.8,male,PL,other_infection,COVID-19,,,,2020-11-16,primary,1.0,0.168
+SAMEA114191718,PRJEB64515,82,,adult,22980.8,male,PL,other_infection,COVID-19,,,,2020-11-18,primary,1.0,0.125
+SAMEA114191719,PRJEB64515,82,,adult,22980.8,male,PL,other_infection,COVID-19,,,,2020-11-19,primary,1.0,0.141
+SAMEA114191720,PRJEB64515,82K,,,,,PL,other_infection,COVID-19,,,,2021-11-01,primary,1.0,0.074
+SAMEA114191721,PRJEB64515,84,,child,2192.0,female,PL,other_infection,COVID-19,,,,2020-11-10,primary,1.0,0.087
+SAMEA114191722,PRJEB64515,84K,,,,,PL,other_infection,COVID-19,,,,2021-11-02,primary,1.0,0.093
+SAMEA114191723,PRJEB64515,84K,,,,,PL,other_infection,COVID-19,,,,2021-11-03,primary,1.0,0.095
+SAMEA114191724,PRJEB64515,84K,,,,,PL,other_infection,COVID-19,,,,2021-11-05,primary,1.0,0.106
+SAMEA114191725,PRJEB64515,85,,adult,13878.5,male,PL,other_infection,COVID-19,,,,2020-11-19,primary,1.0,0.071
+SAMEA114191726,PRJEB64515,85k,,,,,PL,other_infection,COVID-19,,,,2021-12-11,primary,1.0,0.08
+SAMEA114283466,PRJEB64515,85k,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-12-14,primary,1.0,0.062
+SAMEA114191727,PRJEB64515,86K,,,,,PL,other_infection,COVID-19,,,,2021-11-02,primary,1.0,0.086
+SAMEA114191728,PRJEB64515,86K,,,,,PL,other_infection,COVID-19,,,,2021-11-03,primary,1.0,0.096
+SAMEA114191729,PRJEB64515,86K,,,,,PL,other_infection,COVID-19,,,,2021-11-04,primary,1.0,0.098
+SAMEA114191730,PRJEB64515,87K,,,,,PL,other_infection,COVID-19,,,,2021-11-02,primary,1.0,0.091
+SAMEA114191731,PRJEB64515,88,,elderly,25550.0,male,PL,other_infection,COVID-19,,,,2020-11-16,primary,1.0,0.065
+SAMEA114191732,PRJEB64515,88K,,,,,PL,other_infection,COVID-19,,,,2021-11-10,primary,1.0,0.084
+SAMEA114191733,PRJEB64515,89K,,,,,PL,other_infection,COVID-19,,,,2021-11-08,primary,1.0,0.083
+SAMEA114191734,PRJEB64515,89K,,,,,PL,other_infection,COVID-19,,,,2021-11-09,primary,1.0,0.093
+SAMEA114191735,PRJEB64515,89K,,,,,PL,other_infection,COVID-19,,,,2021-11-14,primary,1.0,0.093
+SAMEA114191736,PRJEB64515,8p,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2022-02-21,primary,1.0,0.111
+SAMEA114191737,PRJEB64515,8p,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2022-02-23,primary,1.0,0.111
+SAMEA114191738,PRJEB64515,8p,,adult,21549.8,male,PL,other_infection,COVID-19,,,,2022-02-25,primary,1.0,0.101
+SAMEA114191739,PRJEB64515,90K,,,,,PL,other_infection,COVID-19,,,,2021-11-14,primary,1.0,0.065
+SAMEA114283467,PRJEB64515,90K,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-11-08,primary,1.0,0.061
+SAMEA114283468,PRJEB64515,90K,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-11-09,primary,1.0,0.056
+SAMEA114191740,PRJEB64515,91,,elderly,24837.0,female,PL,other_infection,COVID-19,,,,2020-12-03,primary,1.0,0.085
+SAMEA114191741,PRJEB64515,91,,elderly,24837.0,female,PL,other_infection,COVID-19,,,,2020-12-06,primary,1.0,0.067
+SAMEA114191742,PRJEB64515,91,,elderly,24837.0,female,PL,other_infection,COVID-19,,,,2020-12-08,primary,1.0,0.084
+SAMEA114191743,PRJEB64515,92,,elderly,30702.0,female,PL,other_infection,COVID-19,,,,2020-11-15,primary,1.0,0.081
+SAMEA114191744,PRJEB64515,92K,,,,,PL,other_infection,COVID-19,,,,2021-11-11,primary,1.0,0.1
+SAMEA114191745,PRJEB64515,92K,,,,,PL,other_infection,COVID-19,,,,2021-11-13,primary,1.0,0.065
+SAMEA114283469,PRJEB64515,92K,,,,,PL,other_disease,other medical conditions: yes,,,no,2021-11-14,primary,1.0,0.05
+SAMEA114191746,PRJEB64515,93K,,,,,PL,other_infection,COVID-19,,,,2021-11-14,primary,1.0,0.074
+SAMEA114191747,PRJEB64515,94,,adult,8035.5,female,PL,other_infection,COVID-19,,,,2020-12-01,primary,1.0,0.111
+SAMEA114191748,PRJEB64515,94,,adult,8035.5,female,PL,other_infection,COVID-19,,,,2020-12-05,primary,1.0,0.064
+SAMEA114191749,PRJEB64515,94,,adult,8035.5,female,PL,other_infection,COVID-19,,,,2020-12-08,primary,1.0,0.071
+SAMEA114191750,PRJEB64515,94,,adult,8035.5,female,PL,other_infection,COVID-19,,,,2020-11-27,primary,1.0,0.142
+SAMEA114191751,PRJEB64515,94,,adult,8035.5,female,PL,other_infection,COVID-19,,,,2020-11-29,primary,1.0,0.165
+SAMEA114191752,PRJEB64515,94,,adult,8035.5,female,PL,other_infection,COVID-19,,,,2020-11-30,primary,1.0,0.105
+SAMEA114191753,PRJEB64515,94K,,,,,PL,other_infection,COVID-19,,,,2021-11-14,primary,1.0,0.133
+SAMEA114191754,PRJEB64515,95,,adult,14975.2,male,PL,other_infection,COVID-19,,,,2020-11-20,primary,1.0,0.069
+SAMEA114191755,PRJEB64515,95,,adult,14975.2,male,PL,other_infection,COVID-19,,,,2020-11-24,primary,1.0,0.081
+SAMEA114191756,PRJEB64515,97K,,,,,PL,other_infection,COVID-19,,,,2021-11-14,primary,1.0,0.09
+SAMEA114191757,PRJEB64515,98k,,,,,PL,other_infection,COVID-19,,,,2021-12-01,primary,1.0,0.081
+SAMEA114191758,PRJEB64515,98k,,,,,PL,other_infection,COVID-19,,,,2021-12-05,primary,1.0,0.08
+SAMEA114191759,PRJEB64515,99k,,,,,PL,other_infection,COVID-19,,,,2021-12-01,primary,1.0,0.087
+SAMEA114191760,PRJEB64515,9p,,adult,7305.0,male,PL,other_infection,COVID-19,,,,2022-02-23,primary,1.0,0.1
+SAMEA114191761,PRJEB64515,9p,,adult,7305.0,male,PL,other_infection,COVID-19,,,,2022-02-28,primary,1.0,0.084
+SAMEA114191762,PRJEB64515,K12,,,,,PL,other_infection,COVID-19,,,,2021-10-11,primary,1.0,0.087
+SAMEA114191763,PRJEB64515,K12,,,,,PL,other_infection,COVID-19,,,,2021-10-12,primary,1.0,0.085
+SAMEA114191764,PRJEB64515,K12,,,,,PL,other_infection,COVID-19,,,,2021-10-14,primary,1.0,0.085
+SAMEA114191765,PRJEB64515,K13,,,,,PL,other_infection,COVID-19,,,,2021-10-05,primary,1.0,0.065
+SAMEA114191766,PRJEB64515,K19,,,,,PL,other_infection,COVID-19,,,,2021-10-01,primary,1.0,0.085
+SAMEA114283470,PRJEB64515,K19,,,,,PL,other_infection,COVID-19,,,no,2021-10-03,primary,1.0,0.06
+SAMEA114283471,PRJEB64515,K19,,,,,PL,other_infection,COVID-19,,,no,2021-10-05,primary,1.0,0.065
+SAMEA114191767,PRJEB64515,K22,,,,,PL,other_infection,COVID-19,,,,2021-10-10,primary,1.0,0.082
+SAMEA114283472,PRJEB64515,K22,,,,,PL,other_infection,COVID-19,,,no,2021-10-13,primary,1.0,0.063
+SAMEA114191768,PRJEB64515,K23,,,,,PL,other_infection,COVID-19,,,,2021-10-09,primary,1.0,0.094
+SAMEA114191769,PRJEB64515,K23,,,,,PL,other_infection,COVID-19,,,,2021-10-10,primary,1.0,0.079
+SAMEA114191770,PRJEB64515,K24,,,,,PL,other_infection,COVID-19,,,,2021-10-07,primary,1.0,0.084
+SAMEA114191771,PRJEB64515,K24,,,,,PL,other_infection,COVID-19,,,,2021-10-09,primary,1.0,0.066
+SAMEA114191772,PRJEB64515,K25,,,,,PL,other_infection,COVID-19,,,,2021-10-03,primary,1.0,0.097
+SAMEA114191773,PRJEB64515,K26,,,,,PL,other_infection,COVID-19,,,,2021-10-01,primary,1.0,0.085
+SAMEA114191774,PRJEB64515,K26,,,,,PL,other_infection,COVID-19,,,,2021-10-03,primary,1.0,0.065
+SAMEA114191775,PRJEB64515,K26,,,,,PL,other_infection,COVID-19,,,,2021-09-29,primary,1.0,0.084
+SAMEA114191776,PRJEB64515,K29,,,,,PL,other_infection,COVID-19,,,,2021-10-03,primary,1.0,0.108
+SAMEA114191777,PRJEB64515,K29,,,,,PL,other_infection,COVID-19,,,,2021-10-04,primary,1.0,0.093
+SAMEA114191778,PRJEB64515,K30,,,,,PL,other_infection,COVID-19,,,,2021-10-06,primary,1.0,0.098
+SAMEA114191779,PRJEB64515,K30,,,,,PL,other_infection,COVID-19,,,,2021-09-27,primary,1.0,0.099
+SAMEA114283473,PRJEB64515,K31,,,,,PL,other_infection,COVID-19,,,no,2021-09-24,primary,1.0,0.058
+SAMEA114191780,PRJEB64515,K32,,,,,PL,other_infection,COVID-19,,,,2021-09-04,primary,1.0,0.084
+SAMEA114191781,PRJEB64515,K32,,,,,PL,other_infection,COVID-19,,,,2021-09-20,primary,1.0,0.086
+SAMEA114191782,PRJEB64515,K32,,,,,PL,other_infection,COVID-19,,,,2021-09-23,primary,1.0,0.066
+SAMEA114191783,PRJEB64515,K33,,,,,PL,other_infection,COVID-19,,,,2021-10-05,primary,1.0,0.109
+SAMEA114191784,PRJEB64515,K34,,,,,PL,other_infection,COVID-19,,,,2021-09-25,primary,1.0,0.109
+SAMEA114191785,PRJEB64515,K34,,,,,PL,other_infection,COVID-19,,,,2021-09-26,primary,1.0,0.096
+SAMEA114191786,PRJEB64515,K34,,,,,PL,other_infection,COVID-19,,,,2021-09-27,primary,1.0,0.085
+SAMEA114283474,PRJEB64515,K41,,,,,PL,other_infection,COVID-19,,,no,2021-09-24,primary,1.0,0.044
+SAMEA114283475,PRJEB64515,K41,,,,,PL,other_infection,COVID-19,,,no,2021-09-25,primary,1.0,0.061
+SAMEA114191787,PRJEB64515,K42,,,,,PL,other_infection,COVID-19,,,,2021-09-26,primary,1.0,0.078
+SAMEA114191788,PRJEB64515,K42,,,,,PL,other_infection,COVID-19,,,,2021-09-28,primary,1.0,0.077
+SAMEA114191789,PRJEB64515,K48,,,,,PL,other_infection,COVID-19,,,,2021-09-28,primary,1.0,0.071
+SAMEA114191790,PRJEB64515,K48,,,,,PL,other_infection,COVID-19,,,,2021-09-30,primary,1.0,0.103
+SAMEA114191791,PRJEB64515,K49,,,,,PL,other_infection,COVID-19,,,,2021-10-01,primary,1.0,0.089
+SAMEA114191792,PRJEB64515,K49,,,,,PL,other_infection,COVID-19,,,,2021-10-02,primary,1.0,0.078
+SAMEA114191793,PRJEB64515,K49,,,,,PL,other_infection,COVID-19,,,,2021-09-29,primary,1.0,0.08
+SAMEA114191794,PRJEB64515,K50,,,,,PL,other_infection,COVID-19,,,,2021-09-28,primary,1.0,0.088
+SAMEA114191795,PRJEB64515,K51,,,,,PL,other_infection,COVID-19,,,,2021-10-11,primary,1.0,0.069
+SAMEA114283476,PRJEB64515,K51,,,,,PL,other_infection,COVID-19,,,no,2021-10-12,primary,1.0,0.061
+SAMEA114191796,PRJEB64515,K6,,,,,PL,other_infection,COVID-19,,,,2021-09-15,primary,1.0,0.077
+SAMEA114191797,PRJEB64515,K6,,,,,PL,other_infection,COVID-19,,,,2021-09-16,primary,1.0,0.093
+SAMEA114191798,PRJEB64515,K6,,,,,PL,other_infection,COVID-19,,,,2021-09-17,primary,1.0,0.092

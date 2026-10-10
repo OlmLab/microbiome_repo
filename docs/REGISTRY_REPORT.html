@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Registry report — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: every public human shotgun-metagenome study (registry) and a curated, evidence-linked catalog of human gut metagenomes of all ages with per-sample metadata.">
+<meta name="catalog-release" content="data-v1.19.0">
+<meta name="catalog-release-id" content="R2026.23">
+<link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/REGISTRY_REPORT.html">
+<meta name="catalog-package-version" content="1.19.0">
+<meta name="catalog-build-date" content="2026-10-10">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<nav class="topnav"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/observations.html">Atlas: observations</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main>
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Registry report</div>
+
+<p class="small">Rendered from <a href="REGISTRY_REPORT.md">REGISTRY_REPORT.md</a>.</p>
+<div class="md"><h1 id="registry_report-registry_studies-r202623">REGISTRY_REPORT — registry_studies (R2026.23)</h1>
+<p><em>Full registry universe.</em></p>
+<p>Studies: <strong>64,369</strong> · runs: <strong>2,334,512</strong> · samples: <strong>2,028,236</strong> · needs-LLM (stage pending): <strong>417</strong></p>
+<h3 id="host_human">host_human</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>no</td>
+<td style="text-align: right;">43,775</td>
+</tr>
+<tr>
+<td>unknown</td>
+<td style="text-align: right;">13,696</td>
+</tr>
+<tr>
+<td>yes</td>
+<td style="text-align: right;">6,652</td>
+</tr>
+<tr>
+<td>mixed</td>
+<td style="text-align: right;">246</td>
+</tr>
+</tbody>
+</table>
+<h3 id="body_site_primary">body_site_primary</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(null)</td>
+<td style="text-align: right;">43,760</td>
+</tr>
+<tr>
+<td>unknown_site</td>
+<td style="text-align: right;">14,018</td>
+</tr>
+<tr>
+<td>gut_stool</td>
+<td style="text-align: right;">3,349</td>
+</tr>
+<tr>
+<td>blood_tissue</td>
+<td style="text-align: right;">1,182</td>
+</tr>
+<tr>
+<td>respiratory_lower</td>
+<td style="text-align: right;">511</td>
+</tr>
+<tr>
+<td>oral</td>
+<td style="text-align: right;">444</td>
+</tr>
+<tr>
+<td>vaginal_urogenital</td>
+<td style="text-align: right;">258</td>
+</tr>
+<tr>
+<td>skin</td>
+<td style="text-align: right;">245</td>
+</tr>
+<tr>
+<td>nasal_nasopharyngeal</td>
+<td style="text-align: right;">195</td>
+</tr>
+<tr>
+<td>other_site</td>
+<td style="text-align: right;">171</td>
+</tr>
+<tr>
+<td>multi_site</td>
+<td style="text-align: right;">149</td>
+</tr>
+<tr>
+<td>eye_ear</td>
+<td style="text-align: right;">60</td>
+</tr>
+<tr>
+<td>milk</td>
+<td style="text-align: right;">27</td>
+</tr>
+</tbody>
+</table>
+<h3 id="life_stage_primary">life_stage_primary</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(null)</td>
+<td style="text-align: right;">43,765</td>
+</tr>
+<tr>
+<td>unknown_age</td>
+<td style="text-align: right;">17,987</td>
+</tr>
+<tr>
+<td>adult</td>
+<td style="text-align: right;">1,509</td>
+</tr>
+<tr>
+<td>infant</td>
+<td style="text-align: right;">450</td>
+</tr>
+<tr>
+<td>child</td>
+<td style="text-align: right;">433</td>
+</tr>
+<tr>
+<td>mixed_ages</td>
+<td style="text-align: right;">86</td>
+</tr>
+<tr>
+<td>elderly</td>
+<td style="text-align: right;">59</td>
+</tr>
+<tr>
+<td>neonate</td>
+<td style="text-align: right;">51</td>
+</tr>
+<tr>
+<td>adolescent</td>
+<td style="text-align: right;">29</td>
+</tr>
+</tbody>
+</table>
+<h3 id="assay">assay</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>shotgun_dna</td>
+<td style="text-align: right;">45,443</td>
+</tr>
+<tr>
+<td>other</td>
+<td style="text-align: right;">17,310</td>
+</tr>
+<tr>
+<td>isolate_genome</td>
+<td style="text-align: right;">526</td>
+</tr>
+<tr>
+<td>mixed</td>
+<td style="text-align: right;">364</td>
+</tr>
+<tr>
+<td>amplicon_misfiled</td>
+<td style="text-align: right;">337</td>
+</tr>
+<tr>
+<td>rna</td>
+<td style="text-align: right;">181</td>
+</tr>
+<tr>
+<td>amplicon</td>
+<td style="text-align: right;">108</td>
+</tr>
+<tr>
+<td>unknown</td>
+<td style="text-align: right;">97</td>
+</tr>
+<tr>
+<td>assembly_only</td>
+<td style="text-align: right;">3</td>
+</tr>
+</tbody>
+</table>
+<h3 id="classification_stage">classification_stage</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>deterministic_rule</td>
+<td style="text-align: right;">52,146</td>
+</tr>
+<tr>
+<td>sonnet_x2</td>
+<td style="text-align: right;">5,216</td>
+</tr>
+<tr>
+<td>deterministic_prior</td>
+<td style="text-align: right;">4,831</td>
+</tr>
+<tr>
+<td>opus_adjudicated</td>
+<td style="text-align: right;">1,679</td>
+</tr>
+<tr>
+<td>pending</td>
+<td style="text-align: right;">417</td>
+</tr>
+<tr>
+<td>curator_audit</td>
+<td style="text-align: right;">79</td>
+</tr>
+<tr>
+<td>owner_decision</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="in_infant_catalog">in_infant_catalog</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>not_screened</td>
+<td style="text-align: right;">54,788</td>
+</tr>
+<tr>
+<td>exclude</td>
+<td style="text-align: right;">9,140</td>
+</tr>
+<tr>
+<td>include</td>
+<td style="text-align: right;">389</td>
+</tr>
+<tr>
+<td>uncertain</td>
+<td style="text-align: right;">52</td>
+</tr>
+</tbody>
+</table>
+<h3 id="access">access</h3>
+<table>
+<thead>
+<tr>
+<th>value</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>open</td>
+<td style="text-align: right;">64,368</td>
+</tr>
+<tr>
+<td>controlled</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="scope_memberships-a-study-can-be-in-several">scope_memberships (a study can be in several)</h3>
+<table>
+<thead>
+<tr>
+<th>scope</th>
+<th style="text-align: right;">studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>human_all</td>
+<td style="text-align: right;">4,750</td>
+</tr>
+<tr>
+<td>gut_adult</td>
+<td style="text-align: right;">1,202</td>
+</tr>
+<tr>
+<td>blood_tissue</td>
+<td style="text-align: right;">1,127</td>
+</tr>
+<tr>
+<td>unknown_site</td>
+<td style="text-align: right;">993</td>
+</tr>
+<tr>
+<td>respiratory</td>
+<td style="text-align: right;">769</td>
+</tr>
+<tr>
+<td>oral</td>
+<td style="text-align: right;">586</td>
+</tr>
+<tr>
+<td>infant_gut</td>
+<td style="text-align: right;">389</td>
+</tr>
+<tr>
+<td>gut_child</td>
+<td style="text-align: right;">368</td>
+</tr>
+<tr>
+<td>vaginal_urogenital</td>
+<td style="text-align: right;">282</td>
+</tr>
+<tr>
+<td>skin</td>
+<td style="text-align: right;">256</td>
+</tr>
+<tr>
+<td>other_site</td>
+<td style="text-align: right;">251</td>
+</tr>
+<tr>
+<td>milk</td>
+<td style="text-align: right;">64</td>
+</tr>
+</tbody>
+</table>
+<h3 id="registry_universe_audit-enumeration-track">registry_universe_audit (enumeration track)</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">slice</th>
+<th style="text-align: left;">partition</th>
+<th style="text-align: left;">tag</th>
+<th style="text-align: left;">query</th>
+<th style="text-align: right;">ena_count</th>
+<th style="text-align: right;">rows_pulled</th>
+<th style="text-align: left;">complete</th>
+<th style="text-align: right;">seconds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2010</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2010-01-01 AND first_public&lt;=2010-12-31</td>
+<td style="text-align: right;">1862</td>
+<td style="text-align: right;">1862</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2011</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2011-01-01 AND first_public&lt;=2011-12-31</td>
+<td style="text-align: right;">1045</td>
+<td style="text-align: right;">1045</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2012</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2012-01-01 AND first_public&lt;=2012-12-31</td>
+<td style="text-align: right;">7645</td>
+<td style="text-align: right;">7645</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.1</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2013</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2013-01-01 AND first_public&lt;=2013-12-31</td>
+<td style="text-align: right;">6019</td>
+<td style="text-align: right;">6019</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2014</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2014-01-01 AND first_public&lt;=2014-12-31</td>
+<td style="text-align: right;">11247</td>
+<td style="text-align: right;">11247</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.1</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2015</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2015-01-01 AND first_public&lt;=2015-12-31</td>
+<td style="text-align: right;">24668</td>
+<td style="text-align: right;">24668</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.2</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2016</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2016-01-01 AND first_public&lt;=2016-12-31</td>
+<td style="text-align: right;">18494</td>
+<td style="text-align: right;">18494</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.1</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2017</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2017-01-01 AND first_public&lt;=2017-12-31</td>
+<td style="text-align: right;">35544</td>
+<td style="text-align: right;">35544</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.3</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2018</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2018-01-01 AND first_public&lt;=2018-12-31</td>
+<td style="text-align: right;">53985</td>
+<td style="text-align: right;">53985</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.4</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2019</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2019-01-01 AND first_public&lt;=2019-12-31</td>
+<td style="text-align: right;">87954</td>
+<td style="text-align: right;">87954</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.7</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2020</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2020-01-01 AND first_public&lt;=2020-12-31</td>
+<td style="text-align: right;">87741</td>
+<td style="text-align: right;">87741</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.7</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2021</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2021-01-01 AND first_public&lt;=2021-12-31</td>
+<td style="text-align: right;">99071</td>
+<td style="text-align: right;">99071</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.8</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2022</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2022-01-01 AND first_public&lt;=2022-12-31</td>
+<td style="text-align: right;">111886</td>
+<td style="text-align: right;">111886</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.9</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2023q1</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2023-01-01 AND first_public&lt;=2023-03-31</td>
+<td style="text-align: right;">44101</td>
+<td style="text-align: right;">44101</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.3</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2023q2</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2023-04-01 AND first_public&lt;=2023-06-30</td>
+<td style="text-align: right;">44844</td>
+<td style="text-align: right;">44844</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.3</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2023q3</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2023-07-01 AND first_public&lt;=2023-09-30</td>
+<td style="text-align: right;">36324</td>
+<td style="text-align: right;">36324</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.3</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2023q4</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2023-10-01 AND first_public&lt;=2023-12-31</td>
+<td style="text-align: right;">36046</td>
+<td style="text-align: right;">36046</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.3</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2024q1</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2024-01-01 AND first_public&lt;=2024-03-31</td>
+<td style="text-align: right;">53477</td>
+<td style="text-align: right;">53477</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.4</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2024q2</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2024-04-01 AND first_public&lt;=2024-06-30</td>
+<td style="text-align: right;">41424</td>
+<td style="text-align: right;">41424</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.3</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2024q3</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2024-07-01 AND first_public&lt;=2024-09-30</td>
+<td style="text-align: right;">48802</td>
+<td style="text-align: right;">48802</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.4</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2024q4</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2024-10-01 AND first_public&lt;=2024-12-31</td>
+<td style="text-align: right;">75871</td>
+<td style="text-align: right;">75871</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.6</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2025q1</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2025-01-01 AND first_public&lt;=2025-03-31</td>
+<td style="text-align: right;">60575</td>
+<td style="text-align: right;">60575</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.5</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2025q2</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2025-04-01 AND first_public&lt;=2025-06-30</td>
+<td style="text-align: right;">66581</td>
+<td style="text-align: right;">66581</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.6</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2025q3</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2025-07-01 AND first_public&lt;=2025-09-30</td>
+<td style="text-align: right;">54876</td>
+<td style="text-align: right;">54876</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.4</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2025q4</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2025-10-01 AND first_public&lt;=2025-12-31</td>
+<td style="text-align: right;">75675</td>
+<td style="text-align: right;">75675</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.6</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2026q1</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2026-01-01 AND first_public&lt;=2026-03-31</td>
+<td style="text-align: right;">79923</td>
+<td style="text-align: right;">79923</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.6</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2026q2</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2026-04-01 AND first_public&lt;=2026-06-30</td>
+<td style="text-align: right;">103156</td>
+<td style="text-align: right;">103156</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.8</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2026q3</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2026-07-01 AND first_public&lt;=2026-09-30</td>
+<td style="text-align: right;">66596</td>
+<td style="text-align: right;">66596</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.5</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">y2026q4</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND first_public&gt;=2026-10-01 AND first_public&lt;=2026-12-31</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">fill_missing_from_index</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">run_accession IN (&lt;29952 accessions missing from partitions&gt;)</td>
+<td style="text-align: right;">29952</td>
+<td style="text-align: right;">29952</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td style="text-align: left;">S1</td>
+<td style="text-align: left;">TOTAL</td>
+<td style="text-align: left;">shotgun_frame_free</td>
+<td style="text-align: left;">library_source="METAGENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS")</td>
+<td style="text-align: right;">1465384</td>
+<td style="text-align: right;">1465384</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">11.2</td>
+</tr>
+<tr>
+<td style="text-align: left;">S2</td>
+<td style="text-align: left;">all</td>
+<td style="text-align: left;">misfiled_genomic_human_taxa</td>
+<td style="text-align: left;">library_source="GENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND (tax_eq(408170) OR tax_eq(433733) OR tax_eq(447426) OR tax_eq(539655) OR tax_eq(646099) OR tax_eq(749906) OR tax_eq(1131769) OR tax_eq(1504969) OR tax_eq(1630596) OR tax_eq(1632839) OR tax_eq(1633571) OR tax_eq(1679718) OR tax_eq(1712573) OR tax_eq(1774142) OR tax_eq(1837932) OR tax_eq(1842734) OR tax_eq(1861841) OR tax_eq(2489051) OR tax_eq(2516875) OR tax_eq(2517771) OR tax_eq(2705415))</td>
+<td style="text-align: right;">62089</td>
+<td style="text-align: right;">62089</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.5</td>
+</tr>
+<tr>
+<td style="text-align: left;">S2</td>
+<td style="text-align: left;">TOTAL</td>
+<td style="text-align: left;">misfiled_genomic_human_taxa</td>
+<td style="text-align: left;">library_source="GENOMIC" AND (library_strategy="WGS" OR library_strategy="WXS") AND (tax_eq(408170) OR tax_eq(433733) OR tax_eq(447426) OR tax_eq(539655) OR tax_eq(646099) OR tax_eq(749906) OR tax_eq(1131769) OR tax_eq(1504969) OR tax_eq(1630596) OR tax_eq(1632839) OR tax_eq(1633571) OR tax_eq(1679718) OR tax_eq(1712573) OR tax_eq(1774142) OR tax_eq(1837932) OR tax_eq(1842734) OR tax_eq(1861841) OR tax_eq(2489051) OR tax_eq(2516875) OR tax_eq(2517771) OR tax_eq(2705415))</td>
+<td style="text-align: right;">62089</td>
+<td style="text-align: right;">62089</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">0.5</td>
+</tr>
+<tr>
+<td style="text-align: left;">S3</td>
+<td style="text-align: left;">all</td>
+<td style="text-align: left;">adjudication_other_tc_wga</td>
+<td style="text-align: left;">(library_strategy="OTHER" OR library_strategy="Targeted-Capture" OR library_strategy="WGA") AND (library_source="METAGENOMIC" OR (library_source="OTHER" AND (host_tax_id=9606 OR tax_eq(9606) OR (tax_eq(408170) OR tax_eq(433733) OR tax_eq(447426) OR tax_eq(539655) OR tax_eq(646099) OR tax_eq(749906) OR tax_eq(1131769) OR tax_eq(1504969) OR tax_eq(1630596) OR tax_eq(1632839) OR tax_eq(1633571) OR tax_eq(1679718) OR tax_eq(1712573) OR tax_eq(1774142) OR tax_eq(1837932) OR tax_eq(1842734) OR tax_eq(1861841) OR tax_eq(2489051) OR tax_eq(2516875) OR tax_eq(2517771) OR tax_eq(2705415)))) OR (library_source="GENOMIC" AND (tax_eq(408170) OR tax_eq(433733) OR tax_eq(447426) OR tax_eq(539655) OR tax_eq(646099) OR tax_eq(749906) OR tax_eq(1131769) OR tax_eq(1504969) OR tax_eq(1630596) OR tax_eq(1632839) OR tax_eq(1633571) OR tax_eq(1679718) OR tax_eq(1712573) OR tax_eq(1774142) OR tax_eq(1837932) OR tax_eq(1842734) OR tax_eq(1861841) OR tax_eq(2489051) OR tax_eq(2516875) OR tax_eq(2517771) OR tax_eq(2705415))))</td>
+<td style="text-align: right;">457755</td>
+<td style="text-align: right;">457755</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">46.4</td>
+</tr>
+<tr>
+<td style="text-align: left;">S3</td>
+<td style="text-align: left;">TOTAL</td>
+<td style="text-align: left;">adjudication_other_tc_wga</td>
+<td style="text-align: left;">(library_strategy="OTHER" OR library_strategy="Targeted-Capture" OR library_strategy="WGA") AND (library_source="METAGENOMIC" OR (library_source="OTHER" AND (host_tax_id=9606 OR tax_eq(9606) OR (tax_eq(408170) OR tax_eq(433733) OR tax_eq(447426) OR tax_eq(539655) OR tax_eq(646099) OR tax_eq(749906) OR tax_eq(1131769) OR tax_eq(1504969) OR tax_eq(1630596) OR tax_eq(1632839) OR tax_eq(1633571) OR tax_eq(1679718) OR tax_eq(1712573) OR tax_eq(1774142) OR tax_eq(1837932) OR tax_eq(1842734) OR tax_eq(1861841) OR tax_eq(2489051) OR tax_eq(2516875) OR tax_eq(2517771) OR tax_eq(2705415)))) OR (library_source="GENOMIC" AND (tax_eq(408170) OR tax_eq(433733) OR tax_eq(447426) OR tax_eq(539655) OR tax_eq(646099) OR tax_eq(749906) OR tax_eq(1131769) OR tax_eq(1504969) OR tax_eq(1630596) OR tax_eq(1632839) OR tax_eq(1633571) OR tax_eq(1679718) OR tax_eq(1712573) OR tax_eq(1774142) OR tax_eq(1837932) OR tax_eq(1842734) OR tax_eq(1861841) OR tax_eq(2489051) OR tax_eq(2516875) OR tax_eq(2517771) OR tax_eq(2705415))))</td>
+<td style="text-align: right;">457755</td>
+<td style="text-align: right;">457755</td>
+<td style="text-align: left;">True</td>
+<td style="text-align: right;">46.4</td>
+</tr>
+</tbody>
+</table></div>
+
+</main>
+<footer>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.23"><span class="mono">R2026.23</span></a> · package <span class="mono">1.19.0</span> · build <span class="mono">790c5d1</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.23.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.19.0',release:'data-v1.19.0',releaseId:'R2026.23',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

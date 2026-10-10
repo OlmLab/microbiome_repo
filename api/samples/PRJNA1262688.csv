@@ -1,0 +1,53 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN48479544,PRJNA1262688,D001,donor,,,,HK,healthy_control,Donor,,,,,primary,1.0,7.623
+SAMN48479543,PRJNA1262688,D002,donor,,,,HK,healthy_control,Donor,,,,,primary,1.0,5.448
+SAMN48479518,PRJNA1262688,F003,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,8.117
+SAMN48479493,PRJNA1262688,F003,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F003, donor D002",no_intervention,,,,primary,1.0,7.645
+SAMN48479519,PRJNA1262688,F005,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,8.692
+SAMN48479494,PRJNA1262688,F005,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F005, donor D002",no_intervention,,,,primary,1.0,7.978
+SAMN48479520,PRJNA1262688,F006,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,6.981
+SAMN48479495,PRJNA1262688,F006,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F006, donor D002",no_intervention,,,,primary,1.0,6.785
+SAMN48479521,PRJNA1262688,F007,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,8.338
+SAMN48479496,PRJNA1262688,F007,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F007, donor D002",no_intervention,,,,primary,1.0,8.08
+SAMN48479522,PRJNA1262688,F009,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.696
+SAMN48479497,PRJNA1262688,F009,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F009, donor D002",no_intervention,,,,primary,1.0,7.469
+SAMN48479523,PRJNA1262688,F010,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,5.78
+SAMN48479498,PRJNA1262688,F010,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F010, donor D002",no_intervention,,,,primary,1.0,8.201
+SAMN48479524,PRJNA1262688,F011,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,4.862
+SAMN48479499,PRJNA1262688,F011,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F011, donor D002",no_intervention,,,,primary,1.0,6.312
+SAMN48479525,PRJNA1262688,F012,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,3.909
+SAMN48479500,PRJNA1262688,F012,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F012, donor D002",no_intervention,,,,primary,1.0,7.023
+SAMN48479526,PRJNA1262688,F013,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,6.916
+SAMN48479501,PRJNA1262688,F013,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F013, donor D002",no_intervention,,,,primary,1.0,7.666
+SAMN48479527,PRJNA1262688,F014,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,5.267
+SAMN48479502,PRJNA1262688,F014,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F014, donor D002",no_intervention,,,,primary,1.0,6.357
+SAMN48479528,PRJNA1262688,F015,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.306
+SAMN48479503,PRJNA1262688,F015,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F015, donor D002",no_intervention,,,,primary,1.0,6.763
+SAMN48479529,PRJNA1262688,F016,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,5.968
+SAMN48479504,PRJNA1262688,F016,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F016, donor D002",no_intervention,,,,primary,1.0,7.19
+SAMN48479530,PRJNA1262688,F017,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.68
+SAMN48479505,PRJNA1262688,F017,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F017, donor D002",no_intervention,,,,primary,1.0,7.821
+SAMN48479531,PRJNA1262688,F018,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,8.468
+SAMN48479506,PRJNA1262688,F018,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F018, donor D001",no_intervention,,,,primary,1.0,8.922
+SAMN48479532,PRJNA1262688,F019,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,6.344
+SAMN48479507,PRJNA1262688,F019,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F019, donor D002",no_intervention,,,,primary,1.0,8.69
+SAMN48479533,PRJNA1262688,F020,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.276
+SAMN48479508,PRJNA1262688,F020,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F020, donor D001",no_intervention,,,,primary,1.0,7.848
+SAMN48479534,PRJNA1262688,F021,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,5.917
+SAMN48479509,PRJNA1262688,F021,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F021, donor D001",no_intervention,,,,primary,1.0,7.678
+SAMN48479535,PRJNA1262688,F022,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.231
+SAMN48479510,PRJNA1262688,F022,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F022, donor D001",no_intervention,,,,primary,1.0,8.43
+SAMN48479536,PRJNA1262688,F024,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,6.426
+SAMN48479511,PRJNA1262688,F024,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F024, donor D001",no_intervention,,,,primary,1.0,5.258
+SAMN48479537,PRJNA1262688,F025,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,8.079
+SAMN48479512,PRJNA1262688,F025,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F025, donor D001",no_intervention,,,,primary,1.0,6.996
+SAMN48479538,PRJNA1262688,F026,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.38
+SAMN48479513,PRJNA1262688,F026,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F026, donor D001",no_intervention,,,,primary,1.0,7.623
+SAMN48479539,PRJNA1262688,F027,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.038
+SAMN48479514,PRJNA1262688,F027,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F027, donor D001",no_intervention,,,,primary,1.0,6.157
+SAMN48479540,PRJNA1262688,F028,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,5.248
+SAMN48479515,PRJNA1262688,F028,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F028, donor D001",no_intervention,,,,primary,1.0,7.552
+SAMN48479541,PRJNA1262688,F029,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,7.92
+SAMN48479516,PRJNA1262688,F029,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F029, donor D001",no_intervention,,,,primary,1.0,8.297
+SAMN48479542,PRJNA1262688,F030,post-FMT,,,,HK,crohns_disease,post-FMT recipient,fmt,,,,primary,1.0,8.339
+SAMN48479517,PRJNA1262688,F030,pre-FMT,,,,HK,crohns_disease,"pre-FMT recipient corresponds to post-FMT F030, donor D001",no_intervention,,,,primary,1.0,8.017

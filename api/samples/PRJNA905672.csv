@@ -1,0 +1,69 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN31880642,PRJNA905672,1055(2),,adult,22280.2,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.697
+SAMN31880675,PRJNA905672,1055(7),,adult,22280.2,male,TN,other_cancer,pT3N1b,,,,2022-08,excluded,1.0,0.541
+SAMN31880662,PRJNA905672,1210(13),,adult,21915.0,male,TN,other_cancer,pT4bN2a,,,,2022-08,excluded,1.0,0.575
+SAMN31880627,PRJNA905672,1210(4),,adult,21915.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.705
+SAMN31880614,PRJNA905672,124(10),,elderly,27394.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.112
+SAMN31880649,PRJNA905672,124(19),,elderly,27394.0,female,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.125
+SAMN31880632,PRJNA905672,1558(11),,elderly,26298.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,1.189
+SAMN31880667,PRJNA905672,1558(19),,elderly,26298.0,female,TN,other_cancer,pT3N2a,,,,2022-08,excluded,1.0,1.906
+SAMN31880638,PRJNA905672,1986 (1),,adult,22980.8,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.008
+SAMN31880671,PRJNA905672,1986(18),,adult,22980.8,female,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.068
+SAMN31880637,PRJNA905672,2103(1),,elderly,26641.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.393
+SAMN31880670,PRJNA905672,2103(9),,elderly,26641.0,male,TN,other_cancer,pT4aN0,,,,2022-08,excluded,1.0,0.461
+SAMN31880608,PRJNA905672,216,,elderly,23741.2,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.305
+SAMN31880643,PRJNA905672,216(11),,elderly,23741.2,female,TN,other_cancer,pT4N1c,,,,2022-08,excluded,1.0,0.348
+SAMN31880612,PRJNA905672,2218(1),,elderly,28124.2,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.291
+SAMN31880647,PRJNA905672,2218(18),,elderly,28124.2,male,TN,other_cancer,pT3N1b,,,,2022-08,excluded,1.0,0.187
+SAMN31880664,PRJNA905672,3099(19),,adult,23376.0,female,TN,other_cancer,pT3N1,,,,2022-08,excluded,1.0,0.221
+SAMN31880629,PRJNA905672,3099(2),,adult,23376.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.284
+SAMN31880639,PRJNA905672,314(2),,adult,17897.2,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.288
+SAMN31880672,PRJNA905672,314(8),,adult,17897.2,female,TN,other_cancer,pT2N0,,,,2022-08,excluded,1.0,0.221
+SAMN31880635,PRJNA905672,3344(2),,elderly,26298.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,1.066
+SAMN31880609,PRJNA905672,3493,,adult,19706.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.058
+SAMN31880644,PRJNA905672,3493(f),,adult,19706.0,male,TN,other_cancer,pT4bN1b,,,,2022-08,excluded,1.0,0.082
+SAMN31880620,PRJNA905672,3528(1),,adult,18262.5,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.31
+SAMN31880655,PRJNA905672,3528(12),,adult,18262.5,female,TN,other_cancer,pT3N2a,,,,2022-08,excluded,1.0,0.282
+SAMN31880673,PRJNA905672,3653(15),,elderly,24837.0,female,TN,other_cancer,pT4aN0,,,,2022-08,excluded,1.0,0.298
+SAMN31880640,PRJNA905672,3653(3),,elderly,24837.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.363
+SAMN31880610,PRJNA905672,3659,,elderly,26641.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.279
+SAMN31880645,PRJNA905672,3659(7),,elderly,26641.0,male,TN,other_cancer,pT4aN2b,,,,2022-08,excluded,1.0,0.253
+SAMN31880630,PRJNA905672,4224(b),,elderly,29580.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.118
+SAMN31880665,PRJNA905672,4224(d),,elderly,29580.0,male,TN,other_cancer,pT2N0,,,,2022-08,excluded,1.0,0.153
+SAMN31880634,PRJNA905672,4358(4),,adult,10234.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,1.061
+SAMN31880669,PRJNA905672,4358(8),,adult,10234.0,male,TN,other_cancer,pT4aN1a,,,,2022-08,excluded,1.0,0.546
+SAMN31880653,PRJNA905672,4421(10),,elderly,24106.5,female,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.176
+SAMN31880618,PRJNA905672,4421(3),,elderly,24106.5,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.204
+SAMN31880659,PRJNA905672,4502(16),,adult,23376.0,male,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.194
+SAMN31880624,PRJNA905672,4502(3),,adult,23376.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.186
+SAMN31880641,PRJNA905672,4582(1),,,,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.24
+SAMN31880674,PRJNA905672,4582(11),,,,female,TN,other_cancer,pT3N1b,,,,2022-08,excluded,1.0,0.176
+SAMN31880636,PRJNA905672,5001(1),,elderly,29220.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.698
+SAMN31880611,PRJNA905672,5002,,adult,22980.8,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.117
+SAMN31880646,PRJNA905672,5002(10),,adult,22980.8,female,TN,other_cancer,pT4aN2a,,,,2022-08,excluded,1.0,0.139
+SAMN31880626,PRJNA905672,5153(1),,adult,16436.2,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.244
+SAMN31880661,PRJNA905672,5153(6),,adult,16436.2,female,TN,other_cancer,pT4aN1b,,,,2022-08,excluded,1.0,0.203
+SAMN31880621,PRJNA905672,5411(IA),,adult,18627.8,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.096
+SAMN31880656,PRJNA905672,5411(IE),,adult,18627.8,female,TN,other_cancer,pT3N1c,,,,2022-08,excluded,1.0,0.068
+SAMN31880651,PRJNA905672,5445(22),,elderly,25932.8,female,TN,other_cancer,pT3N1b,,,,2022-08,excluded,1.0,0.209
+SAMN31880616,PRJNA905672,5445(4),,elderly,25932.8,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.174
+SAMN31880663,PRJNA905672,5491(10),,elderly,23741.2,male,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.53
+SAMN31880628,PRJNA905672,5491(3),,elderly,23741.2,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.481
+SAMN31880615,PRJNA905672,5729(1),,elderly,25190.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.09
+SAMN31880650,PRJNA905672,5729(12),,elderly,25190.0,female,TN,other_cancer,pT3N1a,,,,2022-08,excluded,1.0,0.071
+SAMN31880654,PRJNA905672,5898(15),,elderly,31394.0,female,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.186
+SAMN31880619,PRJNA905672,5898(3),,elderly,31394.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.204
+SAMN31880658,PRJNA905672,5938(6),,elderly,27394.0,male,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.254
+SAMN31880623,PRJNA905672,5983(1),,elderly,27394.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.242
+SAMN31880666,PRJNA905672,6016 (C ),,elderly,28854.8,female,TN,other_cancer,pT4aN1b,,,,2022-08,excluded,1.0,0.246
+SAMN31880631,PRJNA905672,6016(a),,elderly,28854.8,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.117
+SAMN31880633,PRJNA905672,6069(IA),,adult,16791.5,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,1.929
+SAMN31880668,PRJNA905672,6069(ID),,adult,16791.5,female,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,1.054
+SAMN31880613,PRJNA905672,6885(b),,adult,22280.2,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.229
+SAMN31880648,PRJNA905672,6885(d),,adult,22280.2,male,TN,other_cancer,pT4aN2b,,,,2022-08,excluded,1.0,0.261
+SAMN31880652,PRJNA905672,6976(14),,adult,15330.0,female,TN,other_cancer,pT4aN2a,,,,2022-08,excluded,1.0,0.347
+SAMN31880617,PRJNA905672,6976(2),,adult,15330.0,female,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.334
+SAMN31880625,PRJNA905672,7254(2),,elderly,24837.0,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.241
+SAMN31880660,PRJNA905672,7254(6),,elderly,24837.0,male,TN,other_cancer,pT1,,,,2022-08,excluded,1.0,0.133
+SAMN31880657,PRJNA905672,762(13),,adult,19358.2,male,TN,other_cancer,pT3N0,,,,2022-08,excluded,1.0,0.428
+SAMN31880622,PRJNA905672,762(3),,adult,19358.2,male,TN,healthy_control,healthy mucosa,,,,2022-08,primary,1.0,0.408

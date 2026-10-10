@@ -1,0 +1,23 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN19897755,PRJNA736213,CSLA1,,adult,21549.8,female,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.522
+SAMN19897756,PRJNA736213,CSLA2,,elderly,27028.5,male,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.108
+SAMN19897757,PRJNA736213,CSLA3,,adult,20434.0,female,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.341
+SAMN19897758,PRJNA736213,CSLA4,,adult,22280.2,male,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.016
+SAMN19897759,PRJNA736213,CSLA5,,adult,14975.2,male,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.075
+SAMN19897760,PRJNA736213,CSLA6,,elderly,24455.0,female,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.109
+SAMN19897761,PRJNA736213,CSLA7,,adult,17897.2,female,IT,healthy_control,healthy family caregiver (CSLA control),,,no,2017,primary,1.0,0.291
+SAMN19897763,PRJNA736213,SLA1,T0,adult,15696.8,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.123
+SAMN19897764,PRJNA736213,SLA10,T0,elderly,26298.0,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.118
+SAMN19897765,PRJNA736213,SLA11,T0,elderly,24106.5,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.092
+SAMN19897766,PRJNA736213,SLA12,T0,adult,22627.0,female,IT,neurological_psychiatric,ALS patient (SLA),,,no,2017,primary,1.0,0.056
+SAMN19897767,PRJNA736213,SLA13,T0,adult,15330.0,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.05
+SAMN19897768,PRJNA736213,SLA14,T0,adult,21177.0,female,IT,neurological_psychiatric,ALS patient (SLA),,,no,2017,primary,1.0,0.069
+SAMN19897769,PRJNA736213,SLA15,,elderly,28854.8,female,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.048
+SAMN19897770,PRJNA736213,SLA18,,elderly,23741.2,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.067
+SAMN19897762,PRJNA736213,SLA19,,adult,17897.2,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.037
+SAMN19897771,PRJNA736213,SLA2,T0,adult,14610.0,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.044
+SAMN19897772,PRJNA736213,SLA20,,adult,22627.0,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.077
+SAMN19897773,PRJNA736213,SLA3,T0,elderly,25550.0,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.228
+SAMN19897774,PRJNA736213,SLA7,T0,elderly,25932.8,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.244
+SAMN19897775,PRJNA736213,SLA8,T0,elderly,28124.2,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.073
+SAMN19897776,PRJNA736213,SLA9,T0,adult,21915.0,male,IT,neurological_psychiatric,ALS,,,no,2017,primary,1.0,0.061

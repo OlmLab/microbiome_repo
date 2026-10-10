@@ -1,0 +1,11 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA120472919,PRJEB102113,1,,adult,,,IN,other_cancer,Cancer_patient,,,,2024,primary,1.0,5.165
+SAMEA120472924,PRJEB102113,1,,adult,,,IN,other_cancer,Cancer_patient,,,,2024,primary,1.0,5.049
+SAMEA120472920,PRJEB102113,2,,adult,,,IN,healthy_control,Healthy_Individual,,,,2024,primary,1.0,6.228
+SAMEA120472925,PRJEB102113,2,,adult,,,IN,healthy_control,Healthy_Individual,,,,2024,primary,1.0,5.485
+SAMEA120472921,PRJEB102113,3,,adult,,,IN,healthy_control,Lean_Individual,,,,2024,primary,1.0,6.211
+SAMEA120472926,PRJEB102113,3,,adult,,,IN,healthy_control,Lean_Individual,,,,2024,primary,1.0,4.923
+SAMEA120472922,PRJEB102113,4,,adult,,,IN,pregnancy_postpartum,Pregnancy_conceive,,,,2023,primary,1.0,4.621
+SAMEA120472927,PRJEB102113,4,,adult,,,IN,pregnancy_postpartum,Pregnancy_conceive,,,,2024,primary,1.0,4.426
+SAMEA120472923,PRJEB102113,5,,adult,,,IN,other_disease,Fibroid_patient,,,,2024,primary,1.0,5.907
+SAMEA120472928,PRJEB102113,5,,adult,,,IN,other_disease,Fibroid_patient,,,,2024,primary,1.0,4.915
