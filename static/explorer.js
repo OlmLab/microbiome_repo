@@ -20,7 +20,6 @@ const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/'/g, "''");
 const h = s => String(s === null || s === undefined ? '' : s).replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
 const fmtV = v => { if (v === null || v === undefined) return ''; if (typeof v === 'bigint') return v.toString(); if (typeof v === 'number') return Number.isInteger(v) ? v.toLocaleString() : v.toFixed(1); return String(v); };
-let AGE = null;   // R2026.25 age-strip brush: [min, max] age in days
 let duckdb, db, conn, page = 0, total = 0, sortCol = 'study_accession', sortDir = 'ASC', lastFocus = null;
 
 function setBoot(msg) { $('boot-msg').textContent = msg; }
@@ -65,22 +64,21 @@ async function init() {
   } catch (e) { bootFail(e); }
 }
 
-function whereClause(skip) {
+function whereClause() {
   const w = [];
-  if (AGE && skip !== 'age') w.push(`s.age_at_collection_days >= ${AGE[0]} AND s.age_at_collection_days <= ${AGE[1]}`);
   const q = $('f-q').value.trim();
   if (q) {
     if (/^PRJ[A-Z]*\d+$/i.test(q)) w.push(`s.study_accession = '${esc(q.toUpperCase())}'`);
     else if (/^SAM[NED]A?\d+$/i.test(q) || /^[SED]RR\d+$/i.test(q)) w.push(`(s.sample_key = '${esc(q.toUpperCase())}' OR s.biosample_accession = '${esc(q.toUpperCase())}')`);
     else w.push(`(st.study_title ILIKE '%${esc(q)}%' OR s.study_accession ILIKE '%${esc(q)}%')`);
   }
-  for (const sel of document.querySelectorAll('select[data-field]')) { const v = sel.value; if (!v || sel.disabled || (skip === 'hc' && sel.dataset.field === 'health_condition')) continue; w.push(v === '__null__' ? `s."${sel.dataset.field}" IS NULL` : `s."${sel.dataset.field}" = '${esc(v)}'`); }
+  for (const sel of document.querySelectorAll('select[data-field]')) { const v = sel.value; if (!v || sel.disabled) continue; w.push(v === '__null__' ? `s."${sel.dataset.field}" IS NULL` : `s."${sel.dataset.field}" = '${esc(v)}'`); }
   for (const inp of document.querySelectorAll('input[data-text]')) {
     const v = inp.value.trim(); if (!v || inp.disabled) continue;
     const cols = inp.dataset.text === 'detailed_location' ? LOC_PARTS.filter(p => COLS.has(p)) : [inp.dataset.text];
     if (cols.length) w.push('(' + cols.map(c => `s."${c}" ILIKE '%${esc(v)}%'`).join(' OR ') + ')');
   }
-  if (COLS.has('collection_date') && skip !== 'year') {
+  if (COLS.has('collection_date')) {
     const y0 = $('f-year_min') && $('f-year_min').value, y1 = $('f-year_max') && $('f-year_max').value;
     if (y0) w.push(`TRY_CAST(substr(s.collection_date, 1, 4) AS INTEGER) >= ${parseInt(y0)}`);
     if (y1) w.push(`TRY_CAST(substr(s.collection_date, 1, 4) AS INTEGER) <= ${parseInt(y1)}`);
@@ -135,7 +133,6 @@ function writeUrl() {
   if (page) p.set('page', page + 1);
   if (sortCol !== 'study_accession' || sortDir !== 'ASC') p.set('sort', sortCol + ':' + sortDir);
   if (COLLECTION) p.set('collection', COLLECTION.id);
-  if (AGE) p.set('age_d', AGE[0] + '-' + AGE[1]);
   const keep = new URLSearchParams(location.search).get('sample'); if (keep && $('detail').classList.contains('open')) p.set('sample', keep);
   history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p.toString() : '') + location.hash);
 }
@@ -146,7 +143,6 @@ function readUrl() {
   for (const sel of document.querySelectorAll('select[data-field], select[data-url], input[data-text], input[data-year]')) { const v = p.get(sel.id.replace(/^f-/, '')); if (v) sel.value = v; }
   if (p.get('infant')) $('f-infant').checked = true; if (p.get('has_age')) $('f-has_age').checked = true; if (p.get('has_subject')) $('f-has_subject').checked = true;
   if (p.get('min_fields')) $('f-min_fields').value = p.get('min_fields');
-  if (p.get('age_d')) { const [a, b] = p.get('age_d').split('-').map(Number); if (isFinite(a) && isFinite(b) && b >= a) AGE = [a, b]; }
   if (p.get('page')) page = Math.max(0, parseInt(p.get('page')) - 1);
   if (p.get('sort')) { const [c, d] = p.get('sort').split(':'); if (SORTABLE.has(c)) { sortCol = c; sortDir = d === 'DESC' ? 'DESC' : 'ASC'; } }
 }
@@ -177,7 +173,6 @@ async function run() {
   $('pageinfo').textContent = total ? `page ${page + 1} / ${maxPage + 1}` : '';
   $('prev').disabled = page <= 0; $('next').disabled = page >= maxPage;
   writeUrl();
-  drawVis();
 }
 function studyLink(row) {
   const acc = row.study_accession;
@@ -228,7 +223,7 @@ async function showDetail(key) {
 }
 
 $('apply').addEventListener('click', () => { page = 0; run(); });
-$('reset').addEventListener('click', () => { AGE = null; history.replaceState(null, '', location.pathname + location.hash); for (const el of document.querySelectorAll('.filters select, .filters input')) { if (el.type === 'checkbox') el.checked = false; else el.value = ''; } page = 0; sortCol = 'study_accession'; sortDir = 'ASC'; run(); });
+$('reset').addEventListener('click', () => { history.replaceState(null, '', location.pathname + location.hash); for (const el of document.querySelectorAll('.filters select, .filters input')) { if (el.type === 'checkbox') el.checked = false; else el.value = ''; } page = 0; sortCol = 'study_accession'; sortDir = 'ASC'; run(); });
 $('prev').addEventListener('click', () => { page = Math.max(0, page - 1); run(); });
 $('next').addEventListener('click', () => { page++; run(); });
 $('dl-csv').addEventListener('click', download);
@@ -245,105 +240,6 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape' && $('detail'
 for (const el of document.querySelectorAll('.filters input')) el.addEventListener('keydown', e => { if (e.key === 'Enter') { page = 0; run(); } });
 for (const el of document.querySelectorAll('.filters select, .filters input[type=checkbox]')) el.addEventListener('change', () => { page = 0; run(); });
 
-// ---- R2026.25 linked mini-charts above the table: age strip (drag), condition treemap (click), collection-year timeline (drag).
-// Each chart counts the rows matching every OTHER filter (crossfilter), so a brushed chart still shows its full distribution.
-const VIS_AGE_TICKS = [[1, '1 d'], [7, '1 wk'], [30.4, '1 mo'], [365.25, '1 y'], [3652.5, '10 y'], [36525, '100 y']];
-const fmtAge = d => d < 7 ? Math.round(d) + ' d' : d < 60 ? Math.round(d / 7) + ' wk' : d < 730 ? Math.round(d / 30.4) + ' mo' : Math.round(d / 365.25) + ' y';
-const SEXC = {female: '#c9a45c', male: '#7d8aa0', other: '#ddd6c6'};
-let visTok = 0, visBusy = false, visAgain = false;
-async function q(sql) { return (await conn.query(sql)).toArray().map(x => x.toJSON()); }
-async function drawVis() {
-  if (!window.d3 || !$('vis')) return;
-  if (visBusy) { visAgain = true; return; }
-  visBusy = true; const tok = ++visTok;
-  try {
-    const NB = 36, L0 = 0, L1 = Math.log10(36525 + 1);
-    const ages = await q(`SELECT LEAST(${NB - 1}, GREATEST(0, CAST(floor((log10(s.age_at_collection_days + 1) - ${L0}) / ${(L1 - L0) / NB}) AS INTEGER))) AS b,
-      CASE WHEN s.sex IN ('female', 'male') THEN s.sex ELSE 'other' END AS sx, COUNT(*) AS n ${FROM} ${andWhere(whereClause('age'), 's.age_at_collection_days >= 0')} GROUP BY 1, 2`);
-    const hcs = await q(`SELECT coalesce(s.health_condition, '__null__') AS c, COUNT(*) AS n ${FROM} ${whereClause('hc')} GROUP BY 1 ORDER BY 2 DESC`);
-    const yrs = COLS.has('collection_date') ? await q(`SELECT TRY_CAST(substr(s.collection_date, 1, 4) AS INTEGER) AS y, COUNT(*) AS n ${FROM} ${andWhere(whereClause('year'), 's.collection_date IS NOT NULL')} GROUP BY 1 HAVING y BETWEEN 1980 AND ${new Date().getFullYear()} ORDER BY 1`) : [];
-    if (tok !== visTok) return;
-    drawAge(ages, NB, L0, L1); drawHc(hcs); drawYear(yrs);
-  } catch (e) { console.warn('vis', e); }
-  finally { visBusy = false; if (visAgain) { visAgain = false; drawVis(); } }
-}
-function andWhere(w, extra) { return w ? w + ' AND ' + extra : 'WHERE ' + extra; }
-function visBox(id) { const el = $(id); const W = Math.max(160, el.clientWidth), H = el.clientHeight || 96; el.innerHTML = ''; return {el, W, H, svg: d3.select(el).append('svg').attr('width', W).attr('height', H).attr('viewBox', `0 0 ${W} ${H}`)}; }
-function visNote(id, html) { const el = $(id + '-sel'); if (el) el.innerHTML = html; }
-function rerun() { page = 0; run(); }
-function drawAge(rows, NB, L0, L1) {
-  const {svg, W, H} = visBox('vis-age'); const m = {l: 4, r: 4, t: 4, b: 16};
-  const bins = d3.range(NB).map(b => ({b, female: 0, male: 0, other: 0}));
-  for (const r of rows) bins[Number(r.b)][r.sx] += Number(r.n);
-  const tot = d3.sum(bins, d => d.female + d.male + d.other);
-  const x = d3.scaleLinear().domain([L0, L1]).range([m.l, W - m.r]);
-  const ymax = d3.max(bins, d => d.female + d.male + d.other) || 1;
-  const y = d3.scaleLinear().domain([0, ymax]).range([H - m.b, m.t]);
-  const bw = (W - m.l - m.r) / NB;
-  const st = d3.stack().keys(['female', 'male', 'other'])(bins);
-  const sel = AGE ? [Math.log10(AGE[0] + 1), Math.log10(AGE[1] + 1)] : null;
-  svg.append('g').selectAll('g').data(st).join('g').attr('fill', d => SEXC[d.key]).selectAll('rect').data(d => d).join('rect')
-    .attr('x', (d, i) => x(L0 + i * (L1 - L0) / NB) + 0.5).attr('width', Math.max(1, bw - 1)).attr('y', d => y(d[1])).attr('height', d => Math.max(0, y(d[0]) - y(d[1])))
-    .attr('opacity', (d, i) => { if (!sel) return 1; const c = L0 + (i + 0.5) * (L1 - L0) / NB; return c >= sel[0] && c <= sel[1] ? 1 : 0.28; })
-    .append('title').text((d, i) => { const a = Math.pow(10, L0 + i * (L1 - L0) / NB) - 1, b = Math.pow(10, L0 + (i + 1) * (L1 - L0) / NB) - 1; return `${fmtAge(a)} – ${fmtAge(b)}: ${(d.data.female + d.data.male + d.data.other).toLocaleString()} samples (${d.data.female.toLocaleString()} female, ${d.data.male.toLocaleString()} male)`; });
-  const ax = svg.append('g').attr('class', 'vis-ax').attr('transform', `translate(0,${H - m.b + 2})`);
-  for (const [d, l] of VIS_AGE_TICKS) { const xx = x(Math.log10(d + 1)); ax.append('line').attr('x1', xx).attr('x2', xx).attr('y1', 0).attr('y2', 3); ax.append('text').attr('x', xx).attr('y', 12).attr('text-anchor', d < 2 ? 'start' : d > 30000 ? 'end' : 'middle').text(l); }
-  const br = d3.brushX().extent([[m.l, m.t], [W - m.r, H - m.b]]).on('end', ev => {
-    if (!ev.sourceEvent) return;
-    if (!ev.selection) { if (AGE) { AGE = null; rerun(); } return; }
-    const [a, b] = ev.selection.map(v => Math.max(0, Math.round(Math.pow(10, x.invert(v)) - 1))); AGE = [a, Math.max(a, b)]; rerun(); });
-  const g = svg.append('g').attr('class', 'vis-brush').call(br);
-  if (sel) g.call(br.move, sel.map(x));
-  visNote('vis-age', AGE ? `${fmtAge(AGE[0])} – ${fmtAge(AGE[1])} <button type="button" class="vis-x" id="vis-age-x" title="clear age range">×</button>` : (tot ? `${tot.toLocaleString()} with age` : 'no ages'));
-  const xb = $('vis-age-x'); if (xb) xb.onclick = () => { AGE = null; rerun(); };
-}
-function drawHc(rows) {
-  const {svg, W, H} = visBox('vis-hc'); const sel = $('f-health_condition').value;
-  const nNull = d3.sum(rows.filter(r => r.c === '__null__'), r => Number(r.n)); rows = rows.filter(r => r.c !== '__null__');
-  const TOP = 11; const top = rows.slice(0, TOP).map(r => ({c: r.c, n: Number(r.n)}));
-  const rest = d3.sum(rows.slice(TOP), r => Number(r.n)); if (rest) top.push({c: '__other__', n: rest});
-  const root = d3.hierarchy({children: top}).sum(d => d.n || 0);
-  d3.treemap().size([W, H]).paddingInner(2).round(true)(root);
-  const pal = d3.scaleOrdinal().range(['#cfb87c', '#a2a4a3', '#e1d3a9', '#8c9db0', '#d8c18d', '#b9b2a0', '#e9dfc2', '#a9b6c3', '#cdbf9a', '#c4c8cc', '#efe6cd']);
-  const lab = c => c === '__null__' ? '(no value)' : c === '__other__' ? 'other' : String(c).replace(/_/g, ' ');
-  const tot = d3.sum(top, d => d.n);
-  const cell = svg.selectAll('g').data(root.leaves()).join('g').attr('transform', d => `translate(${d.x0},${d.y0})`)
-    .attr('class', d => 'vis-tile' + (d.data.c === '__other__' ? ' other' : '') + (sel && d.data.c === sel ? ' on' : '')).style('cursor', d => d.data.c === '__other__' ? 'default' : 'pointer')
-    .on('click', (ev, d) => { if (d.data.c === '__other__') return; const s = $('f-health_condition'); const v = d.data.c; if (![...s.options].some(o => o.value === v)) return; s.value = s.value === v ? '' : v; rerun(); });
-  cell.append('rect').attr('width', d => Math.max(0, d.x1 - d.x0)).attr('height', d => Math.max(0, d.y1 - d.y0)).attr('rx', 3)
-    .attr('fill', (d, i) => d.data.c === '__null__' ? '#f1efe9' : pal(i)).attr('opacity', d => !sel || d.data.c === sel ? 1 : 0.35);
-  cell.append('title').text(d => `${lab(d.data.c)}: ${d.data.n.toLocaleString()} samples (${(100 * d.data.n / (tot || 1)).toFixed(1)}%)${d.data.c === '__other__' ? '' : sel === d.data.c ? ' — click to clear' : ' — click to filter'}`);
-  cell.filter(d => d.x1 - d.x0 > 42 && d.y1 - d.y0 > 15).append('text').attr('x', 4).attr('y', 12).text(d => { const w = (d.x1 - d.x0 - 8) / 5.6; const t = lab(d.data.c); return t.length > w ? t.slice(0, Math.max(1, w - 1)) + '…' : t; });
-  visNote('vis-hc', sel ? `${h(lab(sel))} <button type="button" class="vis-x" id="vis-hc-x" title="clear condition">×</button>` : (nNull ? `${nNull.toLocaleString()} without a value` : 'click a tile'));
-  const xb = $('vis-hc-x'); if (xb) xb.onclick = () => { $('f-health_condition').value = ''; rerun(); };
-}
-function drawYear(rows) {
-  const box = $('vis-year'); if (!box) return;
-  if (!rows.length) { box.closest('.vis-card').style.display = 'none'; return; }
-  const {svg, W, H} = visBox('vis-year'); const m = {l: 4, r: 4, t: 6, b: 16};
-  const data = rows.map(r => ({y: Number(r.y), n: Number(r.n)}));
-  const y0 = d3.min(data, d => d.y), y1 = d3.max(data, d => d.y);
-  const full = d3.range(y0, y1 + 1).map(yy => ({y: yy, n: (data.find(d => d.y === yy) || {n: 0}).n}));
-  const x = d3.scaleLinear().domain([y0 - 0.5, y1 + 0.5]).range([m.l, W - m.r]);
-  const yy = d3.scaleLinear().domain([0, d3.max(full, d => d.n) || 1]).range([H - m.b, m.t]);
-  const a = d3.area().x(d => x(d.y)).y0(H - m.b).y1(d => yy(d.n)).curve(d3.curveMonotoneX);
-  const lo = parseInt($('f-year_min').value) || null, hi = parseInt($('f-year_max').value) || null;
-  svg.append('path').datum(full).attr('class', 'vis-area').attr('d', a);
-  svg.append('path').datum(full).attr('class', 'vis-line').attr('d', d3.line().x(d => x(d.y)).y(d => yy(d.n)).curve(d3.curveMonotoneX));
-  svg.append('g').selectAll('rect').data(full).join('rect').attr('x', d => x(d.y - 0.5)).attr('width', d => x(d.y + 0.5) - x(d.y - 0.5)).attr('y', m.t).attr('height', H - m.b - m.t).attr('fill', 'transparent')
-    .append('title').text(d => `${d.y}: ${d.n.toLocaleString()} samples`);
-  const ax = svg.append('g').attr('class', 'vis-ax').attr('transform', `translate(0,${H - m.b + 2})`);
-  const step = (y1 - y0) > 24 ? 10 : 5; for (let t = Math.ceil(y0 / step) * step; t <= y1; t += step) { ax.append('line').attr('x1', x(t)).attr('x2', x(t)).attr('y1', 0).attr('y2', 3); ax.append('text').attr('x', x(t)).attr('y', 12).attr('text-anchor', 'middle').text(t); }
-  const br = d3.brushX().extent([[m.l, m.t], [W - m.r, H - m.b]]).on('end', ev => {
-    if (!ev.sourceEvent) return;
-    if (!ev.selection) { $('f-year_min').value = ''; $('f-year_max').value = ''; rerun(); return; }
-    const [p, q2] = ev.selection.map(v => Math.round(x.invert(v))); $('f-year_min').value = Math.max(y0, p); $('f-year_max').value = Math.min(y1, Math.max(p, q2)); rerun(); });
-  const g = svg.append('g').attr('class', 'vis-brush').call(br);
-  if (lo || hi) g.call(br.move, [x((lo || y0) - 0.5), x((hi || y1) + 0.5)]);
-  visNote('vis-year', (lo || hi) ? `${lo || y0}–${hi || y1} <button type="button" class="vis-x" id="vis-year-x" title="clear years">×</button>` : `${d3.sum(full, d => d.n).toLocaleString()} dated`);
-  const xb = $('vis-year-x'); if (xb) xb.onclick = () => { $('f-year_min').value = ''; $('f-year_max').value = ''; rerun(); };
-}
-let visRs = null; window.addEventListener('resize', () => { clearTimeout(visRs); visRs = setTimeout(drawVis, 200); });
 init();
 
 // R2026.18: home-style search box + filters toggle
