@@ -1,0 +1,247 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN08140796,PRJNA421352,ALL-1,Diagnosis,child,3287.2,female,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.006
+SAMN08140797,PRJNA421352,ALL-1,PC-1M,child,3287.2,female,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.004
+SAMN08140798,PRJNA421352,ALL-1,PC-2M,child,3287.2,female,US,other_cancer,PC-2M,,,,2013,primary,1.0,0.003
+SAMN08140799,PRJNA421352,ALL-1,PC-3M,child,3287.2,female,US,other_cancer,PC-3M,,,,2013,primary,1.0,0.006
+SAMN08140866,PRJNA421352,ALL-10,Diagnosis,child,2556.8,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.008
+SAMN08140876,PRJNA421352,ALL-10,PC-10M,child,2556.8,male,US,other_cancer,PC-10M,,,,2014,primary,1.0,0.009
+SAMN08140877,PRJNA421352,ALL-10,PC-11M,child,2556.8,male,US,other_cancer,PC-11M,,,,2014,primary,1.0,0.009
+SAMN08140878,PRJNA421352,ALL-10,PC-12M,child,2556.8,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.01
+SAMN08140867,PRJNA421352,ALL-10,PC-1M,child,2556.8,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.006
+SAMN08140868,PRJNA421352,ALL-10,PC-2M,child,2556.8,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.008
+SAMN08140869,PRJNA421352,ALL-10,PC-3M,child,2556.8,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.004
+SAMN08140870,PRJNA421352,ALL-10,PC-4M,child,2556.8,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.01
+SAMN08140871,PRJNA421352,ALL-10,PC-5M,child,2556.8,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.006
+SAMN08140872,PRJNA421352,ALL-10,PC-6M,child,2556.8,male,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.007
+SAMN08140873,PRJNA421352,ALL-10,PC-7M,child,2556.8,male,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.007
+SAMN08140874,PRJNA421352,ALL-10,PC-8M,child,2556.8,male,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.004
+SAMN08140875,PRJNA421352,ALL-10,PC-9M,child,2556.8,male,US,other_cancer,PC-9M,,,,2014,primary,1.0,0.008
+SAMN08140953,PRJNA421352,ALL-11,Diagnosis,child,1826.2,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.008
+SAMN08140963,PRJNA421352,ALL-11,PC-10M,child,1826.2,female,US,other_cancer,PC-10M,,,,2014,primary,1.0,0.007
+SAMN08140964,PRJNA421352,ALL-11,PC-11M,child,1826.2,female,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.003
+SAMN08140965,PRJNA421352,ALL-11,PC-12M,child,1826.2,female,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.008
+SAMN08140954,PRJNA421352,ALL-11,PC-1M,child,1826.2,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.008
+SAMN08140955,PRJNA421352,ALL-11,PC-2M,child,1826.2,female,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.004
+SAMN08140956,PRJNA421352,ALL-11,PC-3M,child,1826.2,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.002
+SAMN08140957,PRJNA421352,ALL-11,PC-4M,child,1826.2,female,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.008
+SAMN08140958,PRJNA421352,ALL-11,PC-5M,child,1826.2,female,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.006
+SAMN08140959,PRJNA421352,ALL-11,PC-6M,child,1826.2,female,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.003
+SAMN08140960,PRJNA421352,ALL-11,PC-7M,child,1826.2,female,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.005
+SAMN08140961,PRJNA421352,ALL-11,PC-8M,child,1826.2,female,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.006
+SAMN08140962,PRJNA421352,ALL-11,PC-9M,child,1826.2,female,US,other_cancer,PC-9M,,,,2014,primary,1.0,0.007
+SAMN08140880,PRJNA421352,ALL-12,Diagnosis,child,1461.0,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.007
+SAMN08140888,PRJNA421352,ALL-12,PC-10M,child,1461.0,female,US,other_cancer,PC-10M,,,,2015,primary,1.0,0.006
+SAMN08140881,PRJNA421352,ALL-12,PC-1M,child,1461.0,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.005
+SAMN08140882,PRJNA421352,ALL-12,PC-2M,child,1461.0,female,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.003
+SAMN08140883,PRJNA421352,ALL-12,PC-3M,child,1461.0,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.006
+SAMN08140884,PRJNA421352,ALL-12,PC-4M,child,1461.0,female,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.008
+SAMN08140885,PRJNA421352,ALL-12,PC-5M,child,1461.0,female,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.0
+SAMN08140886,PRJNA421352,ALL-12,PC-7M,child,1461.0,female,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.009
+SAMN08140887,PRJNA421352,ALL-12,PC-8M,child,1461.0,female,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.003
+SAMN08140764,PRJNA421352,ALL-13,Diagnosis,infant,1095.8,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.013
+SAMN08140773,PRJNA421352,ALL-13,PC-12M,infant,1095.8,female,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.005
+SAMN08140765,PRJNA421352,ALL-13,PC-1M,infant,1095.8,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.009
+SAMN08140766,PRJNA421352,ALL-13,PC-2M,infant,1095.8,female,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.004
+SAMN08140767,PRJNA421352,ALL-13,PC-3M,infant,1095.8,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.004
+SAMN08140768,PRJNA421352,ALL-13,PC-4M,infant,1095.8,female,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.006
+SAMN08140769,PRJNA421352,ALL-13,PC-5M,infant,1095.8,female,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.009
+SAMN08140770,PRJNA421352,ALL-13,PC-6M,infant,1095.8,female,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.011
+SAMN08140771,PRJNA421352,ALL-13,PC-7M,infant,1095.8,female,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.008
+SAMN08140772,PRJNA421352,ALL-13,PC-8M,infant,1095.8,female,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.011
+SAMN08140774,PRJNA421352,ALL-13,PC-9M,infant,1095.8,female,US,other_cancer,PC-9M,,,,2014,primary,1.0,0.011
+SAMN08140827,PRJNA421352,ALL-14,Diagnosis,child,2922.0,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.002
+SAMN08140839,PRJNA421352,ALL-14,PC-10M,child,2922.0,male,US,other_cancer,PC-10M,,,,2015,primary,1.0,0.004
+SAMN08140837,PRJNA421352,ALL-14,PC-11M,child,2922.0,male,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.003
+SAMN08140838,PRJNA421352,ALL-14,PC-12M,child,2922.0,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.004
+SAMN08140828,PRJNA421352,ALL-14,PC-1M,child,2922.0,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.003
+SAMN08140829,PRJNA421352,ALL-14,PC-2M,child,2922.0,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.005
+SAMN08140830,PRJNA421352,ALL-14,PC-3M,child,2922.0,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.0
+SAMN08140831,PRJNA421352,ALL-14,PC-4M,child,2922.0,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.012
+SAMN08140832,PRJNA421352,ALL-14,PC-5M,child,2922.0,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.004
+SAMN08140833,PRJNA421352,ALL-14,PC-6M,child,2922.0,male,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.008
+SAMN08140834,PRJNA421352,ALL-14,PC-7M,child,2922.0,male,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.005
+SAMN08140835,PRJNA421352,ALL-14,PC-8M,child,2922.0,male,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.007
+SAMN08140836,PRJNA421352,ALL-14,PC-9M,child,2922.0,male,US,other_cancer,PC-9M,,,,2014,primary,1.0,0.006
+SAMN08140906,PRJNA421352,ALL-15,Diagnosis,infant,1095.8,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.003
+SAMN08140907,PRJNA421352,ALL-15,PC-1M,infant,1095.8,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.008
+SAMN08140908,PRJNA421352,ALL-15,PC-2M,infant,1095.8,female,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.004
+SAMN08140910,PRJNA421352,ALL-15,PC-3M,infant,1095.8,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.006
+SAMN08140909,PRJNA421352,ALL-15,PC-4M,infant,1095.8,female,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.007
+SAMN08140911,PRJNA421352,ALL-15,PC-5M,infant,1095.8,female,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.005
+SAMN08140912,PRJNA421352,ALL-15,PC-6M,infant,1095.8,female,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.005
+SAMN08140913,PRJNA421352,ALL-15,PC-7M,infant,1095.8,female,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.008
+SAMN08140914,PRJNA421352,ALL-15,PC-8M,infant,1095.8,female,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.01
+SAMN08140915,PRJNA421352,ALL-15,PC-9M,infant,1095.8,female,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.009
+SAMN08140856,PRJNA421352,ALL-2,Diagnosis,adolescent,6209.0,male,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.008
+SAMN08140857,PRJNA421352,ALL-2,PC-1M,adolescent,6209.0,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.004
+SAMN08140858,PRJNA421352,ALL-2,PC-2M,adolescent,6209.0,male,US,other_cancer,PC-2M,,,,2013,primary,1.0,0.017
+SAMN08140859,PRJNA421352,ALL-2,PC-3M,adolescent,6209.0,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.011
+SAMN08140800,PRJNA421352,ALL-23,Diagnosis,adolescent,5478.8,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.007
+SAMN08140801,PRJNA421352,ALL-23,PC-1M,adolescent,5478.8,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.005
+SAMN08140802,PRJNA421352,ALL-23,PC-2M,adolescent,5478.8,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.003
+SAMN08140803,PRJNA421352,ALL-23,PC-3M,adolescent,5478.8,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.008
+SAMN08140804,PRJNA421352,ALL-23,PC-4M,adolescent,5478.8,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.001
+SAMN08140805,PRJNA421352,ALL-23,PC-5M,adolescent,5478.8,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.002
+SAMN08140993,PRJNA421352,ALL-26,Diagnosis,child,1826.2,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.005
+SAMN08141002,PRJNA421352,ALL-26,PC-10M,child,1826.2,male,US,other_cancer,PC-10M,,,,2015,primary,1.0,0.004
+SAMN08140994,PRJNA421352,ALL-26,PC-1M,child,1826.2,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.006
+SAMN08140995,PRJNA421352,ALL-26,PC-2M,child,1826.2,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.008
+SAMN08140996,PRJNA421352,ALL-26,PC-3M,child,1826.2,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.0
+SAMN08140997,PRJNA421352,ALL-26,PC-4M,child,1826.2,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.006
+SAMN08141001,PRJNA421352,ALL-26,PC-6M,child,1826.2,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.005
+SAMN08140998,PRJNA421352,ALL-26,PC-7M,child,1826.2,male,US,other_cancer,PC-7M,,,,2015,primary,1.0,0.005
+SAMN08140999,PRJNA421352,ALL-26,PC-8M,child,1826.2,male,US,other_cancer,PC-8M,,,,2015,primary,1.0,0.006
+SAMN08141000,PRJNA421352,ALL-26,PC-9M,child,1826.2,male,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.006
+SAMN08140926,PRJNA421352,ALL-28,Diagnosis,infant,730.5,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.007
+SAMN08140933,PRJNA421352,ALL-28,PC-12M,infant,730.5,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.007
+SAMN08140927,PRJNA421352,ALL-28,PC-1M,infant,730.5,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.01
+SAMN08140928,PRJNA421352,ALL-28,PC-2M,infant,730.5,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.003
+SAMN08140929,PRJNA421352,ALL-28,PC-3M,infant,730.5,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.006
+SAMN08140930,PRJNA421352,ALL-28,PC-4M,infant,730.5,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.006
+SAMN08140931,PRJNA421352,ALL-28,PC-6M,infant,730.5,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.005
+SAMN08140932,PRJNA421352,ALL-28,PC-9M,infant,730.5,male,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.005
+SAMN08140903,PRJNA421352,ALL-29,Diagnosis,child,3287.2,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.004
+SAMN08140904,PRJNA421352,ALL-29,PC-3M,child,3287.2,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.009
+SAMN08140905,PRJNA421352,ALL-29,PC-8M,child,3287.2,female,US,other_cancer,PC-8M,,,,2015,primary,1.0,0.004
+SAMN08140791,PRJNA421352,ALL-3,Diagnosis,adolescent,4748.2,male,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.005
+SAMN08140795,PRJNA421352,ALL-3,PC-12M,adolescent,4748.2,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.008
+SAMN08140792,PRJNA421352,ALL-3,PC-1M,adolescent,4748.2,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.007
+SAMN08140793,PRJNA421352,ALL-3,PC-2M,adolescent,4748.2,male,US,other_cancer,PC-2M,,,,2013,primary,1.0,0.016
+SAMN08140794,PRJNA421352,ALL-3,PC-3M,adolescent,4748.2,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.004
+SAMN08140934,PRJNA421352,ALL-31,Diagnosis,adolescent,4748.2,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.012
+SAMN08140944,PRJNA421352,ALL-31,PC-10M,adolescent,4748.2,male,US,other_cancer,PC-10M,,,,2015,primary,1.0,0.007
+SAMN08140943,PRJNA421352,ALL-31,PC-11M,adolescent,4748.2,male,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.008
+SAMN08140935,PRJNA421352,ALL-31,PC-1M,adolescent,4748.2,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.015
+SAMN08140936,PRJNA421352,ALL-31,PC-2M,adolescent,4748.2,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.005
+SAMN08140937,PRJNA421352,ALL-31,PC-3M,adolescent,4748.2,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.007
+SAMN08140940,PRJNA421352,ALL-31,PC-4M,adolescent,4748.2,male,US,other_cancer,PC-4M,,,,2015,primary,1.0,0.005
+SAMN08140938,PRJNA421352,ALL-31,PC-5M,adolescent,4748.2,male,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.015
+SAMN08140939,PRJNA421352,ALL-31,PC-6M,adolescent,4748.2,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.007
+SAMN08140941,PRJNA421352,ALL-31,PC-8M,adolescent,4748.2,male,US,other_cancer,PC-8M,,,,2015,primary,1.0,0.006
+SAMN08140942,PRJNA421352,ALL-31,PC-9M,adolescent,4748.2,male,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.005
+SAMN08140945,PRJNA421352,ALL-32,Diagnosis,adolescent,5844.0,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.007
+SAMN08140952,PRJNA421352,ALL-32,PC-11M,adolescent,5844.0,male,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.005
+SAMN08140946,PRJNA421352,ALL-32,PC-1M,adolescent,5844.0,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.006
+SAMN08140947,PRJNA421352,ALL-32,PC-2M,adolescent,5844.0,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.008
+SAMN08140949,PRJNA421352,ALL-32,PC-3M,adolescent,5844.0,male,US,other_cancer,PC-3M,,,,2015,primary,1.0,0.01
+SAMN08140948,PRJNA421352,ALL-32,PC-5M,adolescent,5844.0,male,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.005
+SAMN08140950,PRJNA421352,ALL-32,PC-8M,adolescent,5844.0,male,US,other_cancer,PC-8M,,,,2015,primary,1.0,0.006
+SAMN08140951,PRJNA421352,ALL-32,PC-9M,adolescent,5844.0,male,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.004
+SAMN08140823,PRJNA421352,ALL-33,Diagnosis,child,1461.0,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.004
+SAMN08140825,PRJNA421352,ALL-33,PC-2M,child,1461.0,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.007
+SAMN08140845,PRJNA421352,ALL-34,Diagnosis,child,4018.0,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.008
+SAMN08140855,PRJNA421352,ALL-34,PC-11M,child,4018.0,male,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.008
+SAMN08140853,PRJNA421352,ALL-34,PC-12M,child,4018.0,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.009
+SAMN08140846,PRJNA421352,ALL-34,PC-1M,child,4018.0,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.009
+SAMN08140847,PRJNA421352,ALL-34,PC-2M,child,4018.0,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.01
+SAMN08140850,PRJNA421352,ALL-34,PC-4M,child,4018.0,male,US,other_cancer,PC-4M,,,,2015,primary,1.0,0.006
+SAMN08140848,PRJNA421352,ALL-34,PC-5M,child,4018.0,male,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.01
+SAMN08140849,PRJNA421352,ALL-34,PC-6M,child,4018.0,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.011
+SAMN08140851,PRJNA421352,ALL-34,PC-7M,child,4018.0,male,US,other_cancer,PC-7M,,,,2015,primary,1.0,0.009
+SAMN08140852,PRJNA421352,ALL-34,PC-8M,child,4018.0,male,US,other_cancer,PC-8M,,,,2015,primary,1.0,0.006
+SAMN08140854,PRJNA421352,ALL-34,PC-9M,child,4018.0,male,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.011
+SAMN08140776,PRJNA421352,ALL-35,Diagnosis,child,1461.0,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.009
+SAMN08140788,PRJNA421352,ALL-35,PC-10M,child,1461.0,female,US,other_cancer,PC-10M,,,,2015,primary,1.0,0.012
+SAMN08140787,PRJNA421352,ALL-35,PC-11M,child,1461.0,female,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.003
+SAMN08140786,PRJNA421352,ALL-35,PC-12M,child,1461.0,female,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.008
+SAMN08140777,PRJNA421352,ALL-35,PC-1M,child,1461.0,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.005
+SAMN08140778,PRJNA421352,ALL-35,PC-2M,child,1461.0,female,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.008
+SAMN08140782,PRJNA421352,ALL-35,PC-3M,child,1461.0,female,US,other_cancer,PC-3M,,,,2015,primary,1.0,0.01
+SAMN08140779,PRJNA421352,ALL-35,PC-4M,child,1461.0,female,US,other_cancer,PC-4M,,,,2015,primary,1.0,0.004
+SAMN08140780,PRJNA421352,ALL-35,PC-5M,child,1461.0,female,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.004
+SAMN08140781,PRJNA421352,ALL-35,PC-6M,child,1461.0,female,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.006
+SAMN08140783,PRJNA421352,ALL-35,PC-7M,child,1461.0,female,US,other_cancer,PC-7M,,,,2015,primary,1.0,0.008
+SAMN08140784,PRJNA421352,ALL-35,PC-8M,child,1461.0,female,US,other_cancer,PC-8M,,,,2015,primary,1.0,0.007
+SAMN08140785,PRJNA421352,ALL-35,PC-9M,child,1461.0,female,US,other_cancer,PC-9M,,,,2015,primary,1.0,0.014
+SAMN08140842,PRJNA421352,ALL-36,Diagnosis,child,2191.5,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.008
+SAMN08140981,PRJNA421352,ALL-4,Diagnosis,child,1461.0,female,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.021
+SAMN08140985,PRJNA421352,ALL-4,PC-12M,child,1461.0,female,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.006
+SAMN08140982,PRJNA421352,ALL-4,PC-1M,child,1461.0,female,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.009
+SAMN08140983,PRJNA421352,ALL-4,PC-2M,child,1461.0,female,US,other_cancer,PC-2M,,,,2013,primary,1.0,0.003
+SAMN08140984,PRJNA421352,ALL-4,PC-3M,child,1461.0,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.006
+SAMN08140919,PRJNA421352,ALL-40,Diagnosis,child,1461.0,male,US,other_cancer,Diagnosis,,,,2015,primary,1.0,0.006
+SAMN08140920,PRJNA421352,ALL-40,PC-1M,child,1461.0,male,US,other_cancer,PC-1M,,,,2015,primary,1.0,0.002
+SAMN08140921,PRJNA421352,ALL-40,PC-3M,child,1461.0,male,US,other_cancer,PC-3M,,,,2015,primary,1.0,0.005
+SAMN08140922,PRJNA421352,ALL-40,PC-5M,child,1461.0,male,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.002
+SAMN08140923,PRJNA421352,ALL-40,PC-6M,child,1461.0,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.006
+SAMN08140924,PRJNA421352,ALL-40,PC-7M,child,1461.0,male,US,other_cancer,PC-7M,,,,2015,primary,1.0,0.006
+SAMN08141003,PRJNA421352,ALL-41,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2015,primary,1.0,0.007
+SAMN08141004,PRJNA421352,ALL-41,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2015,primary,1.0,0.009
+SAMN08141005,PRJNA421352,ALL-41,PC-2M,infant,1095.8,male,US,other_cancer,PC-2M,,,,2015,primary,1.0,0.006
+SAMN08141010,PRJNA421352,ALL-41,PC-4M,infant,1095.8,male,US,other_cancer,PC-4M,,,,2015,primary,1.0,0.007
+SAMN08141006,PRJNA421352,ALL-41,PC-5M,infant,1095.8,male,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.004
+SAMN08141007,PRJNA421352,ALL-41,PC-6M,infant,1095.8,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.004
+SAMN08141008,PRJNA421352,ALL-41,PC-7M,infant,1095.8,male,US,other_cancer,PC-7M,,,,2015,primary,1.0,0.005
+SAMN08141009,PRJNA421352,ALL-41,PC-9M,infant,1095.8,male,US,other_cancer,PC-9M,,,,2016,primary,1.0,0.011
+SAMN08140806,PRJNA421352,ALL-42,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2015,primary,1.0,0.007
+SAMN08140807,PRJNA421352,ALL-42,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2015,primary,1.0,0.004
+SAMN08140811,PRJNA421352,ALL-42,PC-2M,infant,1095.8,male,US,other_cancer,PC-2M,,,,2015,primary,1.0,0.008
+SAMN08140808,PRJNA421352,ALL-42,PC-4M,infant,1095.8,male,US,other_cancer,PC-4M,,,,2015,primary,1.0,0.007
+SAMN08140809,PRJNA421352,ALL-42,PC-5M,infant,1095.8,male,US,other_cancer,PC-5M,,,,2015,primary,1.0,0.006
+SAMN08140810,PRJNA421352,ALL-42,PC-6M,infant,1095.8,male,US,other_cancer,PC-6M,,,,2015,primary,1.0,0.005
+SAMN08140844,PRJNA421352,ALL-43,Diagnosis,child,1826.2,male,US,other_cancer,Diagnosis,,,,2015,primary,1.0,0.006
+SAMN08140986,PRJNA421352,ALL-5,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.008
+SAMN08140987,PRJNA421352,ALL-5,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.008
+SAMN08140988,PRJNA421352,ALL-5,PC-2M,infant,1095.8,male,US,other_cancer,PC-2M,,,,2013,primary,1.0,0.005
+SAMN08140989,PRJNA421352,ALL-5,PC-3M,infant,1095.8,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.004
+SAMN08140817,PRJNA421352,ALL-6,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.007
+SAMN08140818,PRJNA421352,ALL-6,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.011
+SAMN08140819,PRJNA421352,ALL-6,PC-2M,infant,1095.8,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.006
+SAMN08140820,PRJNA421352,ALL-6,PC-3M,infant,1095.8,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.005
+SAMN08140821,PRJNA421352,ALL-6,PC-4M,infant,1095.8,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.018
+SAMN08140822,PRJNA421352,ALL-6,PC-5M,infant,1095.8,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.009
+SAMN08140860,PRJNA421352,ALL-7,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.01
+SAMN08140864,PRJNA421352,ALL-7,PC-12M,infant,1095.8,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.009
+SAMN08140861,PRJNA421352,ALL-7,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.005
+SAMN08140862,PRJNA421352,ALL-7,PC-2M,infant,1095.8,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.004
+SAMN08140863,PRJNA421352,ALL-7,PC-3M,infant,1095.8,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.004
+SAMN08140969,PRJNA421352,ALL-8,Diagnosis,child,2191.5,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.006
+SAMN08140979,PRJNA421352,ALL-8,PC-11M,child,2191.5,male,US,other_cancer,PC-11M,,,,2014,primary,1.0,0.006
+SAMN08140980,PRJNA421352,ALL-8,PC-12M,child,2191.5,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.004
+SAMN08140970,PRJNA421352,ALL-8,PC-1M,child,2191.5,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.013
+SAMN08140971,PRJNA421352,ALL-8,PC-2M,child,2191.5,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.009
+SAMN08140972,PRJNA421352,ALL-8,PC-3M,child,2191.5,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.005
+SAMN08140973,PRJNA421352,ALL-8,PC-4M,child,2191.5,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.006
+SAMN08140974,PRJNA421352,ALL-8,PC-5M,child,2191.5,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.011
+SAMN08140975,PRJNA421352,ALL-8,PC-6M,child,2191.5,male,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.007
+SAMN08140976,PRJNA421352,ALL-8,PC-7M,child,2191.5,male,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.006
+SAMN08140977,PRJNA421352,ALL-8,PC-8M,child,2191.5,male,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.004
+SAMN08140978,PRJNA421352,ALL-8,PC-9M,child,2191.5,male,US,other_cancer,PC-9M,,,,2014,primary,1.0,0.007
+SAMN08140889,PRJNA421352,ALL-9,Diagnosis,child,2191.5,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.007
+SAMN08140891,PRJNA421352,ALL-9,PC-1M,child,2191.5,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.007
+SAMN08140890,PRJNA421352,ALL-9,PC-2M,child,2191.5,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.005
+SAMN08140892,PRJNA421352,ALL-9,PC-4M,child,2191.5,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.007
+SAMN08140893,PRJNA421352,ALL-9,PC-5M,child,2191.5,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.014
+SAMN08140894,PRJNA421352,ALL-9,PC-6M,child,2191.5,male,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.005
+SAMN08140895,PRJNA421352,ALL-9,PC-7M,child,2191.5,male,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.005
+SAMN08140896,PRJNA421352,ALL-9,PC-8M,child,2191.5,male,US,other_cancer,PC-8M,,,,2014,primary,1.0,0.006
+SAMN08140826,PRJNA421352,HC-1,,child,3287.2,male,US,healthy_control,Healthy Control,,,,2013,primary,1.0,0.003
+SAMN08140898,PRJNA421352,HC-10,1Y,child,2556.8,female,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.005
+SAMN08140897,PRJNA421352,HC-10,,child,2556.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.004
+SAMN08140966,PRJNA421352,HC-11,,infant,1095.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.0
+SAMN08140917,PRJNA421352,HC-13,1Y,child,2191.5,female,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.003
+SAMN08140916,PRJNA421352,HC-13,,child,2191.5,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.007
+SAMN08140900,PRJNA421352,HC-14,1Y,child,1826.2,male,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.011
+SAMN08140899,PRJNA421352,HC-14,,child,1826.2,male,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.009
+SAMN08140843,PRJNA421352,HC-15,,child,2922.0,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.007
+SAMN08140865,PRJNA421352,HC-18,,child,2556.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.005
+SAMN08140925,PRJNA421352,HC-21,,adult,6574.5,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.007
+SAMN08140840,PRJNA421352,HC-26,,child,1461.0,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.007
+SAMN08140879,PRJNA421352,HC-28,,child,1826.2,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.006
+SAMN08140967,PRJNA421352,HC-29,,child,,female,US,healthy_control,Healthy Control,,,,2015,primary,1.0,0.003
+SAMN08140991,PRJNA421352,HC-31,,adolescent,4383.0,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.008
+SAMN08140990,PRJNA421352,HC-32,,child,2556.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.005
+SAMN08140918,PRJNA421352,HC-33,,child,1826.2,male,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.015
+SAMN08140902,PRJNA421352,HC-34,1Y,adolescent,6209.0,male,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.008
+SAMN08140901,PRJNA421352,HC-34,,adolescent,6209.0,male,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.001
+SAMN08140790,PRJNA421352,HC-35,1Y,child,1461.0,female,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.007
+SAMN08140789,PRJNA421352,HC-35,,child,1461.0,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.009
+SAMN08140775,PRJNA421352,HC-36,,infant,1095.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.004
+SAMN08140816,PRJNA421352,HC-4,1Y,infant,1095.8,male,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.007
+SAMN08140815,PRJNA421352,HC-4,,infant,1095.8,male,US,healthy_control,Healthy Control,,,,2013,primary,1.0,0.008
+SAMN08140992,PRJNA421352,HC-40,,child,2191.5,male,US,healthy_control,Healthy Control,,,,2015,primary,1.0,0.002
+SAMN08140841,PRJNA421352,HC-41,,adolescent,4383.0,female,US,healthy_control,Healthy Control,,,,2015,primary,1.0,0.003
+SAMN08140812,PRJNA421352,HC-42,,child,3652.5,female,US,healthy_control,Healthy Control,,,,2015,primary,1.0,0.003
+SAMN08140968,PRJNA421352,HC-5,,infant,365.0,female,US,healthy_control,Healthy Control,,,,2013,primary,1.0,0.01
+SAMN08140814,PRJNA421352,HC-8,1Y,child,1826.2,female,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.005
+SAMN08140813,PRJNA421352,HC-8,,child,1826.2,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.005

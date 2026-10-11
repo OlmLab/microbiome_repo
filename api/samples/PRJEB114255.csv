@@ -1,0 +1,845 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA122927112,PRJEB114255,04/01/1900,,elderly,24540.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-24,primary,1.0,20.281
+SAMEA122927015,PRJEB114255,09/01/1900,,adult,11711.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-10,primary,1.0,23.125
+SAMEA122927576,PRJEB114255,10/01/1900,,adult,13488.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-06-19,primary,1.0,14.219
+SAMEA122927632,PRJEB114255,10/01/1900,,adult,14330.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-09,primary,1.0,33.072
+SAMEA122927452,PRJEB114255,10006,,adult,11047.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-02,primary,1.0,12.212
+SAMEA122927466,PRJEB114255,10011,,adult,20033.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-21,primary,1.0,22.154
+SAMEA122926933,PRJEB114255,10051,,adult,7056.0,female,FR,crohns_disease,Crohn's disease,,,,2018-12-09,primary,1.0,17.257
+SAMEA122926961,PRJEB114255,10057,,adult,17408.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-23,primary,1.0,28.738
+SAMEA122926994,PRJEB114255,10058,,adult,19041.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-02,primary,1.0,28.641
+SAMEA122927022,PRJEB114255,10058,,adult,19518.1,female,FR,crohns_disease,Crohn's disease,,,,2020-11-30,primary,1.0,9.858
+SAMEA122926932,PRJEB114255,10082,,adult,15130.0,male,FR,crohns_disease,Crohn's disease,,,,2018-12-05,primary,1.0,16.121
+SAMEA122926992,PRJEB114255,10088,,adult,16204.4,female,FR,crohns_disease,Crohn's disease,,,,2020-10-26,primary,1.0,20.036
+SAMEA122927523,PRJEB114255,10088,,adult,16730.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-14,primary,1.0,8.085
+SAMEA122927081,PRJEB114255,10092,,adult,19630.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-12,primary,1.0,19.268
+SAMEA122927629,PRJEB114255,10092,,adult,20321.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-02,primary,1.0,10.256
+SAMEA122927513,PRJEB114255,10105,,adult,7825.6,male,FR,crohns_disease,Crohn's disease,,,,2021-01-19,primary,1.0,9.103
+SAMEA122927413,PRJEB114255,10114,,adult,15551.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-07,primary,1.0,13.825
+SAMEA122927648,PRJEB114255,10118,,adult,7583.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-23,primary,1.0,12.867
+SAMEA122927652,PRJEB114255,10120,,elderly,23948.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-07,primary,1.0,14.171
+SAMEA122927084,PRJEB114255,10121,,adult,13159.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2019-01-23,primary,1.0,19.3
+SAMEA122927637,PRJEB114255,10146,,adult,11362.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-26,primary,1.0,18.292
+SAMEA122926967,PRJEB114255,10147,,adult,9771.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-26,primary,1.0,11.222
+SAMEA122927016,PRJEB114255,10147,,adult,9951.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-12,primary,1.0,15.86
+SAMEA122927478,PRJEB114255,10162,,adult,20388.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-04,primary,1.0,48.236
+SAMEA122927091,PRJEB114255,10184,,elderly,25226.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-10,primary,1.0,15.138
+SAMEA122927110,PRJEB114255,10184,,elderly,25472.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-11,primary,1.0,19.37
+SAMEA122926938,PRJEB114255,10187,,adult,9240.0,male,FR,crohns_disease,Crohn's disease,,,,2019-05-17,primary,1.0,11.364
+SAMEA122927113,PRJEB114255,10206,,adult,7659.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-08,primary,1.0,11.037
+SAMEA122927458,PRJEB114255,10217,,adult,13575.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-10,primary,1.0,7.731
+SAMEA122927603,PRJEB114255,10221,,infant,37.1,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-08-14,primary,1.0,18.993
+SAMEA122927471,PRJEB114255,10229,,adult,9772.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-25,primary,1.0,16.766
+SAMEA122927425,PRJEB114255,10233,,adult,8880.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-20,primary,1.0,18.829
+SAMEA122926942,PRJEB114255,10259,,adult,9215.0,female,FR,crohns_disease,Crohn's disease,,,,2019-06-07,primary,1.0,19.41
+SAMEA122927596,PRJEB114255,10261,,adult,12159.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-08,primary,1.0,12.197
+SAMEA122926952,PRJEB114255,10274,,adult,8178.0,female,FR,crohns_disease,Crohn's disease,,,,2019-06-07,primary,1.0,8.505
+SAMEA122927415,PRJEB114255,10300,,adult,16982.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-11,primary,1.0,14.365
+SAMEA122927121,PRJEB114255,10306,,adult,17658.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-19,primary,1.0,11.168
+SAMEA122926944,PRJEB114255,10312,,adult,20378.0,female,FR,crohns_disease,Crohn's disease,,,,2019-07-01,primary,1.0,5.416
+SAMEA122927018,PRJEB114255,10312,,adult,21342.0,female,FR,crohns_disease,Crohn's disease,,,,2021-09-28,primary,1.0,6.964
+SAMEA122927439,PRJEB114255,10318,,adult,13361.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-13,primary,1.0,20.125
+SAMEA122927085,PRJEB114255,10328,,adult,13100.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2019-07-09,primary,1.0,15.443
+SAMEA122927659,PRJEB114255,10330,,adult,14012.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-09-18,primary,1.0,12.19
+SAMEA122927620,PRJEB114255,10342,,adult,15860.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-25,primary,1.0,15.764
+SAMEA122927393,PRJEB114255,10343,,adult,7989.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-03,primary,1.0,21.491
+SAMEA122927601,PRJEB114255,10359,,adult,9492.3,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-26,primary,1.0,19.157
+SAMEA122927353,PRJEB114255,10360,,adult,12747.7,female,FR,crohns_disease,Crohn's disease,,,,2019-08-23,primary,1.0,20.977
+SAMEA122927115,PRJEB114255,10365,,adult,10361.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-06,primary,1.0,17.308
+SAMEA122927454,PRJEB114255,10366,,adult,11467.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-06,primary,1.0,20.611
+SAMEA122927464,PRJEB114255,1038,,adult,20151.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-18,primary,1.0,16.762
+SAMEA122927517,PRJEB114255,10392,,adult,10639.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-08,primary,1.0,8.47
+SAMEA122927475,PRJEB114255,10396,,adult,8472.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-25,primary,1.0,14.05
+SAMEA122926982,PRJEB114255,10402,,adult,12869.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-06,primary,1.0,14.953
+SAMEA122927639,PRJEB114255,10403,,adult,12257.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-01,primary,1.0,19.273
+SAMEA122927506,PRJEB114255,10512,,adult,12749.5,female,FR,crohns_disease,Crohn's disease,,,,2021-10-04,primary,1.0,7.998
+SAMEA122926981,PRJEB114255,10528,,adult,21747.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-05,primary,1.0,20.589
+SAMEA122927448,PRJEB114255,10538,,adult,7180.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-28,primary,1.0,13.537
+SAMEA122927001,PRJEB114255,10544,,elderly,27992.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-26,primary,1.0,9.33
+SAMEA122927443,PRJEB114255,10548,,adult,10524.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-17,primary,1.0,20.348
+SAMEA122926973,PRJEB114255,10587,,adult,15585.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-11,primary,1.0,13.818
+SAMEA122926980,PRJEB114255,10588,,adult,9864.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-02,primary,1.0,18.752
+SAMEA122926985,PRJEB114255,10643,,adult,9390.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-13,primary,1.0,18.459
+SAMEA122927111,PRJEB114255,10649,,adult,7210.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-16,primary,1.0,11.317
+SAMEA122927487,PRJEB114255,10652,,adult,14583.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-30,primary,1.0,14.747
+SAMEA122927239,PRJEB114255,10657,,adult,10486.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-03-01,primary,1.0,28.417
+SAMEA122927026,PRJEB114255,10676,,adult,8729.0,female,FR,crohns_disease,Crohn's disease,,,,2021-02-28,primary,1.0,8.943
+SAMEA122926996,PRJEB114255,10700,,elderly,24042.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-12,primary,1.0,21.676
+SAMEA122927401,PRJEB114255,10719,,adult,10833.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-22,primary,1.0,12.069
+SAMEA122927479,PRJEB114255,10721,,adult,10092.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-03,primary,1.0,15.843
+SAMEA122927500,PRJEB114255,10721,,adult,10562.0,male,FR,crohns_disease,Crohn's disease,,,,2021-09-10,primary,1.0,10.568
+SAMEA122927633,PRJEB114255,10745,,adult,14824.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-08,primary,1.0,16.139
+SAMEA122927670,PRJEB114255,10745,,adult,15341.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-15,primary,1.0,9.186
+SAMEA122927119,PRJEB114255,10842,,adult,18551.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-11,primary,1.0,16.451
+SAMEA122927472,PRJEB114255,10866,,adult,8200.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-26,primary,1.0,27.095
+SAMEA122927638,PRJEB114255,10877,,adult,22453.9,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-29,primary,1.0,12.807
+SAMEA122927117,PRJEB114255,10995,,adult,11239.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-05,primary,1.0,1.536
+SAMEA122927669,PRJEB114255,10995,,adult,11688.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-05-19,primary,1.0,6.962
+SAMEA122927586,PRJEB114255,11/01/1900,,adult,22191.6,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-04,primary,1.0,19.343
+SAMEA122927299,PRJEB114255,1106,,adult,22187.0,female,FR,crohns_disease,Crohn's disease,,,,2014-05-14,primary,1.0,13.206
+SAMEA122926977,PRJEB114255,11096,,adult,7521.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-18,primary,1.0,23.751
+SAMEA122927636,PRJEB114255,11319,,adult,12425.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-21,primary,1.0,18.376
+SAMEA122927646,PRJEB114255,11321,,adult,17815.3,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-14,primary,1.0,22.254
+SAMEA122927120,PRJEB114255,11426,,adult,10526.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-24,primary,1.0,17.39
+SAMEA122926869,PRJEB114255,1158,,adult,16369.0,male,FR,crohns_disease,Crohn's disease,,,,2013-05-06,primary,1.0,18.759
+SAMEA122927262,PRJEB114255,1158,,adult,16649.0,male,FR,crohns_disease,Crohn's disease,,,,2014-01-14,primary,1.0,19.281
+SAMEA122927371,PRJEB114255,1158,,adult,18969.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-05,primary,1.0,20.479
+SAMEA122927489,PRJEB114255,1158,,adult,19198.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-05,primary,1.0,24.282
+SAMEA122927515,PRJEB114255,1158,,adult,19632.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-06,primary,1.0,11.237
+SAMEA122927127,PRJEB114255,11797,,adult,17926.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-03-17,primary,1.0,1.045
+SAMEA122927136,PRJEB114255,11811,,adult,22189.0,female,FR,crohns_disease,Crohn's disease,,,,2021-03-17,primary,1.0,11.401
+SAMEA122926858,PRJEB114255,12,,adult,10987.5,female,FR,crohns_disease,Crohn's disease,,,,2013-02-01,primary,1.0,1.006
+SAMEA122926888,PRJEB114255,12,,adult,11356.0,female,FR,crohns_disease,Crohn's disease,,,,2014-01-23,primary,1.0,18.071
+SAMEA122927028,PRJEB114255,12128,,adult,11801.0,female,FR,crohns_disease,Crohn's disease,,,,2021-05-12,primary,1.0,4.68
+SAMEA122927662,PRJEB114255,12291,,adult,15770.2,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-09-29,primary,1.0,1.253
+SAMEA122927000,PRJEB114255,1234,,adult,19063.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-22,primary,1.0,18.499
+SAMEA122927336,PRJEB114255,1290,,adult,16698.0,male,FR,crohns_disease,Crohn's disease,,,,2018-06-26,primary,1.0,21.787
+SAMEA122927372,PRJEB114255,1290,,adult,17410.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-12,primary,1.0,19.986
+SAMEA122927491,PRJEB114255,1290,,adult,17634.9,male,FR,crohns_disease,Crohn's disease,,,,2021-01-11,primary,1.0,20.777
+SAMEA122927510,PRJEB114255,1290,,adult,18079.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-11,primary,1.0,10.968
+SAMEA122927546,PRJEB114255,1297,,adult,20627.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-24,primary,1.0,19.739
+SAMEA122927619,PRJEB114255,13,,adult,10137.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-23,primary,1.0,18.302
+SAMEA122927242,PRJEB114255,1423,,adult,17046.0,female,FR,crohns_disease,Crohn's disease,,,,2012-01-03,primary,1.0,18.759
+SAMEA122927365,PRJEB114255,1423,,adult,20053.6,female,FR,crohns_disease,Crohn's disease,,,,2020-03-11,primary,1.0,23.378
+SAMEA122927447,PRJEB114255,1423,,adult,20238.9,female,FR,crohns_disease,Crohn's disease,,,,2020-10-26,primary,1.0,21.776
+SAMEA122927502,PRJEB114255,1423,,adult,20768.0,female,FR,crohns_disease,Crohn's disease,,,,2021-09-26,primary,1.0,7.469
+SAMEA122927300,PRJEB114255,1426,,elderly,23755.6,female,FR,crohns_disease,Crohn's disease,,,,2014-05-15,primary,1.0,16.424
+SAMEA122926970,PRJEB114255,1578,,adult,18531.0,male,FR,crohns_disease,Crohn's disease,,,,2020-08-10,primary,1.0,15.487
+SAMEA122927039,PRJEB114255,16,,adult,10869.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-29,primary,1.0,19.036
+SAMEA122926915,PRJEB114255,1627,,adult,14914.0,female,FR,crohns_disease,Crohn's disease,,,,2017-02-13,primary,1.0,21.574
+SAMEA122927014,PRJEB114255,1627,,adult,16335.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-04,primary,1.0,13.608
+SAMEA122927645,PRJEB114255,1677,,adult,19700.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-14,primary,1.0,1.263
+SAMEA122926873,PRJEB114255,1689,,adult,15006.0,female,FR,crohns_disease,Crohn's disease,,,,2013-09-20,primary,1.0,22.77
+SAMEA122927320,PRJEB114255,17,,adult,9473.0,female,FR,crohns_disease,Crohn's disease,,,,2017-03-22,primary,1.0,21.24
+SAMEA122927330,PRJEB114255,1835,,adult,21431.0,female,FR,crohns_disease,Crohn's disease,,,,2018-05-29,primary,1.0,12.421
+SAMEA122926968,PRJEB114255,19,,elderly,24754.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-24,primary,1.0,11.314
+SAMEA122927252,PRJEB114255,19,,adult,21817.0,female,FR,crohns_disease,Crohn's disease,,,,2012-07-09,primary,1.0,1.374
+SAMEA122926999,PRJEB114255,1957,,adult,21925.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-25,primary,1.0,16.779
+SAMEA122927389,PRJEB114255,2028,,adult,17308.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-06,primary,1.0,13.922
+SAMEA122927386,PRJEB114255,2051,,adult,16381.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-28,primary,1.0,20.94
+SAMEA122927486,PRJEB114255,2075,,adult,15798.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-16,primary,1.0,8.024
+SAMEA122927282,PRJEB114255,2079,,adult,20074.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-31,primary,1.0,16.822
+SAMEA122927292,PRJEB114255,2109,,adult,18435.0,male,FR,crohns_disease,Crohn's disease,,,,2014-04-18,primary,1.0,17.57
+SAMEA122927384,PRJEB114255,2109,,adult,20710.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-27,primary,1.0,20.832
+SAMEA122927405,PRJEB114255,2133,,elderly,28195.0,male,FR,crohns_disease,Crohn's disease,,,,2020-08-14,primary,1.0,11.188
+SAMEA122927404,PRJEB114255,2142,,adult,22050.0,female,FR,crohns_disease,Crohn's disease,,,,2020-08-09,primary,1.0,12.046
+SAMEA122926995,PRJEB114255,2152,,adult,20072.0,male,FR,crohns_disease,Crohn's disease,,,,2020-02-04,primary,1.0,19.693
+SAMEA122926998,PRJEB114255,2224,,adult,23282.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-13,primary,1.0,16.122
+SAMEA122926882,PRJEB114255,2240,,adult,17069.0,female,FR,crohns_disease,Crohn's disease,,,,2014-01-13,primary,1.0,22.69
+SAMEA122926923,PRJEB114255,2240,,adult,18705.2,female,FR,crohns_disease,Crohn's disease,,,,2018-05-30,primary,1.0,23.727
+SAMEA122927482,PRJEB114255,2272,,adult,16398.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-07,primary,1.0,18.672
+SAMEA122927060,PRJEB114255,23,,adult,17650.5,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-09-16,primary,1.0,0.951
+SAMEA122926941,PRJEB114255,2357,,elderly,25576.0,female,FR,crohns_disease,Crohn's disease,,,,2019-05-24,primary,1.0,14.739
+SAMEA122926901,PRJEB114255,2397,,adult,18978.0,male,FR,crohns_disease,Crohn's disease,,,,2014-09-16,primary,1.0,14.96
+SAMEA122926856,PRJEB114255,24,,adult,10824.0,female,FR,crohns_disease,Crohn's disease,,,,2013-01-16,primary,1.0,8.923
+SAMEA122926988,PRJEB114255,2409,,adult,18874.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-19,primary,1.0,20.776
+SAMEA122927501,PRJEB114255,2409,,adult,19364.0,female,FR,crohns_disease,Crohn's disease,,,,2021-09-09,primary,1.0,10.333
+SAMEA122927382,PRJEB114255,2424,,adult,18707.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-30,primary,1.0,23.691
+SAMEA122927296,PRJEB114255,2428,,adult,12901.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-28,primary,1.0,22.925
+SAMEA122927341,PRJEB114255,2486,,adult,20410.8,male,FR,crohns_disease,Crohn's disease,,,,2018-07-31,primary,1.0,16.852
+SAMEA122927431,PRJEB114255,2486,,adult,21235.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-04,primary,1.0,14.462
+SAMEA122927010,PRJEB114255,2591,,adult,21070.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-21,primary,1.0,12.578
+SAMEA122926972,PRJEB114255,2615,,adult,18302.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-04,primary,1.0,15.19
+SAMEA122926879,PRJEB114255,2684,,adult,14638.0,male,FR,crohns_disease,Crohn's disease,,,,2013-12-13,primary,1.0,0.492
+SAMEA122927279,PRJEB114255,27,,adult,10080.0,male,FR,crohns_disease,Crohn's disease,,,,2014-03-27,primary,1.0,15.995
+SAMEA122926874,PRJEB114255,2737,,adult,18058.0,female,FR,crohns_disease,Crohn's disease,,,,2013-09-23,primary,1.0,21.027
+SAMEA122927272,PRJEB114255,2739,,adult,18619.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-06,primary,1.0,18.419
+SAMEA122927358,PRJEB114255,2739,,adult,20774.9,female,FR,crohns_disease,Crohn's disease,,,,2020-02-11,primary,1.0,18.977
+SAMEA122927383,PRJEB114255,2890,,adult,21599.1,male,FR,crohns_disease,Crohn's disease,,,,2020-06-28,primary,1.0,21.899
+SAMEA122927583,PRJEB114255,30,,adult,9361.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-02-19,primary,1.0,18.953
+SAMEA122927661,PRJEB114255,30,,adult,10136.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-09-27,primary,1.0,8.218
+SAMEA122927012,PRJEB114255,3026,,adult,19858.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-23,primary,1.0,13.804
+SAMEA122926898,PRJEB114255,3066,,adult,12631.0,female,FR,crohns_disease,Crohn's disease,,,,2014-05-28,primary,1.0,20.774
+SAMEA122927361,PRJEB114255,3066,,adult,14738.9,female,FR,crohns_disease,Crohn's disease,,,,2020-02-27,primary,1.0,13.986
+SAMEA122927465,PRJEB114255,3076,,adult,21643.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-23,primary,1.0,8.3
+SAMEA122927409,PRJEB114255,3096,,adult,14663.0,female,FR,crohns_disease,Crohn's disease,,,,2020-08-13,primary,1.0,18.141
+SAMEA122927427,PRJEB114255,3132,,adult,15480.5,female,FR,crohns_disease,Crohn's disease,,,,2020-09-25,primary,1.0,19.036
+SAMEA122927021,PRJEB114255,3265,,adult,14650.0,female,FR,crohns_disease,Crohn's disease,,,,2021-10-13,primary,1.0,4.978
+SAMEA122927380,PRJEB114255,3265,,adult,14041.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-25,primary,1.0,20.035
+SAMEA122927508,PRJEB114255,3296,,adult,14458.0,female,FR,crohns_disease,Crohn's disease,,,,2021-10-12,primary,1.0,8.823
+SAMEA122927555,PRJEB114255,33,,adult,11178.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-12,primary,1.0,23.081
+SAMEA122926844,PRJEB114255,3300,,elderly,30735.0,male,FR,crohns_disease,Crohn's disease,,,,2012-09-07,primary,1.0,10.48
+SAMEA122927567,PRJEB114255,3350,,adult,21079.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2016-11-01,primary,1.0,15.484
+SAMEA122927062,PRJEB114255,3383,,adult,18154.4,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-09-27,primary,1.0,23.328
+SAMEA122927566,PRJEB114255,35,,adult,9263.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2015-02-10,primary,1.0,10.954
+SAMEA122927602,PRJEB114255,35,,adult,11256.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-23,primary,1.0,8.917
+SAMEA122927305,PRJEB114255,350,,adult,18743.0,male,FR,crohns_disease,Crohn's disease,,,,2014-06-18,primary,1.0,15.514
+SAMEA122926847,PRJEB114255,3533,,adult,12084.0,female,FR,crohns_disease,Crohn's disease,,,,2012-09-14,primary,1.0,2.535
+SAMEA122926974,PRJEB114255,3552,,adult,18814.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-17,primary,1.0,13.575
+SAMEA122926911,PRJEB114255,3562,,elderly,24241.0,female,FR,crohns_disease,Crohn's disease,,,,2017-01-27,primary,1.0,15.89
+SAMEA122927041,PRJEB114255,3589,,adult,21752.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-07-05,primary,1.0,17.154
+SAMEA122927241,PRJEB114255,3620,,adult,20433.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-03-16,primary,1.0,7.732
+SAMEA122927624,PRJEB114255,3620,,adult,19953.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-08,primary,1.0,11.046
+SAMEA122927396,PRJEB114255,3684,,adult,14602.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-17,primary,1.0,16.886
+SAMEA122927002,PRJEB114255,3733,,adult,22827.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-02,primary,1.0,4.172
+SAMEA122927034,PRJEB114255,3747,,adult,22073.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-21,primary,1.0,0.449
+SAMEA122927539,PRJEB114255,3747,,adult,22630.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-01-15,primary,1.0,17.195
+SAMEA122927597,PRJEB114255,3747,,elderly,25013.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-09,primary,1.0,16.795
+SAMEA122927623,PRJEB114255,3747,,elderly,25103.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-07,primary,1.0,22.058
+SAMEA122926830,PRJEB114255,3788,,adult,11048.0,female,FR,crohns_disease,Crohn's disease,,,,2012-06-07,primary,1.0,13.392
+SAMEA122927654,PRJEB114255,3806,,adult,18251.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-15,primary,1.0,19.812
+SAMEA122927097,PRJEB114255,3888,,adult,20069.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-24,primary,1.0,12.417
+SAMEA122926909,PRJEB114255,4013,,adult,10646.0,female,FR,crohns_disease,Crohn's disease,,,,2016-06-07,primary,1.0,15.709
+SAMEA122927259,PRJEB114255,4017,,adult,10729.0,male,FR,crohns_disease,Crohn's disease,,,,2013-12-16,primary,1.0,17.763
+SAMEA122927398,PRJEB114255,4021,,adult,12820.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-22,primary,1.0,9.69
+SAMEA122927440,PRJEB114255,4061,,adult,21336.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-13,primary,1.0,22.361
+SAMEA122927432,PRJEB114255,4089,,adult,17318.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-30,primary,1.0,13.43
+SAMEA122927449,PRJEB114255,4150,,adult,17704.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-03,primary,1.0,14.885
+SAMEA122927611,PRJEB114255,42,,elderly,28859.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-17,primary,1.0,15.941
+SAMEA122927651,PRJEB114255,4205,,adult,21856.7,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-07,primary,1.0,20.126
+SAMEA122927608,PRJEB114255,4208,,elderly,23967.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-03,primary,1.0,19.978
+SAMEA122927316,PRJEB114255,4224,,adult,15786.0,female,FR,crohns_disease,Crohn's disease,,,,2016-07-04,primary,1.0,18.626
+SAMEA122926855,PRJEB114255,4292,,adult,10608.0,female,FR,crohns_disease,Crohn's disease,,,,2013-01-16,primary,1.0,0.041
+SAMEA122927436,PRJEB114255,4300,,adult,14252.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-08,primary,1.0,14.675
+SAMEA122927594,PRJEB114255,4319,,adult,22169.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-06-25,primary,1.0,22.083
+SAMEA122926829,PRJEB114255,4329,,adult,17640.0,female,FR,crohns_disease,Crohn's disease,,,,2012-01-12,primary,1.0,15.924
+SAMEA122927285,PRJEB114255,4354,,elderly,28245.0,male,FR,crohns_disease,Crohn's disease,,,,2014-04-15,primary,1.0,23.231
+SAMEA122927543,PRJEB114255,4395,,adult,14916.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-17,primary,1.0,19.916
+SAMEA122926965,PRJEB114255,4421,,adult,15672.4,female,FR,crohns_disease,Crohn's disease,,,,2020-07-16,primary,1.0,25.32
+SAMEA122927625,PRJEB114255,4451,,adult,21826.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-07,primary,1.0,21.234
+SAMEA122927267,PRJEB114255,4462,,infant,29.6,female,FR,crohns_disease,Crohn's disease,,,,2014-02-19,primary,1.0,24.243
+SAMEA122926875,PRJEB114255,45,,adult,13076.0,female,FR,crohns_disease,Crohn's disease,,,,2013-10-09,primary,1.0,17.253
+SAMEA122927124,PRJEB114255,4506,,elderly,25015.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-26,primary,1.0,10.172
+SAMEA122927590,PRJEB114255,4506,,elderly,24415.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-06-19,primary,1.0,19.901
+SAMEA122927003,PRJEB114255,4514,,adult,20291.5,female,FR,crohns_disease,Crohn's disease,,,,2020-12-02,primary,1.0,14.888
+SAMEA122926984,PRJEB114255,4520,,adult,15492.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-13,primary,1.0,21.558
+SAMEA122927268,PRJEB114255,4520,,adult,13066.0,male,FR,crohns_disease,Crohn's disease,,,,2014-02-21,primary,1.0,19.145
+SAMEA122927331,PRJEB114255,4520,,adult,14596.0,male,FR,crohns_disease,Crohn's disease,,,,2018-05-29,primary,1.0,15.426
+SAMEA122927503,PRJEB114255,4585,,adult,13028.0,male,FR,crohns_disease,Crohn's disease,,,,2021-09-30,primary,1.0,9.905
+SAMEA122927423,PRJEB114255,4610,,adult,19130.0,male,FR,crohns_disease,Crohn's disease,,,,2020-08-17,primary,1.0,12.521
+SAMEA122927518,PRJEB114255,4617,,adult,14977.5,female,FR,crohns_disease,Crohn's disease,,,,2021-02-20,primary,1.0,11.01
+SAMEA122927553,PRJEB114255,4620,,adult,19788.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-05,primary,1.0,21.5
+SAMEA122926976,PRJEB114255,4666,,adult,16437.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-15,primary,1.0,16.779
+SAMEA122926890,PRJEB114255,4682,,adult,10453.0,female,FR,crohns_disease,Crohn's disease,,,,2014-02-26,primary,1.0,14.374
+SAMEA122927537,PRJEB114255,47,,adult,12653.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-12-05,primary,1.0,14.781
+SAMEA122927658,PRJEB114255,47,,adult,15672.4,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-09-15,primary,1.0,8.36
+SAMEA122927547,PRJEB114255,4731,,adult,12556.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-27,primary,1.0,13.531
+SAMEA122927621,PRJEB114255,4788,,adult,19403.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-28,primary,1.0,23.136
+SAMEA122927467,PRJEB114255,4792,,adult,22248.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-24,primary,1.0,16.928
+SAMEA122927245,PRJEB114255,4798,,adult,9495.0,female,FR,crohns_disease,Crohn's disease,,,,2011-11-18,primary,1.0,23.25
+SAMEA122927385,PRJEB114255,4798,,adult,12645.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-29,primary,1.0,16.397
+SAMEA122926891,PRJEB114255,4802,,adult,20072.0,male,FR,crohns_disease,Crohn's disease,,,,2014-03-03,primary,1.0,19.205
+SAMEA122926864,PRJEB114255,4812,,adult,8549.0,female,FR,crohns_disease,Crohn's disease,,,,2013-03-13,primary,1.0,0.199
+SAMEA122927551,PRJEB114255,4827,,adult,20227.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-02,primary,1.0,20.852
+SAMEA122927529,PRJEB114255,4840,,adult,13402.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-04-14,primary,1.0,12.263
+SAMEA122927397,PRJEB114255,4845,,adult,11780.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-16,primary,1.0,2.021
+SAMEA122927400,PRJEB114255,4868,,adult,14345.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-25,primary,1.0,14.774
+SAMEA122927493,PRJEB114255,49,,adult,8674.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-13,primary,1.0,15.101
+SAMEA122927344,PRJEB114255,4917,,adult,12895.5,female,FR,crohns_disease,Crohn's disease,,,,2018-10-16,primary,1.0,18.721
+SAMEA122927410,PRJEB114255,4933,,adult,15938.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-04,primary,1.0,14.693
+SAMEA122926978,PRJEB114255,4941,,adult,15166.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-21,primary,1.0,14.512
+SAMEA122926953,PRJEB114255,4961,,adult,20958.0,female,FR,crohns_disease,Crohn's disease,,,,2020-01-24,primary,1.0,15.845
+SAMEA122926997,PRJEB114255,4961,,adult,21250.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-16,primary,1.0,18.596
+SAMEA122927545,PRJEB114255,4988,,adult,17053.3,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-24,primary,1.0,18.49
+SAMEA122926872,PRJEB114255,5021,,adult,10247.0,female,FR,crohns_disease,Crohn's disease,,,,2013-09-04,primary,1.0,10.891
+SAMEA122926926,PRJEB114255,5021,,adult,11989.0,female,FR,crohns_disease,Crohn's disease,,,,2018-06-20,primary,1.0,9.86
+SAMEA122927317,PRJEB114255,5047,,adult,11239.0,male,FR,crohns_disease,Crohn's disease,,,,2017-01-05,primary,1.0,18.085
+SAMEA122926956,PRJEB114255,507,,adult,19499.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-12,primary,1.0,24.058
+SAMEA122927666,PRJEB114255,5071,,adult,21459.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-02-23,primary,1.0,10.822
+SAMEA122926892,PRJEB114255,5110,,adult,9594.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-05,primary,1.0,18.805
+SAMEA122927260,PRJEB114255,5119,,adult,20115.0,female,FR,crohns_disease,Crohn's disease,,,,2014-01-10,primary,1.0,18.926
+SAMEA122927430,PRJEB114255,5119,,adult,22570.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-30,primary,1.0,12.28
+SAMEA122927036,PRJEB114255,5142,,adult,7776.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-05,primary,1.0,0.013
+SAMEA122927291,PRJEB114255,5196,,adult,10338.0,female,FR,crohns_disease,Crohn's disease,,,,2012-01-04,primary,1.0,14.278
+SAMEA122927116,PRJEB114255,5253,,adult,22836.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-22,primary,1.0,14.466
+SAMEA122926881,PRJEB114255,5284,,adult,14322.0,male,FR,crohns_disease,Crohn's disease,,,,2014-01-04,primary,1.0,16.677
+SAMEA122926946,PRJEB114255,5299,,adult,13936.1,female,FR,crohns_disease,Crohn's disease,,,,2019-08-06,primary,1.0,23.408
+SAMEA122927035,PRJEB114255,5309,,adult,9348.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-12,primary,1.0,25.707
+SAMEA122926922,PRJEB114255,531,,adult,20619.0,male,FR,crohns_disease,Crohn's disease,,,,2018-03-29,primary,1.0,14.031
+SAMEA122927037,PRJEB114255,5314,,adult,8242.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-07,primary,1.0,20.723
+SAMEA122926857,PRJEB114255,5338,,adult,9544.0,female,FR,crohns_disease,Crohn's disease,,,,2013-01-31,primary,1.0,0.486
+SAMEA122927368,PRJEB114255,5338,,adult,12204.0,female,FR,crohns_disease,Crohn's disease,,,,2020-05-30,primary,1.0,13.066
+SAMEA122927307,PRJEB114255,5363,,adult,18589.0,female,FR,crohns_disease,Crohn's disease,,,,2014-07-03,primary,1.0,15.301
+SAMEA122927395,PRJEB114255,5363,,adult,20819.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-14,primary,1.0,20.847
+SAMEA122927319,PRJEB114255,5366,,adult,13451.0,female,FR,crohns_disease,Crohn's disease,,,,2017-04-03,primary,1.0,14.168
+SAMEA122927248,PRJEB114255,5370,,adult,18490.0,male,FR,crohns_disease,Crohn's disease,,,,2012-06-30,primary,1.0,23.098
+SAMEA122927321,PRJEB114255,5370,,adult,20463.0,male,FR,crohns_disease,Crohn's disease,,,,2017-11-24,primary,1.0,13.551
+SAMEA122927345,PRJEB114255,5370,,adult,20802.0,male,FR,crohns_disease,Crohn's disease,,,,2018-10-29,primary,1.0,17.59
+SAMEA122927480,PRJEB114255,5387,,adult,12748.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-10,primary,1.0,15.076
+SAMEA122927298,PRJEB114255,5432,,adult,11674.0,female,FR,crohns_disease,Crohn's disease,,,,2014-05-05,primary,1.0,16.884
+SAMEA122927068,PRJEB114255,5470,,adult,11084.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2015-01-20,primary,1.0,0.028
+SAMEA122927250,PRJEB114255,5485,,adult,8379.0,male,FR,crohns_disease,Crohn's disease,,,,2011-10-05,primary,1.0,22.346
+SAMEA122927294,PRJEB114255,5485,,adult,9323.0,male,FR,crohns_disease,Crohn's disease,,,,2014-04-25,primary,1.0,13.992
+SAMEA122927340,PRJEB114255,5485,,adult,10887.0,male,FR,crohns_disease,Crohn's disease,,,,2018-08-06,primary,1.0,9.848
+SAMEA122927622,PRJEB114255,5514,,adult,19558.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-08,primary,1.0,16.713
+SAMEA122926896,PRJEB114255,5515,,infant,49.2,female,FR,crohns_disease,Crohn's disease,,,,2014-03-26,primary,1.0,16.439
+SAMEA122927313,PRJEB114255,5515,,adult,18104.0,female,FR,crohns_disease,Crohn's disease,,,,2014-09-11,primary,1.0,17.449
+SAMEA122926833,PRJEB114255,5528,,adult,10126.0,male,FR,crohns_disease,Crohn's disease,,,,2012-06-06,primary,1.0,24.681
+SAMEA122927542,PRJEB114255,5544,,adult,19904.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-14,primary,1.0,24.555
+SAMEA122927277,PRJEB114255,5565,,adult,20908.6,female,FR,crohns_disease,Crohn's disease,,,,2014-03-24,primary,1.0,15.435
+SAMEA122927266,PRJEB114255,5571,,adult,12233.0,female,FR,crohns_disease,Crohn's disease,,,,2014-02-19,primary,1.0,24.682
+SAMEA122927462,PRJEB114255,5596,,adult,16330.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-18,primary,1.0,19.513
+SAMEA122927017,PRJEB114255,5618,,adult,20123.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-18,primary,1.0,17.89
+SAMEA122927094,PRJEB114255,5654,,adult,12599.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-08-17,primary,1.0,14.787
+SAMEA122927302,PRJEB114255,5676,,adult,15303.0,male,FR,crohns_disease,Crohn's disease,,,,2014-05-09,primary,1.0,24.167
+SAMEA122927339,PRJEB114255,5676,,adult,16832.0,male,FR,crohns_disease,Crohn's disease,,,,2018-07-31,primary,1.0,13.487
+SAMEA122927387,PRJEB114255,5676,,adult,17507.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-03,primary,1.0,26.037
+SAMEA122927055,PRJEB114255,5699,,adult,18514.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-03-06,primary,1.0,19.952
+SAMEA122927064,PRJEB114255,5699,,adult,18876.4,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-07,primary,1.0,6.664
+SAMEA122927612,PRJEB114255,5699,,adult,21239.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-18,primary,1.0,21.661
+SAMEA122926827,PRJEB114255,5721,,adult,11566.0,male,FR,crohns_disease,Crohn's disease,,,,2015-06-15,primary,1.0,16.525
+SAMEA122926863,PRJEB114255,5723,,adult,19349.0,female,FR,crohns_disease,Crohn's disease,,,,2013-03-06,primary,1.0,7.067
+SAMEA122927550,PRJEB114255,5734,,adult,17743.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-04-11,primary,1.0,19.029
+SAMEA122926832,PRJEB114255,5739,,adult,18361.0,female,FR,crohns_disease,Crohn's disease,,,,2012-06-21,primary,1.0,17.16
+SAMEA122926914,PRJEB114255,5739,,adult,20113.0,female,FR,crohns_disease,Crohn's disease,,,,2017-03-11,primary,1.0,6.17
+SAMEA122927554,PRJEB114255,5756,,adult,12757.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-12,primary,1.0,20.856
+SAMEA122927273,PRJEB114255,5770,,adult,8409.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-10,primary,1.0,28.415
+SAMEA122927013,PRJEB114255,5779,,adult,16694.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-28,primary,1.0,14.822
+SAMEA122927007,PRJEB114255,5785,,adult,13147.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-13,primary,1.0,43.513
+SAMEA122926934,PRJEB114255,5827,,adult,13814.0,male,FR,crohns_disease,Crohn's disease,,,,2018-12-12,primary,1.0,17.846
+SAMEA122927255,PRJEB114255,5827,,adult,11578.0,male,FR,crohns_disease,Crohn's disease,,,,2012-11-12,primary,1.0,18.283
+SAMEA122927565,PRJEB114255,5853,,adult,11950.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2015-01-07,primary,1.0,7.134
+SAMEA122927560,PRJEB114255,5862,,elderly,24803.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-06-11,primary,1.0,21.816
+SAMEA122926912,PRJEB114255,5879,,adult,18711.0,female,FR,crohns_disease,Crohn's disease,,,,2017-02-06,primary,1.0,19.387
+SAMEA122927287,PRJEB114255,5923,,adult,19996.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-11,primary,1.0,26.379
+SAMEA122927618,PRJEB114255,5941,,adult,20131.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-22,primary,1.0,14.07
+SAMEA122927535,PRJEB114255,5942,,adult,19424.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-11-20,primary,1.0,15.088
+SAMEA122927544,PRJEB114255,5942,,adult,19545.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-21,primary,1.0,2.07
+SAMEA122927092,PRJEB114255,5964,,adult,21378.8,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-01,primary,1.0,23.258
+SAMEA122927303,PRJEB114255,5976,,elderly,24331.0,female,FR,crohns_disease,Crohn's disease,,,,2014-05-26,primary,1.0,29.926
+SAMEA122927281,PRJEB114255,5994,,elderly,26760.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-02,primary,1.0,18.818
+SAMEA122927626,PRJEB114255,6042,,adult,11371.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-10,primary,1.0,19.338
+SAMEA122927251,PRJEB114255,6064,,adult,8398.0,male,FR,crohns_disease,Crohn's disease,,,,2011-10-18,primary,1.0,18.954
+SAMEA122927593,PRJEB114255,6069,,adult,14519.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-06-26,primary,1.0,20.455
+SAMEA122927663,PRJEB114255,6069,,adult,15122.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-10-02,primary,1.0,12.303
+SAMEA122927476,PRJEB114255,6083,,adult,15147.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-29,primary,1.0,25.924
+SAMEA122926893,PRJEB114255,6098,,adult,14330.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-07,primary,1.0,11.626
+SAMEA122926835,PRJEB114255,6100,,adult,12435.0,male,FR,crohns_disease,Crohn's disease,,,,2012-07-16,primary,1.0,23.768
+SAMEA122927059,PRJEB114255,6108,,adult,22914.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-09-04,primary,1.0,27.773
+SAMEA122927284,PRJEB114255,6128,,adult,10055.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-07,primary,1.0,13.057
+SAMEA122927105,PRJEB114255,6140,,adult,19189.4,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-10,primary,1.0,1.528
+SAMEA122927441,PRJEB114255,6146,,adult,10596.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-15,primary,1.0,16.6
+SAMEA122927042,PRJEB114255,6178,,adult,8141.8,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-07-10,primary,1.0,25.587
+SAMEA122927527,PRJEB114255,6180,,adult,12705.0,male,FR,crohns_disease,Crohn's disease,,,,2021-07-16,primary,1.0,8.548
+SAMEA122927061,PRJEB114255,6185,,adult,9814.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-09-20,primary,1.0,13.48
+SAMEA122927540,PRJEB114255,6186,,adult,12460.4,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-02-17,primary,1.0,26.991
+SAMEA122927412,PRJEB114255,6192,,adult,15001.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-08,primary,1.0,14.644
+SAMEA122927244,PRJEB114255,6195,,adult,10107.0,male,FR,crohns_disease,Crohn's disease,,,,2012-02-02,primary,1.0,6.297
+SAMEA122927295,PRJEB114255,6203,,adult,18650.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-24,primary,1.0,20.178
+SAMEA122927254,PRJEB114255,6205,,elderly,26164.0,male,FR,crohns_disease,Crohn's disease,,,,2012-09-03,primary,1.0,17.27
+SAMEA122927607,PRJEB114255,6208,,adult,16741.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-06,primary,1.0,22.427
+SAMEA122927360,PRJEB114255,6213,,adult,19463.0,female,FR,crohns_disease,Crohn's disease,,,,2020-02-29,primary,1.0,20.288
+SAMEA122927473,PRJEB114255,6213,,adult,19764.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-24,primary,1.0,18.441
+SAMEA122927644,PRJEB114255,6230,,adult,16458.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-06,primary,1.0,28.675
+SAMEA122927280,PRJEB114255,6297,,adult,11434.0,male,FR,crohns_disease,Crohn's disease,,,,2014-03-27,primary,1.0,22.587
+SAMEA122927243,PRJEB114255,6300,,adult,22849.8,male,FR,crohns_disease,Crohn's disease,,,,2011-12-20,primary,1.0,14.968
+SAMEA122927324,PRJEB114255,6300,,elderly,25082.0,male,FR,crohns_disease,Crohn's disease,,,,2018-01-15,primary,1.0,22.405
+SAMEA122927256,PRJEB114255,6325,,adult,17469.0,male,FR,crohns_disease,Crohn's disease,,,,2013-01-11,primary,1.0,17.087
+SAMEA122927359,PRJEB114255,6325,,adult,20055.0,male,FR,crohns_disease,Crohn's disease,,,,2020-02-13,primary,1.0,19.054
+SAMEA122926837,PRJEB114255,6327,,adult,7485.9,female,FR,crohns_disease,Crohn's disease,,,,2012-07-29,primary,1.0,22.141
+SAMEA122927275,PRJEB114255,6330,,adult,9189.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-18,primary,1.0,15.77
+SAMEA122927314,PRJEB114255,6330,,adult,9356.0,female,FR,crohns_disease,Crohn's disease,,,,2014-09-11,primary,1.0,15.026
+SAMEA122927463,PRJEB114255,6343,,adult,22528.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-17,primary,1.0,18.584
+SAMEA122927530,PRJEB114255,6372,,adult,14818.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-03-01,primary,1.0,21.886
+SAMEA122927531,PRJEB114255,6383,,adult,13130.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2011-12-06,primary,1.0,12.375
+SAMEA122927605,PRJEB114255,6383,,adult,16345.9,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-01,primary,1.0,11.543
+SAMEA122927657,PRJEB114255,6401,,adult,16063.1,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-22,primary,1.0,21.633
+SAMEA122927532,PRJEB114255,6421,,adult,14234.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-01-05,primary,1.0,2.082
+SAMEA122927600,PRJEB114255,6421,,adult,17359.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-26,primary,1.0,17.171
+SAMEA122927671,PRJEB114255,6421,,adult,17931.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-09-07,primary,1.0,9.739
+SAMEA122927552,PRJEB114255,6429,,adult,13436.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-05,primary,1.0,20.449
+SAMEA122927312,PRJEB114255,6446,,adult,9105.0,female,FR,crohns_disease,Crohn's disease,,,,2014-07-20,primary,1.0,12.814
+SAMEA122927536,PRJEB114255,6455,,adult,19063.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-11-22,primary,1.0,24.358
+SAMEA122927470,PRJEB114255,6467,,adult,10727.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-26,primary,1.0,24.088
+SAMEA122927526,PRJEB114255,6467,,adult,11202.0,female,FR,crohns_disease,Crohn's disease,,,,2021-05-13,primary,1.0,10.809
+SAMEA122926989,PRJEB114255,6480,,adult,18194.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-20,primary,1.0,22.057
+SAMEA122927309,PRJEB114255,6482,,elderly,26719.0,male,FR,crohns_disease,Crohn's disease,,,,2014-07-10,primary,1.0,18.194
+SAMEA122927564,PRJEB114255,6495,,adult,17989.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-12-10,primary,1.0,14.026
+SAMEA122927634,PRJEB114255,6553,,adult,18388.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-17,primary,1.0,0.808
+SAMEA122927046,PRJEB114255,6558,,adult,18692.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-10-01,primary,1.0,0.072
+SAMEA122927008,PRJEB114255,656,,elderly,24322.1,male,FR,crohns_disease,Crohn's disease,,,,2020-12-13,primary,1.0,28.071
+SAMEA122927538,PRJEB114255,6562,,adult,12750.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-01-13,primary,1.0,22.419
+SAMEA122927573,PRJEB114255,6562,,adult,14332.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-04-12,primary,1.0,14.024
+SAMEA122927587,PRJEB114255,6562,,adult,15027.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-07,primary,1.0,16.18
+SAMEA122927656,PRJEB114255,6562,,adult,15340.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-18,primary,1.0,18.149
+SAMEA122927664,PRJEB114255,6562,,adult,15766.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-22,primary,1.0,8.688
+SAMEA122927278,PRJEB114255,6568,,adult,8989.0,male,FR,crohns_disease,Crohn's disease,,,,2014-03-26,primary,1.0,19.005
+SAMEA122927528,PRJEB114255,6573,,adult,17472.0,male,FR,crohns_disease,Crohn's disease,,,,2021-09-05,primary,1.0,9.56
+SAMEA122926916,PRJEB114255,6584,,adult,18141.0,male,FR,crohns_disease,Crohn's disease,,,,2017-03-15,primary,1.0,21.362
+SAMEA122927468,PRJEB114255,6597,,adult,17565.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-26,primary,1.0,15.974
+SAMEA122927247,PRJEB114255,6608,,adult,13472.0,male,FR,crohns_disease,Crohn's disease,,,,2012-02-29,primary,1.0,11.545
+SAMEA122927352,PRJEB114255,6612,,adult,10820.4,female,FR,crohns_disease,Crohn's disease,,,,2019-03-15,primary,1.0,14.239
+SAMEA122927521,PRJEB114255,6612,,adult,11916.3,female,FR,crohns_disease,Crohn's disease,,,,2021-04-01,primary,1.0,7.857
+SAMEA122927549,PRJEB114255,6633,,adult,9981.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-31,primary,1.0,15.851
+SAMEA122927093,PRJEB114255,6640,,adult,16299.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-31,primary,1.0,7.56
+SAMEA122927261,PRJEB114255,6682,,adult,16760.8,female,FR,crohns_disease,Crohn's disease,,,,2014-01-10,primary,1.0,19.664
+SAMEA122927369,PRJEB114255,6682,,adult,19066.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-02,primary,1.0,22.689
+SAMEA122926854,PRJEB114255,6694,,adult,7809.0,female,FR,crohns_disease,Crohn's disease,,,,2013-01-07,primary,1.0,0.081
+SAMEA122926986,PRJEB114255,6697,,adult,13213.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-13,primary,1.0,13.556
+SAMEA122927263,PRJEB114255,6714,,adult,10696.0,female,FR,crohns_disease,Crohn's disease,,,,2013-01-13,primary,1.0,16.471
+SAMEA122927356,PRJEB114255,6714,,adult,13259.0,female,FR,crohns_disease,Crohn's disease,,,,2020-02-03,primary,1.0,17.424
+SAMEA122927338,PRJEB114255,6764,,adult,13586.6,male,FR,crohns_disease,Crohn's disease,,,,2018-07-18,primary,1.0,15.154
+SAMEA122927288,PRJEB114255,6770,,adult,18533.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-11,primary,1.0,18.056
+SAMEA122927533,PRJEB114255,6798,,adult,18614.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-01-20,primary,1.0,19.275
+SAMEA122926903,PRJEB114255,6804,,adult,9384.3,female,FR,crohns_disease,Crohn's disease,,,,2014-10-10,primary,1.0,2.469
+SAMEA122927019,PRJEB114255,6818,,adult,13600.0,male,FR,crohns_disease,Crohn's disease,,,,2021-10-08,primary,1.0,4.041
+SAMEA122927246,PRJEB114255,6818,,adult,9827.8,male,FR,crohns_disease,Crohn's disease,,,,2011-11-16,primary,1.0,16.501
+SAMEA122927362,PRJEB114255,6818,,adult,12855.2,male,FR,crohns_disease,Crohn's disease,,,,2020-02-29,primary,1.0,23.839
+SAMEA122927495,PRJEB114255,6823,,adult,10332.0,female,FR,crohns_disease,Crohn's disease,,,,2019-10-28,primary,1.0,11.69
+SAMEA122926883,PRJEB114255,6891,,adult,12723.0,male,FR,crohns_disease,Crohn's disease,,,,2013-01-13,primary,1.0,15.659
+SAMEA122927253,PRJEB114255,6892,,elderly,26306.0,male,FR,crohns_disease,Crohn's disease,,,,2012-07-03,primary,1.0,0.084
+SAMEA122927364,PRJEB114255,6903,,adult,17700.0,female,FR,crohns_disease,Crohn's disease,,,,2020-03-01,primary,1.0,21.412
+SAMEA122927450,PRJEB114255,6903,,adult,17952.4,female,FR,crohns_disease,Crohn's disease,,,,2020-11-01,primary,1.0,17.32
+SAMEA122927348,PRJEB114255,6904,,adult,11723.0,female,FR,crohns_disease,Crohn's disease,,,,2018-11-29,primary,1.0,19.527
+SAMEA122927349,PRJEB114255,6924,,adult,9765.0,male,FR,crohns_disease,Crohn's disease,,,,2018-12-10,primary,1.0,17.888
+SAMEA122927481,PRJEB114255,6924,,adult,10480.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-05,primary,1.0,6.53
+SAMEA122926919,PRJEB114255,6941,,adult,9293.0,male,FR,crohns_disease,Crohn's disease,,,,2018-01-12,primary,1.0,14.883
+SAMEA122927289,PRJEB114255,6949,,adult,13800.0,male,FR,crohns_disease,Crohn's disease,,,,2014-04-17,primary,1.0,19.598
+SAMEA122927377,PRJEB114255,6949,,adult,15968.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-23,primary,1.0,22.063
+SAMEA122927579,PRJEB114255,6989,,adult,14429.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-10-16,primary,1.0,12.316
+SAMEA122927584,PRJEB114255,7,,adult,16482.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-01,primary,1.0,21.807
+SAMEA122927373,PRJEB114255,7010,,adult,8967.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-20,primary,1.0,9.44
+SAMEA122926907,PRJEB114255,7022,,adult,16357.0,female,FR,crohns_disease,Crohn's disease,,,,2015-01-26,primary,1.0,17.212
+SAMEA122926908,PRJEB114255,7022,,adult,16481.0,female,FR,crohns_disease,Crohn's disease,,,,2015-06-23,primary,1.0,22.916
+SAMEA122927498,PRJEB114255,7031,,elderly,27348.7,male,FR,crohns_disease,Crohn's disease,,,,2021-01-22,primary,1.0,18.069
+SAMEA122926886,PRJEB114255,7051,,adult,23105.0,male,FR,crohns_disease,Crohn's disease,,,,2014-01-31,primary,1.0,16.928
+SAMEA122926964,PRJEB114255,7051,,elderly,25479.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-18,primary,1.0,17.917
+SAMEA122927107,PRJEB114255,7053,,adult,23250.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-12,primary,1.0,21.137
+SAMEA122927569,PRJEB114255,7053,,adult,22200.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2017-11-27,primary,1.0,18.517
+SAMEA122927308,PRJEB114255,7075,,adult,7221.2,female,FR,crohns_disease,Crohn's disease,,,,2014-07-01,primary,1.0,23.366
+SAMEA122926906,PRJEB114255,708,,adult,20543.0,male,FR,crohns_disease,Crohn's disease,,,,2015-02-12,primary,1.0,20.125
+SAMEA122927445,PRJEB114255,7086,,adult,14221.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-22,primary,1.0,21.592
+SAMEA122927322,PRJEB114255,7089,,adult,20300.0,female,FR,crohns_disease,Crohn's disease,,,,2017-11-30,primary,1.0,12.367
+SAMEA122927598,PRJEB114255,7096,,adult,20753.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-10,primary,1.0,16.427
+SAMEA122927048,PRJEB114255,7110,,adult,11446.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-11-15,primary,1.0,4.196
+SAMEA122927570,PRJEB114255,7114,,adult,13441.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2017-12-04,primary,1.0,16.72
+SAMEA122927086,PRJEB114255,7131,,adult,12344.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2019-09-05,primary,1.0,13.395
+SAMEA122927258,PRJEB114255,7133,,adult,9931.0,male,FR,crohns_disease,Crohn's disease,,,,2013-06-03,primary,1.0,17.935
+SAMEA122927421,PRJEB114255,7133,,adult,12500.7,male,FR,crohns_disease,Crohn's disease,,,,2020-09-21,primary,1.0,19.427
+SAMEA122927519,PRJEB114255,7133,,adult,13145.0,male,FR,crohns_disease,Crohn's disease,,,,2021-03-09,primary,1.0,7.362
+SAMEA122927290,PRJEB114255,7172,,adult,13601.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-12,primary,1.0,22.473
+SAMEA122926889,PRJEB114255,7202,,adult,9572.0,female,FR,crohns_disease,Crohn's disease,,,,2013-01-16,primary,1.0,19.449
+SAMEA122927032,PRJEB114255,7212,,adult,12266.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2011-12-14,primary,1.0,1.911
+SAMEA122926897,PRJEB114255,7213,,adult,8800.0,male,FR,crohns_disease,Crohn's disease,,,,2014-04-18,primary,1.0,4.651
+SAMEA122927038,PRJEB114255,7229,,adult,13422.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-26,primary,1.0,3.141
+SAMEA122927548,PRJEB114255,7229,,adult,14044.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-04-02,primary,1.0,23.769
+SAMEA122926859,PRJEB114255,7262,,adult,10230.0,male,FR,crohns_disease,Crohn's disease,,,,2013-02-01,primary,1.0,17.87
+SAMEA122926880,PRJEB114255,7263,,adult,12049.5,female,FR,crohns_disease,Crohn's disease,,,,2013-12-16,primary,1.0,20.069
+SAMEA122927069,PRJEB114255,7267,,adult,15273.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2016-06-15,primary,1.0,7.703
+SAMEA122926845,PRJEB114255,7290,,adult,10103.0,male,FR,crohns_disease,Crohn's disease,,,,2012-09-09,primary,1.0,21.951
+SAMEA122927293,PRJEB114255,7316,,adult,20581.0,male,FR,crohns_disease,Crohn's disease,,,,2014-04-16,primary,1.0,13.368
+SAMEA122927326,PRJEB114255,7338,,adult,11209.0,male,FR,crohns_disease,Crohn's disease,,,,2018-02-21,primary,1.0,21.867
+SAMEA122927390,PRJEB114255,7338,,adult,12066.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-07,primary,1.0,12.176
+SAMEA122927437,PRJEB114255,7379,,adult,14484.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-12,primary,1.0,19.171
+SAMEA122927106,PRJEB114255,7387,,elderly,27667.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-15,primary,1.0,2.05
+SAMEA122927561,PRJEB114255,7387,,elderly,25350.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-06-12,primary,1.0,14.107
+SAMEA122927558,PRJEB114255,7388,,adult,15615.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-27,primary,1.0,27.093
+SAMEA122927040,PRJEB114255,7409,,adult,21208.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-07-08,primary,1.0,3.115
+SAMEA122927581,PRJEB114255,7411,,adult,23020.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2019-02-04,primary,1.0,14.977
+SAMEA122927562,PRJEB114255,7413,,adult,15439.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-07-11,primary,1.0,20.289
+SAMEA122927033,PRJEB114255,7421,,adult,10089.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-06-19,primary,1.0,11.668
+SAMEA122926831,PRJEB114255,7422,,adult,16994.5,female,FR,crohns_disease,Crohn's disease,,,,2012-06-22,primary,1.0,3.23
+SAMEA122926834,PRJEB114255,7431,,neonate,27.3,male,FR,crohns_disease,Crohn's disease,,,,2012-07-02,primary,1.0,1.488
+SAMEA122927408,PRJEB114255,7431,,adult,12912.0,male,FR,crohns_disease,Crohn's disease,,,,2020-08-18,primary,1.0,13.773
+SAMEA122927580,PRJEB114255,7436,,adult,10249.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-07,primary,1.0,16.206
+SAMEA122927591,PRJEB114255,7436,,adult,10810.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-06-22,primary,1.0,23.34
+SAMEA122926871,PRJEB114255,7437,,neonate,26.4,female,FR,crohns_disease,Crohn's disease,,,,2013-09-01,primary,1.0,19.965
+SAMEA122926846,PRJEB114255,7439,,adult,19236.0,male,FR,crohns_disease,Crohn's disease,,,,2012-09-14,primary,1.0,2.508
+SAMEA122927306,PRJEB114255,7451,,adult,7670.0,female,FR,crohns_disease,Crohn's disease,,,,2014-06-25,primary,1.0,12.052
+SAMEA122926836,PRJEB114255,7453,,adult,22501.0,male,FR,crohns_disease,Crohn's disease,,,,2012-07-23,primary,1.0,19.96
+SAMEA122926842,PRJEB114255,7456,,adolescent,6255.0,male,FR,crohns_disease,Crohn's disease,,,,2012-07-23,primary,1.0,21.214
+SAMEA122926838,PRJEB114255,7459,,adult,7122.0,female,FR,crohns_disease,Crohn's disease,,,,2012-08-03,primary,1.0,17.689
+SAMEA122927043,PRJEB114255,7460,,adult,16246.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-08-08,primary,1.0,29.902
+SAMEA122927058,PRJEB114255,7460,,adult,16476.5,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-04-17,primary,1.0,18.972
+SAMEA122927568,PRJEB114255,7460,,adult,18166.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2017-11-10,primary,1.0,20.851
+SAMEA122927647,PRJEB114255,7460,,adult,19304.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-22,primary,1.0,11.135
+SAMEA122926839,PRJEB114255,7461,,adult,6972.4,male,FR,crohns_disease,Crohn's disease,,,,2012-08-08,primary,1.0,1.012
+SAMEA122926840,PRJEB114255,7463,,adult,7755.0,male,FR,crohns_disease,Crohn's disease,,,,2012-08-07,primary,1.0,2.378
+SAMEA122926841,PRJEB114255,7464,,adult,8717.0,male,FR,crohns_disease,Crohn's disease,,,,2012-08-12,primary,1.0,18.829
+SAMEA122927066,PRJEB114255,7465,,adult,8932.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-04-02,primary,1.0,20.368
+SAMEA122927653,PRJEB114255,7465,,adult,11431.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-12,primary,1.0,24.452
+SAMEA122927249,PRJEB114255,747,,adult,15797.0,female,FR,crohns_disease,Crohn's disease,,,,2011-10-24,primary,1.0,22.834
+SAMEA122927044,PRJEB114255,7497,,adult,13856.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-08-30,primary,1.0,15.203
+SAMEA122926843,PRJEB114255,7503,,adult,15205.0,male,FR,crohns_disease,Crohn's disease,,,,2012-09-07,primary,1.0,19.947
+SAMEA122927045,PRJEB114255,7504,,adult,15483.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-09-11,primary,1.0,0.186
+SAMEA122926848,PRJEB114255,7522,,adult,15575.2,female,FR,crohns_disease,Crohn's disease,,,,2012-10-01,primary,1.0,12.799
+SAMEA122927456,PRJEB114255,7522,,adult,18565.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-07,primary,1.0,18.894
+SAMEA122926849,PRJEB114255,7523,,adult,18920.0,male,FR,crohns_disease,Crohn's disease,,,,2012-10-03,primary,1.0,25.137
+SAMEA122927274,PRJEB114255,7523,,adult,19413.0,male,FR,crohns_disease,Crohn's disease,,,,2014-03-13,primary,1.0,18.094
+SAMEA122927343,PRJEB114255,7523,,adult,21067.0,male,FR,crohns_disease,Crohn's disease,,,,2018-09-10,primary,1.0,17.462
+SAMEA122927047,PRJEB114255,7527,,adult,7356.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2012-10-05,primary,1.0,6.26
+SAMEA122926851,PRJEB114255,7533,,adult,10353.0,male,FR,crohns_disease,Crohn's disease,,,,2012-10-30,primary,1.0,29.385
+SAMEA122926850,PRJEB114255,7535,,adult,19238.0,male,FR,crohns_disease,Crohn's disease,,,,2012-10-17,primary,1.0,17.392
+SAMEA122927270,PRJEB114255,7537,,adult,19466.0,male,FR,crohns_disease,Crohn's disease,,,,2014-02-26,primary,1.0,20.316
+SAMEA122926852,PRJEB114255,7555,,adult,6758.0,male,FR,crohns_disease,Crohn's disease,,,,2012-11-15,primary,1.0,0.338
+SAMEA122927541,PRJEB114255,7563,,adult,18588.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-06,primary,1.0,18.337
+SAMEA122926853,PRJEB114255,7583,,adult,15053.0,female,FR,crohns_disease,Crohn's disease,,,,2012-11-30,primary,1.0,10.61
+SAMEA122927049,PRJEB114255,7594,,adult,12599.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2012-12-21,primary,1.0,1.058
+SAMEA122927118,PRJEB114255,7594,,adult,15524.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-04,primary,1.0,13.568
+SAMEA122927585,PRJEB114255,7594,,adult,15217.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-09,primary,1.0,24.763
+SAMEA122927050,PRJEB114255,7614,,adult,10290.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-01-07,primary,1.0,18.481
+SAMEA122927051,PRJEB114255,7618,,adult,15617.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-01-16,primary,1.0,0.348
+SAMEA122926948,PRJEB114255,7626,,adult,12073.0,female,FR,crohns_disease,Crohn's disease,,,,2019-09-05,primary,1.0,21.454
+SAMEA122927052,PRJEB114255,7628,,elderly,28578.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-01-28,primary,1.0,1.478
+SAMEA122927053,PRJEB114255,7629,,adult,10455.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-01-28,primary,1.0,1.921
+SAMEA122927054,PRJEB114255,7637,,adult,8372.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-01-28,primary,1.0,3.391
+SAMEA122926860,PRJEB114255,7654,,adult,7395.0,female,FR,crohns_disease,Crohn's disease,,,,2013-02-13,primary,1.0,11.82
+SAMEA122927419,PRJEB114255,7658,,adult,13362.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-15,primary,1.0,14.223
+SAMEA122926861,PRJEB114255,7662,,elderly,24235.0,female,FR,crohns_disease,Crohn's disease,,,,2013-02-20,primary,1.0,14.744
+SAMEA122927257,PRJEB114255,7666,,adult,17104.0,male,FR,crohns_disease,Crohn's disease,,,,2013-03-06,primary,1.0,15.64
+SAMEA122927534,PRJEB114255,7668,,adult,8470.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-03-01,primary,1.0,5.31
+SAMEA122926862,PRJEB114255,7677,,adult,11898.0,female,FR,crohns_disease,Crohn's disease,,,,2013-03-04,primary,1.0,0.033
+SAMEA122926887,PRJEB114255,7677,,adult,12223.0,female,FR,crohns_disease,Crohn's disease,,,,2014-01-31,primary,1.0,1.478
+SAMEA122926949,PRJEB114255,7677,,adult,14286.0,female,FR,crohns_disease,Crohn's disease,,,,2019-09-18,primary,1.0,6.268
+SAMEA122927276,PRJEB114255,7677,,adult,12314.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-17,primary,1.0,37.743
+SAMEA122927265,PRJEB114255,7683,,adult,9138.0,male,FR,crohns_disease,Crohn's disease,,,,2014-02-03,primary,1.0,19.232
+SAMEA122926866,PRJEB114255,7691,,adult,14166.3,male,FR,crohns_disease,Crohn's disease,,,,2013-04-10,primary,1.0,13.861
+SAMEA122926920,PRJEB114255,7692,,adult,11125.0,male,FR,crohns_disease,Crohn's disease,,,,2018-02-13,primary,1.0,15.312
+SAMEA122927056,PRJEB114255,7693,,adult,14129.5,female,FR,ulcerative_colitis,ulcerative colitis,,,,2013-03-28,primary,1.0,26.518
+SAMEA122927399,PRJEB114255,7694,,adult,12456.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-22,primary,1.0,12.362
+SAMEA122927574,PRJEB114255,7695,,adult,11009.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-06-07,primary,1.0,13.429
+SAMEA122927311,PRJEB114255,7705,,adult,20871.0,male,FR,crohns_disease,Crohn's disease,,,,2014-07-09,primary,1.0,31.114
+SAMEA122926867,PRJEB114255,7707,,adult,7997.2,male,FR,crohns_disease,Crohn's disease,,,,2013-04-17,primary,1.0,0.134
+SAMEA122927304,PRJEB114255,7716,,adult,8590.0,male,FR,crohns_disease,Crohn's disease,,,,2014-06-04,primary,1.0,18.639
+SAMEA122927407,PRJEB114255,7719,,adult,12640.0,male,FR,crohns_disease,Crohn's disease,,,,2020-08-07,primary,1.0,24.321
+SAMEA122927610,PRJEB114255,7721,,adult,20512.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-11,primary,1.0,14.406
+SAMEA122927286,PRJEB114255,7722,,adult,9858.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-11,primary,1.0,25.179
+SAMEA122927337,PRJEB114255,7728,,adult,23154.0,male,FR,crohns_disease,Crohn's disease,,,,2018-07-18,primary,1.0,16.472
+SAMEA122927403,PRJEB114255,7728,,adult,22969.0,male,FR,crohns_disease,Crohn's disease,,,,2018-01-04,primary,1.0,21.138
+SAMEA122926931,PRJEB114255,7733,,adult,10850.0,female,FR,crohns_disease,Crohn's disease,,,,2018-12-05,primary,1.0,20.401
+SAMEA122926865,PRJEB114255,7737,,adult,6673.0,female,FR,crohns_disease,Crohn's disease,,,,2013-03-28,primary,1.0,2.11
+SAMEA122927524,PRJEB114255,7737,,adult,9937.0,female,FR,crohns_disease,Crohn's disease,,,,2021-04-16,primary,1.0,11.015
+SAMEA122926928,PRJEB114255,7739,,adult,16894.0,male,FR,crohns_disease,Crohn's disease,,,,2018-10-16,primary,1.0,11.94
+SAMEA122926969,PRJEB114255,7739,,adult,17526.0,male,FR,crohns_disease,Crohn's disease,,,,2020-08-03,primary,1.0,17.184
+SAMEA122926947,PRJEB114255,7747,,elderly,26902.0,female,FR,crohns_disease,Crohn's disease,,,,2019-09-11,primary,1.0,5.708
+SAMEA122927029,PRJEB114255,7747,,elderly,27819.0,female,FR,crohns_disease,Crohn's disease,,,,2021-05-25,primary,1.0,8.962
+SAMEA122926868,PRJEB114255,7751,,adult,8796.0,female,FR,crohns_disease,Crohn's disease,,,,2013-03-18,primary,1.0,0.079
+SAMEA122927375,PRJEB114255,7755,,adult,9393.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-22,primary,1.0,19.185
+SAMEA122926962,PRJEB114255,7762,,adult,10037.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-09,primary,1.0,24.343
+SAMEA122927075,PRJEB114255,7771,,adult,17247.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-06-05,primary,1.0,9.227
+SAMEA122927650,PRJEB114255,7771,,adult,18188.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-30,primary,1.0,16.359
+SAMEA122927269,PRJEB114255,7773,,adult,15593.0,female,FR,crohns_disease,Crohn's disease,,,,2014-02-21,primary,1.0,19.454
+SAMEA122927342,PRJEB114255,7773,,adult,17284.5,female,FR,crohns_disease,Crohn's disease,,,,2018-10-08,primary,1.0,22.102
+SAMEA122927363,PRJEB114255,7773,,adult,17826.0,female,FR,crohns_disease,Crohn's disease,,,,2020-03-04,primary,1.0,21.985
+SAMEA122927461,PRJEB114255,7773,,adult,18079.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-12,primary,1.0,16.507
+SAMEA122927057,PRJEB114255,7774,,adult,9602.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2013-04-10,primary,1.0,0.008
+SAMEA122927351,PRJEB114255,7782,,adult,10367.0,male,FR,crohns_disease,Crohn's disease,,,,2019-03-04,primary,1.0,12.308
+SAMEA122927496,PRJEB114255,7782,,adult,11038.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-16,primary,1.0,14.476
+SAMEA122927511,PRJEB114255,7782,,adult,11459.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-16,primary,1.0,11.456
+SAMEA122927104,PRJEB114255,7783,,adult,15759.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-07,primary,1.0,15.711
+SAMEA122926870,PRJEB114255,7787,,adult,9152.0,male,FR,crohns_disease,Crohn's disease,,,,2013-05-06,primary,1.0,22.43
+SAMEA122926894,PRJEB114255,7807,,adult,16208.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-21,primary,1.0,17.032
+SAMEA122927063,PRJEB114255,7821,,adult,11759.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-04,primary,1.0,22.737
+SAMEA122927660,PRJEB114255,7827,,adult,12288.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-09-15,primary,1.0,8.037
+SAMEA122927297,PRJEB114255,7876,,adult,20012.0,female,FR,crohns_disease,Crohn's disease,,,,2014-04-29,primary,1.0,16.249
+SAMEA122927434,PRJEB114255,7876,,adult,22364.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-06,primary,1.0,21.615
+SAMEA122926983,PRJEB114255,7880,,adult,14330.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-08,primary,1.0,16.518
+SAMEA122926878,PRJEB114255,7883,,adult,20627.0,female,FR,crohns_disease,Crohn's disease,,,,2013-11-29,primary,1.0,19.377
+SAMEA122926877,PRJEB114255,7890,,adult,17483.0,male,FR,crohns_disease,Crohn's disease,,,,2013-11-27,primary,1.0,22.185
+SAMEA122927366,PRJEB114255,7890,,adult,19783.0,male,FR,crohns_disease,Crohn's disease,,,,2020-03-15,primary,1.0,19.287
+SAMEA122926960,PRJEB114255,7903,,adult,14838.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-20,primary,1.0,20.262
+SAMEA122927630,PRJEB114255,7905,,adult,15079.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-27,primary,1.0,36.052
+SAMEA122927065,PRJEB114255,7917,,adult,9273.7,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-03-11,primary,1.0,17.002
+SAMEA122927559,PRJEB114255,7925,,elderly,24127.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-06-05,primary,1.0,20.174
+SAMEA122926884,PRJEB114255,7937,,adult,15883.1,female,FR,crohns_disease,Crohn's disease,,,,2014-01-14,primary,1.0,16.809
+SAMEA122927264,PRJEB114255,7949,,adult,8673.0,female,FR,crohns_disease,Crohn's disease,,,,2014-01-23,primary,1.0,22.669
+SAMEA122927616,PRJEB114255,7950,,elderly,26548.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-21,primary,1.0,19.939
+SAMEA122926885,PRJEB114255,7951,,adult,7664.0,male,FR,crohns_disease,Crohn's disease,,,,2014-01-27,primary,1.0,0.861
+SAMEA122927315,PRJEB114255,7994,,adult,11303.0,male,FR,crohns_disease,Crohn's disease,,,,2014-09-25,primary,1.0,27.445
+SAMEA122927310,PRJEB114255,8007,,adult,8699.0,female,FR,crohns_disease,Crohn's disease,,,,2014-07-10,primary,1.0,23.339
+SAMEA122927572,PRJEB114255,8014,,elderly,25403.6,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-02-20,primary,1.0,17.302
+SAMEA122926895,PRJEB114255,8016,,adult,16258.0,male,FR,crohns_disease,Crohn's disease,,,,2014-03-21,primary,1.0,20.716
+SAMEA122927067,PRJEB114255,8026,,adult,21998.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2014-04-08,primary,1.0,0.06
+SAMEA122927122,PRJEB114255,8028,,elderly,28064.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-10-04,primary,1.0,13.571
+SAMEA122927592,PRJEB114255,8028,,elderly,27412.5,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-06-23,primary,1.0,27.063
+SAMEA122927556,PRJEB114255,8044,,adult,15010.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-21,primary,1.0,21.234
+SAMEA122926966,PRJEB114255,8065,,adult,15697.9,male,FR,crohns_disease,Crohn's disease,,,,2020-07-20,primary,1.0,16.453
+SAMEA122927392,PRJEB114255,8068,,elderly,28177.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-06,primary,1.0,16.812
+SAMEA122927457,PRJEB114255,8071,,adult,9266.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-07,primary,1.0,18.547
+SAMEA122926899,PRJEB114255,8080,,adult,7445.0,female,FR,crohns_disease,Crohn's disease,,,,2014-06-24,primary,1.0,3.5
+SAMEA122927318,PRJEB114255,8080,,adult,8451.0,female,FR,crohns_disease,Crohn's disease,,,,2017-03-15,primary,1.0,20.115
+SAMEA122926940,PRJEB114255,8098,,adult,11367.0,male,FR,crohns_disease,Crohn's disease,,,,2019-05-24,primary,1.0,13.342
+SAMEA122926902,PRJEB114255,8102,,adult,9438.0,male,FR,crohns_disease,Crohn's disease,,,,2014-09-25,primary,1.0,0.009
+SAMEA122927435,PRJEB114255,8106,,adult,10186.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-08,primary,1.0,16.062
+SAMEA122926959,PRJEB114255,8133,,adult,12054.7,female,FR,crohns_disease,Crohn's disease,,,,2020-06-21,primary,1.0,22.804
+SAMEA122927108,PRJEB114255,8136,,adult,13586.6,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-16,primary,1.0,21.261
+SAMEA122926987,PRJEB114255,8137,,adult,18750.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-15,primary,1.0,15.479
+SAMEA122927469,PRJEB114255,8168,,adult,22608.0,female,FR,crohns_disease,Crohn's disease,,,,2020-11-26,primary,1.0,17.096
+SAMEA122926900,PRJEB114255,8169,,elderly,31486.0,female,FR,crohns_disease,Crohn's disease,,,,2014-08-29,primary,1.0,0.095
+SAMEA122927455,PRJEB114255,8183,,adult,17815.3,male,FR,crohns_disease,Crohn's disease,,,,2020-11-13,primary,1.0,23.424
+SAMEA122926904,PRJEB114255,8184,,adult,9793.0,male,FR,crohns_disease,Crohn's disease,,,,2014-11-07,primary,1.0,15.341
+SAMEA122927563,PRJEB114255,8186,,adult,19230.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-11-07,primary,1.0,16.689
+SAMEA122926876,PRJEB114255,820,,adult,15778.0,male,FR,crohns_disease,Crohn's disease,,,,2013-11-18,primary,1.0,17.48
+SAMEA122926905,PRJEB114255,8201,,adult,12342.0,male,FR,crohns_disease,Crohn's disease,,,,2014-12-05,primary,1.0,5.174
+SAMEA122927381,PRJEB114255,8201,,adult,14374.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-24,primary,1.0,22.895
+SAMEA122927406,PRJEB114255,8207,,adult,12902.0,female,FR,crohns_disease,Crohn's disease,,,,2020-08-07,primary,1.0,13.2
+SAMEA122927109,PRJEB114255,8265,,adult,20833.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-18,primary,1.0,15.243
+SAMEA122927589,PRJEB114255,8265,,adult,20751.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-06-07,primary,1.0,24.174
+SAMEA122927367,PRJEB114255,8274,,adult,23589.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-03,primary,1.0,22.564
+SAMEA122927070,PRJEB114255,8281,,adult,11589.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2016-09-13,primary,1.0,13.738
+SAMEA122927649,PRJEB114255,8300,,infant,61.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-28,primary,1.0,14.254
+SAMEA122927668,PRJEB114255,8319,,adult,12370.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-05-18,primary,1.0,10.074
+SAMEA122927578,PRJEB114255,8386,,adult,10393.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-07-27,primary,1.0,13.84
+SAMEA122926936,PRJEB114255,8398,,adult,16241.0,female,FR,crohns_disease,Crohn's disease,,,,2019-03-15,primary,1.0,0.058
+SAMEA122927557,PRJEB114255,840,,adult,17779.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2014-05-22,primary,1.0,28.432
+SAMEA122927095,PRJEB114255,8423,,adult,7470.6,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-02,primary,1.0,13.627
+SAMEA122927074,PRJEB114255,8424,,adult,12869.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2017-12-06,primary,1.0,0.254
+SAMEA122927575,PRJEB114255,8424,,adult,13057.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-05-15,primary,1.0,0.15
+SAMEA122927507,PRJEB114255,8425,,adult,15122.0,male,FR,crohns_disease,Crohn's disease,,,,2021-10-13,primary,1.0,9.359
+SAMEA122927335,PRJEB114255,8438,,adult,13035.8,male,FR,crohns_disease,Crohn's disease,,,,2018-06-21,primary,1.0,20.865
+SAMEA122927388,PRJEB114255,8438,,adult,13784.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-05,primary,1.0,25.209
+SAMEA122927522,PRJEB114255,8438,,adult,14395.0,male,FR,crohns_disease,Crohn's disease,,,,2021-04-05,primary,1.0,9.374
+SAMEA122927484,PRJEB114255,8441,,adult,11198.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-14,primary,1.0,27.789
+SAMEA122927497,PRJEB114255,845,,adult,20564.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-18,primary,1.0,7.522
+SAMEA122927459,PRJEB114255,8457,,adult,12867.5,male,FR,crohns_disease,Crohn's disease,,,,2020-11-09,primary,1.0,15.154
+SAMEA122927006,PRJEB114255,8465,,adult,15730.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-09,primary,1.0,31.868
+SAMEA122927350,PRJEB114255,8465,,adult,15036.0,female,FR,crohns_disease,Crohn's disease,,,,2019-01-15,primary,1.0,19.177
+SAMEA122927520,PRJEB114255,8465,,adult,16192.0,female,FR,crohns_disease,Crohn's disease,,,,2021-04-01,primary,1.0,10.22
+SAMEA122927004,PRJEB114255,8466,,adult,20548.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-11,primary,1.0,17.203
+SAMEA122927485,PRJEB114255,8473,,adult,9377.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-16,primary,1.0,23.411
+SAMEA122927379,PRJEB114255,8474,,adult,14523.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-22,primary,1.0,24.558
+SAMEA122927451,PRJEB114255,8474,,adult,14650.9,female,FR,crohns_disease,Crohn's disease,,,,2020-11-03,primary,1.0,27.457
+SAMEA122926979,PRJEB114255,8478,,adult,13528.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-02,primary,1.0,19.264
+SAMEA122927027,PRJEB114255,8478,,adult,14012.6,female,FR,crohns_disease,Crohn's disease,,,,2020-12-10,primary,1.0,11.187
+SAMEA122927020,PRJEB114255,8484,,adult,15576.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-06,primary,1.0,8.799
+SAMEA122927391,PRJEB114255,8484,,adult,14938.0,female,FR,crohns_disease,Crohn's disease,,,,2020-07-08,primary,1.0,12.429
+SAMEA122927442,PRJEB114255,8488,,adult,11467.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-14,primary,1.0,19.113
+SAMEA122927376,PRJEB114255,8497,,adult,10554.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-24,primary,1.0,25.226
+SAMEA122926950,PRJEB114255,8501,,adult,13026.0,male,FR,crohns_disease,Crohn's disease,,,,2019-11-13,primary,1.0,0.151
+SAMEA122927460,PRJEB114255,8502,,adult,11007.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-14,primary,1.0,16.586
+SAMEA122927334,PRJEB114255,8510,,adult,16502.0,male,FR,crohns_disease,Crohn's disease,,,,2018-06-20,primary,1.0,16.076
+SAMEA122927354,PRJEB114255,8510,,adult,17095.0,male,FR,crohns_disease,Crohn's disease,,,,2020-01-27,primary,1.0,22.223
+SAMEA122927089,PRJEB114255,8519,,adult,21596.1,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-02-05,primary,1.0,24.18
+SAMEA122927114,PRJEB114255,8519,,adult,21910.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-10,primary,1.0,9.666
+SAMEA122927125,PRJEB114255,8519,,adult,22371.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-02-16,primary,1.0,7.414
+SAMEA122927614,PRJEB114255,8535,,adult,19397.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-22,primary,1.0,13.299
+SAMEA122926971,PRJEB114255,8548,,adult,15439.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-10,primary,1.0,14.237
+SAMEA122927422,PRJEB114255,8552,,adult,13741.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-20,primary,1.0,12.114
+SAMEA122926924,PRJEB114255,8554,,adult,9005.0,male,FR,crohns_disease,Crohn's disease,,,,2018-04-20,primary,1.0,15.981
+SAMEA122927446,PRJEB114255,8559,,adult,14287.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-17,primary,1.0,19.493
+SAMEA122927271,PRJEB114255,856,,adult,22440.0,female,FR,crohns_disease,Crohn's disease,,,,2014-03-04,primary,1.0,17.719
+SAMEA122927426,PRJEB114255,8568,,elderly,24174.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-22,primary,1.0,15.154
+SAMEA122927332,PRJEB114255,8591,,adult,18054.0,female,FR,crohns_disease,Crohn's disease,,,,2018-05-31,primary,1.0,13.421
+SAMEA122927374,PRJEB114255,8591,,adult,18815.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-19,primary,1.0,26.058
+SAMEA122927102,PRJEB114255,8604,,adult,13231.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-10,primary,1.0,16.703
+SAMEA122927631,PRJEB114255,8608,,adult,18456.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-10,primary,1.0,17.3
+SAMEA122927346,PRJEB114255,8626,,infant,64.0,male,FR,crohns_disease,Crohn's disease,,,,2018-11-15,primary,1.0,26.221
+SAMEA122927655,PRJEB114255,8653,,adult,21708.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-04,primary,1.0,14.646
+SAMEA122927325,PRJEB114255,8660,,adult,18517.0,female,FR,crohns_disease,Crohn's disease,,,,2018-01-23,primary,1.0,16.097
+SAMEA122927333,PRJEB114255,8661,,adult,14619.0,male,FR,crohns_disease,Crohn's disease,,,,2018-06-13,primary,1.0,14.445
+SAMEA122927101,PRJEB114255,8663,,elderly,24037.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-06,primary,1.0,7.151
+SAMEA122927667,PRJEB114255,8671,,adult,19324.3,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-05-16,primary,1.0,7.126
+SAMEA122927595,PRJEB114255,8672,,adult,13475.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-08,primary,1.0,4.5
+SAMEA122927347,PRJEB114255,8677,,adult,22397.0,female,FR,crohns_disease,Crohn's disease,,,,2018-11-15,primary,1.0,16.68
+SAMEA122927357,PRJEB114255,8677,,adult,22851.0,female,FR,crohns_disease,Crohn's disease,,,,2020-02-11,primary,1.0,21.203
+SAMEA122927414,PRJEB114255,8718,,adult,10340.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-04,primary,1.0,13.547
+SAMEA122927370,PRJEB114255,8757,,adult,18680.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-06,primary,1.0,20.628
+SAMEA122927420,PRJEB114255,8761,,adult,11071.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-20,primary,1.0,19.422
+SAMEA122927504,PRJEB114255,8761,,adult,11580.6,female,FR,crohns_disease,Crohn's disease,,,,2021-01-06,primary,1.0,8.28
+SAMEA122927494,PRJEB114255,8799,,elderly,28142.8,female,FR,crohns_disease,Crohn's disease,,,,2021-01-15,primary,1.0,29.047
+SAMEA122927098,PRJEB114255,8803,,adult,12313.6,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-05,primary,1.0,18.105
+SAMEA122927582,PRJEB114255,8803,,adult,12084.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-02-15,primary,1.0,18.744
+SAMEA122927009,PRJEB114255,8815,,adult,12409.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-14,primary,1.0,4.134
+SAMEA122927031,PRJEB114255,8815,,adult,12875.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-14,primary,1.0,4.325
+SAMEA122927474,PRJEB114255,8816,,adult,9184.0,male,FR,crohns_disease,Crohn's disease,,,,2020-11-30,primary,1.0,14.496
+SAMEA122927505,PRJEB114255,8816,,adult,9629.0,male,FR,crohns_disease,Crohn's disease,,,,2021-10-08,primary,1.0,0.479
+SAMEA122927617,PRJEB114255,8831,,elderly,24844.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-22,primary,1.0,15.585
+SAMEA122927011,PRJEB114255,8837,,adult,11022.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-18,primary,1.0,6.42
+SAMEA122927025,PRJEB114255,8844,,adult,22186.0,female,FR,crohns_disease,Crohn's disease,,,,2021-03-02,primary,1.0,10.702
+SAMEA122927433,PRJEB114255,8855,,elderly,24143.5,female,FR,crohns_disease,Crohn's disease,,,,2020-10-05,primary,1.0,12.049
+SAMEA122927609,PRJEB114255,8857,,adult,12669.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-08,primary,1.0,11.018
+SAMEA122926828,PRJEB114255,8862,,elderly,29917.0,female,FR,crohns_disease,Crohn's disease,,,,2016-07-12,primary,1.0,31.77
+SAMEA122926910,PRJEB114255,8868,,adult,13323.0,female,FR,crohns_disease,Crohn's disease,,,,2016-07-07,primary,1.0,15.94
+SAMEA122927429,PRJEB114255,8898,,adult,16683.8,female,FR,crohns_disease,Crohn's disease,,,,2020-09-23,primary,1.0,19.673
+SAMEA122927516,PRJEB114255,8898,,adult,17210.0,female,FR,crohns_disease,Crohn's disease,,,,2021-02-15,primary,1.0,8.443
+SAMEA122927328,PRJEB114255,8900,,adult,16037.0,female,FR,crohns_disease,Crohn's disease,,,,2018-04-11,primary,1.0,9.893
+SAMEA122927665,PRJEB114255,8906,,adult,15770.2,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-21,primary,1.0,8.58
+SAMEA122926929,PRJEB114255,8924,,adult,21822.0,female,FR,crohns_disease,Crohn's disease,,,,2018-09-13,primary,1.0,10.866
+SAMEA122927577,PRJEB114255,8937,,adult,18562.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-07-11,primary,1.0,19.299
+SAMEA122927378,PRJEB114255,8940,,adult,16567.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-25,primary,1.0,20.352
+SAMEA122926975,PRJEB114255,8945,,adult,21841.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-15,primary,1.0,11.374
+SAMEA122927417,PRJEB114255,8953,,adult,10199.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-14,primary,1.0,13.848
+SAMEA122926957,PRJEB114255,8954,,adult,20363.0,male,FR,crohns_disease,Crohn's disease,,,,2020-06-16,primary,1.0,18.174
+SAMEA122927076,PRJEB114255,8955,,adult,9585.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-06-12,primary,1.0,24.329
+SAMEA122927128,PRJEB114255,8964,,elderly,26327.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-08-03,primary,1.0,7.532
+SAMEA122927079,PRJEB114255,8967,,adult,7968.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-03,primary,1.0,19.299
+SAMEA122927615,PRJEB114255,8967,,adult,8654.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-19,primary,1.0,20.973
+SAMEA122926913,PRJEB114255,8977,,adult,7053.0,female,FR,crohns_disease,Crohn's disease,,,,2017-02-12,primary,1.0,18.008
+SAMEA122926927,PRJEB114255,8977,,adult,7586.0,female,FR,crohns_disease,Crohn's disease,,,,2018-08-02,primary,1.0,12.607
+SAMEA122927090,PRJEB114255,8978,,adult,13854.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-07,primary,1.0,26.404
+SAMEA122927525,PRJEB114255,9028,,adult,14215.0,female,FR,crohns_disease,Crohn's disease,,,,2021-05-04,primary,1.0,10.468
+SAMEA122927072,PRJEB114255,9043,,adult,19960.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2017-03-15,primary,1.0,0.022
+SAMEA122927005,PRJEB114255,9048,,infant,38.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-09,primary,1.0,11.824
+SAMEA122927083,PRJEB114255,9063,,adult,8818.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2019-01-17,primary,1.0,0.01
+SAMEA122927509,PRJEB114255,9077,,adult,12120.0,female,FR,crohns_disease,Crohn's disease,,,,2021-10-18,primary,1.0,10.843
+SAMEA122927643,PRJEB114255,9092,,adult,14822.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-08,primary,1.0,17.54
+SAMEA122927599,PRJEB114255,9144,,elderly,24997.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-07-24,primary,1.0,10.566
+SAMEA122926939,PRJEB114255,9145,,adult,9606.3,female,FR,crohns_disease,Crohn's disease,,,,2019-05-24,primary,1.0,1.889
+SAMEA122927418,PRJEB114255,9145,,adult,10091.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-09,primary,1.0,20.552
+SAMEA122927512,PRJEB114255,9145,,adult,10639.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-16,primary,1.0,9.726
+SAMEA122927071,PRJEB114255,9146,,adult,12149.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2017-01-18,primary,1.0,0.112
+SAMEA122927329,PRJEB114255,9155,,adult,10361.0,male,FR,crohns_disease,Crohn's disease,,,,2018-03-08,primary,1.0,14.902
+SAMEA122926917,PRJEB114255,9216,,adult,12523.0,female,FR,crohns_disease,Crohn's disease,,,,2017-03-15,primary,1.0,16.369
+SAMEA122927488,PRJEB114255,9229,,adult,11496.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-04,primary,1.0,18.972
+SAMEA122926930,PRJEB114255,9233,,adult,7722.0,male,FR,crohns_disease,Crohn's disease,,,,2018-10-30,primary,1.0,20.632
+SAMEA122927327,PRJEB114255,9241,,elderly,24766.0,male,FR,crohns_disease,Crohn's disease,,,,2018-04-05,primary,1.0,24.676
+SAMEA122927477,PRJEB114255,9259,,adult,17347.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-04,primary,1.0,16.952
+SAMEA122927453,PRJEB114255,9260,,adult,8782.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-31,primary,1.0,23.974
+SAMEA122927588,PRJEB114255,9313,,adult,10919.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-03-14,primary,1.0,22.271
+SAMEA122927416,PRJEB114255,9350,,adult,8031.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-10,primary,1.0,18.66
+SAMEA122927514,PRJEB114255,9365,,adult,8552.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-22,primary,1.0,8.394
+SAMEA122926918,PRJEB114255,9386,,adult,8080.0,male,FR,crohns_disease,Crohn's disease,,,,2017-12-04,primary,1.0,24.155
+SAMEA122926951,PRJEB114255,9388,,adult,13562.0,male,FR,crohns_disease,Crohn's disease,,,,2019-09-26,primary,1.0,24.445
+SAMEA122926925,PRJEB114255,9401,,adult,10560.0,female,FR,crohns_disease,Crohn's disease,,,,2018-06-13,primary,1.0,15.625
+SAMEA122927103,PRJEB114255,9410,,adult,12627.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-09,primary,1.0,18.867
+SAMEA122927424,PRJEB114255,9425,,adult,12724.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-20,primary,1.0,17.189
+SAMEA122927438,PRJEB114255,9429,,adult,11623.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-11,primary,1.0,19.043
+SAMEA122927604,PRJEB114255,9432,,adult,11198.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-08-12,primary,1.0,18.044
+SAMEA122927571,PRJEB114255,9434,,adult,17015.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-01-18,primary,1.0,28.201
+SAMEA122927606,PRJEB114255,9434,,adult,18003.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-08-28,primary,1.0,15.013
+SAMEA122927096,PRJEB114255,9443,,adult,23064.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-22,primary,1.0,13.069
+SAMEA122927123,PRJEB114255,9460,,adult,10348.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2021-01-09,primary,1.0,9.356
+SAMEA122927023,PRJEB114255,9461,,adult,10518.0,female,FR,crohns_disease,Crohn's disease,,,,2021-01-30,primary,1.0,11.859
+SAMEA122926943,PRJEB114255,9469,,adult,11341.0,male,FR,crohns_disease,Crohn's disease,,,,2019-06-03,primary,1.0,18.359
+SAMEA122927323,PRJEB114255,9469,,adult,10776.0,male,FR,crohns_disease,Crohn's disease,,,,2017-11-27,primary,1.0,15.089
+SAMEA122927492,PRJEB114255,9472,,adult,10524.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-11,primary,1.0,13.352
+SAMEA122927394,PRJEB114255,9473,,adult,15048.0,male,FR,crohns_disease,Crohn's disease,,,,2020-07-11,primary,1.0,17.415
+SAMEA122927499,PRJEB114255,9473,,adult,15672.4,male,FR,crohns_disease,Crohn's disease,,,,2020-12-19,primary,1.0,10.188
+SAMEA122927073,PRJEB114255,9509,,adult,10783.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2017-11-22,primary,1.0,3.034
+SAMEA122927640,PRJEB114255,9509,,adult,11883.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-03,primary,1.0,13.304
+SAMEA122927082,PRJEB114255,9513,,adult,12347.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-12,primary,1.0,3.134
+SAMEA122926955,PRJEB114255,9556,,adult,11080.8,female,FR,crohns_disease,Crohn's disease,,,,2020-06-07,primary,1.0,23.542
+SAMEA122927490,PRJEB114255,9561,,adult,12448.0,male,FR,crohns_disease,Crohn's disease,,,,2021-01-07,primary,1.0,19.814
+SAMEA122927355,PRJEB114255,9565,,adult,9205.0,female,FR,crohns_disease,Crohn's disease,,,,2020-02-01,primary,1.0,28.618
+SAMEA122926993,PRJEB114255,9592,,adult,7681.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-25,primary,1.0,28.896
+SAMEA122927024,PRJEB114255,9592,,adult,8181.0,female,FR,crohns_disease,Crohn's disease,,,,2021-02-22,primary,1.0,11.376
+SAMEA122927301,PRJEB114255,960,,elderly,29674.0,male,FR,crohns_disease,Crohn's disease,,,,2014-05-15,primary,1.0,11.142
+SAMEA122927080,PRJEB114255,9635,,adult,21235.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-05,primary,1.0,3.227
+SAMEA122926937,PRJEB114255,9668,,adult,11102.2,male,FR,crohns_disease,Crohn's disease,,,,2019-03-27,primary,1.0,21.211
+SAMEA122927483,PRJEB114255,9703,,elderly,27696.0,male,FR,crohns_disease,Crohn's disease,,,,2020-12-14,primary,1.0,21.748
+SAMEA122927402,PRJEB114255,9718,,adult,15650.4,male,FR,crohns_disease,Crohn's disease,,,,2020-07-27,primary,1.0,18.821
+SAMEA122926935,PRJEB114255,9720,,adult,11655.0,female,FR,crohns_disease,Crohn's disease,,,,2019-01-11,primary,1.0,0.32
+SAMEA122927126,PRJEB114255,9722,,adult,16092.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2021-03-14,primary,1.0,9.707
+SAMEA122926921,PRJEB114255,9734,,adult,21609.0,male,FR,crohns_disease,Crohn's disease,,,,2018-04-04,primary,1.0,16.116
+SAMEA122926954,PRJEB114255,9734,,adult,22278.0,male,FR,crohns_disease,Crohn's disease,,,,2020-02-12,primary,1.0,17.119
+SAMEA122927642,PRJEB114255,9750,,adult,8443.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-11,primary,1.0,23.25
+SAMEA122926958,PRJEB114255,9769,,adult,9901.0,female,FR,crohns_disease,Crohn's disease,,,,2020-06-19,primary,1.0,18.684
+SAMEA122926990,PRJEB114255,9769,,adult,10061.0,female,FR,crohns_disease,Crohn's disease,,,,2020-10-22,primary,1.0,23.303
+SAMEA122927030,PRJEB114255,9791,,adult,9937.0,female,FR,crohns_disease,Crohn's disease,,,,2020-12-14,primary,1.0,11.847
+SAMEA122927613,PRJEB114255,9831,,adult,12659.7,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-09-18,primary,1.0,15.549
+SAMEA122927628,PRJEB114255,9867,,adult,6670.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-28,primary,1.0,21.863
+SAMEA122927087,PRJEB114255,9889,,adolescent,6331.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2019-09-24,primary,1.0,22.243
+SAMEA122927078,PRJEB114255,9896,,adult,11361.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-06,primary,1.0,1.431
+SAMEA122926945,PRJEB114255,9906,,adult,12349.0,female,FR,crohns_disease,Crohn's disease,,,,2019-07-01,primary,1.0,18.178
+SAMEA122927428,PRJEB114255,9909,,adult,7537.0,male,FR,crohns_disease,Crohn's disease,,,,2020-09-24,primary,1.0,19.707
+SAMEA122926991,PRJEB114255,9910,,adult,13022.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-21,primary,1.0,22.301
+SAMEA122927088,PRJEB114255,9913,,adult,7288.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-01-29,primary,1.0,7.121
+SAMEA122927635,PRJEB114255,9914,,adult,9061.3,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-11-22,primary,1.0,14.38
+SAMEA122927411,PRJEB114255,9920,,adult,10960.0,female,FR,crohns_disease,Crohn's disease,,,,2020-09-04,primary,1.0,10.86
+SAMEA122927099,PRJEB114255,9935,,adult,15149.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-05,primary,1.0,13.796
+SAMEA122926963,PRJEB114255,9961,,adult,13093.6,female,FR,crohns_disease,Crohn's disease,,,,2020-07-08,primary,1.0,17.706
+SAMEA122927641,PRJEB114255,9966,,adult,7413.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2020-12-06,primary,1.0,20.037
+SAMEA122927444,PRJEB114255,9975,,adult,11234.0,male,FR,crohns_disease,Crohn's disease,,,,2020-10-18,primary,1.0,8.149
+SAMEA122927627,PRJEB114255,9976,,adult,7151.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-15,primary,1.0,22.375
+SAMEA122927100,PRJEB114255,9980,,adult,7630.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,2020-10-05,primary,1.0,17.552
+SAMEA122927077,PRJEB114255,9999,,adult,21660.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,2018-12-06,primary,1.0,8.23
+SAMEA122927129,PRJEB114255,,,adult,14124.0,female,FR,ulcerative_colitis,ulcerative colitis,,,,,primary,1.0,9.279
+SAMEA122927130,PRJEB114255,,,adult,16011.0,male,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,1.818
+SAMEA122927131,PRJEB114255,,,adult,21756.0,male,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,8.21
+SAMEA122927132,PRJEB114255,,,adult,21485.0,female,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,8.188
+SAMEA122927133,PRJEB114255,,,adult,8069.0,female,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,6.731
+SAMEA122927134,PRJEB114255,,,adult,11840.0,female,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,9.204
+SAMEA122927135,PRJEB114255,,,adult,11328.0,female,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,7.709
+SAMEA122927137,PRJEB114255,,,adult,21781.0,male,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,9.126
+SAMEA122927138,PRJEB114255,,,adult,,male,FR,crohns_disease,Crohn's disease,,,,,primary,1.0,9.159
+SAMEA122927139,PRJEB114255,,,adult,9496.5,female,FR,healthy_control,healthy,,,,,primary,1.0,8.346
+SAMEA122927140,PRJEB114255,,,adult,12783.8,male,FR,healthy_control,healthy,,,,,primary,1.0,9.628
+SAMEA122927141,PRJEB114255,,,adult,15696.8,female,FR,healthy_control,healthy,,,,,primary,1.0,11.561
+SAMEA122927142,PRJEB114255,,,adult,13878.5,female,FR,healthy_control,healthy,,,,,primary,1.0,9.242
+SAMEA122927143,PRJEB114255,,,adult,12783.8,female,FR,healthy_control,healthy,,,,,primary,1.0,10.026
+SAMEA122927144,PRJEB114255,,,adult,23376.0,female,FR,healthy_control,healthy,,,,,primary,1.0,9.094
+SAMEA122927145,PRJEB114255,,,adult,22280.2,female,FR,healthy_control,healthy,,,,,primary,1.0,12.433
+SAMEA122927146,PRJEB114255,,,adult,15330.0,female,FR,healthy_control,healthy,,,,,primary,1.0,10.559
+SAMEA122927147,PRJEB114255,,,adult,15330.0,male,FR,healthy_control,healthy,,,,,primary,1.0,8.997
+SAMEA122927148,PRJEB114255,,,adult,17151.0,female,FR,healthy_control,healthy,,,,,primary,1.0,7.105
+SAMEA122927149,PRJEB114255,,,adult,18262.5,female,FR,healthy_control,healthy,,,,,primary,1.0,9.208
+SAMEA122927150,PRJEB114255,,,adult,20088.8,male,FR,healthy_control,healthy,,,,,primary,1.0,11.597
+SAMEA122927151,PRJEB114255,,,adult,7305.0,female,FR,healthy_control,healthy,,,,,primary,1.0,11.693
+SAMEA122927152,PRJEB114255,,,adult,11312.8,male,FR,healthy_control,healthy,,,,,primary,1.0,11.288
+SAMEA122927153,PRJEB114255,,,adult,20088.8,male,FR,healthy_control,healthy,,,,,primary,1.0,10.649
+SAMEA122927154,PRJEB114255,,,adult,13149.0,female,FR,healthy_control,healthy,,,,,primary,1.0,8.734
+SAMEA122927155,PRJEB114255,,,adult,19358.2,male,FR,healthy_control,healthy,,,,,primary,1.0,8.79
+SAMEA122927156,PRJEB114255,,,adult,21549.8,female,FR,healthy_control,healthy,,,,,primary,1.0,8.19
+SAMEA122927157,PRJEB114255,,,adult,13878.5,female,FR,healthy_control,healthy,,,,,primary,1.0,10.217
+SAMEA122927158,PRJEB114255,,,adult,18993.0,female,FR,healthy_control,healthy,,,,,primary,1.0,10.465
+SAMEA122927159,PRJEB114255,,,adult,21549.8,female,FR,healthy_control,healthy,,,,,primary,1.0,8.7
+SAMEA122927160,PRJEB114255,,,adult,14975.2,female,FR,healthy_control,healthy,,,,,primary,1.0,6.968
+SAMEA122927161,PRJEB114255,,,adult,22627.0,female,FR,healthy_control,healthy,,,,,primary,1.0,8.108
+SAMEA122927162,PRJEB114255,,,adult,22627.0,female,FR,healthy_control,healthy,,,,,primary,1.0,8.588
+SAMEA122927163,PRJEB114255,,,adult,14239.8,male,FR,healthy_control,healthy,,,,,primary,1.0,7.278
+SAMEA122927164,PRJEB114255,,,adult,20434.0,male,FR,healthy_control,healthy,,,,,primary,1.0,7.994
+SAMEA122927165,PRJEB114255,,,adult,12043.2,female,FR,healthy_control,healthy,,,,,primary,1.0,9.821
+SAMEA122927166,PRJEB114255,,,adult,17532.0,male,FR,healthy_control,healthy,,,,,primary,1.0,11.581
+SAMEA122927167,PRJEB114255,,,adult,6939.0,female,FR,healthy_control,healthy,,,,,primary,1.0,7.661
+SAMEA122927168,PRJEB114255,,,adult,17151.0,female,FR,healthy_control,healthy,,,,,primary,1.0,8.322
+SAMEA122927169,PRJEB114255,,,elderly,24106.5,female,FR,healthy_control,healthy,,,,,primary,1.0,7.316
+SAMEA122927170,PRJEB114255,,,adult,14610.0,female,FR,healthy_control,healthy,,,,,primary,1.0,8.968
+SAMEA122927171,PRJEB114255,,,adult,14610.0,male,FR,healthy_control,healthy,,,,,primary,1.0,11.02
+SAMEA122927172,PRJEB114255,,,adult,14610.0,female,FR,healthy_control,healthy,,,,,primary,1.0,7.945
+SAMEA122927173,PRJEB114255,,,adult,21915.0,male,FR,healthy_control,healthy,,,,,primary,1.0,7.943
+SAMEA122927174,PRJEB114255,,,adult,13504.0,male,FR,healthy_control,healthy,,,,,primary,1.0,6.644
+SAMEA122927175,PRJEB114255,,,adult,8035.5,female,FR,healthy_control,healthy,,,,,primary,1.0,10.642
+SAMEA122927176,PRJEB114255,,,adult,9857.0,female,FR,healthy_control,healthy,,,,,primary,1.0,11.413
+SAMEA122927177,PRJEB114255,,,adult,10234.0,female,FR,healthy_control,healthy,,,,,primary,1.0,11.827
+SAMEA122927178,PRJEB114255,,,adult,12043.2,male,FR,healthy_control,healthy,,,,,primary,1.0,8.211
+SAMEA122927179,PRJEB114255,,,adult,9857.0,male,FR,healthy_control,healthy,,,,,primary,1.0,8.025
+SAMEA122927180,PRJEB114255,,,adult,14610.0,male,FR,healthy_control,healthy,,,,,primary,1.0,10.709
+SAMEA122927181,PRJEB114255,,,adult,9857.0,female,FR,healthy_control,healthy,,,,,primary,1.0,9.983
+SAMEA122927182,PRJEB114255,,,adult,11688.0,male,FR,healthy_control,healthy,,,,,primary,1.0,6.974
+SAMEA122927183,PRJEB114255,,,adult,12783.8,male,FR,healthy_control,healthy,,,,,primary,1.0,16.554
+SAMEA122927184,PRJEB114255,,,adolescent,5113.5,male,FR,healthy_control,healthy,,,,,primary,1.0,19.665
+SAMEA122927185,PRJEB114255,,,adult,17897.2,female,FR,healthy_control,healthy,,,,,primary,1.0,18.72
+SAMEA122927186,PRJEB114255,,,adult,10957.5,male,FR,healthy_control,healthy,,,,,primary,1.0,20.343
+SAMEA122927187,PRJEB114255,,,adult,,,FR,healthy_control,healthy,,,,,primary,1.0,21.191
+SAMEA122927188,PRJEB114255,,,adult,,,FR,healthy_control,healthy,,,,,primary,1.0,18.253
+SAMEA122927189,PRJEB114255,,,adult,20434.0,male,FR,healthy_control,healthy,,,,,primary,1.0,18.997
+SAMEA122927190,PRJEB114255,,,adult,,,FR,healthy_control,healthy,,,,,primary,1.0,15.224
+SAMEA122927191,PRJEB114255,,,adult,10234.0,female,FR,healthy_control,healthy,,,,,primary,1.0,17.987
+SAMEA122927192,PRJEB114255,,,elderly,25190.0,male,FR,healthy_control,healthy,,,,,primary,1.0,18.09
+SAMEA122927193,PRJEB114255,,,adult,22280.2,female,FR,healthy_control,healthy,,,,,primary,1.0,16.988
+SAMEA122927194,PRJEB114255,,,adult,11688.0,female,FR,healthy_control,healthy,,,,,primary,1.0,14.191
+SAMEA122927195,PRJEB114255,,,adult,12417.9,female,FR,healthy_control,healthy,,,,,primary,1.0,20.064
+SAMEA122927196,PRJEB114255,,,adult,9857.0,female,FR,healthy_control,healthy,,,,,primary,1.0,17.146
+SAMEA122927197,PRJEB114255,,,adult,10957.5,male,FR,healthy_control,healthy,,,,,primary,1.0,17.89
+SAMEA122927198,PRJEB114255,,,adult,13878.5,male,FR,healthy_control,healthy,,,,,primary,1.0,20.81
+SAMEA122927199,PRJEB114255,,,adult,12043.2,female,FR,healthy_control,healthy,,,,,primary,1.0,18.775
+SAMEA122927200,PRJEB114255,,,adult,16069.0,female,FR,healthy_control,healthy,,,,,primary,1.0,19.551
+SAMEA122927201,PRJEB114255,,,adult,18993.0,female,FR,healthy_control,healthy,,,,,primary,1.0,27.345
+SAMEA122927202,PRJEB114255,,,adult,8766.0,male,FR,healthy_control,healthy,,,,,primary,1.0,18.858
+SAMEA122927203,PRJEB114255,,,adult,10234.0,female,FR,healthy_control,healthy,,,,,primary,1.0,23.253
+SAMEA122927204,PRJEB114255,,,adult,12043.2,male,FR,healthy_control,healthy,,,,,primary,1.0,18.797
+SAMEA122927205,PRJEB114255,,,adult,12783.8,female,FR,healthy_control,healthy,,,,,primary,1.0,18.825
+SAMEA122927206,PRJEB114255,,,adult,17897.2,female,FR,healthy_control,healthy,,,,,primary,1.0,16.811
+SAMEA122927207,PRJEB114255,,,adult,16791.5,female,FR,healthy_control,healthy,,,,,primary,1.0,17.778
+SAMEA122927208,PRJEB114255,,,adult,8391.0,female,FR,healthy_control,healthy,,,,,primary,1.0,16.054
+SAMEA122927209,PRJEB114255,,,adult,11688.0,female,FR,healthy_control,healthy,,,,,primary,1.0,18.577
+SAMEA122927210,PRJEB114255,,,adult,13504.0,female,FR,healthy_control,healthy,,,,,primary,1.0,16.729
+SAMEA122927211,PRJEB114255,,,adult,10234.0,female,FR,healthy_control,healthy,,,,,primary,1.0,24.734
+SAMEA122927212,PRJEB114255,,,adult,18627.8,female,FR,healthy_control,healthy,,,,,primary,1.0,19.091
+SAMEA122927213,PRJEB114255,,,adult,12417.9,female,FR,healthy_control,healthy,,,,,primary,1.0,18.26
+SAMEA122927214,PRJEB114255,,,adult,,female,FR,healthy_control,healthy,,,,,primary,1.0,17.894
+SAMEA122927215,PRJEB114255,,,adult,18993.0,male,FR,healthy_control,healthy,,,,,primary,1.0,16.043
+SAMEA122927216,PRJEB114255,,,adult,10234.0,female,FR,healthy_control,healthy,,,,,primary,1.0,13.471
+SAMEA122927217,PRJEB114255,,,adult,14239.8,female,FR,healthy_control,healthy,,,,,primary,1.0,28.162
+SAMEA122927218,PRJEB114255,,,adult,22980.8,female,FR,healthy_control,healthy,,,,,primary,1.0,24.484
+SAMEA122927219,PRJEB114255,,,adult,17151.0,female,FR,healthy_control,healthy,,,,,primary,1.0,21.921
+SAMEA122927220,PRJEB114255,,,adult,19706.0,female,FR,healthy_control,healthy,,,,,primary,1.0,31.349
+SAMEA122927221,PRJEB114255,,,adult,20088.8,female,FR,healthy_control,healthy,,,,,primary,1.0,16.756
+SAMEA122927222,PRJEB114255,,,adult,12043.2,female,FR,healthy_control,healthy,,,,,primary,1.0,17.068
+SAMEA122927223,PRJEB114255,,,adult,18993.0,female,FR,healthy_control,healthy,,,,,primary,1.0,18.905
+SAMEA122927224,PRJEB114255,,,adult,18627.8,female,FR,healthy_control,healthy,,,,,primary,1.0,15.033
+SAMEA122927225,PRJEB114255,,,adult,18993.0,female,FR,healthy_control,healthy,,,,,primary,1.0,23.406
+SAMEA122927226,PRJEB114255,,,adult,8035.5,male,FR,healthy_control,healthy,,,,,primary,1.0,21.49
+SAMEA122927227,PRJEB114255,,,adult,11688.0,male,FR,healthy_control,healthy,,,,,primary,1.0,22.246
+SAMEA122927228,PRJEB114255,,,adult,13878.5,male,FR,healthy_control,healthy,,,,,primary,1.0,25.909
+SAMEA122927229,PRJEB114255,,,adult,13504.0,male,FR,healthy_control,healthy,,,,,primary,1.0,19.213
+SAMEA122927230,PRJEB114255,,,adult,13504.0,female,FR,healthy_control,healthy,,,,,primary,1.0,14.303
+SAMEA122927231,PRJEB114255,,,adult,,,FR,healthy_control,healthy,,,,,primary,1.0,23.218
+SAMEA122927232,PRJEB114255,,,adult,9857.0,male,FR,healthy_control,healthy,,,,,primary,1.0,25.8
+SAMEA122927233,PRJEB114255,,,elderly,24837.0,male,FR,healthy_control,healthy,,,,,primary,1.0,21.109
+SAMEA122927234,PRJEB114255,,,adult,19706.0,female,FR,healthy_control,healthy,,,,,primary,1.0,21.171
+SAMEA122927235,PRJEB114255,,,adult,18993.0,female,FR,healthy_control,healthy,,,,,primary,1.0,19.293
+SAMEA122927236,PRJEB114255,,,adult,8766.0,female,FR,healthy_control,healthy,,,,,primary,1.0,16.931
+SAMEA122927237,PRJEB114255,,,adult,7268.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,,primary,1.0,10.119
+SAMEA122927238,PRJEB114255,,,adult,15525.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,,primary,1.0,7.292
+SAMEA122927240,PRJEB114255,,,adult,16923.0,male,FR,ulcerative_colitis,ulcerative colitis,,,,,primary,1.0,10.65

@@ -1,0 +1,646 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMD00164694,PRJDB4176,00001,,elderly,25202.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.946
+SAMD00115014,PRJDB4176,10021,,adult,20819.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.595
+SAMD00115015,PRJDB4176,10023,,adult,23741.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.883
+SAMD00115025,PRJDB4176,10025,,adult,14610.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.736
+SAMD00115027,PRJDB4176,10029,,elderly,24471.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.026
+SAMD00164695,PRJDB4176,10030,,adult,21184.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.841
+SAMD00164696,PRJDB4176,10030,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.565
+SAMD00114971,PRJDB4176,10031,,elderly,28124.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.023
+SAMD00114972,PRJDB4176,10033,,adult,19723.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.972
+SAMD00115039,PRJDB4176,10034,,elderly,27028.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,9.092
+SAMD00114968,PRJDB4176,10036,,adult,23376.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.357
+SAMD00114970,PRJDB4176,10037,,elderly,24090.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,8.183
+SAMD00115016,PRJDB4176,10038,,elderly,24106.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.05
+SAMD00115017,PRJDB4176,10040,,elderly,24106.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,2.087
+SAMD00115019,PRJDB4176,10046,,adult,23741.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.506
+SAMD00115021,PRJDB4176,10047,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.911
+SAMD00115023,PRJDB4176,10048,,elderly,28102.5,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.559
+SAMD00114973,PRJDB4176,10052,,adult,23741.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,9.627
+SAMD00114969,PRJDB4176,10055,,adult,20454.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.956
+SAMD00115018,PRJDB4176,10058,,adult,21549.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,9.171
+SAMD00115020,PRJDB4176,10059,,elderly,25169.2,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.515
+SAMD00115022,PRJDB4176,10060,,elderly,26663.2,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.51
+SAMD00115024,PRJDB4176,10061,,adult,14975.2,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,8.141
+SAMD00115064,PRJDB4176,10066,,adult,20454.0,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,5.466
+SAMD00115029,PRJDB4176,10067,,adult,23376.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.727
+SAMD00115072,PRJDB4176,10067,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,6.407
+SAMD00115026,PRJDB4176,10073,,elderly,25932.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.15
+SAMD00115028,PRJDB4176,10074,,adult,22280.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.854
+SAMD00115060,PRJDB4176,10076,,elderly,26663.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,9.72
+SAMD00115061,PRJDB4176,10077,,elderly,25202.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.407
+SAMD00115062,PRJDB4176,10078,,elderly,24837.0,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.351
+SAMD00114997,PRJDB4176,10080,,elderly,27004.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.919
+SAMD00115030,PRJDB4176,10081,,adult,23741.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.763
+SAMD00115063,PRJDB4176,10084,,elderly,25567.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.653
+SAMD00114999,PRJDB4176,10089,,adult,19723.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,8.298
+SAMD00115031,PRJDB4176,10091,,elderly,25567.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.573
+SAMD00115082,PRJDB4176,10091,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,5.68
+SAMD00115032,PRJDB4176,10092,,elderly,28854.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.63
+SAMD00115065,PRJDB4176,10096,,elderly,25202.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.701
+SAMD00115034,PRJDB4176,10097,,adult,22645.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.203
+SAMD00115073,PRJDB4176,10097,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,8.778
+SAMD00115035,PRJDB4176,10099,,adult,18614.0,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.927
+SAMD00115089,PRJDB4176,10099,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,7.788
+SAMD00114998,PRJDB4176,10100,,elderly,25567.5,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.121
+SAMD00115000,PRJDB4176,10103,,adult,20088.8,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.727
+SAMD00115088,PRJDB4176,10103,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,7.08
+SAMD00114995,PRJDB4176,10105,,elderly,24106.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.58
+SAMD00114996,PRJDB4176,10106,,elderly,26298.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.604
+SAMD00115033,PRJDB4176,10107,,elderly,25567.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.885
+SAMD00114801,PRJDB4176,10109,,elderly,25202.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,4.653
+SAMD00114735,PRJDB4176,10111,,elderly,24471.8,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.438
+SAMD00114736,PRJDB4176,10114,,adult,20089.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.115
+SAMD00115036,PRJDB4176,10115,,adult,14610.0,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,4.981
+SAMD00114737,PRJDB4176,10118,,adult,22645.5,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,2.124
+SAMD00115083,PRJDB4176,10118,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,7.154
+SAMD00114738,PRJDB4176,10119,,elderly,27759.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.393
+SAMD00115037,PRJDB4176,10120,,adult,13879.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,4.947
+SAMD00114739,PRJDB4176,10124,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.759
+SAMD00114744,PRJDB4176,10126,,adult,18993.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.836
+SAMD00115068,PRJDB4176,10126,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,5.569
+SAMD00114745,PRJDB4176,10132,,adult,18262.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,4.338
+SAMD00114746,PRJDB4176,10134,,adult,23010.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.986
+SAMD00114747,PRJDB4176,10135,,adult,23741.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.622
+SAMD00114831,PRJDB4176,10138,,elderly,26298.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.384
+SAMD00114748,PRJDB4176,10140,,adult,23376.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.67
+SAMD00114832,PRJDB4176,10144,,elderly,28124.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.156
+SAMD00114740,PRJDB4176,10147,,adult,18627.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.317
+SAMD00115067,PRJDB4176,10147,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,3.279
+SAMD00114741,PRJDB4176,10150,,elderly,28489.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,10.671
+SAMD00114833,PRJDB4176,10151,,adult,21549.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.805
+SAMD00114742,PRJDB4176,10152,,elderly,24471.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.007
+SAMD00114743,PRJDB4176,10154,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.946
+SAMD00114757,PRJDB4176,10158,,adult,22280.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,9.107
+SAMD00114758,PRJDB4176,10161,,adult,18627.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,9.284
+SAMD00114759,PRJDB4176,10165,,elderly,25932.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.709
+SAMD00114760,PRJDB4176,10168,,elderly,28489.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,2.161
+SAMD00114834,PRJDB4176,10169,,elderly,27759.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.865
+SAMD00164708,PRJDB4176,10170,,adult,22280.2,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.042
+SAMD00114761,PRJDB4176,10171,,adult,10957.0,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,10.774
+SAMD00114762,PRJDB4176,10177,,elderly,24471.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.276
+SAMD00114763,PRJDB4176,10178,,elderly,25169.2,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,8.117
+SAMD00114802,PRJDB4176,10182,,adult,18993.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.096
+SAMD00114815,PRJDB4176,10183,,elderly,24837.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.401
+SAMD00114764,PRJDB4176,10185,,adult,23741.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.855
+SAMD00115079,PRJDB4176,10185,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,3.645
+SAMD00114974,PRJDB4176,10188,,elderly,25922.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.965
+SAMD00114755,PRJDB4176,10191,,adult,21549.8,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.291
+SAMD00114756,PRJDB4176,10193,,adult,21184.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,9.472
+SAMD00164713,PRJDB4176,10194,,adult,15340.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,2.276
+SAMD00114765,PRJDB4176,10195,,adult,20819.2,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,8.506
+SAMD00136653,PRJDB4176,10197,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,4.161
+SAMD00114978,PRJDB4176,10198,,elderly,27759.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.228
+SAMD00114766,PRJDB4176,10199,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.693
+SAMD00115069,PRJDB4176,10199,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,5.426
+SAMD00114979,PRJDB4176,10200,,adult,17897.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.202
+SAMD00114767,PRJDB4176,10201,,adult,13879.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,7.486
+SAMD00114768,PRJDB4176,10203,,adult,21915.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.495
+SAMD00114769,PRJDB4176,10206,,elderly,25932.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.019
+SAMD00114770,PRJDB4176,10207,,elderly,26663.2,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,11.071
+SAMD00114771,PRJDB4176,10208,,elderly,28124.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.134
+SAMD00114980,PRJDB4176,10209,,adult,23376.0,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.7
+SAMD00164717,PRJDB4176,10210,,adult,18262.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.957
+SAMD00114975,PRJDB4176,10212,,elderly,25568.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.42
+SAMD00114772,PRJDB4176,10213,,adult,17897.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.872
+SAMD00114773,PRJDB4176,10215,,elderly,28489.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.504
+SAMD00114718,PRJDB4176,10219,,elderly,24837.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,12.136
+SAMD00115040,PRJDB4176,10220,,elderly,24471.8,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,8.23
+SAMD00114976,PRJDB4176,10221,,elderly,25568.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.307
+SAMD00114977,PRJDB4176,10223,,elderly,24090.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,9.206
+SAMD00114719,PRJDB4176,10226,,adult,21915.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.737
+SAMD00114720,PRJDB4176,10229,,elderly,24106.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.566
+SAMD00115042,PRJDB4176,10230,,adult,18262.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.733
+SAMD00114721,PRJDB4176,10231,,elderly,26298.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,9.361
+SAMD00114722,PRJDB4176,10232,,adult,23376.0,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,8.493
+SAMD00115043,PRJDB4176,10233,,adult,20088.8,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.576
+SAMD00114983,PRJDB4176,10234,,elderly,28102.5,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,9.151
+SAMD00114984,PRJDB4176,10235,,adult,22645.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.31
+SAMD00114723,PRJDB4176,10236,,adult,17166.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.643
+SAMD00115066,PRJDB4176,10236,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,5.89
+SAMD00164721,PRJDB4176,10237,,adult,23376.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.991
+SAMD00114724,PRJDB4176,10238,,elderly,24090.0,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.487
+SAMD00164723,PRJDB4176,10239,,adult,15705.8,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.336
+SAMD00115041,PRJDB4176,10241,,adult,15340.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.649
+SAMD00114981,PRJDB4176,10242,,adult,21184.5,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.164
+SAMD00114800,PRJDB4176,10244,,elderly,27028.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,10.461
+SAMD00114982,PRJDB4176,10246,,adult,23376.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.98
+SAMD00114793,PRJDB4176,10248,,adult,22645.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.25
+SAMD00114794,PRJDB4176,10249,,adult,17166.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.466
+SAMD00114795,PRJDB4176,10250,,adult,17167.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.306
+SAMD00114985,PRJDB4176,10251,,adult,23376.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,10.352
+SAMD00115045,PRJDB4176,10252,,adult,20088.8,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.743
+SAMD00114986,PRJDB4176,10254,,elderly,24471.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.017
+SAMD00115046,PRJDB4176,10255,,adult,23376.0,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.997
+SAMD00115047,PRJDB4176,10256,,elderly,25567.5,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,5.111
+SAMD00114796,PRJDB4176,10258,,adult,15340.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,11.305
+SAMD00114987,PRJDB4176,10259,,elderly,25202.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.783
+SAMD00114797,PRJDB4176,10260,,adult,23011.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,10.858
+SAMD00115086,PRJDB4176,10260,,elderly,24837.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.791
+SAMD00114988,PRJDB4176,10261,,elderly,25567.5,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,9.865
+SAMD00114798,PRJDB4176,10262,,adult,16436.2,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,4.02
+SAMD00114799,PRJDB4176,10265,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.259
+SAMD00114753,PRJDB4176,10266,,adult,23741.2,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.033
+SAMD00114754,PRJDB4176,10267,,adult,21915.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.605
+SAMD00115078,PRJDB4176,10267,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,5.176
+SAMD00115044,PRJDB4176,10268,,elderly,25567.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,9.056
+SAMD00114989,PRJDB4176,10269,,elderly,27759.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,9.694
+SAMD00114990,PRJDB4176,10271,,elderly,24837.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.691
+SAMD00164727,PRJDB4176,10272,,adult,16071.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,10.006
+SAMD00114991,PRJDB4176,10273,,elderly,25202.2,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.463
+SAMD00114992,PRJDB4176,10274,,adult,22645.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.044
+SAMD00115048,PRJDB4176,10275,,elderly,25202.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,3.833
+SAMD00114749,PRJDB4176,10277,,elderly,26663.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,10.261
+SAMD00115049,PRJDB4176,10280,,adult,13879.5,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.331
+SAMD00115050,PRJDB4176,10281,,elderly,26298.0,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,12.772
+SAMD00115051,PRJDB4176,10282,,elderly,26298.0,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,11.089
+SAMD00115052,PRJDB4176,10283,,elderly,28124.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,11.324
+SAMD00114750,PRJDB4176,10284,,elderly,26663.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,11.179
+SAMD00115053,PRJDB4176,10285,,adult,20819.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,8.055
+SAMD00115054,PRJDB4176,10286,,adult,20819.2,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.561
+SAMD00114993,PRJDB4176,10288,,adult,21549.8,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.697
+SAMD00115055,PRJDB4176,10290,,elderly,24837.0,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.612
+SAMD00114751,PRJDB4176,10294,,elderly,27028.5,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.163
+SAMD00164728,PRJDB4176,10296,,elderly,28489.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,10.809
+SAMD00164729,PRJDB4176,10298,,elderly,27759.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.923
+SAMD00114752,PRJDB4176,10299,,elderly,28489.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,4.15
+SAMD00114780,PRJDB4176,10301,,elderly,28124.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,4.268
+SAMD00114781,PRJDB4176,10302,,adult,23376.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,3.89
+SAMD00114782,PRJDB4176,10303,,adult,16071.0,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.796
+SAMD00115085,PRJDB4176,10303,,adult,20454.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.678
+SAMD00114994,PRJDB4176,10304,,adult,16071.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.206
+SAMD00114774,PRJDB4176,10306,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.286
+SAMD00114775,PRJDB4176,10307,,adult,17897.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.263
+SAMD00115084,PRJDB4176,10307,,adult,,female,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,8.332
+SAMD00114776,PRJDB4176,10308,,elderly,25202.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.436
+SAMD00115080,PRJDB4176,10308,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.238
+SAMD00114777,PRJDB4176,10309,,elderly,25567.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.256
+SAMD00115056,PRJDB4176,10312,,adult,23376.0,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.328
+SAMD00115058,PRJDB4176,10313,,adult,22645.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.612
+SAMD00114778,PRJDB4176,10315,,adult,21549.8,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.152
+SAMD00164734,PRJDB4176,10316,,adult,16071.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,8.154
+SAMD00114779,PRJDB4176,10317,,elderly,24837.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.644
+SAMD00114730,PRJDB4176,10318,,elderly,27393.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,9.907
+SAMD00115001,PRJDB4176,10320,,elderly,25567.5,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.29
+SAMD00114731,PRJDB4176,10322,,elderly,25567.5,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,9.024
+SAMD00114732,PRJDB4176,10323,,elderly,24837.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.956
+SAMD00115077,PRJDB4176,10323,,adult,,female,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.463
+SAMD00114733,PRJDB4176,10324,,elderly,24106.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.566
+SAMD00114734,PRJDB4176,10325,,elderly,26298.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,11.269
+SAMD00114725,PRJDB4176,10327,,adult,21915.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.489
+SAMD00115057,PRJDB4176,10329,,adult,23741.2,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,10.168
+SAMD00114726,PRJDB4176,10330,,elderly,24106.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.887
+SAMD00114727,PRJDB4176,10332,,adult,22280.2,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,8.715
+SAMD00114728,PRJDB4176,10333,,adult,16436.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.372
+SAMD00115076,PRJDB4176,10333,,adult,,male,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,3.487
+SAMD00114729,PRJDB4176,10334,,adult,23010.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.479
+SAMD00115002,PRJDB4176,10335,,elderly,27393.8,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.28
+SAMD00114787,PRJDB4176,10336,,elderly,24471.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.904
+SAMD00114788,PRJDB4176,10338,,adult,20819.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.119
+SAMD00115003,PRJDB4176,10339,,elderly,27759.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.804
+SAMD00115004,PRJDB4176,10340,,adult,16436.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.835
+SAMD00114789,PRJDB4176,10341,,adult,21184.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,10.09
+SAMD00114790,PRJDB4176,10345,,elderly,26663.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.273
+SAMD00114791,PRJDB4176,10349,,adult,22645.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.394
+SAMD00114792,PRJDB4176,10350,,elderly,24471.8,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,14.103
+SAMD00114783,PRJDB4176,10353,,adult,18262.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.932
+SAMD00114784,PRJDB4176,10354,,adult,21915.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,4.73
+SAMD00115008,PRJDB4176,10356,,elderly,27759.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.458
+SAMD00114785,PRJDB4176,10357,,elderly,25932.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.271
+SAMD00114786,PRJDB4176,10358,,adult,22280.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.956
+SAMD00115009,PRJDB4176,10362,,elderly,27759.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.863
+SAMD00115005,PRJDB4176,10364,,elderly,24106.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.658
+SAMD00164744,PRJDB4176,10365,,adult,18262.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.951
+SAMD00115006,PRJDB4176,10366,,elderly,26298.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.101
+SAMD00164745,PRJDB4176,10367,,adult,21184.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.002
+SAMD00115038,PRJDB4176,10368,,adult,14975.2,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,5.301
+SAMD00115007,PRJDB4176,10371,,adult,20819.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.098
+SAMD00115059,PRJDB4176,10374,,adult,17897.2,male,JP,other_cancer,carcinoma,,,,2014,primary,1.0,8.089
+SAMD00164746,PRJDB4176,10376,,adult,23376.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.913
+SAMD00115011,PRJDB4176,10377,,elderly,26663.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.775
+SAMD00115012,PRJDB4176,10378,,elderly,27028.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.455
+SAMD00115013,PRJDB4176,10380,,adult,10227.0,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.81
+SAMD00115010,PRJDB4176,10385,,elderly,25932.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.979
+SAMD00114816,PRJDB4176,10389,,elderly,25567.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.878
+SAMD00164748,PRJDB4176,10390,,elderly,24837.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.211
+SAMD00114819,PRJDB4176,10456,,elderly,27028.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,4.784
+SAMD00114804,PRJDB4176,10459,,elderly,26663.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.138
+SAMD00114805,PRJDB4176,10461,,adult,16791.8,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.603
+SAMD00114806,PRJDB4176,10462,,adult,22280.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.837
+SAMD00115070,PRJDB4176,10462,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.442
+SAMD00114807,PRJDB4176,10463,,elderly,27759.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.022
+SAMD00114808,PRJDB4176,10464,,elderly,27759.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.665
+SAMD00114809,PRJDB4176,10465,,adult,17166.8,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.462
+SAMD00164750,PRJDB4176,10466,,adult,23376.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.248
+SAMD00114810,PRJDB4176,10468,,adult,18993.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.986
+SAMD00114811,PRJDB4176,10469,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.507
+SAMD00114820,PRJDB4176,10470,,elderly,24106.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.131
+SAMD00114821,PRJDB4176,10471,,elderly,27393.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.372
+SAMD00114812,PRJDB4176,10473,,elderly,25932.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.274
+SAMD00114813,PRJDB4176,10476,,elderly,25567.5,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.732
+SAMD00114814,PRJDB4176,10480,,adult,19358.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.507
+SAMD00115071,PRJDB4176,10480,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.535
+SAMD00114826,PRJDB4176,10483,,adult,23010.8,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.471
+SAMD00114827,PRJDB4176,10484,,elderly,26663.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.709
+SAMD00114828,PRJDB4176,10485,,elderly,27028.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.008
+SAMD00114829,PRJDB4176,10486,,adult,23741.2,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.2
+SAMD00114830,PRJDB4176,10487,,elderly,28489.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.445
+SAMD00114862,PRJDB4176,10489,,elderly,28489.5,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.648
+SAMD00114822,PRJDB4176,10492,,adult,23011.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.826
+SAMD00154991,PRJDB4176,10497,,adult,23741.2,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.002
+SAMD00164755,PRJDB4176,10502,,elderly,25932.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.448
+SAMD00114823,PRJDB4176,10503,,elderly,25202.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.581
+SAMD00164756,PRJDB4176,10504,,elderly,24471.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.188
+SAMD00114857,PRJDB4176,10505,,adult,23741.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.703
+SAMD00115081,PRJDB4176,10505,,adult,,female,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,3.22
+SAMD00114858,PRJDB4176,10508,,elderly,24472.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.034
+SAMD00114824,PRJDB4176,10510,,adult,18993.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.641
+SAMD00164757,PRJDB4176,10511,,adult,23741.2,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.199
+SAMD00164758,PRJDB4176,10512,,elderly,28489.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,4.686
+SAMD00114825,PRJDB4176,10513,,elderly,25567.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.262
+SAMD00114817,PRJDB4176,10514,,adult,21550.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.118
+SAMD00154992,PRJDB4176,10515,,elderly,24090.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,4.702
+SAMD00164760,PRJDB4176,10517,,adult,18993.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.662
+SAMD00114818,PRJDB4176,10519,,elderly,25933.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.509
+SAMD00114835,PRJDB4176,10523,,adult,18262.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,2.825
+SAMD00114836,PRJDB4176,10525,,elderly,24837.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.213
+SAMD00114803,PRJDB4176,10527,,adult,22645.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.791
+SAMD00114841,PRJDB4176,10532,,adult,21915.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.118
+SAMD00115087,PRJDB4176,10532,,adult,,male,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,3.983
+SAMD00114842,PRJDB4176,10537,,elderly,27759.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.511
+SAMD00114843,PRJDB4176,10541,,adult,19358.2,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.016
+SAMD00114844,PRJDB4176,10542,,elderly,25933.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.109
+SAMD00114845,PRJDB4176,10543,,adult,20088.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.744
+SAMD00154993,PRJDB4176,10544,,adult,17532.0,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.991
+SAMD00114846,PRJDB4176,10545,,elderly,24106.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.369
+SAMD00114847,PRJDB4176,10548,,elderly,25932.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.419
+SAMD00164764,PRJDB4176,10549,,elderly,26298.0,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.144
+SAMD00114848,PRJDB4176,10550,,elderly,27028.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.101
+SAMD00164765,PRJDB4176,10555,,adult,19358.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.402
+SAMD00114849,PRJDB4176,10556,,adult,16436.2,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.512
+SAMD00114850,PRJDB4176,10559,,adult,14975.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.348
+SAMD00136648,PRJDB4176,10562,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,4.928
+SAMD00164767,PRJDB4176,10565,,adult,22280.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.292
+SAMD00114863,PRJDB4176,10566,,adult,21549.8,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.884
+SAMD00164769,PRJDB4176,10568,,adult,21184.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.931
+SAMD00114864,PRJDB4176,10569,,adult,23741.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,4.803
+SAMD00114865,PRJDB4176,10570,,adult,16436.2,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.121
+SAMD00114866,PRJDB4176,10571,,adult,23376.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,3.886
+SAMD00114851,PRJDB4176,10572,,adult,21184.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.485
+SAMD00114852,PRJDB4176,10576,,elderly,26298.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.631
+SAMD00114867,PRJDB4176,10577,,adult,22280.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.035
+SAMD00154994,PRJDB4176,10578,,adult,23741.2,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,8.462
+SAMD00164771,PRJDB4176,10579,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.53
+SAMD00164772,PRJDB4176,10580,,adult,21184.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.684
+SAMD00114853,PRJDB4176,10581,,elderly,26298.0,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.396
+SAMD00154995,PRJDB4176,10582,,elderly,25567.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,3.64
+SAMD00164773,PRJDB4176,10583,,elderly,24472.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.103
+SAMD00114868,PRJDB4176,10584,,adult,18628.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.473
+SAMD00114869,PRJDB4176,10585,,elderly,24106.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.59
+SAMD00114854,PRJDB4176,10586,,elderly,28489.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.696
+SAMD00164774,PRJDB4176,10587,,adult,22645.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.32
+SAMD00114859,PRJDB4176,10589,,elderly,27393.8,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.926
+SAMD00114837,PRJDB4176,10591,,adult,18627.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.383
+SAMD00114838,PRJDB4176,10592,,adult,19724.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.01
+SAMD00114860,PRJDB4176,10593,,adult,22280.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.419
+SAMD00164776,PRJDB4176,10595,,elderly,24106.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.396
+SAMD00164777,PRJDB4176,10595,,adult,,male,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.304
+SAMD00164778,PRJDB4176,10596,,elderly,27028.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.694
+SAMD00114839,PRJDB4176,10598,,adult,23741.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.567
+SAMD00164779,PRJDB4176,10601,,adult,23741.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.298
+SAMD00164780,PRJDB4176,10603,,adult,17532.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.083
+SAMD00164781,PRJDB4176,10603,,adult,,female,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.542
+SAMD00114840,PRJDB4176,10604,,elderly,25169.2,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.351
+SAMD00114855,PRJDB4176,10608,,elderly,26663.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.661
+SAMD00114856,PRJDB4176,10609,,adult,18628.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.165
+SAMD00114861,PRJDB4176,10610,,adult,21549.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.966
+SAMD00114887,PRJDB4176,10614,,adult,21549.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.667
+SAMD00114870,PRJDB4176,10615,,elderly,27394.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.965
+SAMD00114871,PRJDB4176,10616,,adult,23376.0,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.257
+SAMD00114926,PRJDB4176,10618,,elderly,26663.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.989
+SAMD00114937,PRJDB4176,10619,,adult,21184.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.335
+SAMD00114888,PRJDB4176,10620,,adult,23010.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.105
+SAMD00114889,PRJDB4176,10621,,adult,21915.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.221
+SAMD00114872,PRJDB4176,10622,,adult,22645.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.146
+SAMD00114873,PRJDB4176,10627,,adult,20819.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.345
+SAMD00114927,PRJDB4176,10628,,elderly,26663.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.853
+SAMD00114928,PRJDB4176,10630,,adult,18993.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.74
+SAMD00114938,PRJDB4176,10632,,elderly,27759.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.406
+SAMD00114890,PRJDB4176,10634,,elderly,25567.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.109
+SAMD00114891,PRJDB4176,10635,,elderly,28124.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.974
+SAMD00114929,PRJDB4176,10639,,adult,14610.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.292
+SAMD00114930,PRJDB4176,10642,,adult,21915.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.368
+SAMD00114939,PRJDB4176,10644,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.555
+SAMD00114892,PRJDB4176,10645,,adult,17872.0,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.995
+SAMD00114893,PRJDB4176,10646,,elderly,24471.8,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.407
+SAMD00115090,PRJDB4176,10646,,adult,,female,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,4.871
+SAMD00114874,PRJDB4176,10647,,elderly,27759.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.175
+SAMD00114875,PRJDB4176,10648,,elderly,25567.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.392
+SAMD00114931,PRJDB4176,10656,,elderly,25567.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.238
+SAMD00114932,PRJDB4176,10657,,elderly,25202.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.018
+SAMD00114940,PRJDB4176,10659,,elderly,27759.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,12.057
+SAMD00114894,PRJDB4176,10660,,elderly,24472.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.772
+SAMD00114895,PRJDB4176,10661,,adult,17872.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,5.943
+SAMD00114876,PRJDB4176,10663,,elderly,26663.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.597
+SAMD00114933,PRJDB4176,10665,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.745
+SAMD00114941,PRJDB4176,10667,,elderly,24837.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.116
+SAMD00114896,PRJDB4176,10668,,elderly,27028.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.971
+SAMD00114897,PRJDB4176,10670,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.644
+SAMD00114877,PRJDB4176,10671,,elderly,25932.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.269
+SAMD00114878,PRJDB4176,10674,,adult,17166.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.255
+SAMD00114934,PRJDB4176,10675,,adult,20089.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.175
+SAMD00114942,PRJDB4176,10678,,adult,16801.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.189
+SAMD00164791,PRJDB4176,10681,,elderly,26298.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.416
+SAMD00114898,PRJDB4176,10684,,adult,22280.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.122
+SAMD00114935,PRJDB4176,10694,,adult,19358.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.821
+SAMD00114936,PRJDB4176,10695,,adult,19358.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.291
+SAMD00114943,PRJDB4176,10697,,adult,17166.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.763
+SAMD00114908,PRJDB4176,10698,,elderly,25933.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.504
+SAMD00114944,PRJDB4176,10700,,elderly,28124.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.286
+SAMD00114918,PRJDB4176,10701,,adult,15330.5,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.198
+SAMD00114909,PRJDB4176,10709,,adult,20454.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.077
+SAMD00114919,PRJDB4176,10713,,adult,23010.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.961
+SAMD00114920,PRJDB4176,10714,,adult,21549.8,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,6.876
+SAMD00114949,PRJDB4176,10715,,elderly,31777.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.612
+SAMD00114950,PRJDB4176,10716,,adult,17872.0,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.123
+SAMD00114910,PRJDB4176,10717,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.373
+SAMD00115074,PRJDB4176,10717,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,5.082
+SAMD00114911,PRJDB4176,10718,,adult,18993.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.787
+SAMD00114921,PRJDB4176,10720,,adult,14244.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.784
+SAMD00114922,PRJDB4176,10722,,elderly,24471.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.517
+SAMD00114951,PRJDB4176,10723,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.89
+SAMD00114912,PRJDB4176,10725,,elderly,28489.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.982
+SAMD00114913,PRJDB4176,10726,,elderly,25202.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.199
+SAMD00114923,PRJDB4176,10728,,adult,23010.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.847
+SAMD00114952,PRJDB4176,10731,,adult,21915.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.805
+SAMD00114953,PRJDB4176,10733,,adult,23010.8,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,8.872
+SAMD00114945,PRJDB4176,10741,,elderly,25567.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,2.565
+SAMD00114924,PRJDB4176,10745,,elderly,25202.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.633
+SAMD00115075,PRJDB4176,10745,,adult,,,JP,,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2015,primary,1.0,3.331
+SAMD00114954,PRJDB4176,10747,,adult,22645.5,male,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.142
+SAMD00114914,PRJDB4176,10749,,adult,23741.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.365
+SAMD00114946,PRJDB4176,10754,,adult,16791.8,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.708
+SAMD00114925,PRJDB4176,10756,,adult,18262.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.009
+SAMD00114955,PRJDB4176,10759,,adult,23010.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.488
+SAMD00114956,PRJDB4176,10760,,adult,21549.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.282
+SAMD00114915,PRJDB4176,10761,,adult,19711.0,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,3.658
+SAMD00114916,PRJDB4176,10762,,adult,23010.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.227
+SAMD00114917,PRJDB4176,10765,,adult,17897.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,1.604
+SAMD00114947,PRJDB4176,10766,,elderly,25202.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,4.696
+SAMD00114948,PRJDB4176,10767,,elderly,26298.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.56
+SAMD00114957,PRJDB4176,10772,,adult,21549.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,11.557
+SAMD00114958,PRJDB4176,10774,,adult,22280.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.567
+SAMD00114879,PRJDB4176,10775,,elderly,24106.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.948
+SAMD00114880,PRJDB4176,10776,,adult,15330.5,female,JP,healthy_control,Healthy control,,,,2014,primary,1.0,10.39
+SAMD00164801,PRJDB4176,10780,,elderly,28124.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,9.179
+SAMD00114959,PRJDB4176,10784,,adult,17872.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,7.17
+SAMD00114960,PRJDB4176,10785,,adult,22646.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.181
+SAMD00164803,PRJDB4176,10788,,elderly,27028.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.404
+SAMD00164804,PRJDB4176,10793,,adult,20088.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.105
+SAMD00114899,PRJDB4176,10794,,adult,19723.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.253
+SAMD00164805,PRJDB4176,10797,,elderly,25568.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.002
+SAMD00114881,PRJDB4176,10801,,elderly,24837.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,10.267
+SAMD00164806,PRJDB4176,10802,,elderly,28124.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.096
+SAMD00164807,PRJDB4176,10803,,elderly,28489.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.723
+SAMD00114882,PRJDB4176,10804,,elderly,27028.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.893
+SAMD00114900,PRJDB4176,10805,,adult,19724.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.852
+SAMD00164808,PRJDB4176,10806,,adult,18627.8,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.504
+SAMD00114901,PRJDB4176,10807,,elderly,27028.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.009
+SAMD00164809,PRJDB4176,10808,,adult,21915.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.043
+SAMD00114961,PRJDB4176,10809,,elderly,24106.5,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.41
+SAMD00114962,PRJDB4176,10811,,adult,17532.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.459
+SAMD00114883,PRJDB4176,10812,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.459
+SAMD00114884,PRJDB4176,10813,,adult,11688.0,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,4.618
+SAMD00114902,PRJDB4176,10814,,elderly,28489.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,11.893
+SAMD00114903,PRJDB4176,10816,,elderly,25567.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.827
+SAMD00114963,PRJDB4176,10817,,adult,23741.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.768
+SAMD00114964,PRJDB4176,10818,,elderly,27393.8,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,5.434
+SAMD00164812,PRJDB4176,10819,,adult,22645.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.399
+SAMD00114904,PRJDB4176,10825,,elderly,27028.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,5.789
+SAMD00114905,PRJDB4176,10827,,elderly,26663.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.671
+SAMD00114965,PRJDB4176,10829,,adult,18993.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.027
+SAMD00164813,PRJDB4176,10831,,adult,21184.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.714
+SAMD00164814,PRJDB4176,10832,,adult,20089.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.589
+SAMD00114885,PRJDB4176,10835,,elderly,27028.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.563
+SAMD00114906,PRJDB4176,10838,,elderly,27393.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.302
+SAMD00114907,PRJDB4176,10839,,adult,21184.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.964
+SAMD00114966,PRJDB4176,10847,,elderly,26663.2,female,JP,colorectal_cancer,CRC (Stage III/IV),,,,2014,primary,1.0,7.3
+SAMD00114967,PRJDB4176,10850,,adult,18614.0,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,6.412
+SAMD00114886,PRJDB4176,10853,,adult,23741.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.881
+SAMD00164817,PRJDB4176,10860,,adult,21549.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.862
+SAMD00164818,PRJDB4176,10866,,adult,17532.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.672
+SAMD00164819,PRJDB4176,10869,,elderly,25202.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.531
+SAMD00164820,PRJDB4176,10880,,elderly,24471.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.805
+SAMD00164821,PRJDB4176,10887,,adult,16801.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.866
+SAMD00164822,PRJDB4176,10888,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.227
+SAMD00164823,PRJDB4176,10889,,adult,19724.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.445
+SAMD00164824,PRJDB4176,10890,,elderly,24837.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.811
+SAMD00164825,PRJDB4176,10907,,adult,13514.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.806
+SAMD00164826,PRJDB4176,10911,,adult,22280.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.017
+SAMD00164827,PRJDB4176,10913,,adult,16802.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,3.455
+SAMD00164828,PRJDB4176,10924,,adult,16802.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,2.638
+SAMD00164829,PRJDB4176,10931,,elderly,24472.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.724
+SAMD00164830,PRJDB4176,10934,,elderly,24106.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.713
+SAMD00164831,PRJDB4176,10935,,elderly,27028.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.386
+SAMD00164832,PRJDB4176,10938,,adult,20088.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.473
+SAMD00164833,PRJDB4176,10947,,adult,21184.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.053
+SAMD00164834,PRJDB4176,10967,,elderly,24106.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.093
+SAMD00164835,PRJDB4176,10968,,adult,15706.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.227
+SAMD00164836,PRJDB4176,10975,,adult,21915.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.195
+SAMD00164837,PRJDB4176,10976,,adult,18993.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.498
+SAMD00164838,PRJDB4176,10980,,adult,23741.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.498
+SAMD00164839,PRJDB4176,10989,,adult,23741.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.299
+SAMD00164840,PRJDB4176,10990,,adult,21184.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,3.716
+SAMD00164841,PRJDB4176,10992,,adult,21184.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.445
+SAMD00164842,PRJDB4176,11006,,elderly,27394.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.405
+SAMD00164843,PRJDB4176,11008,,adult,22280.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,1.499
+SAMD00164844,PRJDB4176,11010,,elderly,27393.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.771
+SAMD00164845,PRJDB4176,11011,,elderly,26298.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.484
+SAMD00164846,PRJDB4176,11029,,elderly,24106.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.899
+SAMD00164847,PRJDB4176,11030,,adult,21184.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.532
+SAMD00164848,PRJDB4176,11031,,elderly,24106.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.033
+SAMD00164849,PRJDB4176,11035,,elderly,26663.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.255
+SAMD00164850,PRJDB4176,11036,,adult,17532.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.026
+SAMD00164851,PRJDB4176,11045,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.471
+SAMD00164852,PRJDB4176,11048,,adult,23741.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.892
+SAMD00164853,PRJDB4176,11049,,adult,22280.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,3.516
+SAMD00164854,PRJDB4176,11054,,elderly,27393.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.987
+SAMD00164855,PRJDB4176,11057,,elderly,25933.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,3.431
+SAMD00164856,PRJDB4176,11062,,adult,17532.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.868
+SAMD00164857,PRJDB4176,11074,,adult,15340.0,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.93
+SAMD00164858,PRJDB4176,11081,,elderly,26298.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.197
+SAMD00164859,PRJDB4176,11085,,adult,23010.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.837
+SAMD00164860,PRJDB4176,11097,,elderly,28854.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.577
+SAMD00164861,PRJDB4176,11103,,adult,16071.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.967
+SAMD00164862,PRJDB4176,11106,,adult,16071.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.017
+SAMD00164863,PRJDB4176,11110,,adult,22280.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.493
+SAMD00164864,PRJDB4176,11121,,adult,16801.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.997
+SAMD00164865,PRJDB4176,11124,,elderly,28124.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.53
+SAMD00164866,PRJDB4176,11128,,elderly,24471.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.693
+SAMD00164867,PRJDB4176,11132,,adult,22645.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.576
+SAMD00164868,PRJDB4176,11141,,elderly,24106.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.352
+SAMD00164869,PRJDB4176,11151,,elderly,27759.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.229
+SAMD00164870,PRJDB4176,11159,,adult,23011.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,2.418
+SAMD00164871,PRJDB4176,11162,,adult,22645.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,1.149
+SAMD00164872,PRJDB4176,11168,,adult,20088.8,male,JP,colorectal_adenoma,few polyps,,,,2014,primary,1.0,1.957
+SAMD00164873,PRJDB4176,11170,,adult,11688.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.253
+SAMD00164874,PRJDB4176,11171,,elderly,28124.2,male,JP,colorectal_adenoma,few polyps,,,,2014,primary,1.0,4.067
+SAMD00164875,PRJDB4176,11203,,adult,12418.5,male,JP,colorectal_adenoma,few polyps,,,,2014,primary,1.0,3.663
+SAMD00164876,PRJDB4176,11209,,adult,13514.2,male,JP,colorectal_adenoma,few polyps,,,,2014,primary,1.0,5.691
+SAMD00164877,PRJDB4176,11210,,elderly,24837.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.148
+SAMD00164878,PRJDB4176,11213,,adult,18628.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,3.951
+SAMD00164879,PRJDB4176,11223,,adult,23011.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.013
+SAMD00164880,PRJDB4176,11224,,elderly,28489.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.423
+SAMD00164881,PRJDB4176,11226,,adult,18628.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.997
+SAMD00164882,PRJDB4176,11227,,elderly,26298.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.639
+SAMD00164883,PRJDB4176,11237,,elderly,24106.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.754
+SAMD00164884,PRJDB4176,11238,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.662
+SAMD00164885,PRJDB4176,11241,,adult,19723.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.154
+SAMD00164886,PRJDB4176,11243,,adult,14610.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,0.116
+SAMD00164887,PRJDB4176,11253,,elderly,26663.2,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.897
+SAMD00164888,PRJDB4176,11255,,adult,17167.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.249
+SAMD00164889,PRJDB4176,11281,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.4
+SAMD00164890,PRJDB4176,11294,,adult,20819.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.99
+SAMD00164891,PRJDB4176,11299,,adult,19724.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.779
+SAMD00164892,PRJDB4176,11311,,adult,23010.8,male,JP,colorectal_adenoma,few polyps,,,,2014,primary,1.0,6.712
+SAMD00164893,PRJDB4176,11315,,elderly,25567.5,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,2.473
+SAMD00164894,PRJDB4176,11336,,elderly,25567.5,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.338
+SAMD00164895,PRJDB4176,11343,,adult,16071.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.847
+SAMD00164896,PRJDB4176,11354,,adult,20089.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.264
+SAMD00164897,PRJDB4176,11369,,adult,20089.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.545
+SAMD00164898,PRJDB4176,11379,,elderly,28855.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.96
+SAMD00164899,PRJDB4176,11389,,adult,13880.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,2.886
+SAMD00164900,PRJDB4176,11407,,adult,14975.2,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,8.027
+SAMD00164901,PRJDB4176,11409,,adult,19724.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.448
+SAMD00164902,PRJDB4176,11413,,adult,22280.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.044
+SAMD00164903,PRJDB4176,11417,,adult,18262.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.409
+SAMD00164904,PRJDB4176,11419,,adult,20088.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.577
+SAMD00164905,PRJDB4176,11423,,elderly,24106.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.432
+SAMD00164906,PRJDB4176,11424,,adult,23741.2,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,7.166
+SAMD00164907,PRJDB4176,11428,,adult,18627.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.459
+SAMD00164908,PRJDB4176,11431,,adult,21184.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.488
+SAMD00164909,PRJDB4176,11432,,elderly,27028.5,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,5.917
+SAMD00164910,PRJDB4176,11433,,adult,21549.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.204
+SAMD00164911,PRJDB4176,11434,,adult,23376.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.375
+SAMD00164912,PRJDB4176,11438,,adult,22280.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.373
+SAMD00164913,PRJDB4176,11445,,elderly,24837.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.152
+SAMD00164914,PRJDB4176,11448,,adult,14610.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.369
+SAMD00164915,PRJDB4176,11449,,adult,16802.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.896
+SAMD00164916,PRJDB4176,11450,,elderly,26298.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.323
+SAMD00164917,PRJDB4176,11451,,adult,22646.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.925
+SAMD00164918,PRJDB4176,11452,,adult,17167.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.017
+SAMD00164919,PRJDB4176,11453,,elderly,25932.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.689
+SAMD00164920,PRJDB4176,11454,,adult,17167.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.834
+SAMD00164921,PRJDB4176,11457,,adult,23741.2,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.822
+SAMD00164922,PRJDB4176,11458,,adult,22645.5,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,8.067
+SAMD00164923,PRJDB4176,11459,,elderly,24471.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.526
+SAMD00164924,PRJDB4176,11461,,elderly,27028.5,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,6.239
+SAMD00164925,PRJDB4176,11462,,adult,20819.2,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.537
+SAMD00164926,PRJDB4176,11464,,adult,20454.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.728
+SAMD00164927,PRJDB4176,11467,,elderly,26298.0,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.825
+SAMD00164928,PRJDB4176,11472,,elderly,26663.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.146
+SAMD00164929,PRJDB4176,11473,,adult,19724.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.827
+SAMD00164930,PRJDB4176,11475,,adult,23011.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.499
+SAMD00164931,PRJDB4176,11477,,elderly,27393.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.603
+SAMD00164932,PRJDB4176,11478,,elderly,24837.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.046
+SAMD00164933,PRJDB4176,11480,,elderly,24106.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.252
+SAMD00164934,PRJDB4176,11486,,adult,22645.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.428
+SAMD00164935,PRJDB4176,11487,,elderly,24106.5,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.526
+SAMD00164936,PRJDB4176,11489,,adult,20088.8,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,3.827
+SAMD00164937,PRJDB4176,11490,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.099
+SAMD00164938,PRJDB4176,11492,,elderly,25202.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,10.037
+SAMD00164939,PRJDB4176,11495,,elderly,25932.8,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,11.473
+SAMD00164940,PRJDB4176,11498,,adult,21184.5,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.807
+SAMD00164941,PRJDB4176,11501,,elderly,24837.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,7.335
+SAMD00164942,PRJDB4176,11502,,adult,23010.8,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,2.963
+SAMD00164943,PRJDB4176,11508,,adult,23376.0,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,9.718
+SAMD00164944,PRJDB4176,11510,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.549
+SAMD00164945,PRJDB4176,11511,,elderly,26298.0,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,8.184
+SAMD00164946,PRJDB4176,11512,,elderly,25202.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.319
+SAMD00164947,PRJDB4176,11513,,adult,13514.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.188
+SAMD00164948,PRJDB4176,11518,,adult,17166.8,female,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.73
+SAMD00164949,PRJDB4176,11521,,adult,17897.2,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,8.282
+SAMD00164950,PRJDB4176,11524,,adult,11322.8,male,JP,healthy_control,Healthy control,,,,2014,primary,1.0,10.866
+SAMD00164951,PRJDB4176,11526,,adult,18993.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.91
+SAMD00164952,PRJDB4176,11527,,adult,12784.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.042
+SAMD00164953,PRJDB4176,11528,,adult,20819.2,male,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.401
+SAMD00164954,PRJDB4176,11580,,adult,7670.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.858
+SAMD00164955,PRJDB4176,11607,,elderly,25568.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.696
+SAMD00164956,PRJDB4176,11626,,adult,18262.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.863
+SAMD00164957,PRJDB4176,11638,,adult,20819.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,2.997
+SAMD00164958,PRJDB4176,11641,,adult,18993.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.742
+SAMD00164959,PRJDB4176,11667,,elderly,24471.8,male,JP,colorectal_adenoma,adenoma,,,,2014,primary,1.0,7.614
+SAMD00164960,PRJDB4176,11675,,adult,18628.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.972
+SAMD00164961,PRJDB4176,11682,,adult,22280.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.839
+SAMD00164962,PRJDB4176,11694,,adult,23011.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.727
+SAMD00164963,PRJDB4176,11710,,adult,14610.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.663
+SAMD00164964,PRJDB4176,11720,,elderly,25568.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.426
+SAMD00164965,PRJDB4176,11754,,adult,9862.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.842
+SAMD00164966,PRJDB4176,11788,,adult,12418.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.756
+SAMD00164967,PRJDB4176,11796,,elderly,27394.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.54
+SAMD00164968,PRJDB4176,11817,,elderly,27393.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.535
+SAMD00164969,PRJDB4176,11818,,adult,13514.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.788
+SAMD00164970,PRJDB4176,11819,,elderly,26298.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.934
+SAMD00164971,PRJDB4176,11820,,adult,17897.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.299
+SAMD00164972,PRJDB4176,11821,,adult,18993.0,female,JP,healthy_control,mixed_case_control: healthy controls vs early-stage and advanced colorectal cancer patients,,,,2014,primary,1.0,6.066
+SAMD00164973,PRJDB4176,11822,,adult,20089.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.275
+SAMD00164974,PRJDB4176,11823,,elderly,25932.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,9.136
+SAMD00164975,PRJDB4176,11826,,adult,17532.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.549
+SAMD00164976,PRJDB4176,11829,,adult,15705.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.832
+SAMD00164977,PRJDB4176,11831,,adult,21915.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.701
+SAMD00164978,PRJDB4176,11835,,adult,18627.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.317
+SAMD00164979,PRJDB4176,11836,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.842
+SAMD00164980,PRJDB4176,11838,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.951
+SAMD00164981,PRJDB4176,11851,,elderly,27759.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.237
+SAMD00164982,PRJDB4176,11859,,adult,23376.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.593
+SAMD00164983,PRJDB4176,11873,,elderly,28490.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.806
+SAMD00164984,PRJDB4176,11879,,adult,23376.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.978
+SAMD00164985,PRJDB4176,11881,,adult,23010.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.276
+SAMD00164986,PRJDB4176,11885,,elderly,26663.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.263
+SAMD00164987,PRJDB4176,11888,,elderly,25932.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.78
+SAMD00164988,PRJDB4176,11891,,elderly,26298.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.556
+SAMD00164989,PRJDB4176,11893,,adult,19358.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.09
+SAMD00164990,PRJDB4176,11899,,adult,23376.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,3.477
+SAMD00164991,PRJDB4176,11900,,adult,21549.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.361
+SAMD00164992,PRJDB4176,11918,,elderly,24837.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.466
+SAMD00164993,PRJDB4176,11920,,elderly,24837.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.102
+SAMD00164994,PRJDB4176,11921,,adult,14610.0,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.018
+SAMD00164995,PRJDB4176,11922,,adult,21184.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.342
+SAMD00164996,PRJDB4176,11927,,adult,21184.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.497
+SAMD00164997,PRJDB4176,11929,,adult,20819.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.801
+SAMD00164998,PRJDB4176,11940,,adult,22280.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.103
+SAMD00164999,PRJDB4176,11942,,elderly,27759.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.464
+SAMD00165000,PRJDB4176,11951,,elderly,28124.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.441
+SAMD00165001,PRJDB4176,11955,,elderly,25568.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.706
+SAMD00165002,PRJDB4176,11956,,adult,16436.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.978
+SAMD00165003,PRJDB4176,11957,,adult,21549.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.067
+SAMD00165004,PRJDB4176,11965,,adult,14975.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.929
+SAMD00165005,PRJDB4176,11973,,elderly,24471.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.47
+SAMD00165006,PRJDB4176,11974,,elderly,25202.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.446
+SAMD00165007,PRJDB4176,11982,,elderly,24837.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.404
+SAMD00165008,PRJDB4176,11984,,adult,22646.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.754
+SAMD00165009,PRJDB4176,11993,,elderly,26663.2,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,8.655
+SAMD00165010,PRJDB4176,11996,,adult,18628.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.634
+SAMD00165011,PRJDB4176,12002,,adult,20088.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.696
+SAMD00165012,PRJDB4176,12005,,adult,17532.0,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,10.764
+SAMD00165013,PRJDB4176,12011,,adult,16436.2,female,JP,other_cancer,carcinoma,,,,2014,primary,1.0,6.187
+SAMD00165014,PRJDB4176,12014,,adult,21549.8,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,7.408
+SAMD00165015,PRJDB4176,12016,,adult,21915.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,4.694
+SAMD00165016,PRJDB4176,12020,,elderly,24471.8,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,4.317
+SAMD00165017,PRJDB4176,12022,,elderly,27028.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,6.618
+SAMD00165018,PRJDB4176,12024,,elderly,26663.2,male,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.311
+SAMD00165019,PRJDB4176,12025,,adult,16801.5,female,JP,colorectal_cancer,colorectal cancer,,,,2014,primary,1.0,5.932
+SAMD00165020,PRJDB4176,12070,,adult,17897.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.078
+SAMD00165021,PRJDB4176,12082,,adult,10958.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.133
+SAMD00165022,PRJDB4176,12101,,adult,20454.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.812
+SAMD00165023,PRJDB4176,12106,,elderly,28124.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.642
+SAMD00165024,PRJDB4176,12165,,adult,23376.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.18
+SAMD00165025,PRJDB4176,12197,,adult,15706.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,7.344
+SAMD00165026,PRJDB4176,12204,,adult,20089.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.779
+SAMD00165027,PRJDB4176,12242,,adult,12053.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.171
+SAMD00165028,PRJDB4176,12243,,elderly,27028.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,2.277
+SAMD00165029,PRJDB4176,12276,,adult,16802.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,8.036
+SAMD00165030,PRJDB4176,12340,,adult,21550.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,6.518
+SAMD00165031,PRJDB4176,12370,,adult,23741.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,0.684
+SAMD00165032,PRJDB4176,12389,,adult,12784.0,male,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.865
+SAMD00165033,PRJDB4176,12396,,adult,13880.0,female,JP,healthy_control,Healthy,,,,2014,primary,1.0,5.166

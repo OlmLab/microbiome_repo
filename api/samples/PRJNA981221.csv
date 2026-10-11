@@ -1,0 +1,7 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN35668369,PRJNA981221,,,,,male,US,healthy_control,ctrl,,,no,2019-02-02,primary,1.0,12.341
+SAMN35668370,PRJNA981221,,,,,male,US,crohns_disease,cd,,,no,2020-02-02,primary,1.0,9.599
+SAMN35668371,PRJNA981221,,,,,female,US,healthy_control,ctrl,,,no,2021-02-02,primary,1.0,9.747
+SAMN35668372,PRJNA981221,,,,,female,US,crohns_disease,cd,,,no,2022-02-02,primary,1.0,8.91
+SAMN35685750,PRJNA981221,,,,,,US,,,,,no,2020-06-01,primary,1.0,27.044
+SAMN35685751,PRJNA981221,,,,,,US,,,,,no,2020-06-01,primary,1.0,27.527

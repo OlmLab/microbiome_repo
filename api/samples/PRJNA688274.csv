@@ -1,0 +1,615 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN17171522,PRJNA688274,S001,Post-travel,adult,8433.6,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.525
+SAMN17171521,PRJNA688274,S001,Pre-travel,adult,8433.6,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.546
+SAMN17171594,PRJNA688274,S002,Post-travel,elderly,24097.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.474
+SAMN17171593,PRJNA688274,S002,Pre-travel,elderly,24097.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.554
+SAMN17171224,PRJNA688274,S003,Post-travel,elderly,25675.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.426
+SAMN17171223,PRJNA688274,S003,Pre-travel,elderly,25675.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.418
+SAMN17171400,PRJNA688274,S004,Post-travel,elderly,24837.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.7
+SAMN17171399,PRJNA688274,S004,Pre-travel,elderly,24837.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.748
+SAMN17171226,PRJNA688274,S005,Post-travel,adult,20240.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.299
+SAMN17171225,PRJNA688274,S005,Pre-travel,adult,20240.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.287
+SAMN17171402,PRJNA688274,S006,Post-travel,adult,23583.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.314
+SAMN17171401,PRJNA688274,S006,Pre-travel,adult,23583.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.224
+SAMN17171404,PRJNA688274,S007,Post-travel,adult,23587.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.325
+SAMN17171403,PRJNA688274,S007,Pre-travel,adult,23587.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.215
+SAMN17171340,PRJNA688274,S008,Post-travel,adult,22359.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.498
+SAMN17171339,PRJNA688274,S008,Pre-travel,adult,22359.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.228
+SAMN17171342,PRJNA688274,S009,Post-travel,adult,10725.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.263
+SAMN17171341,PRJNA688274,S009,Pre-travel,adult,10725.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.041
+SAMN17171564,PRJNA688274,S010,Post-travel,adult,16998.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.573
+SAMN17171563,PRJNA688274,S010,Pre-travel,adult,16998.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.404
+SAMN17171228,PRJNA688274,S011,Post-travel,adult,19525.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.189
+SAMN17171227,PRJNA688274,S011,Pre-travel,adult,19525.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.785
+SAMN17171566,PRJNA688274,S012,Post-travel,adult,13824.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.815
+SAMN17171565,PRJNA688274,S012,Pre-travel,adult,13824.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.494
+SAMN17171568,PRJNA688274,S013,Post-travel,adult,14984.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.315
+SAMN17171567,PRJNA688274,S013,Pre-travel,adult,14984.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.371
+SAMN17171406,PRJNA688274,S014,Post-travel,adult,10074.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.297
+SAMN17171405,PRJNA688274,S014,Pre-travel,adult,10074.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.255
+SAMN17171344,PRJNA688274,S015,Post-travel,adult,11969.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.244
+SAMN17171343,PRJNA688274,S015,Pre-travel,adult,11969.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.312
+SAMN17171230,PRJNA688274,S016,Post-travel,adult,8112.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.371
+SAMN17171229,PRJNA688274,S016,Pre-travel,adult,8112.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.238
+SAMN17171232,PRJNA688274,S017,Post-travel,adult,19170.0,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.409
+SAMN17171231,PRJNA688274,S017,Pre-travel,adult,19170.0,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.222
+SAMN17171234,PRJNA688274,S018,Post-travel,adult,9008.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.371
+SAMN17171233,PRJNA688274,S018,Pre-travel,adult,9008.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.288
+SAMN17171236,PRJNA688274,S019,Post-travel,adult,15770.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.558
+SAMN17171235,PRJNA688274,S019,Pre-travel,adult,15770.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.489
+SAMN17171408,PRJNA688274,S020,Post-travel,adult,22220.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.372
+SAMN17171407,PRJNA688274,S020,Pre-travel,adult,22220.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.22
+SAMN17171410,PRJNA688274,S021,Post-travel,adult,22996.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.365
+SAMN17171409,PRJNA688274,S021,Pre-travel,adult,22996.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.852
+SAMN17171412,PRJNA688274,S022,Post-travel,adult,23295.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.152
+SAMN17171411,PRJNA688274,S022,Pre-travel,adult,23295.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.132
+SAMN17171596,PRJNA688274,S023,Post-travel,adult,19317.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.512
+SAMN17171595,PRJNA688274,S023,Pre-travel,adult,19317.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.186
+SAMN17171598,PRJNA688274,S024,Post-travel,adult,16107.5,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.384
+SAMN17171597,PRJNA688274,S024,Pre-travel,adult,16107.5,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.258
+SAMN17171238,PRJNA688274,S025,Post-travel,adult,8442.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.169
+SAMN17171237,PRJNA688274,S025,Pre-travel,adult,8442.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.254
+SAMN17171414,PRJNA688274,S026,Post-travel,adult,12840.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.823
+SAMN17171413,PRJNA688274,S026,Pre-travel,adult,12840.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.159
+SAMN17171524,PRJNA688274,S027,Post-travel,adult,11821.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.376
+SAMN17171523,PRJNA688274,S027,Pre-travel,adult,11821.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.438
+SAMN17171416,PRJNA688274,S028,Post-travel,adult,14127.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.924
+SAMN17171415,PRJNA688274,S028,Pre-travel,adult,14127.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.254
+SAMN17171578,PRJNA688274,S029,Post-travel,adult,12749.0,female,NL,other_disease,chronic gi disease: yes,,,no,2012-11/2013-11,primary,1.0,1.343
+SAMN17171577,PRJNA688274,S029,Pre-travel,adult,12749.0,female,NL,other_disease,chronic gi disease: yes,,,no,2012-11/2013-11,primary,1.0,1.341
+SAMN17171526,PRJNA688274,S030,Post-travel,adult,8473.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.884
+SAMN17171525,PRJNA688274,S030,Pre-travel,adult,8473.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.162
+SAMN17171240,PRJNA688274,S031,Post-travel,adult,20221.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.26
+SAMN17171239,PRJNA688274,S031,Pre-travel,adult,20221.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.83
+SAMN17171528,PRJNA688274,S032,Post-travel,adult,11199.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.066
+SAMN17171527,PRJNA688274,S032,Pre-travel,adult,11199.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.604
+SAMN17171530,PRJNA688274,S033,Post-travel,adult,16276.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.256
+SAMN17171529,PRJNA688274,S033,Pre-travel,adult,16276.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.183
+SAMN17171532,PRJNA688274,S034,Post-travel,adult,10005.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.464
+SAMN17171531,PRJNA688274,S034,Pre-travel,adult,10005.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.285
+SAMN17171418,PRJNA688274,S035,Post-travel,adult,10839.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.223
+SAMN17171417,PRJNA688274,S035,Pre-travel,adult,10839.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.283
+SAMN17171420,PRJNA688274,S036,Post-travel,adult,9935.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.506
+SAMN17171419,PRJNA688274,S036,Pre-travel,adult,9935.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.023
+SAMN17171242,PRJNA688274,S037,Post-travel,adult,9637.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.448
+SAMN17171241,PRJNA688274,S037,Pre-travel,adult,9637.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.14
+SAMN17171422,PRJNA688274,S038,Post-travel,adult,13925.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.907
+SAMN17171421,PRJNA688274,S038,Pre-travel,adult,13925.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.386
+SAMN17171244,PRJNA688274,S039,Post-travel,adult,23152.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.916
+SAMN17171243,PRJNA688274,S039,Pre-travel,adult,23152.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.302
+SAMN17171246,PRJNA688274,S040,Post-travel,adult,23517.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.23
+SAMN17171245,PRJNA688274,S040,Pre-travel,adult,23517.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.212
+SAMN17171248,PRJNA688274,S041,Post-travel,adult,19937.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.213
+SAMN17171247,PRJNA688274,S041,Pre-travel,adult,19937.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.922
+SAMN17171250,PRJNA688274,S042,Post-travel,adult,20175.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.136
+SAMN17171249,PRJNA688274,S042,Pre-travel,adult,20175.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.289
+SAMN17171424,PRJNA688274,S043,Post-travel,adult,21766.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.278
+SAMN17171423,PRJNA688274,S043,Pre-travel,adult,21766.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.29
+SAMN17171426,PRJNA688274,S044,Post-travel,adult,19746.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.554
+SAMN17171425,PRJNA688274,S044,Pre-travel,adult,19746.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.217
+SAMN17171428,PRJNA688274,S045,Post-travel,adult,10506.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.637
+SAMN17171427,PRJNA688274,S045,Pre-travel,adult,10506.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.14
+SAMN17171534,PRJNA688274,S046,Post-travel,adult,15507.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.981
+SAMN17171533,PRJNA688274,S046,Pre-travel,adult,15507.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.265
+SAMN17171430,PRJNA688274,S047,Post-travel,adult,18054.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.077
+SAMN17171429,PRJNA688274,S047,Pre-travel,adult,18054.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.067
+SAMN17171592,PRJNA688274,S048,Post-travel,adult,21168.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.332
+SAMN17171591,PRJNA688274,S048,Pre-travel,adult,21168.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.203
+SAMN17171346,PRJNA688274,S049,Post-travel,adult,10102.1,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.336
+SAMN17171345,PRJNA688274,S049,Pre-travel,adult,10102.1,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.228
+SAMN17171348,PRJNA688274,S050,Post-travel,adult,18391.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.702
+SAMN17171347,PRJNA688274,S050,Pre-travel,adult,18391.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.308
+SAMN17171252,PRJNA688274,S051,Post-travel,adult,10144.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.344
+SAMN17171251,PRJNA688274,S051,Pre-travel,adult,10144.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.312
+SAMN17171350,PRJNA688274,S052,Post-travel,adult,21659.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.741
+SAMN17171349,PRJNA688274,S052,Pre-travel,adult,21659.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.874
+SAMN17171432,PRJNA688274,S053,Post-travel,adult,22764.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.138
+SAMN17171431,PRJNA688274,S053,Pre-travel,adult,22764.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.229
+SAMN17171570,PRJNA688274,S054,Post-travel,adult,18500.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.318
+SAMN17171569,PRJNA688274,S054,Pre-travel,adult,18500.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.822
+SAMN17171536,PRJNA688274,S055,Post-travel,adult,10360.4,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.474
+SAMN17171535,PRJNA688274,S055,Pre-travel,adult,10360.4,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.338
+SAMN17171434,PRJNA688274,S056,Post-travel,adult,18860.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.152
+SAMN17171433,PRJNA688274,S056,Pre-travel,adult,18860.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.236
+SAMN17171436,PRJNA688274,S057,Post-travel,adult,19124.9,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.898
+SAMN17171435,PRJNA688274,S057,Pre-travel,adult,19124.9,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.219
+SAMN17171438,PRJNA688274,S058,Post-travel,adult,23434.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.665
+SAMN17171437,PRJNA688274,S058,Pre-travel,adult,23434.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.241
+SAMN17171440,PRJNA688274,S059,Post-travel,adult,9975.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.44
+SAMN17171439,PRJNA688274,S059,Pre-travel,adult,9975.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.429
+SAMN17171580,PRJNA688274,S060,Post-travel,adult,23731.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.367
+SAMN17171579,PRJNA688274,S060,Pre-travel,adult,23731.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.326
+SAMN17171582,PRJNA688274,S061,Post-travel,elderly,25231.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.334
+SAMN17171581,PRJNA688274,S061,Pre-travel,elderly,25231.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.052
+SAMN17171442,PRJNA688274,S062,Post-travel,infant,56.2,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.427
+SAMN17171441,PRJNA688274,S062,Pre-travel,infant,56.2,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.321
+SAMN17171254,PRJNA688274,S063,Post-travel,adult,7138.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.77
+SAMN17171253,PRJNA688274,S063,Pre-travel,adult,7138.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.206
+SAMN17171256,PRJNA688274,S064,Post-travel,adult,12424.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.425
+SAMN17171255,PRJNA688274,S064,Pre-travel,adult,12424.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.007
+SAMN17171600,PRJNA688274,S065,Post-travel,adult,19889.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.373
+SAMN17171599,PRJNA688274,S065,Pre-travel,adult,19889.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.395
+SAMN17171258,PRJNA688274,S066,Post-travel,adult,23173.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.316
+SAMN17171257,PRJNA688274,S066,Pre-travel,adult,23173.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.303
+SAMN17171352,PRJNA688274,S067,Post-travel,elderly,24735.0,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.586
+SAMN17171351,PRJNA688274,S067,Pre-travel,elderly,24735.0,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.394
+SAMN17171354,PRJNA688274,S068,Post-travel,adult,21872.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.784
+SAMN17171353,PRJNA688274,S068,Pre-travel,adult,21872.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.538
+SAMN17171356,PRJNA688274,S069,Post-travel,adult,17413.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.543
+SAMN17171355,PRJNA688274,S069,Pre-travel,adult,17413.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.416
+SAMN17171260,PRJNA688274,S070,Post-travel,adult,13531.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.363
+SAMN17171259,PRJNA688274,S070,Pre-travel,adult,13531.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.433
+SAMN17171358,PRJNA688274,S071,Post-travel,elderly,25490.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.374
+SAMN17171357,PRJNA688274,S071,Pre-travel,elderly,25490.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.251
+SAMN17171584,PRJNA688274,S072,Post-travel,adult,17814.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.797
+SAMN17171583,PRJNA688274,S072,Pre-travel,adult,17814.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.64
+SAMN17171360,PRJNA688274,S073,Post-travel,elderly,24165.8,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.504
+SAMN17171359,PRJNA688274,S073,Pre-travel,elderly,24165.8,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.558
+SAMN17171362,PRJNA688274,S074,Post-travel,adult,19397.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.766
+SAMN17171361,PRJNA688274,S074,Pre-travel,adult,19397.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.083
+SAMN17171572,PRJNA688274,S075,Post-travel,adult,14138.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.533
+SAMN17171571,PRJNA688274,S075,Pre-travel,adult,14138.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.267
+SAMN17171262,PRJNA688274,S076,Post-travel,adult,20009.6,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.358
+SAMN17171261,PRJNA688274,S076,Pre-travel,adult,20009.6,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.262
+SAMN17171264,PRJNA688274,S077,Post-travel,adult,14458.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.179
+SAMN17171263,PRJNA688274,S077,Pre-travel,adult,14458.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.584
+SAMN17171444,PRJNA688274,S078,Post-travel,elderly,23854.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.153
+SAMN17171443,PRJNA688274,S078,Pre-travel,elderly,23854.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.093
+SAMN17171266,PRJNA688274,S079,Post-travel,adult,10329.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.273
+SAMN17171265,PRJNA688274,S079,Pre-travel,adult,10329.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.288
+SAMN17171268,PRJNA688274,S080,Post-travel,adult,8729.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.395
+SAMN17171267,PRJNA688274,S080,Pre-travel,adult,8729.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.216
+SAMN17171364,PRJNA688274,S081,Post-travel,adult,13178.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.626
+SAMN17171363,PRJNA688274,S081,Pre-travel,adult,13178.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.53
+SAMN17171270,PRJNA688274,S082,Post-travel,adult,21040.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.979
+SAMN17171269,PRJNA688274,S082,Pre-travel,adult,21040.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.338
+SAMN17171272,PRJNA688274,S083,Post-travel,adult,22848.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.291
+SAMN17171271,PRJNA688274,S083,Pre-travel,adult,22848.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.406
+SAMN17171446,PRJNA688274,S084,Post-travel,adult,16102.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.851
+SAMN17171445,PRJNA688274,S084,Pre-travel,adult,16102.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.898
+SAMN17171274,PRJNA688274,S085,Post-travel,adult,18204.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.641
+SAMN17171273,PRJNA688274,S085,Pre-travel,adult,18204.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.536
+SAMN17171276,PRJNA688274,S086,Post-travel,elderly,29810.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.472
+SAMN17171275,PRJNA688274,S086,Pre-travel,elderly,29810.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.485
+SAMN17171448,PRJNA688274,S087,Post-travel,adult,20586.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.125
+SAMN17171447,PRJNA688274,S087,Pre-travel,adult,20586.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.321
+SAMN17171278,PRJNA688274,S088,Post-travel,adult,19578.1,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.361
+SAMN17171277,PRJNA688274,S088,Pre-travel,adult,19578.1,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.304
+SAMN17171280,PRJNA688274,S089,Post-travel,adult,20497.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.226
+SAMN17171279,PRJNA688274,S089,Pre-travel,adult,20497.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.607
+SAMN17171538,PRJNA688274,S090,Post-travel,adult,17558.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.189
+SAMN17171537,PRJNA688274,S090,Pre-travel,adult,17558.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.271
+SAMN17171540,PRJNA688274,S091,Post-travel,adult,23576.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.297
+SAMN17171539,PRJNA688274,S091,Pre-travel,adult,23576.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.281
+SAMN17171450,PRJNA688274,S092,Post-travel,adult,19931.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.057
+SAMN17171449,PRJNA688274,S092,Pre-travel,adult,19931.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.025
+SAMN17171366,PRJNA688274,S093,Post-travel,adult,21425.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.8
+SAMN17171365,PRJNA688274,S093,Pre-travel,adult,21425.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.774
+SAMN17171452,PRJNA688274,S094,Post-travel,elderly,26996.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.565
+SAMN17171451,PRJNA688274,S094,Pre-travel,elderly,26996.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.886
+SAMN17171454,PRJNA688274,S095,Post-travel,elderly,23968.8,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.235
+SAMN17171453,PRJNA688274,S095,Pre-travel,elderly,23968.8,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.184
+SAMN17171282,PRJNA688274,S096,Post-travel,adult,18559.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.234
+SAMN17171281,PRJNA688274,S096,Pre-travel,adult,18559.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.411
+SAMN17171284,PRJNA688274,S097,Post-travel,adult,9932.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.432
+SAMN17171283,PRJNA688274,S097,Pre-travel,adult,9932.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.621
+SAMN17171286,PRJNA688274,S098,Post-travel,adult,9738.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.411
+SAMN17171285,PRJNA688274,S098,Pre-travel,adult,9738.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.353
+SAMN17171542,PRJNA688274,S099,Post-travel,adult,12418.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.897
+SAMN17171541,PRJNA688274,S099,Pre-travel,adult,12418.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.493
+SAMN17171544,PRJNA688274,S100,Post-travel,adult,11940.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.327
+SAMN17171543,PRJNA688274,S100,Pre-travel,adult,11940.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.365
+SAMN17171456,PRJNA688274,S101,Post-travel,adult,16703.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.49
+SAMN17171455,PRJNA688274,S101,Pre-travel,adult,16703.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.69
+SAMN17171546,PRJNA688274,S102,Post-travel,adult,20576.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.832
+SAMN17171545,PRJNA688274,S102,Pre-travel,adult,20576.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.686
+SAMN17171458,PRJNA688274,S103,Post-travel,adult,18795.4,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.722
+SAMN17171457,PRJNA688274,S103,Pre-travel,adult,18795.4,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.103
+SAMN17171460,PRJNA688274,S104,Post-travel,adult,23350.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.724
+SAMN17171459,PRJNA688274,S104,Pre-travel,adult,23350.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.393
+SAMN17171462,PRJNA688274,S105,Post-travel,adult,21176.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.085
+SAMN17171461,PRJNA688274,S105,Pre-travel,adult,21176.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.398
+SAMN17171288,PRJNA688274,S106,Post-travel,adult,11038.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.359
+SAMN17171287,PRJNA688274,S106,Pre-travel,adult,11038.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.804
+SAMN17171464,PRJNA688274,S107,Post-travel,adult,22127.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.286
+SAMN17171463,PRJNA688274,S107,Pre-travel,adult,22127.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.198
+SAMN17171466,PRJNA688274,S108,Post-travel,adult,20665.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.403
+SAMN17171465,PRJNA688274,S108,Pre-travel,adult,20665.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.225
+SAMN17171468,PRJNA688274,S109,Post-travel,adult,19137.5,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.524
+SAMN17171467,PRJNA688274,S109,Pre-travel,adult,19137.5,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.587
+SAMN17171368,PRJNA688274,S110,Post-travel,elderly,24078.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.172
+SAMN17171367,PRJNA688274,S110,Pre-travel,elderly,24078.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.879
+SAMN17171370,PRJNA688274,S111,Post-travel,adult,8485.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.872
+SAMN17171369,PRJNA688274,S111,Pre-travel,adult,8485.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.643
+SAMN17171372,PRJNA688274,S112,Post-travel,adult,20406.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.2
+SAMN17171371,PRJNA688274,S112,Pre-travel,adult,20406.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.601
+SAMN17171574,PRJNA688274,S113,Post-travel,adult,10495.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.548
+SAMN17171573,PRJNA688274,S113,Pre-travel,adult,10495.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.404
+SAMN17171290,PRJNA688274,S114,Post-travel,adult,20541.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.574
+SAMN17171289,PRJNA688274,S114,Pre-travel,adult,20541.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.303
+SAMN17171374,PRJNA688274,S115,Post-travel,adult,19745.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.421
+SAMN17171373,PRJNA688274,S115,Pre-travel,adult,19745.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.054
+SAMN17171470,PRJNA688274,S116,Post-travel,adult,21974.0,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.224
+SAMN17171469,PRJNA688274,S116,Pre-travel,adult,21974.0,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.143
+SAMN17171472,PRJNA688274,S117,Post-travel,adult,18182.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.457
+SAMN17171471,PRJNA688274,S117,Pre-travel,adult,18182.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.258
+SAMN17171474,PRJNA688274,S118,Post-travel,adult,7334.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.295
+SAMN17171473,PRJNA688274,S118,Pre-travel,adult,7334.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.345
+SAMN17171476,PRJNA688274,S119,Post-travel,adult,12560.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.932
+SAMN17171475,PRJNA688274,S119,Pre-travel,adult,12560.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.977
+SAMN17171292,PRJNA688274,S120,Post-travel,adult,15633.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.565
+SAMN17171291,PRJNA688274,S120,Pre-travel,adult,15633.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.372
+SAMN17171586,PRJNA688274,S121,Post-travel,adult,10605.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.386
+SAMN17171585,PRJNA688274,S121,Pre-travel,adult,10605.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.917
+SAMN17171376,PRJNA688274,S122,Post-travel,adult,19060.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.147
+SAMN17171375,PRJNA688274,S122,Pre-travel,adult,19060.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.46
+SAMN17171294,PRJNA688274,S123,Post-travel,adult,17189.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.481
+SAMN17171293,PRJNA688274,S123,Pre-travel,adult,17189.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.43
+SAMN17171478,PRJNA688274,S124,Post-travel,adult,9323.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.368
+SAMN17171477,PRJNA688274,S124,Pre-travel,adult,9323.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.222
+SAMN17171548,PRJNA688274,S125,Post-travel,adult,10139.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.341
+SAMN17171547,PRJNA688274,S125,Pre-travel,adult,10139.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.341
+SAMN17171480,PRJNA688274,S126,Post-travel,adult,15907.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.251
+SAMN17171479,PRJNA688274,S126,Pre-travel,adult,15907.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.062
+SAMN17171482,PRJNA688274,S127,Post-travel,adult,16436.2,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.472
+SAMN17171481,PRJNA688274,S127,Pre-travel,adult,16436.2,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.209
+SAMN17171484,PRJNA688274,S128,Post-travel,adult,8217.0,female,NL,other_disease,chronic gi disease: yes,,,no,2012-11/2013-11,primary,1.0,1.05
+SAMN17171483,PRJNA688274,S128,Pre-travel,adult,8217.0,female,NL,other_disease,chronic gi disease: yes,,,no,2012-11/2013-11,primary,1.0,1.046
+SAMN17171296,PRJNA688274,S129,Post-travel,adult,16873.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.448
+SAMN17171295,PRJNA688274,S129,Pre-travel,adult,16873.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.51
+SAMN17171378,PRJNA688274,S130,Post-travel,adult,10941.0,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.581
+SAMN17171377,PRJNA688274,S130,Pre-travel,adult,10941.0,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.533
+SAMN17171486,PRJNA688274,S131,Post-travel,adult,18127.4,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,0.992
+SAMN17171485,PRJNA688274,S131,Pre-travel,adult,18127.4,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.208
+SAMN17171298,PRJNA688274,S132,Post-travel,adult,9784.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.751
+SAMN17171297,PRJNA688274,S132,Pre-travel,adult,9784.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.09
+SAMN17171488,PRJNA688274,S133,Post-travel,adult,11206.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.21
+SAMN17171487,PRJNA688274,S133,Pre-travel,adult,11206.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.021
+SAMN17171490,PRJNA688274,S134,Post-travel,adult,15110.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.625
+SAMN17171489,PRJNA688274,S134,Pre-travel,adult,15110.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.24
+SAMN17171300,PRJNA688274,S135,Post-travel,adult,8087.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.288
+SAMN17171299,PRJNA688274,S135,Pre-travel,adult,8087.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.197
+SAMN17171302,PRJNA688274,S136,Post-travel,adult,9504.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.592
+SAMN17171301,PRJNA688274,S136,Pre-travel,adult,9504.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.994
+SAMN17171492,PRJNA688274,S137,Post-travel,adult,12345.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.383
+SAMN17171491,PRJNA688274,S137,Pre-travel,adult,12345.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.363
+SAMN17171494,PRJNA688274,S138,Post-travel,adult,11907.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.807
+SAMN17171493,PRJNA688274,S138,Pre-travel,adult,11907.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.126
+SAMN17171496,PRJNA688274,S139,Post-travel,adult,20388.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.702
+SAMN17171495,PRJNA688274,S139,Pre-travel,adult,20388.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.401
+SAMN17171304,PRJNA688274,S140,Post-travel,adult,10043.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.674
+SAMN17171303,PRJNA688274,S140,Pre-travel,adult,10043.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.073
+SAMN17171498,PRJNA688274,S141,Post-travel,adult,20198.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.142
+SAMN17171497,PRJNA688274,S141,Pre-travel,adult,20198.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.002
+SAMN17171306,PRJNA688274,S142,Post-travel,adult,10514.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.842
+SAMN17171305,PRJNA688274,S142,Pre-travel,adult,10514.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.124
+SAMN17171380,PRJNA688274,S143,Post-travel,adult,22046.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.008
+SAMN17171379,PRJNA688274,S143,Pre-travel,adult,22046.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.984
+SAMN17171588,PRJNA688274,S144,Post-travel,adult,22487.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.192
+SAMN17171587,PRJNA688274,S144,Pre-travel,adult,22487.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.084
+SAMN17171382,PRJNA688274,S145,Post-travel,adult,10850.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.064
+SAMN17171381,PRJNA688274,S145,Pre-travel,adult,10850.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,2.003
+SAMN17171384,PRJNA688274,S146,Post-travel,adult,15112.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.812
+SAMN17171383,PRJNA688274,S146,Pre-travel,adult,15112.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.138
+SAMN17171550,PRJNA688274,S147,Post-travel,adult,10619.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.101
+SAMN17171549,PRJNA688274,S147,Pre-travel,adult,10619.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.189
+SAMN17171500,PRJNA688274,S148,Post-travel,adult,14421.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.292
+SAMN17171499,PRJNA688274,S148,Pre-travel,adult,14421.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.221
+SAMN17171386,PRJNA688274,S149,Post-travel,adult,20196.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.803
+SAMN17171385,PRJNA688274,S149,Pre-travel,adult,20196.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.27
+SAMN17171388,PRJNA688274,S150,Post-travel,elderly,25419.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.312
+SAMN17171387,PRJNA688274,S150,Pre-travel,elderly,25419.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.341
+SAMN17171308,PRJNA688274,S151,Post-travel,elderly,24532.5,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.341
+SAMN17171307,PRJNA688274,S151,Pre-travel,elderly,24532.5,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.204
+SAMN17171310,PRJNA688274,S152,Post-travel,adult,20764.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.249
+SAMN17171309,PRJNA688274,S152,Pre-travel,adult,20764.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.101
+SAMN17171312,PRJNA688274,S153,Post-travel,adult,22075.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.15
+SAMN17171311,PRJNA688274,S153,Pre-travel,adult,22075.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.129
+SAMN17171314,PRJNA688274,S154,Post-travel,adult,20854.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.2
+SAMN17171313,PRJNA688274,S154,Pre-travel,adult,20854.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.0
+SAMN17171316,PRJNA688274,S155,Post-travel,adult,14540.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.608
+SAMN17171315,PRJNA688274,S155,Pre-travel,adult,14540.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.235
+SAMN17171502,PRJNA688274,S156,Post-travel,adult,13146.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.208
+SAMN17171501,PRJNA688274,S156,Pre-travel,adult,13146.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.035
+SAMN17171504,PRJNA688274,S157,Post-travel,adult,20793.0,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.377
+SAMN17171503,PRJNA688274,S157,Pre-travel,adult,20793.0,female,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.215
+SAMN17171552,PRJNA688274,S158,Post-travel,adult,21188.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.166
+SAMN17171551,PRJNA688274,S158,Pre-travel,adult,21188.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.146
+SAMN17171554,PRJNA688274,S159,Post-travel,adult,20134.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.268
+SAMN17171553,PRJNA688274,S159,Pre-travel,adult,20134.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.276
+SAMN17171506,PRJNA688274,S160,Post-travel,adult,17686.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.017
+SAMN17171505,PRJNA688274,S160,Pre-travel,adult,17686.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.537
+SAMN17171508,PRJNA688274,S161,Post-travel,adult,23506.9,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.696
+SAMN17171507,PRJNA688274,S161,Pre-travel,adult,23506.9,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.247
+SAMN17171318,PRJNA688274,S162,Post-travel,elderly,24562.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.743
+SAMN17171317,PRJNA688274,S162,Pre-travel,elderly,24562.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.83
+SAMN17171602,PRJNA688274,S163,Post-travel,adult,13575.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.118
+SAMN17171601,PRJNA688274,S163,Pre-travel,adult,13575.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.116
+SAMN17171556,PRJNA688274,S164,Post-travel,adult,21178.0,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,2.045
+SAMN17171555,PRJNA688274,S164,Pre-travel,adult,21178.0,male,NL,healthy_control,chronic gi disease: no,,,yes,2012-11/2013-11,primary,1.0,1.661
+SAMN17171390,PRJNA688274,S165,Post-travel,adult,20694.8,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.67
+SAMN17171389,PRJNA688274,S165,Pre-travel,adult,20694.8,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.523
+SAMN17171392,PRJNA688274,S166,Post-travel,adult,21834.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.006
+SAMN17171391,PRJNA688274,S166,Pre-travel,adult,21834.3,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.537
+SAMN17171320,PRJNA688274,S167,Post-travel,elderly,24984.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.268
+SAMN17171319,PRJNA688274,S167,Pre-travel,elderly,24984.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.231
+SAMN17171322,PRJNA688274,S168,Post-travel,elderly,24812.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.971
+SAMN17171321,PRJNA688274,S168,Pre-travel,elderly,24812.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.355
+SAMN17171558,PRJNA688274,S169,Post-travel,adult,9501.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.705
+SAMN17171557,PRJNA688274,S169,Pre-travel,adult,9501.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.257
+SAMN17171324,PRJNA688274,S170,Post-travel,adult,23718.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,0.956
+SAMN17171323,PRJNA688274,S170,Pre-travel,adult,23718.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.162
+SAMN17171560,PRJNA688274,S171,Post-travel,adult,18818.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.2
+SAMN17171559,PRJNA688274,S171,Pre-travel,adult,18818.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.184
+SAMN17171394,PRJNA688274,S172,Post-travel,adult,15453.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.115
+SAMN17171393,PRJNA688274,S172,Pre-travel,adult,15453.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.162
+SAMN17171326,PRJNA688274,S173,Post-travel,adult,10365.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.237
+SAMN17171325,PRJNA688274,S173,Pre-travel,adult,10365.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.723
+SAMN17171510,PRJNA688274,S174,Post-travel,adult,11421.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.446
+SAMN17171509,PRJNA688274,S174,Pre-travel,adult,11421.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.57
+SAMN17171512,PRJNA688274,S175,Post-travel,adult,20053.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.525
+SAMN17171511,PRJNA688274,S175,Pre-travel,adult,20053.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.146
+SAMN17171514,PRJNA688274,S176,Post-travel,adult,11564.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.318
+SAMN17171513,PRJNA688274,S176,Pre-travel,adult,11564.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.328
+SAMN17171562,PRJNA688274,S177,Post-travel,adult,8967.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.374
+SAMN17171561,PRJNA688274,S177,Pre-travel,adult,8967.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.255
+SAMN17171328,PRJNA688274,S178,Post-travel,adult,10651.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.153
+SAMN17171327,PRJNA688274,S178,Pre-travel,adult,10651.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.131
+SAMN17171396,PRJNA688274,S179,Post-travel,infant,58.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.156
+SAMN17171395,PRJNA688274,S179,Pre-travel,infant,58.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.184
+SAMN17171516,PRJNA688274,S180,Post-travel,elderly,24120.4,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.131
+SAMN17171515,PRJNA688274,S180,Pre-travel,elderly,24120.4,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.973
+SAMN17171518,PRJNA688274,S181,Post-travel,elderly,24607.3,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.176
+SAMN17171517,PRJNA688274,S181,Pre-travel,elderly,24607.3,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.045
+SAMN17171398,PRJNA688274,S182,Post-travel,adult,18391.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.914
+SAMN17171397,PRJNA688274,S182,Pre-travel,adult,18391.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.195
+SAMN17171590,PRJNA688274,S183,Post-travel,adult,9526.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.185
+SAMN17171589,PRJNA688274,S183,Pre-travel,adult,9526.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.144
+SAMN17171330,PRJNA688274,S184,Post-travel,adult,20265.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.875
+SAMN17171329,PRJNA688274,S184,Pre-travel,adult,20265.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.172
+SAMN17171520,PRJNA688274,S185,Post-travel,adult,19949.2,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.726
+SAMN17171519,PRJNA688274,S185,Pre-travel,adult,19949.2,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.046
+SAMN17171332,PRJNA688274,S186,Post-travel,adult,9718.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.131
+SAMN17171331,PRJNA688274,S186,Pre-travel,adult,9718.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.14
+SAMN17171576,PRJNA688274,S187,Post-travel,elderly,24473.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.753
+SAMN17171575,PRJNA688274,S187,Pre-travel,elderly,24473.0,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.225
+SAMN17171334,PRJNA688274,S188,Post-travel,adult,22827.3,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.192
+SAMN17171333,PRJNA688274,S188,Pre-travel,adult,22827.3,female,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.064
+SAMN17171336,PRJNA688274,S189,Post-travel,elderly,24620.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.274
+SAMN17171335,PRJNA688274,S189,Pre-travel,elderly,24620.5,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.177
+SAMN17171338,PRJNA688274,S190,Post-travel,adult,19441.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.115
+SAMN17171337,PRJNA688274,S190,Pre-travel,adult,19441.0,male,NL,healthy_control,chronic gi disease: no,,,no,2012-11/2013-11,primary,1.0,1.102
+SAMN17804153,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.399
+SAMN17804154,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.345
+SAMN17804155,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.562
+SAMN17804156,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.487
+SAMN17804157,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.234
+SAMN17804158,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.291
+SAMN17804159,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.629
+SAMN17804160,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.598
+SAMN17804161,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.493
+SAMN17804162,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.69
+SAMN17804163,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.56
+SAMN17804164,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.455
+SAMN17804165,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.651
+SAMN17804166,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.673
+SAMN17804167,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.368
+SAMN17804168,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.619
+SAMN17804169,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.2
+SAMN17804170,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.503
+SAMN17804171,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.495
+SAMN17804172,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.431
+SAMN17804173,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.35
+SAMN17804174,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.661
+SAMN17804175,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.619
+SAMN17804176,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.56
+SAMN17804177,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.482
+SAMN17804178,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.569
+SAMN17804179,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.64
+SAMN17804180,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.475
+SAMN17804181,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.427
+SAMN17804182,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.671
+SAMN17804183,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.48
+SAMN17804184,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.893
+SAMN17804185,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.482
+SAMN17804186,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.245
+SAMN17804187,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.624
+SAMN17804188,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.596
+SAMN17804189,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.54
+SAMN17804190,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.535
+SAMN17804191,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.247
+SAMN17804192,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.655
+SAMN17804193,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.631
+SAMN17804194,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.554
+SAMN17804195,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.557
+SAMN17804196,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.684
+SAMN17804197,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.236
+SAMN17804198,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.574
+SAMN17804199,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.637
+SAMN17804200,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.684
+SAMN17804201,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.546
+SAMN17804202,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.483
+SAMN17804203,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.633
+SAMN17804204,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.455
+SAMN17804205,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.63
+SAMN17804206,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.438
+SAMN17804207,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.438
+SAMN17804208,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.657
+SAMN17804209,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.693
+SAMN17804210,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.222
+SAMN17804211,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.65
+SAMN17804212,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.532
+SAMN17804213,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.508
+SAMN17804214,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.595
+SAMN17804215,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.487
+SAMN17804216,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.48
+SAMN17804217,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.605
+SAMN17804218,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.612
+SAMN17804219,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.676
+SAMN17804220,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.591
+SAMN17804221,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.525
+SAMN17804222,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.137
+SAMN17804223,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.54
+SAMN17804224,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.638
+SAMN17804225,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.143
+SAMN17804226,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.56
+SAMN17804227,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.637
+SAMN17804228,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.473
+SAMN17804229,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.451
+SAMN17804230,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.471
+SAMN17804231,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.467
+SAMN17804232,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.668
+SAMN17804233,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.452
+SAMN17804234,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.476
+SAMN17804235,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.423
+SAMN17804236,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.659
+SAMN17804237,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.711
+SAMN17804238,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.466
+SAMN17804239,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.345
+SAMN17804240,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.63
+SAMN17804241,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.442
+SAMN17804242,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.534
+SAMN17804243,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.508
+SAMN17804244,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.547
+SAMN17804245,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.388
+SAMN17804246,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.457
+SAMN17804247,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.526
+SAMN17804248,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.549
+SAMN17804249,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.611
+SAMN17804250,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.43
+SAMN17804251,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.426
+SAMN17804252,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.465
+SAMN17804253,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.582
+SAMN17804254,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.511
+SAMN17804255,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.565
+SAMN17804256,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.643
+SAMN17804257,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.43
+SAMN17804258,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.483
+SAMN17804259,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.456
+SAMN17804260,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.614
+SAMN17804261,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.56
+SAMN17804262,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.485
+SAMN17804263,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.456
+SAMN17804264,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.588
+SAMN17804265,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.544
+SAMN17804266,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.61
+SAMN17804267,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.372
+SAMN17804268,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.414
+SAMN17804269,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.461
+SAMN17804270,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.556
+SAMN17804271,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.488
+SAMN17804272,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.547
+SAMN17804273,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.504
+SAMN17804274,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.514
+SAMN17804275,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.616
+SAMN17804276,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.886
+SAMN17804277,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.654
+SAMN17804278,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.674
+SAMN17804279,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.575
+SAMN17804280,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.597
+SAMN17804281,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.623
+SAMN17804282,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.848
+SAMN17804283,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.555
+SAMN17804284,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.641
+SAMN17804285,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.573
+SAMN17804286,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.626
+SAMN17804287,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.458
+SAMN17804288,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.589
+SAMN17804289,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.52
+SAMN17804290,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.613
+SAMN17804291,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.545
+SAMN17804292,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.582
+SAMN17804293,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.554
+SAMN17804294,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.577
+SAMN17804295,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.476
+SAMN17804296,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.599
+SAMN17804297,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.529
+SAMN17804298,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.555
+SAMN17804299,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.539
+SAMN17804300,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.475
+SAMN17804301,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.549
+SAMN17804302,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.669
+SAMN17804303,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.5
+SAMN17804304,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.625
+SAMN17804305,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.511
+SAMN17804306,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.532
+SAMN17804307,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.419
+SAMN17804308,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.49
+SAMN17804309,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.51
+SAMN17804310,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.465
+SAMN17804311,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.468
+SAMN17804312,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.759
+SAMN17804313,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.541
+SAMN17804314,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.435
+SAMN17804315,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.471
+SAMN17804316,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.5
+SAMN17804317,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.44
+SAMN17804318,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.473
+SAMN17804319,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.467
+SAMN17804320,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.505
+SAMN17804321,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.536
+SAMN17804322,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.64
+SAMN17804323,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.531
+SAMN17804324,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.68
+SAMN17804325,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.667
+SAMN17804326,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.648
+SAMN17804327,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.584
+SAMN17804328,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.515
+SAMN17804329,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.647
+SAMN17804330,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.512
+SAMN17804331,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.453
+SAMN17804332,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.228
+SAMN17804333,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.559
+SAMN17804334,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.373
+SAMN17804335,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.411
+SAMN17804336,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.579
+SAMN17804337,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.575
+SAMN17804338,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.496
+SAMN17804339,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.507
+SAMN17804340,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.565
+SAMN17804341,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.49
+SAMN17804342,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.509
+SAMN17804343,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.491
+SAMN17804344,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.455
+SAMN17804345,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.449
+SAMN17804346,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.344
+SAMN17804347,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.401
+SAMN17804348,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.513
+SAMN17804349,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.438
+SAMN17804350,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.39
+SAMN17804351,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.6
+SAMN17804352,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.405
+SAMN17804353,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.378
+SAMN17804354,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.588
+SAMN17804355,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.423
+SAMN17804356,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.322
+SAMN17804357,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.469
+SAMN17804358,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.301
+SAMN17804359,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.456
+SAMN17804360,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.438
+SAMN17804361,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.434
+SAMN17804362,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.613
+SAMN17804363,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.479
+SAMN17804364,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.475
+SAMN17804365,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.521
+SAMN17804366,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.471
+SAMN17804367,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.37
+SAMN17804368,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.553
+SAMN17804369,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.507
+SAMN17804370,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.301
+SAMN17804371,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.448
+SAMN17804372,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.512
+SAMN17804373,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.685
+SAMN17804374,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.525
+SAMN17804375,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.495
+SAMN17804376,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.277
+SAMN17804377,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.63
+SAMN17804378,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.461
+SAMN17804379,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.575
+SAMN17804380,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.587
+SAMN17804381,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.567
+SAMN17804382,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.545
+SAMN17804383,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.467
+SAMN17804384,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.621
+SAMN17804385,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.614
+SAMN17804386,PRJNA688274,,Post-travel,adult,,,NL,healthy_control,international travelers visiting Africa or Asia,,,yes,2012-11/2013-11,primary,1.0,0.671

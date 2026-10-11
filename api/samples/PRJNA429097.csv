@@ -1,0 +1,195 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN08329222,PRJNA429097,,,adult,15340.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2015-12-23,primary,1.0,4.948
+SAMN08329223,PRJNA429097,,,adult,17532.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2015-12-26,primary,1.0,5.544
+SAMN08329224,PRJNA429097,,,adult,17897.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2015-12-28,primary,1.0,4.492
+SAMN08329225,PRJNA429097,,,adult,14244.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2015-12-29,primary,1.0,6.098
+SAMN08329226,PRJNA429097,,,elderly,24471.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2015-12-30,primary,1.0,5.095
+SAMN08329227,PRJNA429097,,,adult,21549.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-04,primary,1.0,7.304
+SAMN08329228,PRJNA429097,,,adult,18627.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-07,primary,1.0,5.554
+SAMN08329229,PRJNA429097,,,,23741.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-07,primary,1.0,5.108
+SAMN08329230,PRJNA429097,,,elderly,27759.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-07,primary,1.0,5.116
+SAMN08330722,PRJNA429097,,,elderly,26298.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-08,primary,1.0,4.676
+SAMN08330723,PRJNA429097,,,elderly,24106.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-12,primary,1.0,4.845
+SAMN08330724,PRJNA429097,,,adult,14244.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-14,primary,1.0,5.592
+SAMN08330725,PRJNA429097,,,adult,10227.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-14,primary,1.0,5.665
+SAMN08330726,PRJNA429097,,,adult,17532.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-15,primary,1.0,5.076
+SAMN08330727,PRJNA429097,,,adult,19723.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-15,primary,1.0,4.468
+SAMN08330728,PRJNA429097,,,elderly,24106.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-18,primary,1.0,5.221
+SAMN08330729,PRJNA429097,,,adult,22280.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-19,primary,1.0,5.536
+SAMN08330730,PRJNA429097,,,adult,14975.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-20,primary,1.0,5.391
+SAMN08330731,PRJNA429097,,,adult,17166.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-20,primary,1.0,4.991
+SAMN08330732,PRJNA429097,,,adult,21549.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-22,primary,1.0,6.061
+SAMN08330733,PRJNA429097,,,adult,22280.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-26,primary,1.0,6.159
+SAMN08330734,PRJNA429097,,,,23741.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-01-29,primary,1.0,6.725
+SAMN08330735,PRJNA429097,,,adult,18262.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-02-29,primary,1.0,5.681
+SAMN08330736,PRJNA429097,,,adult,12053.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-01,primary,1.0,4.545
+SAMN08330737,PRJNA429097,,,adult,17166.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-03,primary,1.0,6.664
+SAMN08330738,PRJNA429097,,,adult,21549.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-03,primary,1.0,7.113
+SAMN08330739,PRJNA429097,,,adult,22645.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-07,primary,1.0,6.164
+SAMN08330740,PRJNA429097,,,elderly,25932.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-07,primary,1.0,5.783
+SAMN08330741,PRJNA429097,,,adult,18627.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-07,primary,1.0,5.994
+SAMN08330742,PRJNA429097,,,adult,16801.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-07,primary,1.0,5.925
+SAMN08330743,PRJNA429097,,,elderly,25932.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-07,primary,1.0,5.638
+SAMN08330744,PRJNA429097,,,adult,22280.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-08,primary,1.0,6.335
+SAMN08330745,PRJNA429097,,,adult,21915.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-08,primary,1.0,6.414
+SAMN08330746,PRJNA429097,,,elderly,25932.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-11,primary,1.0,6.627
+SAMN08330747,PRJNA429097,,,adult,22645.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-11,primary,1.0,6.068
+SAMN08330748,PRJNA429097,,,adult,21184.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-11,primary,1.0,5.313
+SAMN08330749,PRJNA429097,,,adult,20819.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-12,primary,1.0,6.347
+SAMN08330750,PRJNA429097,,,adult,23376.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-12,primary,1.0,5.576
+SAMN08330751,PRJNA429097,,,elderly,25567.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-12,primary,1.0,5.675
+SAMN08330752,PRJNA429097,,,adult,10592.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-14,primary,1.0,6.314
+SAMN08335022,PRJNA429097,,,elderly,24837.0,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-07-13,primary,1.0,6.178
+SAMN08335023,PRJNA429097,,,adult,15340.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-07-14,primary,1.0,5.79
+SAMN08335024,PRJNA429097,,,,23741.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-07-20,primary,1.0,7.395
+SAMN08335025,PRJNA429097,,,adult,17166.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-07-20,primary,1.0,6.169
+SAMN08335026,PRJNA429097,,,adult,15340.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-07-29,primary,1.0,5.599
+SAMN08335027,PRJNA429097,,,adult,21915.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-05,primary,1.0,6.407
+SAMN08335028,PRJNA429097,,,adult,16436.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-10,primary,1.0,7.234
+SAMN08335029,PRJNA429097,,,adult,22645.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-10,primary,1.0,6.537
+SAMN08335030,PRJNA429097,,,adult,21184.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-10,primary,1.0,6.583
+SAMN08335031,PRJNA429097,,,adult,14244.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-17,primary,1.0,6.439
+SAMN08335032,PRJNA429097,,,elderly,26298.0,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-17,primary,1.0,5.598
+SAMN08335033,PRJNA429097,,,adult,11688.0,female,CN,healthy_control,Healthy,,,,2016-04-11,primary,1.0,6.752
+SAMN08335034,PRJNA429097,,,adult,15340.5,male,CN,healthy_control,Healthy,,,,2016-05-09,primary,1.0,5.994
+SAMN08335035,PRJNA429097,,,adult,14975.25,male,CN,healthy_control,Healthy,,,,2016-05-09,primary,1.0,5.884
+SAMN08335036,PRJNA429097,,,adult,13514.25,male,CN,healthy_control,Healthy,,,,2016-06-05,primary,1.0,5.707
+SAMN08335037,PRJNA429097,,,adult,14610.0,female,CN,healthy_control,Healthy,,,,2016-06-22,primary,1.0,5.877
+SAMN08335038,PRJNA429097,,,adult,16436.25,female,CN,healthy_control,Healthy,,,,2016-07-13,primary,1.0,7.555
+SAMN08335039,PRJNA429097,,,adult,14610.0,female,CN,healthy_control,Healthy,,,,2016-07-14,primary,1.0,7.054
+SAMN08335040,PRJNA429097,,,adult,17897.25,male,CN,healthy_control,Healthy,,,,2016-07-20,primary,1.0,6.78
+SAMN08335041,PRJNA429097,,,elderly,26298.0,male,CN,healthy_control,Healthy,,,,2016-07-20,primary,1.0,7.023
+SAMN08335042,PRJNA429097,,,adult,14975.25,female,CN,healthy_control,Healthy,,,,2016-07-29,primary,1.0,6.975
+SAMN08335043,PRJNA429097,,,adult,15340.5,male,CN,healthy_control,Healthy,,,,2016-08-05,primary,1.0,6.086
+SAMN08335044,PRJNA429097,,,adult,17166.75,male,CN,healthy_control,Healthy,,,,2016-08-10,primary,1.0,6.433
+SAMN08335045,PRJNA429097,,,adult,16071.0,male,CN,healthy_control,Healthy,,,,2016-08-11,primary,1.0,6.632
+SAMN08335046,PRJNA429097,,,elderly,26298.0,male,CN,healthy_control,Healthy,,,,2016-08-17,primary,1.0,6.328
+SAMN08335047,PRJNA429097,,,adult,20454.0,female,CN,healthy_control,Healthy,,,,2016-08-10,primary,1.0,7.011
+SAMN08335048,PRJNA429097,,,adult,14610.0,male,CN,healthy_control,Healthy,,,,2016-08-17,primary,1.0,6.495
+SAMN08335049,PRJNA429097,,,adult,13514.25,female,CN,healthy_control,Healthy,,,,2016-08-10,primary,1.0,6.267
+SAMN08335050,PRJNA429097,,,adult,21549.75,female,CN,healthy_control,Healthy,,,,2016-08-26,primary,1.0,5.643
+SAMN08335051,PRJNA429097,,,adult,11688.0,male,CN,healthy_control,Healthy,,,,2016-09-14,primary,1.0,5.965
+SAMN08335052,PRJNA429097,,,adult,12418.5,male,CN,healthy_control,Healthy,,,,2016-09-22,primary,1.0,6.688
+SAMN08335053,PRJNA429097,,,adult,16436.25,female,CN,healthy_control,Healthy,,,,2016-09-23,primary,1.0,6.269
+SAMN08335054,PRJNA429097,,,adult,14244.75,male,CN,healthy_control,Healthy,,,,2016-10-02,primary,1.0,5.706
+SAMN08335055,PRJNA429097,,,adult,18993.0,male,CN,healthy_control,Healthy,,,,2016-10-02,primary,1.0,4.964
+SAMN08335056,PRJNA429097,,,adult,18993.0,male,CN,healthy_control,Healthy,,,,2016-10-08,primary,1.0,5.976
+SAMN08335057,PRJNA429097,,,adult,9861.75,female,CN,healthy_control,Healthy,,,,2016-10-11,primary,1.0,5.273
+SAMN08335058,PRJNA429097,,,adult,15340.5,female,CN,healthy_control,Healthy,,,,2016-10-11,primary,1.0,5.577
+SAMN08335059,PRJNA429097,,,adult,12783.75,male,CN,healthy_control,Healthy,,,,2016-10-11,primary,1.0,5.294
+SAMN08335060,PRJNA429097,,,adult,18262.5,female,CN,healthy_control,Healthy,,,,2016-10-18,primary,1.0,5.827
+SAMN08335061,PRJNA429097,,,adult,19723.5,male,CN,healthy_control,Healthy,,,,2016-10-19,primary,1.0,5.231
+SAMN08335062,PRJNA429097,,,adult,23376.0,female,CN,healthy_control,Healthy,,,,2016-10-13,primary,1.0,6.28
+SAMN08335063,PRJNA429097,,,adult,7305.0,female,CN,healthy_control,Healthy,,,,2016-10-18,primary,1.0,5.928
+SAMN08335064,PRJNA429097,,,adult,17897.25,male,CN,healthy_control,Healthy,,,,2016-10-19,primary,1.0,5.149
+SAMN08335065,PRJNA429097,,,adult,22645.5,female,CN,healthy_control,Healthy,,,,2016-10-21,primary,1.0,5.861
+SAMN08335066,PRJNA429097,,,adult,15340.5,female,CN,healthy_control,Healthy,,,,2016-10-24,primary,1.0,5.909
+SAMN08335067,PRJNA429097,,,adult,12783.75,female,CN,healthy_control,Healthy,,,,2016-10-25,primary,1.0,6.534
+SAMN08335068,PRJNA429097,,,adult,11688.0,female,CN,healthy_control,Healthy,,,,2016-10-21,primary,1.0,5.369
+SAMN08335069,PRJNA429097,,,adult,15705.75,female,CN,healthy_control,Healthy,,,,2016-10-25,primary,1.0,5.088
+SAMN08335070,PRJNA429097,,,adult,11688.0,male,CN,healthy_control,Healthy,,,,2016-10-23,primary,1.0,5.374
+SAMN08335071,PRJNA429097,,,adult,12418.5,female,CN,healthy_control,Healthy,,,,2016-10-23,primary,1.0,5.499
+SAMN08335072,PRJNA429097,,,adult,21184.5,female,CN,healthy_control,Healthy,,,,2016-11-03,primary,1.0,5.916
+SAMN08335073,PRJNA429097,,,adult,12053.25,male,CN,healthy_control,Healthy,,,,2016-11-03,primary,1.0,5.597
+SAMN08335074,PRJNA429097,,,adult,18262.5,female,CN,healthy_control,Healthy,,,,2016-11-03,primary,1.0,5.667
+SAMN08335075,PRJNA429097,,,adult,18993.0,male,CN,healthy_control,Healthy,,,,2016-11-03,primary,1.0,5.718
+SAMN08335076,PRJNA429097,,,adult,8766.0,male,CN,healthy_control,Healthy,,,,2016-11-03,primary,1.0,5.494
+SAMN08335077,PRJNA429097,,,adult,13514.25,male,CN,healthy_control,Healthy,,,,2016-11-15,primary,1.0,5.094
+SAMN08335078,PRJNA429097,,,adult,10592.25,female,CN,healthy_control,Healthy,,,,2016-11-10,primary,1.0,7.545
+SAMN08335079,PRJNA429097,,,adult,16436.25,female,CN,healthy_control,Healthy,,,,2016-11-11,primary,1.0,5.366
+SAMN08335080,PRJNA429097,,,adult,17532.0,male,CN,healthy_control,Healthy,,,,2016-11-15,primary,1.0,5.872
+SAMN08335081,PRJNA429097,,,elderly,24106.5,male,CN,healthy_control,Healthy,,,,2016-11-15,primary,1.0,5.055
+SAMN08335082,PRJNA429097,,,adult,13879.5,male,CN,healthy_control,Healthy,,,,2016-11-11,primary,1.0,5.942
+SAMN08335083,PRJNA429097,,,adult,13149.0,male,CN,healthy_control,Healthy,,,,2016-11-25,primary,1.0,5.532
+SAMN08335084,PRJNA429097,,,,23741.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-23,primary,1.0,5.668
+SAMN08335085,PRJNA429097,,,adult,21184.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-26,primary,1.0,4.8
+SAMN08335086,PRJNA429097,,,adult,22645.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-08-30,primary,1.0,5.263
+SAMN08335087,PRJNA429097,,,adult,18262.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-09-14,primary,1.0,5.955
+SAMN08335088,PRJNA429097,,,elderly,24837.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-09-22,primary,1.0,5.321
+SAMN08335089,PRJNA429097,,,elderly,25932.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-09-23,primary,1.0,5.859
+SAMN08335090,PRJNA429097,,,adult,18262.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-11,primary,1.0,5.918
+SAMN08335091,PRJNA429097,,,adult,23376.0,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-11,primary,1.0,5.819
+SAMN08335092,PRJNA429097,,,adult,15705.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-11,primary,1.0,5.729
+SAMN08335093,PRJNA429097,,,adult,23010.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-13,primary,1.0,5.447
+SAMN08335094,PRJNA429097,,,adult,18627.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-18,primary,1.0,5.224
+SAMN08335095,PRJNA429097,,,adult,19723.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-18,primary,1.0,5.653
+SAMN08335096,PRJNA429097,,,adult,19723.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-19,primary,1.0,6.37
+SAMN08335097,PRJNA429097,,,adult,16071.0,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-19,primary,1.0,5.39
+SAMN08335098,PRJNA429097,,,adult,23010.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-21,primary,1.0,5.794
+SAMN08335099,PRJNA429097,,,adult,18627.75,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-21,primary,1.0,5.648
+SAMN08335100,PRJNA429097,,,adult,13149.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-23,primary,1.0,5.672
+SAMN08335101,PRJNA429097,,,adult,19723.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-23,primary,1.0,5.723
+SAMN08335102,PRJNA429097,,,elderly,25202.25,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-24,primary,1.0,5.64
+SAMN08335103,PRJNA429097,,,adult,16071.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-25,primary,1.0,5.993
+SAMN08335104,PRJNA429097,,,adult,13879.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-10-25,primary,1.0,5.245
+SAMN08335105,PRJNA429097,,,adult,21184.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-03,primary,1.0,5.487
+SAMN08335106,PRJNA429097,,,adult,17532.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-03,primary,1.0,5.787
+SAMN08335107,PRJNA429097,,,adult,18993.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-03,primary,1.0,5.943
+SAMN08335108,PRJNA429097,,,adult,19723.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-03,primary,1.0,6.5
+SAMN08335109,PRJNA429097,,,adult,18993.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-10,primary,1.0,5.666
+SAMN08335110,PRJNA429097,,,,23741.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-11,primary,1.0,5.459
+SAMN08335111,PRJNA429097,,,elderly,27028.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-15,primary,1.0,4.973
+SAMN08335112,PRJNA429097,,,adult,22645.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-15,primary,1.0,6.216
+SAMN08335113,PRJNA429097,,,adult,21184.5,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-15,primary,1.0,5.789
+SAMN08335114,PRJNA429097,,,elderly,24471.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-11-25,primary,1.0,6.473
+SAMN08335115,PRJNA429097,,,adult,19358.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-17,primary,1.0,5.334
+SAMN08335116,PRJNA429097,,,adult,17166.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-18,primary,1.0,5.447
+SAMN08335117,PRJNA429097,,,adult,15705.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-21,primary,1.0,6.05
+SAMN08335118,PRJNA429097,,,adult,16801.5,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-22,primary,1.0,5.849
+SAMN08335119,PRJNA429097,,,adult,23376.0,female,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-25,primary,1.0,6.311
+SAMN08335120,PRJNA429097,,,adult,15705.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-03-25,primary,1.0,5.957
+SAMN08335121,PRJNA429097,,,adult,23010.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-04-01,primary,1.0,6.099
+SAMN08335122,PRJNA429097,,,adult,18993.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-04-05,primary,1.0,5.322
+SAMN08335123,PRJNA429097,,,adult,17166.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-04-05,primary,1.0,5.356
+SAMN08335124,PRJNA429097,,,adult,18993.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-04-07,primary,1.0,4.857
+SAMN08335125,PRJNA429097,,,adult,12053.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-04-11,primary,1.0,4.267
+SAMN08335126,PRJNA429097,,,adult,18627.75,female,CN,healthy_control,Healthy,,,,2015-12-26,primary,1.0,4.565
+SAMN08335127,PRJNA429097,,,adult,15705.75,male,CN,healthy_control,Healthy,,,,2015-12-29,primary,1.0,5.077
+SAMN08335128,PRJNA429097,,,adult,14244.75,female,CN,healthy_control,Healthy,,,,2016-01-15,primary,1.0,5.629
+SAMN08335129,PRJNA429097,,,adult,16436.25,male,CN,healthy_control,Healthy,,,,2016-02-22,primary,1.0,6.15
+SAMN08335130,PRJNA429097,,,adult,9861.75,male,CN,healthy_control,Healthy,,,,2016-02-29,primary,1.0,5.272
+SAMN08335131,PRJNA429097,,,,23741.25,male,CN,healthy_control,Healthy,,,,2016-03-01,primary,1.0,6.429
+SAMN08335132,PRJNA429097,,,adult,14244.75,male,CN,healthy_control,Healthy,,,,2016-03-01,primary,1.0,6.022
+SAMN08335133,PRJNA429097,,,adult,13514.25,male,CN,healthy_control,Healthy,,,,2016-03-01,primary,1.0,6.139
+SAMN08335134,PRJNA429097,,,adult,16071.0,male,CN,healthy_control,Healthy,,,,2016-02-29,primary,1.0,7.374
+SAMN08335135,PRJNA429097,,,adult,13879.5,female,CN,healthy_control,Healthy,,,,2016-03-03,primary,1.0,5.255
+SAMN08335136,PRJNA429097,,,adult,15340.5,female,CN,healthy_control,Healthy,,,,2016-03-07,primary,1.0,6.524
+SAMN08335137,PRJNA429097,,,adult,13879.5,male,CN,healthy_control,Healthy,,,,2016-03-03,primary,1.0,5.76
+SAMN08335138,PRJNA429097,,,adult,20454.0,female,CN,healthy_control,Healthy,,,,2016-02-29,primary,1.0,6.194
+SAMN08335139,PRJNA429097,,,adult,14975.25,male,CN,healthy_control,Healthy,,,,2016-02-29,primary,1.0,5.505
+SAMN08335140,PRJNA429097,,,adult,15705.75,female,CN,healthy_control,Healthy,,,,2016-03-07,primary,1.0,5.84
+SAMN08335141,PRJNA429097,,,adult,17897.25,female,CN,healthy_control,Healthy,,,,2016-03-13,primary,1.0,4.778
+SAMN08335142,PRJNA429097,,,adult,14975.25,male,CN,healthy_control,Healthy,,,,2016-03-15,primary,1.0,5.5
+SAMN08335143,PRJNA429097,,,adult,10227.0,male,CN,healthy_control,Healthy,,,,2016-04-05,primary,1.0,6.401
+SAMN08335144,PRJNA429097,,,adult,20088.75,male,CN,healthy_control,Healthy,,,,2016-04-05,primary,1.0,4.649
+SAMN08335145,PRJNA429097,,,elderly,25202.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-05-09,primary,1.0,6.586
+SAMN08335146,PRJNA429097,,,adult,18993.0,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-05-26,primary,1.0,5.438
+SAMN08335147,PRJNA429097,,,adult,22280.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-06-05,primary,1.0,6.047
+SAMN08335148,PRJNA429097,,,adult,14975.25,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-06-22,primary,1.0,6.809
+SAMN08335149,PRJNA429097,,,adult,23010.75,male,CN,colorectal_cancer,colorectal cancer,,,no,2016-06-24,primary,1.0,6.89
+SAMN08335919,PRJNA429097,,,adult,15340.5,female,CN,healthy_control,Healthy,,,,2016-04-09,primary,1.0,5.264
+SAMN08335920,PRJNA429097,,,adult,12053.25,male,CN,healthy_control,Healthy,,,,2016-05-14,primary,1.0,5.065
+SAMN08335921,PRJNA429097,,,adult,15705.75,male,CN,healthy_control,Healthy,,,,2016-05-14,primary,1.0,5.298
+SAMN08335922,PRJNA429097,,,adult,11322.75,female,CN,healthy_control,Healthy,,,,2016-05-14,primary,1.0,6.494
+SAMN08335923,PRJNA429097,,,adult,18993.0,female,CN,healthy_control,Healthy,,,,2016-03-14,primary,1.0,6.942
+SAMN08335924,PRJNA429097,,,adult,9861.75,female,CN,healthy_control,Healthy,,,,2016-05-14,primary,1.0,5.919
+SAMN08335925,PRJNA429097,,,adult,13149.0,female,CN,healthy_control,Healthy,,,,2016-05-14,primary,1.0,5.268
+SAMN08335926,PRJNA429097,,,adult,15705.75,male,CN,healthy_control,Healthy,,,,2016-05-14,primary,1.0,5.657
+SAMN08335927,PRJNA429097,,,,,,CN,colorectal_cancer,Colorectal Neoplasms,,,,2016-06-23,primary,1.0,6.143
+SAMN08335928,PRJNA429097,,,adult,12053.25,male,CN,healthy_control,Healthy,,,,2016-06-23,primary,1.0,5.901
+SAMN08335929,PRJNA429097,,,adult,14975.25,male,CN,healthy_control,Healthy,,,,2016-06-23,primary,1.0,4.753
+SAMN08335930,PRJNA429097,,,adult,8035.5,female,CN,healthy_control,Healthy,,,,2016-06-23,primary,1.0,5.686
+SAMN08335931,PRJNA429097,,,adult,10957.5,female,CN,healthy_control,Healthy,,,,2016-06-23,primary,1.0,5.815
+SAMN08335932,PRJNA429097,,,adult,15340.5,female,CN,healthy_control,Healthy,,,,2016-06-23,primary,1.0,5.556
+SAMN08335933,PRJNA429097,,,adult,18627.75,male,CN,healthy_control,Healthy,,,,2016-06-23,primary,1.0,5.48
+SAMN08335934,PRJNA429097,,,adult,14244.75,female,CN,healthy_control,Healthy,,,,2016-08-11,primary,1.0,5.465
+SAMN08335935,PRJNA429097,,,adult,16436.25,female,CN,healthy_control,Healthy,,,,2016-08-11,primary,1.0,4.803
+SAMN08335936,PRJNA429097,,,adult,18993.0,female,CN,healthy_control,Healthy,,,,2016-08-11,primary,1.0,4.307
+SAMN08335937,PRJNA429097,,,adult,16801.5,female,CN,healthy_control,Healthy,,,,2016-08-11,primary,1.0,4.933
+SAMN08335938,PRJNA429097,,,adult,13514.25,male,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,6.153
+SAMN08335939,PRJNA429097,,,adult,21915.0,male,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,6.173
+SAMN08335940,PRJNA429097,,,adult,18627.75,male,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,4.963
+SAMN08335941,PRJNA429097,,,adult,17897.25,female,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,6.066
+SAMN08335942,PRJNA429097,,,adult,17532.0,female,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,5.701
+SAMN08335943,PRJNA429097,,,adult,10592.25,female,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,5.977
+SAMN08335944,PRJNA429097,,,adult,17532.0,male,CN,healthy_control,Healthy,,,,2016-10-01,primary,1.0,5.33

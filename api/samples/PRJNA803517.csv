@@ -1,0 +1,13 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN36348514,PRJNA803517,CR1,27,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,fmt,,,2020-01-15,primary,1.0,4.809
+SAMN36348515,PRJNA803517,CR2,28,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,fmt,,,2020-02-05,primary,1.0,4.151
+SAMN36348516,PRJNA803517,CR2,pre,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,no_intervention,,,2020-01-07,primary,1.0,6.214
+SAMN36348517,PRJNA803517,CR3,32,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,fmt,,,2018-06-05,primary,1.0,4.277
+SAMN36348518,PRJNA803517,CR3,pre,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,no_intervention,,,2018-04,primary,1.0,4.95
+SAMN36348519,PRJNA803517,CR6,pre,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,no_intervention,,,2017-06-08,primary,1.0,5.273
+SAMN36348520,PRJNA803517,CR7,48,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,fmt,,,2019-12-03,primary,1.0,5.014
+SAMN36348521,PRJNA803517,CR7,pre,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,no_intervention,,,2019-08-15,primary,1.0,6.085
+SAMN36348522,PRJNA803517,nCR2,13,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,fmt,,,2019-12-10,primary,1.0,3.718
+SAMN36348523,PRJNA803517,nCR2,pre1,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,no_intervention,,,2019-11-26,primary,1.0,4.889
+SAMN36348524,PRJNA803517,nCR4,21,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,fmt,,,2018-05-22,primary,1.0,4.132
+SAMN36348525,PRJNA803517,nCR4,pre,adult,,,US,,mixed_case_control: patients with immune checkpoint inhibitor-induced colitis vs healthy FMT donors,no_intervention,,,2018-04-30,primary,1.0,6.171

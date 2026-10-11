@@ -1,0 +1,344 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN46743967,PRJNA1221567,,,child,3645.2,,US,,,,,,,primary,1.0,0.505
+SAMN46743968,PRJNA1221567,,,child,3656.2,,US,,,,,,,primary,1.0,0.633
+SAMN46743969,PRJNA1221567,,,child,3648.8,,US,,,,,,,primary,1.0,0.645
+SAMN46743970,PRJNA1221567,,,child,3663.5,,US,,,,,,,primary,1.0,0.293
+SAMN46743971,PRJNA1221567,,,child,3656.2,,US,,,,,,,primary,1.0,0.511
+SAMN46743972,PRJNA1221567,,,child,3663.5,,US,,,,,,,primary,1.0,0.362
+SAMN46743973,PRJNA1221567,,,child,3670.8,,US,,,,,,,primary,1.0,0.586
+SAMN46743974,PRJNA1221567,,,child,3667.1,,US,,,,,,,primary,1.0,0.19
+SAMN46743975,PRJNA1221567,,,child,3678.1,,US,,,,,,,primary,1.0,0.127
+SAMN46743976,PRJNA1221567,,,child,3681.7,,US,,,,,,,primary,1.0,0.193
+SAMN46743977,PRJNA1221567,,,child,3696.3,,US,,,,,,,primary,1.0,0.3
+SAMN46743978,PRJNA1221567,,,infant,858.3,,US,,,,,,,primary,1.0,1.207
+SAMN46743979,PRJNA1221567,,,child,1643.6,,US,,,,,,,primary,1.0,1.226
+SAMN46743980,PRJNA1221567,,,child,3692.7,,US,,,,,,,primary,1.0,0.616
+SAMN46743981,PRJNA1221567,,,child,3700.0,,US,,,,,,,primary,1.0,0.828
+SAMN46743982,PRJNA1221567,,,child,3707.3,,US,,,,,,,primary,1.0,0.361
+SAMN46743983,PRJNA1221567,,,child,3700.0,,US,,,,,,,primary,1.0,0.771
+SAMN46743984,PRJNA1221567,,,child,3714.6,,US,,,,,,,primary,1.0,0.593
+SAMN46743985,PRJNA1221567,,,child,1658.2,,US,,,,,,,primary,1.0,0.07
+SAMN46743986,PRJNA1221567,,,child,3707.3,,US,,,,,,,primary,1.0,0.532
+SAMN46743987,PRJNA1221567,,,infant,880.3,,US,,,,,,,primary,1.0,0.35
+SAMN46743988,PRJNA1221567,,,child,3714.6,,US,,,,,,,primary,1.0,0.561
+SAMN46743989,PRJNA1221567,,,child,3721.9,,US,,,,,,,primary,1.0,0.004
+SAMN46743990,PRJNA1221567,,,child,1665.5,,US,,,,,,,primary,1.0,0.116
+SAMN46743991,PRJNA1221567,,,infant,883.9,,US,,,,,,,primary,1.0,1.17
+SAMN46743992,PRJNA1221567,,,child,3729.2,,US,,,,,,,primary,1.0,1.029
+SAMN46743993,PRJNA1221567,,,child,3721.9,,US,,,,,,,primary,1.0,0.916
+SAMN46743994,PRJNA1221567,,,child,1672.8,,US,,,,,,,primary,1.0,0.677
+SAMN46743995,PRJNA1221567,,,child,3732.9,,US,,,,,,,primary,1.0,0.713
+SAMN46743996,PRJNA1221567,,,child,3729.2,,US,,,,,,,primary,1.0,0.749
+SAMN46743997,PRJNA1221567,,,child,3740.2,,US,,,,,,,primary,1.0,0.679
+SAMN46743998,PRJNA1221567,,,child,3732.9,,US,,,,,,,primary,1.0,0.525
+SAMN46743999,PRJNA1221567,,,infant,920.4,,US,,,,,,,primary,1.0,0.003
+SAMN46744000,PRJNA1221567,,,child,3740.2,,US,,,,,,,primary,1.0,0.519
+SAMN46744001,PRJNA1221567,,,child,3751.1,,US,,,,,,,primary,1.0,0.59
+SAMN46744002,PRJNA1221567,,,child,1698.4,,US,,,,,,,primary,1.0,1.062
+SAMN46744003,PRJNA1221567,,,child,3758.4,,US,,,,,,,primary,1.0,1.266
+SAMN46744004,PRJNA1221567,,,child,3751.1,,US,,,,,,,primary,1.0,0.739
+SAMN46744005,PRJNA1221567,,,child,3769.4,,US,,,,,,,primary,1.0,1.239
+SAMN46744006,PRJNA1221567,,,infant,935.0,,US,,,,,,,primary,1.0,0.617
+SAMN46744007,PRJNA1221567,,,child,1720.3,,US,,,,,,,primary,1.0,0.675
+SAMN46744008,PRJNA1221567,,,infant,960.6,,US,,,,,,,primary,1.0,0.395
+SAMN46744009,PRJNA1221567,,,infant,967.9,,US,,,,,,,primary,1.0,0.957
+SAMN46744010,PRJNA1221567,,,infant,975.2,,US,,,,,,,primary,1.0,0.803
+SAMN46744011,PRJNA1221567,,,infant,982.5,,US,,,,,,,primary,1.0,0.512
+SAMN46744012,PRJNA1221567,,,infant,989.8,,US,,,,,,,primary,1.0,0.392
+SAMN46744013,PRJNA1221567,,,infant,1000.8,,US,,,,,,,primary,1.0,0.36
+SAMN46744014,PRJNA1221567,,,infant,1008.1,,US,,,,,,,primary,1.0,0.822
+SAMN46744015,PRJNA1221567,,,infant,1011.7,,US,,,,,,,primary,1.0,1.058
+SAMN46744016,PRJNA1221567,,,infant,1019.0,,US,,,,,,,primary,1.0,0.958
+SAMN46744017,PRJNA1221567,,,child,1906.6,,US,,,,,,,primary,1.0,1.038
+SAMN46744018,PRJNA1221567,,,infant,1026.4,,US,,,,,,,primary,1.0,0.867
+SAMN46744019,PRJNA1221567,,,infant,1033.7,,US,,,,,,,primary,1.0,0.821
+SAMN46744020,PRJNA1221567,,,child,1913.9,,US,,,,,,,primary,1.0,0.405
+SAMN46744021,PRJNA1221567,,,child,2195.2,,US,,,,,,,primary,1.0,0.757
+SAMN46744022,PRJNA1221567,,,child,2198.8,,US,,,,,,,primary,1.0,0.925
+SAMN46744023,PRJNA1221567,,,infant,1041.0,,US,,,,,,,primary,1.0,0.716
+SAMN46744024,PRJNA1221567,,,child,1921.2,,US,,,,,,,primary,1.0,0.0
+SAMN46744025,PRJNA1221567,,,child,2206.1,,US,,,,,,,primary,1.0,0.595
+SAMN46744026,PRJNA1221567,,,infant,1048.3,,US,,,,,,,primary,1.0,0.924
+SAMN46744027,PRJNA1221567,,,child,1924.9,,US,,,,,,,primary,1.0,1.135
+SAMN46744028,PRJNA1221567,,,child,2213.4,,US,,,,,,,primary,1.0,0.715
+SAMN46744029,PRJNA1221567,,,infant,1055.6,,US,,,,,,,primary,1.0,0.856
+SAMN46744030,PRJNA1221567,,,child,1935.8,,US,,,,,,,primary,1.0,0.851
+SAMN46744031,PRJNA1221567,,,child,2220.7,,US,,,,,,,primary,1.0,0.095
+SAMN46744032,PRJNA1221567,,,child,1943.1,,US,,,,,,,primary,1.0,0.756
+SAMN46744033,PRJNA1221567,,,child,2228.0,,US,,,,,,,primary,1.0,0.585
+SAMN46744034,PRJNA1221567,,,child,1508.5,,US,,,,,,,primary,1.0,0.551
+SAMN46744035,PRJNA1221567,,,infant,1066.5,,US,,,,,,,primary,1.0,0.979
+SAMN46744036,PRJNA1221567,,,child,1946.8,,US,,,,,,,primary,1.0,0.376
+SAMN46744037,PRJNA1221567,,,child,2235.3,,US,,,,,,,primary,1.0,0.157
+SAMN46744038,PRJNA1221567,,,child,1512.1,,US,,,,,,,primary,1.0,0.589
+SAMN46744039,PRJNA1221567,,,child,2239.0,,US,,,,,,,primary,1.0,0.808
+SAMN46744040,PRJNA1221567,,,child,1515.8,,US,,,,,,,primary,1.0,0.626
+SAMN46744041,PRJNA1221567,,,child,2246.3,,US,,,,,,,primary,1.0,0.717
+SAMN46744042,PRJNA1221567,,,child,1961.4,,US,,,,,,,primary,1.0,0.39
+SAMN46744043,PRJNA1221567,,,child,1523.1,,US,,,,,,,primary,1.0,0.7
+SAMN46744044,PRJNA1221567,,,child,1968.7,,US,,,,,,,primary,1.0,0.586
+SAMN46744045,PRJNA1221567,,,child,2253.6,,US,,,,,,,primary,1.0,0.606
+SAMN46744046,PRJNA1221567,,,child,1530.4,,US,,,,,,,primary,1.0,0.472
+SAMN46744047,PRJNA1221567,,,child,1979.7,,US,,,,,,,primary,1.0,0.576
+SAMN46744048,PRJNA1221567,,,child,2260.9,,US,,,,,,,primary,1.0,0.078
+SAMN46744049,PRJNA1221567,,,child,1983.3,,US,,,,,,,primary,1.0,0.66
+SAMN46744050,PRJNA1221567,,,child,2268.2,,US,,,,,,,primary,1.0,0.142
+SAMN46744051,PRJNA1221567,,,child,1545.0,,US,,,,,,,primary,1.0,0.532
+SAMN46744052,PRJNA1221567,,,child,3904.5,,US,,,,,,,primary,1.0,0.621
+SAMN46744053,PRJNA1221567,,,child,1990.6,,US,,,,,,,primary,1.0,0.776
+SAMN46744054,PRJNA1221567,,,child,2271.9,,US,,,,,,,primary,1.0,0.706
+SAMN46744055,PRJNA1221567,,,adolescent,4978.4,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.489
+SAMN46744056,PRJNA1221567,,,adolescent,4982.0,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.189
+SAMN46744057,PRJNA1221567,,,child,1997.9,,US,,,,,,,primary,1.0,0.24
+SAMN46744058,PRJNA1221567,,,child,2279.2,,US,,,,,,,primary,1.0,0.349
+SAMN46744059,PRJNA1221567,,,child,1559.6,,US,,,,,,,primary,1.0,0.294
+SAMN46744060,PRJNA1221567,,,child,3915.5,,US,,,,,,,primary,1.0,0.0
+SAMN46744061,PRJNA1221567,,,adolescent,4989.3,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.944
+SAMN46744062,PRJNA1221567,,,adolescent,4722.7,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,1.464
+SAMN46744063,PRJNA1221567,,,child,3922.8,,US,,,,,,,primary,1.0,1.251
+SAMN46744064,PRJNA1221567,,,child,2286.5,,US,,,,,,,primary,1.0,1.353
+SAMN46744065,PRJNA1221567,,,child,2293.8,,US,,,,,,,primary,1.0,0.898
+SAMN46744066,PRJNA1221567,,,child,1574.2,,US,,,,,,,primary,1.0,0.99
+SAMN46744067,PRJNA1221567,,,child,3930.1,,US,,,,,,,primary,1.0,0.28
+SAMN46744068,PRJNA1221567,,,adolescent,5000.3,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.705
+SAMN46744069,PRJNA1221567,,,child,2008.9,,US,,,,,,,primary,1.0,1.062
+SAMN46744070,PRJNA1221567,,,child,2301.1,,US,,,,,,,primary,1.0,0.604
+SAMN46744071,PRJNA1221567,,,child,3937.4,,US,,,,,,,primary,1.0,0.433
+SAMN46744072,PRJNA1221567,,,adolescent,5003.9,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.0
+SAMN46744073,PRJNA1221567,,,adolescent,5011.2,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.424
+SAMN46744074,PRJNA1221567,,,child,1585.2,,US,,,,,,,primary,1.0,1.526
+SAMN46744075,PRJNA1221567,,,child,3944.7,,US,,,,,,,primary,1.0,0.21
+SAMN46744076,PRJNA1221567,,,adolescent,5014.9,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.014
+SAMN46744077,PRJNA1221567,,,child,3952.0,,US,,,,,,,primary,1.0,0.786
+SAMN46744078,PRJNA1221567,,,child,2038.1,,US,,,,,,,primary,1.0,1.007
+SAMN46744079,PRJNA1221567,,,child,1603.4,,US,,,,,,,primary,1.0,1.425
+SAMN46744080,PRJNA1221567,,,child,3959.3,,US,,,,,,,primary,1.0,1.194
+SAMN46744081,PRJNA1221567,,,child,2045.4,,US,,,,,,,primary,1.0,1.007
+SAMN46744082,PRJNA1221567,,,child,1607.1,,US,,,,,,,primary,1.0,0.557
+SAMN46744083,PRJNA1221567,,,child,3966.6,,US,,,,,,,primary,1.0,0.318
+SAMN46744084,PRJNA1221567,,,child,3970.3,,US,,,,,,,primary,1.0,0.718
+SAMN46744085,PRJNA1221567,,,child,2052.7,,US,,,,,,,primary,1.0,1.313
+SAMN46744086,PRJNA1221567,,,child,3981.2,,US,,,,,,,primary,1.0,0.886
+SAMN46744087,PRJNA1221567,,,adolescent,5055.1,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.7
+SAMN46744088,PRJNA1221567,,,child,3992.2,,US,,,,,,,primary,1.0,0.76
+SAMN46744089,PRJNA1221567,,,adolescent,5062.4,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,1.02
+SAMN46744090,PRJNA1221567,,,infant,1066.5,,US,,,,,,,primary,1.0,1.038
+SAMN46744091,PRJNA1221567,,,child,3659.8,,US,,,,,,,primary,1.0,0.261
+SAMN46744092,PRJNA1221567,,,child,3659.8,,US,,,,,,,primary,1.0,0.007
+SAMN46744093,PRJNA1221567,,,child,3663.5,,US,,,,,,,primary,1.0,0.0
+SAMN46744094,PRJNA1221567,,,child,3663.5,,US,,,,,,,primary,1.0,0.613
+SAMN46744095,PRJNA1221567,,,child,3667.1,,US,,,,,,,primary,1.0,0.017
+SAMN46744096,PRJNA1221567,,,child,3667.1,,US,,,,,,,primary,1.0,0.028
+SAMN46744097,PRJNA1221567,,,child,3678.1,,US,,,,,,,primary,1.0,0.751
+SAMN46744098,PRJNA1221567,,,child,3678.1,,US,,,,,,,primary,1.0,0.054
+SAMN46744099,PRJNA1221567,,,child,3696.3,,US,,,,,,,primary,1.0,0.024
+SAMN46744100,PRJNA1221567,,,child,3696.3,,US,,,,,,,primary,1.0,0.02
+SAMN46744101,PRJNA1221567,,,child,3700.0,,US,,,,,,,primary,1.0,0.712
+SAMN46744102,PRJNA1221567,,,child,3700.0,,US,,,,,,,primary,1.0,0.035
+SAMN46744103,PRJNA1221567,,,child,1658.2,,US,,,,,,,primary,1.0,0.041
+SAMN46744104,PRJNA1221567,,,child,1658.2,,US,,,,,,,primary,1.0,0.363
+SAMN46744105,PRJNA1221567,,,infant,880.3,,US,,,,,,,primary,1.0,0.0
+SAMN46744106,PRJNA1221567,,,infant,880.3,,US,,,,,,,primary,1.0,0.061
+SAMN46744107,PRJNA1221567,,,child,1665.5,,US,,,,,,,primary,1.0,0.945
+SAMN46744108,PRJNA1221567,,,child,1665.5,,US,,,,,,,primary,1.0,0.023
+SAMN46744109,PRJNA1221567,,,infant,883.9,,US,,,,,,,primary,1.0,0.038
+SAMN46744110,PRJNA1221567,,,infant,883.9,,US,,,,,,,primary,1.0,0.602
+SAMN46744111,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,0.852
+SAMN46744112,PRJNA1221567,,,infant,975.2,,US,,,,,,,primary,1.0,0.044
+SAMN46744113,PRJNA1221567,,,infant,982.5,,US,,,,,,,primary,1.0,0.242
+SAMN46744114,PRJNA1221567,,,infant,982.5,,US,,,,,,,primary,1.0,0.038
+SAMN46744115,PRJNA1221567,,,infant,1019.0,,US,,,,,,,primary,1.0,0.012
+SAMN46744116,PRJNA1221567,,,infant,1019.0,,US,,,,,,,primary,1.0,0.121
+SAMN46744117,PRJNA1221567,,,infant,1026.4,,US,,,,,,,primary,1.0,0.0
+SAMN46744118,PRJNA1221567,,,infant,1026.4,,US,,,,,,,primary,1.0,0.038
+SAMN46744119,PRJNA1221567,,,child,1921.2,,US,,,,,,,primary,1.0,0.95
+SAMN46744120,PRJNA1221567,,,child,1921.2,,US,,,,,,,primary,1.0,0.031
+SAMN46744121,PRJNA1221567,,,child,1924.9,,US,,,,,,,primary,1.0,0.812
+SAMN46744122,PRJNA1221567,,,child,1924.9,,US,,,,,,,primary,1.0,0.04
+SAMN46744123,PRJNA1221567,,,child,2206.1,,US,,,,,,,primary,1.0,0.552
+SAMN46744124,PRJNA1221567,,,child,2206.1,,US,,,,,,,primary,1.0,0.031
+SAMN46744125,PRJNA1221567,,,child,2213.4,,US,,,,,,,primary,1.0,0.433
+SAMN46744126,PRJNA1221567,,,child,2213.4,,US,,,,,,,primary,1.0,0.069
+SAMN46744127,PRJNA1221567,,,child,1512.1,,US,,,,,,,primary,1.0,0.297
+SAMN46744128,PRJNA1221567,,,child,1512.1,,US,,,,,,,primary,1.0,0.0
+SAMN46744129,PRJNA1221567,,,child,1515.8,,US,,,,,,,primary,1.0,0.0
+SAMN46744130,PRJNA1221567,,,child,1515.8,,US,,,,,,,primary,1.0,0.032
+SAMN46744131,PRJNA1221567,,,child,1530.4,,US,,,,,,,primary,1.0,0.722
+SAMN46744132,PRJNA1221567,,,child,1530.4,,US,,,,,,,primary,1.0,0.034
+SAMN46744133,PRJNA1221567,,,child,1537.7,,US,,,,,,,primary,1.0,0.036
+SAMN46744134,PRJNA1221567,,,child,3919.1,,US,,,,,,,primary,1.0,0.2
+SAMN46744135,PRJNA1221567,,,child,3919.1,,US,,,,,,,primary,1.0,0.04
+SAMN46744136,PRJNA1221567,,,child,3922.8,,US,,,,,,,primary,1.0,0.996
+SAMN46744137,PRJNA1221567,,,child,3922.8,,US,,,,,,,primary,1.0,0.0
+SAMN46744138,PRJNA1221567,,,adolescent,4993.0,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.021
+SAMN46744139,PRJNA1221567,,,adolescent,4989.3,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.263
+SAMN46744140,PRJNA1221567,,,adolescent,4722.7,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.008
+SAMN46744141,PRJNA1221567,,,adolescent,4996.6,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.0
+SAMN46744142,PRJNA1221567,,,child,2038.1,,US,,,,,,,primary,1.0,0.039
+SAMN46744143,PRJNA1221567,,,child,2038.1,,US,,,,,,,primary,1.0,0.034
+SAMN46744144,PRJNA1221567,,,child,2045.4,,US,,,,,,,primary,1.0,0.037
+SAMN46744145,PRJNA1221567,,,child,2344.9,,US,,,,,,,primary,1.0,2.308
+SAMN46744146,PRJNA1221567,,,child,2483.7,,US,,,,,,,primary,1.0,2.343
+SAMN46744147,PRJNA1221567,,,infant,361.6,,US,,,,,,,primary,1.0,1.536
+SAMN46744148,PRJNA1221567,,,infant,745.1,,US,,,,,,,primary,1.0,1.7
+SAMN46744149,PRJNA1221567,,,infant,672.1,,US,,,,,,,primary,1.0,2.294
+SAMN46744150,PRJNA1221567,,,child,1534.0,,US,,,,,,,primary,1.0,2.717
+SAMN46744151,PRJNA1221567,,,infant,1059.2,,US,,,,,,,primary,1.0,3.81
+SAMN46744152,PRJNA1221567,,,child,1110.4,,US,,,,,,,primary,1.0,3.024
+SAMN46744153,PRJNA1221567,,,infant,756.1,,US,,,,,,,primary,1.0,3.066
+SAMN46744154,PRJNA1221567,,,infant,953.3,,US,,,,,,,primary,1.0,3.906
+SAMN46744155,PRJNA1221567,,,adolescent,5142.7,,US,,,,,,,primary,1.0,2.445
+SAMN46744156,PRJNA1221567,,,adolescent,5402.0,,US,,,,,,,primary,1.0,2.569
+SAMN46744157,PRJNA1221567,,,adolescent,4733.6,,US,,,,,,,primary,1.0,8.666
+SAMN46744158,PRJNA1221567,,,child,1282.0,,US,,,,,,,primary,1.0,8.547
+SAMN46744159,PRJNA1221567,,,child,2969.5,,US,,,,,,,primary,1.0,5.675
+SAMN46744160,PRJNA1221567,,,infant,737.8,,US,,,,,,,primary,1.0,8.605
+SAMN46744161,PRJNA1221567,,,adolescent,4949.1,,US,,,,,,,primary,1.0,7.318
+SAMN46744162,PRJNA1221567,,,child,1906.6,,US,,,,,,,primary,1.0,7.843
+SAMN46744163,PRJNA1221567,,,adolescent,4978.4,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,12.468
+SAMN46744164,PRJNA1221567,,,adolescent,4781.1,,US,,,,,,,primary,1.0,5.043
+SAMN46744165,PRJNA1221567,,,child,1300.3,,US,,,,,,,primary,1.0,7.268
+SAMN46744166,PRJNA1221567,,,child,2995.0,,US,,,,,,,primary,1.0,6.137
+SAMN46744167,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,6.812
+SAMN46744168,PRJNA1221567,,,infant,756.1,,US,,,,,,,primary,1.0,2.039
+SAMN46744169,PRJNA1221567,,,adolescent,4974.7,,US,,,,,,,primary,1.0,5.668
+SAMN46744170,PRJNA1221567,,,child,2038.1,,US,,,,,,,primary,1.0,6.707
+SAMN46744171,PRJNA1221567,,,adolescent,5003.9,,US,transplant_or_immunocompromised,Inherited Immunodeficiency,,,,,primary,1.0,0.745
+SAMN46744172,PRJNA1221567,,,child,3904.5,,US,,,,,,,primary,1.0,7.561
+SAMN46744173,PRJNA1221567,,,adolescent,5628.5,,US,,,,,,,primary,1.0,7.81
+SAMN46744174,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,0.046
+SAMN46744175,PRJNA1221567,,,child,2147.7,,US,,,,,,,primary,1.0,7.862
+SAMN46744176,PRJNA1221567,,,adolescent,4744.6,,US,,,,,,,primary,1.0,8.023
+SAMN46744177,PRJNA1221567,,,adolescent,6307.9,,US,,,,,,,primary,1.0,7.368
+SAMN46744178,PRJNA1221567,,,child,3930.1,,US,,,,,,,primary,1.0,0.676
+SAMN46744179,PRJNA1221567,,,child,2388.7,,US,,,,,,,primary,1.0,7.211
+SAMN46744180,PRJNA1221567,,,adolescent,5661.4,,US,,,,,,,primary,1.0,8.043
+SAMN46744181,PRJNA1221567,,,child,3645.2,,US,,,,,,,primary,1.0,8.3
+SAMN46744182,PRJNA1221567,,,child,2169.6,,US,,,,,,,primary,1.0,1.643
+SAMN46744183,PRJNA1221567,,,child,2195.2,,US,,,,,,,primary,1.0,9.613
+SAMN46744184,PRJNA1221567,,,adolescent,4770.2,,US,,,,,,,primary,1.0,6.767
+SAMN46744185,PRJNA1221567,,,adolescent,6329.8,,US,,,,,,,primary,1.0,4.173
+SAMN46744186,PRJNA1221567,,,child,2410.7,,US,,,,,,,primary,1.0,4.033
+SAMN46744187,PRJNA1221567,,,adolescent,5533.5,,US,,,,,,,primary,1.0,6.567
+SAMN46744188,PRJNA1221567,,,child,3663.5,,US,,,,,,,primary,1.0,7.168
+SAMN46744189,PRJNA1221567,,,child,2220.7,,US,,,,,,,primary,1.0,1.824
+SAMN46744190,PRJNA1221567,,,child,4028.7,,US,,,,,,,primary,1.0,7.639
+SAMN46744191,PRJNA1221567,,,child,3648.8,,US,,,,,,,primary,1.0,7.017
+SAMN46744192,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.248
+SAMN46744193,PRJNA1221567,,,adolescent,5540.8,,US,,,,,,,primary,1.0,0.044
+SAMN46744194,PRJNA1221567,,,child,1490.2,,US,,,,,,,primary,1.0,8.054
+SAMN46744195,PRJNA1221567,,,infant,967.9,,US,,,,,,,primary,1.0,7.901
+SAMN46744196,PRJNA1221567,,,infant,588.1,,US,,,,,,,primary,1.0,7.531
+SAMN46744197,PRJNA1221567,,,infant,500.4,,US,,,,,,,primary,1.0,7.672
+SAMN46744198,PRJNA1221567,,,child,4054.3,,US,,,,,,,primary,1.0,7.563
+SAMN46744199,PRJNA1221567,,,child,3681.7,,US,,,,,,,primary,1.0,0.683
+SAMN46744200,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,5.078
+SAMN46744201,PRJNA1221567,,,child,1508.5,,US,,,,,,,primary,1.0,8.519
+SAMN46744202,PRJNA1221567,,,infant,982.5,,US,,,,,,,primary,1.0,6.05
+SAMN46744203,PRJNA1221567,,,infant,642.8,,US,,,,,,,primary,1.0,7.432
+SAMN46744204,PRJNA1221567,,,infant,902.2,,US,,,,,,,primary,1.0,7.306
+SAMN46744205,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,6.6
+SAMN46744206,PRJNA1221567,,,adolescent,6128.9,,US,,,,,,,primary,1.0,5.428
+SAMN46744207,PRJNA1221567,,,child,2713.8,,US,,,,,,,primary,1.0,7.173
+SAMN46744208,PRJNA1221567,,,child,3670.8,,US,,,,,,,primary,1.0,6.776
+SAMN46744209,PRJNA1221567,,,infant,975.2,,US,,,,,,,primary,1.0,4.757
+SAMN46744210,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,4.633
+SAMN46744211,PRJNA1221567,,,adolescent,6508.8,,US,,,,,,,primary,1.0,6.459
+SAMN46744212,PRJNA1221567,,,child,1643.6,,US,,,,,,,primary,1.0,7.844
+SAMN46744213,PRJNA1221567,,,child,2388.7,,US,,,,,,,primary,1.0,5.071
+SAMN46744214,PRJNA1221567,,,infant,872.9,,US,,,,,,,primary,1.0,7.267
+SAMN46744215,PRJNA1221567,,,child,3696.3,,US,,,,,,,primary,1.0,6.052
+SAMN46744216,PRJNA1221567,,,child,1840.9,,US,,,,,,,primary,1.0,6.776
+SAMN46744217,PRJNA1221567,,,adolescent,4708.1,,US,,,,,,,primary,1.0,8.241
+SAMN46744218,PRJNA1221567,,,child,1672.8,,US,,,,,,,primary,1.0,2.028
+SAMN46744219,PRJNA1221567,,,child,2903.7,,US,,,,,,,primary,1.0,8.153
+SAMN46744220,PRJNA1221567,,,child,1862.8,,US,,,,,,,primary,1.0,7.116
+SAMN46744221,PRJNA1221567,,,adolescent,6530.7,,US,,,,,,,primary,1.0,8.129
+SAMN46744222,PRJNA1221567,,,adolescent,4733.6,,US,,,,,,,primary,1.0,0.043
+SAMN46744223,PRJNA1221567,,,adolescent,6023.0,,US,,,,,,,primary,1.0,0.039
+SAMN46744224,PRJNA1221567,,,infant,1092.1,,US,,,,,,,primary,1.0,0.466
+SAMN46744225,PRJNA1221567,,,child,2951.2,,US,,,,,,,primary,1.0,7.105
+SAMN46744226,PRJNA1221567,,,infant,653.8,,US,,,,,,,primary,1.0,8.349
+SAMN46744227,PRJNA1221567,,,child,1508.5,,US,,,,,,,primary,1.0,7.071
+SAMN46744228,PRJNA1221567,,,adolescent,6552.6,,US,,,,,,,primary,1.0,6.708
+SAMN46744229,PRJNA1221567,,,adolescent,6044.9,,US,,,,,,,primary,1.0,4.498
+SAMN46744230,PRJNA1221567,,,child,1121.3,,US,,,,,,,primary,1.0,4.266
+SAMN46744231,PRJNA1221567,,,infant,672.1,,US,,,,,,,primary,1.0,8.206
+SAMN46744232,PRJNA1221567,,,child,1523.1,,US,,,,,,,primary,1.0,6.735
+SAMN46744233,PRJNA1221567,,,adolescent,6472.2,,US,,,,,,,primary,1.0,6.981
+SAMN46744234,PRJNA1221567,,,infant,756.1,,US,,,,,,,primary,1.0,7.778
+SAMN46744235,PRJNA1221567,,,child,3776.7,,US,,,,,,,primary,1.0,7.21
+SAMN46744236,PRJNA1221567,,,adolescent,5551.8,,US,,,,,,,primary,1.0,8.445
+SAMN46744237,PRJNA1221567,,,child,1311.2,,US,,,,,,,primary,1.0,7.263
+SAMN46744238,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,6.842
+SAMN46744239,PRJNA1221567,,,adolescent,6490.5,,US,,,,,,,primary,1.0,0.053
+SAMN46744240,PRJNA1221567,,,adolescent,5778.3,,US,,,,,,,primary,1.0,8.284
+SAMN46744241,PRJNA1221567,,,infant,785.3,,US,,,,,,,primary,1.0,7.744
+SAMN46744242,PRJNA1221567,,,child,3824.2,,US,,,,,,,primary,1.0,3.73
+SAMN46744243,PRJNA1221567,,,adolescent,5573.7,,US,,,,,,,primary,1.0,7.742
+SAMN46744244,PRJNA1221567,,,child,1344.1,,US,,,,,,,primary,1.0,7.476
+SAMN46744245,PRJNA1221567,,,infant,1088.4,,US,,,,,,,primary,1.0,6.987
+SAMN46744246,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.309
+SAMN46744247,PRJNA1221567,,,adolescent,5803.8,,US,,,,,,,primary,1.0,6.178
+SAMN46744248,PRJNA1221567,,,child,1607.1,,US,,,,,,,primary,1.0,7.211
+SAMN46744249,PRJNA1221567,,,adolescent,6395.5,,US,,,,,,,primary,1.0,7.362
+SAMN46744250,PRJNA1221567,,,child,1117.7,,US,,,,,,,primary,1.0,7.352
+SAMN46744251,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.025
+SAMN46744252,PRJNA1221567,,,child,1227.2,,US,,,,,,,primary,1.0,7.9
+SAMN46744253,PRJNA1221567,,,child,1117.7,,US,,,,,,,primary,1.0,7.331
+SAMN46744254,PRJNA1221567,,,child,1654.6,,US,,,,,,,primary,1.0,7.059
+SAMN46744255,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.807
+SAMN46744256,PRJNA1221567,,,adolescent,6413.8,,US,,,,,,,primary,1.0,7.742
+SAMN46744257,PRJNA1221567,,,child,2016.2,,US,,,,,,,primary,1.0,7.533
+SAMN46744258,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,6.49
+SAMN46744259,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.754
+SAMN46744260,PRJNA1221567,,,child,1249.2,,US,,,,,,,primary,1.0,4.183
+SAMN46744261,PRJNA1221567,,,child,1154.2,,US,,,,,,,primary,1.0,7.914
+SAMN46744262,PRJNA1221567,,,adolescent,5595.6,,US,,,,,,,primary,1.0,8.384
+SAMN46744263,PRJNA1221567,,,child,2045.4,,US,,,,,,,primary,1.0,7.823
+SAMN46744264,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.654
+SAMN46744265,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.152
+SAMN46744266,PRJNA1221567,,,adolescent,5705.2,,US,,,,,,,primary,1.0,7.532
+SAMN46744267,PRJNA1221567,,,child,3586.8,,US,,,,,,,primary,1.0,7.401
+SAMN46744268,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.815
+SAMN46744269,PRJNA1221567,,,child,3133.8,,US,,,,,,,primary,1.0,6.795
+SAMN46744270,PRJNA1221567,,,adolescent,4781.1,,US,,,,,,,primary,1.0,7.413
+SAMN46744271,PRJNA1221567,,,child,3283.6,,US,,,,,,,primary,1.0,7.85
+SAMN46744272,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,9.009
+SAMN46744273,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.861
+SAMN46744274,PRJNA1221567,,,adolescent,5723.5,,US,,,,,,,primary,1.0,7.779
+SAMN46744275,PRJNA1221567,,,child,3608.7,,US,,,,,,,primary,1.0,8.077
+SAMN46744276,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,8.971
+SAMN46744277,PRJNA1221567,,,child,3155.8,,US,,,,,,,primary,1.0,7.687
+SAMN46744278,PRJNA1221567,,,child,3309.2,,US,,,,,,,primary,1.0,9.116
+SAMN46744279,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,8.363
+SAMN46744280,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,9.07
+SAMN46744281,PRJNA1221567,,,child,1168.8,,US,,,,,,,primary,1.0,8.544
+SAMN46744282,PRJNA1221567,,,adult,6581.8,,US,,,,,,,primary,1.0,8.93
+SAMN46744283,PRJNA1221567,,,adolescent,6267.7,,US,,,,,,,primary,1.0,8.27
+SAMN46744284,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,9.135
+SAMN46744285,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,8.35
+SAMN46744286,PRJNA1221567,,,infant,354.3,,US,,,,,,,primary,1.0,9.616
+SAMN46744287,PRJNA1221567,,,child,1205.3,,US,,,,,,,primary,1.0,7.778
+SAMN46744288,PRJNA1221567,,,adult,6596.4,,US,,,,,,,primary,1.0,9.789
+SAMN46744289,PRJNA1221567,,,adult,6600.1,,US,,,,,,,primary,1.0,8.2
+SAMN46744290,PRJNA1221567,,,adolescent,6296.9,,US,,,,,,,primary,1.0,8.676
+SAMN46744291,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,9.728
+SAMN46744292,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,8.007
+SAMN46744293,PRJNA1221567,,,infant,372.6,,US,,,,,,,primary,1.0,8.072
+SAMN46744294,PRJNA1221567,,,child,1987.0,,US,,,,,,,primary,1.0,8.88
+SAMN46744295,PRJNA1221567,,,adult,6614.7,,US,,,,,,,primary,1.0,6.608
+SAMN46744296,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.833
+SAMN46744297,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,8.253
+SAMN46744298,PRJNA1221567,,,infant,1048.3,,US,,,,,,,primary,1.0,8.3
+SAMN46744299,PRJNA1221567,,,adolescent,5676.0,,US,,,,,,,primary,1.0,8.293
+SAMN46744300,PRJNA1221567,,,child,2008.9,,US,,,,,,,primary,1.0,8.559
+SAMN46744301,PRJNA1221567,,,adolescent,4817.6,,US,,,,,,,primary,1.0,8.05
+SAMN46744302,PRJNA1221567,,,infant,694.0,,US,,,,,,,primary,1.0,8.541
+SAMN46744303,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.377
+SAMN46744304,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,6.864
+SAMN46744305,PRJNA1221567,,,infant,1077.5,,US,,,,,,,primary,1.0,7.23
+SAMN46744306,PRJNA1221567,,,adolescent,5705.2,,US,,,,,,,primary,1.0,5.52
+SAMN46744307,PRJNA1221567,,,adolescent,4846.9,,US,,,,,,,primary,1.0,7.56
+SAMN46744308,PRJNA1221567,,,infant,704.9,,US,,,,,,,primary,1.0,6.898
+SAMN46744309,PRJNA1221567,,,child,,,US,transplant_or_immunocompromised,"Unspecified, BMT Recipient",,,,,primary,1.0,7.522

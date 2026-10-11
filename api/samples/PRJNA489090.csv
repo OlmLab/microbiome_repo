@@ -1,0 +1,430 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN09980563,PRJNA489090,N001,0 - 1 month,neonate,24.0,male,US,,,,,yes,,primary,1.0,1.281
+SAMN09980565,PRJNA489090,N001,1 - 6 months,infant,41.0,male,US,,,,,yes,,primary,1.0,1.459
+SAMN09980567,PRJNA489090,N001,1 - 6 months,infant,76.0,male,US,,,,,yes,,primary,1.0,1.201
+SAMN09980568,PRJNA489090,N001,1 yr - 4 yr,infant,410.0,male,US,,,,,yes,,primary,1.0,0.064
+SAMN09980569,PRJNA489090,N001,1 yr - 4 yr,infant,499.0,male,US,,,,,yes,,primary,1.0,0.888
+SAMN09980564,PRJNA489090,N001,B,neonate,27.0,male,US,,,,,yes,,primary,1.0,1.294
+SAMN09980566,PRJNA489090,N001,D,infant,63.0,male,US,,,,,yes,,primary,1.0,0.968
+SAMN09980577,PRJNA489090,N002,0 - 1 month,neonate,27.0,male,US,,,,,yes,,primary,1.0,1.308
+SAMN09980578,PRJNA489090,N002,1 - 6 months,infant,37.0,male,US,,,,,yes,,primary,1.0,0.85
+SAMN09980581,PRJNA489090,N002,1 - 6 months,infant,68.0,male,US,,,,,yes,,primary,1.0,0.734
+SAMN09980582,PRJNA489090,N002,1 yr - 4 yr,infant,196.0,male,US,,,,,yes,,primary,1.0,0.311
+SAMN09980579,PRJNA489090,N002,C,infant,47.0,male,US,,,,,yes,,primary,1.0,1.151
+SAMN09980580,PRJNA489090,N002,D,infant,58.0,male,US,,,,,yes,,primary,1.0,0.779
+SAMN09980584,PRJNA489090,N003,0 - 1 month,neonate,23.0,female,US,,,,,yes,,primary,1.0,1.007
+SAMN09980585,PRJNA489090,N003,0 - 1 month,neonate,26.0,female,US,,,,,yes,,primary,1.0,1.173
+SAMN09980589,PRJNA489090,N003,1 - 6 months,infant,63.0,female,US,,,,,yes,,primary,1.0,0.759
+SAMN09980590,PRJNA489090,N003,1 - 6 months,infant,77.0,female,US,,,,,yes,,primary,1.0,1.565
+SAMN09980591,PRJNA489090,N003,1 yr - 4 yr,infant,194.0,female,US,,,,,yes,,primary,1.0,0.051
+SAMN09980583,PRJNA489090,N003,A,neonate,15.0,female,US,,,,,yes,,primary,1.0,1.605
+SAMN09980586,PRJNA489090,N003,D,infant,37.0,female,US,,,,,yes,,primary,1.0,0.226
+SAMN09980587,PRJNA489090,N003,E,infant,47.0,female,US,,,,,yes,,primary,1.0,1.003
+SAMN09980588,PRJNA489090,N003,F,infant,57.0,female,US,,,,,yes,,primary,1.0,0.855
+SAMN09980592,PRJNA489090,N004,0 - 1 month,neonate,11.0,female,US,,,,,yes,,primary,1.0,0.527
+SAMN09980593,PRJNA489090,N004,0 - 1 month,neonate,15.0,female,US,,,,,yes,,primary,1.0,1.306
+SAMN09980596,PRJNA489090,N004,1 - 6 months,infant,38.0,female,US,,,,,yes,,primary,1.0,0.783
+SAMN09980597,PRJNA489090,N004,1 - 6 months,infant,44.0,female,US,,,,,yes,,primary,1.0,0.964
+SAMN09980598,PRJNA489090,N004,1 yr - 4 yr,infant,188.0,female,US,,,,,yes,,primary,1.0,1.315
+SAMN09980594,PRJNA489090,N004,C,neonate,23.0,female,US,,,,,yes,,primary,1.0,0.959
+SAMN09980595,PRJNA489090,N004,D,infant,29.0,female,US,,,,,yes,,primary,1.0,0.691
+SAMN09980599,PRJNA489090,N004,H,infant,317.0,female,US,,,,,yes,,primary,1.0,1.291
+SAMN09980600,PRJNA489090,N005,0 - 1 month,neonate,10.0,female,US,,,,,yes,,primary,1.0,0.795
+SAMN09980602,PRJNA489090,N005,1 - 6 months,infant,32.0,female,US,,,,,yes,,primary,1.0,0.081
+SAMN09980604,PRJNA489090,N005,1 - 6 months,infant,41.0,female,US,,,,,yes,,primary,1.0,0.61
+SAMN09980608,PRJNA489090,N005,1 yr - 4 yr,infant,186.0,female,US,,,,,yes,,primary,1.0,1.593
+SAMN09980601,PRJNA489090,N005,B,neonate,28.0,female,US,,,,,yes,,primary,1.0,0.866
+SAMN09980603,PRJNA489090,N005,D,infant,37.0,female,US,,,,,yes,,primary,1.0,0.916
+SAMN09980605,PRJNA489090,N005,F,infant,46.0,female,US,,,,,yes,,primary,1.0,1.103
+SAMN09980606,PRJNA489090,N005,G,infant,51.0,female,US,,,,,yes,,primary,1.0,1.084
+SAMN09980607,PRJNA489090,N005,H,infant,58.0,female,US,,,,,yes,,primary,1.0,1.432
+SAMN09980617,PRJNA489090,N007,0 - 1 month,neonate,23.0,female,US,,,,,yes,,primary,1.0,0.687
+SAMN09980619,PRJNA489090,N007,1 - 6 months,infant,56.0,female,US,,,,,yes,,primary,1.0,1.011
+SAMN09980621,PRJNA489090,N007,1 - 6 months,infant,88.0,female,US,,,,,yes,,primary,1.0,1.137
+SAMN09980625,PRJNA489090,N007,1 yr - 4 yr,infant,556.0,female,US,,,,,yes,,primary,1.0,0.942
+SAMN09980618,PRJNA489090,N007,B,infant,39.0,female,US,,,,,yes,,primary,1.0,0.518
+SAMN09980620,PRJNA489090,N007,D,infant,74.0,female,US,,,,,yes,,primary,1.0,1.045
+SAMN09980622,PRJNA489090,N007,F,infant,99.0,female,US,,,,,yes,,primary,1.0,1.475
+SAMN09980623,PRJNA489090,N007,G,infant,117.0,female,US,,,,,yes,,primary,1.0,1.282
+SAMN09980624,PRJNA489090,N007,H,infant,425.0,female,US,,,,,yes,,primary,1.0,0.646
+SAMN09980626,PRJNA489090,N008,A,neonate,18.0,male,US,,,,,yes,,primary,1.0,0.863
+SAMN09980627,PRJNA489090,N008,B,infant,45.0,male,US,,,,,yes,,primary,1.0,0.562
+SAMN09980628,PRJNA489090,N008,C,infant,69.0,male,US,,,,,yes,,primary,1.0,0.24
+SAMN09980629,PRJNA489090,N008,D,infant,83.0,male,US,,,,,yes,,primary,1.0,0.991
+SAMN09980630,PRJNA489090,N008,G,infant,118.0,male,US,,,,,yes,,primary,1.0,1.296
+SAMN09980631,PRJNA489090,N008,H,infant,125.0,male,US,,,,,yes,,primary,1.0,1.247
+SAMN09980632,PRJNA489090,N008,I,infant,317.0,male,US,,,,,yes,,primary,1.0,1.827
+SAMN09980633,PRJNA489090,N008,J,infant,358.0,male,US,,,,,yes,,primary,1.0,0.707
+SAMN09980634,PRJNA489090,N009,0 - 1 month,neonate,25.0,male,US,,,,,yes,,primary,1.0,0.643
+SAMN09980635,PRJNA489090,N009,1 - 6 months,infant,59.0,male,US,,,,,yes,,primary,1.0,0.342
+SAMN09980637,PRJNA489090,N009,1 yr - 4 yr,infant,364.0,male,US,,,,,yes,,primary,1.0,2.32
+SAMN09980636,PRJNA489090,N009,C,infant,70.0,male,US,,,,,yes,,primary,1.0,0.942
+SAMN09980638,PRJNA489090,N009,E,infant,472.0,male,US,,,,,yes,,primary,1.0,1.148
+SAMN09980641,PRJNA489090,N010,1 - 6 months,infant,57.0,male,US,,,,,yes,,primary,1.0,0.919
+SAMN09980644,PRJNA489090,N010,1 yr - 4 yr,infant,384.0,male,US,,,,,yes,,primary,1.0,1.13
+SAMN09980639,PRJNA489090,N010,F,infant,41.0,male,US,,,,,yes,,primary,1.0,1.009
+SAMN09980640,PRJNA489090,N010,G,infant,48.0,male,US,,,,,yes,,primary,1.0,0.612
+SAMN09980642,PRJNA489090,N010,I,infant,86.0,male,US,,,,,yes,,primary,1.0,0.35
+SAMN09980643,PRJNA489090,N010,J,infant,199.0,male,US,,,,,yes,,primary,1.0,1.21
+SAMN09980645,PRJNA489090,N010,L,infant,442.0,male,US,,,,,yes,,primary,1.0,1.078
+SAMN09980646,PRJNA489090,N011,1 - 6 months,infant,60.0,male,US,,,,,yes,,primary,1.0,1.176
+SAMN09980648,PRJNA489090,N011,1 yr - 4 yr,infant,314.0,male,US,,,,,yes,,primary,1.0,0.218
+SAMN09980647,PRJNA489090,N011,B,infant,204.0,male,US,,,,,yes,,primary,1.0,0.79
+SAMN09980649,PRJNA489090,N011,D,infant,397.0,male,US,,,,,yes,,primary,1.0,0.752
+SAMN09980650,PRJNA489090,N011,E,infant,457.0,male,US,,,,,yes,,primary,1.0,0.965
+SAMN09980652,PRJNA489090,N012,1 - 6 months,infant,46.0,female,US,,,,,yes,,primary,1.0,1.026
+SAMN09980656,PRJNA489090,N012,1 yr - 4 yr,infant,203.0,female,US,,,,,yes,,primary,1.0,0.35
+SAMN09980659,PRJNA489090,N012,1 yr - 4 yr,infant,457.0,female,US,,,,,yes,,primary,1.0,1.269
+SAMN09980651,PRJNA489090,N012,A,infant,43.0,female,US,,,,,yes,,primary,1.0,1.065
+SAMN09980653,PRJNA489090,N012,C,infant,80.0,female,US,,,,,yes,,primary,1.0,1.08
+SAMN09980654,PRJNA489090,N012,D,infant,92.0,female,US,,,,,yes,,primary,1.0,0.754
+SAMN09980655,PRJNA489090,N012,E,infant,104.0,female,US,,,,,yes,,primary,1.0,1.069
+SAMN09980657,PRJNA489090,N012,G,infant,316.0,female,US,,,,,yes,,primary,1.0,0.065
+SAMN09980658,PRJNA489090,N012,H,infant,397.0,female,US,,,,,yes,,primary,1.0,0.662
+SAMN09980660,PRJNA489090,N013,A,infant,45.0,male,US,,,,,yes,,primary,1.0,1.091
+SAMN09980661,PRJNA489090,N013,C,infant,93.0,male,US,,,,,yes,,primary,1.0,1.034
+SAMN09980662,PRJNA489090,N013,D,infant,271.0,male,US,,,,,yes,,primary,1.0,1.86
+SAMN09980663,PRJNA489090,N013,E,infant,288.0,male,US,,,,,yes,,primary,1.0,0.073
+SAMN09980664,PRJNA489090,N013,F,infant,381.0,male,US,,,,,yes,,primary,1.0,1.291
+SAMN09980666,PRJNA489090,N014,1 - 6 months,infant,67.0,female,US,,,,,yes,,primary,1.0,0.663
+SAMN09980667,PRJNA489090,N014,1 - 6 months,infant,82.0,female,US,,,,,yes,,primary,1.0,0.26
+SAMN09980668,PRJNA489090,N014,1 yr - 4 yr,infant,257.0,female,US,,,,,yes,,primary,1.0,0.269
+SAMN09980665,PRJNA489090,N014,A,infant,51.0,female,US,,,,,yes,,primary,1.0,1.232
+SAMN09980669,PRJNA489090,N014,E,infant,295.0,female,US,,,,,yes,,primary,1.0,0.992
+SAMN09980670,PRJNA489090,N014,F,infant,363.0,female,US,,,,,yes,,primary,1.0,1.376
+SAMN09980672,PRJNA489090,N015,0 - 1 month,neonate,13.0,female,US,,,,,yes,,primary,1.0,0.37
+SAMN09980673,PRJNA489090,N015,1 - 6 months,infant,32.0,female,US,,,,,yes,,primary,1.0,1.112
+SAMN09980676,PRJNA489090,N015,1 - 6 months,infant,97.0,female,US,,,,,yes,,primary,1.0,0.93
+SAMN09980679,PRJNA489090,N015,1 yr - 4 yr,infant,369.0,female,US,,,,,yes,,primary,1.0,0.691
+SAMN09980680,PRJNA489090,N015,1 yr - 4 yr,infant,459.0,female,US,,,,,yes,,primary,1.0,1.468
+SAMN09980671,PRJNA489090,N015,A,neonate,10.0,female,US,,,,,yes,,primary,1.0,1.134
+SAMN09980674,PRJNA489090,N015,D,infant,47.0,female,US,,,,,yes,,primary,1.0,1.169
+SAMN09980675,PRJNA489090,N015,E,infant,64.0,female,US,,,,,yes,,primary,1.0,0.766
+SAMN09980677,PRJNA489090,N015,G,infant,215.0,female,US,,,,,yes,,primary,1.0,1.038
+SAMN09980678,PRJNA489090,N015,H,infant,295.0,female,US,,,,,yes,,primary,1.0,1.431
+SAMN09980688,PRJNA489090,N016,1 - 6 months,infant,108.0,female,US,,,,,yes,,primary,1.0,0.285
+SAMN09980691,PRJNA489090,N016,1 - 6 months,infant,150.0,female,US,,,,,yes,,primary,1.0,0.775
+SAMN09980692,PRJNA489090,N016,1 yr - 4 yr,infant,480.0,female,US,,,,,yes,,primary,1.0,2.258
+SAMN09980686,PRJNA489090,N016,A,infant,36.0,female,US,,,,,yes,,primary,1.0,0.622
+SAMN09980687,PRJNA489090,N016,B,infant,47.0,female,US,,,,,yes,,primary,1.0,1.407
+SAMN09980689,PRJNA489090,N016,D,infant,122.0,female,US,,,,,yes,,primary,1.0,0.25
+SAMN09980690,PRJNA489090,N016,E,infant,139.0,female,US,,,,,yes,,primary,1.0,0.439
+SAMN09980701,PRJNA489090,N018,0 - 1 month,neonate,26.0,female,US,,,,,yes,,primary,1.0,1.065
+SAMN09980702,PRJNA489090,N018,1 - 6 months,infant,61.0,female,US,,,,,yes,,primary,1.0,0.757
+SAMN09980704,PRJNA489090,N018,1 yr - 4 yr,infant,216.0,female,US,,,,,yes,,primary,1.0,1.875
+SAMN09980700,PRJNA489090,N018,A,neonate,13.0,female,US,,,,,yes,,primary,1.0,0.927
+SAMN09980703,PRJNA489090,N018,D,infant,175.0,female,US,,,,,yes,,primary,1.0,1.218
+SAMN09980705,PRJNA489090,N018,F,infant,258.0,female,US,,,,,yes,,primary,1.0,1.364
+SAMN09980706,PRJNA489090,N018,G,infant,372.0,female,US,,,,,yes,,primary,1.0,1.001
+SAMN09980708,PRJNA489090,N019,0 - 1 month,neonate,28.0,male,US,,,,,yes,,primary,1.0,0.895
+SAMN09980711,PRJNA489090,N019,1 - 6 months,infant,46.0,male,US,,,,,yes,,primary,1.0,0.347
+SAMN09980712,PRJNA489090,N019,1 yr - 4 yr,infant,184.0,male,US,,,,,yes,,primary,1.0,0.072
+SAMN09980713,PRJNA489090,N019,1 yr - 4 yr,infant,309.0,male,US,,,,,yes,,primary,1.0,1.539
+SAMN09980707,PRJNA489090,N019,A,neonate,21.0,male,US,,,,,yes,,primary,1.0,0.984
+SAMN09980709,PRJNA489090,N019,C,infant,35.0,male,US,,,,,yes,,primary,1.0,1.042
+SAMN09980710,PRJNA489090,N019,D,infant,42.0,male,US,,,,,yes,,primary,1.0,0.085
+SAMN09980714,PRJNA489090,N020,A,neonate,18.0,female,US,,,,,yes,,primary,1.0,0.798
+SAMN09980715,PRJNA489090,N020,B,neonate,21.0,female,US,,,,,yes,,primary,1.0,0.821
+SAMN09980716,PRJNA489090,N020,C,infant,53.0,female,US,,,,,yes,,primary,1.0,0.03
+SAMN09980717,PRJNA489090,N020,D,infant,70.0,female,US,,,,,yes,,primary,1.0,0.905
+SAMN09980718,PRJNA489090,N020,E,infant,75.0,female,US,,,,,yes,,primary,1.0,1.756
+SAMN09980719,PRJNA489090,N020,F,infant,81.0,female,US,,,,,yes,,primary,1.0,0.863
+SAMN09980720,PRJNA489090,N020,G,infant,95.0,female,US,,,,,yes,,primary,1.0,0.701
+SAMN09980721,PRJNA489090,N020,H,infant,439.0,female,US,,,,,yes,,primary,1.0,1.371
+SAMN09980722,PRJNA489090,N021,1 - 6 months,infant,36.0,male,US,,,,,yes,,primary,1.0,0.162
+SAMN09980724,PRJNA489090,N021,1 - 6 months,infant,61.0,male,US,,,,,yes,,primary,1.0,0.304
+SAMN09980728,PRJNA489090,N021,1 yr - 4 yr,infant,209.0,male,US,,,,,yes,,primary,1.0,1.286
+SAMN09980729,PRJNA489090,N021,1 yr - 4 yr,infant,489.0,male,US,,,,,yes,,primary,1.0,0.665
+SAMN09980723,PRJNA489090,N021,B,infant,48.0,male,US,,,,,yes,,primary,1.0,0.254
+SAMN09980725,PRJNA489090,N021,D,infant,68.0,male,US,,,,,yes,,primary,1.0,1.333
+SAMN09980726,PRJNA489090,N021,E,infant,74.0,male,US,,,,,yes,,primary,1.0,1.813
+SAMN09980727,PRJNA489090,N021,F,infant,87.0,male,US,,,,,yes,,primary,1.0,0.04
+SAMN09980730,PRJNA489090,N022,0 - 1 month,neonate,11.0,female,US,,,,,yes,,primary,1.0,0.117
+SAMN09980731,PRJNA489090,N022,0 - 1 month,neonate,21.0,female,US,,,,,yes,,primary,1.0,0.293
+SAMN09980732,PRJNA489090,N022,1 - 6 months,infant,43.0,female,US,,,,,yes,,primary,1.0,0.656
+SAMN09980734,PRJNA489090,N022,1 yr - 4 yr,infant,235.0,female,US,,,,,yes,,primary,1.0,0.927
+SAMN09980733,PRJNA489090,N022,D,infant,79.0,female,US,,,,,yes,,primary,1.0,1.42
+SAMN09980735,PRJNA489090,N022,F,infant,308.0,female,US,,,,,yes,,primary,1.0,1.639
+SAMN09980736,PRJNA489090,N022,G,infant,389.0,female,US,,,,,yes,,primary,1.0,1.139
+SAMN09980737,PRJNA489090,N022,H,infant,485.0,female,US,,,,,yes,,primary,1.0,1.573
+SAMN09980738,PRJNA489090,N023,1 - 6 months,infant,35.0,male,US,,,,,yes,,primary,1.0,0.223
+SAMN09980739,PRJNA489090,N023,1 - 6 months,infant,38.0,male,US,,,,,yes,,primary,1.0,1.259
+SAMN09980743,PRJNA489090,N023,1 yr - 4 yr,infant,511.0,male,US,,,,,yes,,primary,1.0,0.901
+SAMN09980740,PRJNA489090,N023,C,infant,81.0,male,US,,,,,yes,,primary,1.0,1.315
+SAMN09980741,PRJNA489090,N023,D,infant,160.0,male,US,,,,,yes,,primary,1.0,0.793
+SAMN09980742,PRJNA489090,N023,E,infant,422.0,male,US,,,,,yes,,primary,1.0,0.601
+SAMN09980744,PRJNA489090,N024,A,infant,78.0,male,US,,,,,yes,,primary,1.0,0.847
+SAMN09980745,PRJNA489090,N024,B,infant,247.0,male,US,,,,,yes,,primary,1.0,1.277
+SAMN09980746,PRJNA489090,N024,C,infant,296.0,male,US,,,,,yes,,primary,1.0,0.834
+SAMN09980747,PRJNA489090,N024,D,infant,386.0,male,US,,,,,yes,,primary,1.0,1.223
+SAMN09980748,PRJNA489090,N024,E,infant,475.0,male,US,,,,,yes,,primary,1.0,1.621
+SAMN09980766,PRJNA489090,N025,0 - 1 month,neonate,23.0,male,US,,,,,yes,,primary,1.0,0.912
+SAMN09980767,PRJNA489090,N025,1 - 6 months,infant,39.0,male,US,,,,,yes,,primary,1.0,1.695
+SAMN09980768,PRJNA489090,N025,1 - 6 months,infant,92.0,male,US,,,,,yes,,primary,1.0,1.22
+SAMN09980771,PRJNA489090,N025,1 yr - 4 yr,infant,362.0,male,US,,,,,yes,,primary,1.0,1.236
+SAMN09980772,PRJNA489090,N025,1 yr - 4 yr,infant,471.0,male,US,,,,,yes,,primary,1.0,0.746
+SAMN09980769,PRJNA489090,N025,D,infant,115.0,male,US,,,,,yes,,primary,1.0,0.912
+SAMN09980770,PRJNA489090,N025,E,infant,188.0,male,US,,,,,yes,,primary,1.0,1.079
+SAMN09980773,PRJNA489090,N026,A,infant,30.0,male,US,,,,,yes,,primary,1.0,1.081
+SAMN09980774,PRJNA489090,N026,B,infant,98.0,male,US,,,,,yes,,primary,1.0,0.931
+SAMN09980775,PRJNA489090,N026,C,infant,105.0,male,US,,,,,yes,,primary,1.0,1.418
+SAMN09980776,PRJNA489090,N026,D,infant,140.0,male,US,,,,,yes,,primary,1.0,1.394
+SAMN09980777,PRJNA489090,N026,E,infant,166.0,male,US,,,,,yes,,primary,1.0,0.978
+SAMN09980778,PRJNA489090,N026,F,infant,281.0,male,US,,,,,yes,,primary,1.0,0.594
+SAMN09980779,PRJNA489090,N026,G,infant,407.0,male,US,,,,,yes,,primary,1.0,0.738
+SAMN09980780,PRJNA489090,N027,0 - 1 month,neonate,18.0,female,US,,,,,yes,,primary,1.0,1.279
+SAMN09980782,PRJNA489090,N027,1 - 6 months,infant,44.0,female,US,,,,,yes,,primary,1.0,1.196
+SAMN09980783,PRJNA489090,N027,1 - 6 months,infant,50.0,female,US,,,,,yes,,primary,1.0,1.419
+SAMN09980786,PRJNA489090,N027,1 yr - 4 yr,infant,282.0,female,US,,,,,yes,,primary,1.0,1.674
+SAMN09980784,PRJNA489090,N027,E,infant,71.0,female,US,,,,,yes,,primary,1.0,0.635
+SAMN09980785,PRJNA489090,N027,F,infant,80.0,female,US,,,,,yes,,primary,1.0,1.483
+SAMN09980787,PRJNA489090,N028,0 - 1 month,neonate,23.0,male,US,,,,,yes,,primary,1.0,1.06
+SAMN09980788,PRJNA489090,N028,1 - 6 months,infant,38.0,male,US,,,,,yes,,primary,1.0,1.339
+SAMN09980790,PRJNA489090,N028,1 - 6 months,infant,75.0,male,US,,,,,yes,,primary,1.0,0.773
+SAMN09980792,PRJNA489090,N028,1 yr - 4 yr,infant,280.0,male,US,,,,,yes,,primary,1.0,0.885
+SAMN09980789,PRJNA489090,N028,C,infant,51.0,male,US,,,,,yes,,primary,1.0,1.133
+SAMN09980791,PRJNA489090,N028,E,infant,219.0,male,US,,,,,yes,,primary,1.0,1.016
+SAMN09980793,PRJNA489090,N028,G,infant,414.0,male,US,,,,,yes,,primary,1.0,1.06
+SAMN09980794,PRJNA489090,N029,0 - 1 month,neonate,10.0,female,US,,,,,yes,,primary,1.0,0.832
+SAMN09980795,PRJNA489090,N029,0 - 1 month,neonate,18.0,female,US,,,,,yes,,primary,1.0,0.675
+SAMN09980796,PRJNA489090,N029,1 - 6 months,infant,44.0,female,US,,,,,yes,,primary,1.0,1.301
+SAMN09980797,PRJNA489090,N029,1 yr - 4 yr,infant,194.0,female,US,,,,,yes,,primary,1.0,0.77
+SAMN09980800,PRJNA489090,N029,1 yr - 4 yr,infant,460.0,female,US,,,,,yes,,primary,1.0,1.696
+SAMN09980798,PRJNA489090,N029,E,infant,275.0,female,US,,,,,yes,,primary,1.0,0.893
+SAMN09980799,PRJNA489090,N029,F,infant,367.0,female,US,,,,,yes,,primary,1.0,0.791
+SAMN09980808,PRJNA489090,N030,0 - 1 month,infant,29.0,female,US,,,,,yes,,primary,1.0,1.402
+SAMN09980809,PRJNA489090,N030,1 - 6 months,infant,42.0,female,US,,,,,yes,,primary,1.0,0.754
+SAMN09980810,PRJNA489090,N030,1 - 6 months,infant,50.0,female,US,,,,,yes,,primary,1.0,0.966
+SAMN09980813,PRJNA489090,N030,1 yr - 4 yr,infant,312.0,female,US,,,,,yes,,primary,1.0,1.088
+SAMN09980811,PRJNA489090,N030,D,infant,57.0,female,US,,,,,yes,,primary,1.0,0.996
+SAMN09980814,PRJNA489090,N030,G,infant,422.0,female,US,,,,,yes,,primary,1.0,0.988
+SAMN09980817,PRJNA489090,N031,C,infant,67.0,male,US,,,,,yes,,primary,1.0,0.805
+SAMN09980819,PRJNA489090,N031,E,infant,110.0,male,US,,,,,yes,,primary,1.0,0.668
+SAMN09980820,PRJNA489090,N031,F,infant,133.0,male,US,,,,,yes,,primary,1.0,1.22
+SAMN09980824,PRJNA489090,N032,B,infant,71.0,female,US,,,,,yes,,primary,1.0,1.51
+SAMN09980825,PRJNA489090,N032,C,infant,76.0,female,US,,,,,yes,,primary,1.0,0.853
+SAMN09980826,PRJNA489090,N032,D,infant,78.0,female,US,,,,,yes,,primary,1.0,0.938
+SAMN09980827,PRJNA489090,N032,E,infant,91.0,female,US,,,,,yes,,primary,1.0,1.497
+SAMN09980828,PRJNA489090,N032,F,infant,234.0,female,US,,,,,yes,,primary,1.0,1.559
+SAMN09980570,PRJNA489090,N033,0 - 1 month,neonate,17.0,male,US,,,,,yes,,primary,1.0,1.154
+SAMN09980571,PRJNA489090,N033,1 - 6 months,infant,36.0,male,US,,,,,yes,,primary,1.0,1.288
+SAMN09980575,PRJNA489090,N033,1 yr - 4 yr,infant,198.0,male,US,,,,,yes,,primary,1.0,0.812
+SAMN09980572,PRJNA489090,N033,C,infant,56.0,male,US,,,,,yes,,primary,1.0,0.944
+SAMN09980573,PRJNA489090,N033,D,infant,63.0,male,US,,,,,yes,,primary,1.0,1.085
+SAMN09980574,PRJNA489090,N033,E,infant,72.0,male,US,,,,,yes,,primary,1.0,1.135
+SAMN09980576,PRJNA489090,N033,G,infant,295.0,male,US,,,,,yes,,primary,1.0,0.285
+SAMN09980609,PRJNA489090,N035,0 - 1 month,neonate,26.0,female,US,,,,,yes,,primary,1.0,1.241
+SAMN09980610,PRJNA489090,N035,1 - 6 months,infant,45.0,female,US,,,,,yes,,primary,1.0,0.8
+SAMN09980612,PRJNA489090,N035,1 - 6 months,infant,73.0,female,US,,,,,yes,,primary,1.0,0.665
+SAMN09980615,PRJNA489090,N035,1 yr - 4 yr,infant,298.0,female,US,,,,,yes,,primary,1.0,1.988
+SAMN09980616,PRJNA489090,N035,1 yr - 4 yr,infant,397.0,female,US,,,,,yes,,primary,1.0,1.735
+SAMN09980611,PRJNA489090,N035,C,infant,55.0,female,US,,,,,yes,,primary,1.0,0.551
+SAMN09980613,PRJNA489090,N035,E,infant,83.0,female,US,,,,,yes,,primary,1.0,1.127
+SAMN09980614,PRJNA489090,N035,F,infant,211.0,female,US,,,,,yes,,primary,1.0,0.258
+SAMN09980681,PRJNA489090,N036,0 - 1 month,neonate,27.0,male,US,,,,,yes,,primary,1.0,1.099
+SAMN09980682,PRJNA489090,N036,1 - 6 months,infant,61.0,male,US,,,,,yes,,primary,1.0,1.271
+SAMN09980685,PRJNA489090,N036,1 yr - 4 yr,infant,454.0,male,US,,,,,yes,,primary,1.0,1.219
+SAMN09980683,PRJNA489090,N036,D,infant,292.0,male,US,,,,,yes,,primary,1.0,1.214
+SAMN09980684,PRJNA489090,N036,E,infant,367.0,male,US,,,,,yes,,primary,1.0,1.373
+SAMN09980693,PRJNA489090,N037,0 - 1 month,neonate,15.0,female,US,,,,,yes,,primary,1.0,1.12
+SAMN09980694,PRJNA489090,N037,0 - 1 month,neonate,24.0,female,US,,,,,yes,,primary,1.0,1.199
+SAMN09980695,PRJNA489090,N037,1 - 6 months,infant,45.0,female,US,,,,,yes,,primary,1.0,0.895
+SAMN09980696,PRJNA489090,N037,1 - 6 months,infant,86.0,female,US,,,,,yes,,primary,1.0,0.339
+SAMN09980697,PRJNA489090,N037,1 yr - 4 yr,infant,231.0,female,US,,,,,yes,,primary,1.0,1.092
+SAMN09980699,PRJNA489090,N037,1 yr - 4 yr,infant,477.0,female,US,,,,,yes,,primary,1.0,0.985
+SAMN09980698,PRJNA489090,N037,F,infant,365.0,female,US,,,,,yes,,primary,1.0,1.274
+SAMN09980750,PRJNA489090,N038,0 - 1 month,neonate,22.0,male,US,,,,,yes,,primary,1.0,0.585
+SAMN09980755,PRJNA489090,N038,1 - 6 months,infant,78.0,male,US,,,,,yes,,primary,1.0,1.236
+SAMN09980757,PRJNA489090,N038,1 yr - 4 yr,infant,203.0,male,US,,,,,yes,,primary,1.0,0.95
+SAMN09980749,PRJNA489090,N038,A,neonate,12.0,male,US,,,,,yes,,primary,1.0,0.314
+SAMN09980751,PRJNA489090,N038,C,infant,32.0,male,US,,,,,yes,,primary,1.0,0.858
+SAMN09980752,PRJNA489090,N038,D,infant,41.0,male,US,,,,,yes,,primary,1.0,1.219
+SAMN09980753,PRJNA489090,N038,E,infant,57.0,male,US,,,,,yes,,primary,1.0,1.1
+SAMN09980754,PRJNA489090,N038,F,infant,63.0,male,US,,,,,yes,,primary,1.0,1.282
+SAMN09980756,PRJNA489090,N038,H,infant,93.0,male,US,,,,,yes,,primary,1.0,1.13
+SAMN09980759,PRJNA489090,N039,0 - 1 month,neonate,22.0,male,US,,,,,yes,,primary,1.0,0.617
+SAMN09980761,PRJNA489090,N039,1 - 6 months,infant,38.0,male,US,,,,,yes,,primary,1.0,0.024
+SAMN09980762,PRJNA489090,N039,1 - 6 months,infant,173.0,male,US,,,,,yes,,primary,1.0,1.819
+SAMN09980763,PRJNA489090,N039,1 yr - 4 yr,infant,261.0,male,US,,,,,yes,,primary,1.0,1.249
+SAMN09980765,PRJNA489090,N039,1 yr - 4 yr,infant,456.0,male,US,,,,,yes,,primary,1.0,1.112
+SAMN09980758,PRJNA489090,N039,A,neonate,14.0,male,US,,,,,yes,,primary,1.0,1.062
+SAMN09980760,PRJNA489090,N039,C,infant,30.0,male,US,,,,,yes,,primary,1.0,0.99
+SAMN09980764,PRJNA489090,N039,G,infant,352.0,male,US,,,,,yes,,primary,1.0,0.638
+SAMN09980801,PRJNA489090,N040,0 - 1 month,neonate,12.0,female,US,,,,,yes,,primary,1.0,1.217
+SAMN09980802,PRJNA489090,N040,1 - 6 months,infant,36.0,female,US,,,,,yes,,primary,1.0,0.761
+SAMN09980807,PRJNA489090,N040,1 yr - 4 yr,infant,432.0,female,US,,,,,yes,,primary,1.0,0.862
+SAMN09980803,PRJNA489090,N040,C,infant,54.0,female,US,,,,,yes,,primary,1.0,0.017
+SAMN09980804,PRJNA489090,N040,D,infant,184.0,female,US,,,,,yes,,primary,1.0,1.341
+SAMN09980805,PRJNA489090,N040,E,infant,280.0,female,US,,,,,yes,,primary,1.0,0.601
+SAMN09980806,PRJNA489090,N040,F,infant,383.0,female,US,,,,,yes,,primary,1.0,1.028
+SAMN09980829,PRJNA489090,N041,1 - 6 months,infant,31.0,female,US,,,,,yes,,primary,1.0,1.113
+SAMN09980830,PRJNA489090,N041,1 - 6 months,infant,50.0,female,US,,,,,yes,,primary,1.0,1.563
+SAMN09980832,PRJNA489090,N041,1 - 6 months,infant,79.0,female,US,,,,,yes,,primary,1.0,1.065
+SAMN09980835,PRJNA489090,N041,1 yr - 4 yr,infant,209.0,female,US,,,,,yes,,primary,1.0,0.784
+SAMN09980837,PRJNA489090,N041,1 yr - 4 yr,infant,490.0,female,US,,,,,yes,,primary,1.0,0.704
+SAMN09980831,PRJNA489090,N041,C,infant,66.0,female,US,,,,,yes,,primary,1.0,1.799
+SAMN09980833,PRJNA489090,N041,E,infant,90.0,female,US,,,,,yes,,primary,1.0,1.835
+SAMN09980834,PRJNA489090,N041,F,infant,104.0,female,US,,,,,yes,,primary,1.0,1.007
+SAMN09980836,PRJNA489090,N041,H,infant,295.0,female,US,,,,,yes,,primary,1.0,1.353
+SAMN09980857,PRJNA489090,T0101B,0 - 1 month,neonate,4.0,male,US,,,,,no,,primary,1.0,1.613
+SAMN09980858,PRJNA489090,T0101B,1 - 6 months,infant,50.0,male,US,,,,,no,,primary,1.0,1.872
+SAMN09980860,PRJNA489090,T0101B,1 - 6 months,infant,180.0,male,US,,,,,no,,primary,1.0,1.572
+SAMN09980864,PRJNA489090,T0101B,1 yr - 4 yr,infant,458.0,male,US,,,,,no,,primary,1.0,0.173
+SAMN09980859,PRJNA489090,T0101B,C,infant,100.0,male,US,,,,,no,,primary,1.0,1.002
+SAMN09980861,PRJNA489090,T0101B,E,infant,244.0,male,US,,,,,no,,primary,1.0,1.677
+SAMN09980862,PRJNA489090,T0101B,F,infant,344.0,male,US,,,,,no,,primary,1.0,1.271
+SAMN09980863,PRJNA489090,T0101B,G,infant,408.0,male,US,,,,,no,,primary,1.0,1.045
+SAMN09980865,PRJNA489090,T0101B,I,infant,528.0,male,US,,,,,no,,primary,1.0,1.094
+SAMN09980866,PRJNA489090,T0101B,J,infant,589.0,male,US,,,,,no,,primary,1.0,0.096
+SAMN09980983,PRJNA489090,T0108A,0 - 1 month,neonate,2.0,male,US,,,,,no,,primary,1.0,0.293
+SAMN09980986,PRJNA489090,T0108A,1 - 6 months,infant,122.0,male,US,,,,,no,,primary,1.0,0.798
+SAMN09980988,PRJNA489090,T0108A,1 yr - 4 yr,infant,305.0,male,US,,,,,no,,primary,1.0,0.695
+SAMN09980984,PRJNA489090,T0108A,B,infant,38.0,male,US,,,,,no,,primary,1.0,1.379
+SAMN09980985,PRJNA489090,T0108A,C,infant,66.0,male,US,,,,,no,,primary,1.0,1.067
+SAMN09980987,PRJNA489090,T0108A,E,infant,234.0,male,US,,,,,no,,primary,1.0,1.593
+SAMN09980989,PRJNA489090,T0108A,H,infant,409.0,male,US,,,,,no,,primary,1.0,1.166
+SAMN09980990,PRJNA489090,T0108A,I,infant,524.0,male,US,,,,,no,,primary,1.0,1.307
+SAMN09980991,PRJNA489090,T0108B,0 - 1 month,neonate,2.0,male,US,,,,,no,,primary,1.0,0.09
+SAMN09980993,PRJNA489090,T0108B,1 - 6 months,infant,66.0,male,US,,,,,no,,primary,1.0,1.918
+SAMN09980997,PRJNA489090,T0108B,1 yr - 4 yr,infant,439.0,male,US,,,,,no,,primary,1.0,1.12
+SAMN09980992,PRJNA489090,T0108B,B,infant,38.0,male,US,,,,,no,,primary,1.0,1.31
+SAMN09980994,PRJNA489090,T0108B,D,infant,121.0,male,US,,,,,no,,primary,1.0,1.691
+SAMN09980995,PRJNA489090,T0108B,E,infant,234.0,male,US,,,,,no,,primary,1.0,0.724
+SAMN09980996,PRJNA489090,T0108B,F,infant,305.0,male,US,,,,,no,,primary,1.0,1.024
+SAMN09980998,PRJNA489090,T0108B,I,infant,524.0,male,US,,,,,no,,primary,1.0,0.766
+SAMN09980999,PRJNA489090,T0108B,J,infant,601.0,male,US,,,,,no,,primary,1.0,1.397
+SAMN09980916,PRJNA489090,T0122A,0 - 1 month,neonate,11.0,male,US,,,,,no,,primary,1.0,1.037
+SAMN09980918,PRJNA489090,T0122A,1 - 6 months,infant,100.0,male,US,,,,,no,,primary,1.0,1.184
+SAMN09980922,PRJNA489090,T0122A,1 yr - 4 yr,infant,350.0,male,US,,,,,no,,primary,1.0,1.426
+SAMN09980924,PRJNA489090,T0122A,1 yr - 4 yr,infant,543.0,male,US,,,,,no,,primary,1.0,0.567
+SAMN09980917,PRJNA489090,T0122A,C,infant,48.0,male,US,,,,,no,,primary,1.0,0.983
+SAMN09980919,PRJNA489090,T0122A,E,infant,198.0,male,US,,,,,no,,primary,1.0,0.463
+SAMN09980920,PRJNA489090,T0122A,F,infant,230.0,male,US,,,,,no,,primary,1.0,1.93
+SAMN09980921,PRJNA489090,T0122A,G,infant,319.0,male,US,,,,,no,,primary,1.0,0.812
+SAMN09980923,PRJNA489090,T0122A,I,infant,441.0,male,US,,,,,no,,primary,1.0,0.843
+SAMN09980927,PRJNA489090,T0122B,1 - 6 months,infant,49.0,male,US,,,,,no,,primary,1.0,1.543
+SAMN09980928,PRJNA489090,T0122B,1 - 6 months,infant,100.0,male,US,,,,,no,,primary,1.0,1.189
+SAMN09980930,PRJNA489090,T0122B,1 yr - 4 yr,infant,286.0,male,US,,,,,no,,primary,1.0,1.812
+SAMN09980931,PRJNA489090,T0122B,1 yr - 4 yr,infant,350.0,male,US,,,,,no,,primary,1.0,1.185
+SAMN09980925,PRJNA489090,T0122B,A,neonate,2.0,male,US,,,,,no,,primary,1.0,0.023
+SAMN09980926,PRJNA489090,T0122B,B,neonate,11.0,male,US,,,,,no,,primary,1.0,0.315
+SAMN09980929,PRJNA489090,T0122B,E,infant,167.0,male,US,,,,,no,,primary,1.0,1.228
+SAMN09980932,PRJNA489090,T0122B,H,infant,441.0,male,US,,,,,no,,primary,1.0,1.461
+SAMN09980933,PRJNA489090,T0122B,I,infant,542.0,male,US,,,,,no,,primary,1.0,0.866
+SAMN09980839,PRJNA489090,T0132A,1 - 6 months,infant,102.0,male,US,,,,,no,,primary,1.0,1.414
+SAMN09980846,PRJNA489090,T0132A,1 yr - 4 yr,infant,597.0,male,US,,,,,no,,primary,1.0,1.232
+SAMN09980838,PRJNA489090,T0132A,B,infant,50.0,male,US,,,,,no,,primary,1.0,1.326
+SAMN09980840,PRJNA489090,T0132A,D,infant,133.0,male,US,,,,,no,,primary,1.0,1.033
+SAMN09980841,PRJNA489090,T0132A,E,infant,205.0,male,US,,,,,no,,primary,1.0,1.459
+SAMN09980842,PRJNA489090,T0132A,F,infant,267.0,male,US,,,,,no,,primary,1.0,1.515
+SAMN09980843,PRJNA489090,T0132A,G,infant,314.0,male,US,,,,,no,,primary,1.0,0.771
+SAMN09980844,PRJNA489090,T0132A,H,infant,366.0,male,US,,,,,no,,primary,1.0,2.017
+SAMN09980845,PRJNA489090,T0132A,I,infant,487.0,male,US,,,,,no,,primary,1.0,2.052
+SAMN09980847,PRJNA489090,T0132B,0 - 1 month,neonate,2.0,male,US,,,,,no,,primary,1.0,1.297
+SAMN09980848,PRJNA489090,T0132B,1 - 6 months,infant,46.0,male,US,,,,,no,,primary,1.0,1.582
+SAMN09980853,PRJNA489090,T0132B,1 yr - 4 yr,infant,338.0,male,US,,,,,no,,primary,1.0,1.323
+SAMN09980855,PRJNA489090,T0132B,1 yr - 4 yr,infant,530.0,male,US,,,,,no,,primary,1.0,1.586
+SAMN09980849,PRJNA489090,T0132B,C,infant,101.0,male,US,,,,,no,,primary,1.0,1.258
+SAMN09980850,PRJNA489090,T0132B,D,infant,155.0,male,US,,,,,no,,primary,1.0,1.325
+SAMN09980851,PRJNA489090,T0132B,E,infant,218.0,male,US,,,,,no,,primary,1.0,1.87
+SAMN09980852,PRJNA489090,T0132B,F,infant,282.0,male,US,,,,,no,,primary,1.0,1.631
+SAMN09980854,PRJNA489090,T0132B,H,infant,418.0,male,US,,,,,no,,primary,1.0,1.79
+SAMN09980856,PRJNA489090,T0132B,J,infant,614.0,male,US,,,,,no,,primary,1.0,0.821
+SAMN09980908,PRJNA489090,T0143A,1 - 6 months,infant,48.0,female,US,,,,,no,,primary,1.0,1.177
+SAMN09980914,PRJNA489090,T0143A,1 yr - 4 yr,infant,439.0,female,US,,,,,no,,primary,1.0,1.48
+SAMN09980909,PRJNA489090,T0143A,C,infant,114.0,female,US,,,,,no,,primary,1.0,0.827
+SAMN09980910,PRJNA489090,T0143A,D,infant,204.0,female,US,,,,,no,,primary,1.0,1.463
+SAMN09980911,PRJNA489090,T0143A,E,infant,251.0,female,US,,,,,no,,primary,1.0,1.502
+SAMN09980912,PRJNA489090,T0143A,F,infant,292.0,female,US,,,,,no,,primary,1.0,1.105
+SAMN09980913,PRJNA489090,T0143A,G,infant,365.0,female,US,,,,,no,,primary,1.0,1.2
+SAMN09980915,PRJNA489090,T0143A,I,infant,531.0,female,US,,,,,no,,primary,1.0,0.809
+SAMN09980934,PRJNA489090,T0160B,0 - 1 month,neonate,16.0,male,US,,,,,no,,primary,1.0,1.231
+SAMN09980936,PRJNA489090,T0160B,1 - 6 months,infant,122.0,male,US,,,,,no,,primary,1.0,1.55
+SAMN09980937,PRJNA489090,T0160B,1 - 6 months,infant,169.0,male,US,,,,,no,,primary,1.0,1.688
+SAMN09980939,PRJNA489090,T0160B,1 yr - 4 yr,infant,290.0,male,US,,,,,no,,primary,1.0,1.211
+SAMN09980935,PRJNA489090,T0160B,C,infant,64.0,male,US,,,,,no,,primary,1.0,1.557
+SAMN09980938,PRJNA489090,T0160B,F,infant,231.0,male,US,,,,,no,,primary,1.0,1.698
+SAMN09980940,PRJNA489090,T0160B,H,infant,378.0,male,US,,,,,no,,primary,1.0,0.818
+SAMN09980941,PRJNA489090,T0160B,I,infant,441.0,male,US,,,,,no,,primary,1.0,1.316
+SAMN09980942,PRJNA489090,T0160B,J,infant,528.0,male,US,,,,,no,,primary,1.0,1.021
+SAMN09980867,PRJNA489090,T0168A,0 - 1 month,neonate,2.0,male,US,,,,,no,,primary,1.0,1.739
+SAMN09980868,PRJNA489090,T0168A,1 - 6 months,infant,38.0,male,US,,,,,no,,primary,1.0,1.715
+SAMN09980870,PRJNA489090,T0168A,1 - 6 months,infant,133.0,male,US,,,,,no,,primary,1.0,0.268
+SAMN09980873,PRJNA489090,T0168A,1 yr - 4 yr,infant,297.0,male,US,,,,,no,,primary,1.0,0.959
+SAMN09980877,PRJNA489090,T0168A,1 yr - 4 yr,infant,620.0,male,US,,,,,no,,primary,1.0,0.977
+SAMN09980869,PRJNA489090,T0168A,C,infant,67.0,male,US,,,,,no,,primary,1.0,0.702
+SAMN09980871,PRJNA489090,T0168A,E,infant,193.0,male,US,,,,,no,,primary,1.0,1.937
+SAMN09980872,PRJNA489090,T0168A,F,infant,247.0,male,US,,,,,no,,primary,1.0,1.66
+SAMN09980874,PRJNA489090,T0168A,H,infant,369.0,male,US,,,,,no,,primary,1.0,1.408
+SAMN09980875,PRJNA489090,T0168A,I,infant,425.0,male,US,,,,,no,,primary,1.0,1.753
+SAMN09980876,PRJNA489090,T0168A,J,infant,537.0,male,US,,,,,no,,primary,1.0,1.242
+SAMN09980888,PRJNA489090,T0171A,0 - 1 month,neonate,2.0,female,US,,,,,no,,primary,1.0,0.037
+SAMN09980889,PRJNA489090,T0171A,1 - 6 months,infant,43.0,female,US,,,,,no,,primary,1.0,1.212
+SAMN09980890,PRJNA489090,T0171A,1 - 6 months,infant,106.0,female,US,,,,,no,,primary,1.0,1.748
+SAMN09980892,PRJNA489090,T0171A,1 yr - 4 yr,infant,250.0,female,US,,,,,no,,primary,1.0,1.939
+SAMN09980891,PRJNA489090,T0171A,D,infant,192.0,female,US,,,,,no,,primary,1.0,1.701
+SAMN09980893,PRJNA489090,T0171A,F,infant,310.0,female,US,,,,,no,,primary,1.0,1.575
+SAMN09980894,PRJNA489090,T0171A,G,infant,371.0,female,US,,,,,no,,primary,1.0,1.692
+SAMN09980895,PRJNA489090,T0171A,H,infant,440.0,female,US,,,,,no,,primary,1.0,2.027
+SAMN09980896,PRJNA489090,T0171A,I,infant,533.0,female,US,,,,,no,,primary,1.0,0.95
+SAMN09980897,PRJNA489090,T0171A,J,infant,628.0,female,US,,,,,no,,primary,1.0,1.615
+SAMN09980898,PRJNA489090,T0171B,1 - 6 months,infant,44.0,female,US,,,,,no,,primary,1.0,1.046
+SAMN09980903,PRJNA489090,T0171B,1 yr - 4 yr,infant,312.0,female,US,,,,,no,,primary,1.0,0.985
+SAMN09980899,PRJNA489090,T0171B,C,infant,106.0,female,US,,,,,no,,primary,1.0,1.607
+SAMN09980900,PRJNA489090,T0171B,D,infant,132.0,female,US,,,,,no,,primary,1.0,0.912
+SAMN09980901,PRJNA489090,T0171B,E,infant,192.0,female,US,,,,,no,,primary,1.0,1.52
+SAMN09980902,PRJNA489090,T0171B,F,infant,250.0,female,US,,,,,no,,primary,1.0,1.475
+SAMN09980904,PRJNA489090,T0171B,H,infant,371.0,female,US,,,,,no,,primary,1.0,1.563
+SAMN09980905,PRJNA489090,T0171B,I,infant,440.0,female,US,,,,,no,,primary,1.0,0.691
+SAMN09980906,PRJNA489090,T0171B,J,infant,533.0,female,US,,,,,no,,primary,1.0,1.107
+SAMN09980907,PRJNA489090,T0171B,K,infant,628.0,female,US,,,,,no,,primary,1.0,0.791
+SAMN09980965,PRJNA489090,T0180A,1 - 6 months,infant,74.0,male,US,,,,,no,,primary,1.0,1.151
+SAMN09980966,PRJNA489090,T0180A,1 - 6 months,infant,139.0,male,US,,,,,no,,primary,1.0,1.099
+SAMN09980968,PRJNA489090,T0180A,1 yr - 4 yr,infant,232.0,male,US,,,,,no,,primary,1.0,1.831
+SAMN09980972,PRJNA489090,T0180A,1 yr - 4 yr,infant,625.0,male,US,,,,,no,,primary,1.0,1.669
+SAMN09980967,PRJNA489090,T0180A,E,infant,175.0,male,US,,,,,no,,primary,1.0,1.453
+SAMN09980969,PRJNA489090,T0180A,G,infant,307.0,male,US,,,,,no,,primary,1.0,1.462
+SAMN09980970,PRJNA489090,T0180A,I,infant,427.0,male,US,,,,,no,,primary,1.0,0.82
+SAMN09980971,PRJNA489090,T0180A,J,infant,517.0,male,US,,,,,no,,primary,1.0,0.915
+SAMN09980973,PRJNA489090,T0180B,0 - 1 month,neonate,2.0,male,US,,,,,no,,primary,1.0,0.206
+SAMN09980975,PRJNA489090,T0180B,1 - 6 months,infant,72.0,male,US,,,,,no,,primary,1.0,1.869
+SAMN09980978,PRJNA489090,T0180B,1 yr - 4 yr,infant,232.0,male,US,,,,,no,,primary,1.0,0.977
+SAMN09980982,PRJNA489090,T0180B,1 yr - 4 yr,infant,625.0,male,US,,,,,no,,primary,1.0,1.803
+SAMN09980974,PRJNA489090,T0180B,B,infant,34.0,male,US,,,,,no,,primary,1.0,2.021
+SAMN09980976,PRJNA489090,T0180B,D,infant,134.0,male,US,,,,,no,,primary,1.0,1.325
+SAMN09980977,PRJNA489090,T0180B,E,infant,175.0,male,US,,,,,no,,primary,1.0,0.262
+SAMN09980979,PRJNA489090,T0180B,G,infant,302.0,male,US,,,,,no,,primary,1.0,1.328
+SAMN09980980,PRJNA489090,T0180B,I,infant,427.0,male,US,,,,,no,,primary,1.0,1.362
+SAMN09980981,PRJNA489090,T0180B,J,infant,508.0,male,US,,,,,no,,primary,1.0,0.798
+SAMN09980944,PRJNA489090,T0181A,0 - 1 month,neonate,16.0,male,US,,,,,no,,primary,1.0,0.399
+SAMN09980947,PRJNA489090,T0181A,1 - 6 months,infant,176.0,male,US,,,,,no,,primary,1.0,1.504
+SAMN09980951,PRJNA489090,T0181A,1 yr - 4 yr,infant,453.0,male,US,,,,,no,,primary,1.0,1.446
+SAMN09980953,PRJNA489090,T0181A,1 yr - 4 yr,infant,602.0,male,US,,,,,no,,primary,1.0,1.546
+SAMN09980943,PRJNA489090,T0181A,A,neonate,2.0,male,US,,,,,no,,primary,1.0,0.004
+SAMN09980945,PRJNA489090,T0181A,C,infant,48.0,male,US,,,,,no,,primary,1.0,1.771
+SAMN09980946,PRJNA489090,T0181A,D,infant,121.0,male,US,,,,,no,,primary,1.0,1.695
+SAMN09980948,PRJNA489090,T0181A,F,infant,235.0,male,US,,,,,no,,primary,1.0,0.855
+SAMN09980949,PRJNA489090,T0181A,G,infant,295.0,male,US,,,,,no,,primary,1.0,1.455
+SAMN09980950,PRJNA489090,T0181A,H,infant,354.0,male,US,,,,,no,,primary,1.0,0.884
+SAMN09980952,PRJNA489090,T0181A,J,infant,538.0,male,US,,,,,no,,primary,1.0,0.686
+SAMN09980955,PRJNA489090,T0181B,0 - 1 month,neonate,16.0,male,US,,,,,no,,primary,1.0,0.497
+SAMN09980956,PRJNA489090,T0181B,1 - 6 months,infant,48.0,male,US,,,,,no,,primary,1.0,1.602
+SAMN09980958,PRJNA489090,T0181B,1 - 6 months,infant,157.0,male,US,,,,,no,,primary,1.0,1.18
+SAMN09980959,PRJNA489090,T0181B,1 yr - 4 yr,infant,235.0,male,US,,,,,no,,primary,1.0,0.845
+SAMN09980964,PRJNA489090,T0181B,1 yr - 4 yr,infant,633.0,male,US,,,,,no,,primary,1.0,0.775
+SAMN09980954,PRJNA489090,T0181B,A,neonate,2.0,male,US,,,,,no,,primary,1.0,0.007
+SAMN09980957,PRJNA489090,T0181B,D,infant,81.0,male,US,,,,,no,,primary,1.0,1.723
+SAMN09980960,PRJNA489090,T0181B,G,infant,295.0,male,US,,,,,no,,primary,1.0,1.285
+SAMN09980961,PRJNA489090,T0181B,H,infant,358.0,male,US,,,,,no,,primary,1.0,1.389
+SAMN09980962,PRJNA489090,T0181B,I,infant,452.0,male,US,,,,,no,,primary,1.0,1.139
+SAMN09980963,PRJNA489090,T0181B,J,infant,539.0,male,US,,,,,no,,primary,1.0,0.779
+SAMN09980878,PRJNA489090,T0185A,0 - 1 month,neonate,2.0,female,US,,,,,no,,primary,1.0,0.874
+SAMN09980879,PRJNA489090,T0185A,1 - 6 months,infant,39.0,female,US,,,,,no,,primary,1.0,1.44
+SAMN09980880,PRJNA489090,T0185A,1 - 6 months,infant,65.0,female,US,,,,,no,,primary,1.0,1.424
+SAMN09980882,PRJNA489090,T0185A,1 yr - 4 yr,infant,253.0,female,US,,,,,no,,primary,1.0,1.133
+SAMN09980884,PRJNA489090,T0185A,1 yr - 4 yr,infant,372.0,female,US,,,,,no,,primary,1.0,0.756
+SAMN09980881,PRJNA489090,T0185A,D,infant,128.0,female,US,,,,,no,,primary,1.0,1.222
+SAMN09980883,PRJNA489090,T0185A,F,infant,312.0,female,US,,,,,no,,primary,1.0,1.727
+SAMN09980885,PRJNA489090,T0185A,H,infant,456.0,female,US,,,,,no,,primary,1.0,0.838
+SAMN09980886,PRJNA489090,T0185A,I,infant,526.0,female,US,,,,,no,,primary,1.0,0.786
+SAMN09980887,PRJNA489090,T0185A,J,infant,620.0,female,US,,,,,no,,primary,1.0,0.751

@@ -1,0 +1,1972 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA7468489,PRJEB40903,BLANK.A2.microbiome.20.C,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA7468488,PRJEB40903,BLANK.A2.microbiome2.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468490,PRJEB40903,BLANK.A2.standard.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468491,PRJEB40903,BLANK.A3.microbiome.20.H,3,,,,US,,,,,,,unknown,1.0,0.757
+SAMEA7468896,PRJEB40903,BLANK.A3.microbiome2.H,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468897,PRJEB40903,BLANK.A3.standard.H,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935190,PRJEB40903,BLANK.B4.homebrew.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935191,PRJEB40903,BLANK.B4.magmax.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936825,PRJEB40903,BLANK.B4.microbiome.L,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935763,PRJEB40903,BLANK.B4.norgen.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936826,PRJEB40903,BLANK.B4.nucleomag.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936827,PRJEB40903,BLANK.B4.powersoil.L,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935764,PRJEB40903,BLANK.B4.pro.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935765,PRJEB40903,BLANK.B4.standard.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935192,PRJEB40903,BLANK.B4.zymo.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936828,PRJEB40903,BLANK.B4.zymoMA.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468493,PRJEB40903,BLANK.C10.microbiome.20.C,3,,,,US,,,,,,,unknown,1.0,0.468
+SAMEA7468492,PRJEB40903,BLANK.C10.microbiome2.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468494,PRJEB40903,BLANK.C10.standard.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468899,PRJEB40903,BLANK.C3.microbiome.20.L,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7468898,PRJEB40903,BLANK.C3.microbiome2.L,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468900,PRJEB40903,BLANK.C3.standard.L,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12935193,PRJEB40903,BLANK.C4.homebrew.H,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935194,PRJEB40903,BLANK.C4.magmax.H,1,,,,US,,,,,,,unknown,1.0,0.124
+SAMEA12936388,PRJEB40903,BLANK.C4.microbiome.H,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935766,PRJEB40903,BLANK.C4.norgen.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936389,PRJEB40903,BLANK.C4.nucleomag.H,2,,,,US,,,,,,,unknown,1.0,0.982
+SAMEA12936390,PRJEB40903,BLANK.C4.powersoil.H,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935767,PRJEB40903,BLANK.C4.pro.H,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935768,PRJEB40903,BLANK.C4.standard.H,1,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12935195,PRJEB40903,BLANK.C4.zymo.H,1,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12936391,PRJEB40903,BLANK.C4.zymoMA.H,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468496,PRJEB40903,BLANK.C5.microbiome.20.C,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468495,PRJEB40903,BLANK.C5.microbiome2.C,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468497,PRJEB40903,BLANK.C5.standard.C,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935196,PRJEB40903,BLANK.C7.homebrew.H,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935197,PRJEB40903,BLANK.C7.magmax.H,1,,,,US,,,,,,,unknown,1.0,0.01
+SAMEA7468498,PRJEB40903,BLANK.C7.microbiome.20.H,3,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA7468903,PRJEB40903,BLANK.C7.microbiome.20.L,3,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12936392,PRJEB40903,BLANK.C7.microbiome.H,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468901,PRJEB40903,BLANK.C7.microbiome2.H,3,,,,US,,,,,,,unknown,1.0,0.099
+SAMEA7468902,PRJEB40903,BLANK.C7.microbiome2.L,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12935769,PRJEB40903,BLANK.C7.norgen.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936393,PRJEB40903,BLANK.C7.nucleomag.H,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936394,PRJEB40903,BLANK.C7.powersoil.H,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935770,PRJEB40903,BLANK.C7.pro.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935771,PRJEB40903,BLANK.C7.standard.H,1,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA7468904,PRJEB40903,BLANK.C7.standard.H,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468905,PRJEB40903,BLANK.C7.standard.L,3,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12935198,PRJEB40903,BLANK.C7.zymo.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936395,PRJEB40903,BLANK.C7.zymoMA.H,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935199,PRJEB40903,BLANK.C8.homebrew.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935200,PRJEB40903,BLANK.C8.magmax.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936829,PRJEB40903,BLANK.C8.microbiome.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936830,PRJEB40903,BLANK.C8.nucleomag.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936831,PRJEB40903,BLANK.C8.powersoil.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935773,PRJEB40903,BLANK.C8.pro.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935774,PRJEB40903,BLANK.C8.standard.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935201,PRJEB40903,BLANK.C8.zymo.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936832,PRJEB40903,BLANK.C8.zymoMA.L,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935202,PRJEB40903,BLANK.D10.homebrew.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935203,PRJEB40903,BLANK.D10.magmax.H,1,,,,US,,,,,,,unknown,1.0,0.038
+SAMEA7468499,PRJEB40903,BLANK.D10.microbiome.20.H,3,,,,US,,,,,,,unknown,1.0,0.503
+SAMEA12936396,PRJEB40903,BLANK.D10.microbiome.H,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468906,PRJEB40903,BLANK.D10.microbiome2.H,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935775,PRJEB40903,BLANK.D10.norgen.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936397,PRJEB40903,BLANK.D10.nucleomag.H,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12936398,PRJEB40903,BLANK.D10.powersoil.H,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935776,PRJEB40903,BLANK.D10.pro.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935777,PRJEB40903,BLANK.D10.standard.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468907,PRJEB40903,BLANK.D10.standard.H,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935204,PRJEB40903,BLANK.D10.zymo.H,1,,,,US,,,,,,,unknown,1.0,0.13
+SAMEA12936399,PRJEB40903,BLANK.D10.zymoMA.H,2,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12935205,PRJEB40903,BLANK.E6.homebrew.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935206,PRJEB40903,BLANK.E6.magmax.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936833,PRJEB40903,BLANK.E6.microbiome.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935778,PRJEB40903,BLANK.E6.norgen.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936834,PRJEB40903,BLANK.E6.nucleomag.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936835,PRJEB40903,BLANK.E6.powersoil.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935779,PRJEB40903,BLANK.E6.pro.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935780,PRJEB40903,BLANK.E6.standard.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935207,PRJEB40903,BLANK.E6.zymo.L,1,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12936836,PRJEB40903,BLANK.E6.zymoMA.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468909,PRJEB40903,BLANK.F5.microbiome.20.L,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468908,PRJEB40903,BLANK.F5.microbiome2.L,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468910,PRJEB40903,BLANK.F5.standard.L,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935208,PRJEB40903,BLANK.G1.homebrew.L,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935209,PRJEB40903,BLANK.G1.magmax.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936837,PRJEB40903,BLANK.G1.microbiome.L,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935781,PRJEB40903,BLANK.G1.norgen.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936838,PRJEB40903,BLANK.G1.nucleomag.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936839,PRJEB40903,BLANK.G1.powersoil.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935782,PRJEB40903,BLANK.G1.pro.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935783,PRJEB40903,BLANK.G1.standard.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935210,PRJEB40903,BLANK.G1.zymo.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936840,PRJEB40903,BLANK.G1.zymoMA.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468501,PRJEB40903,BLANK.G12.microbiome.20.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468500,PRJEB40903,BLANK.G12.microbiome2.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468502,PRJEB40903,BLANK.G12.standard.C,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935211,PRJEB40903,BLANK.H1.homebrew.H,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935212,PRJEB40903,BLANK.H1.magmax.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468503,PRJEB40903,BLANK.H1.microbiome.20.H,3,,,,US,,,,,,,unknown,1.0,0.423
+SAMEA12936400,PRJEB40903,BLANK.H1.microbiome.H,2,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA7468911,PRJEB40903,BLANK.H1.microbiome2.H,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935784,PRJEB40903,BLANK.H1.norgen.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936401,PRJEB40903,BLANK.H1.nucleomag.H,2,,,,US,,,,,,,unknown,1.0,0.013
+SAMEA12936402,PRJEB40903,BLANK.H1.powersoil.H,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935785,PRJEB40903,BLANK.H1.pro.H,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935786,PRJEB40903,BLANK.H1.standard.H,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468912,PRJEB40903,BLANK.H1.standard.H,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935213,PRJEB40903,BLANK.H1.zymo.H,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936403,PRJEB40903,BLANK.H1.zymoMA.H,2,,,,US,,,,,,,unknown,1.0,0.958
+SAMEA7468505,PRJEB40903,BLANK.H3.microbiome.20.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468504,PRJEB40903,BLANK.H3.microbiome2.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468506,PRJEB40903,BLANK.H3.standard.C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935214,PRJEB40903,BLANK.H7.homebrew.L,1,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA12935215,PRJEB40903,BLANK.H7.magmax.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936841,PRJEB40903,BLANK.H7.microbiome.L,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935787,PRJEB40903,BLANK.H7.norgen.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936842,PRJEB40903,BLANK.H7.nucleomag.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936843,PRJEB40903,BLANK.H7.powersoil.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935788,PRJEB40903,BLANK.H7.pro.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935789,PRJEB40903,BLANK.H7.standard.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935216,PRJEB40903,BLANK.H7.zymo.L,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12936844,PRJEB40903,BLANK.H7.zymoMA.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468914,PRJEB40903,BLANK.H8.microbiome.20.L,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468913,PRJEB40903,BLANK.H8.microbiome2.L,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468915,PRJEB40903,BLANK.H8.standard.L,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA12935217,PRJEB40903,BLANK.H9.homebrew.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935218,PRJEB40903,BLANK.H9.magmax.L,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936845,PRJEB40903,BLANK.H9.microbiome.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935790,PRJEB40903,BLANK.H9.norgen.L,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12936846,PRJEB40903,BLANK.H9.nucleomag.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936847,PRJEB40903,BLANK.H9.powersoil.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935791,PRJEB40903,BLANK.H9.pro.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935792,PRJEB40903,BLANK.H9.standard.L,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935219,PRJEB40903,BLANK.H9.zymo.L,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12936848,PRJEB40903,BLANK.H9.zymoMA.L,2,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7469095,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,4.338
+SAMEA7469096,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,3.223
+SAMEA7469097,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,4.128
+SAMEA7469098,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,4.735
+SAMEA7469099,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,3.115
+SAMEA7469101,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,4.168
+SAMEA7469102,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,3.133
+SAMEA7469103,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,3.444
+SAMEA7469104,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,4.609
+SAMEA7469105,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,2.487
+SAMEA7469106,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,1.73
+SAMEA7469107,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,6.513
+SAMEA7469108,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,4.476
+SAMEA7469109,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.634
+SAMEA7469110,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,5.418
+SAMEA7469111,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,3.718
+SAMEA7469112,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.456
+SAMEA7469113,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,1.19
+SAMEA7469114,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,1.269
+SAMEA7469115,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.04
+SAMEA7469116,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,1.012
+SAMEA7469117,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.796
+SAMEA7469118,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.059
+SAMEA7469119,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.171
+SAMEA7469120,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.158
+SAMEA7469121,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.163
+SAMEA7469122,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.191
+SAMEA7469123,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.108
+SAMEA7469124,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA7469125,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.026
+SAMEA7469126,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.013
+SAMEA7469127,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.163
+SAMEA7469128,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.02
+SAMEA7469129,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.012
+SAMEA7469130,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA7469131,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA7469132,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7469133,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA7469134,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7469135,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7469136,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA7469137,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7469138,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7469139,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA7469140,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7469141,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA7469142,PRJEB40903,Gram-negative bacterium,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA7468916,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.34
+SAMEA7468917,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,3.167
+SAMEA7468919,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.807
+SAMEA7468920,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.748
+SAMEA7468921,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.431
+SAMEA7468922,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.281
+SAMEA7468923,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.784
+SAMEA7468924,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.267
+SAMEA7468925,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.299
+SAMEA7468926,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,3.396
+SAMEA7468927,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.384
+SAMEA7468928,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,2.434
+SAMEA7468929,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.895
+SAMEA7468930,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.957
+SAMEA7468931,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.484
+SAMEA7468932,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.387
+SAMEA7468933,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,1.18
+SAMEA7468934,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.455
+SAMEA7468935,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.129
+SAMEA7468936,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.344
+SAMEA7468937,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.039
+SAMEA7468938,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.085
+SAMEA7468939,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.194
+SAMEA7468940,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.031
+SAMEA7468941,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.022
+SAMEA7468942,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.034
+SAMEA7468943,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA7468944,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.067
+SAMEA7468945,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.044
+SAMEA7468946,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468947,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7468948,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.01
+SAMEA7468949,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA7468950,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468951,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA7468952,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA7468953,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468954,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468955,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7468956,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468957,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7468958,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.009
+SAMEA7468959,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA7468960,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468961,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA7468962,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468963,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468964,PRJEB40903,Gram-positive bacterium,3,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935220,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935221,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12935222,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935223,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935224,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935225,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935226,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12935227,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935228,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.009
+SAMEA12935793,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935794,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935795,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935796,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935797,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935798,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935799,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935800,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935801,PRJEB40903,built floor.A,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468999,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.231
+SAMEA7469000,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.186
+SAMEA7469001,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.033
+SAMEA7469002,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.289
+SAMEA7469003,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.337
+SAMEA7469004,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.04
+SAMEA7469005,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.7
+SAMEA7469006,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.358
+SAMEA7469007,PRJEB40903,built floor.A,3,,,,US,,,,,,,unknown,1.0,0.024
+SAMEA12935229,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12935230,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.013
+SAMEA12935231,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.014
+SAMEA12935232,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935233,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.01
+SAMEA12935234,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.09
+SAMEA12935235,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935236,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.009
+SAMEA12935237,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12935802,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935803,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935804,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12935805,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935806,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935807,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935808,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935809,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935810,PRJEB40903,built floor.B,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7469008,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.613
+SAMEA7469009,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.052
+SAMEA7469010,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.024
+SAMEA7469011,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.565
+SAMEA7469012,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.235
+SAMEA7469013,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.05
+SAMEA7469014,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.414
+SAMEA7469015,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.465
+SAMEA7469016,PRJEB40903,built floor.B,3,,,,US,,,,,,,unknown,1.0,0.028
+SAMEA7468533,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.048
+SAMEA7468534,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.031
+SAMEA7468535,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468536,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.063
+SAMEA7468537,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.068
+SAMEA7468538,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468539,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.048
+SAMEA7468540,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA7468541,PRJEB40903,built floor.C,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468542,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.148
+SAMEA7468543,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.085
+SAMEA7468544,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468545,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.097
+SAMEA7468546,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.025
+SAMEA7468547,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA7468548,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.061
+SAMEA7468549,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.083
+SAMEA7468550,PRJEB40903,built floor.D,3,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA12935238,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.005
+SAMEA12935239,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935240,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935241,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.003
+SAMEA12935242,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12935243,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935244,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.005
+SAMEA12935245,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12935246,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935811,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935812,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935813,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935814,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935815,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935816,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935817,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935818,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935819,PRJEB40903,built keyboard.A.1,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935248,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935249,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935250,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.013
+SAMEA12935251,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.008
+SAMEA12935252,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.05
+SAMEA12935253,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.008
+SAMEA12935254,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935255,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.009
+SAMEA12935820,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935821,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935822,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935823,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935824,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935825,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935826,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935827,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935828,PRJEB40903,built keyboard.A.2,1,,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936849,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.016
+SAMEA12936850,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12936851,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936852,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12936853,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.041
+SAMEA12936854,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA12936855,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936856,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.01
+SAMEA12936857,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.013
+SAMEA12936858,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA12936859,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12936860,PRJEB40903,built.floor.A,2,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA12936861,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.088
+SAMEA12936862,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12936863,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12936864,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12936865,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.052
+SAMEA12936866,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12936867,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12936868,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12936869,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.083
+SAMEA12936870,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12936871,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12936872,PRJEB40903,built.floor.B,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12936873,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.04
+SAMEA12936874,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.043
+SAMEA12936875,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.003
+SAMEA12936876,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.011
+SAMEA12936877,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.037
+SAMEA12936878,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.039
+SAMEA12936879,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936880,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.009
+SAMEA12936881,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.339
+SAMEA12936882,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.025
+SAMEA12936883,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.003
+SAMEA12936884,PRJEB40903,built.keyboard.A.3,2,adult,11688.0,,US,,,,,,,excluded,1.0,0.022
+SAMEA12936885,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.008
+SAMEA12936886,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.003
+SAMEA12936887,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936888,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.006
+SAMEA12936889,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.01
+SAMEA12936890,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.003
+SAMEA12936891,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936892,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936893,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.003
+SAMEA12936894,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.002
+SAMEA12936895,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.002
+SAMEA12936896,PRJEB40903,built.keyboard.M,2,adult,9861.8,,US,,,,,,,excluded,1.0,0.001
+SAMEA7468981,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.021
+SAMEA7468982,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468983,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.01
+SAMEA7468984,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.012
+SAMEA7468985,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.023
+SAMEA7468986,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.011
+SAMEA7468987,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA7468988,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.021
+SAMEA7468989,PRJEB40903,doorknob A,3,,,,US,,,,,,,unknown,1.0,0.016
+SAMEA7468990,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.032
+SAMEA7468991,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.046
+SAMEA7468992,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.014
+SAMEA7468993,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.075
+SAMEA7468994,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.05
+SAMEA7468995,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.014
+SAMEA7468996,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.101
+SAMEA7468997,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.083
+SAMEA7468998,PRJEB40903,doorknob B,3,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA7468515,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468516,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA7468517,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468518,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA7468519,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468520,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468521,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA7468522,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA7468523,PRJEB40903,doorknob C,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468524,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7468525,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468526,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468527,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468528,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.009
+SAMEA7468529,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA7468530,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7468531,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.012
+SAMEA7468532,PRJEB40903,doorknob D,3,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7469017,PRJEB40903,food sourkraut 1,3,,,,US,,,,,,,unknown,1.0,0.362
+SAMEA7469018,PRJEB40903,food sourkraut 1,3,,,,US,,,,,,,unknown,1.0,0.721
+SAMEA7469019,PRJEB40903,food sourkraut 1,3,,,,US,,,,,,,unknown,1.0,0.329
+SAMEA7469020,PRJEB40903,food sourkraut 1,3,,,,US,,,,,,,unknown,1.0,0.361
+SAMEA7469021,PRJEB40903,food sourkraut 1,3,,,,US,,,,,,,unknown,1.0,0.163
+SAMEA7469022,PRJEB40903,food sourkraut 1,3,,,,US,,,,,,,unknown,1.0,0.294
+SAMEA7469023,PRJEB40903,food sourkraut 2,3,,,,US,,,,,,,unknown,1.0,1.752
+SAMEA7469024,PRJEB40903,food sourkraut 2,3,,,,US,,,,,,,unknown,1.0,1.384
+SAMEA7469025,PRJEB40903,food sourkraut 2,3,,,,US,,,,,,,unknown,1.0,1.699
+SAMEA7469026,PRJEB40903,food sourkraut 2,3,,,,US,,,,,,,unknown,1.0,1.259
+SAMEA7469027,PRJEB40903,food sourkraut 2,3,,,,US,,,,,,,unknown,1.0,1.569
+SAMEA7469028,PRJEB40903,food sourkraut 2,3,,,,US,,,,,,,unknown,1.0,1.069
+SAMEA7469029,PRJEB40903,food yogurt 3,3,,,,US,,,,,,,unknown,1.0,0.326
+SAMEA7469030,PRJEB40903,food yogurt 3,3,,,,US,,,,,,,unknown,1.0,0.091
+SAMEA7469031,PRJEB40903,food yogurt 3,3,,,,US,,,,,,,unknown,1.0,0.222
+SAMEA7469032,PRJEB40903,food yogurt 3,3,,,,US,,,,,,,unknown,1.0,0.208
+SAMEA7469033,PRJEB40903,food yogurt 3,3,,,,US,,,,,,,unknown,1.0,0.142
+SAMEA7469034,PRJEB40903,food yogurt 3,3,,,,US,,,,,,,unknown,1.0,0.283
+SAMEA7469035,PRJEB40903,food yogurt 4,3,,,,US,,,,,,,excluded,1.0,0.292
+SAMEA7469036,PRJEB40903,food yogurt 4,3,,,,US,,,,,,,excluded,1.0,0.01
+SAMEA7469037,PRJEB40903,food yogurt 4,3,,,,US,,,,,,,excluded,1.0,0.419
+SAMEA7469038,PRJEB40903,food yogurt 4,3,,,,US,,,,,,,excluded,1.0,0.054
+SAMEA7469039,PRJEB40903,food yogurt 4,3,,,,US,,,,,,,excluded,1.0,0.458
+SAMEA7469040,PRJEB40903,food yogurt 4,3,,,,US,,,,,,,excluded,1.0,0.052
+SAMEA12935256,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.122
+SAMEA12935257,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.19
+SAMEA12935258,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.182
+SAMEA12935259,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.126
+SAMEA12935260,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.314
+SAMEA12935261,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.12
+SAMEA12935262,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.061
+SAMEA12935263,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.267
+SAMEA12935264,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.106
+SAMEA12935829,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA12935830,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.099
+SAMEA12935831,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.073
+SAMEA12935832,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA12935833,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.134
+SAMEA12935834,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.082
+SAMEA12935835,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.031
+SAMEA12935836,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.109
+SAMEA12935837,PRJEB40903,food.kimchi.1,1,,,,US,,,,,,,unknown,1.0,0.083
+SAMEA12936404,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,2.199
+SAMEA12936405,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,0.342
+SAMEA12936406,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,0.65
+SAMEA12936407,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,1.131
+SAMEA12936408,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,1.597
+SAMEA12936409,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,0.355
+SAMEA12936410,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,0.812
+SAMEA12936411,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,1.582
+SAMEA12936412,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,1.43
+SAMEA12936413,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,0.457
+SAMEA12936414,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,0.505
+SAMEA12936415,PRJEB40903,food.kimchi.1,2,,,,US,,,,,,,unknown,1.0,1.569
+SAMEA12935265,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.093
+SAMEA12935266,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.333
+SAMEA12935267,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.104
+SAMEA12935268,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.078
+SAMEA12935269,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.28
+SAMEA12935270,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.092
+SAMEA12935271,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.076
+SAMEA12935272,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.232
+SAMEA12935273,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.155
+SAMEA12935838,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935839,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.1
+SAMEA12935840,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.08
+SAMEA12935841,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935842,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.108
+SAMEA12935843,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.101
+SAMEA12935844,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12935845,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.117
+SAMEA12935846,PRJEB40903,food.kimchi.2,1,,,,US,,,,,,,unknown,1.0,0.099
+SAMEA12936416,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,0.976
+SAMEA12936417,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.122
+SAMEA12936419,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,0.637
+SAMEA12936420,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.501
+SAMEA12936421,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.172
+SAMEA12936422,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.196
+SAMEA12936423,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,0.975
+SAMEA12936424,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.824
+SAMEA12936425,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.314
+SAMEA12936426,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.547
+SAMEA12936427,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,0.969
+SAMEA12936428,PRJEB40903,food.kimchi.2,2,,,,US,,,,,,,unknown,1.0,1.373
+SAMEA7468551,PRJEB40903,food.sourkraut.1.1.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,1.314
+SAMEA7468552,PRJEB40903,food.sourkraut.1.2.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,0.561
+SAMEA7468553,PRJEB40903,food.sourkraut.1.3.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,0.179
+SAMEA7468554,PRJEB40903,food.sourkraut.2.1.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,1.106
+SAMEA7468555,PRJEB40903,food.sourkraut.2.2.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,1.267
+SAMEA7468556,PRJEB40903,food.sourkraut.2.3.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,0.854
+SAMEA12935274,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.135
+SAMEA12935275,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.209
+SAMEA12935276,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.068
+SAMEA12935277,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.104
+SAMEA12935278,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.278
+SAMEA12935279,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.085
+SAMEA12935280,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.136
+SAMEA12935281,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.229
+SAMEA12935282,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.117
+SAMEA12935847,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935848,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.124
+SAMEA12935849,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.033
+SAMEA12935850,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.004
+SAMEA12935851,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.087
+SAMEA12935852,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.071
+SAMEA12935853,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935854,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.221
+SAMEA12935855,PRJEB40903,food.yogurt.1,1,,,,US,,,,,,,unknown,1.0,0.048
+SAMEA12936429,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.083
+SAMEA12936430,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.134
+SAMEA12936431,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.531
+SAMEA12936432,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.13
+SAMEA12936433,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.149
+SAMEA12936434,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,1.268
+SAMEA12936435,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.419
+SAMEA12936436,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.91
+SAMEA12936437,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.787
+SAMEA12936438,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.229
+SAMEA12936439,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.415
+SAMEA12936440,PRJEB40903,food.yogurt.1,2,,,,US,,,,,,,unknown,1.0,0.589
+SAMEA12935283,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.209
+SAMEA12935284,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.265
+SAMEA12935285,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.11
+SAMEA12935286,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.174
+SAMEA12935287,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.167
+SAMEA12935288,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.176
+SAMEA12935289,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.148
+SAMEA12935290,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.325
+SAMEA12935291,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.077
+SAMEA12935856,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12935857,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.141
+SAMEA12935858,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.041
+SAMEA12935859,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.016
+SAMEA12935860,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.115
+SAMEA12935861,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.05
+SAMEA12935862,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.029
+SAMEA12935863,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.21
+SAMEA12935864,PRJEB40903,food.yogurt.2,1,,,,US,,,,,,,unknown,1.0,0.033
+SAMEA12936441,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.623
+SAMEA12936442,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.268
+SAMEA12936443,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.306
+SAMEA12936444,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,1.328
+SAMEA12936445,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.551
+SAMEA12936446,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,1.144
+SAMEA12936447,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.449
+SAMEA12936448,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.623
+SAMEA12936449,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.766
+SAMEA12936450,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.95
+SAMEA12936451,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.542
+SAMEA12936452,PRJEB40903,food.yogurt.2,2,,,,US,,,,,,,unknown,1.0,0.653
+SAMEA7468557,PRJEB40903,food.yogurt.3.1.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,0.211
+SAMEA7468558,PRJEB40903,food.yogurt.3.2.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,0.326
+SAMEA7468559,PRJEB40903,food.yogurt.3.3.microbiome20.H,3,,,,US,,,,,,,unknown,1.0,0.437
+SAMEA7468560,PRJEB40903,food.yogurt.4.1.microbiome20.H,3,,,,US,,,,,,,excluded,1.0,0.263
+SAMEA7468561,PRJEB40903,food.yogurt.4.2.microbiome20.H,3,,,,US,,,,,,,excluded,1.0,0.312
+SAMEA7468562,PRJEB40903,food.yogurt.4.3.microbiome20.H,3,,,,US,,,,,,,excluded,1.0,0.505
+SAMEA12935406,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.148
+SAMEA12935407,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.129
+SAMEA12935408,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.092
+SAMEA12935409,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.201
+SAMEA12935410,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.08
+SAMEA12935411,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.019
+SAMEA12935412,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.207
+SAMEA12935413,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.098
+SAMEA12935414,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.103
+SAMEA12935460,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12935461,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12935462,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12935463,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12935464,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12935465,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935466,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12935467,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12935468,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12935487,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.184
+SAMEA12935488,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.217
+SAMEA12935489,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.109
+SAMEA12935490,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.075
+SAMEA12935491,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.107
+SAMEA12935492,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.118
+SAMEA12935493,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.089
+SAMEA12935494,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.096
+SAMEA12935495,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.128
+SAMEA12935591,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.282
+SAMEA12935592,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.197
+SAMEA12935593,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.206
+SAMEA12935594,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.108
+SAMEA12935595,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.195
+SAMEA12935596,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.338
+SAMEA12935597,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.106
+SAMEA12935598,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.142
+SAMEA12935599,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.194
+SAMEA12935700,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935701,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935702,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935703,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935704,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935705,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935706,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935707,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935708,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935979,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12935980,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.115
+SAMEA12935981,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.055
+SAMEA12935982,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12935983,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.131
+SAMEA12935984,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.069
+SAMEA12935985,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.007
+SAMEA12935986,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.053
+SAMEA12935987,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.033
+SAMEA12936033,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936034,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936035,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936036,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936037,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936038,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936039,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936040,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936041,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936060,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12936061,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.163
+SAMEA12936062,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.02
+SAMEA12936063,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.007
+SAMEA12936064,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.034
+SAMEA12936065,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.012
+SAMEA12936066,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12936067,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.007
+SAMEA12936068,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936168,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.281
+SAMEA12936169,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.242
+SAMEA12936170,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.175
+SAMEA12936171,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.236
+SAMEA12936172,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.099
+SAMEA12936173,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.107
+SAMEA12936174,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.041
+SAMEA12936175,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.132
+SAMEA12936176,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,primary,1.0,0.112
+SAMEA12936276,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936277,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936278,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936279,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936280,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936281,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936282,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936283,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936284,PRJEB40903,human.A,1,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936485,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.39
+SAMEA12936486,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.38
+SAMEA12936487,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.31
+SAMEA12936488,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.384
+SAMEA12936489,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.391
+SAMEA12936490,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.449
+SAMEA12936491,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.31
+SAMEA12936492,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.252
+SAMEA12936493,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.074
+SAMEA12936494,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.604
+SAMEA12936495,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.321
+SAMEA12936496,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.327
+SAMEA12936664,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.0
+SAMEA12936665,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.944
+SAMEA12936666,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.37
+SAMEA12936667,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.808
+SAMEA12936668,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.0
+SAMEA12936669,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.768
+SAMEA12936670,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.513
+SAMEA12936671,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.666
+SAMEA12936672,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.933
+SAMEA12936673,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.991
+SAMEA12936674,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.747
+SAMEA12936675,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,primary,1.0,0.831
+SAMEA12937017,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.02
+SAMEA12937018,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937019,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12937020,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937021,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12937022,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937023,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12937024,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937025,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937026,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12937027,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937028,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937053,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,5.279
+SAMEA12937054,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.276
+SAMEA12937055,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.02
+SAMEA12937056,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.044
+SAMEA12937057,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.065
+SAMEA12937058,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.013
+SAMEA12937059,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12937060,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.076
+SAMEA12937061,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.094
+SAMEA12937062,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.062
+SAMEA12937063,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.029
+SAMEA12937064,PRJEB40903,human.A,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.014
+SAMEA12937125,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937126,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937127,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937128,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937129,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937130,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937131,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937132,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937133,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937134,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937135,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937136,PRJEB40903,human.A,2,adult,11322.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468563,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.291
+SAMEA7468564,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.137
+SAMEA7468565,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.275
+SAMEA7468590,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.666
+SAMEA7468591,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.972
+SAMEA7468592,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.181
+SAMEA7468593,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.777
+SAMEA7468594,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.994
+SAMEA7468595,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.054
+SAMEA7468596,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.222
+SAMEA7468597,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.43
+SAMEA7468598,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.054
+SAMEA7468617,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.753
+SAMEA7468618,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.0
+SAMEA7468619,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.204
+SAMEA7468620,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.893
+SAMEA7468621,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.605
+SAMEA7468622,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.041
+SAMEA7468623,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.989
+SAMEA7468624,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.623
+SAMEA7468625,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.019
+SAMEA7468644,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.69
+SAMEA7468645,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.53
+SAMEA7468646,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.202
+SAMEA7468647,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.627
+SAMEA7468648,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.269
+SAMEA7468649,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.432
+SAMEA7468650,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.655
+SAMEA7468651,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.41
+SAMEA7468652,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.138
+SAMEA7468671,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.161
+SAMEA7468672,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.126
+SAMEA7468673,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.305
+SAMEA7468674,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.364
+SAMEA7468675,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.347
+SAMEA7468676,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.427
+SAMEA7468719,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.038
+SAMEA7468720,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7468721,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.058
+SAMEA7468722,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.265
+SAMEA7468723,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.027
+SAMEA7468724,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.91
+SAMEA7468725,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.091
+SAMEA7468726,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.489
+SAMEA7468727,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.788
+SAMEA7468770,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.844
+SAMEA7468771,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.104
+SAMEA7468772,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.532
+SAMEA7468773,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.006
+SAMEA7468774,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7468775,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7468776,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7468777,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.014
+SAMEA7468778,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468821,PRJEB40903,human.A,3,adult,,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7468822,PRJEB40903,human.A,3,adult,9861.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468823,PRJEB40903,human.A,3,adult,9861.8,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7468824,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.139
+SAMEA7468825,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.101
+SAMEA7468826,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.227
+SAMEA7468851,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.465
+SAMEA7468852,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.902
+SAMEA7468853,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.849
+SAMEA7468857,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,1.589
+SAMEA7468858,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.833
+SAMEA7468859,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.824
+SAMEA7469041,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.544
+SAMEA7469042,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.082
+SAMEA7469043,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.52
+SAMEA7469044,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.833
+SAMEA7469045,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.548
+SAMEA7469046,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.3
+SAMEA7469143,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.593
+SAMEA7469144,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.458
+SAMEA7469145,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.049
+SAMEA7469146,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.949
+SAMEA7469147,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.7
+SAMEA7469148,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.02
+SAMEA7469149,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.325
+SAMEA7469150,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.668
+SAMEA7469151,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.01
+SAMEA7469170,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,3.997
+SAMEA7469171,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,2.936
+SAMEA7469172,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.32
+SAMEA7469173,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,4.091
+SAMEA7469174,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,1.178
+SAMEA7469175,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.176
+SAMEA7469176,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,3.777
+SAMEA7469177,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.28
+SAMEA7469178,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.143
+SAMEA7469245,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.407
+SAMEA7469246,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.28
+SAMEA7469247,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,2.052
+SAMEA7469248,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.395
+SAMEA7469249,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,2.041
+SAMEA7469250,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,0.535
+SAMEA7469257,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,1.863
+SAMEA7469258,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,2.278
+SAMEA7469259,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,1.438
+SAMEA7469260,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,1.733
+SAMEA7469261,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,1.199
+SAMEA7469262,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,primary,1.0,1.752
+SAMEA7469314,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7469315,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7469316,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7469317,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.003
+SAMEA7469318,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA7469319,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7469320,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7469321,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.596
+SAMEA7469322,PRJEB40903,human.A,3,adult,12053.2,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12935415,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.184
+SAMEA12935416,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.087
+SAMEA12935417,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.094
+SAMEA12935418,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.146
+SAMEA12935419,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.057
+SAMEA12935420,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.017
+SAMEA12935421,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.186
+SAMEA12935422,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.101
+SAMEA12935423,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.017
+SAMEA12935469,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12935470,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935471,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12935472,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12935473,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12935474,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12935475,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12935476,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935477,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12935496,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12935497,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12935498,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.013
+SAMEA12935499,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12935500,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12935501,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12935502,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12935503,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12935504,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12935600,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.165
+SAMEA12935601,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.118
+SAMEA12935602,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.294
+SAMEA12935603,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.143
+SAMEA12935604,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.155
+SAMEA12935605,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.199
+SAMEA12935606,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.15
+SAMEA12935607,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.143
+SAMEA12935608,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.233
+SAMEA12935709,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935710,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935711,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935712,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935713,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935714,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935715,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935716,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935717,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935988,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.012
+SAMEA12935989,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.118
+SAMEA12935990,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.055
+SAMEA12935991,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.009
+SAMEA12935992,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.107
+SAMEA12935993,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.042
+SAMEA12935994,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12935995,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.086
+SAMEA12935996,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.068
+SAMEA12936042,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936043,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936044,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936045,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936046,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936047,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936048,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936049,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936050,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936069,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936070,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936071,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936072,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936073,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936074,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936075,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936076,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936077,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936177,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.257
+SAMEA12936178,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.191
+SAMEA12936179,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.101
+SAMEA12936180,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.268
+SAMEA12936181,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.234
+SAMEA12936182,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.111
+SAMEA12936183,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.275
+SAMEA12936184,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.303
+SAMEA12936185,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,primary,1.0,0.152
+SAMEA12936285,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12936286,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936287,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936288,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936289,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936290,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12936291,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936292,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936293,PRJEB40903,human.B,1,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936497,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.052
+SAMEA12936498,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.096
+SAMEA12936499,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.271
+SAMEA12936500,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.048
+SAMEA12936501,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.079
+SAMEA12936502,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.123
+SAMEA12936503,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.435
+SAMEA12936504,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.039
+SAMEA12936505,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.029
+SAMEA12936506,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.135
+SAMEA12936507,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.274
+SAMEA12936508,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.044
+SAMEA12936676,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,1.405
+SAMEA12936677,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,1.254
+SAMEA12936678,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.845
+SAMEA12936679,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.898
+SAMEA12936680,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,1.218
+SAMEA12936681,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.771
+SAMEA12936682,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.977
+SAMEA12936683,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.664
+SAMEA12936684,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,1.267
+SAMEA12936685,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.926
+SAMEA12936686,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.526
+SAMEA12936687,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,primary,1.0,0.871
+SAMEA12937029,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937030,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937031,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937032,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937033,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.006
+SAMEA12937034,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937035,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937036,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12937037,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.006
+SAMEA12937038,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937039,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937040,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937065,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.021
+SAMEA12937066,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.03
+SAMEA12937067,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937068,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.006
+SAMEA12937069,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.047
+SAMEA12937070,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.015
+SAMEA12937071,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12937072,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.017
+SAMEA12937073,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.031
+SAMEA12937074,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.012
+SAMEA12937075,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.006
+SAMEA12937076,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.007
+SAMEA12937137,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937138,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937139,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937140,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937141,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937142,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937143,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937144,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937145,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937146,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937147,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937148,PRJEB40903,human.B,2,adult,12053.2,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468566,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.465
+SAMEA7468567,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.239
+SAMEA7468568,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.287
+SAMEA7468677,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.04
+SAMEA7468678,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.056
+SAMEA7468679,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.054
+SAMEA7468680,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.037
+SAMEA7468681,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.017
+SAMEA7468682,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,1.452
+SAMEA7468728,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.672
+SAMEA7468729,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.015
+SAMEA7468730,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,1.975
+SAMEA7468731,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.194
+SAMEA7468732,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,1.858
+SAMEA7468733,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.014
+SAMEA7468779,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.005
+SAMEA7468780,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA7468781,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468782,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468783,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7468784,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA7468854,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.663
+SAMEA7468855,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.329
+SAMEA7468856,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,2.066
+SAMEA7469047,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.576
+SAMEA7469048,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.66
+SAMEA7469049,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.376
+SAMEA7469050,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.629
+SAMEA7469051,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.397
+SAMEA7469052,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.725
+SAMEA7469152,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.112
+SAMEA7469153,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.06
+SAMEA7469154,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.015
+SAMEA7469155,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.137
+SAMEA7469156,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.034
+SAMEA7469157,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.02
+SAMEA7469158,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.049
+SAMEA7469159,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.033
+SAMEA7469160,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.013
+SAMEA7469179,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,2.048
+SAMEA7469180,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.582
+SAMEA7469181,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.037
+SAMEA7469182,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.813
+SAMEA7469183,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.645
+SAMEA7469184,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.033
+SAMEA7469185,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,1.876
+SAMEA7469186,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.44
+SAMEA7469187,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.051
+SAMEA7469251,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.511
+SAMEA7469252,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,2.009
+SAMEA7469253,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.762
+SAMEA7469254,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.693
+SAMEA7469255,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.824
+SAMEA7469256,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,primary,1.0,1.275
+SAMEA7469323,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7469324,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7469325,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.008
+SAMEA7469326,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7469327,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.001
+SAMEA7469328,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.008
+SAMEA7469329,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.003
+SAMEA7469330,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7469331,PRJEB40903,human.B,3,adult,12783.8,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12935424,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.046
+SAMEA12935425,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.017
+SAMEA12935426,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12935427,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.048
+SAMEA12935428,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.018
+SAMEA12935429,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12935430,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.071
+SAMEA12935431,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.016
+SAMEA12935432,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.023
+SAMEA12935478,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.064
+SAMEA12935479,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.2
+SAMEA12935480,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.098
+SAMEA12935481,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.039
+SAMEA12935482,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,2.365
+SAMEA12935483,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.088
+SAMEA12935484,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.078
+SAMEA12935485,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.308
+SAMEA12935486,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.096
+SAMEA12935505,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.096
+SAMEA12935506,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.03
+SAMEA12935507,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.088
+SAMEA12935508,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.134
+SAMEA12935509,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.03
+SAMEA12935510,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.129
+SAMEA12935511,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12935512,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.028
+SAMEA12935513,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.123
+SAMEA12935718,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935719,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12935720,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12935721,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935722,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935723,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935724,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935725,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935726,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935997,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.021
+SAMEA12935998,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.049
+SAMEA12935999,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.019
+SAMEA12936000,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.038
+SAMEA12936001,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.047
+SAMEA12936002,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.022
+SAMEA12936003,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.033
+SAMEA12936004,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.038
+SAMEA12936005,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.041
+SAMEA12936051,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12936052,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12936053,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.027
+SAMEA12936054,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.014
+SAMEA12936055,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.006
+SAMEA12936056,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.041
+SAMEA12936057,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12936058,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.015
+SAMEA12936059,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.012
+SAMEA12936078,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12936079,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.008
+SAMEA12936080,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.006
+SAMEA12936081,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12936082,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12936083,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.004
+SAMEA12936084,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12936085,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.016
+SAMEA12936086,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12936294,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936295,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936296,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936297,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936298,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936299,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936300,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936301,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12936302,PRJEB40903,human.C,1,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937149,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937150,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937151,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937152,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937153,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937154,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937155,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937156,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937157,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937158,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937159,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12937160,PRJEB40903,human.C,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.0
+SAMEA12935433,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.019
+SAMEA12935434,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.042
+SAMEA12935435,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.014
+SAMEA12935436,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.125
+SAMEA12935437,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.023
+SAMEA12935438,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.047
+SAMEA12935439,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.111
+SAMEA12935440,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.047
+SAMEA12935441,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.013
+SAMEA12935673,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12935674,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12935675,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12935676,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12935677,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12935678,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12935679,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12935680,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12935681,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936006,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.004
+SAMEA12936007,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.063
+SAMEA12936008,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.022
+SAMEA12936009,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12936010,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.04
+SAMEA12936011,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12936012,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12936013,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.023
+SAMEA12936014,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.039
+SAMEA12936249,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12936250,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12936251,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936252,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936253,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12936254,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936255,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12936256,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12936257,PRJEB40903,human.D,1,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936509,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.017
+SAMEA12936510,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.154
+SAMEA12936511,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.044
+SAMEA12936512,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.076
+SAMEA12936513,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.008
+SAMEA12936514,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.184
+SAMEA12936515,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.047
+SAMEA12936516,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.012
+SAMEA12936517,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.006
+SAMEA12936518,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.188
+SAMEA12936519,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.048
+SAMEA12936520,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.008
+SAMEA12937089,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12937090,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.009
+SAMEA12937091,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12937092,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12937093,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.004
+SAMEA12937094,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12937095,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12937096,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12937097,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12937098,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.023
+SAMEA12937099,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12937100,PRJEB40903,human.D,2,adult,11322.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA7468569,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.154
+SAMEA7468570,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.348
+SAMEA7468571,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.051
+SAMEA7468599,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.737
+SAMEA7468600,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.188
+SAMEA7468601,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.038
+SAMEA7468602,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.826
+SAMEA7468603,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.599
+SAMEA7468604,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.066
+SAMEA7468605,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.808
+SAMEA7468606,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.684
+SAMEA7468607,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.073
+SAMEA7468626,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.31
+SAMEA7468627,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.489
+SAMEA7468628,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.028
+SAMEA7468629,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.286
+SAMEA7468630,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.494
+SAMEA7468631,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.043
+SAMEA7468632,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.491
+SAMEA7468633,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.527
+SAMEA7468634,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.117
+SAMEA7468653,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.451
+SAMEA7468654,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.317
+SAMEA7468655,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.065
+SAMEA7468656,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.67
+SAMEA7468657,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.476
+SAMEA7468658,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.064
+SAMEA7468659,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.242
+SAMEA7468660,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.269
+SAMEA7468661,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.068
+SAMEA7468683,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.048
+SAMEA7468684,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.014
+SAMEA7468685,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.019
+SAMEA7468686,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.011
+SAMEA7468687,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.049
+SAMEA7468688,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.168
+SAMEA7468734,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,1.919
+SAMEA7468735,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.049
+SAMEA7468736,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,2.064
+SAMEA7468737,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.188
+SAMEA7468738,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,1.576
+SAMEA7468739,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,1.804
+SAMEA7468785,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.019
+SAMEA7468786,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.009
+SAMEA7468787,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.011
+SAMEA7468788,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.016
+SAMEA7468789,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.007
+SAMEA7468790,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.008
+SAMEA7469053,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.197
+SAMEA7469054,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.121
+SAMEA7469055,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.233
+SAMEA7469056,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.088
+SAMEA7469057,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.413
+SAMEA7469058,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.047
+SAMEA7469287,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.006
+SAMEA7469288,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.011
+SAMEA7469289,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.006
+SAMEA7469290,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.004
+SAMEA7469291,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.003
+SAMEA7469292,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.008
+SAMEA7469293,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.014
+SAMEA7469294,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.003
+SAMEA7469295,PRJEB40903,human.D,3,adult,12053.2,female,US,,,,,,,excluded,1.0,0.006
+SAMEA12935442,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.124
+SAMEA12935443,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.034
+SAMEA12935444,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.009
+SAMEA12935445,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.021
+SAMEA12935446,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.051
+SAMEA12935447,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.052
+SAMEA12935448,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.154
+SAMEA12935449,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.06
+SAMEA12935450,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.009
+SAMEA12935682,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.033
+SAMEA12935683,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.007
+SAMEA12935685,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.034
+SAMEA12935686,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12935687,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12935688,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.037
+SAMEA12935689,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.017
+SAMEA12935690,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.004
+SAMEA12936015,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936016,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.015
+SAMEA12936017,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.059
+SAMEA12936018,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12936019,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.006
+SAMEA12936020,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.036
+SAMEA12936021,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.006
+SAMEA12936022,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.025
+SAMEA12936023,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.067
+SAMEA12936259,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12936261,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936262,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12936263,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12936264,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936265,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.005
+SAMEA12936266,PRJEB40903,human.E,1,adult,8035.5,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12935451,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.107
+SAMEA12935452,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.159
+SAMEA12935453,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.069
+SAMEA12935454,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.144
+SAMEA12935455,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.144
+SAMEA12935456,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.087
+SAMEA12935457,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.119
+SAMEA12935458,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.108
+SAMEA12935459,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.09
+SAMEA12935691,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.054
+SAMEA12935692,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.012
+SAMEA12935693,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.005
+SAMEA12935694,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.005
+SAMEA12935695,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.012
+SAMEA12935696,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12935697,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.036
+SAMEA12935698,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.011
+SAMEA12935699,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.029
+SAMEA12936024,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12936025,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.013
+SAMEA12936026,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.058
+SAMEA12936027,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.007
+SAMEA12936028,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.123
+SAMEA12936029,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.025
+SAMEA12936030,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.003
+SAMEA12936031,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.029
+SAMEA12936032,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.02
+SAMEA12936267,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936268,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.015
+SAMEA12936269,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.015
+SAMEA12936270,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936271,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.016
+SAMEA12936272,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.017
+SAMEA12936273,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936274,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.012
+SAMEA12936275,PRJEB40903,human.F,1,adult,9861.8,female,US,,,,,,,excluded,1.0,0.016
+SAMEA12935609,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.127
+SAMEA12935611,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.231
+SAMEA12935612,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.144
+SAMEA12935613,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.111
+SAMEA12935614,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.144
+SAMEA12935615,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.149
+SAMEA12935616,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.11
+SAMEA12935617,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.189
+SAMEA12936186,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.25
+SAMEA12936187,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.198
+SAMEA12936188,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.167
+SAMEA12936189,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.151
+SAMEA12936190,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.227
+SAMEA12936191,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.102
+SAMEA12936192,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.259
+SAMEA12936193,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.131
+SAMEA12936194,PRJEB40903,human.G,1,adult,9131.2,female,US,,,,,,,primary,1.0,0.116
+SAMEA12935618,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.123
+SAMEA12935619,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.116
+SAMEA12935620,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.183
+SAMEA12935621,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.153
+SAMEA12935622,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.138
+SAMEA12935623,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.004
+SAMEA12935624,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.125
+SAMEA12935625,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.139
+SAMEA12935626,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.026
+SAMEA12936195,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.212
+SAMEA12936196,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.302
+SAMEA12936197,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.043
+SAMEA12936198,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.233
+SAMEA12936199,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.115
+SAMEA12936200,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.131
+SAMEA12936201,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.038
+SAMEA12936202,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.428
+SAMEA12936203,PRJEB40903,human.H,1,adult,20819.2,female,US,,,,,,,primary,1.0,0.133
+SAMEA12935627,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.175
+SAMEA12935628,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.096
+SAMEA12935629,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.14
+SAMEA12935630,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.069
+SAMEA12935631,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.12
+SAMEA12935632,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.151
+SAMEA12935633,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.21
+SAMEA12935634,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.081
+SAMEA12935635,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.136
+SAMEA12936204,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.229
+SAMEA12936205,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.101
+SAMEA12936206,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.125
+SAMEA12936207,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.241
+SAMEA12936208,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.098
+SAMEA12936209,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.079
+SAMEA12936210,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.289
+SAMEA12936211,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.018
+SAMEA12936212,PRJEB40903,human.I,1,adult,12418.5,male,US,,,,,,,primary,1.0,0.06
+SAMEA12936688,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.473
+SAMEA12936689,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.805
+SAMEA12936690,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.739
+SAMEA12936691,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.092
+SAMEA12936692,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.88
+SAMEA12936693,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.523
+SAMEA12936694,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.348
+SAMEA12936695,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.792
+SAMEA12936696,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.971
+SAMEA12936697,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.046
+SAMEA12936698,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.449
+SAMEA12936699,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.649
+SAMEA12936700,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.765
+SAMEA12936701,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.41
+SAMEA12936702,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.153
+SAMEA12936703,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.452
+SAMEA12936704,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.931
+SAMEA12936705,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.682
+SAMEA12936706,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.296
+SAMEA12936707,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.211
+SAMEA12936708,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.319
+SAMEA12936709,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.667
+SAMEA12936710,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.325
+SAMEA12936711,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.001
+SAMEA12936712,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,2.977
+SAMEA12936713,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.508
+SAMEA12936714,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.51
+SAMEA12936715,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.933
+SAMEA12936716,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.25
+SAMEA12936717,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.543
+SAMEA12936718,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.601
+SAMEA12936719,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.148
+SAMEA12936720,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.356
+SAMEA12936721,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.5
+SAMEA12936722,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,0.38
+SAMEA12936723,PRJEB40903,human.J,2,adult,,male,US,,,,,,,primary,1.0,1.697
+SAMEA12936521,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.076
+SAMEA12936522,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.117
+SAMEA12936523,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.309
+SAMEA12936524,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.1
+SAMEA12936525,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.084
+SAMEA12936526,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,2.33
+SAMEA12936527,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.543
+SAMEA12936528,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.215
+SAMEA12936529,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.082
+SAMEA12936530,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.158
+SAMEA12936531,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.091
+SAMEA12936532,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.127
+SAMEA12937041,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.106
+SAMEA12937042,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.143
+SAMEA12937043,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12937044,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.015
+SAMEA12937045,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.115
+SAMEA12937046,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.511
+SAMEA12937047,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12937048,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.021
+SAMEA12937049,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.029
+SAMEA12937050,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.033
+SAMEA12937051,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.016
+SAMEA12937052,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.012
+SAMEA12937077,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937078,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12937079,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937080,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937081,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937082,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.005
+SAMEA12937083,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12937084,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.001
+SAMEA12937085,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.01
+SAMEA12937086,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.021
+SAMEA12937087,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.002
+SAMEA12937088,PRJEB40903,human.K,2,adult,11688.0,male,US,,,,,,,excluded,1.0,0.003
+SAMEA12936533,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.038
+SAMEA12936534,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.048
+SAMEA12936535,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.196
+SAMEA12936536,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.033
+SAMEA12936537,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.069
+SAMEA12936538,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.078
+SAMEA12936539,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.162
+SAMEA12936540,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.031
+SAMEA12936541,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.053
+SAMEA12936542,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.062
+SAMEA12936543,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.136
+SAMEA12936544,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.033
+SAMEA12937101,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12937102,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.009
+SAMEA12937103,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12937104,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12937105,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.004
+SAMEA12937106,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12937107,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12937108,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12937109,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.009
+SAMEA12937110,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.002
+SAMEA12937111,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12937112,PRJEB40903,human.L,2,adult,8035.5,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12936545,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.007
+SAMEA12936546,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.414
+SAMEA12936547,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.053
+SAMEA12936548,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.012
+SAMEA12936549,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.004
+SAMEA12936550,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.05
+SAMEA12936551,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.06
+SAMEA12936552,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.062
+SAMEA12936553,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.004
+SAMEA12936554,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.076
+SAMEA12936555,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.091
+SAMEA12936556,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.005
+SAMEA12937113,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.049
+SAMEA12937114,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.057
+SAMEA12937115,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.063
+SAMEA12937116,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA12937117,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.107
+SAMEA12937118,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.062
+SAMEA12937119,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.054
+SAMEA12937120,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.001
+SAMEA12937121,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.069
+SAMEA12937122,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.421
+SAMEA12937123,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.013
+SAMEA12937124,PRJEB40903,human.N,2,adult,9861.8,female,US,,,,,,,excluded,1.0,0.0
+SAMEA7468572,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,1.35
+SAMEA7468573,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.732
+SAMEA7468574,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.667
+SAMEA7468689,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.024
+SAMEA7468690,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.021
+SAMEA7468707,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7468708,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.003
+SAMEA7468740,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.457
+SAMEA7468741,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.012
+SAMEA7468758,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.493
+SAMEA7468759,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.001
+SAMEA7468791,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.01
+SAMEA7468792,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.007
+SAMEA7468809,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.019
+SAMEA7468810,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.024
+SAMEA7469059,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.329
+SAMEA7469060,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.231
+SAMEA7469061,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.191
+SAMEA7469062,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.323
+SAMEA7469063,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.031
+SAMEA7469064,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,1.613
+SAMEA7469161,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.11
+SAMEA7469162,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.133
+SAMEA7469163,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.049
+SAMEA7469164,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.134
+SAMEA7469165,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.575
+SAMEA7469166,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.055
+SAMEA7469167,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.394
+SAMEA7469168,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.416
+SAMEA7469169,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.036
+SAMEA7469188,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,2.708
+SAMEA7469189,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,3.287
+SAMEA7469190,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.281
+SAMEA7469191,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,4.403
+SAMEA7469192,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,2.288
+SAMEA7469193,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.248
+SAMEA7469194,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,1.251
+SAMEA7469195,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,1.446
+SAMEA7469196,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.553
+SAMEA7469332,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.007
+SAMEA7469333,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.004
+SAMEA7469334,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.01
+SAMEA7469335,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.003
+SAMEA7469336,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.007
+SAMEA7469337,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.009
+SAMEA7469338,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.007
+SAMEA7469339,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.023
+SAMEA7469340,PRJEB40903,human.O,3,adult,,male,US,,,,,,,excluded,1.0,0.006
+SAMEA7468575,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.068
+SAMEA7468576,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.042
+SAMEA7468577,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.027
+SAMEA7468691,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.144
+SAMEA7468692,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.102
+SAMEA7468709,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.04
+SAMEA7468710,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.004
+SAMEA7468742,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.153
+SAMEA7468743,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.007
+SAMEA7468760,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.058
+SAMEA7468761,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.006
+SAMEA7468793,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.002
+SAMEA7468794,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.003
+SAMEA7468811,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.002
+SAMEA7468812,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.014
+SAMEA7469065,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.099
+SAMEA7469066,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.029
+SAMEA7469067,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.072
+SAMEA7469068,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.021
+SAMEA7469069,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.049
+SAMEA7469070,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.041
+SAMEA7469296,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.039
+SAMEA7469297,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.042
+SAMEA7469298,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.014
+SAMEA7469299,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.027
+SAMEA7469300,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.02
+SAMEA7469301,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.014
+SAMEA7469302,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.037
+SAMEA7469303,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.026
+SAMEA7469304,PRJEB40903,human.P,3,adult,,female,US,,,,,,,excluded,1.0,0.016
+SAMEA7468578,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.432
+SAMEA7468579,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.66
+SAMEA7468580,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.674
+SAMEA7468581,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.033
+SAMEA7468582,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.018
+SAMEA7468583,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.02
+SAMEA7468608,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.41
+SAMEA7468609,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.945
+SAMEA7468610,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.162
+SAMEA7468611,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.149
+SAMEA7468612,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.109
+SAMEA7468613,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.111
+SAMEA7468614,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.02
+SAMEA7468615,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.487
+SAMEA7468616,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.108
+SAMEA7468635,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.665
+SAMEA7468636,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.68
+SAMEA7468637,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.177
+SAMEA7468638,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.584
+SAMEA7468639,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.662
+SAMEA7468640,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.091
+SAMEA7468641,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.5
+SAMEA7468642,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.61
+SAMEA7468643,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.259
+SAMEA7468662,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.22
+SAMEA7468663,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.674
+SAMEA7468664,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.938
+SAMEA7468665,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.666
+SAMEA7468666,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.828
+SAMEA7468667,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.186
+SAMEA7468668,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.466
+SAMEA7468669,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.338
+SAMEA7468670,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.421
+SAMEA7468693,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.225
+SAMEA7468694,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.145
+SAMEA7468695,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.529
+SAMEA7468696,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.054
+SAMEA7468697,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.354
+SAMEA7468698,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.978
+SAMEA7468744,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.118
+SAMEA7468745,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.009
+SAMEA7468746,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.14
+SAMEA7468747,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.017
+SAMEA7468748,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.188
+SAMEA7468749,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.107
+SAMEA7468795,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.023
+SAMEA7468796,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.016
+SAMEA7468797,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.045
+SAMEA7468798,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.022
+SAMEA7468799,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.004
+SAMEA7468800,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.006
+SAMEA7469071,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.914
+SAMEA7469072,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.324
+SAMEA7469073,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,0.916
+SAMEA7469074,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.019
+SAMEA7469075,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.208
+SAMEA7469076,PRJEB40903,human.Q,3,adult,9861.8,female,US,,,,,,,excluded,1.0,1.095
+SAMEA7469077,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.026
+SAMEA7469078,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.015
+SAMEA7469079,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.032
+SAMEA7469080,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.017
+SAMEA7469081,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.029
+SAMEA7469082,PRJEB40903,human.Q,3,adult,,female,US,,,,,,,excluded,1.0,0.025
+SAMEA7468699,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.024
+SAMEA7468700,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.01
+SAMEA7468711,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.002
+SAMEA7468712,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.001
+SAMEA7468750,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.32
+SAMEA7468751,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.021
+SAMEA7468762,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.138
+SAMEA7468763,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.023
+SAMEA7468801,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.014
+SAMEA7468802,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.017
+SAMEA7468813,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.037
+SAMEA7468814,PRJEB40903,human.R,3,adult,,female,US,,,,,,,excluded,1.0,0.054
+SAMEA7468584,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.207
+SAMEA7468585,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.339
+SAMEA7468586,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.448
+SAMEA7468701,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.112
+SAMEA7468713,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.017
+SAMEA7468752,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.002
+SAMEA7468764,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.005
+SAMEA7468803,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.006
+SAMEA7468815,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.002
+SAMEA7469083,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.386
+SAMEA7469084,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.201
+SAMEA7469085,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.388
+SAMEA7469086,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,1.392
+SAMEA7469087,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.348
+SAMEA7469088,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.228
+SAMEA7469305,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.028
+SAMEA7469306,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.025
+SAMEA7469307,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.013
+SAMEA7469308,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.031
+SAMEA7469309,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.01
+SAMEA7469310,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.015
+SAMEA7469311,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.012
+SAMEA7469312,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.001
+SAMEA7469313,PRJEB40903,human.S,3,adult,,female,US,,,,,,,excluded,1.0,0.018
+SAMEA7468587,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.426
+SAMEA7468588,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.257
+SAMEA7468589,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,1.068
+SAMEA7468702,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.048
+SAMEA7468703,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.037
+SAMEA7468714,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.005
+SAMEA7468715,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.001
+SAMEA7468753,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.786
+SAMEA7468754,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.071
+SAMEA7468765,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.426
+SAMEA7468766,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.029
+SAMEA7468804,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.008
+SAMEA7468805,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.008
+SAMEA7468816,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.008
+SAMEA7468817,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.026
+SAMEA7469089,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.169
+SAMEA7469090,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,1.052
+SAMEA7469091,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.55
+SAMEA7469092,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,1.265
+SAMEA7469093,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.196
+SAMEA7469094,PRJEB40903,human.T,3,adult,,male,US,,,,,,,excluded,1.0,0.776
+SAMEA7468704,PRJEB40903,human.U,3,adult,,male,US,,,,,,,excluded,1.0,0.121
+SAMEA7468716,PRJEB40903,human.U,3,adult,,male,US,,,,,,,excluded,1.0,0.062
+SAMEA7468755,PRJEB40903,human.U,3,adult,,male,US,,,,,,,excluded,1.0,0.275
+SAMEA7468767,PRJEB40903,human.U,3,adult,,male,US,,,,,,,excluded,1.0,0.061
+SAMEA7468806,PRJEB40903,human.U,3,adult,,male,US,,,,,,,excluded,1.0,0.0
+SAMEA7468818,PRJEB40903,human.U,3,adult,,male,US,,,,,,,excluded,1.0,0.011
+SAMEA7468705,PRJEB40903,human.V,3,adult,,male,US,,,,,,,excluded,1.0,0.319
+SAMEA7468717,PRJEB40903,human.V,3,adult,,male,US,,,,,,,excluded,1.0,0.516
+SAMEA7468756,PRJEB40903,human.V,3,adult,,male,US,,,,,,,excluded,1.0,0.409
+SAMEA7468768,PRJEB40903,human.V,3,adult,,male,US,,,,,,,excluded,1.0,0.202
+SAMEA7468807,PRJEB40903,human.V,3,adult,,male,US,,,,,,,excluded,1.0,0.002
+SAMEA7468819,PRJEB40903,human.V,3,adult,,male,US,,,,,,,excluded,1.0,0.005
+SAMEA7468706,PRJEB40903,human.W,3,adult,,female,US,,,,,,,excluded,1.0,0.077
+SAMEA7468718,PRJEB40903,human.W,3,adult,,female,US,,,,,,,excluded,1.0,0.03
+SAMEA7468757,PRJEB40903,human.W,3,adult,,female,US,,,,,,,excluded,1.0,0.079
+SAMEA7468769,PRJEB40903,human.W,3,adult,,female,US,,,,,,,excluded,1.0,0.001
+SAMEA7468808,PRJEB40903,human.W,3,adult,,female,US,,,,,,,excluded,1.0,0.013
+SAMEA7468820,PRJEB40903,human.W,3,adult,,female,US,,,,,,,excluded,1.0,0.013
+SAMEA12935292,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935293,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.017
+SAMEA12935294,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12935295,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935296,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.017
+SAMEA12935297,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.003
+SAMEA12935298,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.003
+SAMEA12935299,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.022
+SAMEA12935300,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12935865,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935866,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.007
+SAMEA12935867,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935868,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935869,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935870,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.01
+SAMEA12935871,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935872,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935873,PRJEB40903,human.milk.W,1,adult,,,US,,,,,,,excluded,1.0,0.009
+SAMEA12935301,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935302,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.008
+SAMEA12935303,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12935304,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12935305,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.009
+SAMEA12935306,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.003
+SAMEA12935307,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935308,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.009
+SAMEA12935309,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.003
+SAMEA12935874,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935875,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935876,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935877,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935878,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935879,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935880,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12935881,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12935882,PRJEB40903,human.milk.X,1,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12936897,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12936898,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12936899,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12936900,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.007
+SAMEA12936901,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12936902,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12936903,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936904,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.005
+SAMEA12936905,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.005
+SAMEA12936906,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.005
+SAMEA12936907,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.002
+SAMEA12936908,PRJEB40903,human.milk.Y,2,adult,,,US,,,,,,,excluded,1.0,0.006
+SAMEA12936909,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936910,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12936911,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936912,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936913,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936914,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936915,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.001
+SAMEA12936916,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936917,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA12936918,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.0
+SAMEA12936919,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.003
+SAMEA12936920,PRJEB40903,human.milk.Z,2,adult,,,US,,,,,,,excluded,1.0,0.004
+SAMEA7469100,PRJEB40903,para.d1.2.qiagen.L,3,,,,US,,,,,,,unknown,1.0,2.968
+SAMEA12935539,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.361
+SAMEA12935540,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.098
+SAMEA12935541,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.088
+SAMEA12935542,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.077
+SAMEA12935543,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.122
+SAMEA12935544,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.342
+SAMEA12935545,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935546,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.025
+SAMEA12935547,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.381
+SAMEA12936114,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.01
+SAMEA12936115,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.075
+SAMEA12936116,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12936117,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12936118,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.087
+SAMEA12936119,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12936120,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12936121,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.223
+SAMEA12936122,PRJEB40903,soil.tree.rhizosphere.site.1,1,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12936592,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.185
+SAMEA12936593,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,1.333
+SAMEA12936594,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.954
+SAMEA12936595,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,1.317
+SAMEA12936596,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.135
+SAMEA12936597,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,1.334
+SAMEA12936598,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,1.101
+SAMEA12936599,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.213
+SAMEA12936600,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.154
+SAMEA12936601,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.308
+SAMEA12936602,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.706
+SAMEA12936603,PRJEB40903,soil.tree.rhizosphere.site.1,2,,,,US,,,,,,,unknown,1.0,0.295
+SAMEA7468836,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.721
+SAMEA7468837,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.844
+SAMEA7468838,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.841
+SAMEA7469215,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.903
+SAMEA7469216,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.316
+SAMEA7469217,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.972
+SAMEA7469218,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,0.273
+SAMEA7469219,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,1.322
+SAMEA7469220,PRJEB40903,soil.tree.rhizosphere.site.1,3,,,,US,,,,,,,unknown,1.0,2.066
+SAMEA12935548,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.305
+SAMEA12935549,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935550,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.307
+SAMEA12935551,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.177
+SAMEA12935552,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.047
+SAMEA12935553,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.205
+SAMEA12935554,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.253
+SAMEA12935555,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.201
+SAMEA12935556,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.211
+SAMEA12936123,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.011
+SAMEA12936124,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.075
+SAMEA12936125,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA12936126,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.014
+SAMEA12936127,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.051
+SAMEA12936128,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.014
+SAMEA12936129,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.031
+SAMEA12936130,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.089
+SAMEA12936131,PRJEB40903,soil.tree.rhizosphere.site.2,1,,,,US,,,,,,,unknown,1.0,0.175
+SAMEA12936604,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.193
+SAMEA12936605,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,1.614
+SAMEA12936606,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.331
+SAMEA12936607,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.291
+SAMEA12936608,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.135
+SAMEA12936609,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,1.643
+SAMEA12936610,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.59
+SAMEA12936611,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,1.296
+SAMEA12936612,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.171
+SAMEA12936613,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,2.117
+SAMEA12936614,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.832
+SAMEA12936615,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.221
+SAMEA12936616,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.094
+SAMEA12936617,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.376
+SAMEA12936618,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.76
+SAMEA12936619,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,1.271
+SAMEA12936620,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.104
+SAMEA12936621,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,2.3
+SAMEA12936622,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.505
+SAMEA12936623,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.963
+SAMEA12936624,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.099
+SAMEA12936625,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,1.683
+SAMEA12936626,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,0.705
+SAMEA12936627,PRJEB40903,soil.tree.rhizosphere.site.2,2,,,,US,,,,,,,unknown,1.0,1.144
+SAMEA7468839,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.528
+SAMEA7468840,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.103
+SAMEA7468841,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.071
+SAMEA7468842,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.677
+SAMEA7468843,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.98
+SAMEA7468844,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.68
+SAMEA7469221,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.228
+SAMEA7469222,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.406
+SAMEA7469223,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.393
+SAMEA7469224,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.802
+SAMEA7469225,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.411
+SAMEA7469226,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.166
+SAMEA7469227,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.528
+SAMEA7469228,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.193
+SAMEA7469229,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.427
+SAMEA7469230,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.114
+SAMEA7469231,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,1.512
+SAMEA7469232,PRJEB40903,soil.tree.rhizosphere.site.2,3,,,,US,,,,,,,unknown,1.0,0.192
+SAMEA12935557,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.104
+SAMEA12935558,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.079
+SAMEA12935559,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.087
+SAMEA12935560,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.308
+SAMEA12935561,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.279
+SAMEA12935562,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.095
+SAMEA12935563,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.275
+SAMEA12936132,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.021
+SAMEA12936133,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.102
+SAMEA12936134,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.058
+SAMEA12936135,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12936136,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.115
+SAMEA12936137,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.048
+SAMEA12936138,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.008
+SAMEA12936139,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.066
+SAMEA12936140,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.033
+SAMEA12937218,PRJEB40903,soil.tree.rhizosphere.site.3,1,,,,US,,,,,,,unknown,1.0,0.281
+SAMEA12935745,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12935746,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.031
+SAMEA12935747,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935748,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.012
+SAMEA12935749,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.019
+SAMEA12935750,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935752,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.02
+SAMEA12935753,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936321,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936322,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936323,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936325,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936326,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936328,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936329,PRJEB40903,water.seawater.site.1,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12937186,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA12937187,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.161
+SAMEA12937188,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12937189,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12937190,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.013
+SAMEA12937191,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12937192,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12937193,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA12937194,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.015
+SAMEA12937195,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12937196,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12937197,PRJEB40903,water.seawater.site.1,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA7469359,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,3.449
+SAMEA7469360,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,2.527
+SAMEA7469361,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,1.183
+SAMEA7469362,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,2.696
+SAMEA7469363,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,3.1
+SAMEA7469364,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,1.683
+SAMEA7469365,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,3.473
+SAMEA7469366,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,2.664
+SAMEA7469367,PRJEB40903,water.seawater.site.1,3,,,,US,,,,,,,unknown,1.0,1.181
+SAMEA12935754,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935755,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.016
+SAMEA12935756,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935757,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935758,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.007
+SAMEA12935759,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12935760,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12935761,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.018
+SAMEA12935762,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.005
+SAMEA12936330,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936331,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936332,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936333,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936334,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936335,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936336,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12936337,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12936338,PRJEB40903,water.seawater.site.2,1,,,,US,,,,,,,unknown,1.0,0.0
+SAMEA12937198,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.066
+SAMEA12937199,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12937200,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.001
+SAMEA12937201,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12937202,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.026
+SAMEA12937203,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.003
+SAMEA12937204,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12937205,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12937206,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.017
+SAMEA12937207,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.006
+SAMEA12937208,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA12937209,PRJEB40903,water.seawater.site.2,2,,,,US,,,,,,,unknown,1.0,0.002
+SAMEA7469368,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,4.338
+SAMEA7469369,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,3.225
+SAMEA7469370,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,0.837
+SAMEA7469371,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,4.034
+SAMEA7469372,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,3.046
+SAMEA7469373,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,0.426
+SAMEA7469374,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,3.767
+SAMEA7469375,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,2.845
+SAMEA7469376,PRJEB40903,water.seawater.site.2,3,,,,US,,,,,,,unknown,1.0,1.742

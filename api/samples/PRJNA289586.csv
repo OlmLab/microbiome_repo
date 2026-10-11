@@ -1,0 +1,185 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN12288743,PRJNA289586,GDA,,adult,12043.2,female,LU,,,,,,2016-06,primary,1.0,10.716
+SAMN12288744,PRJNA289586,GDA,,adult,12043.2,female,LU,,,,,,2016-06,primary,1.0,7.794
+SAMN04571684,PRJNA289586,M01.1,V1,adult,22646.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-06-01,primary,1.0,3.945
+SAMN09837370,PRJNA289586,M01.1,V1,adult,22646.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-06-01,unknown,1.0,1.4
+SAMN04571685,PRJNA289586,M01.1,V2,adult,22646.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-06-29,primary,1.0,3.966
+SAMN09837371,PRJNA289586,M01.1,V2,adult,22646.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-06-29,unknown,1.0,0.87
+SAMN04571686,PRJNA289586,M01.1,V3,adult,22646.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-08-03,primary,1.0,3.913
+SAMN09837372,PRJNA289586,M01.1,V3,adult,22646.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-08-03,unknown,1.0,1.115
+SAMN04571687,PRJNA289586,M01.2,V1,adult,21915.0,female,LU,healthy_control,control,,,no,2012-06-01,primary,1.0,3.891
+SAMN09837373,PRJNA289586,M01.2,V1,adult,21915.0,female,LU,healthy_control,control,,,,2012-06-01,unknown,1.0,1.401
+SAMN04571688,PRJNA289586,M01.2,V2,adult,21915.0,female,LU,healthy_control,control,,,no,2012-06-29,primary,1.0,3.942
+SAMN09837374,PRJNA289586,M01.2,V2,adult,21915.0,female,LU,healthy_control,control,,,,2012-06-29,unknown,1.0,0.597
+SAMN04571689,PRJNA289586,M01.2,V3,adult,21915.0,female,LU,healthy_control,control,,,no,2012-08-03,primary,1.0,3.963
+SAMN09837375,PRJNA289586,M01.2,V3,adult,21915.0,female,LU,healthy_control,control,,,,2012-08-03,unknown,1.0,2.628
+SAMN04571690,PRJNA289586,M01.3,V1,adult,20819.0,female,LU,healthy_control,control,,,yes,2012-06-01,primary,1.0,3.918
+SAMN09837376,PRJNA289586,M01.3,V1,adult,20819.0,female,LU,healthy_control,control,,,,2012-06-01,unknown,1.0,1.273
+SAMN04571691,PRJNA289586,M01.3,V2,adult,20819.0,female,LU,healthy_control,control,,,yes,2012-06-29,primary,1.0,3.885
+SAMN09837377,PRJNA289586,M01.3,V2,adult,20819.0,female,LU,healthy_control,control,,,,2012-06-29,unknown,1.0,0.638
+SAMN04571692,PRJNA289586,M01.3,V3,adult,20819.0,female,LU,healthy_control,control,,,no,2012-08-03,primary,1.0,4.073
+SAMN09837378,PRJNA289586,M01.3,V3,adult,20819.0,female,LU,healthy_control,control,,,,2012-08-03,unknown,1.0,0.879
+SAMN04571693,PRJNA289586,M01.4,V1,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-06-01,primary,1.0,3.948
+SAMN09842353,PRJNA289586,M01.4,V1,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-06-01,unknown,1.0,0.515
+SAMN04571694,PRJNA289586,M01.4,V2,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-06-29,primary,1.0,3.844
+SAMN09837379,PRJNA289586,M01.4,V2,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-06-29,unknown,1.0,0.689
+SAMN04571695,PRJNA289586,M01.4,V3,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-08-03,primary,1.0,3.96
+SAMN09837380,PRJNA289586,M01.4,V3,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-08-03,unknown,1.0,1.006
+SAMN04571696,PRJNA289586,M01.5,V2,child,2192.0,male,LU,healthy_control,control,,,no,2012-06-29,primary,1.0,4.158
+SAMN04571697,PRJNA289586,M01.5,V3,child,2192.0,male,LU,healthy_control,control,,,no,2012-08-03,primary,1.0,3.943
+SAMN09837432,PRJNA289586,M011.1,V1,adult,10592.0,female,LU,type1_diabetes,type 1 diabetes,,,,2014-03-26,unknown,1.0,0.51
+SAMN09837433,PRJNA289586,M011.1,V2,adult,10592.0,female,LU,type1_diabetes,type 1 diabetes,,,,2014-04-30,unknown,1.0,0.313
+SAMN09837434,PRJNA289586,M011.1,V3,adult,10592.0,female,LU,type1_diabetes,type 1 diabetes,,,,2014-06-18,unknown,1.0,0.22
+SAMN09837435,PRJNA289586,M011.4,V1,adult,20819.0,male,LU,healthy_control,control,,,,2014-03-26,unknown,1.0,1.445
+SAMN09837436,PRJNA289586,M011.4,V2,adult,20819.0,male,LU,healthy_control,control,,,,2014-04-30,unknown,1.0,1.853
+SAMN09837437,PRJNA289586,M011.4,V3,adult,20819.0,male,LU,healthy_control,control,,,,2014-05-28,unknown,1.0,3.246
+SAMN09837438,PRJNA289586,M011.5,V1,adult,19358.0,female,LU,type2_diabetes,type 2 diabetes,,,,2014-03-26,unknown,1.0,2.368
+SAMN09837439,PRJNA289586,M011.5,V2,adult,19358.0,female,LU,type2_diabetes,type 2 diabetes,,,,2014-04-30,unknown,1.0,0.366
+SAMN09837440,PRJNA289586,M011.5,V3,adult,19358.0,female,LU,type2_diabetes,type 2 diabetes,,,,2014-05-28,unknown,1.0,0.389
+SAMN09837441,PRJNA289586,M011.6,V1,elderly,26298.0,male,LU,type2_diabetes,type 2 diabetes,,,,2014-03-26,unknown,1.0,1.185
+SAMN09837442,PRJNA289586,M011.6,V2,elderly,26298.0,male,LU,type2_diabetes,type 2 diabetes,,,,2014-04-30,unknown,1.0,1.805
+SAMN09837443,PRJNA289586,M011.7,V1,elderly,25202.0,female,LU,healthy_control,control,,,,2014-03-26,unknown,1.0,0.176
+SAMN09837444,PRJNA289586,M011.7,V2,elderly,25202.0,female,LU,healthy_control,control,,,,2014-04-30,unknown,1.0,0.537
+SAMN04571698,PRJNA289586,M02.1,V1,adult,21184.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-08-10,primary,1.0,3.717
+SAMN09837381,PRJNA289586,M02.1,V1,adult,21184.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-08-10,unknown,1.0,0.345
+SAMN04571699,PRJNA289586,M02.1,V2,adult,21184.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-09-07,primary,1.0,3.648
+SAMN09837382,PRJNA289586,M02.1,V2,adult,21184.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-09-07,unknown,1.0,1.939
+SAMN04571700,PRJNA289586,M02.1,V3,adult,21184.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,yes,2012-10-05,primary,1.0,3.797
+SAMN09837383,PRJNA289586,M02.1,V3,adult,21184.0,male,LU,type1_diabetes,type 1 diabetes mellitus,,,,2012-10-05,unknown,1.0,1.105
+SAMN04571701,PRJNA289586,M02.2,V1,adult,8766.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-08-30,primary,1.0,3.726
+SAMN04571702,PRJNA289586,M02.2,V2,adult,8766.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-07,primary,1.0,3.777
+SAMN09837384,PRJNA289586,M02.2,V2,adult,8766.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-09-07,unknown,1.0,3.433
+SAMN04571703,PRJNA289586,M02.2,V3,adult,8766.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-10-18,primary,1.0,3.726
+SAMN09837385,PRJNA289586,M02.2,V3,adult,8766.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-10-18,unknown,1.0,1.136
+SAMN04571704,PRJNA289586,M02.3,V1,adult,10958.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-08-30,primary,1.0,3.729
+SAMN09837386,PRJNA289586,M02.3,V1,adult,10958.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-08-30,unknown,1.0,3.443
+SAMN04571705,PRJNA289586,M02.3,V2,adult,10958.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-27,primary,1.0,3.736
+SAMN09837387,PRJNA289586,M02.3,V2,adult,10958.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-09-27,unknown,1.0,5.699
+SAMN04571706,PRJNA289586,M02.3,V3,adult,10958.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-10-19,primary,1.0,3.728
+SAMN09837388,PRJNA289586,M02.3,V3,adult,10958.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-10-19,unknown,1.0,3.905
+SAMN04571707,PRJNA289586,M02.4,V1,adult,21184.0,female,LU,healthy_control,control,,,no,2012-08-31,primary,1.0,3.695
+SAMN09837389,PRJNA289586,M02.4,V1,adult,21184.0,female,LU,healthy_control,control,,,,2012-08-31,unknown,1.0,2.076
+SAMN04571708,PRJNA289586,M02.4,V2,adult,21184.0,female,LU,healthy_control,control,,,no,2012-09-28,primary,1.0,3.556
+SAMN04571709,PRJNA289586,M02.4,V3,adult,21184.0,female,LU,healthy_control,control,,,no,2012-10-26,primary,1.0,3.868
+SAMN09837391,PRJNA289586,M02.4,V3,adult,21184.0,female,LU,healthy_control,control,,,,2012-10-26,unknown,1.0,0.405
+SAMN04571710,PRJNA289586,M02.5,V1,adult,10227.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-06,primary,1.0,3.677
+SAMN09837392,PRJNA289586,M02.5,V1,adult,10227.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-09-06,unknown,1.0,1.172
+SAMN04571711,PRJNA289586,M02.5,V2,adult,10227.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-28,primary,1.0,3.981
+SAMN04571712,PRJNA289586,M03.1,V2,adult,18262.0,female,LU,healthy_control,control,,,yes,2012-09-21,primary,1.0,3.763
+SAMN09842354,PRJNA289586,M03.1,V2,adult,18262.0,female,LU,healthy_control,control,,,,2012-09-21,unknown,1.0,2.033
+SAMN04571713,PRJNA289586,M03.1,V3,adult,18262.0,female,LU,healthy_control,control,,,yes,2012-10-19,primary,1.0,3.79
+SAMN09842355,PRJNA289586,M03.1,V3,adult,18262.0,female,LU,healthy_control,control,,,,2012-10-19,unknown,1.0,1.863
+SAMN04571714,PRJNA289586,M03.3,V1,adolescent,5114.0,female,LU,healthy_control,control,,,no,2012-08-17,primary,1.0,3.84
+SAMN09842356,PRJNA289586,M03.3,V1,adolescent,5114.0,female,LU,healthy_control,control,,,,2012-08-17,unknown,1.0,2.061
+SAMN04571715,PRJNA289586,M03.3,V2,adolescent,5114.0,female,LU,healthy_control,control,,,no,2012-09-21,primary,1.0,3.888
+SAMN09842357,PRJNA289586,M03.3,V2,adolescent,5114.0,female,LU,healthy_control,control,,,,2012-09-21,unknown,1.0,3.302
+SAMN04571716,PRJNA289586,M03.3,V3,adolescent,5114.0,female,LU,healthy_control,control,,,no,2012-10-19,primary,1.0,3.864
+SAMN09837394,PRJNA289586,M03.3,V3,adolescent,5114.0,female,LU,healthy_control,control,,,,2012-10-19,unknown,1.0,2.808
+SAMN04571717,PRJNA289586,M03.4,V1,adolescent,6209.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-08-17,primary,1.0,3.837
+SAMN09842358,PRJNA289586,M03.4,V1,adolescent,6209.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-08-17,unknown,1.0,3.387
+SAMN04571718,PRJNA289586,M03.4,V2,adolescent,6209.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-21,primary,1.0,3.851
+SAMN09837395,PRJNA289586,M03.4,V2,adolescent,6209.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-09-21,unknown,1.0,2.176
+SAMN04571719,PRJNA289586,M03.4,V3,adolescent,6209.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-10-19,primary,1.0,3.89
+SAMN09842359,PRJNA289586,M03.4,V3,adolescent,6209.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-10-19,unknown,1.0,4.346
+SAMN04571720,PRJNA289586,M03.5,V1,adult,6940.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-08-17,primary,1.0,3.936
+SAMN09837396,PRJNA289586,M03.5,V1,adult,6940.0,female,LU,type1_diabetes,type 1 diabetes,,,,2012-08-17,unknown,1.0,2.542
+SAMN04571721,PRJNA289586,M03.5,V2,adult,6940.0,female,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-20,primary,1.0,3.962
+SAMN04571722,PRJNA289586,M04.1,V1,adult,12418.0,female,LU,healthy_control,Health,,,no,2012-09-20,primary,1.0,4.015
+SAMN09842360,PRJNA289586,M04.1,V1,adult,12418.0,female,LU,healthy_control,control,,,,2012-09-20,unknown,1.0,0.639
+SAMN04571723,PRJNA289586,M04.1,V3,adult,12418.0,female,LU,healthy_control,control,,,no,2012-12-06,primary,1.0,3.857
+SAMN09837397,PRJNA289586,M04.1,V3,adult,12418.0,female,LU,healthy_control,control,,,,2012-12-06,unknown,1.0,1.053
+SAMN04571724,PRJNA289586,M04.2,V1,child,1826.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-20,primary,1.0,3.812
+SAMN09842361,PRJNA289586,M04.2,V1,child,1826.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-09-20,unknown,1.0,1.082
+SAMN04571725,PRJNA289586,M04.2,V2,child,1826.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-11-01,primary,1.0,3.998
+SAMN09837398,PRJNA289586,M04.2,V2,child,1826.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-11-01,unknown,1.0,0.274
+SAMN04571726,PRJNA289586,M04.2,V3,child,1826.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-12-05,primary,1.0,3.942
+SAMN09837399,PRJNA289586,M04.2,V3,child,1826.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-12-05,unknown,1.0,0.764
+SAMN04571727,PRJNA289586,M04.3,V1,child,3287.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-09-20,primary,1.0,3.809
+SAMN09837400,PRJNA289586,M04.3,V1,child,3287.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-09-20,unknown,1.0,2.257
+SAMN04571728,PRJNA289586,M04.3,V3,child,3287.0,male,LU,type1_diabetes,type 1 diabetes,,,yes,2012-12-07,primary,1.0,3.928
+SAMN09842362,PRJNA289586,M04.3,V3,child,3287.0,male,LU,type1_diabetes,type 1 diabetes,,,,2012-12-07,unknown,1.0,2.928
+SAMN04571729,PRJNA289586,M04.4,V1,adolescent,4383.0,female,LU,healthy_control,control,,,no,2012-09-20,primary,1.0,3.733
+SAMN09837401,PRJNA289586,M04.4,V1,adolescent,4383.0,female,LU,healthy_control,control,,,,2012-09-20,unknown,1.0,1.831
+SAMN04571730,PRJNA289586,M04.4,V3,adolescent,4383.0,female,LU,healthy_control,control,,,no,2012-12-07,primary,1.0,3.77
+SAMN09837402,PRJNA289586,M04.4,V3,adolescent,4383.0,female,LU,healthy_control,control,,,,2012-12-07,unknown,1.0,1.582
+SAMN04571731,PRJNA289586,M04.5,V1,adolescent,5844.0,female,LU,healthy_control,control,,,no,2012-09-20,primary,1.0,3.76
+SAMN09842363,PRJNA289586,M04.5,V1,adolescent,5844.0,female,LU,healthy_control,control,,,,2012-09-20,unknown,1.0,0.95
+SAMN04571732,PRJNA289586,M04.5,V2,adolescent,5844.0,female,LU,healthy_control,Healthy,,,no,2012-11-08,primary,1.0,3.892
+SAMN09842364,PRJNA289586,M04.5,V2,adolescent,5844.0,female,LU,healthy_control,control,,,,2012-11-08,unknown,1.0,1.404
+SAMN04571733,PRJNA289586,M04.5,V3,adolescent,5844.0,female,LU,healthy_control,control,,,no,2013-01-11,primary,1.0,3.784
+SAMN09837403,PRJNA289586,M04.5,V3,adolescent,5844.0,female,LU,healthy_control,control,,,,2013-01-11,unknown,1.0,1.304
+SAMN04571734,PRJNA289586,M04.6,V1,adult,15706.0,male,LU,healthy_control,control,,,no,2012-11-08,primary,1.0,3.914
+SAMN09842365,PRJNA289586,M04.6,V1,adult,15706.0,male,LU,healthy_control,control,,,,2012-11-08,unknown,1.0,0.226
+SAMN04571735,PRJNA289586,M04.6,V2,adult,15706.0,male,LU,healthy_control,control,,,no,2012-12-05,primary,1.0,3.705
+SAMN09837404,PRJNA289586,M04.6,V2,adult,15706.0,male,LU,healthy_control,control,,,,2012-12-05,unknown,1.0,1.072
+SAMN04571736,PRJNA289586,M04.6,V3,adult,15706.0,male,LU,healthy_control,control,,,no,2013-01-11,primary,1.0,3.789
+SAMN09837405,PRJNA289586,M04.6,V3,adult,15706.0,male,LU,healthy_control,control,,,,2013-01-11,unknown,1.0,0.752
+SAMN09837326,PRJNA289586,M05.1,V1,adult,17897.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-02-25,primary,1.0,7.088
+SAMN09837406,PRJNA289586,M05.1,V1,adult,17897.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-02-25,unknown,1.0,2.115
+SAMN09837407,PRJNA289586,M05.1,V2,adult,17897.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-03-25,unknown,1.0,1.559
+SAMN09837327,PRJNA289586,M05.2,V1,adult,16436.0,female,LU,healthy_control,control,,,,2013-02-25,primary,1.0,6.902
+SAMN09837408,PRJNA289586,M05.2,V1,adult,16436.0,female,LU,healthy_control,control,,,,2013-02-25,unknown,1.0,0.947
+SAMN09837328,PRJNA289586,M05.2,V2,adult,16436.0,female,LU,healthy_control,control,,,,2013-03-25,primary,1.0,7.151
+SAMN09837409,PRJNA289586,M05.2,V2,adult,16436.0,female,LU,healthy_control,control,,,,2013-03-25,unknown,1.0,0.508
+SAMN09837329,PRJNA289586,M05.2,V3,adult,16436.0,female,LU,healthy_control,control,,,,2013-04-29,primary,1.0,7.315
+SAMN09837330,PRJNA289586,M05.3,V1,adolescent,5479.0,female,LU,healthy_control,control,,,,2013-02-25,primary,1.0,7.174
+SAMN09837410,PRJNA289586,M05.3,V1,adolescent,5479.0,female,LU,healthy_control,control,,,,2013-02-25,unknown,1.0,0.619
+SAMN09837331,PRJNA289586,M05.3,V2,adolescent,5479.0,female,LU,healthy_control,control,,,,2013-03-25,primary,1.0,8.178
+SAMN09837411,PRJNA289586,M05.3,V2,adolescent,5479.0,female,LU,healthy_control,control,,,,2013-03-25,unknown,1.0,0.917
+SAMN09837332,PRJNA289586,M05.3,V3,adolescent,5479.0,female,LU,healthy_control,control,,,,2013-04-29,primary,1.0,8.381
+SAMN09837412,PRJNA289586,M05.3,V3,adolescent,5479.0,female,LU,healthy_control,control,,,,2013-04-29,unknown,1.0,1.739
+SAMN09837333,PRJNA289586,M05.4,V1,adolescent,4748.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-02-25,primary,1.0,6.16
+SAMN09837413,PRJNA289586,M05.4,V1,adolescent,4748.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-02-25,unknown,1.0,0.924
+SAMN09837334,PRJNA289586,M05.4,V2,adolescent,4748.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-03-25,primary,1.0,6.965
+SAMN09837414,PRJNA289586,M05.4,V2,adolescent,4748.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-03-25,unknown,1.0,0.713
+SAMN09837335,PRJNA289586,M05.4,V3,adolescent,4748.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-04-29,primary,1.0,7.695
+SAMN09837415,PRJNA289586,M05.4,V3,adolescent,4748.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-04-29,unknown,1.0,1.876
+SAMN09837336,PRJNA289586,M06.1,V1,adult,12784.0,male,LU,healthy_control,control,,,,2013-08-30,primary,1.0,5.902
+SAMN09837337,PRJNA289586,M06.1,V2,adult,12784.0,male,LU,healthy_control,control,,,,2013-09-27,primary,1.0,7.944
+SAMN09837416,PRJNA289586,M06.1,V2,adult,12784.0,male,LU,healthy_control,control,,,,2013-09-27,unknown,1.0,1.527
+SAMN09837338,PRJNA289586,M06.2,V1,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes,,,,2013-08-30,primary,1.0,5.714
+SAMN09837417,PRJNA289586,M06.2,V1,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes,,,,2013-08-30,unknown,1.0,2.103
+SAMN09837339,PRJNA289586,M06.2,V3,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes,,,,2013-10-25,primary,1.0,9.807
+SAMN09837418,PRJNA289586,M06.2,V3,adult,13514.0,female,LU,type1_diabetes,type 1 diabetes,,,,2013-10-25,unknown,1.0,1.183
+SAMN09837340,PRJNA289586,M06.3,V1,adolescent,5114.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-08-30,primary,1.0,9.365
+SAMN09837419,PRJNA289586,M06.3,V1,adolescent,5114.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-08-30,unknown,1.0,1.055
+SAMN09842366,PRJNA289586,M06.3,V2,adolescent,5114.0,male,LU,type1_diabetes,type 1 diabetes,,,,2013-09-27,unknown,1.0,2.65
+SAMN09837341,PRJNA289586,M06.4,V2,child,3652.0,female,LU,healthy_control,control,,,,2013-09-27,primary,1.0,7.093
+SAMN09837342,PRJNA289586,M06.4,V3,child,3652.0,female,LU,healthy_control,control,,,,2013-10-25,primary,1.0,8.071
+SAMN09837421,PRJNA289586,M06.4,V3,child,3652.0,female,LU,healthy_control,control,,,,2013-10-25,unknown,1.0,2.232
+SAMN09837343,PRJNA289586,M08.1,V1,adult,14610.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-02-19,primary,1.0,8.22
+SAMN09837344,PRJNA289586,M08.1,V2,adult,14610.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-03-19,primary,1.0,7.71
+SAMN09837423,PRJNA289586,M08.1,V2,adult,14610.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-03-19,unknown,1.0,1.796
+SAMN09837345,PRJNA289586,M08.1,V3,adult,14610.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-04-16,primary,1.0,11.687
+SAMN09837424,PRJNA289586,M08.1,V3,adult,14610.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-04-16,unknown,1.0,1.404
+SAMN09837346,PRJNA289586,M08.2,V1,adult,13149.0,female,LU,healthy_control,control,,,,2014-02-19,primary,1.0,5.854
+SAMN09837425,PRJNA289586,M08.2,V1,adult,13149.0,female,LU,healthy_control,control,,,,2014-02-19,unknown,1.0,0.634
+SAMN09837347,PRJNA289586,M08.2,V2,adult,13149.0,female,LU,healthy_control,control,,,,2014-03-19,primary,1.0,7.436
+SAMN09837426,PRJNA289586,M08.2,V2,adult,13149.0,female,LU,healthy_control,control,,,,2014-03-19,unknown,1.0,0.569
+SAMN09837348,PRJNA289586,M08.2,V3,adult,13149.0,female,LU,healthy_control,control,,,,2014-04-16,primary,1.0,8.046
+SAMN09837427,PRJNA289586,M08.2,V3,adult,13149.0,female,LU,healthy_control,control,,,,2014-04-16,unknown,1.0,1.1
+SAMN09837349,PRJNA289586,M08.3,V1,child,1826.0,male,LU,healthy_control,control,,,,2014-02-19,primary,1.0,8.1
+SAMN09837428,PRJNA289586,M08.3,V1,child,1826.0,male,LU,healthy_control,control,,,,2014-02-19,unknown,1.0,2.401
+SAMN09837350,PRJNA289586,M08.3,V2,child,1826.0,male,LU,healthy_control,control,,,,2014-03-19,primary,1.0,7.506
+SAMN09837429,PRJNA289586,M08.3,V2,child,1826.0,male,LU,healthy_control,control,,,,2014-03-19,unknown,1.0,1.738
+SAMN09837351,PRJNA289586,M08.4,V2,infant,1096.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-03-19,primary,1.0,9.947
+SAMN09837430,PRJNA289586,M08.4,V2,infant,1096.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-03-19,unknown,1.0,3.777
+SAMN09837352,PRJNA289586,M08.4,V3,infant,1096.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-04-16,primary,1.0,4.336
+SAMN09837431,PRJNA289586,M08.4,V3,infant,1096.0,male,LU,type1_diabetes,type 1 diabetes,,,,2014-04-16,unknown,1.0,3.474
+SAMN09837353,PRJNA289586,M11.1,V1,adult,10592.0,female,LU,type1_diabetes,type 1 diabetes,,,,2014-03-26,primary,1.0,4.989
+SAMN09837354,PRJNA289586,M11.1,V2,adult,10592.0,female,LU,type1_diabetes,type 1 diabetes,,,,2014-04-30,primary,1.0,7.683
+SAMN09837355,PRJNA289586,M11.1,V3,adult,10592.0,female,LU,type1_diabetes,type 1 diabetes,,,,2014-06-18,primary,1.0,4.603
+SAMN09837356,PRJNA289586,M11.3,V1,infant,730.0,female,LU,healthy_control,diabetes_type1,,,,2014-03-26,primary,1.0,5.699
+SAMN09837357,PRJNA289586,M11.3,V2,infant,730.0,female,LU,healthy_control,diabetes_type1,,,,2014-04-30,primary,1.0,4.965
+SAMN09837358,PRJNA289586,M11.4,V1,adult,20819.0,male,LU,healthy_control,control,,,,2014-03-26,primary,1.0,5.086
+SAMN09837359,PRJNA289586,M11.4,V2,adult,20819.0,male,LU,healthy_control,control,,,,2014-04-30,primary,1.0,4.366
+SAMN09837360,PRJNA289586,M11.4,V3,adult,20819.0,male,LU,healthy_control,control,,,,2014-05-28,primary,1.0,3.893
+SAMN09837361,PRJNA289586,M11.5,V1,adult,19358.0,female,LU,type2_diabetes,type 2 diabetes,,,,2014-03-26,primary,1.0,6.915
+SAMN09837362,PRJNA289586,M11.5,V2,adult,19358.0,female,LU,type2_diabetes,type 2 diabetes,,,,2014-04-30,primary,1.0,5.012
+SAMN09837363,PRJNA289586,M11.5,V3,adult,19358.0,female,LU,type2_diabetes,type 2 diabetes,,,,2014-05-28,primary,1.0,6.708
+SAMN09837364,PRJNA289586,M11.6,V1,elderly,26298.0,male,LU,type2_diabetes,type 2 diabetes,,,,2014-03-26,primary,1.0,6.966
+SAMN09837365,PRJNA289586,M11.6,V2,elderly,26298.0,male,LU,type2_diabetes,type 2 diabetes,,,,2014-04-30,primary,1.0,7.393
+SAMN09837366,PRJNA289586,M11.6,V3,elderly,26298.0,male,LU,healthy_control,control,,,,2014-05-28,primary,1.0,2.658
+SAMN09837367,PRJNA289586,M11.7,V1,elderly,25202.0,female,LU,healthy_control,control,,,,2014-03-26,primary,1.0,7.575
+SAMN09837368,PRJNA289586,M11.7,V2,elderly,25202.0,female,LU,healthy_control,control,,,,2014-04-30,primary,1.0,8.39
+SAMN09837369,PRJNA289586,M11.7,V3,elderly,25202.0,female,LU,healthy_control,control,,,,2014-05-28,primary,1.0,9.118

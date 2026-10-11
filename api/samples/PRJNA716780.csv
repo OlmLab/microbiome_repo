@@ -1,0 +1,255 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN18473790,PRJNA716780,C1,,infant,79.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.232
+SAMN18473791,PRJNA716780,C10,T0,child,1168.8,female,IT,healthy_control,healthy control,,,yes,,primary,1.0,8.814
+SAMN18473792,PRJNA716780,C12,T0,child,3762.08,male,IT,healthy_control,healthy control,,,no,,primary,1.0,3.922
+SAMN18473793,PRJNA716780,C13,T0,child,1205.32,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.01
+SAMN18473794,PRJNA716780,C14,T0,child,1789.72,male,IT,healthy_control,healthy control,,,no,,primary,1.0,6.661
+SAMN18473795,PRJNA716780,C15,T0,infant,401.78,female,IT,healthy_control,healthy control,,,no,,primary,1.0,11.71
+SAMN18473796,PRJNA716780,C16,T0,child,1570.58,female,IT,healthy_control,healthy control,,,no,,primary,1.0,6.774
+SAMN18473797,PRJNA716780,C17,T0,infant,620.92,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.852
+SAMN18473798,PRJNA716780,C19,T0,infant,219.15,female,IT,healthy_control,healthy control,,,no,,primary,1.0,6.934
+SAMN18473799,PRJNA716780,C2,T0,infant,216.0,male,IT,healthy_control,healthy control,,,yes,,primary,1.0,5.971
+SAMN18473800,PRJNA716780,C20,T0,infant,182.62,female,IT,healthy_control,healthy control,,,no,,primary,1.0,4.346
+SAMN18473801,PRJNA716780,C21,T0,infant,913.12,male,IT,healthy_control,healthy control,,,no,,primary,1.0,10.108
+SAMN18473802,PRJNA716780,C22,T0,adolescent,4967.4,male,IT,healthy_control,healthy control,,,no,,primary,1.0,5.36
+SAMN18473803,PRJNA716780,C23,T0,infant,109.58,male,IT,healthy_control,healthy control,,,no,,primary,1.0,23.76
+SAMN18473804,PRJNA716780,C25,T0,infant,85.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,14.104
+SAMN18473805,PRJNA716780,C26,T0,child,3360.3,male,IT,healthy_control,healthy control,,,no,,primary,1.0,18.905
+SAMN18473806,PRJNA716780,C28,T0,infant,36.52,female,IT,healthy_control,healthy control,,,no,,primary,1.0,7.063
+SAMN18473807,PRJNA716780,C29,T0,infant,474.82,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.323
+SAMN18473808,PRJNA716780,C3,T0,infant,438.3,male,IT,healthy_control,healthy control,,,no,,primary,1.0,5.056
+SAMN18473809,PRJNA716780,C30,T0,infant,46.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,6.948
+SAMN18473810,PRJNA716780,C31,T0,neonate,0.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,5.06
+SAMN18473811,PRJNA716780,C32,T0,infant,1095.75,female,IT,healthy_control,healthy control,,,no,,primary,1.0,10.049
+SAMN18473812,PRJNA716780,C33,T0,infant,36.52,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.084
+SAMN18473813,PRJNA716780,C34,T0,infant,219.15,female,IT,healthy_control,healthy control,,,no,,primary,1.0,3.743
+SAMN18473814,PRJNA716780,C35,T0,infant,109.58,female,IT,healthy_control,healthy control,,,no,,primary,1.0,5.87
+SAMN18473815,PRJNA716780,C36,T0,infant,73.05,male,IT,healthy_control,healthy control,,,no,,primary,1.0,1.343
+SAMN18473816,PRJNA716780,C37,T0,infant,109.58,male,IT,healthy_control,healthy control,,,,,primary,1.0,3.971
+SAMN18473817,PRJNA716780,C39,T0,infant,182.62,female,IT,healthy_control,healthy control,,,no,,primary,1.0,2.353
+SAMN18473818,PRJNA716780,C4,T0,child,2447.18,female,IT,healthy_control,healthy control,,,no,,primary,1.0,5.989
+SAMN18473819,PRJNA716780,C40,T0,neonate,15.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,5.994
+SAMN18473820,PRJNA716780,C41,T0,infant,122.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,4.839
+SAMN18473821,PRJNA716780,C42,T0,infant,73.05,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.427
+SAMN18473822,PRJNA716780,C43,T0,infant,137.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,4.228
+SAMN18473823,PRJNA716780,C44,T0,infant,137.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,1.849
+SAMN18473824,PRJNA716780,C45,T0,child,2118.45,female,IT,healthy_control,healthy control,,,no,,primary,1.0,10.432
+SAMN18473825,PRJNA716780,C46,T0,child,2118.45,male,IT,healthy_control,healthy control,,,no,,primary,1.0,3.078
+SAMN18473826,PRJNA716780,C47,T0,adolescent,4711.73,female,IT,healthy_control,healthy control,,,no,,primary,1.0,5.479
+SAMN18473827,PRJNA716780,C48,T0,adolescent,4930.88,male,IT,healthy_control,healthy control,,,no,,primary,1.0,6.166
+SAMN18473828,PRJNA716780,C49,T0,child,2995.05,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.366
+SAMN18473829,PRJNA716780,C5,T0,infant,219.15,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.215
+SAMN18473830,PRJNA716780,C50,T0,child,2995.05,female,IT,healthy_control,healthy control,,,no,,primary,1.0,13.888
+SAMN18473831,PRJNA716780,C51,T0,adolescent,4930.88,female,IT,healthy_control,healthy control,,,no,,primary,1.0,7.431
+SAMN18473832,PRJNA716780,C52,T0,neonate,9.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.996
+SAMN18473833,PRJNA716780,C53,T0,infant,146.1,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.45
+SAMN18473834,PRJNA716780,C54,T0,child,3214.2,male,IT,healthy_control,healthy control,,,no,,primary,1.0,7.216
+SAMN18473835,PRJNA716780,C55,T0,child,2410.65,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.365
+SAMN18473836,PRJNA716780,C56,T0,infant,195.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,9.184
+SAMN18473837,PRJNA716780,C57,T0,infant,88.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,7.504
+SAMN18473838,PRJNA716780,C58,T0,infant,234.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,12.088
+SAMN18473839,PRJNA716780,C59,T0,infant,85.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,23.067
+SAMN18473840,PRJNA716780,C6,T0,infant,401.78,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.843
+SAMN18473841,PRJNA716780,C60,T0,neonate,24.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,13.593
+SAMN18473842,PRJNA716780,C61,T0,infant,201.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,17.707
+SAMN18473843,PRJNA716780,C62,T0,infant,140.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,5.385
+SAMN18473844,PRJNA716780,C63,T0,infant,326.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,11.156
+SAMN18473845,PRJNA716780,C64,T0,infant,198.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,3.009
+SAMN18473846,PRJNA716780,C65,T0,infant,70.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,9.518
+SAMN18473847,PRJNA716780,C66,T0,infant,195.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,14.607
+SAMN18473848,PRJNA716780,C67,T0,infant,76.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,12.474
+SAMN18473849,PRJNA716780,C68,T0,infant,228.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.485
+SAMN18473850,PRJNA716780,C69,T0,infant,207.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,7.684
+SAMN18473851,PRJNA716780,C7,T0,infant,401.78,male,IT,healthy_control,healthy control,,,no,,primary,1.0,5.768
+SAMN18473852,PRJNA716780,C70,T0,infant,237.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,9.161
+SAMN18473853,PRJNA716780,C71,T0,infant,207.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,9.958
+SAMN18473854,PRJNA716780,C72,T0,infant,320.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,7.521
+SAMN18473855,PRJNA716780,C73,T0,infant,265.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,12.072
+SAMN18473856,PRJNA716780,C74,T0,infant,347.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,8.76
+SAMN18473857,PRJNA716780,C75,T0,infant,85.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,13.574
+SAMN18473858,PRJNA716780,C76,T0,infant,213.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,12.891
+SAMN18473859,PRJNA716780,C77,T0,infant,292.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,9.031
+SAMN18473860,PRJNA716780,C78,T0,infant,177.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.682
+SAMN18473861,PRJNA716780,C79,T0,infant,177.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.226
+SAMN18473862,PRJNA716780,C8,T0,child,1534.05,female,IT,healthy_control,healthy control,,,no,,primary,1.0,7.673
+SAMN18473863,PRJNA716780,C80,T0,infant,180.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,6.406
+SAMN18473864,PRJNA716780,C81,T0,infant,180.0,male,IT,healthy_control,healthy control,,,no,,primary,1.0,8.537
+SAMN18473865,PRJNA716780,C82,T0,infant,180.0,female,IT,healthy_control,healthy control,,,no,,primary,1.0,7.657
+SAMN18473866,PRJNA716780,C83,T0,infant,292.2,female,IT,healthy_control,healthy control,,,no,,primary,1.0,2.349
+SAMN18473867,PRJNA716780,C84,T0,infant,657.45,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.492
+SAMN18473868,PRJNA716780,C85,T0,infant,365.25,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.272
+SAMN18473869,PRJNA716780,C86,T0,infant,292.2,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.585
+SAMN18473870,PRJNA716780,C87,T0,child,1607.1,female,IT,healthy_control,healthy control,,,no,,primary,1.0,2.783
+SAMN18473871,PRJNA716780,C88,T0,infant,876.6,female,IT,healthy_control,healthy control,,,no,,primary,1.0,2.707
+SAMN18473872,PRJNA716780,C89,T0,infant,547.88,female,IT,healthy_control,healthy control,,,no,,primary,1.0,2.411
+SAMN18473873,PRJNA716780,C9,T0,child,1753.2,female,IT,healthy_control,healthy control,,,no,,primary,1.0,10.883
+SAMN18473874,PRJNA716780,C90,T0,infant,36.52,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.44
+SAMN18473875,PRJNA716780,C91,T0,infant,365.25,female,IT,healthy_control,healthy control,,,no,,primary,1.0,2.39
+SAMN18473876,PRJNA716780,C92,T0,infant,401.78,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.55
+SAMN18473877,PRJNA716780,C93,T0,infant,36.52,female,IT,healthy_control,healthy control,,,no,,primary,1.0,3.39
+SAMN18473878,PRJNA716780,C94,T0,infant,146.1,female,IT,healthy_control,healthy control,,,no,,primary,1.0,3.559
+SAMN18473879,PRJNA716780,C95,T0,infant,511.35,male,IT,healthy_control,healthy control,,,no,,primary,1.0,30.325
+SAMN18473880,PRJNA716780,C96,T0,infant,73.05,male,IT,healthy_control,healthy control,,,no,,primary,1.0,2.744
+SAMN18473884,PRJNA716780,CTRM1,T0,adult,13843.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.999
+SAMN18473885,PRJNA716780,CTRM10,T0,adult,15852.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,8.323
+SAMN18473886,PRJNA716780,CTRM12,T0,adult,16290.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,10.504
+SAMN18473887,PRJNA716780,CTRM13,T0,adult,10921.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,7.526
+SAMN18473888,PRJNA716780,CTRM14,T0,adult,12272.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,4.351
+SAMN18473889,PRJNA716780,CTRM15,T0,adult,15523.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.995
+SAMN18473890,PRJNA716780,CTRM16,T0,adult,17642.0,female,IT,healthy_control,Mother_healthy control,,,yes,,primary,1.0,2.575
+SAMN18473891,PRJNA716780,CTRM19,T0,adult,12418.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,14.143
+SAMN18473892,PRJNA716780,CTRM2,T0,adult,12345.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,5.403
+SAMN18473893,PRJNA716780,CTRM20,T0,adult,18043.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,5.877
+SAMN18473894,PRJNA716780,CTRM21,T0,,,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,4.516
+SAMN18473895,PRJNA716780,CTRM22,T0,adult,14062.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,6.312
+SAMN18473896,PRJNA716780,CTRM23,T0,,,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,6.931
+SAMN18473897,PRJNA716780,CTRM25,T0,adult,13916.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.335
+SAMN18473898,PRJNA716780,CTRM26,T0,adult,12345.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,10.158
+SAMN18473899,PRJNA716780,CTRM28,T0,,,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,10.17
+SAMN18473900,PRJNA716780,CTRM29,T0,adult,12966.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.641
+SAMN18473901,PRJNA716780,CTRM3,T0,adult,17751.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.076
+SAMN18473902,PRJNA716780,CTRM30,T0,adult,9971.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,7.923
+SAMN18473903,PRJNA716780,CTRM31,T0,adult,12565.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,8.236
+SAMN18473904,PRJNA716780,CTRM32,T0,adult,17349.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,1.871
+SAMN18473905,PRJNA716780,CTRM33,T0,adult,16984.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,6.109
+SAMN18473906,PRJNA716780,CTRM34,T0,adult,10629.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,13.928
+SAMN18473907,PRJNA716780,CTRM35,T0,adult,16436.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,7.077
+SAMN18473908,PRJNA716780,CTRM36,T0,adult,15377.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,4.352
+SAMN18473909,PRJNA716780,CTRM37,T0,adult,13953.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,6.998
+SAMN18473910,PRJNA716780,CTRM39,T0,adult,14683.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,8.964
+SAMN18473911,PRJNA716780,CTRM4,T0,adult,13441.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,7.182
+SAMN18473912,PRJNA716780,CTRM40,T0,,,female,IT,healthy_control,Mother_healthy control,,,,,primary,1.0,5.974
+SAMN18473913,PRJNA716780,CTRM41,T0,adult,11250.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,15.714
+SAMN18473914,PRJNA716780,CTRM42,T0,adult,14500.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.508
+SAMN18473915,PRJNA716780,CTRM43,T0,adult,12236.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.679
+SAMN18473916,PRJNA716780,CTRM44,T0,adult,17130.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,10.994
+SAMN18473917,PRJNA716780,CTRM45,T0,adult,16473.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,12.694
+SAMN18473918,PRJNA716780,CTRM46,T0,adult,11871.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,10.799
+SAMN18473919,PRJNA716780,CTRM47,T0,adult,14793.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,14.518
+SAMN18473920,PRJNA716780,CTRM48,T0,adult,13003.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,12.974
+SAMN18473921,PRJNA716780,CTRM49,T0,adult,13405.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.097
+SAMN18473922,PRJNA716780,CTRM5,T0,adult,12565.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,7.183
+SAMN18473923,PRJNA716780,CTRM50,T0,adult,14208.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,16.231
+SAMN18473924,PRJNA716780,CTRM51,T0,adult,13368.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,22.074
+SAMN18473925,PRJNA716780,CTRM52,T0,adult,16838.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,17.008
+SAMN18473926,PRJNA716780,CTRM53,T0,adult,14391.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,11.101
+SAMN18473927,PRJNA716780,CTRM54,T0,adult,17495.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,17.711
+SAMN18473928,PRJNA716780,CTRM55,T0,adult,12126.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.453
+SAMN18473929,PRJNA716780,CTRM56,T0,adult,11980.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,10.169
+SAMN18473930,PRJNA716780,CTRM57,T0,adult,11359.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,1.741
+SAMN18473931,PRJNA716780,CTRM58,T0,adult,11359.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,4.983
+SAMN18473932,PRJNA716780,CTRM59,T0,adult,11396.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.895
+SAMN18473933,PRJNA716780,CTRM6,T0,adult,12930.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,3.514
+SAMN18473934,PRJNA716780,CTRM60,T0,adult,11980.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.148
+SAMN18473935,PRJNA716780,CTRM61,T0,adult,11432.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,3.64
+SAMN18473936,PRJNA716780,CTRM62,T0,adult,11944.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.309
+SAMN18473937,PRJNA716780,CTRM63,T0,adult,14683.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.916
+SAMN18473938,PRJNA716780,CTRM64,T0,adult,12857.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,2.791
+SAMN18473939,PRJNA716780,CTRM7,T0,adult,13259.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,6.25
+SAMN18473940,PRJNA716780,CTRM8,T0,adult,17167.0,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,7.978
+SAMN18473941,PRJNA716780,CTRM9,T0,,,female,IT,healthy_control,Mother_healthy control,,,no,,primary,1.0,12.275
+SAMN18473881,PRJNA716780,F_PZ18_A,T0,child,4017.75,female,IT,healthy_control,healthy control,,,,,primary,1.0,2.315
+SAMN18473882,PRJNA716780,F_PZ28_A,T0,infant,1095.75,male,IT,healthy_control,healthy control,,,,,primary,1.0,2.07
+SAMN18473883,PRJNA716780,F_PZ28_B,T0,child,3835.12,male,IT,healthy_control,healthy control,,,,,primary,1.0,1.668
+SAMN18473942,PRJNA716780,MPZ1,T0,adult,9752.0,female,IT,,Mother_patient,,,no,,primary,1.0,6.288
+SAMN18473943,PRJNA716780,MPZ10,T0,,,female,IT,,Mother_patient,,,no,,primary,1.0,5.535
+SAMN18473944,PRJNA716780,MPZ11,T0,adult,14500.0,female,IT,,Mother_patient,,,no,,primary,1.0,7.677
+SAMN18473945,PRJNA716780,MPZ12,T0,adult,15998.0,female,IT,,Mother_patient,,,no,,primary,1.0,25.622
+SAMN18473946,PRJNA716780,MPZ13,T0,adult,13733.0,female,IT,,Mother_patient,,,no,,primary,1.0,10.69
+SAMN18473947,PRJNA716780,MPZ14,T0,adult,11651.0,female,IT,,Mother_patient,,,no,,primary,1.0,13.11
+SAMN18473948,PRJNA716780,MPZ15,T0,adult,11907.0,female,IT,,Mother_patient,,,no,,primary,1.0,9.413
+SAMN18473949,PRJNA716780,MPZ16,T0,adult,15596.0,female,IT,,Mother_patient,,,no,,primary,1.0,7.11
+SAMN18473950,PRJNA716780,MPZ17,T0,adult,8985.0,female,IT,,Mother_patient,,,no,,primary,1.0,14.636
+SAMN18473951,PRJNA716780,MPZ18,T0,adult,13076.0,female,IT,,Mother_patient,,,no,,primary,1.0,11.268
+SAMN18473952,PRJNA716780,MPZ19,T0,adult,8839.0,female,IT,,Mother_patient,,,no,,primary,1.0,13.827
+SAMN18473953,PRJNA716780,MPZ2,T0,adult,13039.0,female,IT,,Mother_patient,,,no,,primary,1.0,8.273
+SAMN18473954,PRJNA716780,MPZ20,T0,adult,10519.0,female,IT,,Mother_patient,,,no,,primary,1.0,12.454
+SAMN18473955,PRJNA716780,MPZ21,T0,adult,11432.0,female,IT,,Mother_patient,,,no,,primary,1.0,8.812
+SAMN18473956,PRJNA716780,MPZ22,T0,adult,16984.0,female,IT,,Mother_patient,,,no,,primary,1.0,11.04
+SAMN18473957,PRJNA716780,MPZ23,T0,adult,12747.0,female,IT,,Mother_patient,,,no,,primary,1.0,1.897
+SAMN18473958,PRJNA716780,MPZ24,T0,adult,13989.0,female,IT,,Mother_patient,,,no,,primary,1.0,1.866
+SAMN18473959,PRJNA716780,MPZ25,T0,adult,15012.0,female,IT,,Mother_patient,,,no,,primary,1.0,2.629
+SAMN18473960,PRJNA716780,MPZ26,T0,adult,11031.0,female,IT,,Mother_patient,,,no,,primary,1.0,2.676
+SAMN18473961,PRJNA716780,MPZ27,T0,adult,13806.0,female,IT,,Mother_patient,,,no,,primary,1.0,2.141
+SAMN18473962,PRJNA716780,MPZ28,T0,adult,14281.0,female,IT,,Mother_patient,,,no,,primary,1.0,2.322
+SAMN18473963,PRJNA716780,MPZ29,T0,adult,15194.0,female,IT,,Mother_patient,,,no,,primary,1.0,1.356
+SAMN18473964,PRJNA716780,MPZ3,T0,adult,14245.0,female,IT,,Mother_patient,,,no,,primary,1.0,8.306
+SAMN18473965,PRJNA716780,MPZ30,T0,adult,15742.0,female,IT,,Mother_patient,,,no,,primary,1.0,0.0
+SAMN18473966,PRJNA716780,MPZ31,T0,adult,14939.0,female,IT,,Mother_patient,,,no,,primary,1.0,1.322
+SAMN18473967,PRJNA716780,MPZ32,T0,adult,16948.0,female,IT,,Mother_patient,,,no,,primary,1.0,2.239
+SAMN18473968,PRJNA716780,MPZ33,T0,adult,12601.0,female,IT,,Mother_patient,,,no,,primary,1.0,2.656
+SAMN18473969,PRJNA716780,MPZ4,T0,adult,9241.0,female,IT,,Mother_patient,,,no,,primary,1.0,12.492
+SAMN18473970,PRJNA716780,MPZ5,T0,adult,13039.0,female,IT,,Mother_patient,,,yes,,primary,1.0,7.849
+SAMN18473971,PRJNA716780,MPZ6,T0,adult,18007.0,female,IT,,Mother_patient,,,no,,primary,1.0,8.88
+SAMN18473972,PRJNA716780,MPZ7,T0,adult,12418.0,female,IT,,Mother_patient,,,no,,primary,1.0,4.979
+SAMN18473973,PRJNA716780,MPZ8,T0,adult,12784.0,female,IT,,Mother_patient,,,no,,primary,1.0,4.726
+SAMN18473974,PRJNA716780,MPZ9,T0,adult,13405.0,female,IT,,Mother_patient,,,no,,primary,1.0,4.995
+SAMN18473975,PRJNA716780,PZ1,T0,infant,182.62,female,IT,other_disease,NB patient,,,no,,primary,1.0,9.184
+SAMN18474007,PRJNA716780,PZ1,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,10.445
+SAMN18474008,PRJNA716780,PZ1,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,8.128
+SAMN18474009,PRJNA716780,PZ1,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,6.809
+SAMN18473976,PRJNA716780,PZ10,T0,child,1534.05,female,IT,other_disease,NB patient,,,no,,primary,1.0,10.333
+SAMN18473977,PRJNA716780,PZ11,T0,child,1351.42,female,IT,other_disease,NB patient,,,no,,primary,1.0,8.564
+SAMN18474010,PRJNA716780,PZ11,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,12.566
+SAMN18474011,PRJNA716780,PZ11,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,11.413
+SAMN18473978,PRJNA716780,PZ12,T0,infant,146.1,male,IT,other_disease,NB patient,,,no,,primary,1.0,13.184
+SAMN18473979,PRJNA716780,PZ13,T0,adolescent,5150.02,male,IT,other_disease,NB patient,,,no,,primary,1.0,3.414
+SAMN18474012,PRJNA716780,PZ13,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,20.537
+SAMN18474013,PRJNA716780,PZ13,T2,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.753
+SAMN18473980,PRJNA716780,PZ14,T0,child,1351.42,male,IT,other_disease,NB patient,,,no,,primary,1.0,12.446
+SAMN18474014,PRJNA716780,PZ14,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,14.688
+SAMN18474015,PRJNA716780,PZ14,T2,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.222
+SAMN18474016,PRJNA716780,PZ14,T3,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,3.676
+SAMN18473981,PRJNA716780,PZ15,T0,infant,219.15,female,IT,other_disease,NB patient,,,no,,primary,1.0,19.409
+SAMN18474017,PRJNA716780,PZ15,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,10.624
+SAMN18474018,PRJNA716780,PZ15,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.315
+SAMN18474019,PRJNA716780,PZ15,T3,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.05
+SAMN18473982,PRJNA716780,PZ16,T0,child,1789.72,female,IT,other_disease,NB patient,,,no,,primary,1.0,9.597
+SAMN18474020,PRJNA716780,PZ16,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,11.932
+SAMN18473983,PRJNA716780,PZ17,T0,infant,328.72,female,IT,other_disease,NB patient,,,no,,primary,1.0,1.645
+SAMN18473984,PRJNA716780,PZ18,T0,infant,620.92,male,IT,other_disease,NB patient,,,no,,primary,1.0,9.204
+SAMN18474021,PRJNA716780,PZ18,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,13.134
+SAMN18474022,PRJNA716780,PZ18,T2,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.514
+SAMN18474023,PRJNA716780,PZ18,T3,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.082
+SAMN18473985,PRJNA716780,PZ19,T0,infant,949.65,male,IT,other_disease,NB patient,,,no,,primary,1.0,14.251
+SAMN18474024,PRJNA716780,PZ19,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,14.927
+SAMN18474025,PRJNA716780,PZ19,T2,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,13.049
+SAMN18474026,PRJNA716780,PZ19,T3,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.004
+SAMN18473986,PRJNA716780,PZ20,T0,infant,328.72,male,IT,other_disease,NB patient,,,no,,primary,1.0,13.846
+SAMN18473987,PRJNA716780,PZ21,T0,child,1241.85,female,IT,other_disease,NB patient,,,no,,primary,1.0,13.649
+SAMN18473988,PRJNA716780,PZ22,T0,child,3689.02,female,IT,other_disease,NB patient,,,no,,primary,1.0,29.68
+SAMN18473989,PRJNA716780,PZ23,T0,infant,36.52,female,IT,other_disease,NB patient,,,no,,primary,1.0,2.351
+SAMN18474027,PRJNA716780,PZ23,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.583
+SAMN18474028,PRJNA716780,PZ23,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.063
+SAMN18473990,PRJNA716780,PZ24,T0,infant,913.12,female,IT,other_disease,NB patient,,,no,,primary,1.0,3.144
+SAMN18474029,PRJNA716780,PZ24,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.926
+SAMN18473991,PRJNA716780,PZ25,T0,adolescent,5880.52,male,IT,other_disease,NB patient,,,no,,primary,1.0,2.403
+SAMN18473992,PRJNA716780,PZ26,T0,infant,219.15,female,IT,other_disease,NB patient,,,no,,primary,1.0,1.384
+SAMN18474030,PRJNA716780,PZ26,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.125
+SAMN18474031,PRJNA716780,PZ26,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,1.458
+SAMN18474032,PRJNA716780,PZ26,T3,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.209
+SAMN18473993,PRJNA716780,PZ27,T0,infant,328.72,male,IT,other_disease,NB patient,,,no,,primary,1.0,1.655
+SAMN18473994,PRJNA716780,PZ28,T0,child,2556.75,male,IT,other_disease,NB patient,,,no,,primary,1.0,1.086
+SAMN18474033,PRJNA716780,PZ28,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.072
+SAMN18473995,PRJNA716780,PZ29,T0,infant,255.68,female,IT,other_disease,NB patient,,,no,,primary,1.0,2.454
+SAMN18474034,PRJNA716780,PZ29,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.292
+SAMN18473996,PRJNA716780,PZ3,T0,infant,840.08,male,IT,other_disease,NB patient,,,no,,primary,1.0,3.545
+SAMN18474035,PRJNA716780,PZ3,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,10.224
+SAMN18474036,PRJNA716780,PZ3,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,3.079
+SAMN18473997,PRJNA716780,PZ30,T0,infant,328.72,male,IT,other_disease,NB patient,,,no,,primary,1.0,9.774
+SAMN18473998,PRJNA716780,PZ31,T0,child,1753.2,male,IT,other_disease,NB patient,,,no,,primary,1.0,40.123
+SAMN18473999,PRJNA716780,PZ32,T0,adolescent,5150.02,female,IT,other_disease,NB patient,,,no,,primary,1.0,2.231
+SAMN18474037,PRJNA716780,PZ32,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,2.959
+SAMN18474000,PRJNA716780,PZ33,T0,infant,255.68,female,IT,other_disease,NB patient,,,no,,primary,1.0,7.057
+SAMN18474001,PRJNA716780,PZ4,T0,infant,986.18,female,IT,other_disease,NB patient,,,no,,primary,1.0,9.955
+SAMN18474038,PRJNA716780,PZ4,T1,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,10.402
+SAMN18474039,PRJNA716780,PZ4,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,18.655
+SAMN18474040,PRJNA716780,PZ4,T2,,,female,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,8.97
+SAMN18474002,PRJNA716780,PZ5,T0,child,1716.68,male,IT,other_disease,NB patient,,,no,,primary,1.0,2.853
+SAMN18474003,PRJNA716780,PZ6,T0,adolescent,4967.4,male,IT,other_disease,NB patient,,,no,,primary,1.0,6.877
+SAMN18474041,PRJNA716780,PZ6,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,10.225
+SAMN18474004,PRJNA716780,PZ7,T0,child,1461.0,female,IT,other_disease,NB patient,,,no,,primary,1.0,3.726
+SAMN18474005,PRJNA716780,PZ8,T0,infant,1022.7,male,IT,other_disease,NB patient,,,no,,primary,1.0,2.711
+SAMN18474042,PRJNA716780,PZ8,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,13.015
+SAMN18474006,PRJNA716780,PZ9,T0,child,1753.2,male,IT,other_disease,NB patient,,,no,,primary,1.0,7.274
+SAMN18474043,PRJNA716780,PZ9,T1,,,male,IT,other_disease,NB patient_therapy,,,no,,primary,1.0,21.005
