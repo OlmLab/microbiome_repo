@@ -1,0 +1,5 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN04523137,PRJNA312222,A254,,elderly,30702.0,male,US,colorectal_cancer,"Colorectal Cancer, Stage I",,,,2002-05,primary,4.0,387.391
+SAMN04523139,PRJNA312222,A3232,,adult,18993.0,male,US,healthy_control,Healthy volunteers,,,,2011-07,primary,4.0,353.677
+SAMN04523140,PRJNA312222,A3249,,adult,19358.2,female,US,healthy_control,Healthy volunteers,,,,2011-12,primary,4.0,362.641
+SAMN04523138,PRJNA312222,A4410,,adult,18627.8,female,US,colorectal_cancer,"Colorectal Cancer, Stage I",,,,2013-03,primary,4.0,253.554

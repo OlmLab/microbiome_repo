@@ -1,0 +1,5 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN04858320,PRJNA318564,CK1,,,,,CN,healthy_control,CK,,,,2014-04-13,primary,1.0,0.026
+SAMN04858321,PRJNA318564,CK2,,,,,CN,healthy_control,CK,,,,2014-06-17,primary,1.0,0.008
+SAMN04858322,PRJNA318564,P1,,,,,CN,colorectal_cancer,P,,,,2013-12-20,primary,1.0,0.017
+SAMN04858323,PRJNA318564,P2,,,,,CN,colorectal_cancer,P,,,,2014-01-18,primary,1.0,0.017
