@@ -10,6 +10,10 @@
 <link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/SANDPIPER_REPORT.html">
 <meta name="catalog-package-version" content="1.20.0">
 <meta name="catalog-build-date" content="2026-10-12">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="../static/site.css">
 
 
@@ -17,22 +21,26 @@
 
 </head>
 <body class="">
-<nav class="topnav"><div class="in">
+<a class="skip-link" href="#main">Skip to main content</a>
+<div class="cu-brandbar"><div class="in"><script src="https://cdn.colorado.edu/static/brand-assets/live/js/brand-bar.js" id="ucb-brand-bar-embed" data-color="black"></script><noscript><a class="ucb-home-link" href="https://www.colorado.edu">University of Colorado Boulder</a></noscript></div></div>
+<header class="ucb black" role="banner"><div class="in"><div class="site-name-wrapper"><a class="site-name" href="../index.html">Microbiome Repo</a><div class="affiliation"><a href="https://www.colorado.edu/lab/olm/">Olm Lab</a> · <a href="https://www.colorado.edu/iphy">Department of Integrative Physiology</a></div></div></div></header>
+<nav class="topnav" aria-label="Main"><div class="in">
 <a class="brand" href="../index.html">Microbiome Repo</a>
 <a href="../index.html" >Home</a>
 <a href="../studies/index.html" >Projects</a>
 <a href="../samples/index.html" >Samples</a>
 <a href="../contribute/index.html" >Contribute</a>
 <div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
-<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
 <form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
-<main>
+<main id="main" tabindex="-1">
 <div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Sandpiper report</div>
 
+<h1>Sandpiper report</h1>
 <p class="small">Rendered from <a href="SANDPIPER_REPORT.md">SANDPIPER_REPORT.md</a>.</p>
-<div class="md"><h1 id="sandpiper_report-singlemsandpiper-community-profiles-joined-to-the-infant-gut-shotgun-metagenome-catalog">SANDPIPER_REPORT — SingleM/Sandpiper community profiles joined to the Infant Gut Shotgun-Metagenome Catalog</h1>
+<div class="md"><h2 id="sandpiper_report-singlemsandpiper-community-profiles-joined-to-the-infant-gut-shotgun-metagenome-catalog">SANDPIPER_REPORT — SingleM/Sandpiper community profiles joined to the Infant Gut Shotgun-Metagenome Catalog</h2>
 <p><em>Track "Sandpiper" (findings A6, A8, A16, B5, B6, B7). Built 2026-09-26 from Sandpiper 2.0.0 (Zenodo record 20419175, GTDB R232). All numbers below are read from the output tables; nothing is typed from memory.</em></p>
-<h2 id="1-source-provenance-and-fetch-route-a8">1. Source, provenance and fetch route (A8)</h2>
+<h3 id="1-source-provenance-and-fetch-route-a8">1. Source, provenance and fetch route (A8)</h3>
 <table>
 <thead>
 <tr>
@@ -69,7 +77,7 @@
 * <code>condensed_csv_with_extras/&lt;acc&gt;?taxonomy_type=gtdb</code> — <code>sample, coverage (unfilled), full_coverage (filled), relative_abundance (%), level, taxonomy</code> — <strong>the reference format for validating any conversion</strong>;
 * <code>condensed/&lt;acc&gt;?taxonomy_type=…</code> — JSON tree; <code>metadata/&lt;acc&gt;</code> — QC flags (<code>non_metagenome_organism_strict/loose</code>, <code>synthetic</code>, <code>rna_or_non_dna_strict/loose</code>, <code>domain_only_gtdb/globdb/both</code>, <code>low_complexity</code>, <code>smf</code>, <code>known_species_fraction</code>) with their definitions (saved as <code>sandpiper_flag_definitions.json</code>).
 Nine requests were made to sandpiper.qut.edu.au in total (2 page probes, 2 API probes, 1 JS bundle, 1 metadata, 4 with-extras downloads; ≥2 s apart). Delta recipe: ≤2,000 runs/cycle at ≤0.5 req/s through <code>harvest_lib</code> (cache-through), GTDB <code>condensed_csv_with_extras</code> only, refuse rows whose taxonomy release differs from the snapshot's R232.</p>
-<h2 id="2-coverage-of-the-join">2. Coverage of the join</h2>
+<h3 id="2-coverage-of-the-join">2. Coverage of the join</h3>
 <table>
 <thead>
 <tr>
@@ -149,7 +157,7 @@ Nine requests were made to sandpiper.qut.edu.au in total (2 page probes, 2 API p
 </tr>
 </tbody>
 </table>
-<h3 id="why-runs-are-missing-sandpiper_run_qcsp_miss_reason-deterministic-first-matching-rule-wins">Why runs are missing (<code>sandpiper_run_qc.sp_miss_reason</code>, deterministic, first matching rule wins)</h3>
+<h4 id="why-runs-are-missing-sandpiper_run_qcsp_miss_reason-deterministic-first-matching-rule-wins">Why runs are missing (<code>sandpiper_run_qc.sp_miss_reason</code>, deterministic, first matching rule wins)</h4>
 <table>
 <thead>
 <tr>
@@ -274,18 +282,18 @@ Nine requests were made to sandpiper.qut.edu.au in total (2 page probes, 2 API p
 </tr>
 </tbody>
 </table>
-<h2 id="3-method">3. Method</h2>
-<h3 id="31-coverage-relative-abundance-b6">3.1 Coverage → relative abundance (B6)</h3>
+<h3 id="3-method">3. Method</h3>
+<h4 id="31-coverage-relative-abundance-b6">3.1 Coverage → relative abundance (B6)</h4>
 <ul>
 <li><strong>Filled coverage</strong> of a clade = coverage of the node + all descendants (what the bulk file delivers). <strong>Root</strong> = <code>Root</code> row = d__Bacteria + d__Archaea.</li>
 <li><strong>Relative abundance</strong> at any rank = filled coverage ÷ root. At each rank an explicit remainder row <code>unassigned_at_&lt;rank&gt;</code> = root − Σ filled(rank) carries the coverage that stopped at a shallower rank (novel/unclassified fraction). Per-rank sums equal 1 for every sample (observed range 1.000000000000–1.000000000000).</li>
 <li>Denominator caveat for every bar: coverage-based (≈ cell proportions), Bacteria + Archaea only, no host/eukaryote/virus; not comparable with MetaPhlAn read fractions or 16S.</li>
 </ul>
-<h3 id="32-aggregation-to-the-catalog-sample-unit-a16-b6">3.2 Aggregation to the catalog sample unit (A16, B6)</h3>
+<h4 id="32-aggregation-to-the-catalog-sample-unit-a16-b6">3.2 Aggregation to the catalog sample unit (A16, B6)</h4>
 <p>For a <code>catalog_sample_key</code> (BioSample, or run for the 6 run-keyed deposits) with several profiled runs, <strong>filled coverage per taxon is SUMMED across runs</strong>, then normalised. Filling is linear, so Σ(filled) = filled(Σ unfilled): identical to "sum unfilled, then fill", and ≈ profiling the concatenated reads (up to SingleM's per-run 0.35× noise floor, which leaves summed profiles slightly less species-resolved). Relative abundances are never averaged. Per sample: <code>sp_n_runs_total</code>, <code>sp_n_runs_profiled</code>, <code>sp_partial</code> (2,457 samples have unprofiled runs), <code>sp_root_coverage</code> (summed). SPF = metagenome-size-weighted mean of per-run SPF (a fraction of all reads); known-species fraction = bacterial+archaeal-bases-weighted mean (a fraction of prokaryotic coverage).</p>
-<h3 id="33-run-concordance-data-model-check-b6">3.3 Run concordance (data-model check, B6)</h3>
+<h4 id="33-run-concordance-data-model-check-b6">3.3 Run concordance (data-model check, B6)</h4>
 <p>For the 3,243 sample keys with ≥2 profiled runs: genus-level relative abundance per run (with <code>unassigned_at_genus</code> as one bin) → max pairwise Bray–Curtis (<code>sp_run_concordance_bc</code>). <strong>99 BioSamples exceed BC 0.5</strong> (<code>sandpiper_run_discordance.csv</code>; by study: PRJNA524703: 62, PRJNA268964: 16, PRJEB49206: 11, PRJNA63661: 3, PRJEB33847: 3, PRJNA731529: 1, PRJEB41102: 1, PRJEB79896: 1, PRJNA320015: 1). All 99 are class C in <code>sample_unit_classification.csv</code>. In the largest group (PRJNA524703, "Human infant gut virome") each pair is one MDA-amplified VLP library plus one RANDOM bulk library on the same BioSample — discordance there reflects library type, not different infants. <strong>No catalog unit was changed</strong>; the list is a human-review candidate queue (<code>proposed_queue_reason = sample_unit_discordant_profiles</code>); check <code>library_selection</code> first.</p>
-<h3 id="34-indicator-taxa-in-gtdb-r232-terms-b5">3.4 Indicator taxa in GTDB R232 terms (B5)</h3>
+<h4 id="34-indicator-taxa-in-gtdb-r232-terms-b5">3.4 Indicator taxa in GTDB R232 terms (B5)</h4>
 <p>Columns are prefixed <code>sp_</code>; relative-abundance columns end in <code>_ra</code> and mean "fraction of prokaryotic coverage (SingleM/Sandpiper, GTDB R232)".</p>
 <table>
 <thead>
@@ -348,7 +356,7 @@ Nine requests were made to sandpiper.qut.edu.au in total (2 page probes, 2 API p
 </tr>
 </tbody>
 </table>
-<h3 id="35-qc-flags-b7-what-they-may-decide">3.5 QC flags (B7) — what they may decide</h3>
+<h4 id="35-qc-flags-b7-what-they-may-decide">3.5 QC flags (B7) — what they may decide</h4>
 <p><code>sandpiper_run_qc.parquet</code> covers <strong>all 174,022 catalog runs</strong>. Sandpiper's own flags exist only in its per-run API, not in the bulk files, so they were <strong>reproduced deterministically from Sandpiper's published definitions</strong> (<code>sandpiper_flag_definitions.json</code>) using the run's organism name (Sandpiper <code>organism</code>, else ENA <code>scientific_name</code>) and ENA <code>library_strategy</code>/<code>library_source</code>:
 * <code>sp_flag_non_metagenome_strict/loose</code> (20,232 runs strict), sub-classified as <code>sp_nonmeta_class</code>: <strong>named_human_host</strong> (19,857 runs, "Homo sapiens" — routine submitter labelling of stool metagenomes, <em>not</em> a triage signal in a METAGENOMIC-source catalog); <strong>named_nonhuman_host</strong> (172 runs: <em>Mus musculus</em>, <em>Gallus gallus</em>, all in PRJEB6921 → <code>host_nonhuman</code> candidates); <strong>named_microbe_or_other</strong> (203 runs, e.g. <em>Bifidobacterium longum subsp. infantis</em>, <em>Staphylococcus epidermidis</em>; with <code>library_source = GENOMIC</code> → <code>assay_isolate_genome</code> candidates).
 * <code>sp_flag_synthetic</code> = 0, <code>sp_flag_rna_strict</code> = 0 — zero by construction (catalog is METAGENOMIC/GENOMIC WGS/WXS/OTHER only).
@@ -395,7 +403,7 @@ Low SPF is a depth/quality label (expected in meconium / early NICU stool), not 
 </tbody>
 </table>
 <p>Age-consistency (adult-like composition among samples lacking age evidence) was <strong>not</strong> written into any age field; composition is a review-prioritisation hint only (B7).</p>
-<h2 id="4-validation">4. Validation</h2>
+<h3 id="4-validation">4. Validation</h3>
 <p><strong>All 87,125 profiled runs:</strong> filled root == per_acc_summary <code>root_coverage</code> within 1 % for 100.0 % of runs (max relative error 0.0e+00); Σ species filled coverage == <code>species_coverage</code> for 100.0 % (max absolute error 2.2e-11).</p>
 <p><strong>Node-by-node against Sandpiper's "condensed with extras" download (4 runs spanning 3.8×–2,230× root, a read-fraction warning, and a DRR run):</strong></p>
 <table>
@@ -455,7 +463,7 @@ Low SPF is a depth/quality label (expected in meconium / early NICU stool), not 
 </tbody>
 </table>
 <p>The ≤0.005-point rel-abundance differences are Sandpiper's 2-decimal rounding of percentages.</p>
-<h2 id="5-outputs">5. Outputs</h2>
+<h3 id="5-outputs">5. Outputs</h3>
 <table>
 <thead>
 <tr>
@@ -547,7 +555,7 @@ Low SPF is a depth/quality label (expected in meconium / early NICU stool), not 
 </tbody>
 </table>
 <p>All site-bound files are far below 95 MB. Every profiled sample/run carries <code>sandpiper_url = https://sandpiper.qut.edu.au/run/&lt;first profiled run&gt;</code>.</p>
-<h3 id="headline-composition-profiled-samples">Headline composition (profiled samples)</h3>
+<h4 id="headline-composition-profiled-samples">Headline composition (profiled samples)</h4>
 <table>
 <thead>
 <tr>
@@ -605,15 +613,15 @@ Low SPF is a depth/quality label (expected in meconium / early NICU stool), not 
 </tbody>
 </table>
 <p>Most frequent top genus: g__Bifidobacterium (24,801), g__Prevotella (7,759), g__Bacteroides (7,234), g__Escherichia (5,097), g__Phocaeicola (4,455), g__Klebsiella (3,520), unassigned_at_genus (3,280), g__Streptococcus (2,625). Bifidobacterium species most often detected: s__Bifidobacterium longum (34,017 samples), s__Bifidobacterium breve (22,909 samples), s__Bifidobacterium bifidum (21,135 samples), s__Bifidobacterium infantis (14,381 samples), s__Bifidobacterium sp959028125 (10,927 samples), s__Bifidobacterium adolescentis (9,269 samples).</p>
-<h2 id="6-refresh-recipe-a8">6. Refresh recipe (A8)</h2>
+<h3 id="6-refresh-recipe-a8">6. Refresh recipe (A8)</h3>
 <ol>
 <li>Monthly check of the concept record (doi 10.5281/zenodo.10547493); when a new version appears: re-run <code>download_bulk.py</code> (record id; Range-resume; md5 must match Zenodo), <code>filter_bulk.py</code> (<code>matched_runs.parquet</code> = catalog runs ∩ per_acc_summary), <code>build_sandpiper_tables.py</code>; re-validate ≥3 runs against <code>condensed_csv_with_extras</code>. Expect 1–2 versions/yr; never mix taxonomy releases in one panel.</li>
 <li>Between snapshots: for runs tagged <code>published_after_snapshot_horizon</code> or <code>*_not_in_snapshot</code>, fetch <code>api/condensed_csv_with_extras/&lt;acc&gt;?taxonomy_type=gtdb</code> at ≤0.5 req/s, ≤2,000 runs/cycle, via <code>harvest_lib</code> cache; keep only rows whose taxonomy release equals the snapshot's (R232); append as unfilled profiles → <code>sandpiper_lib.fill_profile/normalise</code>.</li>
 <li>Keep raw bulk files on the host filesystem (<code>~/catalog/external/sandpiper/&lt;zenodo_version&gt;/</code>) with the sha256 above, not as artifacts.</li>
 </ol>
-<h2 id="7-citation">7. Citation</h2>
+<h3 id="7-citation">7. Citation</h3>
 <p>Woodcroft, B. J. et al. <em>Comprehensive taxonomic identification of microbial species in metagenomic data using SingleM and Sandpiper.</em> <strong>Nature Biotechnology</strong> (2025). Data: "Public metagenome datasets annotated using SingleM", Sandpiper 2.0.0, Zenodo record 20419175 (doi 10.5281/zenodo.20419175; concept doi 10.5281/zenodo.10547493), published 2026-05-28. Taxonomy: GTDB R232.</p>
-<h2 id="8-deviations-and-caveats">8. Deviations and caveats</h2>
+<h3 id="8-deviations-and-caveats">8. Deviations and caveats</h3>
 <ul>
 <li>Bulk file is filled (tab-separated, <code>filled_coverage</code>), not unfilled as stated in the task; handled as in §1 (results identical to Sandpiper's own numbers).</li>
 <li>Sandpiper's per-run flags (non-metagenome/synthetic/RNA) are not in the bulk files; they were reproduced from Sandpiper's published definitions on the catalog's own ENA fields — for runs Sandpiper never saw, flag values are <em>our</em> application of <em>their</em> rule.</li>
@@ -623,7 +631,7 @@ Low SPF is a depth/quality label (expected in meconium / early NICU stool), not 
 <li>Validation used 4 with-extras files rather than the 200-run sample suggested in A8; the all-run root/species check over 87,125 runs compensates.</li>
 <li><code>sp_miss_reason</code> values are deterministic inferences from archive fields, not Sandpiper's stated reasons; treat the <code>*_not_in_snapshot</code> split as provisional.</li>
 </ul>
-<h2 id="v121-addendum-data-fix-track">v1.2.1 addendum (data-fix track)</h2>
+<h3 id="v121-addendum-data-fix-track">v1.2.1 addendum (data-fix track)</h3>
 <ul>
 <li>Study panels and <code>sp_median_*</code> are now computed over <code>catalog_scope ∧ sp_profiled ∧ NOT sp_low_depth</code> (41,290 rows in 181 studies); §8's deferral is closed. Studies without such rows carry a fallback label in <code>sp_panel_scope</code> / <code>sandpiper_study_panel_status.csv</code>.</li>
 <li>Studies with samples in <code>age_scope = study_all_infant</code>: 31 (the earlier "66 study_all_infant studies" counted triage verdicts, not studies with rows in that scope).</li>
@@ -631,9 +639,11 @@ Low SPF is a depth/quality label (expected in meconium / early NICU stool), not 
 </ul></div>
 
 </main>
-<footer>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
 <div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.25"><span class="mono">R2026.25</span></a> · package <span class="mono">1.20.0</span> · build <span class="mono">654f5f4</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.25.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
 <div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+<div class="cu-footer"><script src="https://cdn.colorado.edu/static/brand-assets/live/js/footer.js" id="ucb-footer-embed" data-color="black"></script><noscript><div class="ucb-footer"><p><a class="ucb-home-link" href="https://www.colorado.edu">University of Colorado Boulder</a></p><p>&copy; Regents of the University of Colorado</p><p class="ucb-footer-links"><a href="https://www.colorado.edu/about/privacy-statement">Privacy</a> &bull; <a href="https://www.colorado.edu/about/legal-trademarks">Legal &amp; Trademarks</a> &bull; <a href="https://www.colorado.edu/map">Campus Map</a></p></div></noscript></div>
 </footer>
 
 

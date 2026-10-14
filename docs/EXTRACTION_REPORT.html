@@ -10,6 +10,10 @@
 <link rel="canonical" href="https://olmlab.github.io/microbiome_repo/docs/EXTRACTION_REPORT.html">
 <meta name="catalog-package-version" content="1.20.0">
 <meta name="catalog-build-date" content="2026-10-12">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="../static/site.css">
 
 
@@ -17,22 +21,26 @@
 
 </head>
 <body class="">
-<nav class="topnav"><div class="in">
+<a class="skip-link" href="#main">Skip to main content</a>
+<div class="cu-brandbar"><div class="in"><script src="https://cdn.colorado.edu/static/brand-assets/live/js/brand-bar.js" id="ucb-brand-bar-embed" data-color="black"></script><noscript><a class="ucb-home-link" href="https://www.colorado.edu">University of Colorado Boulder</a></noscript></div></div>
+<header class="ucb black" role="banner"><div class="in"><div class="site-name-wrapper"><a class="site-name" href="../index.html">Microbiome Repo</a><div class="affiliation"><a href="https://www.colorado.edu/lab/olm/">Olm Lab</a> · <a href="https://www.colorado.edu/iphy">Department of Integrative Physiology</a></div></div></div></header>
+<nav class="topnav" aria-label="Main"><div class="in">
 <a class="brand" href="../index.html">Microbiome Repo</a>
 <a href="../index.html" >Home</a>
 <a href="../studies/index.html" >Projects</a>
 <a href="../samples/index.html" >Samples</a>
 <a href="../contribute/index.html" >Contribute</a>
 <div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
-<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
 <form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
-<main>
+<main id="main" tabindex="-1">
 <div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Infant-field extraction report</div>
 
+<h1>Infant-field extraction report</h1>
 <p class="small">Rendered from <a href="EXTRACTION_REPORT.md">EXTRACTION_REPORT.md</a>.</p>
-<div class="md"><h1 id="extraction-report-per-sample-metadata-for-the-infant-gut-shotgun-metagenome-catalog">EXTRACTION REPORT — per-sample metadata for the Infant Gut Shotgun-Metagenome Catalog</h1>
+<div class="md"><h2 id="extraction-report-per-sample-metadata-for-the-infant-gut-shotgun-metagenome-catalog">EXTRACTION REPORT — per-sample metadata for the Infant Gut Shotgun-Metagenome Catalog</h2>
 <p>Date 2026-09-25 (v4, after sample-unit fix) · plan artifact 8c115402 (5 phases) · scope: 389 included studies, 153,701 samples, 174,022 runs.</p>
-<h2 id="1-what-was-produced">1. What was produced</h2>
+<h3 id="1-what-was-produced">1. What was produced</h3>
 <ul>
 <li><code>sample_determinations.parquet</code> — <strong>606,023 determinations</strong> (one per sample × field) over 150,544 samples in 379 studies; columns follow <code>catalog_schema.sql::sample_determinations</code> plus <code>route</code> (R1–R4), <code>scope</code> (sample|group), <code>group_audit</code>. Every row passes <code>validate_row()</code> (labelled ≤12-word verbatim quote, controlled vocabularies).</li>
 <li><code>samples.parquet</code> (153,701; body-site class, gold flag) and <code>sample_attributes.parquet</code> (7,477,170 long-format archive attributes, 2,280 distinct keys; ENA sample XML 6.05M rows, NCBI BioSample 170k rows for the 10,034 SAMN records ENA lacks; 71 samples have no attributes anywhere).</li>
@@ -40,7 +48,7 @@
 <li><code>infant_catalog.sqlite</code> (189 MB) — studies, samples, runs, sample_determinations, study_triage, cohorts, paper_study_links loaded per <code>catalog_schema.sql</code>.</li>
 <li>Evidence/QC tables: <code>sample_determination_candidates.parquet</code> (all 774,628 route candidates), <code>sample_determination_conflicts.parquet</code> + <code>conflicts_adjudication_log.parquet</code>, <code>group_statement_audit.csv</code>, <code>sample_determinations_dropped_group_audit.parquet</code>, <code>sample_determinations_rejected.parquet</code>, <code>extraction_audit.md</code>, <code>audit_300.parquet</code>, <code>audit_group_100.parquet</code>, <code>PILOT_REPORT.md</code>, <code>PHASE0_REPORT.md</code>.</li>
 </ul>
-<h2 id="2-method-four-evidence-routes-fixed-precedence">2. Method (four evidence routes, fixed precedence)</h2>
+<h3 id="2-method-four-evidence-routes-fixed-precedence">2. Method (four evidence routes, fixed precedence)</h3>
 <table>
 <thead>
 <tr>
@@ -78,7 +86,7 @@
 </tbody>
 </table>
 <p>Merge: R1 &gt; R2 &gt; R3 &gt; R4 per sample × field; cross-route disagreements (3,096 sample-level, 76 patterns) adjudicated once per pattern by Opus (536 values changed, mostly R2 winning over submitter-level country/sex). Group statements pass a consistency filter against per-sample values (drop when &gt;20 % disagreement on ≥5 samples) and a threshold filter; <strong>all 359 distinct group statements were then audited by Opus with a failure-mode checklist: 186 kept, 60 downgraded (confidence 0.4, review flag), 113 dropped (17,165 rows)</strong>.</p>
-<h2 id="3-coverage-infant-scope-samples-primary-unknown-body-site-n-146126">3. Coverage (infant-scope samples = primary + unknown body site, n = 146,126)</h2>
+<h3 id="3-coverage-infant-scope-samples-primary-unknown-body-site-n-146126">3. Coverage (infant-scope samples = primary + unknown body site, n = 146,126)</h3>
 <table>
 <thead>
 <tr>
@@ -164,7 +172,7 @@
 </tbody>
 </table>
 <p>Age at collection is recoverable for <strong>34%</strong> of infant-scope samples (49,016); 123 studies have age for ≥80 % of their samples, 135 studies have no field beyond country. Per-study coverage is bimodal (<code>field_coverage.png</code>): a field is recoverable for essentially every sample of a study or for none, as the recoverability tiering predicted. Exposures (antibiotics, probiotics, HMO, NEC) are below 15 %.</p>
-<h2 id="4-accuracy">4. Accuracy</h2>
+<h3 id="4-accuracy">4. Accuracy</h3>
 <p><strong>Gold</strong> = 3,670 curatedMetagenomicData infant samples (18 studies) matched to sample keys, never read during extraction. Age tolerance max(7 d, 10 %); GA ±1 wk; "hires" excludes 172 gold rows with integer-year ages.
 | Field | gold n | coverage | precision | recall |
 |---|---:|---:|---:|---:|
@@ -176,7 +184,7 @@
 | gestational_age | 1998 | 0.262 | 1.000 | 0.262 |</p>
 <p>Route precision on gold (hi-res): R2 age 1.000 (n=2,192), R1 age 0.981 (n=994), R2 delivery 0.995, R2 preterm 1.000, R3 preterm 1.000 (n=191), R2 feeding 0.896, R2 antibiotics 0.867. The antibiotic gap is definitional (tables record <em>any</em> exposure; cMD records <em>current use</em>) — PILOT_REPORT §3; feeding disagreements are cMD's <code>No Breastfeeding</code> vs table categories.</p>
 <p><strong>Blind audit</strong> (Sonnet, 300 stratified determinations, two replicates, quote-only): κ 0.79 (3-class) / 0.91 (binary); supported rate R2 0.93, R4 0.83, R1 0.77, R3 0.61 <em>before</em> the group-statement gate. The gate removed the dominant R3/R4 failure modes (eligibility criteria read as observations, "healthy" read as term, timepoint lists read as one age, care setting read as exposure, summary words, thresholds). Remaining R1 weaknesses: parent-questionnaire attributes (American Gut <code>antibiotic_history</code>), range midpoints, <code>host_age</code> given in gestational weeks.</p>
-<h2 id="5-costs">5. Costs</h2>
+<h3 id="5-costs">5. Costs</h3>
 <table>
 <thead>
 <tr>
@@ -224,7 +232,7 @@
 </tbody>
 </table>
 <p><strong>Extraction phase: 14,023,863 tokens (~14.0M); whole pipeline ≈ 42.2M.</strong> 13 + 5 leaf workers; every LLM fan-out dispatched from the root. Two R2 workers and the R4 worker reported estimated (not measured) token counts after in-run counters were lost to script crashes.</p>
-<h2 id="6-limitations-and-open-items">6. Limitations and open items</h2>
+<h3 id="6-limitations-and-open-items">6. Limitations and open items</h3>
 <ul>
 <li><strong>R2 ID-mapping residue.</strong> 77 R1/R2-tier studies (41,906 samples; TEDDY PRJNA400115 12,266, American Gut, PRJEB46788, PRJEB45799, PRJEB49383, PRJNA398089 …) have per-sample tables keyed by identifiers that do not match archive accessions/titles. A rescue pass matching table IDs against any archive attribute value was written (<code>r2_rescue_map.py</code>); two runs were attempted: the first was lost to a model outage before running; the second reached one study (TEDDY: 4 mapped tables, all gene-abundance matrices without metadata columns → 0 determinations) before Europe PMC stalled and its time-box expired (<code>RESCUE_REPORT.md</code>, <code>rescue_table_mapping.csv</code>). The 76 remaining studies are the single largest open item; <code>RESCUE_REPORT.md</code> lists each with the sample-ID form its tables use. Re-run <code>r2_rescue_map.py</code> + <code>run_rescue_gate.py</code> from the cached supplementary ZIPs when the network is healthy.</li>
 <li>10,958 samples carry unitless numeric ages that no rule or paper fixed (<code>r1_rejected</code>); 4 pilot studies need a curator (PRJNA300541, PRJNA379120, PRJNA489090, PRJNA716780).</li>
@@ -234,9 +242,9 @@
 <li>Gold covers age/delivery/feeding/preterm/antibiotics/GA only; probiotic, HMO, NEC, birth weight, maternal antibiotics have no external truth set (blind-audit only; HMO n=4, 3 flagged).</li>
 <li>Mother–infant linking is partial (3,411 mother samples unlinked); 199 studies expose no subject identifier.</li>
 </ul>
-<h2 id="7-rules-added-to-infant-curation-rules-this-phase">7. Rules added to <code>infant-curation-rules</code> (this phase)</h2>
+<h3 id="7-rules-added-to-infant-curation-rules-this-phase">7. Rules added to <code>infant-curation-rules</code> (this phase)</h3>
 <p>Pooled exact-accession tables count as evidence (cap 0.75); ranges/thresholds/timepoint lists are not values; boolean breastfeeding columns do not set feeding_mode; group statements need the consistency check and must not come from eligibility criteria, care setting, site policy, "healthy", summary words, maternal pregnancy weeks or single cases; unitless ages resolve only by sibling attribute, unique admissible unit or paper quote; parent questionnaires are respondent history; <code>antibiotic_exposure</code> = any antibiotics before/at sampling (record <code>antibiotic_current</code> separately when a source distinguishes).</p>
-<h2 id="8-recovery-round-2-2026-09-25-six-methods-results">8. Recovery round 2 (2026-09-25) — six methods, results</h2>
+<h3 id="8-recovery-round-2-2026-09-25-six-methods-results">8. Recovery round 2 (2026-09-25) — six methods, results</h3>
 <table>
 <thead>
 <tr>
@@ -314,7 +322,7 @@
 | NEC status | 5,153 | 5,153 | +0 | 3.5% |</p>
 <p>Gold after merge (hi-res): age precision 0.993 / recall 0.949 (was 0.994 / 0.947); other fields unchanged. Tokens this round: 2,700,912. <strong>Whole pipeline ≈ 44.9M.</strong></p>
 <p>Structural changes delivered: <code>r2_supp_extract_v2.py</code> (attribute-inverted-index gate default, study_keys fix, numeric-ID plausibility), Methods-first chunking for R3, skill rules for unit resolution and adult-age routing. The remaining ceiling is structural, not methodological: ~42k samples sit in studies whose per-sample tables cannot be joined to archive records without submitter keys, and 34k samples' extra papers were not read for budget reasons (a second multi-paper pass with the same recipe would finish them).</p>
-<h2 id="9-final-passes-2026-09-25-multi-paper-pass-2-r2-re-run-with-the-fixed-gate-field-extension">9. Final passes (2026-09-25) — multi-paper pass 2, R2 re-run with the fixed gate, field extension</h2>
+<h3 id="9-final-passes-2026-09-25-multi-paper-pass-2-r2-re-run-with-the-fixed-gate-field-extension">9. Final passes (2026-09-25) — multi-paper pass 2, R2 re-run with the fixed gate, field extension</h3>
 <table>
 <thead>
 <tr>
@@ -362,14 +370,16 @@
 | Sibling in study | 3,924 | 2.7% | 10 |
 | Geo subregion | 47,016 | 32.2% | 172 |</p>
 <p>Tokens these passes: 2,358,996. <strong>Whole pipeline ≈ 47.3M.</strong> Published as data_package_v1.zip (README, DATA_DICTIONARY, wide tables, notebook) and the GitHub Pages site.</p>
-<h2 id="10-sample-unit-fix-auditor-finding-2026-09-25">10. Sample-unit fix (auditor finding, 2026-09-25)</h2>
+<h3 id="10-sample-unit-fix-auditor-finding-2026-09-25">10. Sample-unit fix (auditor finding, 2026-09-25)</h3>
 <p>The catalog's sample unit is the BioSample. The AUDITOR session found deposits that register one BioSample per infant and one run per stool (PRJNA294605: 11 BioSamples / 158 runs, "Assembly of 14 fecal samples from infant 23…"), where run-keyed supplementary values had been collapsed to one per BioSample. Deterministic classification of all 11,116 multi-run BioSamples in 63 studies (criteria: pooled text; ≥2 distinct ages/timepoints across a BioSample's runs in run-keyed tables; time tokens in library names confirmed by attributes; NCBI BioSample date ranges) → <strong>6 class-A studies</strong> (PRJNA294605, PRJNA1055141, PRJNA1258733, PRJNA299342, PRJNA751712, PRJNA869587; 16 BioSamples / 521 runs); 33 technical (lanes, replicates, paired/unpaired, long+short) studies unchanged (row-level diff empty); 24 class-B studies stayed BioSample-unit. For class A: 521 run-level sample rows (<code>sample_unit=run</code>, <code>parent_biosample</code>), 89 run-keyed tables re-gated per run → 2,938 R2 rows + 698 propagated per-infant-constant R1 rows; 75 collapsed BioSample-level rows superseded (<code>sample_determinations_superseded.parquet</code>); subjects rebuilt (PRJNA294605: 3–22 timepoints per infant, age for 141/158 runs). Also from the auditor: own-data paper PMID 27258951 linked to PRJNA294605 (confidence 0.6 — full text unreadable, Europe PMC 500) and 136 preterm_status values derived from gestational age. Validator pass 100 %; gold metrics unchanged (no gold samples in class-A studies). Catalog now <strong>154,206 samples, 609,584 determinations</strong>. Report: <code>SAMPLE_UNIT_FIX_REPORT.md</code>; classification: <code>sample_unit_classification.csv</code>.
 Deviations declared by the track: NCBI efetch returns nothing for SAMEA ids (2,192 class-B BioSamples evaluated on ENA attributes); library-name criterion tightened after false positives and fired on none; column→field classes reused from accepted R2 rows rather than re-classified.</p></div>
 
 </main>
-<footer>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
 <div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.25"><span class="mono">R2026.25</span></a> · package <span class="mono">1.20.0</span> · build <span class="mono">654f5f4</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.25.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
 <div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+<div class="cu-footer"><script src="https://cdn.colorado.edu/static/brand-assets/live/js/footer.js" id="ucb-footer-embed" data-color="black"></script><noscript><div class="ucb-footer"><p><a class="ucb-home-link" href="https://www.colorado.edu">University of Colorado Boulder</a></p><p>&copy; Regents of the University of Colorado</p><p class="ucb-footer-links"><a href="https://www.colorado.edu/about/privacy-statement">Privacy</a> &bull; <a href="https://www.colorado.edu/about/legal-trademarks">Legal &amp; Trademarks</a> &bull; <a href="https://www.colorado.edu/map">Campus Map</a></p></div></noscript></div>
 </footer>
 
 

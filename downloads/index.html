@@ -10,6 +10,10 @@
 <link rel="canonical" href="https://olmlab.github.io/microbiome_repo/downloads/index.html">
 <meta name="catalog-package-version" content="1.20.0">
 <meta name="catalog-build-date" content="2026-10-12">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="../static/site.css">
 
 
@@ -17,16 +21,19 @@
 
 </head>
 <body class="">
-<nav class="topnav"><div class="in">
+<a class="skip-link" href="#main">Skip to main content</a>
+<div class="cu-brandbar"><div class="in"><script src="https://cdn.colorado.edu/static/brand-assets/live/js/brand-bar.js" id="ucb-brand-bar-embed" data-color="black"></script><noscript><a class="ucb-home-link" href="https://www.colorado.edu">University of Colorado Boulder</a></noscript></div></div>
+<header class="ucb black" role="banner"><div class="in"><div class="site-name-wrapper"><a class="site-name" href="../index.html">Microbiome Repo</a><div class="affiliation"><a href="https://www.colorado.edu/lab/olm/">Olm Lab</a> · <a href="https://www.colorado.edu/iphy">Department of Integrative Physiology</a></div></div></div></header>
+<nav class="topnav" aria-label="Main"><div class="in">
 <a class="brand" href="../index.html">Microbiome Repo</a>
 <a href="../index.html" >Home</a>
 <a href="../studies/index.html" >Projects</a>
 <a href="../samples/index.html" >Samples</a>
 <a href="../contribute/index.html" >Contribute</a>
 <div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
-<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html" class="active">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html" class="active">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
 <form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
-<main>
+<main id="main" tabindex="-1">
 <div class="crumbs"><a href="../index.html">Home</a> › Downloads &amp; releases</div>
 
 <h1>Downloads &amp; releases</h1>
@@ -64,7 +71,7 @@
 </tbody></table>
 <p class="small">Integrity: <a href="../data/manifest.json">manifest.json</a> (SHA-256 of every data file) · <a href="../data/VERSION.json">VERSION.json</a> (package tables with row counts and SHA-256). Licence: curated tables CC-BY-4.0; archive metadata under INSDC terms.</p>
 
-<div class="cite note" id="cite">
+<div class="cite note" id="cite-text">
 <b>Cite this release.</b> <i>Microbiome Repo, release R2026.25 (data package 1.20.0), OlmLab, 2026-10-12.</i>
 <div class="small" style="margin-top:.3rem">
 <a href="https://zenodo.org/badge/latestdoi/1389758854"><img src="https://zenodo.org/badge/1389758854.svg" alt="Zenodo DOI badge (latest release of OlmLab/microbiome_repo-data)" height="20"></a>
@@ -202,9 +209,9 @@
 <h2 id="release-notes">Release notes</h2>
 
 <details open id="notes-R2026.25"><summary><b>R2026.25</b> — package 1.20.0, 2026-10-12 (<a href="../releases/RELEASE_NOTES_R2026.25.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202625-data-package-1200-2026-10-12">Release notes — R2026.25 (data package 1.20.0, 2026-10-12)</h1>
+<div class="doc"><h2 id="nR2026-25-release-notes-r202625-data-package-1200-2026-10-12">Release notes — R2026.25 (data package 1.20.0, 2026-10-12)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.19.1 (R2026.24, 2026-10-10) → 1.20.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-25-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -397,7 +404,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-25-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -418,7 +425,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-25-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -446,7 +453,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-25-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -614,12 +621,12 @@
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-25-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.20.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-25-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-25-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -646,7 +653,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-25-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -723,7 +730,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-25-schema-changes">Schema changes</h3>
 <p>New files: <code>gut_metadata_contradictions.parquet</code>, <code>gut_pass_coverage.csv</code>
 Removed files: none</p>
 <table>
@@ -743,7 +750,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.20.0, <code>previous_release_id</code>=R2026.24, <code>release_id</code>=R2026.25, <code>release_tag</code>=data-v1.20.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-25-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.25). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -798,13 +805,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-25-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: ≈ 12 M tokens (16 sub-agents + 4 follow-ups re-running shards that duplicated a sibling) (docs/CYCLE_LOG.md row <code>R2026.25</code>)</p></div></details>
 
 <details id="notes-R2026.24"><summary><b>R2026.24</b> — package 1.19.1, 2026-10-10 (<a href="../releases/RELEASE_NOTES_R2026.24.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202624-data-package-1191-2026-10-10">Release notes — R2026.24 (data package 1.19.1, 2026-10-10)</h1>
+<div class="doc"><h2 id="nR2026-24-release-notes-r202624-data-package-1191-2026-10-10">Release notes — R2026.24 (data package 1.19.1, 2026-10-10)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.19.0 (R2026.23, 2026-10-10) → 1.19.1. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-24-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -997,7 +1004,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-24-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -1018,7 +1025,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-24-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -1046,7 +1053,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-24-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -1214,12 +1221,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-24-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.19.1: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-24-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-24-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -1246,7 +1253,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-24-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -1323,12 +1330,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-24-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.19.1, <code>previous_release_id</code>=R2026.23, <code>release_id</code>=R2026.24, <code>release_tag</code>=data-v1.19.1</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-24-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.24). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -1383,13 +1390,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-24-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.23"><summary><b>R2026.23</b> — package 1.19.0, 2026-10-10 (<a href="../releases/RELEASE_NOTES_R2026.23.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202623-data-package-1190-2026-10-10">Release notes — R2026.23 (data package 1.19.0, 2026-10-10)</h1>
+<div class="doc"><h2 id="nR2026-23-release-notes-r202623-data-package-1190-2026-10-10">Release notes — R2026.23 (data package 1.19.0, 2026-10-10)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.18.2 (R2026.22, 2026-10-09) → 1.19.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-23-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -1582,7 +1589,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-23-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -1603,7 +1610,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-23-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -1631,7 +1638,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-23-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -1799,12 +1806,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-23-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.19.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-23-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-23-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -1831,7 +1838,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-23-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -1908,7 +1915,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-23-schema-changes">Schema changes</h3>
 <p>New files: <code>gut_relatedness.parquet</code>, <code>gut_relations.parquet</code>
 Removed files: none</p>
 <table>
@@ -1933,7 +1940,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.19.0, <code>previous_release_id</code>=R2026.22, <code>release_id</code>=R2026.23, <code>release_tag</code>=data-v1.19.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-23-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.23). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -1988,13 +1995,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-23-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.22"><summary><b>R2026.22</b> — package 1.18.2, 2026-10-09 (<a href="../releases/RELEASE_NOTES_R2026.22.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202622-data-package-1182-2026-10-09">Release notes — R2026.22 (data package 1.18.2, 2026-10-09)</h1>
+<div class="doc"><h2 id="nR2026-22-release-notes-r202622-data-package-1182-2026-10-09">Release notes — R2026.22 (data package 1.18.2, 2026-10-09)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.18.1 (R2026.21, 2026-10-09) → 1.18.2. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-22-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -2187,7 +2194,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-22-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -2208,7 +2215,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-22-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -2236,7 +2243,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-22-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -2404,12 +2411,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-22-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.18.2: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-22-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-22-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -2436,7 +2443,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-22-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -2513,7 +2520,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-22-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <table>
@@ -2533,7 +2540,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.18.2, <code>previous_release_id</code>=R2026.21, <code>release_id</code>=R2026.22, <code>release_tag</code>=data-v1.18.2</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-22-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.22). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -2588,13 +2595,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-22-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.21"><summary><b>R2026.21</b> — package 1.18.1, 2026-10-09 (<a href="../releases/RELEASE_NOTES_R2026.21.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202621-data-package-1181-2026-10-09">Release notes — R2026.21 (data package 1.18.1, 2026-10-09)</h1>
+<div class="doc"><h2 id="nR2026-21-release-notes-r202621-data-package-1181-2026-10-09">Release notes — R2026.21 (data package 1.18.1, 2026-10-09)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.18.0 (R2026.20, 2026-10-09) → 1.18.1. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-21-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -2787,7 +2794,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-21-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -2808,7 +2815,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-21-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -2836,7 +2843,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-21-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -3004,12 +3011,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-21-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.18.1: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-21-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-21-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -3036,7 +3043,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-21-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -3113,12 +3120,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-21-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.18.1, <code>previous_release_id</code>=R2026.20, <code>release_id</code>=R2026.21, <code>release_tag</code>=data-v1.18.1</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-21-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.21). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -3173,13 +3180,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-21-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.20"><summary><b>R2026.20</b> — package 1.18.0, 2026-10-09 (<a href="../releases/RELEASE_NOTES_R2026.20.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202620-data-package-1180-2026-10-09">Release notes — R2026.20 (data package 1.18.0, 2026-10-09)</h1>
+<div class="doc"><h2 id="nR2026-20-release-notes-r202620-data-package-1180-2026-10-09">Release notes — R2026.20 (data package 1.18.0, 2026-10-09)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.17.1 (R2026.19, 2026-10-09) → 1.18.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-20-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -3373,7 +3380,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>New catalog studies: PRJDB2800, PRJDB8879, PRJEB38742, PRJEB44907, PRJEB47736, PRJEB50505, PRJEB58879, PRJEB60692, PRJEB62678, PRJEB63587, PRJEB66487, PRJEB74035, PRJEB75353, PRJEB75807, PRJEB76399, PRJEB86785, PRJEB86881, PRJNA1064103, PRJNA1079071, PRJNA1082417, PRJNA1088910, PRJNA1125836, PRJNA1145114, PRJNA1192252, PRJNA1277853, PRJNA1372070, PRJNA1372073, PRJNA1423207, PRJNA256106, PRJNA302832, PRJNA308867, PRJNA317435, PRJNA336061, PRJNA413199, PRJNA413356, PRJNA427187, PRJNA504921, PRJNA588514, PRJNA648796, PRJNA648797, PRJNA665061, PRJNA715245, PRJNA730689, PRJNA734321, PRJNA790678, PRJNA825696, PRJNA877820, PRJNA879122, PRJNA881338, PRJNA898150, PRJNA912122, PRJNA939268, PRJNA944553</p>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-20-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -3394,7 +3401,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-20-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -3422,7 +3429,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-20-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -3590,12 +3597,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-20-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.18.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-20-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-20-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -3622,7 +3629,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-20-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -3699,12 +3706,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-20-schema-changes">Schema changes</h3>
 <p>New files: <code>gut_sandpiper_study_panels.parquet</code>
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.18.0, <code>previous_release_id</code>=R2026.19, <code>release_id</code>=R2026.20, <code>release_tag</code>=data-v1.18.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-20-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.20). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -3759,13 +3766,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-20-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.19"><summary><b>R2026.19</b> — package 1.17.1, 2026-10-09 (<a href="../releases/RELEASE_NOTES_R2026.19.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202619-data-package-1171-2026-10-09">Release notes — R2026.19 (data package 1.17.1, 2026-10-09)</h1>
+<div class="doc"><h2 id="nR2026-19-release-notes-r202619-data-package-1171-2026-10-09">Release notes — R2026.19 (data package 1.17.1, 2026-10-09)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.17.0 (R2026.18, 2026-10-09) → 1.17.1. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-19-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -3958,7 +3965,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-19-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -3979,7 +3986,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-19-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -4007,7 +4014,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-19-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -4175,12 +4182,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-19-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.17.1: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-19-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
 <p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-19-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -4207,7 +4214,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-19-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -4284,7 +4291,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-19-schema-changes">Schema changes</h3>
 <p>New files: <code>APPLY_FINDINGS_DIFF.md</code>, <code>apply_findings_log.csv</code>, <code>confirmations.parquet</code>, <code>sample_metadata_wide_excluded_by_review.parquet</code>
 Removed files: none</p>
 <table>
@@ -4314,7 +4321,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.17.1, <code>previous_release_id</code>=R2026.18, <code>release_id</code>=R2026.19, <code>release_tag</code>=data-v1.17.1</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-19-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.19). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -4369,13 +4376,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-19-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.18"><summary><b>R2026.18</b> — package 1.17.0, 2026-10-09 (<a href="../releases/RELEASE_NOTES_R2026.18.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202618-data-package-1170-2026-10-09">Release notes — R2026.18 (data package 1.17.0, 2026-10-09)</h1>
+<div class="doc"><h2 id="nR2026-18-release-notes-r202618-data-package-1170-2026-10-09">Release notes — R2026.18 (data package 1.17.0, 2026-10-09)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.16.0 (R2026.17, 2026-10-08) → 1.17.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-18-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -4568,7 +4575,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-18-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -4589,7 +4596,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-18-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -4617,7 +4624,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-18-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -4785,11 +4792,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-18-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.17.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-18-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-18-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -4816,7 +4823,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-18-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -4893,7 +4900,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-18-schema-changes">Schema changes</h3>
 <p>New files: <code>RELEASE_NOTES_R2026.18.md</code>
 Removed files: none</p>
 <table>
@@ -4913,7 +4920,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.17.0, <code>previous_release_id</code>=R2026.17, <code>release_id</code>=R2026.18, <code>release_tag</code>=data-v1.17.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-18-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.18). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -4968,13 +4975,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-18-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.17"><summary><b>R2026.17</b> — package 1.16.0, 2026-10-08 (<a href="../releases/RELEASE_NOTES_R2026.17.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202617-data-package-1160-2026-10-08">Release notes — R2026.17 (data package 1.16.0, 2026-10-08)</h1>
+<div class="doc"><h2 id="nR2026-17-release-notes-r202617-data-package-1160-2026-10-08">Release notes — R2026.17 (data package 1.16.0, 2026-10-08)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.15.0 (R2026.16, 2026-10-08) → 1.16.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-17-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -5168,7 +5175,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>New catalog studies: PRJEB6358, PRJNA1441102, PRJNA1501268, PRJNA783956, PRJNA804967, PRJNA895415</p>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-17-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -5189,7 +5196,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-17-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -5217,7 +5224,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-17-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -5385,11 +5392,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-17-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.16.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-17-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-17-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -5416,7 +5423,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-17-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -5493,12 +5500,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-17-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.16.0, <code>previous_release_id</code>=R2026.16, <code>release_id</code>=R2026.17, <code>release_tag</code>=data-v1.16.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-17-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.17). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -5553,13 +5560,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-17-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: ≈ 3.1 M billable tokens (3 registry reclass leaves 2.08 M; infant R4 0.74 M; infant R1 0.26 M utility; host audit and new-study harvest small) (docs/CYCLE_LOG.md row <code>R2026.17</code>)</p></div></details>
 
 <details id="notes-R2026.16"><summary><b>R2026.16</b> — package 1.15.0, 2026-10-08 (<a href="../releases/RELEASE_NOTES_R2026.16.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202616-data-package-1150-2026-10-08">Release notes — R2026.16 (data package 1.15.0, 2026-10-08)</h1>
+<div class="doc"><h2 id="nR2026-16-release-notes-r202616-data-package-1150-2026-10-08">Release notes — R2026.16 (data package 1.15.0, 2026-10-08)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.14.0 (R2026.15, 2026-10-01) → 1.15.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-16-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -5752,7 +5759,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-16-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -5773,7 +5780,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-16-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -5801,7 +5808,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-16-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -5969,11 +5976,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-16-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.15.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-16-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-16-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -6000,7 +6007,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-16-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -6077,7 +6084,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-16-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <table>
@@ -6107,7 +6114,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.15.0, <code>previous_release_id</code>=R2026.15, <code>release_id</code>=R2026.16, <code>release_tag</code>=data-v1.15.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-16-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.16). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -6162,13 +6169,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-16-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.15"><summary><b>R2026.15</b> — package 1.14.0, 2026-10-01 (<a href="../releases/RELEASE_NOTES_R2026.15.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202615-data-package-1140-2026-10-01">Release notes — R2026.15 (data package 1.14.0, 2026-10-01)</h1>
+<div class="doc"><h2 id="nR2026-15-release-notes-r202615-data-package-1140-2026-10-01">Release notes — R2026.15 (data package 1.14.0, 2026-10-01)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.13.1 (R2026.14, 2026-10-01) → 1.14.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-15-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -6361,7 +6368,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-15-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -6382,7 +6389,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-15-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -6410,7 +6417,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-15-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -6578,11 +6585,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-15-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.14.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-15-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-15-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -6609,7 +6616,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-15-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -6686,7 +6693,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-15-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <table>
@@ -6711,7 +6718,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.14.0, <code>previous_release_id</code>=R2026.14, <code>release_id</code>=R2026.15, <code>release_tag</code>=data-v1.14.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-15-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.15). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -6766,13 +6773,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-15-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.14"><summary><b>R2026.14</b> — package 1.13.1, 2026-10-01 (<a href="../releases/RELEASE_NOTES_R2026.14.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202614-data-package-1131-2026-10-01">Release notes — R2026.14 (data package 1.13.1, 2026-10-01)</h1>
+<div class="doc"><h2 id="nR2026-14-release-notes-r202614-data-package-1131-2026-10-01">Release notes — R2026.14 (data package 1.13.1, 2026-10-01)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.13.0 (R2026.13, 2026-09-30) → 1.13.1. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-14-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -6949,7 +6956,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-14-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -6970,7 +6977,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-14-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -6998,7 +7005,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-14-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -7166,11 +7173,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-14-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.13.1: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-14-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-14-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -7197,7 +7204,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-14-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -7274,12 +7281,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-14-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.13.1, <code>previous_release_id</code>=R2026.13, <code>release_id</code>=R2026.14, <code>release_tag</code>=data-v1.13.1</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-14-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.14). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -7334,13 +7341,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-14-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.13"><summary><b>R2026.13</b> — package 1.13.0, 2026-09-30 (<a href="../releases/RELEASE_NOTES_R2026.13.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202613-data-package-1130-2026-09-30">Release notes — R2026.13 (data package 1.13.0, 2026-09-30)</h1>
+<div class="doc"><h2 id="nR2026-13-release-notes-r202613-data-package-1130-2026-09-30">Release notes — R2026.13 (data package 1.13.0, 2026-09-30)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.12.0 (R2026.12, 2026-09-29) → 1.13.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-13-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -7518,7 +7525,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>New catalog studies: PRJDB14272, PRJDB43252, PRJDB43571, PRJEB120967, PRJEB120968, PRJEB120969, PRJEB19677, PRJEB81819, PRJEB87798, PRJEB91792, PRJEB96943, PRJNA1036657, PRJNA1045701, PRJNA1144402, PRJNA1165510, PRJNA1219549, PRJNA1221567, PRJNA1242044, PRJNA1251023, PRJNA1273462, PRJNA1295133, PRJNA1295840, PRJNA1297975, PRJNA1306109, PRJNA1333319, PRJNA1358001, PRJNA1368707, PRJNA1377467, PRJNA1391873, PRJNA1394613, PRJNA1401443, PRJNA1454700, PRJNA1457283, PRJNA1457996, PRJNA293986, PRJNA356544, PRJNA566436, PRJNA594824, PRJNA609594, PRJNA715947, PRJNA755511, PRJNA788147, PRJNA971196, PRJNA982264, SRP000287, SRP005975, SRP006081, SRP006764, SRP012035, SRP057027</p>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-13-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -7539,7 +7546,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-13-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -7567,7 +7574,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-13-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -7735,11 +7742,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-13-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.13.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-13-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-13-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -7766,7 +7773,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-13-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -7843,7 +7850,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-13-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <table>
@@ -7868,7 +7875,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.13.0, <code>previous_release_id</code>=R2026.12, <code>release_id</code>=R2026.13, <code>release_tag</code>=data-v1.13.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-13-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.13). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -7923,13 +7930,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-13-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.12"><summary><b>R2026.12</b> — package 1.12.0, 2026-09-29 (<a href="../releases/RELEASE_NOTES_R2026.12.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202612-data-package-1120-2026-09-29">Release notes — R2026.12 (data package 1.12.0, 2026-09-29)</h1>
+<div class="doc"><h2 id="nR2026-12-release-notes-r202612-data-package-1120-2026-09-29">Release notes — R2026.12 (data package 1.12.0, 2026-09-29)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.11.0 (R2026.11, 2026-09-28) → 1.12.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-12-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -8074,7 +8081,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-12-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -8095,7 +8102,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-12-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -8123,7 +8130,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-12-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -8291,11 +8298,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-12-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.12.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-12-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-12-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -8322,7 +8329,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-12-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -8399,7 +8406,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-12-schema-changes">Schema changes</h3>
 <p>New files: <code>GUT_SANDPIPER_REPORT.md</code>, <code>gut_runs.parquet</code>, <code>gut_sample_determinations_conflicts.parquet</code>, <code>gut_sandpiper_pca_loadings.parquet</code>, <code>gut_sandpiper_pca_scores.parquet</code>, <code>gut_sandpiper_pca_variance.csv</code>, <code>gut_sandpiper_sample_summary.parquet</code>, <code>gut_sandpiper_study_coverage.csv</code>
 Removed files: none</p>
 <table>
@@ -8424,7 +8431,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.12.0, <code>previous_release_id</code>=R2026.11, <code>release_id</code>=R2026.12, <code>release_tag</code>=data-v1.12.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-12-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.12). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -8479,13 +8486,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-12-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.11"><summary><b>R2026.11</b> — package 1.11.0, 2026-09-28 (<a href="../releases/RELEASE_NOTES_R2026.11.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202611-data-package-1110-2026-09-28">Release notes — R2026.11 (data package 1.11.0, 2026-09-28)</h1>
+<div class="doc"><h2 id="nR2026-11-release-notes-r202611-data-package-1110-2026-09-28">Release notes — R2026.11 (data package 1.11.0, 2026-09-28)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.10.1 (R2026.10, 2026-09-28) → 1.11.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-11-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -8599,7 +8606,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-11-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -8620,7 +8627,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-11-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -8648,7 +8655,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-11-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -8816,11 +8823,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-11-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.11.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-11-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-11-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -8847,7 +8854,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-11-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -8924,12 +8931,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-11-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.11.0, <code>previous_release_id</code>=R2026.10, <code>release_id</code>=R2026.11, <code>release_tag</code>=data-v1.11.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-11-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.11). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -8984,13 +8991,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-11-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.10"><summary><b>R2026.10</b> — package 1.10.1, 2026-09-28 (<a href="../releases/RELEASE_NOTES_R2026.10.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r202610-data-package-1101-2026-09-28">Release notes — R2026.10 (data package 1.10.1, 2026-09-28)</h1>
+<div class="doc"><h2 id="nR2026-10-release-notes-r202610-data-package-1101-2026-09-28">Release notes — R2026.10 (data package 1.10.1, 2026-09-28)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.10.0 (R2026.9, 2026-09-28) → 1.10.1. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-10-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -9104,7 +9111,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-10-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -9125,7 +9132,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-10-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -9153,7 +9160,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-10-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -9321,11 +9328,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-10-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.10.1: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-10-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-10-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -9352,7 +9359,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-10-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -9429,12 +9436,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-10-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.10.1, <code>previous_release_id</code>=R2026.9, <code>release_id</code>=R2026.10, <code>release_tag</code>=data-v1.10.1</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-10-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.10). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -9489,13 +9496,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-10-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.9"><summary><b>R2026.9</b> — package 1.10.0, 2026-09-28 (<a href="../releases/RELEASE_NOTES_R2026.9.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20269-data-package-1100-2026-09-28">Release notes — R2026.9 (data package 1.10.0, 2026-09-28)</h1>
+<div class="doc"><h2 id="nR2026-9-release-notes-r20269-data-package-1100-2026-09-28">Release notes — R2026.9 (data package 1.10.0, 2026-09-28)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.9.0 (R2026.8, 2026-09-28) → 1.10.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h2>
+<h3 id="nR2026-9-catalog-human-gut-all-ages-gut_-tables">Catalog (human gut, all ages: <code>gut_*</code> tables)</h3>
 <table>
 <thead>
 <tr>
@@ -9609,7 +9616,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="registry-registry_studies">Registry (<code>registry_studies</code>)</h2>
+<h3 id="nR2026-9-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
 <table>
 <thead>
 <tr>
@@ -9630,7 +9637,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-studies-and-samples">Infant extension: studies and samples</h2>
+<h3 id="nR2026-9-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -9658,7 +9665,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-9-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -9826,11 +9833,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-9-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.10.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-9-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-9-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -9857,7 +9864,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-9-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -9934,12 +9941,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-9-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.10.0, <code>previous_release_id</code>=R2026.8, <code>release_id</code>=R2026.9, <code>release_tag</code>=data-v1.10.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-9-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.9). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -9994,13 +10001,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-9-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.8"><summary><b>R2026.8</b> — package 1.9.0, 2026-09-28 (<a href="../releases/RELEASE_NOTES_R2026.8.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20268-data-package-190-2026-09-28">Release notes — R2026.8 (data package 1.9.0, 2026-09-28)</h1>
+<div class="doc"><h2 id="nR2026-8-release-notes-r20268-data-package-190-2026-09-28">Release notes — R2026.8 (data package 1.9.0, 2026-09-28)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.8.0 (R2026.7, 2026-09-28) → 1.9.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-8-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -10028,7 +10035,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-8-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -10196,11 +10203,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-8-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.9.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-8-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-8-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -10227,7 +10234,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-8-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -10304,12 +10311,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-8-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.9.0, <code>previous_release_id</code>=R2026.7, <code>release_id</code>=R2026.8, <code>release_tag</code>=data-v1.9.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-8-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.8). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -10364,13 +10371,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-8-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.7"><summary><b>R2026.7</b> — package 1.8.0, 2026-09-28 (<a href="../releases/RELEASE_NOTES_R2026.7.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20267-data-package-180-2026-09-28">Release notes — R2026.7 (data package 1.8.0, 2026-09-28)</h1>
+<div class="doc"><h2 id="nR2026-7-release-notes-r20267-data-package-180-2026-09-28">Release notes — R2026.7 (data package 1.8.0, 2026-09-28)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.7.1 (R2026.6, 2026-09-28) → 1.8.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-7-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -10398,7 +10405,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-7-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -10566,11 +10573,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-7-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.8.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-7-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-7-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -10597,7 +10604,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-7-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -10674,12 +10681,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-7-schema-changes">Schema changes</h3>
 <p>New files: <code>gut_sample_determinations.parquet</code>, <code>gut_sample_metadata_wide.parquet</code>, <code>gut_studies.parquet</code>
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.8.0, <code>previous_release_id</code>=R2026.6, <code>release_id</code>=R2026.7, <code>release_tag</code>=data-v1.8.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-7-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.7). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -10734,13 +10741,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-7-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.6"><summary><b>R2026.6</b> — package 1.7.1, 2026-09-28 (<a href="../releases/RELEASE_NOTES_R2026.6.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20266-data-package-171-2026-09-28">Release notes — R2026.6 (data package 1.7.1, 2026-09-28)</h1>
+<div class="doc"><h2 id="nR2026-6-release-notes-r20266-data-package-171-2026-09-28">Release notes — R2026.6 (data package 1.7.1, 2026-09-28)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.7.0 (R2026.5, 2026-09-27) → 1.7.1. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-6-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -10768,7 +10775,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-6-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -10936,11 +10943,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-6-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.7.1: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-6-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-6-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -10967,7 +10974,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-6-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -11044,7 +11051,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-6-schema-changes">Schema changes</h3>
 <p>New files: none
 Removed files: none</p>
 <table>
@@ -11064,7 +11071,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.7.1, <code>previous_release_id</code>=R2026.5, <code>release_id</code>=R2026.6, <code>release_tag</code>=data-v1.7.1</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-6-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.6). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -11119,13 +11126,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-6-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.5"><summary><b>R2026.5</b> — package 1.7.0, 2026-09-27 (<a href="../releases/RELEASE_NOTES_R2026.5.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20265-data-package-170-2026-09-27">Release notes — R2026.5 (data package 1.7.0, 2026-09-27)</h1>
+<div class="doc"><h2 id="nR2026-5-release-notes-r20265-data-package-170-2026-09-27">Release notes — R2026.5 (data package 1.7.0, 2026-09-27)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.6.0 (R2026.4, 2026-09-27) → 1.7.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-5-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -11153,7 +11160,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-5-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -11321,11 +11328,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-5-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.7.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-5-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-5-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -11352,7 +11359,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-5-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -11429,7 +11436,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-5-schema-changes">Schema changes</h3>
 <p>New files: <code>registry_authors.parquet</code>, <code>registry_bioproject_records.parquet</code>, <code>registry_biosamples.parquet</code>, <code>registry_study_papers.parquet</code>
 Removed files: none</p>
 <table>
@@ -11449,7 +11456,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.7.0, <code>previous_release_id</code>=R2026.4, <code>release_id</code>=R2026.5, <code>release_tag</code>=data-v1.7.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-5-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.5). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -11504,13 +11511,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-5-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.4"><summary><b>R2026.4</b> — package 1.6.0, 2026-09-27 (<a href="../releases/RELEASE_NOTES_R2026.4.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20264-data-package-160-2026-09-27">Release notes — R2026.4 (data package 1.6.0, 2026-09-27)</h1>
+<div class="doc"><h2 id="nR2026-4-release-notes-r20264-data-package-160-2026-09-27">Release notes — R2026.4 (data package 1.6.0, 2026-09-27)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.5.0 (R2026.3, 2026-09-27) → 1.6.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-4-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -11538,7 +11545,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-4-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -11706,11 +11713,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-4-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.6.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-4-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-4-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -11737,7 +11744,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-4-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -11814,12 +11821,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-4-schema-changes">Schema changes</h3>
 <p>New files: <code>REGISTRY_REPORT.md</code>, <code>registry_studies.parquet</code>, <code>registry_universe_audit.csv</code>
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.6.0, <code>previous_release_id</code>=R2026.3, <code>release_id</code>=R2026.4, <code>release_tag</code>=data-v1.6.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-4-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.4). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -11874,13 +11881,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-4-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.3"><summary><b>R2026.3</b> — package 1.5.0, 2026-09-27 (<a href="../releases/RELEASE_NOTES_R2026.3.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20263-data-package-150-2026-09-27">Release notes — R2026.3 (data package 1.5.0, 2026-09-27)</h1>
+<div class="doc"><h2 id="nR2026-3-release-notes-r20263-data-package-150-2026-09-27">Release notes — R2026.3 (data package 1.5.0, 2026-09-27)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.4.0 (R2026.2, 2026-09-27) → 1.5.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-3-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -11908,7 +11915,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-3-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -12076,11 +12083,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-3-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,581 → 9,581 studies; verdict distribution 1.5.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-3-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-3-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -12107,7 +12114,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-3-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -12184,7 +12191,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-3-schema-changes">Schema changes</h3>
 <p>New files: <code>APPLY_GAPFILL_PRJNA1140720.json</code>
 Removed files: none</p>
 <table>
@@ -12204,7 +12211,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.5.0, <code>previous_release_id</code>=R2026.2, <code>release_id</code>=R2026.3, <code>release_tag</code>=data-v1.5.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-3-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.3). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -12259,13 +12266,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-3-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: 0 curation tokens; agent work: 2 leaf frames (worklist data ≈ 31 min, contribute site ≈ 28 min) + gap-fill leaf ≈ 50 min; root ≈ 2 h (docs/CYCLE_LOG.md row <code>R2026.2</code>)</p></div></details>
 
 <details id="notes-R2026.2"><summary><b>R2026.2</b> — package 1.4.0, 2026-09-27 (<a href="../releases/RELEASE_NOTES_R2026.2.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20262-data-package-140-2026-09-27">Release notes — R2026.2 (data package 1.4.0, 2026-09-27)</h1>
+<div class="doc"><h2 id="nR2026-2-release-notes-r20262-data-package-140-2026-09-27">Release notes — R2026.2 (data package 1.4.0, 2026-09-27)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.3.0 (R2026.1, 2026-09-26) → 1.4.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-2-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -12293,7 +12300,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-2-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -12461,7 +12468,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-2-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,579 → 9,581 studies; verdict distribution 1.4.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 2 studies new to the universe, 0 removed.</p>
 <table>
 <thead>
@@ -12484,9 +12491,9 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-2-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-2-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -12513,7 +12520,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-2-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -12590,12 +12597,12 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-2-schema-changes">Schema changes</h3>
 <p>New files: <code>contribute_worklist.csv</code>, <code>contribute_worklist_fields.csv</code>
 Removed files: none</p>
 <p>No column changes in tables present in both packages.</p>
 <p>VERSION.json: <code>package_version</code>=1.4.0, <code>previous_release_id</code>=R2026.1, <code>release_id</code>=R2026.2, <code>release_tag</code>=data-v1.4.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-2-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 618,898 current + 1,316 retired rows (0 retired in R2026.2). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -12646,13 +12653,13 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-2-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 <details id="notes-R2026.1"><summary><b>R2026.1</b> — package 1.3.0, 2026-09-26 (<a href="../releases/RELEASE_NOTES_R2026.1.md">markdown</a>)</summary>
-<div class="doc"><h1 id="release-notes-r20261-data-package-130-2026-09-26">Release notes — R2026.1 (data package 1.3.0, 2026-09-26)</h1>
+<div class="doc"><h2 id="nR2026-1-release-notes-r20261-data-package-130-2026-09-26">Release notes — R2026.1 (data package 1.3.0, 2026-09-26)</h2>
 <p>Generated by <code>catalog.release.release_notes</code> from package 1.2.2 (1.2.2, 2026-09-26) → 1.3.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
-<h2 id="studies-and-samples">Studies and samples</h2>
+<h3 id="nR2026-1-studies-and-samples">Studies and samples</h3>
 <table>
 <thead>
 <tr>
@@ -12680,7 +12687,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h2>
+<h3 id="nR2026-1-per-field-coverage-on-catalog_scope">Per-field coverage on <code>catalog_scope</code></h3>
 <p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,358 → 72,358); field list from <code>field_coverage_summary.csv</code>.</p>
 <table>
 <thead>
@@ -12848,11 +12855,11 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h2>
+<h3 id="nR2026-1-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
 <p>Universe 9,579 → 9,579 studies; verdict distribution 1.3.0: exclude 9,138, include 389, uncertain 52. <strong>0 flips.</strong></p>
-<h2 id="findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h2>
+<h3 id="nR2026-1-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
 <p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
-<h2 id="sandpiper-snapshot">Sandpiper snapshot</h2>
+<h3 id="nR2026-1-sandpiper-snapshot">Sandpiper snapshot</h3>
 <table>
 <thead>
 <tr>
@@ -12879,7 +12886,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h2>
+<h3 id="nR2026-1-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
 <table>
 <thead>
 <tr>
@@ -12956,7 +12963,7 @@ Removed files: none</p>
 </tr>
 </tbody>
 </table>
-<h2 id="schema-changes">Schema changes</h2>
+<h3 id="nR2026-1-schema-changes">Schema changes</h3>
 <p>New files: <code>bitemporal_log.json</code>, <code>releases.csv</code>, <code>sample_determinations_all.parquet</code>
 Removed files: none</p>
 <table>
@@ -13021,7 +13028,7 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>VERSION.json: <code>package_version</code>=1.3.0, <code>previous_release_id</code>=1.2.2, <code>release_id</code>=R2026.1, <code>release_tag</code>=data-v1.3.0</p>
-<h2 id="bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h2>
+<h3 id="nR2026-1-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
 <p><code>sample_determinations_all.parquet</code>: 618,898 current + 1,316 retired rows (0 retired in R2026.1). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
 <table>
 <thead>
@@ -13072,14 +13079,16 @@ Removed files: none</p>
 </tbody>
 </table>
 <p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
-<h2 id="token-cost">Token cost</h2>
+<h3 id="nR2026-1-token-cost">Token cost</h3>
 <p>LLM tokens this cycle: not recorded</p></div></details>
 
 
 </main>
-<footer>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
 <div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.25"><span class="mono">R2026.25</span></a> · package <span class="mono">1.20.0</span> · build <span class="mono">654f5f4</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.25.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
 <div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+<div class="cu-footer"><script src="https://cdn.colorado.edu/static/brand-assets/live/js/footer.js" id="ucb-footer-embed" data-color="black"></script><noscript><div class="ucb-footer"><p><a class="ucb-home-link" href="https://www.colorado.edu">University of Colorado Boulder</a></p><p>&copy; Regents of the University of Colorado</p><p class="ucb-footer-links"><a href="https://www.colorado.edu/about/privacy-statement">Privacy</a> &bull; <a href="https://www.colorado.edu/about/legal-trademarks">Legal &amp; Trademarks</a> &bull; <a href="https://www.colorado.edu/map">Campus Map</a></p></div></noscript></div>
 </footer>
 
 
