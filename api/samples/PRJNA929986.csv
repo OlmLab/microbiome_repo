@@ -1,0 +1,187 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN32978869,PRJNA929986,101A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-10,primary,1.0,0.917
+SAMN32978925,PRJNA929986,101A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-03-30,primary,1.0,0.534
+SAMN32978983,PRJNA929986,101A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-19,primary,1.0,0.868
+SAMN32978870,PRJNA929986,101B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-09,primary,1.0,0.848
+SAMN32978926,PRJNA929986,101B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-03-30,primary,1.0,0.705
+SAMN32978984,PRJNA929986,101B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-19,primary,1.0,0.761
+SAMN32978900,PRJNA929986,102A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-16,primary,1.0,1.164
+SAMN32978955,PRJNA929986,102A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-03-30,primary,1.0,0.829
+SAMN32979013,PRJNA929986,102A,30,child,,male,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.947
+SAMN32978871,PRJNA929986,103A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-12,primary,1.0,0.561
+SAMN32978927,PRJNA929986,103A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-03-27,primary,1.0,0.837
+SAMN32978985,PRJNA929986,103A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-04-16,primary,1.0,0.777
+SAMN32978901,PRJNA929986,104A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-03-17,primary,1.0,0.663
+SAMN32978956,PRJNA929986,104A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-03-28,primary,1.0,0.782
+SAMN32979014,PRJNA929986,104A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-04-17,primary,1.0,0.879
+SAMN32978902,PRJNA929986,104B,0,child,,female,US,healthy_control,healthy participants,,,no,2013-03-17,primary,1.0,0.686
+SAMN32978957,PRJNA929986,104B,10,child,,female,US,healthy_control,healthy participants,,,no,2013-03-28,primary,1.0,0.803
+SAMN32979015,PRJNA929986,104B,30,child,,female,US,healthy_control,healthy participants,,,no,2013-04-16,primary,1.0,0.966
+SAMN32978903,PRJNA929986,105A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-18,primary,1.0,0.878
+SAMN32978958,PRJNA929986,105A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-03-28,primary,1.0,0.857
+SAMN32979016,PRJNA929986,105A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-04-22,primary,1.0,0.751
+SAMN32978904,PRJNA929986,105B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-18,primary,1.0,0.809
+SAMN32978959,PRJNA929986,105B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-03-27,primary,1.0,0.833
+SAMN32979017,PRJNA929986,105B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-04-16,primary,1.0,1.458
+SAMN32978905,PRJNA929986,106A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-03-18,primary,1.0,0.873
+SAMN32978960,PRJNA929986,106A,10,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.797
+SAMN32979018,PRJNA929986,106A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-04-19,primary,1.0,0.875
+SAMN32978906,PRJNA929986,107A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-22,primary,1.0,0.661
+SAMN32978961,PRJNA929986,107A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.699
+SAMN32979019,PRJNA929986,107A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-03,primary,1.0,0.799
+SAMN32978872,PRJNA929986,108A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-04-02,primary,1.0,0.748
+SAMN32978928,PRJNA929986,108A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-04-13,primary,1.0,0.947
+SAMN32978986,PRJNA929986,108A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-03,primary,1.0,0.713
+SAMN32978873,PRJNA929986,109A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-03-25,primary,1.0,0.826
+SAMN32978929,PRJNA929986,109A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.728
+SAMN32978987,PRJNA929986,109A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-05-03,primary,1.0,1.246
+SAMN32978874,PRJNA929986,110A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-30,primary,1.0,0.781
+SAMN32978988,PRJNA929986,110A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-09,primary,1.0,0.792
+SAMN32978875,PRJNA929986,111A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-03-17,primary,1.0,0.646
+SAMN32978930,PRJNA929986,111A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.788
+SAMN32978989,PRJNA929986,111A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-11,primary,1.0,0.825
+SAMN32978907,PRJNA929986,112A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.731
+SAMN32978962,PRJNA929986,112A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-04-24,primary,1.0,0.887
+SAMN32979020,PRJNA929986,112A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-14,primary,1.0,1.114
+SAMN32978908,PRJNA929986,113A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-04-04,primary,1.0,1.614
+SAMN32978963,PRJNA929986,113A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.798
+SAMN32979021,PRJNA929986,113A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-05-06,primary,1.0,0.972
+SAMN32978876,PRJNA929986,114A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-04-05,primary,1.0,0.822
+SAMN32978931,PRJNA929986,114A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.815
+SAMN32978990,PRJNA929986,114A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-05-05,primary,1.0,0.974
+SAMN32978877,PRJNA929986,114B,0,child,,female,US,healthy_control,healthy participants,,,no,2013-04-04,primary,1.0,0.783
+SAMN32978932,PRJNA929986,114B,10,child,,female,US,healthy_control,healthy participants,,,no,2013-04-14,primary,1.0,0.8
+SAMN32978991,PRJNA929986,114B,30,child,,female,US,healthy_control,healthy participants,,,no,2013-05-04,primary,1.0,0.959
+SAMN32978909,PRJNA929986,115A,0,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.797
+SAMN32978964,PRJNA929986,115A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-04-25,primary,1.0,0.812
+SAMN32979022,PRJNA929986,115A,30,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.79
+SAMN32978878,PRJNA929986,116A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-05-04,primary,1.0,0.718
+SAMN32978933,PRJNA929986,116A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-05-16,primary,1.0,0.846
+SAMN32978992,PRJNA929986,116A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-06-08,primary,1.0,0.75
+SAMN32978879,PRJNA929986,116B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-05-04,primary,1.0,0.886
+SAMN32978934,PRJNA929986,116B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-05-16,primary,1.0,0.716
+SAMN32978993,PRJNA929986,116B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-06-25,primary,1.0,0.981
+SAMN32978880,PRJNA929986,117A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-05-10,primary,1.0,0.788
+SAMN32978935,PRJNA929986,117A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-05-10,primary,1.0,0.787
+SAMN32978881,PRJNA929986,118A,0,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.706
+SAMN32978936,PRJNA929986,118A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-05-10,primary,1.0,0.684
+SAMN32978994,PRJNA929986,118A,30,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.746
+SAMN32978882,PRJNA929986,119A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-04-18,primary,1.0,0.849
+SAMN32978937,PRJNA929986,119A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-04-28,primary,1.0,0.835
+SAMN32978995,PRJNA929986,119A,30,child,,male,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.842
+SAMN32978965,PRJNA929986,120A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-05-13,primary,1.0,0.729
+SAMN32979023,PRJNA929986,120A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-06-01,primary,1.0,0.849
+SAMN32979024,PRJNA929986,121A,30,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.997
+SAMN32978910,PRJNA929986,122A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-05-26,primary,1.0,0.69
+SAMN32978966,PRJNA929986,122A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-06-09,primary,1.0,0.772
+SAMN32979025,PRJNA929986,122A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-06-29,primary,1.0,0.78
+SAMN32978911,PRJNA929986,122B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-05-25,primary,1.0,0.869
+SAMN32978967,PRJNA929986,122B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-06-09,primary,1.0,0.795
+SAMN32979026,PRJNA929986,122B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-06-29,primary,1.0,0.788
+SAMN32978912,PRJNA929986,123A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-05-25,primary,1.0,0.892
+SAMN32978968,PRJNA929986,123A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-10-12,primary,1.0,0.826
+SAMN32979027,PRJNA929986,123A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-10-31,primary,1.0,0.728
+SAMN32978883,PRJNA929986,124A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-05-26,primary,1.0,0.736
+SAMN32978938,PRJNA929986,124A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-06-06,primary,1.0,0.731
+SAMN32978996,PRJNA929986,124A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-06-27,primary,1.0,0.98
+SAMN32978884,PRJNA929986,125A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-05-25,primary,1.0,0.547
+SAMN32978939,PRJNA929986,125A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-06-06,primary,1.0,0.975
+SAMN32978997,PRJNA929986,125A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-06-27,primary,1.0,0.859
+SAMN32978885,PRJNA929986,125B,0,child,,female,US,healthy_control,healthy participants,,,no,2013-05-25,primary,1.0,0.554
+SAMN32978940,PRJNA929986,125B,10,child,,female,US,healthy_control,healthy participants,,,no,2013-06-06,primary,1.0,0.839
+SAMN32978998,PRJNA929986,125B,30,child,,female,US,healthy_control,healthy participants,,,no,2013-06-25,primary,1.0,1.032
+SAMN32978886,PRJNA929986,126A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-08-03,primary,1.0,0.91
+SAMN32978941,PRJNA929986,126A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-08-14,primary,1.0,0.768
+SAMN32978999,PRJNA929986,126A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-09-18,primary,1.0,0.814
+SAMN32978923,PRJNA929986,127A,0,child,,,US,healthy_control,healthy participants,,,no,2013-08-14,primary,1.0,0.876
+SAMN32978969,PRJNA929986,127A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-08-23,primary,1.0,0.964
+SAMN32979028,PRJNA929986,127A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-09-12,primary,1.0,0.934
+SAMN32978887,PRJNA929986,128A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-08-14,primary,1.0,0.551
+SAMN32978942,PRJNA929986,128A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-08-25,primary,1.0,0.929
+SAMN32979000,PRJNA929986,128A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-09-13,primary,1.0,1.016
+SAMN32978913,PRJNA929986,129A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-08-12,primary,1.0,0.87
+SAMN32978970,PRJNA929986,129A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-08-22,primary,1.0,0.666
+SAMN32979029,PRJNA929986,129A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-09-11,primary,1.0,0.8
+SAMN32978914,PRJNA929986,130A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-09-16,primary,1.0,0.769
+SAMN32978971,PRJNA929986,130A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-09-27,primary,1.0,0.835
+SAMN32979030,PRJNA929986,130A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-10-19,primary,1.0,0.825
+SAMN32978915,PRJNA929986,130B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-09-16,primary,1.0,0.934
+SAMN32978972,PRJNA929986,130B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-09-26,primary,1.0,0.976
+SAMN32979031,PRJNA929986,130B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-10-16,primary,1.0,0.682
+SAMN32978888,PRJNA929986,131A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-09-23,primary,1.0,0.689
+SAMN32978943,PRJNA929986,131A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-10-24,primary,1.0,0.777
+SAMN32979001,PRJNA929986,131A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-10-24,primary,1.0,0.749
+SAMN32978889,PRJNA929986,131B,0,child,,female,US,healthy_control,healthy participants,,,no,2013-04-23,primary,1.0,0.738
+SAMN32978944,PRJNA929986,131B,10,child,,female,US,healthy_control,healthy participants,,,no,2013-10-14,primary,1.0,0.725
+SAMN32979002,PRJNA929986,131B,30,child,,female,US,healthy_control,healthy participants,,,no,2013-10-24,primary,1.0,0.853
+SAMN32978916,PRJNA929986,133A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-09-09,primary,1.0,1.142
+SAMN32978973,PRJNA929986,133A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-10-11,primary,1.0,0.867
+SAMN32978924,PRJNA929986,134A,0,child,,,US,healthy_control,healthy participants,,,no,2013-09-14,primary,1.0,0.859
+SAMN32978974,PRJNA929986,134A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-09-27,primary,1.0,0.996
+SAMN32979032,PRJNA929986,134A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-10-18,primary,1.0,0.657
+SAMN32978917,PRJNA929986,134B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-10-13,primary,1.0,0.925
+SAMN32978975,PRJNA929986,134B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-09-27,primary,1.0,0.861
+SAMN32979033,PRJNA929986,134B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-10-17,primary,1.0,0.699
+SAMN32978890,PRJNA929986,135A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-09-10,primary,1.0,0.834
+SAMN32978945,PRJNA929986,135A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-09-20,primary,1.0,0.881
+SAMN32979003,PRJNA929986,135A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-10-12,primary,1.0,0.814
+SAMN32978891,PRJNA929986,136A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-10-02,primary,1.0,0.787
+SAMN32978946,PRJNA929986,136A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-11-04,primary,1.0,0.887
+SAMN32979004,PRJNA929986,136A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-11-04,primary,1.0,1.233
+SAMN32978892,PRJNA929986,137A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-09-19,primary,1.0,0.693
+SAMN32978947,PRJNA929986,137A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-09-28,primary,1.0,0.934
+SAMN32979005,PRJNA929986,137A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-10-25,primary,1.0,0.652
+SAMN32978893,PRJNA929986,138A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-10-21,primary,1.0,0.82
+SAMN32978948,PRJNA929986,138A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-10-20,primary,1.0,0.852
+SAMN32979006,PRJNA929986,138A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-11-10,primary,1.0,0.788
+SAMN32978894,PRJNA929986,139A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-10-13,primary,1.0,0.799
+SAMN32978949,PRJNA929986,139A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-11-02,primary,1.0,0.789
+SAMN32979007,PRJNA929986,139A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-11-21,primary,1.0,0.958
+SAMN32978895,PRJNA929986,139B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-10-13,primary,1.0,0.892
+SAMN32978950,PRJNA929986,139B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-12-21,primary,1.0,0.716
+SAMN32979008,PRJNA929986,139B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-11-21,primary,1.0,0.907
+SAMN32978918,PRJNA929986,140A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-10-10,primary,1.0,0.864
+SAMN32978976,PRJNA929986,140A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-10-10,primary,1.0,0.773
+SAMN32979034,PRJNA929986,140A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-10-27,primary,1.0,1.093
+SAMN32978896,PRJNA929986,141A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-10-17,primary,1.0,0.701
+SAMN32978951,PRJNA929986,141A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-10-27,primary,1.0,0.912
+SAMN32979009,PRJNA929986,141A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-11-17,primary,1.0,0.829
+SAMN32978977,PRJNA929986,142A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-11-15,primary,1.0,0.697
+SAMN32979035,PRJNA929986,142A,30,child,,male,US,healthy_control,healthy participants,,,no,2013-12-13,primary,1.0,0.781
+SAMN32978978,PRJNA929986,142B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-11-15,primary,1.0,0.576
+SAMN32979036,PRJNA929986,142B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-12-13,primary,1.0,0.857
+SAMN32978919,PRJNA929986,143A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-11-09,primary,1.0,0.909
+SAMN32978979,PRJNA929986,143A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-11-22,primary,1.0,0.801
+SAMN32978897,PRJNA929986,144A,0,child,,female,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.757
+SAMN32978952,PRJNA929986,144A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-11-24,primary,1.0,0.819
+SAMN32979010,PRJNA929986,144A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-12-13,primary,1.0,0.852
+SAMN32978898,PRJNA929986,144B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-01-18,primary,1.0,0.848
+SAMN32978953,PRJNA929986,144B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-11-21,primary,1.0,0.944
+SAMN32979011,PRJNA929986,144B,30,child,,male,US,healthy_control,healthy participants,,,no,2013-12-13,primary,1.0,0.932
+SAMN32978899,PRJNA929986,144C,0,child,,male,US,healthy_control,healthy participants,,,no,2013,primary,1.0,0.847
+SAMN32978954,PRJNA929986,144C,10,child,,male,US,healthy_control,healthy participants,,,no,2013-11-21,primary,1.0,0.94
+SAMN32979012,PRJNA929986,144C,30,child,,male,US,healthy_control,healthy participants,,,no,2013-12-14,primary,1.0,0.997
+SAMN32978920,PRJNA929986,145A,0,child,,female,US,healthy_control,healthy participants,,,no,2013-11-05,primary,1.0,0.822
+SAMN32978980,PRJNA929986,145A,10,child,,female,US,healthy_control,healthy participants,,,no,2013-11-15,primary,1.0,0.901
+SAMN32979037,PRJNA929986,145A,30,child,,female,US,healthy_control,healthy participants,,,no,2013-12-04,primary,1.0,0.7
+SAMN32978921,PRJNA929986,146A,0,child,,male,US,healthy_control,healthy participants,,,no,2013-11-19,primary,1.0,0.833
+SAMN32978981,PRJNA929986,146A,10,child,,male,US,healthy_control,healthy participants,,,no,2013-11-22,primary,1.0,1.058
+SAMN32978922,PRJNA929986,146B,0,child,,male,US,healthy_control,healthy participants,,,no,2013-11-07,primary,1.0,0.791
+SAMN32978982,PRJNA929986,146B,10,child,,male,US,healthy_control,healthy participants,,,no,2013-11-21,primary,1.0,0.742
+SAMN32979038,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979039,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979040,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979041,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979042,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979043,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979044,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.009
+SAMN32979045,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.24
+SAMN32979046,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.029
+SAMN32979047,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.011
+SAMN32979048,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.008
+SAMN32979049,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.0
+SAMN32979050,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.095
+SAMN32979051,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.165
+SAMN32979052,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.158
+SAMN32979053,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.101
+SAMN32979054,PRJNA929986,,,child,,,US,,,,,no,2013,primary,1.0,0.159

@@ -1,0 +1,14 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN61247129,PRJNA1484635,A,1,adult,,,BR,,,,,,2021-01-15,primary,1.0,0.416
+SAMN61247134,PRJNA1484635,A,2,adult,,,BR,,,,,,2021-01-22,primary,1.0,0.418
+SAMN61247130,PRJNA1484635,B,1,adult,,,BR,,,,,,2021-01-16,primary,1.0,0.481
+SAMN61247135,PRJNA1484635,B,2,adult,,,BR,,,,,,2021-01-23,primary,1.0,0.262
+SAMN61247125,PRJNA1484635,B,,adult,,,BR,,,,,,2021-01-07,primary,1.0,0.485
+SAMN61247131,PRJNA1484635,C,1,adult,,,BR,,,,,,2021-01-16,primary,1.0,0.529
+SAMN61247136,PRJNA1484635,C,2,adult,,,BR,,,,,,2021-01-23,primary,1.0,0.444
+SAMN61247132,PRJNA1484635,D,1,adult,,,BR,,,,,,2021-01-17,primary,1.0,0.461
+SAMN61247137,PRJNA1484635,D,2,adult,,,BR,,,,,,2021-01-24,primary,1.0,0.388
+SAMN61247127,PRJNA1484635,D,,adult,,,BR,,,,,,2021-01-07,primary,1.0,0.399
+SAMN61247128,PRJNA1484635,E,,adult,,,BR,,,,,,2021-01-07,primary,1.0,0.344
+SAMN61247126,PRJNA1484635,,,adult,,,BR,,,,,,2021-01-07,primary,2.0,0.484
+SAMN61247138,PRJNA1484635,,,adult,,,BR,,,,,,2021-01-22,primary,2.0,0.88
