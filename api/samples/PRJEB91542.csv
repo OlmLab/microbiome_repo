@@ -1,0 +1,160 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA118750545,PRJEB91542,DRUP01010261,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2020-12-22,primary,1.0,6.603
+SAMEA118750544,PRJEB91542,DRUP01010261,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-10-28,primary,1.0,7.44
+SAMEA118750636,PRJEB91542,DRUP01010339,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,7.061
+SAMEA118750635,PRJEB91542,DRUP01010339,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,yes,2021-10-14,primary,1.0,8.669
+SAMEA118750622,PRJEB91542,DRUP01010341,On-treatment (8 weeks),adult,,,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,no,2021-11-09,primary,1.0,2.941
+SAMEA118750621,PRJEB91542,DRUP01010341,Pre-treatment,adult,,,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-09-16,primary,1.0,6.025
+SAMEA118750566,PRJEB91542,DRUP01020078,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-03-10,primary,1.0,5.646
+SAMEA118750565,PRJEB91542,DRUP01020078,Pre-treatment,adult,,,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-01-14,primary,1.0,7.163
+SAMEA118750570,PRJEB91542,DRUP01020079,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-05-06,primary,1.0,3.241
+SAMEA118750569,PRJEB91542,DRUP01020079,Pre-treatment,adult,,,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-05,primary,1.0,7.415
+SAMEA118750582,PRJEB91542,DRUP01020085,On-treatment (8 weeks),adult,,,NL,other_cancer,CNS,drug_therapy,8 weeks on nivolumab treatment,no,2021-06-17,primary,1.0,5.698
+SAMEA118750581,PRJEB91542,DRUP01020085,Pre-treatment,adult,,,NL,other_cancer,CNS,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-21,primary,1.0,4.549
+SAMEA118750597,PRJEB91542,DRUP01020086,Pre-treatment,adult,,,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,,2021-04-03,primary,1.0,4.876
+SAMEA118750525,PRJEB91542,DRUP01030035,On-treatment (8 weeks),adult,,,NL,other_cancer,Prostate,drug_therapy,8 weeks on nivolumab treatment,no,2020-12-06,primary,1.0,10.751
+SAMEA118750524,PRJEB91542,DRUP01030035,Pre-treatment,adult,,,NL,other_cancer,Prostate,no_intervention,pre-treatment baseline before nivolumab,no,2020-09-30,primary,1.0,3.832
+SAMEA118750500,PRJEB91542,DRUP01030060,On-treatment (8 weeks),adult,,,NL,other_cancer,CNS,drug_therapy,8 weeks on nivolumab treatment,no,2020-10-26,primary,1.0,10.308
+SAMEA118750499,PRJEB91542,DRUP01030060,Pre-treatment,adult,,,NL,other_cancer,CNS,no_intervention,pre-treatment baseline before nivolumab,no,2020-09-03,primary,1.0,11.811
+SAMEA118750501,PRJEB91542,DRUP01030060,Upon progression,adult,,,NL,other_cancer,CNS,drug_therapy,"sample at disease progression, still on nivolumab",,,primary,1.0,8.094
+SAMEA118750542,PRJEB91542,DRUP01030062,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2020-12-16,primary,1.0,7.649
+SAMEA118750541,PRJEB91542,DRUP01030062,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-10-29,primary,1.0,8.806
+SAMEA118750543,PRJEB91542,DRUP01030062,Upon progression,adult,,,NL,other_cancer,Other-GI,drug_therapy,"sample at disease progression, still on nivolumab",no,2021-04-24,primary,1.0,9.304
+SAMEA118750613,PRJEB91542,DRUP01050083,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,4.124
+SAMEA118750612,PRJEB91542,DRUP01050083,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-07-07,primary,1.0,6.997
+SAMEA118750641,PRJEB91542,DRUP01060041,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-12-21,primary,1.0,7.438
+SAMEA118750640,PRJEB91542,DRUP01060041,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-11-26,primary,1.0,5.086
+SAMEA118750533,PRJEB91542,DRUP01070158,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-12-15,primary,1.0,5.473
+SAMEA118750532,PRJEB91542,DRUP01070158,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-10-22,primary,1.0,5.787
+SAMEA118750568,PRJEB91542,DRUP01070185,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,7.881
+SAMEA118750567,PRJEB91542,DRUP01070185,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-02-19,primary,1.0,9.294
+SAMEA118750578,PRJEB91542,DRUP01070193,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-05-24,primary,1.0,5.044
+SAMEA118750577,PRJEB91542,DRUP01070193,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-16,primary,1.0,3.945
+SAMEA118750602,PRJEB91542,DRUP01070206,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-07-06,primary,1.0,6.565
+SAMEA118750601,PRJEB91542,DRUP01070206,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-05-02,primary,1.0,4.155
+SAMEA118750608,PRJEB91542,DRUP01070212,On-treatment (8 weeks),adult,,,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,no,2021-08-20,primary,1.0,6.012
+SAMEA118750607,PRJEB91542,DRUP01070212,Pre-treatment,adult,,,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-06-03,primary,1.0,5.311
+SAMEA118750615,PRJEB91542,DRUP01090062,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,6.042
+SAMEA118750614,PRJEB91542,DRUP01090062,Pre-treatment,adult,,,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,yes,2021-07-11,primary,1.0,7.61
+SAMEA118750626,PRJEB91542,DRUP01110023,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,yes,2021-11-18,primary,1.0,5.778
+SAMEA118750625,PRJEB91542,DRUP01110023,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,yes,2021-09-22,primary,1.0,7.429
+SAMEA118750634,PRJEB91542,DRUP01110024,On-treatment (8 weeks),adult,,,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,no,2021-12-02,primary,1.0,6.393
+SAMEA118750633,PRJEB91542,DRUP01110024,Pre-treatment,adult,,,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-10-14,primary,1.0,6.597
+SAMEA118750649,PRJEB91542,DRUP01110025,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2022-01-11,primary,1.0,5.982
+SAMEA118750648,PRJEB91542,DRUP01110025,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-11-21,primary,1.0,4.169
+SAMEA118750506,PRJEB91542,DRUP01130015,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-09-25,primary,1.0,8.792
+SAMEA118750505,PRJEB91542,DRUP01130015,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-08-05,primary,1.0,4.582
+SAMEA118750527,PRJEB91542,DRUP01160002,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-03-04,primary,1.0,6.577
+SAMEA118750526,PRJEB91542,DRUP01160002,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-08-30,primary,1.0,10.081
+SAMEA118750564,PRJEB91542,DRUP01220018,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,8.367
+SAMEA118750563,PRJEB91542,DRUP01220018,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-17,primary,1.0,4.699
+SAMEA118750605,PRJEB91542,DRUP01290006,On-treatment (8 weeks),adult,,,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,no,2021-07-23,primary,1.0,4.784
+SAMEA118750604,PRJEB91542,DRUP01290006,Pre-treatment,adult,,,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,yes,2021-05-19,primary,1.0,8.256
+SAMEA118750628,PRJEB91542,DRUP01290008,On-treatment (8 weeks),adult,,,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2022-02-14,primary,1.0,9.742
+SAMEA118750627,PRJEB91542,DRUP01290008,Pre-treatment,adult,,,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-09-28,primary,1.0,4.914
+SAMEA118750596,PRJEB91542,DRUP01340034,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,yes,2021-06-22,primary,1.0,7.663
+SAMEA118750595,PRJEB91542,DRUP01340034,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,yes,2021-04-14,primary,1.0,3.501
+SAMEA118750598,PRJEB91542,DRUP01340036,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,yes,2021-04-20,primary,1.0,6.263
+SAMEA118750521,PRJEB91542,DRUP01360005,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-09-28,primary,1.0,6.341
+SAMEA118750520,PRJEB91542,DRUP01360005,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,yes,2020-08-04,primary,1.0,4.52
+SAMEA118750611,PRJEB91542,DRUP01380011,On-treatment (8 weeks),adult,,,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,yes,2021-08-17,primary,1.0,5.604
+SAMEA118750610,PRJEB91542,DRUP01380011,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-06-24,primary,1.0,5.312
+SAMEA118750606,PRJEB91542,DRUP01390003,Pre-treatment,adult,,,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-05-30,primary,1.0,5.967
+SAMEA118750492,PRJEB91542,HMF004509,On-treatment (8 weeks),adult,,male,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2020-07-25,primary,1.0,12.581
+SAMEA118750491,PRJEB91542,HMF004509,Pre-treatment,adult,,male,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-05-28,primary,1.0,3.443
+SAMEA118750504,PRJEB91542,HMF004860,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-08-20,primary,1.0,4.305
+SAMEA118750503,PRJEB91542,HMF004860,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-06-17,primary,1.0,13.167
+SAMEA118750529,PRJEB91542,HMF004862,On-treatment (8 weeks),adult,,male,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2020-11-09,primary,1.0,7.423
+SAMEA118750528,PRJEB91542,HMF004862,Pre-treatment,adult,,male,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-09-18,primary,1.0,11.915
+SAMEA118750502,PRJEB91542,HMF004872,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,yes,2020-07-26,primary,1.0,6.126
+SAMEA118750519,PRJEB91542,HMF004873,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-09-23,primary,1.0,6.593
+SAMEA118750518,PRJEB91542,HMF004873,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-08-06,primary,1.0,6.046
+SAMEA118750498,PRJEB91542,HMF004896,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-07-26,primary,1.0,4.768
+SAMEA118750497,PRJEB91542,HMF004896,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-05-31,primary,1.0,12.22
+SAMEA118750510,PRJEB91542,HMF004933,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,8.785
+SAMEA118750509,PRJEB91542,HMF004933,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,,2020-07-19,primary,1.0,10.604
+SAMEA118750523,PRJEB91542,HMF004982,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,7.134
+SAMEA118750522,PRJEB91542,HMF004982,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,yes,2020-09-22,primary,1.0,6.199
+SAMEA118750508,PRJEB91542,HMF005000,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-03-25,primary,1.0,5.783
+SAMEA118750507,PRJEB91542,HMF005000,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-07-01,primary,1.0,6.587
+SAMEA118750494,PRJEB91542,HMF005054,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,2.697
+SAMEA118750493,PRJEB91542,HMF005054,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,,2020-06-03,primary,1.0,5.81
+SAMEA118750516,PRJEB91542,HMF005055,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-12-18,primary,1.0,4.987
+SAMEA118750515,PRJEB91542,HMF005055,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-10-25,primary,1.0,8.447
+SAMEA118750517,PRJEB91542,HMF005055,Upon progression,adult,,male,NL,colorectal_cancer,CRC,drug_therapy,"sample at disease progression, still on nivolumab",,,primary,1.0,6.482
+SAMEA118750496,PRJEB91542,HMF005056,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2020-07-30,primary,1.0,5.865
+SAMEA118750495,PRJEB91542,HMF005056,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-06-11,primary,1.0,4.143
+SAMEA118750538,PRJEB91542,HMF005057,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-11-20,primary,1.0,7.222
+SAMEA118750537,PRJEB91542,HMF005057,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-09-24,primary,1.0,10.06
+SAMEA118750535,PRJEB91542,HMF005058,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-02-09,primary,1.0,4.326
+SAMEA118750534,PRJEB91542,HMF005058,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-11-18,primary,1.0,4.359
+SAMEA118750536,PRJEB91542,HMF005058,Upon progression,adult,,male,NL,colorectal_cancer,CRC,drug_therapy,"sample at disease progression, still on nivolumab",,,primary,1.0,5.991
+SAMEA118750512,PRJEB91542,HMF005061,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-09-13,primary,1.0,5.105
+SAMEA118750511,PRJEB91542,HMF005061,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-07-19,primary,1.0,10.595
+SAMEA118750539,PRJEB91542,HMF005062,Pre-treatment,adult,,male,NL,other_cancer,Prostate,no_intervention,pre-treatment baseline before nivolumab,no,2020-09-29,primary,1.0,4.371
+SAMEA118750531,PRJEB91542,HMF005063,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,yes,2020-11-14,primary,1.0,6.919
+SAMEA118750530,PRJEB91542,HMF005063,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-09-20,primary,1.0,5.314
+SAMEA118750514,PRJEB91542,HMF005064,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2020-09-03,primary,1.0,6.806
+SAMEA118750513,PRJEB91542,HMF005064,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-07-09,primary,1.0,9.053
+SAMEA118750647,PRJEB91542,HMF005188,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2022-01-03,primary,1.0,7.076
+SAMEA118750646,PRJEB91542,HMF005188,Pre-treatment,adult,,female,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-11-06,primary,1.0,6.277
+SAMEA118750572,PRJEB91542,HMF005230,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,yes,2021-04-08,primary,1.0,9.948
+SAMEA118750571,PRJEB91542,HMF005230,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-02-02,primary,1.0,3.891
+SAMEA118750573,PRJEB91542,HMF005234,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-02-16,primary,1.0,11.309
+SAMEA118750540,PRJEB91542,HMF005235,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2020-10-24,primary,1.0,9.203
+SAMEA118750558,PRJEB91542,HMF005236,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-02-24,primary,1.0,13.658
+SAMEA118750557,PRJEB91542,HMF005236,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-12-28,primary,1.0,11.199
+SAMEA118750560,PRJEB91542,HMF005237,On-treatment (8 weeks),adult,,male,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-03-03,primary,1.0,7.217
+SAMEA118750559,PRJEB91542,HMF005237,Pre-treatment,adult,,male,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-12-27,primary,1.0,8.016
+SAMEA118750553,PRJEB91542,HMF005240,On-treatment (8 weeks),adult,,female,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,9.202
+SAMEA118750552,PRJEB91542,HMF005240,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,,,primary,1.0,5.194
+SAMEA118750562,PRJEB91542,HMF005241,On-treatment (8 weeks),adult,,male,NL,other_cancer,Prostate,drug_therapy,8 weeks on nivolumab treatment,no,2021-03-12,primary,1.0,6.55
+SAMEA118750561,PRJEB91542,HMF005241,Pre-treatment,adult,,male,NL,other_cancer,Prostate,no_intervention,pre-treatment baseline before nivolumab,yes,2021-01-12,primary,1.0,15.559
+SAMEA118750547,PRJEB91542,HMF005242,On-treatment (8 weeks),adult,,male,NL,other_cancer,Prostate,drug_therapy,8 weeks on nivolumab treatment,no,2020-12-29,primary,1.0,4.327
+SAMEA118750546,PRJEB91542,HMF005242,Pre-treatment,adult,,male,NL,other_cancer,Prostate,no_intervention,pre-treatment baseline before nivolumab,yes,2020-11-11,primary,1.0,11.304
+SAMEA118750548,PRJEB91542,HMF005242,Upon progression,adult,,male,NL,other_cancer,Prostate,drug_therapy,"sample at disease progression, still on nivolumab",no,2021-06-01,primary,1.0,6.697
+SAMEA118750550,PRJEB91542,HMF005243,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-01-13,primary,1.0,11.165
+SAMEA118750549,PRJEB91542,HMF005243,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,,2020-11-20,primary,1.0,9.686
+SAMEA118750551,PRJEB91542,HMF005243,Upon progression,adult,,female,NL,colorectal_cancer,CRC,drug_therapy,"sample at disease progression, still on nivolumab",yes,2021-05-12,primary,1.0,10.56
+SAMEA118750554,PRJEB91542,HMF005247,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-02-05,primary,1.0,7.486
+SAMEA118750556,PRJEB91542,HMF005248,On-treatment (8 weeks),adult,,male,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-02-02,primary,1.0,9.456
+SAMEA118750555,PRJEB91542,HMF005248,Pre-treatment,adult,,male,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2020-12-09,primary,1.0,5.506
+SAMEA118750574,PRJEB91542,HMF005249,Pre-treatment,adult,,male,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-02,primary,1.0,8.804
+SAMEA118750588,PRJEB91542,HMF005639,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-06-21,primary,1.0,6.433
+SAMEA118750587,PRJEB91542,HMF005639,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-26,primary,1.0,3.363
+SAMEA118750600,PRJEB91542,HMF005640,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,yes,2021-07-14,primary,1.0,9.637
+SAMEA118750599,PRJEB91542,HMF005640,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-04-30,primary,1.0,5.896
+SAMEA118750586,PRJEB91542,HMF005645,On-treatment (8 weeks),adult,,male,NL,other_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-06-11,primary,1.0,8.168
+SAMEA118750585,PRJEB91542,HMF005645,Pre-treatment,adult,,male,NL,other_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-04-11,primary,1.0,3.969
+SAMEA118750590,PRJEB91542,HMF005646,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-05-19,primary,1.0,6.796
+SAMEA118750589,PRJEB91542,HMF005646,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,yes,2021-03-29,primary,1.0,17.02
+SAMEA118750576,PRJEB91542,HMF005647,On-treatment (8 weeks),adult,,female,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,yes,2021-05-05,primary,1.0,4.855
+SAMEA118750575,PRJEB91542,HMF005647,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,yes,2021-03-02,primary,1.0,9.137
+SAMEA118750592,PRJEB91542,HMF005648,On-treatment (8 weeks),adult,,male,NL,other_cancer,Prostate,drug_therapy,8 weeks on nivolumab treatment,yes,2021-06-10,primary,1.0,8.483
+SAMEA118750591,PRJEB91542,HMF005648,Pre-treatment,adult,,male,NL,other_cancer,Prostate,no_intervention,pre-treatment baseline before nivolumab,yes,2021-04-12,primary,1.0,12.215
+SAMEA118750603,PRJEB91542,HMF005650,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-05-08,primary,1.0,6.718
+SAMEA118750584,PRJEB91542,HMF005651,On-treatment (8 weeks),adult,,male,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-05-12,primary,1.0,4.709
+SAMEA118750583,PRJEB91542,HMF005651,Pre-treatment,adult,,male,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-24,primary,1.0,4.442
+SAMEA118750594,PRJEB91542,HMF005652,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,13.684
+SAMEA118750593,PRJEB91542,HMF005652,Pre-treatment,adult,,female,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,yes,2021-03-30,primary,1.0,2.622
+SAMEA118750580,PRJEB91542,HMF005655,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-05-18,primary,1.0,15.413
+SAMEA118750579,PRJEB91542,HMF005655,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-03-19,primary,1.0,4.967
+SAMEA118750617,PRJEB91542,HMF005735,On-treatment (8 weeks),adult,,female,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,yes,2021-09-20,primary,1.0,7.877
+SAMEA118750616,PRJEB91542,HMF005735,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,yes,2021-08-01,primary,1.0,8.791
+SAMEA118750618,PRJEB91542,HMF005736,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-08-25,primary,1.0,8.898
+SAMEA118750620,PRJEB91542,HMF005738,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-10-15,primary,1.0,7.299
+SAMEA118750619,PRJEB91542,HMF005738,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-08-27,primary,1.0,5.302
+SAMEA118750630,PRJEB91542,HMF005740,On-treatment (8 weeks),adult,,female,NL,colorectal_cancer,Other-non-GI,drug_therapy,8 weeks on nivolumab treatment,no,2021-12-08,primary,1.0,6.505
+SAMEA118750629,PRJEB91542,HMF005740,Pre-treatment,adult,,female,NL,colorectal_cancer,Other-non-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-10-10,primary,1.0,5.143
+SAMEA118750645,PRJEB91542,HMF005839,On-treatment (8 weeks),adult,,male,NL,colorectal_cancer,CRC,drug_therapy,8 weeks on nivolumab treatment,no,2021-12-28,primary,1.0,6.333
+SAMEA118750644,PRJEB91542,HMF005839,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-10-27,primary,1.0,8.287
+SAMEA118750624,PRJEB91542,HMF005840,On-treatment (8 weeks),adult,,female,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,no,2021-11-22,primary,1.0,9.941
+SAMEA118750623,PRJEB91542,HMF005840,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-09-17,primary,1.0,6.496
+SAMEA118750632,PRJEB91542,HMF005841,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,,,primary,1.0,8.162
+SAMEA118750631,PRJEB91542,HMF005841,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,,,primary,1.0,5.296
+SAMEA118750638,PRJEB91542,HMF005842,On-treatment (8 weeks),adult,,female,NL,other_cancer,Other-GI,drug_therapy,8 weeks on nivolumab treatment,no,2022-01-05,primary,1.0,6.288
+SAMEA118750637,PRJEB91542,HMF005842,Pre-treatment,adult,,female,NL,other_cancer,Other-GI,no_intervention,pre-treatment baseline before nivolumab,no,2021-10-22,primary,1.0,4.579
+SAMEA118750643,PRJEB91542,HMF005905,On-treatment (8 weeks),adult,,female,NL,other_cancer,Endometrial,drug_therapy,8 weeks on nivolumab treatment,yes,2022-01-09,primary,1.0,6.377
+SAMEA118750642,PRJEB91542,HMF005905,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-10-25,primary,1.0,7.034
+SAMEA118750650,PRJEB91542,HMF005906,Pre-treatment,adult,,female,NL,other_cancer,Endometrial,no_intervention,pre-treatment baseline before nivolumab,no,2021-12-06,primary,1.0,6.191
+SAMEA118750639,PRJEB91542,HMF005907,Pre-treatment,adult,,male,NL,colorectal_cancer,CRC,no_intervention,pre-treatment baseline before nivolumab,no,2021-11-22,primary,1.0,5.193

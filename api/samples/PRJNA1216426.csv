@@ -1,0 +1,164 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN46434511,PRJNA1216426,1,Screening,adult,22627.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-05-19,primary,1.0,1.484
+SAMN46434512,PRJNA1216426,1,Week 0,adult,22627.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-05-21,primary,1.0,0.331
+SAMN46434515,PRJNA1216426,1,Week 16,adult,22627.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-09-10,primary,1.0,0.815
+SAMN46434513,PRJNA1216426,1,Week 4,adult,22627.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-06-18,primary,1.0,0.742
+SAMN46434514,PRJNA1216426,1,Week 8,adult,22627.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-07-16,primary,1.0,0.477
+SAMN46434536,PRJNA1216426,11,Screening,adult,14239.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-11-24,primary,1.0,0.436
+SAMN46434537,PRJNA1216426,11,Week 0,adult,14239.8,male,DK,crohns_disease,Crohn's Disease,,,,2021-12-01,primary,1.0,1.175
+SAMN46434540,PRJNA1216426,11,Week 16,adult,14239.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-03-23,primary,1.0,1.013
+SAMN46434538,PRJNA1216426,11,Week 4,adult,14239.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-01-03,primary,1.0,0.729
+SAMN46434539,PRJNA1216426,11,Week 8,adult,14239.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-01-26,primary,1.0,0.533
+SAMN46434541,PRJNA1216426,13,Screening,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-03-11,primary,1.0,0.713
+SAMN46434542,PRJNA1216426,13,Week 0,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,,,,2022-03-17,primary,1.0,2.487
+SAMN46434545,PRJNA1216426,13,Week 16,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-07-11,primary,1.0,0.587
+SAMN46434543,PRJNA1216426,13,Week 4,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-04-19,primary,1.0,0.32
+SAMN46434544,PRJNA1216426,13,Week 8,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-05-11,primary,1.0,0.46
+SAMN46434546,PRJNA1216426,14,Screening,adult,13149.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-03-23,primary,1.0,0.479
+SAMN46434547,PRJNA1216426,14,Week 0,adult,13149.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-03-30,primary,1.0,1.322
+SAMN46434550,PRJNA1216426,14,Week 16,adult,13149.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-07-27,primary,1.0,0.709
+SAMN46434548,PRJNA1216426,14,Week 4,adult,13149.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-04-27,primary,1.0,0.449
+SAMN46434549,PRJNA1216426,14,Week 8,adult,13149.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-05-25,primary,1.0,0.514
+SAMN46434551,PRJNA1216426,15,Screening,adult,15696.8,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-04-06,primary,1.0,0.336
+SAMN46434552,PRJNA1216426,15,Week 0,adult,15696.8,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-04-21,primary,1.0,0.744
+SAMN46434555,PRJNA1216426,15,Week 16,adult,15696.8,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-08-11,primary,1.0,1.704
+SAMN46434553,PRJNA1216426,15,Week 4,adult,15696.8,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-05-19,primary,1.0,0.386
+SAMN46434554,PRJNA1216426,15,Week 8,adult,15696.8,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-06-15,primary,1.0,1.319
+SAMN46434556,PRJNA1216426,17,Screening,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-04-22,primary,1.0,0.671
+SAMN46434557,PRJNA1216426,17,Week 0,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-04-26,primary,1.0,0.572
+SAMN46434560,PRJNA1216426,17,Week 16,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-08-18,primary,1.0,2.587
+SAMN46434558,PRJNA1216426,17,Week 4,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-05-27,primary,1.0,0.453
+SAMN46434559,PRJNA1216426,17,Week 8,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-06-24,primary,1.0,3.192
+SAMN46434561,PRJNA1216426,18,Screening,elderly,27394.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-05-06,primary,1.0,0.727
+SAMN46434562,PRJNA1216426,18,Week 0,elderly,27394.0,female,DK,crohns_disease,Crohn's Disease,,,,2022-05-12,primary,1.0,0.354
+SAMN46434565,PRJNA1216426,18,Week 16,elderly,27394.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-08-29,primary,1.0,0.715
+SAMN46434563,PRJNA1216426,18,Week 4,elderly,27394.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-06-10,primary,1.0,0.732
+SAMN46434564,PRJNA1216426,18,Week 8,elderly,27394.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-07-08,primary,1.0,0.805
+SAMN46434516,PRJNA1216426,2,Screening,elderly,27028.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-06-02,primary,1.0,0.608
+SAMN46434517,PRJNA1216426,2,Week 0,elderly,27028.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-06-11,primary,1.0,0.881
+SAMN46434520,PRJNA1216426,2,Week 16,elderly,27028.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-09-27,primary,1.0,0.317
+SAMN46434518,PRJNA1216426,2,Week 4,elderly,27028.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-07-12,primary,1.0,0.831
+SAMN46434519,PRJNA1216426,2,Week 8,elderly,27028.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-07-30,primary,1.0,0.414
+SAMN46434566,PRJNA1216426,21,Screening,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-06-17,primary,1.0,1.48
+SAMN46434567,PRJNA1216426,21,Week 0,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,,,,2022-07-08,primary,1.0,0.515
+SAMN46434570,PRJNA1216426,21,Week 16,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-10-26,primary,1.0,0.508
+SAMN46434568,PRJNA1216426,21,Week 4,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-08-05,primary,1.0,2.96
+SAMN46434569,PRJNA1216426,21,Week 8,adult,13149.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-09-09,primary,1.0,0.647
+SAMN46434571,PRJNA1216426,24,Screening,adult,15330.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-07-06,primary,1.0,1.663
+SAMN46434572,PRJNA1216426,24,Week 0,adult,15330.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-07-11,primary,1.0,0.561
+SAMN46434575,PRJNA1216426,24,Week 16,adult,15330.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-10-31,primary,1.0,0.506
+SAMN46434573,PRJNA1216426,24,Week 4,adult,15330.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-08-08,primary,1.0,0.921
+SAMN46434574,PRJNA1216426,24,Week 8,adult,15330.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-09-09,primary,1.0,2.542
+SAMN46434576,PRJNA1216426,25,Screening,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-08-17,primary,1.0,2.259
+SAMN46434577,PRJNA1216426,25,Week 0,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,,,,2022-08-24,primary,1.0,1.433
+SAMN46434580,PRJNA1216426,25,Week 16,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-12-15,primary,1.0,0.711
+SAMN46434578,PRJNA1216426,25,Week 4,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-09-19,primary,1.0,0.875
+SAMN46434579,PRJNA1216426,25,Week 8,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-10-26,primary,1.0,0.49
+SAMN46434581,PRJNA1216426,28,Screening,elderly,25190.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-09-07,primary,1.0,1.07
+SAMN46434582,PRJNA1216426,28,Week 0,elderly,25190.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-09-15,primary,1.0,0.345
+SAMN46434585,PRJNA1216426,28,Week 16,elderly,25190.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-01-03,primary,1.0,0.376
+SAMN46434583,PRJNA1216426,28,Week 4,elderly,25190.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-10-13,primary,1.0,1.679
+SAMN46434584,PRJNA1216426,28,Week 8,elderly,25190.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-11-18,primary,1.0,0.638
+SAMN46434586,PRJNA1216426,29,Screening,adult,21549.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-09-21,primary,1.0,1.665
+SAMN46434587,PRJNA1216426,29,Week 0,adult,21549.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-09-29,primary,1.0,3.319
+SAMN46434590,PRJNA1216426,29,Week 16,adult,21549.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-01-17,primary,1.0,0.644
+SAMN46434588,PRJNA1216426,29,Week 4,adult,21549.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-10-27,primary,1.0,0.76
+SAMN46434589,PRJNA1216426,29,Week 8,adult,21549.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2022-11-25,primary,1.0,0.94
+SAMN46434521,PRJNA1216426,3,Screening,adult,12783.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-06-04,primary,1.0,0.427
+SAMN46434522,PRJNA1216426,3,Week 0,adult,12783.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-06-09,primary,1.0,0.723
+SAMN46434525,PRJNA1216426,3,Week 16,adult,12783.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-09-28,primary,1.0,0.566
+SAMN46434523,PRJNA1216426,3,Week 4,adult,12783.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-07-06,primary,1.0,0.498
+SAMN46434524,PRJNA1216426,3,Week 8,adult,12783.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2021-07-30,primary,1.0,0.677
+SAMN46434591,PRJNA1216426,32,Screening,adult,16436.2,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-11-18,primary,1.0,0.401
+SAMN46434592,PRJNA1216426,32,Week 0,adult,16436.2,female,DK,crohns_disease,Crohn's Disease,,,,2022-11-28,primary,1.0,0.697
+SAMN46434595,PRJNA1216426,32,Week 16,adult,16436.2,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-03-22,primary,1.0,0.488
+SAMN46434593,PRJNA1216426,32,Week 4,adult,16436.2,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-12-20,primary,1.0,0.725
+SAMN46434594,PRJNA1216426,32,Week 8,adult,16436.2,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-01-25,primary,1.0,0.503
+SAMN46434596,PRJNA1216426,34,Screening,adult,21915.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-11-25,primary,1.0,0.345
+SAMN46434597,PRJNA1216426,34,Week 0,adult,21915.0,male,DK,crohns_disease,Crohn's Disease,,,,2022-12-22,primary,1.0,0.526
+SAMN46434600,PRJNA1216426,34,Week 16,adult,21915.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-04-11,primary,1.0,0.711
+SAMN46434598,PRJNA1216426,34,Week 4,adult,21915.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-01-16,primary,1.0,0.42
+SAMN46434599,PRJNA1216426,34,Week 8,adult,21915.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-02-17,primary,1.0,0.941
+SAMN46434601,PRJNA1216426,35,Screening,adult,8391.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-12-07,primary,1.0,0.602
+SAMN46434602,PRJNA1216426,35,Week 0,adult,8391.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2022-12-20,primary,1.0,0.347
+SAMN46434605,PRJNA1216426,35,Week 16,adult,8391.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-04-14,primary,1.0,0.732
+SAMN46434603,PRJNA1216426,35,Week 4,adult,8391.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-01-16,primary,1.0,0.161
+SAMN46434604,PRJNA1216426,35,Week 8,adult,8391.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-02-17,primary,1.0,0.257
+SAMN46434606,PRJNA1216426,36,Screening,adult,9131.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2022-12-08,primary,1.0,0.35
+SAMN46434607,PRJNA1216426,36,Week 0,adult,9131.0,female,DK,crohns_disease,Crohn's Disease,,,,2022-12-15,primary,1.0,0.927
+SAMN46434610,PRJNA1216426,36,Week 16,adult,9131.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-04-11,primary,1.0,0.538
+SAMN46434608,PRJNA1216426,36,Week 4,adult,9131.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-01-10,primary,1.0,0.442
+SAMN46434609,PRJNA1216426,36,Week 8,adult,9131.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-02-09,primary,1.0,0.759
+SAMN46434611,PRJNA1216426,38,Screening,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-02-10,primary,1.0,0.543
+SAMN46434612,PRJNA1216426,38,Week 0,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,,,,2023-02-14,primary,1.0,0.441
+SAMN46434613,PRJNA1216426,38,Week 4,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-03-21,primary,1.0,0.531
+SAMN46434614,PRJNA1216426,38,Week 8,adult,10957.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-04-21,primary,1.0,0.617
+SAMN46434615,PRJNA1216426,41,Screening,adult,8035.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-03-22,primary,1.0,0.418
+SAMN46434616,PRJNA1216426,41,Week 0,adult,8035.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-03-31,primary,1.0,0.411
+SAMN46434619,PRJNA1216426,41,Week 16,adult,8035.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-07-14,primary,1.0,0.42
+SAMN46434617,PRJNA1216426,41,Week 4,adult,8035.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-05-09,primary,1.0,0.384
+SAMN46434618,PRJNA1216426,41,Week 8,adult,8035.5,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-05-26,primary,1.0,0.786
+SAMN46434620,PRJNA1216426,43,Screening,elderly,24106.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-03-29,primary,1.0,0.341
+SAMN46434621,PRJNA1216426,43,Week 0,elderly,24106.5,female,DK,crohns_disease,Crohn's Disease,,,,2023-05-04,primary,1.0,0.655
+SAMN46434624,PRJNA1216426,43,Week 16,elderly,24106.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-08-21,primary,1.0,0.398
+SAMN46434622,PRJNA1216426,43,Week 4,elderly,24106.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-06-02,primary,1.0,0.456
+SAMN46434623,PRJNA1216426,43,Week 8,elderly,24106.5,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-06-21,primary,1.0,0.436
+SAMN46434625,PRJNA1216426,44,Screening,adult,14239.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-04-12,primary,1.0,0.387
+SAMN46434626,PRJNA1216426,44,Week 0,adult,14239.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-04-18,primary,1.0,0.311
+SAMN46434629,PRJNA1216426,44,Week 16,adult,14239.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-14,primary,1.0,0.58
+SAMN46434627,PRJNA1216426,44,Week 4,adult,14239.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-05-16,primary,1.0,0.428
+SAMN46434628,PRJNA1216426,44,Week 8,adult,14239.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-06-14,primary,1.0,0.723
+SAMN46434630,PRJNA1216426,45,Screening,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-04-12,primary,1.0,0.305
+SAMN46434631,PRJNA1216426,45,Week 0,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,,,,2023-04-17,primary,1.0,0.355
+SAMN46434634,PRJNA1216426,45,Week 16,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-08-09,primary,1.0,1.011
+SAMN46434632,PRJNA1216426,45,Week 4,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-05-16,primary,1.0,0.307
+SAMN46434633,PRJNA1216426,45,Week 8,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-06-21,primary,1.0,0.527
+SAMN46434526,PRJNA1216426,5,Screening,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-07-07,primary,1.0,0.747
+SAMN46434527,PRJNA1216426,5,Week 0,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,,,,2021-07-13,primary,1.0,0.608
+SAMN46434530,PRJNA1216426,5,Week 16,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-11-02,primary,1.0,0.682
+SAMN46434528,PRJNA1216426,5,Week 4,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-08-10,primary,1.0,0.555
+SAMN46434529,PRJNA1216426,5,Week 8,adult,18993.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-09-08,primary,1.0,0.95
+SAMN46434635,PRJNA1216426,50,Screening,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-05-31,primary,1.0,0.743
+SAMN46434636,PRJNA1216426,50,Week 0,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,,,,2023-06-16,primary,1.0,0.413
+SAMN46434639,PRJNA1216426,50,Week 16,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-09-27,primary,1.0,0.826
+SAMN46434637,PRJNA1216426,50,Week 4,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-07-13,primary,1.0,0.364
+SAMN46434638,PRJNA1216426,50,Week 8,elderly,24455.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-08-09,primary,1.0,0.474
+SAMN46434640,PRJNA1216426,56,Screening,adult,17897.2,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-06-21,primary,1.0,0.551
+SAMN46434641,PRJNA1216426,56,Week 0,adult,17897.2,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-02,primary,1.0,0.615
+SAMN46434644,PRJNA1216426,56,Week 16,adult,17897.2,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-11-21,primary,1.0,0.316
+SAMN46434642,PRJNA1216426,56,Week 4,adult,17897.2,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-29,primary,1.0,0.531
+SAMN46434643,PRJNA1216426,56,Week 8,adult,17897.2,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-09-27,primary,1.0,0.386
+SAMN46434645,PRJNA1216426,57,Screening,elderly,26641.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-06-23,primary,1.0,0.733
+SAMN46434646,PRJNA1216426,57,Week 0,elderly,26641.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-01,primary,1.0,0.282
+SAMN46434649,PRJNA1216426,57,Week 16,elderly,26641.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-11-24,primary,1.0,0.328
+SAMN46434647,PRJNA1216426,57,Week 4,elderly,26641.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-29,primary,1.0,0.313
+SAMN46434648,PRJNA1216426,57,Week 8,elderly,26641.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-09-29,primary,1.0,0.283
+SAMN46434650,PRJNA1216426,58,Screening,adult,9857.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-06-23,primary,1.0,0.611
+SAMN46434651,PRJNA1216426,58,Week 0,adult,9857.0,male,DK,crohns_disease,Crohn's Disease,,,,2023-07-03,primary,1.0,0.687
+SAMN46434654,PRJNA1216426,58,Week 16,adult,9857.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-10-24,primary,1.0,0.491
+SAMN46434652,PRJNA1216426,58,Week 4,adult,9857.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-07-31,primary,1.0,0.357
+SAMN46434653,PRJNA1216426,58,Week 8,adult,9857.0,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-09-01,primary,1.0,0.635
+SAMN46434531,PRJNA1216426,6,Screening,adult,13504.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-07-07,primary,1.0,0.414
+SAMN46434532,PRJNA1216426,6,Week 0,adult,13504.0,female,DK,crohns_disease,Crohn's Disease,,,,2021-07-13,primary,1.0,0.679
+SAMN46434535,PRJNA1216426,6,Week 16,adult,13504.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-11-02,primary,1.0,1.19
+SAMN46434533,PRJNA1216426,6,Week 4,adult,13504.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-08-05,primary,1.0,0.54
+SAMN46434534,PRJNA1216426,6,Week 8,adult,13504.0,female,DK,crohns_disease,Crohn's Disease,probiotic,,,2021-09-10,primary,1.0,2.938
+SAMN46434655,PRJNA1216426,60,Screening,elderly,24455.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-02,primary,1.0,0.604
+SAMN46434656,PRJNA1216426,60,Week 0,elderly,24455.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-08,primary,1.0,0.671
+SAMN46434659,PRJNA1216426,60,Week 16,elderly,24455.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-11-28,primary,1.0,0.519
+SAMN46434657,PRJNA1216426,60,Week 4,elderly,24455.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-25,primary,1.0,0.436
+SAMN46434658,PRJNA1216426,60,Week 8,elderly,24455.0,male,DK,crohns_disease,Crohn's Disease,placebo,,,2023-09-27,primary,1.0,0.503
+SAMN46434660,PRJNA1216426,61,Screening,adult,20088.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-08-02,primary,1.0,0.364
+SAMN46434661,PRJNA1216426,61,Week 0,adult,20088.8,male,DK,crohns_disease,Crohn's Disease,,,,2023-08-09,primary,1.0,0.427
+SAMN46434663,PRJNA1216426,61,Week 16,adult,20088.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-11-22,primary,1.0,0.697
+SAMN46434662,PRJNA1216426,61,Week 8,adult,20088.8,male,DK,crohns_disease,Crohn's Disease,probiotic,,,2023-09-27,primary,1.0,0.532
+SAMN46434664,PRJNA1216426,62,Screening,adult,18627.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-04,primary,1.0,0.876
+SAMN46434665,PRJNA1216426,62,Week 0,adult,18627.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-08-11,primary,1.0,0.444
+SAMN46434668,PRJNA1216426,62,Week 16,adult,18627.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-11-24,primary,1.0,0.944
+SAMN46434666,PRJNA1216426,62,Week 4,adult,18627.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-09-08,primary,1.0,0.594
+SAMN46434667,PRJNA1216426,62,Week 8,adult,18627.8,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-10-13,primary,1.0,0.462
+SAMN46434669,PRJNA1216426,67,Screening,adult,10601.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-09-13,primary,1.0,0.38
+SAMN46434670,PRJNA1216426,67,Week 0,adult,10601.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-09-18,primary,1.0,1.054
+SAMN46434673,PRJNA1216426,67,Week 16,adult,10601.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2024-01-08,primary,1.0,0.428
+SAMN46434671,PRJNA1216426,67,Week 4,adult,10601.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-10-18,primary,1.0,0.546
+SAMN46434672,PRJNA1216426,67,Week 8,adult,10601.0,female,DK,crohns_disease,Crohn's Disease,placebo,,,2023-11-15,primary,1.0,0.499
