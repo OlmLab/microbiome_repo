@@ -1,0 +1,16 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMD01712760,PRJDB39536,FMT-2,Before FMT,,,,,,,no_intervention,,,2024-05-14,primary,1.0,66.264
+SAMD01712761,PRJDB39536,FMT-2,Before FMT,,,,,,,no_intervention,,,2024-05-14,primary,1.0,92.105
+SAMD01712762,PRJDB39536,FMT-2,Week 2,,,,,,,fmt,,,2024-06-22,primary,1.0,58.372
+SAMD01712763,PRJDB39536,FMT-2,Week 2,,,,,,,fmt,,,2024-06-22,primary,1.0,62.273
+SAMD01712764,PRJDB39536,FMT-2,Week 4,,,,,,,fmt,,,2024-07-28,primary,1.0,81.805
+SAMD01712765,PRJDB39536,FMT-2,Week 4,,,,,,,fmt,,,2024-07-28,primary,1.0,79.953
+SAMD01843976,PRJDB39536,VAN-1,Before Vancomycin treatment,,,,,,,no_intervention,,no,2025-06-24,primary,10.0,166.38
+SAMD01712766,PRJDB39536,VAN-2,Before Vancomycin treatment,,,,,,,no_intervention,,no,2024-05-14,primary,1.0,55.312
+SAMD01712767,PRJDB39536,VAN-2,Before Vancomycin treatment,,,,,,,no_intervention,,no,2024-05-14,primary,1.0,68.434
+SAMD01712768,PRJDB39536,VAN-2,Week 2,,,,,,,antibiotic,,yes,2024-07-04,primary,1.0,74.919
+SAMD01712769,PRJDB39536,VAN-2,Week 2,,,,,,,antibiotic,,yes,2024-07-04,primary,1.0,67.267
+SAMD01712770,PRJDB39536,VAN-2,Week 4,,,,,,,antibiotic,,yes,2024-07-28,primary,1.0,73.55
+SAMD01712771,PRJDB39536,VAN-2,Week 4,,,,,,,antibiotic,,yes,2024-07-28,primary,1.0,63.671
+SAMD01712772,PRJDB39536,VAN-2,Week 4,,,,,,,antibiotic,,yes,2024-07-28,primary,1.0,83.523
+SAMD01712773,PRJDB39536,VAN-2,Week 4,,,,,,,antibiotic,,yes,2024-07-28,primary,1.0,53.789

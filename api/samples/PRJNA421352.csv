@@ -1,0 +1,41 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN08140866,PRJNA421352,ALL-10,Diagnosis,child,2556.8,male,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.008
+SAMN08140876,PRJNA421352,ALL-10,PC-10M,child,2556.8,male,US,other_cancer,PC-10M,,,,2014,primary,1.0,0.009
+SAMN08140877,PRJNA421352,ALL-10,PC-11M,child,2556.8,male,US,other_cancer,PC-11M,,,,2014,primary,1.0,0.009
+SAMN08140878,PRJNA421352,ALL-10,PC-12M,child,2556.8,male,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.01
+SAMN08140867,PRJNA421352,ALL-10,PC-1M,child,2556.8,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.006
+SAMN08140868,PRJNA421352,ALL-10,PC-2M,child,2556.8,male,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.008
+SAMN08140869,PRJNA421352,ALL-10,PC-3M,child,2556.8,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.004
+SAMN08140870,PRJNA421352,ALL-10,PC-4M,child,2556.8,male,US,other_cancer,PC-4M,,,,2014,primary,1.0,0.01
+SAMN08140871,PRJNA421352,ALL-10,PC-5M,child,2556.8,male,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.006
+SAMN08140872,PRJNA421352,ALL-10,PC-6M,child,2556.8,male,US,other_cancer,PC-6M,,,,2014,primary,1.0,0.007
+SAMN08140873,PRJNA421352,ALL-10,PC-7M,child,2556.8,male,US,other_cancer,PC-7M,,,,2014,primary,1.0,0.007
+SAMN08140875,PRJNA421352,ALL-10,PC-9M,child,2556.8,male,US,other_cancer,PC-9M,,,,2014,primary,1.0,0.008
+SAMN08140880,PRJNA421352,ALL-12,Diagnosis,child,1461.0,female,US,other_cancer,Diagnosis,,,,2014,primary,1.0,0.007
+SAMN08140881,PRJNA421352,ALL-12,PC-1M,child,1461.0,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.005
+SAMN08140882,PRJNA421352,ALL-12,PC-2M,child,1461.0,female,US,other_cancer,PC-2M,,,,2014,primary,1.0,0.003
+SAMN08140885,PRJNA421352,ALL-12,PC-5M,child,1461.0,female,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.0
+SAMN08140765,PRJNA421352,ALL-13,PC-1M,infant,1095.8,female,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.009
+SAMN08140828,PRJNA421352,ALL-14,PC-1M,child,2922.0,male,US,other_cancer,PC-1M,,,,2014,primary,1.0,0.003
+SAMN08140830,PRJNA421352,ALL-14,PC-3M,child,2922.0,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.0
+SAMN08140857,PRJNA421352,ALL-2,PC-1M,adolescent,6209.0,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.004
+SAMN08140996,PRJNA421352,ALL-26,PC-3M,child,1826.2,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.0
+SAMN08140904,PRJNA421352,ALL-29,PC-3M,child,3287.2,female,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.009
+SAMN08140788,PRJNA421352,ALL-35,PC-10M,child,1461.0,female,US,other_cancer,PC-10M,,,,2015,primary,1.0,0.012
+SAMN08140787,PRJNA421352,ALL-35,PC-11M,child,1461.0,female,US,other_cancer,PC-11M,,,,2015,primary,1.0,0.003
+SAMN08140786,PRJNA421352,ALL-35,PC-12M,child,1461.0,female,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.008
+SAMN08140985,PRJNA421352,ALL-4,PC-12M,child,1461.0,female,US,other_cancer,PC-12M,,,,2015,primary,1.0,0.006
+SAMN08140806,PRJNA421352,ALL-42,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2015,primary,1.0,0.007
+SAMN08140807,PRJNA421352,ALL-42,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2015,primary,1.0,0.004
+SAMN08140986,PRJNA421352,ALL-5,Diagnosis,infant,1095.8,male,US,other_cancer,Diagnosis,,,,2013,primary,1.0,0.008
+SAMN08140987,PRJNA421352,ALL-5,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.008
+SAMN08140988,PRJNA421352,ALL-5,PC-2M,infant,1095.8,male,US,other_cancer,PC-2M,,,,2013,primary,1.0,0.005
+SAMN08140861,PRJNA421352,ALL-7,PC-1M,infant,1095.8,male,US,other_cancer,PC-1M,,,,2013,primary,1.0,0.005
+SAMN08140897,PRJNA421352,HC-10,,child,2556.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.004
+SAMN08140966,PRJNA421352,HC-11,,infant,1095.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.0
+SAMN08140865,PRJNA421352,HC-18,,child,2556.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.005
+SAMN08140879,PRJNA421352,HC-28,,child,1826.2,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.006
+SAMN08140991,PRJNA421352,HC-31,,adolescent,4383.0,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.008
+SAMN08140990,PRJNA421352,HC-32,,child,2556.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.005
+SAMN08140790,PRJNA421352,HC-35,1Y,child,1461.0,female,US,healthy_control,Healthy Control-1Y,,,,2015,primary,1.0,0.007
+SAMN08140789,PRJNA421352,HC-35,,child,1461.0,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.009
