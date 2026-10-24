@@ -1,0 +1,10 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN57497108,PRJNA1458179,1,baseline,child,,,CN,neurological_psychiatric,Before,no_intervention,,no,2025,primary,1.0,18.077
+SAMN57497111,PRJNA1458179,1,,child,,,CN,neurological_psychiatric,After,fmt,,no,2025,primary,1.0,15.811
+SAMN57497109,PRJNA1458179,2,baseline,child,,,CN,neurological_psychiatric,Before,no_intervention,,no,2025,primary,1.0,11.239
+SAMN57497112,PRJNA1458179,2,,child,,,CN,neurological_psychiatric,After,fmt,,no,2025,primary,1.0,13.349
+SAMN57497110,PRJNA1458179,3,baseline,child,,,CN,neurological_psychiatric,Before,no_intervention,,no,2025,primary,1.0,10.994
+SAMN57497113,PRJNA1458179,3,,child,,,CN,neurological_psychiatric,After,fmt,,no,2025,primary,1.0,10.933
+SAMN57497105,PRJNA1458179,HC1,,child,,,CN,healthy_control,HC,no_intervention,,no,2025,primary,1.0,10.856
+SAMN57497106,PRJNA1458179,HC2,,child,,,CN,healthy_control,HC,no_intervention,,no,2025,primary,1.0,11.059
+SAMN57497107,PRJNA1458179,HC3,,child,,,CN,healthy_control,HC,no_intervention,,no,2025,primary,1.0,14.655

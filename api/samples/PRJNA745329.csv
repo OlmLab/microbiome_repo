@@ -1,0 +1,252 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN20163071,PRJNA745329,0054,,adult,,,US,healthy_control,healthy,,,no,2017-12-15,primary,1.0,0.368
+SAMN20163072,PRJNA745329,0058,,adult,,,US,healthy_control,healthy,,,no,2017-12-15,primary,1.0,0.086
+SAMN20163073,PRJNA745329,0075,,adult,23011.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2017-12-15,primary,1.0,0.324
+SAMN20163080,PRJNA745329,0109,,adult,18628.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2017-12-20,primary,1.0,0.467
+SAMN20163098,PRJNA745329,0159,,adult,22280.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-03,primary,1.0,0.48
+SAMN20163099,PRJNA745329,0172,,adult,22280.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-03,primary,1.0,0.305
+SAMN20163100,PRJNA745329,0177,,adult,23376.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-03,primary,1.0,0.405
+SAMN20163101,PRJNA745329,0179,,adult,23376.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-03,primary,1.0,0.261
+SAMN20163120,PRJNA745329,0241,,elderly,25933.0,male,US,healthy_control,healthy,bowel_preparation,,no,2018-01-05,primary,1.0,0.285
+SAMN20163119,PRJNA745329,0245,,elderly,25933.0,male,US,healthy_control,healthy,bowel_preparation,,no,2018-01-05,primary,1.0,0.43
+SAMN20163135,PRJNA745329,0308,,adult,20089.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-12,primary,1.0,0.062
+SAMN20163134,PRJNA745329,0312,,adult,20089.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-12,primary,1.0,0.272
+SAMN20163136,PRJNA745329,0330,,adult,19724.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-12,primary,1.0,0.396
+SAMN20163147,PRJNA745329,0354,,adult,13514.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-17,primary,1.0,0.118
+SAMN20163158,PRJNA745329,0377,,elderly,26663.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-17,primary,1.0,0.395
+SAMN20163159,PRJNA745329,0379,,elderly,26663.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-17,primary,1.0,0.513
+SAMN20163160,PRJNA745329,0388,,elderly,29220.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-01-17,primary,1.0,0.261
+SAMN20163161,PRJNA745329,0392,,elderly,29220.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-01-17,primary,1.0,0.004
+SAMN20163162,PRJNA745329,0395,,elderly,29220.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-01-17,primary,1.0,0.014
+SAMN20163169,PRJNA745329,0412,,elderly,26663.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-19,primary,1.0,0.492
+SAMN20163170,PRJNA745329,0415,,elderly,26663.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-01-19,primary,1.0,1.805
+SAMN20163171,PRJNA745329,0424,,elderly,29220.0,male,US,other_disease,serrated,,,no,2018-01-19,primary,1.0,0.102
+SAMN20163172,PRJNA745329,0428,,elderly,29220.0,male,US,other_disease,serrated,,,no,2018-01-19,primary,1.0,0.486
+SAMN20163173,PRJNA745329,0437,,elderly,24837.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-19,primary,1.0,0.469
+SAMN20163174,PRJNA745329,0439,,elderly,24837.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-19,primary,1.0,0.461
+SAMN20163180,PRJNA745329,0461,,adult,22646.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-24,primary,1.0,0.298
+SAMN20163191,PRJNA745329,0485,,elderly,28855.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-24,primary,1.0,0.098
+SAMN20163194,PRJNA745329,0490,,elderly,28855.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-24,primary,1.0,0.246
+SAMN20163199,PRJNA745329,0497,,adult,20454.0,female,US,colorectal_adenoma,serrated,bowel_preparation,,no,2018-01-24,primary,1.0,0.004
+SAMN20163218,PRJNA745329,0532,,adult,12053.0,male,US,healthy_control,healthy,,,no,2018-01-26,primary,1.0,0.341
+SAMN20163219,PRJNA745329,0535,,adult,12053.0,male,US,healthy_control,healthy,,,no,2018-01-26,primary,1.0,0.492
+SAMN20163226,PRJNA745329,0557,,adult,23011.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-31,primary,1.0,0.498
+SAMN20163227,PRJNA745329,0559,,adult,23011.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-31,primary,1.0,0.448
+SAMN20163228,PRJNA745329,0569,,adult,21184.0,female,US,healthy_control,healthy,,,no,2018-01-31,primary,1.0,0.087
+SAMN20163229,PRJNA745329,0571,,adult,21184.0,female,US,healthy_control,healthy,,,no,2018-01-31,primary,1.0,0.136
+SAMN20163237,PRJNA745329,0592,,elderly,25568.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-31,primary,1.0,0.051
+SAMN20163239,PRJNA745329,0599,,elderly,25568.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-01-31,primary,1.0,0.296
+SAMN20163249,PRJNA745329,0616,,elderly,26663.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-31,primary,1.0,0.429
+SAMN20163250,PRJNA745329,0619,,elderly,26663.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-01-31,primary,1.0,0.55
+SAMN20163251,PRJNA745329,0629,,elderly,26663.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-02-02,primary,1.0,0.069
+SAMN20163268,PRJNA745329,0665,,elderly,27394.0,female,US,colorectal_adenoma,non-serrated,bowel_preparation,,no,2018-02-07,primary,1.0,0.004
+SAMN20163282,PRJNA745329,0690,,adult,,,US,healthy_control,healthy,,,no,2018-02-07,primary,1.0,0.362
+SAMN20163283,PRJNA745329,0693,,adult,,,US,healthy_control,healthy,,,no,2018-02-07,primary,1.0,0.218
+SAMN20163284,PRJNA745329,0701,,elderly,28124.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-07,primary,1.0,0.401
+SAMN20163285,PRJNA745329,0704,,elderly,28124.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-07,primary,1.0,0.326
+SAMN20163288,PRJNA745329,0720,,elderly,24837.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-09,primary,1.0,0.345
+SAMN20163292,PRJNA745329,0725,,elderly,24106.0,female,US,colorectal_cancer,adenocarcinoma,bowel_preparation,,no,2018-02-09,primary,1.0,0.377
+SAMN20163293,PRJNA745329,0728,,elderly,24106.0,female,US,colorectal_cancer,adenocarcinoma,bowel_preparation,,no,2018-02-09,primary,1.0,0.387
+SAMN20163294,PRJNA745329,0737,,adult,23011.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-02-09,primary,1.0,0.322
+SAMN20163295,PRJNA745329,0740,,adult,23011.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-02-09,primary,1.0,0.592
+SAMN20163296,PRJNA745329,0750,,adult,,,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.123
+SAMN20163297,PRJNA745329,0753,,adult,,,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.408
+SAMN20163298,PRJNA745329,0761,,adult,18993.0,male,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.344
+SAMN20163299,PRJNA745329,0765,,adult,18993.0,male,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.493
+SAMN20163300,PRJNA745329,0777,,adult,20089.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-14,primary,1.0,0.279
+SAMN20163301,PRJNA745329,0785,,elderly,31412.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-14,primary,1.0,0.234
+SAMN20163302,PRJNA745329,0788,,elderly,31412.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-14,primary,1.0,0.52
+SAMN20163303,PRJNA745329,0791,,elderly,31412.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-14,primary,1.0,0.194
+SAMN20163304,PRJNA745329,0798,,adult,,,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.004
+SAMN20163305,PRJNA745329,0809,,elderly,24472.0,male,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.337
+SAMN20163306,PRJNA745329,0812,,elderly,24472.0,male,US,healthy_control,healthy,,,no,2018-02-14,primary,1.0,0.399
+SAMN20163307,PRJNA745329,0825,,adult,22646.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-02-16,primary,1.0,0.235
+SAMN20163308,PRJNA745329,0828,,adult,22646.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-02-16,primary,1.0,0.306
+SAMN20163309,PRJNA745329,0834,,adult,23741.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-02-16,primary,1.0,0.268
+SAMN20163310,PRJNA745329,0837,,adult,23741.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-02-16,primary,1.0,0.111
+SAMN20163311,PRJNA745329,0846,,elderly,24837.0,female,US,healthy_control,healthy,,,no,2018-02-16,primary,1.0,0.265
+SAMN20163312,PRJNA745329,0857,,adult,11688.0,male,US,healthy_control,healthy,,,no,2018-02-16,primary,1.0,0.306
+SAMN20163313,PRJNA745329,0859,,adult,11688.0,male,US,healthy_control,healthy,,,no,2018-02-16,primary,1.0,0.301
+SAMN20163314,PRJNA745329,0872,,elderly,24472.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-16,primary,1.0,0.418
+SAMN20163315,PRJNA745329,0875,,elderly,24472.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-16,primary,1.0,0.29
+SAMN20163317,PRJNA745329,0886,,adult,18628.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-02-16,primary,1.0,0.498
+SAMN20163323,PRJNA745329,0896,,adult,,female,US,healthy_control,healthy,,,no,2018-02-21,primary,1.0,0.381
+SAMN20163324,PRJNA745329,0909,,adult,23741.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-21,primary,1.0,0.293
+SAMN20163325,PRJNA745329,0911,,adult,23741.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-21,primary,1.0,0.108
+SAMN20163326,PRJNA745329,0925,,adult,,,US,other_disease,serrated,,,no,2018-02-21,primary,1.0,0.397
+SAMN20163327,PRJNA745329,0935,,elderly,32872.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-23,primary,1.0,0.334
+SAMN20163328,PRJNA745329,0938,,elderly,32872.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-02-23,primary,1.0,0.497
+SAMN20163329,PRJNA745329,0948,,elderly,24106.0,male,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.391
+SAMN20163330,PRJNA745329,0950,,elderly,24106.0,male,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.46
+SAMN20163331,PRJNA745329,0953,,elderly,24106.0,male,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.564
+SAMN20163332,PRJNA745329,0960,,elderly,24837.0,female,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.004
+SAMN20163333,PRJNA745329,0963,,elderly,24837.0,female,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.004
+SAMN20163334,PRJNA745329,0974,,adult,,,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.397
+SAMN20163335,PRJNA745329,0976,,adult,,,US,healthy_control,healthy,,,no,2018-02-25,primary,1.0,0.409
+SAMN20163336,PRJNA745329,0987,,adult,19358.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-02-25,primary,1.0,0.362
+SAMN20163337,PRJNA745329,0990,,adult,19358.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-02-25,primary,1.0,0.291
+SAMN20163338,PRJNA745329,0999,,adult,20089.0,female,US,colorectal_adenoma,TA,,,no,2018-02-28,primary,1.0,0.353
+SAMN20163339,PRJNA745329,1003,,adult,20089.0,female,US,colorectal_adenoma,TA,,,no,2018-02-28,primary,1.0,0.229
+SAMN20163340,PRJNA745329,1026,,adult,,,US,healthy_control,healthy,,,no,2018-02-28,primary,1.0,0.219
+SAMN20163341,PRJNA745329,1029,,adult,,,US,healthy_control,healthy,,,no,2018-02-28,primary,1.0,0.557
+SAMN20163342,PRJNA745329,1032,,adult,,,US,healthy_control,healthy,,,no,2018-02-28,primary,1.0,0.14
+SAMN20163343,PRJNA745329,1040,,adult,17897.0,male,US,healthy_control,healthy,bowel_preparation,,no,2018-02-28,primary,1.0,0.12
+SAMN20163344,PRJNA745329,1042,,adult,17897.0,male,US,healthy_control,healthy,bowel_preparation,,no,2018-02-28,primary,1.0,0.046
+SAMN20163345,PRJNA745329,1045,,adult,17897.0,male,US,healthy_control,healthy,bowel_preparation,,no,2018-02-28,primary,1.0,0.145
+SAMN20163346,PRJNA745329,1052,,elderly,24472.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-02-28,primary,1.0,0.378
+SAMN20163347,PRJNA745329,1056,,elderly,24472.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-02-28,primary,1.0,0.282
+SAMN20163348,PRJNA745329,1066,,adult,,,US,other_disease,serrated,,,no,2018-03-02,primary,1.0,0.376
+SAMN20163349,PRJNA745329,1068,,adult,,,US,other_disease,serrated,,,no,2018-03-02,primary,1.0,0.476
+SAMN20163350,PRJNA745329,1071,,adult,,,US,other_disease,serrated,,,no,2018-03-02,primary,1.0,0.432
+SAMN20163351,PRJNA745329,1079,,adult,20819.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-03-02,primary,1.0,0.402
+SAMN20163352,PRJNA745329,1081,,adult,20819.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-03-02,primary,1.0,0.298
+SAMN20163353,PRJNA745329,1104,,adult,16071.0,male,US,healthy_control,healthy,,,no,2018-03-02,primary,1.0,0.301
+SAMN20163354,PRJNA745329,1108,,adult,16071.0,male,US,healthy_control,healthy,,,no,2018-03-02,primary,1.0,0.376
+SAMN20163355,PRJNA745329,1117,,adult,21550.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-03-02,primary,1.0,0.127
+SAMN20163356,PRJNA745329,1120,,adult,21550.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-03-02,primary,1.0,0.386
+SAMN20163357,PRJNA745329,1130,,elderly,24472.0,male,US,healthy_control,healthy,,,no,2018-03-02,primary,1.0,0.602
+SAMN20163358,PRJNA745329,1134,,elderly,24472.0,male,US,healthy_control,healthy,,,no,2018-03-02,primary,1.0,0.505
+SAMN20163359,PRJNA745329,1159,,elderly,25933.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-03-07,primary,1.0,0.597
+SAMN20163360,PRJNA745329,1162,,elderly,25933.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-03-07,primary,1.0,0.376
+SAMN20163361,PRJNA745329,1170,,adult,20819.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-03-21,primary,1.0,0.406
+SAMN20163362,PRJNA745329,1173,,adult,20819.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-03-21,primary,1.0,0.331
+SAMN20163363,PRJNA745329,1183,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-03-30,primary,1.0,0.055
+SAMN20163364,PRJNA745329,1186,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-03-30,primary,1.0,0.494
+SAMN20163365,PRJNA745329,1209,,adult,19358.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-04,primary,1.0,0.369
+SAMN20163366,PRJNA745329,1211,,adult,19358.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-04,primary,1.0,0.416
+SAMN20163368,PRJNA745329,1222,,adult,19724.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-04-04,primary,1.0,0.322
+SAMN20163371,PRJNA745329,1228,,adult,19724.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-04-04,primary,1.0,0.143
+SAMN20163375,PRJNA745329,1234,,adult,11323.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-04-04,primary,1.0,0.423
+SAMN20163376,PRJNA745329,1237,,adult,11323.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-04-04,primary,1.0,0.361
+SAMN20163377,PRJNA745329,1248,,adult,23741.0,female,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.079
+SAMN20163378,PRJNA745329,1250,,adult,23741.0,female,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.486
+SAMN20163379,PRJNA745329,1277,,adult,19358.0,male,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.367
+SAMN20163380,PRJNA745329,1287,,adult,23376.0,female,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.301
+SAMN20163381,PRJNA745329,1289,,adult,23376.0,female,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.438
+SAMN20163382,PRJNA745329,1299,,elderly,25202.0,male,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.408
+SAMN20163383,PRJNA745329,1302,,elderly,25202.0,male,US,healthy_control,healthy,,,no,2018-04-06,primary,1.0,0.33
+SAMN20163384,PRJNA745329,1312,,adult,20819.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-06,primary,1.0,0.949
+SAMN20163385,PRJNA745329,1316,,adult,20819.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-06,primary,1.0,0.152
+SAMN20163386,PRJNA745329,1318,,adult,20819.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-06,primary,1.0,0.107
+SAMN20163387,PRJNA745329,1325,,adult,8036.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-11,primary,1.0,0.348
+SAMN20163388,PRJNA745329,1328,,adult,8036.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-11,primary,1.0,0.432
+SAMN20163389,PRJNA745329,1339,,elderly,30316.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-11,primary,1.0,0.353
+SAMN20163390,PRJNA745329,1341,,elderly,30316.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-11,primary,1.0,0.198
+SAMN20163397,PRJNA745329,1365,,adult,20454.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-13,primary,1.0,0.116
+SAMN20163398,PRJNA745329,1367,,adult,20454.0,male,US,colorectal_adenoma,serrated,bowel_preparation,,no,2018-04-13,primary,1.0,0.017
+SAMN20163399,PRJNA745329,1378,,adult,12053.0,female,US,healthy_control,healthy,,,no,2018-04-13,primary,1.0,0.52
+SAMN20163400,PRJNA745329,1380,,adult,12053.0,female,US,healthy_control,healthy,,,no,2018-04-13,primary,1.0,0.331
+SAMN20163401,PRJNA745329,1391,,adult,18993.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-13,primary,1.0,0.347
+SAMN20163402,PRJNA745329,1393,,adult,18993.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-13,primary,1.0,0.286
+SAMN20163403,PRJNA745329,1403,,adult,23741.0,female,US,healthy_control,healthy,,,no,2018-04-18,primary,1.0,0.132
+SAMN20163404,PRJNA745329,1406,,adult,23741.0,female,US,healthy_control,healthy,,,no,2018-04-18,primary,1.0,0.336
+SAMN20163405,PRJNA745329,1417,,adult,23741.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-18,primary,1.0,0.309
+SAMN20163406,PRJNA745329,1420,,adult,23741.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-18,primary,1.0,0.437
+SAMN20163407,PRJNA745329,1429,,elderly,24106.0,female,US,healthy_control,healthy,,,no,2018-04-18,primary,1.0,0.238
+SAMN20163408,PRJNA745329,1432,,elderly,24106.0,female,US,healthy_control,healthy,,,no,2018-04-18,primary,1.0,0.212
+SAMN20163409,PRJNA745329,1443,,elderly,26663.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-18,primary,1.0,0.492
+SAMN20163410,PRJNA745329,1445,,elderly,26663.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-18,primary,1.0,0.311
+SAMN20163411,PRJNA745329,1449,,elderly,26663.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-18,primary,1.0,0.356
+SAMN20163412,PRJNA745329,1455,,adult,19724.0,male,US,healthy_control,healthy,,,no,2018-04-20,primary,1.0,0.209
+SAMN20163413,PRJNA745329,1458,,adult,19724.0,male,US,healthy_control,healthy,,,no,2018-04-20,primary,1.0,0.39
+SAMN20163414,PRJNA745329,1468,,adult,19358.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-20,primary,1.0,0.434
+SAMN20163415,PRJNA745329,1472,,adult,19358.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-20,primary,1.0,0.228
+SAMN20163416,PRJNA745329,1482,,elderly,25933.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-04-20,primary,1.0,0.173
+SAMN20163417,PRJNA745329,1484,,elderly,25933.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-04-20,primary,1.0,0.404
+SAMN20163418,PRJNA745329,1494,,adult,18628.0,female,US,healthy_control,healthy,bowel_preparation,,no,2018-04-20,primary,1.0,0.469
+SAMN20163419,PRJNA745329,1498,,adult,18628.0,female,US,healthy_control,healthy,bowel_preparation,,no,2018-04-20,primary,1.0,0.143
+SAMN20163420,PRJNA745329,1508,,adult,18993.0,female,US,healthy_control,healthy,,,no,2018-04-20,primary,1.0,0.152
+SAMN20163421,PRJNA745329,1510,,adult,18993.0,female,US,healthy_control,healthy,,,no,2018-04-20,primary,1.0,0.091
+SAMN20163422,PRJNA745329,1520,,elderly,25568.0,female,US,healthy_control,healthy,,,no,2018-04-25,primary,1.0,0.213
+SAMN20163423,PRJNA745329,1524,,elderly,25568.0,female,US,healthy_control,healthy,,,no,2018-04-25,primary,1.0,0.28
+SAMN20163424,PRJNA745329,1534,,adult,23376.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-25,primary,1.0,0.331
+SAMN20163425,PRJNA745329,1536,,adult,23376.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-04-25,primary,1.0,0.112
+SAMN20163426,PRJNA745329,1546,,adult,20089.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-27,primary,1.0,0.178
+SAMN20163427,PRJNA745329,1550,,adult,20089.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-04-27,primary,1.0,0.323
+SAMN20163428,PRJNA745329,1559,,adult,18993.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-04-27,primary,1.0,0.357
+SAMN20163429,PRJNA745329,1561,,adult,18993.0,male,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-04-27,primary,1.0,0.398
+SAMN20163430,PRJNA745329,1572,,elderly,24472.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-02,primary,1.0,0.089
+SAMN20163431,PRJNA745329,1584,,elderly,24106.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-05-02,primary,1.0,0.331
+SAMN20163432,PRJNA745329,1588,,elderly,24106.0,female,US,other_disease,serrated,bowel_preparation,,no,2018-05-02,primary,1.0,0.444
+SAMN20163433,PRJNA745329,1597,,adult,11688.0,male,US,healthy_control,healthy,,,no,2018-05-02,primary,1.0,0.442
+SAMN20163434,PRJNA745329,1600,,adult,11688.0,male,US,healthy_control,healthy,,,no,2018-05-02,primary,1.0,0.415
+SAMN20163435,PRJNA745329,1611,,elderly,24837.0,male,US,colorectal_adenoma,serrated,bowel_preparation,,no,2018-05-02,primary,1.0,0.02
+SAMN20163436,PRJNA745329,1613,,elderly,24837.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-05-02,primary,1.0,0.188
+SAMN20163437,PRJNA745329,1617,,elderly,24837.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-05-02,primary,1.0,0.086
+SAMN20163438,PRJNA745329,1623,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-02,primary,1.0,0.165
+SAMN20163439,PRJNA745329,1627,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-02,primary,1.0,0.265
+SAMN20163440,PRJNA745329,1629,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-02,primary,1.0,0.106
+SAMN20163441,PRJNA745329,1637,,adult,21915.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-05-04,primary,1.0,0.301
+SAMN20163442,PRJNA745329,1639,,adult,21915.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-05-04,primary,1.0,0.417
+SAMN20163443,PRJNA745329,1650,,adult,19358.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.173
+SAMN20163444,PRJNA745329,1652,,adult,19358.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.316
+SAMN20163445,PRJNA745329,1663,,elderly,25933.0,female,US,healthy_control,healthy,bowel_preparation,,no,2018-05-04,primary,1.0,0.065
+SAMN20163446,PRJNA745329,1666,,elderly,25933.0,female,US,healthy_control,healthy,bowel_preparation,,no,2018-05-04,primary,1.0,0.289
+SAMN20163447,PRJNA745329,1676,,adult,18262.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.201
+SAMN20163448,PRJNA745329,1679,,adult,18262.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.147
+SAMN20163449,PRJNA745329,1688,,elderly,29220.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.326
+SAMN20163450,PRJNA745329,1691,,elderly,29220.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.008
+SAMN20163451,PRJNA745329,1695,,elderly,29220.0,female,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-04,primary,1.0,0.116
+SAMN20163452,PRJNA745329,1703,,elderly,25202.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-09,primary,1.0,0.32
+SAMN20163453,PRJNA745329,1706,,elderly,25202.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-09,primary,1.0,0.416
+SAMN20163454,PRJNA745329,1717,,elderly,27394.0,male,US,healthy_control,healthy,,,no,2018-05-09,primary,1.0,0.445
+SAMN20163455,PRJNA745329,1720,,elderly,27394.0,male,US,healthy_control,healthy,,,no,2018-05-09,primary,1.0,0.348
+SAMN20163456,PRJNA745329,1732,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-09,primary,1.0,0.278
+SAMN20163457,PRJNA745329,1734,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-09,primary,1.0,0.359
+SAMN20163458,PRJNA745329,1745,,adult,23376.0,female,US,healthy_control,healthy,bowel_preparation,,no,2018-05-09,primary,1.0,0.038
+SAMN20163459,PRJNA745329,1748,,adult,23376.0,female,US,healthy_control,healthy,bowel_preparation,,no,2018-05-09,primary,1.0,0.093
+SAMN20163460,PRJNA745329,1760,,elderly,24472.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-11,primary,1.0,0.461
+SAMN20163461,PRJNA745329,1763,,elderly,24472.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-11,primary,1.0,0.338
+SAMN20163462,PRJNA745329,1771,,adult,16802.0,male,US,other_disease,serrated,bowel_preparation,,no,2018-05-11,primary,1.0,0.048
+SAMN20163463,PRJNA745329,1783,,adult,22280.0,male,US,colorectal_adenoma,TA,,,no,2018-05-11,primary,1.0,0.505
+SAMN20163464,PRJNA745329,1789,,adult,22280.0,male,US,colorectal_adenoma,TA,,,no,2018-05-11,primary,1.0,0.643
+SAMN20163465,PRJNA745329,1800,,adult,13514.0,female,US,healthy_control,healthy,,,no,2018-05-11,primary,1.0,0.31
+SAMN20163466,PRJNA745329,1812,,elderly,24106.0,male,US,colorectal_adenoma,TA,bowel_preparation,,no,2018-05-11,primary,1.0,0.277
+SAMN20163467,PRJNA745329,1822,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-16,primary,1.0,0.4
+SAMN20163468,PRJNA745329,1826,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-05-16,primary,1.0,0.464
+SAMN20163469,PRJNA745329,1835,,adult,,,US,healthy_control,healthy,,,no,2018-05-16,primary,1.0,0.139
+SAMN20163470,PRJNA745329,1838,,adult,,,US,healthy_control,healthy,,,no,2018-05-16,primary,1.0,0.394
+SAMN20163471,PRJNA745329,1841,,adult,,,US,healthy_control,healthy,,,no,2018-05-16,primary,1.0,0.317
+SAMN20163472,PRJNA745329,1849,,adult,20089.0,female,US,healthy_control,healthy,,,no,2018-05-18,primary,1.0,0.324
+SAMN20163473,PRJNA745329,1851,,adult,20089.0,female,US,healthy_control,healthy,,,no,2018-05-18,primary,1.0,0.004
+SAMN20163474,PRJNA745329,1862,,elderly,25202.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-05-18,primary,1.0,0.079
+SAMN20163475,PRJNA745329,1864,,elderly,25202.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",bowel_preparation,,no,2018-05-18,primary,1.0,0.016
+SAMN20163514,PRJNA745329,OLD-SAMPLE,,elderly,26298.0,male,US,healthy_control,healthy,bowel_preparation,,no,2017-12-22,primary,1.0,0.523
+SAMN20163476,PRJNA745329,P008F,,adult,22280.0,male,US,colorectal_adenoma,TA,,,no,2018-06-01,primary,1.0,0.414
+SAMN20163477,PRJNA745329,P011F,,adult,23376.0,male,US,colorectal_adenoma,TA,,,no,2018-04-16,primary,1.0,0.418
+SAMN20163478,PRJNA745329,P013F,,elderly,25202.0,female,US,other_disease,serrated,,,no,2018-04-16,primary,1.0,0.299
+SAMN20163479,PRJNA745329,P018F,,adult,21915.0,female,US,healthy_control,healthy,,,no,2018-04-22,primary,1.0,0.379
+SAMN20163480,PRJNA745329,P021F,,adult,12053.0,male,US,healthy_control,healthy,,,no,2018-04-13,primary,1.0,0.412
+SAMN20163481,PRJNA745329,P025F,,elderly,29220.0,female,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-04-16,primary,1.0,0.474
+SAMN20163482,PRJNA745329,P033F,,elderly,28855.0,male,US,colorectal_adenoma,TA,,,no,2018-04-14,primary,1.0,0.292
+SAMN20163483,PRJNA745329,P034F,,adult,20454.0,female,US,other_disease,serrated,,,no,2018-04-17,primary,1.0,0.31
+SAMN20163484,PRJNA745329,P040F,,adult,21184.0,female,US,healthy_control,healthy,,,no,2018-06-14,primary,1.0,0.433
+SAMN20163485,PRJNA745329,P042F,,elderly,25568.0,female,US,other_disease,serrated,,,no,2018-06-14,primary,1.0,0.293
+SAMN20163486,PRJNA745329,P046F,,elderly,24472.0,female,US,colorectal_adenoma,TA,,,no,2018-04-29,primary,1.0,0.334
+SAMN20163487,PRJNA745329,P048F,,elderly,27394.0,female,US,colorectal_adenoma,TA,,,no,2018-04-13,primary,1.0,0.368
+SAMN20163488,PRJNA745329,P052F,,elderly,24837.0,male,US,colorectal_adenoma,TA,,,no,2018-04-16,primary,1.0,0.461
+SAMN20163489,PRJNA745329,P058F,,elderly,31412.0,female,US,colorectal_adenoma,TA,,,no,2018-06-18,primary,1.0,0.415
+SAMN20163490,PRJNA745329,P060F,,elderly,24472.0,male,US,healthy_control,healthy,,,no,2018-06-14,primary,1.0,0.155
+SAMN20163491,PRJNA745329,P061F,,adult,22646.0,female,US,other_disease,serrated,,,no,2018-06-20,primary,1.0,0.243
+SAMN20163492,PRJNA745329,P062F,,adult,23741.0,female,US,other_disease,serrated,,,no,2018-06-14,primary,1.0,0.304
+SAMN20163493,PRJNA745329,P065F,,elderly,24472.0,female,US,colorectal_adenoma,TA,,,no,2018-06-16,primary,1.0,0.201
+SAMN20163494,PRJNA745329,P071F,,elderly,24106.0,male,US,healthy_control,healthy,,,no,2018-06-14,primary,1.0,0.29
+SAMN20163495,PRJNA745329,P076F,,adult,19724.0,female,US,colorectal_adenoma,TA,,,no,2018-06-21,primary,1.0,0.227
+SAMN20163496,PRJNA745329,P077F,,adult,,,US,healthy_control,healthy,,,no,2018-09-05,primary,1.0,0.238
+SAMN20163497,PRJNA745329,P078F,,adult,17897.0,male,US,healthy_control,healthy,,,no,2018-06-15,primary,1.0,0.289
+SAMN20163498,PRJNA745329,P079F,,elderly,24472.0,female,US,other_disease,serrated,,,no,2018-06-22,primary,1.0,0.3
+SAMN20163499,PRJNA745329,P080F,,adult,,,US,other_disease,serrated,,,no,2018-07-02,primary,1.0,0.294
+SAMN20163500,PRJNA745329,P082F,,elderly,27759.0,male,US,colorectal_adenoma,TA,,,no,2018-06-15,primary,1.0,0.295
+SAMN20163501,PRJNA745329,P087F,,elderly,25933.0,female,US,colorectal_adenoma,TA,,,no,2018-06-13,primary,1.0,0.246
+SAMN20163502,PRJNA745329,P089F,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-06-15,primary,1.0,0.265
+SAMN20163503,PRJNA745329,P090F,,elderly,24106.0,female,US,colorectal_adenoma,TA,,,no,2018-06-14,primary,1.0,0.261
+SAMN20163504,PRJNA745329,P092F,,adult,19724.0,female,US,other_disease,serrated,,,no,2018-06-16,primary,1.0,0.348
+SAMN20163505,PRJNA745329,P099F,,adult,20819.0,female,US,colorectal_adenoma,TA,,,no,2018-06-15,primary,1.0,0.262
+SAMN20163506,PRJNA745329,P109F,,elderly,26663.0,male,US,colorectal_adenoma,TA,,,no,2018-06-19,primary,1.0,0.271
+SAMN20163507,PRJNA745329,P122F,,elderly,24837.0,male,US,other_disease,serrated,,,no,2018-07-18,primary,1.0,0.401
+SAMN20163508,PRJNA745329,P123F,,adult,,,US,,"mixed_case_control: polyp-free individuals vs. tubular adenomas, hyperplastic polyps, sessile serrated polyps",,,no,2018-06-21,primary,1.0,0.428
+SAMN20163509,PRJNA745329,P129F,,elderly,25202.0,male,US,colorectal_adenoma,TA,,,no,2018-07-02,primary,1.0,0.469
+SAMN20163510,PRJNA745329,P132F,,adult,23376.0,female,US,healthy_control,healthy,,,no,2018-06-22,primary,1.0,0.322
+SAMN20163511,PRJNA745329,P133F,,elderly,24472.0,male,US,colorectal_adenoma,TA,,,no,2018-06-24,primary,1.0,0.418
+SAMN20163512,PRJNA745329,P135F,,adult,22280.0,male,US,colorectal_adenoma,TA,,,no,2018-12-06,primary,1.0,0.465
+SAMN20163513,PRJNA745329,P139F,,adult,,,US,healthy_control,healthy,,,no,2018-06-21,primary,1.0,0.526
