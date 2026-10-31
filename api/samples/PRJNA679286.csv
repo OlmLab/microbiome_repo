@@ -1,0 +1,128 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN18527471,PRJNA679286,R01,Timepoint 00,adult,22627.0,female,US,other_disease,DEGENERATIVE,,,,1980-06-01,primary,1.0,0.08
+SAMN18527486,PRJNA679286,R01,Timepoint 01,adult,22627.0,female,US,other_disease,DEGENERATIVE,,,,1980-06-01,primary,1.0,0.074
+SAMN18527487,PRJNA679286,R01,Timepoint 02,adult,22627.0,female,US,other_disease,DEGENERATIVE,,,,1980-06-01,primary,1.0,0.078
+SAMN18527488,PRJNA679286,R01,Timepoint 03,adult,22627.0,female,US,other_disease,DEGENERATIVE,,,,1980-06-01,primary,1.0,0.072
+SAMN18527489,PRJNA679286,R01,Timepoint 04,adult,22627.0,female,US,other_disease,DEGENERATIVE,,,,1980-06-01,primary,1.0,0.072
+SAMN18527418,PRJNA679286,R01D01,Donor 01,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.071
+SAMN18527472,PRJNA679286,R02,Timepoint 00,adult,9857.0,male,US,other_disease,GLOMUS TUMOR,,,,1980-06-01,primary,1.0,0.197
+SAMN18527490,PRJNA679286,R02,Timepoint 01,adult,9857.0,male,US,other_disease,GLOMUS TUMOR,,,,1980-06-01,primary,1.0,0.205
+SAMN18527491,PRJNA679286,R02,Timepoint 02,adult,9857.0,male,US,other_disease,GLOMUS TUMOR,,,,1980-06-01,primary,1.0,0.266
+SAMN18527492,PRJNA679286,R02,Timepoint 03,adult,9857.0,male,US,other_disease,GLOMUS TUMOR,,,,1980-06-01,primary,1.0,0.128
+SAMN18527493,PRJNA679286,R02,Timepoint 04,adult,9857.0,male,US,other_disease,GLOMUS TUMOR,,,,1980-06-01,primary,1.0,0.242
+SAMN18527419,PRJNA679286,R02D01,Donor 01,adult,9496.5,male,US,,,,,,1980-06-01,primary,1.0,0.038
+SAMN18527420,PRJNA679286,R02D02,Donor 02,adult,,male,US,,,,,,1980-06-01,primary,1.0,0.079
+SAMN18527421,PRJNA679286,R02D03,Donor 03,adult,10601.0,male,US,,,,,,1980-06-01,primary,1.0,0.133
+SAMN18527422,PRJNA679286,R02D04,Donor 04,adult,22627.0,male,US,,,,,,1980-06-01,primary,1.0,0.289
+SAMN18527473,PRJNA679286,R03,Timepoint 00,adult,20820.0,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,1.0,0.148
+SAMN18527494,PRJNA679286,R03,Timepoint 01,adult,20820.0,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,1.0,0.642
+SAMN18527495,PRJNA679286,R03,Timepoint 02,adult,20820.0,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,1.0,0.521
+SAMN18527496,PRJNA679286,R03,Timepoint 03,adult,20820.0,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,1.0,0.321
+SAMN18527497,PRJNA679286,R03,Timepoint 04,adult,20820.0,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,1.0,0.227
+SAMN18527423,PRJNA679286,R03D01,Donor 01,adult,,male,US,,,,,,1980-06-01,primary,1.0,0.026
+SAMN18527424,PRJNA679286,R03D02,Donor 02,adult,,male,US,,,,,,1980-06-01,primary,1.0,0.034
+SAMN18527425,PRJNA679286,R03D03,Donor 03,adult,16791.5,male,US,,,,,,1980-06-01,primary,1.0,0.032
+SAMN18527474,PRJNA679286,R04,Timepoint 00,adult,19706.0,male,US,other_disease,DEG JT DIS,,,,1980-06-01,primary,5.0,0.315
+SAMN18527498,PRJNA679286,R04,Timepoint 01,adult,19706.0,male,US,other_disease,DEG JT DIS,,,,1980-06-01,primary,7.0,81.395
+SAMN18527499,PRJNA679286,R04,Timepoint 02,adult,19706.0,male,US,other_disease,DEG JT DIS,,,,1980-06-01,primary,5.0,2.111
+SAMN18527500,PRJNA679286,R04,Timepoint 03,adult,19706.0,male,US,other_disease,DEG JT DIS,,,,1980-06-01,primary,5.0,4.076
+SAMN18527501,PRJNA679286,R04,Timepoint 04,adult,19706.0,male,US,other_disease,DEG JT DIS,,,,1980-06-01,primary,5.0,2.452
+SAMN18527426,PRJNA679286,R04D01,Donor 01,adult,,male,US,,,,,,1980-06-01,primary,5.0,1.078
+SAMN18527427,PRJNA679286,R04D02,Donor 02,adult,12043.2,male,US,,,,,,1980-06-01,primary,5.0,0.278
+SAMN18527475,PRJNA679286,R05,Timepoint 00,adult,23376.0,female,US,cardiometabolic_other,AORTIC STEN-,,,,1980-06-01,primary,2.0,2.542
+SAMN18527502,PRJNA679286,R05,Timepoint 01,adult,23376.0,female,US,cardiometabolic_other,AORTIC STEN-,,,,1980-06-01,primary,2.0,3.712
+SAMN18527503,PRJNA679286,R05,Timepoint 02,adult,23376.0,female,US,cardiometabolic_other,AORTIC STEN-,,,,1980-06-01,primary,2.0,7.204
+SAMN18527504,PRJNA679286,R05,Timepoint 03,adult,23376.0,female,US,cardiometabolic_other,AORTIC STEN-,,,,1980-06-01,primary,2.0,9.75
+SAMN18527505,PRJNA679286,R05,Timepoint 04,adult,23376.0,female,US,cardiometabolic_other,AORTIC STEN-,,,,1980-06-01,primary,2.0,4.723
+SAMN18527428,PRJNA679286,R05D01,Donor 01,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.021
+SAMN18527429,PRJNA679286,R05D02,Donor 02,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.144
+SAMN18527430,PRJNA679286,R05D03,Donor 03,adult,9496.5,female,US,,,,,,1980-06-01,primary,1.0,0.233
+SAMN18527431,PRJNA679286,R05D04,Donor 04,adult,10234.0,female,US,,,,,,1980-06-01,primary,2.0,0.091
+SAMN18527432,PRJNA679286,R05D05,Donor 05,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.166
+SAMN18527433,PRJNA679286,R05D06,Donor 06,adult,12417.9,female,US,,,,,,1980-06-01,primary,2.0,2.855
+SAMN18527434,PRJNA679286,R05D07,Donor 07,adult,8391.0,female,US,,,,,,1980-06-01,primary,1.0,0.182
+SAMN18527476,PRJNA679286,R06,Timepoint 00,adult,,male,US,cardiometabolic_other,COR ART DIS,,,,1980-06-01,primary,1.0,0.068
+SAMN18527506,PRJNA679286,R06,Timepoint 01,adult,,male,US,cardiometabolic_other,COR ART DIS,,,,1980-06-01,primary,1.0,0.098
+SAMN18527507,PRJNA679286,R06,Timepoint 02,adult,,male,US,cardiometabolic_other,COR ART DIS,,,,1980-06-01,primary,1.0,0.168
+SAMN18527508,PRJNA679286,R06,Timepoint 03,adult,,male,US,cardiometabolic_other,COR ART DIS,,,,1980-06-01,primary,1.0,0.1
+SAMN18527509,PRJNA679286,R06,Timepoint 04,adult,,male,US,cardiometabolic_other,COR ART DIS,,,,1980-06-01,primary,1.0,0.03
+SAMN18527435,PRJNA679286,R06D01,Donor 01,adult,14239.8,male,US,,,,,,1980-06-01,primary,1.0,0.024
+SAMN18527436,PRJNA679286,R06D02,Donor 02,adult,9496.5,male,US,,,,,,1980-06-01,primary,1.0,0.039
+SAMN18527437,PRJNA679286,R06D03,Donor 03,adult,16069.0,male,US,,,,,,1980-06-01,primary,1.0,0.022
+SAMN18527477,PRJNA679286,R07,Timepoint 00,adult,,female,US,cardiometabolic_other,MITRAL STN'S,,,,1980-06-01,primary,1.0,0.041
+SAMN18527510,PRJNA679286,R07,Timepoint 01,adult,,female,US,cardiometabolic_other,MITRAL STN'S,,,,1980-06-01,primary,7.0,0.324
+SAMN18527511,PRJNA679286,R07,Timepoint 02,adult,,female,US,cardiometabolic_other,MITRAL STN'S,,,,1980-06-01,primary,4.0,1.004
+SAMN18527512,PRJNA679286,R07,Timepoint 03,adult,,female,US,cardiometabolic_other,MITRAL STN'S,,,,1980-06-01,primary,4.0,0.874
+SAMN18527513,PRJNA679286,R07,Timepoint 04,adult,,female,US,cardiometabolic_other,MITRAL STN'S,,,,1980-06-01,primary,4.0,0.664
+SAMN18527438,PRJNA679286,R07D01,Donor 01,adult,,female,US,,,,,,1980-06-01,primary,2.0,0.962
+SAMN18527439,PRJNA679286,R07D02,Donor 02,adult,16436.2,female,US,,,,,,1980-06-01,primary,4.0,0.022
+SAMN18527440,PRJNA679286,R07D03,Donor 03,adult,18993.0,female,US,,,,,,1980-06-01,primary,4.0,0.047
+SAMN18527442,PRJNA679286,R07D05,Donor 05,adult,11312.8,female,US,,,,,,1980-06-01,primary,7.0,0.468
+SAMN18527478,PRJNA679286,R08,Timepoint 00,adult,16791.5,male,US,cardiometabolic_other,CORONARY ART,,,,1980-06-01,primary,1.0,0.19
+SAMN18527514,PRJNA679286,R08,Timepoint 01,adult,16791.5,male,US,cardiometabolic_other,CORONARY ART,,,,1980-06-01,primary,1.0,1.268
+SAMN18527515,PRJNA679286,R08,Timepoint 02,adult,16791.5,male,US,cardiometabolic_other,CORONARY ART,,,,1980-06-01,primary,1.0,1.403
+SAMN18527516,PRJNA679286,R08,Timepoint 03,adult,16791.5,male,US,cardiometabolic_other,CORONARY ART,,,,1980-06-01,primary,1.0,0.153
+SAMN18527517,PRJNA679286,R08,Timepoint 04,adult,16791.5,male,US,cardiometabolic_other,CORONARY ART,,,,1980-06-01,primary,1.0,0.361
+SAMN18527443,PRJNA679286,R08D01,Donor 01,adult,9857.0,male,US,,,,,,1980-06-01,primary,1.0,0.119
+SAMN18527444,PRJNA679286,R08D02,Donor 02,adult,20820.0,male,US,,,,,,1980-06-01,primary,1.0,0.136
+SAMN18527445,PRJNA679286,R08D03,Donor 03,adult,15330.0,male,US,,,,,,1980-06-01,primary,1.0,0.036
+SAMN18527479,PRJNA679286,R09,Timepoint 00,adult,13878.5,female,US,other_disease,CERVICAL RIB,,,,1980-06-01,primary,1.0,0.158
+SAMN18527518,PRJNA679286,R09,Timepoint 01,adult,13878.5,female,US,other_disease,CERVICAL RIB,,,,1980-06-01,primary,1.0,0.897
+SAMN18527519,PRJNA679286,R09,Timepoint 02,adult,13878.5,female,US,other_disease,CERVICAL RIB,,,,1980-06-01,primary,1.0,1.224
+SAMN18527520,PRJNA679286,R09,Timepoint 03,adult,13878.5,female,US,other_disease,CERVICAL RIB,,,,1980-06-01,primary,1.0,6.354
+SAMN18527521,PRJNA679286,R09,Timepoint 04,adult,13878.5,female,US,other_disease,CERVICAL RIB,,,,1980-06-01,primary,1.0,0.074
+SAMN18527446,PRJNA679286,R09D01,Donor 01,adolescent,6205.8,female,US,,,,,,1980-06-01,primary,1.0,0.255
+SAMN18527480,PRJNA679286,R10,Timepoint 00,adult,7305.0,male,US,cardiometabolic_other,AORTIC STENO,,,,1980-06-01,primary,1.0,0.169
+SAMN18527522,PRJNA679286,R10,Timepoint 01,adult,7305.0,male,US,cardiometabolic_other,AORTIC STENO,,,,1980-06-01,primary,1.0,0.149
+SAMN18527523,PRJNA679286,R10,Timepoint 02,adult,7305.0,male,US,cardiometabolic_other,AORTIC STENO,,,,1980-06-01,primary,1.0,0.213
+SAMN18527524,PRJNA679286,R10,Timepoint 03,adult,7305.0,male,US,cardiometabolic_other,AORTIC STENO,,,,1980-06-01,primary,1.0,0.123
+SAMN18527525,PRJNA679286,R10,Timepoint 04,adult,7305.0,male,US,cardiometabolic_other,AORTIC STENO,,,,1980-06-01,primary,1.0,0.154
+SAMN18527447,PRJNA679286,R10D01,Donor 01,adult,10234.0,male,US,,,,,,1980-06-01,primary,1.0,0.146
+SAMN18527448,PRJNA679286,R10D02,Donor 02,adult,13504.0,male,US,,,,,,1980-06-01,primary,1.0,0.167
+SAMN18527481,PRJNA679286,R11,Timepoint 00,adult,,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,1.0,0.174
+SAMN18527526,PRJNA679286,R11,Timepoint 01,adult,,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,2.0,1.376
+SAMN18527527,PRJNA679286,R11,Timepoint 02,adult,,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,2.0,3.809
+SAMN18527528,PRJNA679286,R11,Timepoint 03,adult,,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,2.0,4.71
+SAMN18527529,PRJNA679286,R11,Timepoint 04,adult,,male,US,cardiometabolic_other,CAD,,,,1980-06-01,primary,2.0,4.014
+SAMN18527449,PRJNA679286,R11D01,Donor 01,adult,8766.0,male,US,,,,,,1980-06-01,primary,1.0,0.071
+SAMN18527450,PRJNA679286,R11D02,Donor 02,adult,12043.2,male,US,,,,,,1980-06-01,primary,1.0,0.125
+SAMN18527451,PRJNA679286,R11D03,Donor 03,adult,12417.9,male,US,,,,,,1980-06-01,primary,1.0,0.124
+SAMN18527452,PRJNA679286,R11D04,Donor 04,adult,8391.0,male,US,,,,,,1980-06-01,primary,1.0,0.112
+SAMN18527453,PRJNA679286,R11D05,Donor 05,adult,6939.0,male,US,,,,,,1980-06-01,primary,1.0,0.052
+SAMN18527482,PRJNA679286,R12,Timepoint 00,adult,7305.0,female,US,pregnancy_postpartum,REPEAT C-SECTION,,,,1980-06-01,primary,1.0,0.086
+SAMN18527530,PRJNA679286,R12,Timepoint 01,adult,7305.0,female,US,pregnancy_postpartum,REPEAT C-SECTION,,,,1980-06-01,primary,1.0,0.18
+SAMN18527531,PRJNA679286,R12,Timepoint 02,adult,7305.0,female,US,pregnancy_postpartum,REPEAT C-SECTION,,,,1980-06-01,primary,1.0,0.571
+SAMN18527532,PRJNA679286,R12,Timepoint 03,adult,7305.0,female,US,pregnancy_postpartum,REPEAT C-SECTION,,,,1980-06-01,primary,1.0,0.594
+SAMN18527533,PRJNA679286,R12,Timepoint 04,adult,7305.0,female,US,pregnancy_postpartum,REPEAT C-SECTION,,,,1980-06-01,primary,1.0,0.494
+SAMN18527454,PRJNA679286,R12D01,Donor 01,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.108
+SAMN18527483,PRJNA679286,R13,Timepoint 00,adult,20820.0,male,US,cardiometabolic_other,AAA,,,,1980-06-01,primary,3.0,0.028
+SAMN18527534,PRJNA679286,R13,Timepoint 01,adult,20820.0,male,US,cardiometabolic_other,AAA,,,,1980-06-01,primary,3.0,0.131
+SAMN18527535,PRJNA679286,R13,Timepoint 02,adult,20820.0,male,US,cardiometabolic_other,AAA,,,,1980-06-01,primary,3.0,0.133
+SAMN18527536,PRJNA679286,R13,Timepoint 03,adult,20820.0,male,US,cardiometabolic_other,AAA,,,,1980-06-01,primary,3.0,0.694
+SAMN18527537,PRJNA679286,R13,Timepoint 04,adult,20820.0,male,US,cardiometabolic_other,AAA,,,,1980-06-01,primary,3.0,1.114
+SAMN18527455,PRJNA679286,R13D01,Donor 01,adult,12417.9,male,US,,,,,,1980-06-01,primary,3.0,0.061
+SAMN18527456,PRJNA679286,R13D02,Donor 02,adult,,male,US,,,,,,1980-06-01,primary,3.0,0.088
+SAMN18527457,PRJNA679286,R13D03,Donor 03,adult,16069.0,male,US,,,,,,1980-06-01,primary,3.0,0.109
+SAMN18527458,PRJNA679286,R13D04,Donor 04,adult,,male,US,,,,,,1980-06-01,primary,3.0,0.138
+SAMN18527459,PRJNA679286,R13D05,Donor 05,adult,13149.0,male,US,,,,,,1980-06-01,primary,3.0,0.13
+SAMN18527460,PRJNA679286,R13D06,Donor 06,adult,8391.0,male,US,,,,,,1980-06-01,primary,3.0,0.132
+SAMN18527461,PRJNA679286,R13D07,Donor 07,adult,,male,US,,,,,,1980-06-01,primary,3.0,0.155
+SAMN18527462,PRJNA679286,R13D08,Donor 08,adult,,male,US,,,,,,1980-06-01,primary,2.0,0.066
+SAMN18527484,PRJNA679286,R14,Timepoint 00,elderly,,female,US,colorectal_cancer,CA RECTO SIGMOID,,,,1980-06-01,primary,1.0,0.101
+SAMN18527538,PRJNA679286,R14,Timepoint 01,elderly,,female,US,colorectal_cancer,CA RECTO SIGMOID,,,,1980-06-01,primary,1.0,1.642
+SAMN18527539,PRJNA679286,R14,Timepoint 02,elderly,,female,US,colorectal_cancer,CA RECTO SIGMOID,,,,1980-06-01,primary,1.0,0.204
+SAMN18527540,PRJNA679286,R14,Timepoint 03,elderly,,female,US,colorectal_cancer,CA RECTO SIGMOID,,,,1980-06-01,primary,1.0,0.188
+SAMN18527541,PRJNA679286,R14,Timepoint 04,elderly,,female,US,colorectal_cancer,CA RECTO SIGMOID,,,,1980-06-01,primary,1.0,0.21
+SAMN18527463,PRJNA679286,R14D01,Donor 01,adult,14239.8,female,US,,,,,,1980-06-01,primary,1.0,0.139
+SAMN18527464,PRJNA679286,R14D02,Donor 02,adult,10957.5,female,US,,,,,,1980-06-01,primary,1.0,0.152
+SAMN18527485,PRJNA679286,R15,Timepoint 00,adult,,female,US,,IRREGULAR HE,,,,1980-06-01,primary,2.0,0.533
+SAMN18527542,PRJNA679286,R15,Timepoint 01,adult,,female,US,,IRREGULAR HE,,,,1980-06-01,primary,2.0,3.715
+SAMN18527543,PRJNA679286,R15,Timepoint 02,adult,,female,US,,IRREGULAR HE,,,,1980-06-01,primary,2.0,0.601
+SAMN18527544,PRJNA679286,R15,Timepoint 03,adult,,female,US,,IRREGULAR HE,,,,1980-06-01,primary,2.0,0.857
+SAMN18527545,PRJNA679286,R15,Timepoint 04,adult,,female,US,,IRREGULAR HE,,,,1980-06-01,primary,2.0,0.531
+SAMN18527465,PRJNA679286,R15D01,Donor 01,adolescent,6205.8,female,US,,,,,,1980-06-01,primary,1.0,0.02
+SAMN18527466,PRJNA679286,R15D02,Donor 02,adult,16791.5,female,US,,,,,,1980-06-01,primary,1.0,0.061
+SAMN18527467,PRJNA679286,R15D03,Donor 03,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.602
+SAMN18527468,PRJNA679286,R15D04,Donor 04,adult,,female,US,,,,,,1980-06-01,primary,1.0,0.1
+SAMN18527469,PRJNA679286,R15D05,Donor 05,adult,,female,US,,,,,,1980-06-01,primary,2.0,0.917
+SAMN18527470,PRJNA679286,R15D06,Donor 06,adult,9496.5,female,US,,,,,,1980-06-01,primary,1.0,0.059

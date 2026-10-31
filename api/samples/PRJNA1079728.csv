@@ -1,0 +1,16 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN40078458,PRJNA1079728,BK046,,child,,male,SN,other_infection,fever,,,,2020-10-20,primary,2.0,0.473
+SAMN40078465,PRJNA1079728,BK120,,adult,12417.9,male,SN,other_infection,fever,,,,2020-10-23,primary,2.0,0.286
+SAMN40078459,PRJNA1079728,BK160,,adolescent,,male,SN,other_infection,fever,,,,2020-10-27,primary,2.0,0.402
+SAMN40078466,PRJNA1079728,BK245,,adult,10957.5,female,SN,other_infection,fever,,,,2021-04-17,primary,2.0,0.078
+SAMN40078460,PRJNA1079728,BK262,,adult,,female,SN,other_infection,fever,,,,2021-05-25,primary,2.0,0.343
+SAMN40078467,PRJNA1079728,BK263,,adult,7305.0,female,SN,other_infection,fever,,,,2021-05-26,primary,2.0,0.224
+SAMN40078461,PRJNA1079728,BK281,,adult,,male,SN,other_infection,fever,,,,2021-08-05,primary,2.0,0.379
+SAMN40078468,PRJNA1079728,BK307,,adult,13878.5,male,SN,other_infection,fever,,,,2022-01-06,primary,2.0,0.194
+SAMN40078469,PRJNA1079728,BK315,,adult,10957.5,female,SN,other_infection,fever,,,,2022-01-12,primary,2.0,0.564
+SAMN40078462,PRJNA1079728,BK387,,adult,16436.2,female,SN,other_infection,fever,,,,2022-07-29,primary,2.0,0.303
+SAMN40078463,PRJNA1079728,BK399,,child,,female,SN,other_infection,fever,,,,2022-07-30,primary,2.0,0.232
+SAMN40078472,PRJNA1079728,FZ006,,adult,9857.0,male,SN,other_infection,fever,,,,2021-01-19,primary,2.0,0.063
+SAMN40078470,PRJNA1079728,TV012,,elderly,25550.0,female,SN,other_infection,fever,,,,2021-10-08,primary,2.0,0.193
+SAMN40078464,PRJNA1079728,TV022,,adult,20820.0,female,SN,other_infection,fever,,,,2021-12-17,primary,2.0,1.14
+SAMN40078471,PRJNA1079728,TV023,,adult,8391.0,male,SN,other_infection,fever,,,,2021-12-17,primary,2.0,0.143

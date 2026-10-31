@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Downloads & releases — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: a curated, evidence-linked catalog of human-associated shotgun metagenomes and metatranscriptomes — every body site, all ages — with per-sample metadata, and a registry of every screened public study.">
+<meta name="catalog-release" content="data-v1.26.0">
+<meta name="catalog-release-id" content="R2026.31">
+<link rel="canonical" href="https://microbiomerepo.com/downloads/index.html">
+<meta name="catalog-package-version" content="1.26.0">
+<meta name="catalog-build-date" content="2026-10-30">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html" class="active">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › Downloads &amp; releases</div>
+
+<h1>Downloads &amp; releases</h1>
+<p class="lead">Data package <b>1.26.0</b> (release R2026.31, built 2026-10-30).</p>
+<details class="about-page"><summary>About this page</summary><p>Start with <span class="mono">catalog_studies.parquet</span> (one row per catalog study) and <span class="mono">catalog_sample_metadata_wide.parquet</span> (one row per sample); the evidence behind every value is in <span class="mono">catalog_sample_determinations.parquet</span>; the registry of every screened public study is <span class="mono">registry_studies.parquet</span>. Row counts are table rows: the catalog tables keep the rows retired in earlier releases (<span class="mono">release_retired</span> set) next to the current ones. Column definitions: <a href="../docs/DATA_DICTIONARY.html">data dictionary</a>.</p></details>
+<div class="btns"><a class="btn" href="https://github.com/OlmLab/microbiome_repo-data/releases/download/data-v1.26.0/data_package_v1.26.0.zip">Whole package: data_package_v1.26.0.zip (193.6 MB)</a> <a class="btn sec" href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">GitHub Release data-v1.26.0</a></div>
+
+<h2>Catalog tables (every body site, DNA and RNA, all ages)</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/package/CATALOG_SANDPIPER_REPORT.md" download>CATALOG_SANDPIPER_REPORT.md</a></td><td class="num"></td><td class="num">15.3 KB</td><td class="small">How the Sandpiper profiles of the catalog samples were assembled and filtered.</td></tr><tr><td><a class="mono" href="../data/package/catalog_exposure_items.parquet" download>catalog_exposure_items.parquet</a></td><td class="num">656</td><td class="num">57.4 KB</td><td class="small">Routine exposure items read from the papers (concept, scale person / group / cohort / place, summary and a verbatim quote).</td></tr><tr><td><a class="mono" href="../data/package/catalog_metadata_contradictions.parquet" download>catalog_metadata_contradictions.parquet</a></td><td class="num">9,156</td><td class="num">116.2 KB</td><td class="small">Samples whose sources disagree; neither value is published.</td></tr><tr><td><a class="mono" href="../data/package/catalog_pass_coverage.csv" download>catalog_pass_coverage.csv</a></td><td class="num">5,048</td><td class="num">2.6 MB</td><td class="small">Per project: which curation passes ran and which were not applicable.</td></tr><tr><td><a class="mono" href="../data/package/catalog_relatedness.parquet" download>catalog_relatedness.parquet</a></td><td class="num">6,540</td><td class="num">344.0 KB</td><td class="small">One row per family or shared-setting unit with two or more sampled people.</td></tr><tr><td><a class="mono" href="../data/package/catalog_relations.parquet" download>catalog_relations.parquet</a></td><td class="num">1,122</td><td class="num">34.1 KB</td><td class="small">Explicit relations between sampled people (mother–child, twins, partners, donor–recipient) with evidence.</td></tr><tr><td><a class="mono" href="../data/package/catalog_runs.parquet" download>catalog_runs.parquet</a></td><td class="num">992,413</td><td class="num">41.3 MB</td><td class="small">One row per sequencing run of a catalog sample: library strategy / source / layout, platform, reads and bases, nucleic_acid (dna / rna) and the measured rRNA read share where a read check ran.</td></tr><tr><td><a class="mono" href="../data/catalog_sample_determinations.parquet" download>catalog_sample_determinations.parquet</a></td><td class="num">4,947,738</td><td class="num">51.4 MB</td><td class="small">Long form: one row per sample × field with route, scope, confidence, evidence_source, evidence_locator and a verbatim evidence quote (≤ 12 words).</td></tr><tr><td><a class="mono" href="../data/package/catalog_sample_determinations_conflicts.parquet" download>catalog_sample_determinations_conflicts.parquet</a></td><td class="num">168,422</td><td class="num">3.3 MB</td><td class="small">Values that lost a precedence decision against the published value (kept for audit).</td></tr><tr><td><a class="mono" href="../data/catalog_sample_metadata_wide.parquet" download>catalog_sample_metadata_wide.parquet</a></td><td class="num">864,842</td><td class="num">29.2 MB</td><td class="small">Start here (samples). One row per sample: identifiers, body-site code/class, DNA / RNA data sets (has_dna, has_rna), age_category (+ basis), every field with __route and __confidence, infant extension fields, infant_scope flag.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_pca_loadings.parquet" download>catalog_sandpiper_pca_loadings.parquet</a></td><td class="num">383</td><td class="num">36.8 KB</td><td class="small">Genus loadings of the CLR-PCA.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_pca_scores.parquet" download>catalog_sandpiper_pca_scores.parquet</a></td><td class="num">335,956</td><td class="num">12.4 MB</td><td class="small">CLR-PCA scores of the Sandpiper genus profiles (Atlas › PCA).</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_pca_variance.csv" download>catalog_sandpiper_pca_variance.csv</a></td><td class="num">5</td><td class="num">531 B</td><td class="small">Variance explained per principal component.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_sample_summary.parquet" download>catalog_sandpiper_sample_summary.parquet</a></td><td class="num">423,170</td><td class="num">27.5 MB</td><td class="small">Per profiled sample: Sandpiper QC flags, richness and the metadata used by the Atlas.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_study_coverage.csv" download>catalog_sandpiper_study_coverage.csv</a></td><td class="num">5,222</td><td class="num">691.8 KB</td><td class="small">Per project: samples with a Sandpiper profile.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_study_panels.parquet" download>catalog_sandpiper_study_panels.parquet</a></td><td class="num">37,929</td><td class="num">476.3 KB</td><td class="small">Per-project mean top-12 genera over profiled samples (project-page composition bar).</td></tr><tr><td><a class="mono" href="../data/catalog_studies.parquet" download>catalog_studies.parquet</a></td><td class="num">5,348</td><td class="num">4.5 MB</td><td class="small">Start here (projects). One row per catalog project: body sites, nucleic acid (DNA / RNA) of its data sets, registry classification, linked papers, methods and setting read from the paper, per-field coverage (cov_*), age-category and health-condition distributions, curated depth and source.</td></tr><tr><td><a class="mono" href="../data/package/catalog_study_papers.parquet" download>catalog_study_papers.parquet</a></td><td class="num">5,634</td><td class="num">276.4 KB</td><td class="small">Papers judged by the link audit to have generated (own_data) or reused (reuse) a project&#39;s data.</td></tr>
+</tbody></table>
+
+<h2>Registry tables (every screened study)</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/registry_authors.parquet" download>registry_authors.parquet</a></td><td class="num">52,110</td><td class="num">3.2 MB</td><td class="small">Study × author × paper rows for the registry studies (Europe PMC author lists).</td></tr><tr><td><a class="mono" href="../data/package/registry_bioproject_records.parquet" download>registry_bioproject_records.parquet</a></td><td class="num">4,217</td><td class="num">911.4 KB</td><td class="small">NCBI BioProject records (title, description, umbrella, organisation) for the registry studies.</td></tr><tr><td><a class="mono" href="../data/registry_biosamples.parquet" download>registry_biosamples.parquet</a></td><td class="num">637,397</td><td class="num">4.2 MB</td><td class="small">Registry sample tier: one row per harvested BioSample with normalised body site, life stage / age, sex, country.</td></tr><tr><td><a class="mono" href="../data/registry_studies.parquet" download>registry_studies.parquet</a></td><td class="num">64,369</td><td class="num">8.9 MB</td><td class="small">Registry tier: one row per screened ENA study with a human-associated metagenome signal — host, body sites (UBERON-anchored codes), life stages, assay, access, classification stage, scope memberships, harvested-sample roll-ups.</td></tr><tr><td><a class="mono" href="../data/registry_study_papers.parquet" download>registry_study_papers.parquet</a></td><td class="num">6,998</td><td class="num">649.9 KB</td><td class="small">Study ↔ paper links of the registry studies (PMID/PMCID/DOI, relation own_data/unsure, method, confidence).</td></tr><tr><td><a class="mono" href="../data/package/registry_universe_audit.csv" download>registry_universe_audit.csv</a></td><td class="num">35</td><td class="num">9.2 KB</td><td class="small">Registry enumeration audit: per ENA slice, archive count vs rows pulled and completeness.</td></tr>
+</tbody></table>
+
+<h2>Release documents</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/package/CHANGELOG.md" download>CHANGELOG.md</a></td><td class="num"></td><td class="num">1.5 KB</td><td class="small">Version history.</td></tr><tr><td><a class="mono" href="../data/package/DATA_DICTIONARY.md" download>DATA_DICTIONARY.md</a></td><td class="num"></td><td class="num">111.3 KB</td><td class="small">Every column, every vocabulary.</td></tr><tr><td><a class="mono" href="../data/package/README.md" download>README.md</a></td><td class="num"></td><td class="num">21.2 KB</td><td class="small">Package overview and how to read a value.</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.31.md" download>RELEASE_NOTES_R2026.31.md</a></td><td class="num"></td><td class="num">7.4 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/VERSION.json" download>VERSION.json</a></td><td class="num"></td><td class="num">13.9 KB</td><td class="small">Package version, release id, release tag, build date, sha256 + rows per table.</td></tr><tr><td><a class="mono" href="../data/package/getting_started.ipynb" download>getting_started.ipynb</a></td><td class="num"></td><td class="num">49.3 KB</td><td class="small">Notebook: load, filter, join, plot.</td></tr><tr><td><a class="mono" href="../data/package/releases.csv" download>releases.csv</a></td><td class="num">35</td><td class="num">2.3 KB</td><td class="small">Release registry: one row per release id (release date, package version, tags, DOI, headline counts).</td></tr>
+</tbody></table>
+
+<h2>Infant extension tables (deep infant-field curation of the infant studies; also present in the catalog tables)</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/package/APPLY_FINDINGS_DIFF.md" download>APPLY_FINDINGS_DIFF.md</a></td><td class="num"></td><td class="num">942 B</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/APPLY_GAPFILL_PRJNA1140720.json" download>APPLY_GAPFILL_PRJNA1140720.json</a></td><td class="num"></td><td class="num">4.1 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/AUTHORS_REPORT.md" download>AUTHORS_REPORT.md</a></td><td class="num"></td><td class="num">8.6 KB</td><td class="small">Author index: sources, coverage, caveats.</td></tr><tr><td><a class="mono" href="../data/package/DATAFIX_REPORT.md" download>DATAFIX_REPORT.md</a></td><td class="num"></td><td class="num">13.1 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/DATA_MODEL_FIX_REPORT.md" download>DATA_MODEL_FIX_REPORT.md</a></td><td class="num"></td><td class="num">14.3 KB</td><td class="small">v1.2 data-model fix (age scope, parents, history).</td></tr><tr><td><a class="mono" href="../data/package/EXTRACTION_REPORT.md" download>EXTRACTION_REPORT.md</a></td><td class="num"></td><td class="num">14.8 KB</td><td class="small">Infant-field extraction report.</td></tr><tr><td><a class="mono" href="../data/package/REGISTRY_REPORT.md" download>REGISTRY_REPORT.md</a></td><td class="num"></td><td class="num">43.0 KB</td><td class="small">Registry build report.</td></tr><tr><td><a class="mono" href="../data/package/SANDPIPER_REPORT.md" download>SANDPIPER_REPORT.md</a></td><td class="num"></td><td class="num">20.5 KB</td><td class="small">Sandpiper join: source, method, validation, caveats.</td></tr><tr><td><a class="mono" href="../data/package/apply_findings_log.csv" download>apply_findings_log.csv</a></td><td class="num">4</td><td class="num">631 B</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/authors.parquet" download>authors.parquet</a></td><td class="num">28,367</td><td class="num">737.7 KB</td><td class="small">Infant extension: study × author × paper rows.</td></tr><tr><td><a class="mono" href="../data/package/authors_index.json" download>authors_index.json</a></td><td class="num"></td><td class="num">6.5 MB</td><td class="small">Infant extension: author search index.</td></tr><tr><td><a class="mono" href="../data/package/bitemporal_log.json" download>bitemporal_log.json</a></td><td class="num"></td><td class="num">1.9 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/cohorts.csv" download>cohorts.csv</a></td><td class="num">373</td><td class="num">167.4 KB</td><td class="small">Infant extension: curated cohort clusters with unique-infant estimates (the site&#39;s cohort pages carry these names).</td></tr><tr><td><a class="mono" href="../data/package/confidence_tiers.csv" download>confidence_tiers.csv</a></td><td class="num">29</td><td class="num">4.2 KB</td><td class="small">Infant extension: engine confidence tiers.</td></tr><tr><td><a class="mono" href="../data/package/confirmations.parquet" download>confirmations.parquet</a></td><td class="num">0</td><td class="num">4.3 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/contribute_worklist.csv" download>contribute_worklist.csv</a></td><td class="num">439</td><td class="num">397.7 KB</td><td class="small">Infant extension: contribution worklist of the infant fields.</td></tr><tr><td><a class="mono" href="../data/package/contribute_worklist_fields.csv" download>contribute_worklist_fields.csv</a></td><td class="num">2,634</td><td class="num">386.8 KB</td><td class="small">Infant extension: worklist study × field.</td></tr><tr><td><a class="mono" href="../data/package/extraction_gold_eval_hires.csv" download>extraction_gold_eval_hires.csv</a></td><td class="num">6</td><td class="num">326 B</td><td class="small">Infant extension: precision/recall vs curatedMetagenomicData.</td></tr><tr><td><a class="mono" href="../data/package/field_coverage_summary.csv" download>field_coverage_summary.csv</a></td><td class="num">19</td><td class="num">1.5 KB</td><td class="small">Infant extension: coverage per infant field.</td></tr><tr><td><a class="mono" href="../data/package/human_review_queue.csv" download>human_review_queue.csv</a></td><td class="num">52</td><td class="num">48.3 KB</td><td class="small">Infant extension: studies the infant triage could not decide.</td></tr><tr><td><a class="mono" href="../data/package/organisations.parquet" download>organisations.parquet</a></td><td class="num">18,888</td><td class="num">439.4 KB</td><td class="small">Infant extension: organisation strings per study.</td></tr><tr><td><a class="mono" href="../data/package/organisations_index.json" download>organisations_index.json</a></td><td class="num"></td><td class="num">873.4 KB</td><td class="small">Infant extension: organisation index.</td></tr><tr><td><a class="mono" href="../data/package/parent_biosamples.parquet" download>parent_biosamples.parquet</a></td><td class="num">16</td><td class="num">62.4 KB</td><td class="small">Infant extension: parent BioSamples of run-level rows.</td></tr><tr><td><a class="mono" href="../data/package/review_amplicon_runs.csv" download>review_amplicon_runs.csv</a></td><td class="num">39</td><td class="num">4.7 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/review_genomic_only_samples.csv" download>review_genomic_only_samples.csv</a></td><td class="num">3,158</td><td class="num">380.4 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/review_named_microbe_metagenomic_samples.csv" download>review_named_microbe_metagenomic_samples.csv</a></td><td class="num">70</td><td class="num">11.0 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/runs.parquet" download>runs.parquet</a></td><td class="num">174,172</td><td class="num">8.4 MB</td><td class="small">Infant extension: run → sample → study for the infant studies.</td></tr><tr><td><a class="mono" href="../data/package/sample_determinations.parquet" download>sample_determinations.parquet</a></td><td class="num">619,647</td><td class="num">6.8 MB</td><td class="small">Infant extension: evidence rows of the infant-field curation.</td></tr><tr><td><a class="mono" href="../data/package/sample_determinations_all.parquet" download>sample_determinations_all.parquet</a></td><td class="num">620,963</td><td class="num">6.8 MB</td><td class="small">Infant extension, bitemporal: current + retired rows with release_added / release_retired.</td></tr><tr><td><a class="mono" href="../data/package/sample_determinations_superseded.parquet" download>sample_determinations_superseded.parquet</a></td><td class="num">223</td><td class="num">17.4 KB</td><td class="small">Infant extension: subset of value_history (v1.1 layout).</td></tr><tr><td><a class="mono" href="../data/package/sample_metadata_wide.csv.gz" download>sample_metadata_wide.csv.gz</a></td><td class="num">154,356</td><td class="num">11.2 MB</td><td class="small">Infant extension table as gzip-compressed CSV.</td></tr><tr><td><a class="mono" href="../data/package/sample_metadata_wide.parquet" download>sample_metadata_wide.parquet</a></td><td class="num">153,238</td><td class="num">12.3 MB</td><td class="small">Infant extension: the deep infant-gut curation (delivery mode, feeding, gestational age, birth weight …) for the infant studies; these rows are also in catalog_sample_metadata_wide (curated_source = infant_catalog).</td></tr><tr><td><a class="mono" href="../data/package/sample_metadata_wide_excluded_by_review.parquet" download>sample_metadata_wide_excluded_by_review.parquet</a></td><td class="num">1,118</td><td class="num">146.6 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/sample_subjects.parquet" download>sample_subjects.parquet</a></td><td class="num">154,356</td><td class="num">2.8 MB</td><td class="small">Infant extension: subject and timepoint resolution per sample.</td></tr><tr><td><a class="mono" href="../data/package/sample_unit_classification.csv" download>sample_unit_classification.csv</a></td><td class="num">11,116</td><td class="num">2.0 MB</td><td class="small">Infant extension: per-BioSample multi-run classification.</td></tr><tr><td><a class="mono" href="../data/package/sample_unit_classification_by_study.csv" download>sample_unit_classification_by_study.csv</a></td><td class="num">67</td><td class="num">6.9 KB</td><td class="small">Infant extension: per-study sample-unit class.</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_auditor_candidate_runs.csv" download>sandpiper_auditor_candidate_runs.csv</a></td><td class="num">375</td><td class="num">49.6 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/sandpiper_flag_definitions.json" download>sandpiper_flag_definitions.json</a></td><td class="num"></td><td class="num">5.5 KB</td><td class="small">Sandpiper&#39;s published QC flag definitions.</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_flag_table.csv" download>sandpiper_flag_table.csv</a></td><td class="num">20</td><td class="num">4.0 KB</td><td class="small">QC-flag vocabulary.</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_run_qc.parquet" download>sandpiper_run_qc.parquet</a></td><td class="num">174,172</td><td class="num">8.6 MB</td><td class="small">Infant-study runs: profiled or miss reason, QC fields.</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_sample_summary.parquet" download>sandpiper_sample_summary.parquet</a></td><td class="num">79,473</td><td class="num">10.0 MB</td><td class="small">Sandpiper/SingleM per-sample summary for the infant studies (sp_* columns, QC flags, URL).</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_study_coverage.csv" download>sandpiper_study_coverage.csv</a></td><td class="num">389</td><td class="num">79.9 KB</td><td class="small">Per infant study: runs/samples profiled.</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_study_panel_status.csv" download>sandpiper_study_panel_status.csv</a></td><td class="num">389</td><td class="num">27.2 KB</td><td class="small"></td></tr><tr><td><a class="mono" href="../data/package/sandpiper_study_panels.parquet" download>sandpiper_study_panels.parquet</a></td><td class="num">4,656</td><td class="num">73.1 KB</td><td class="small">Per-study mean top phyla / genera (infant studies).</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_study_qc_flags.csv" download>sandpiper_study_qc_flags.csv</a></td><td class="num">389</td><td class="num">73.2 KB</td><td class="small">Per infant study: flag fractions.</td></tr><tr><td><a class="mono" href="../data/package/sandpiper_top_genera.parquet" download>sandpiper_top_genera.parquet</a></td><td class="num">1,049,958</td><td class="num">4.6 MB</td><td class="small">Top-15 genera per profiled infant-study sample.</td></tr><tr><td><a class="mono" href="../data/package/study_authors_summary.csv" download>study_authors_summary.csv</a></td><td class="num">9,579</td><td class="num">963.9 KB</td><td class="small">Infant extension: first/last author and organisations per screened study.</td></tr><tr><td><a class="mono" href="../data/package/study_field_coverage_matrix.csv" download>study_field_coverage_matrix.csv</a></td><td class="num">371</td><td class="num">32.2 KB</td><td class="small">Infant extension: coverage per infant study × field.</td></tr><tr><td><a class="mono" href="../data/package/study_metadata_wide.csv" download>study_metadata_wide.csv</a></td><td class="num">389</td><td class="num">480.5 KB</td><td class="small">Same table as CSV.</td></tr><tr><td><a class="mono" href="../data/package/study_metadata_wide.parquet" download>study_metadata_wide.parquet</a></td><td class="num">389</td><td class="num">227.1 KB</td><td class="small">Infant extension: one row per infant study with infant-field coverage, triage evidence and recoverability tiers.</td></tr><tr><td><a class="mono" href="../data/package/study_paper_links.csv" download>study_paper_links.csv</a></td><td class="num">973</td><td class="num">172.6 KB</td><td class="small">Infant extension: curated study ↔ paper links.</td></tr><tr><td><a class="mono" href="../data/package/study_verdict_history.parquet" download>study_verdict_history.parquet</a></td><td class="num">32,233</td><td class="num">1.0 MB</td><td class="small">Infant extension: every triage-stage verdict per screened study.</td></tr><tr><td><a class="mono" href="../data/package/tier_field_precision.csv" download>tier_field_precision.csv</a></td><td class="num">49</td><td class="num">2.5 KB</td><td class="small">Infant extension: precision per route × tier vs the cMD gold join.</td></tr><tr><td><a class="mono" href="../data/package/universe_studies_all.parquet" download>universe_studies_all.parquet</a></td><td class="num">9,581</td><td class="num">1.1 MB</td><td class="small">Infant extension: the 9.6 k studies screened for the infant extension with verdict and reason.</td></tr><tr><td><a class="mono" href="../data/package/value_history.parquet" download>value_history.parquet</a></td><td class="num">46,587</td><td class="num">569.1 KB</td><td class="small">Infant extension: superseded / rejected values with reason.</td></tr>
+</tbody></table>
+
+<h2>Release assets not on this site</h2>
+<table class="tbl small"><thead><tr><th>file</th><th>description</th></tr></thead><tbody>
+<tr><td class="mono">registry_runs_v1.26.0.parquet</td><td class="small">Registry run tier: one row per sequencing run of every registry study (≈ 2 M rows, ≈ 80 MB) — GitHub Release asset data-v1.26.0. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">release page</a></td></tr><tr><td class="mono">microbiome_repo_v1.26.0.sqlite</td><td class="small">All package tables as one SQLite database — Release asset. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">release page</a></td></tr><tr><td class="mono">catalog_sandpiper_sample_genus_v1.26.0_part*.parquet</td><td class="small">Genus-level Sandpiper relative abundances for every profiled catalog sample (long table: sample_key, genus, relabund, coverage; ≈ 185 MB in &lt; 90 MB parts, concatenate the parts) — Release asset. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">release page</a></td></tr><tr><td class="mono">catalog_sandpiper_sample_species_v1.26.0_part*.parquet</td><td class="small">Species-level Sandpiper relative abundances (relabund ≥ 0.001; ≈ 200 MB in parts) — Release asset. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">release page</a></td></tr>
+</tbody></table>
+<h2>Site data files</h2>
+<table class="tbl small"><thead><tr><th>path</th><th class="num">files</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td class="mono">data/catalog_sample_metadata_wide.parquet</td><td class="num">1</td><td class="num">29.2 MB</td><td class="small">Sample table loaded by the explorer (one row per catalog sample)</td></tr><tr><td class="mono">data/catalog_studies.parquet</td><td class="num">1</td><td class="num">4.5 MB</td><td class="small">Study table loaded by the explorer</td></tr><tr><td class="mono">data/catalog_sample_determinations.parquet</td><td class="num">1</td><td class="num">51.4 MB</td><td class="small">Evidence rows (sample × field with verbatim quote)</td></tr><tr><td class="mono">data/registry_studies.parquet</td><td class="num">1</td><td class="num">8.9 MB</td><td class="small">Registry tier, loaded by the registry explorer</td></tr><tr><td class="mono">data/studies/&lt;PRJ&gt;.csv.gz|.parquet</td><td class="num">5048</td><td class="num">24.9 MB</td><td class="small">Per-study sample slices (gzip CSV + parquet)</td></tr><tr><td class="mono">data/studies/&lt;PRJ&gt;_determinations.csv.gz</td><td class="num">5048</td><td class="num">33.0 MB</td><td class="small">Per-study evidence rows (gzip CSV, mtime 0)</td></tr><tr><td class="mono">data/cohorts/&lt;COH&gt;.csv.gz|.parquet</td><td class="num">228</td><td class="num">15.9 MB</td><td class="small">Per-cohort sample slices (multi-study cohorts)</td></tr><tr><td class="mono">data/catalog_cohorts.csv</td><td class="num">1</td><td class="num">22.0 KB</td><td class="small">Cohort list (id, name, studies, papers)</td></tr><tr><td class="mono">data/studies_index.json</td><td class="num">1</td><td class="num">2.3 MB</td><td class="small">Study index used by the Studies table</td></tr><tr><td class="mono">data/contribute_worklist.json</td><td class="num">1</td><td class="num">641.1 KB</td><td class="small">Contribution worklist (one object per open study)</td></tr><tr><td class="mono">data/package/</td><td class="num">79</td><td class="num">178.7 MB</td><td class="small">The complete package, file by file, plus the zip</td></tr><tr><td class="mono">authors/idx/&lt;letter&gt;.json</td><td class="num">27</td><td class="num">1.5 MB</td><td class="small">Author index shards</td></tr>
+</tbody></table>
+<p class="small">Integrity: <a href="../data/manifest.json">manifest.json</a> (SHA-256 of every data file) · <a href="../data/VERSION.json">VERSION.json</a> (package tables with row counts and SHA-256). Licence: curated tables CC-BY-4.0; archive metadata under INSDC terms.</p>
+
+<div class="cite note" id="cite-text">
+<b>Cite this release.</b> <i>Microbiome Repo, release R2026.31 (data package 1.26.0), OlmLab, 2026-10-30.</i>
+<div class="small" style="margin-top:.3rem">
+<a href="https://zenodo.org/badge/latestdoi/1389758854"><img src="https://zenodo.org/badge/1389758854.svg" alt="Zenodo DOI badge (latest release of OlmLab/microbiome_repo-data)" height="20"></a>
+ Concept DOI (all versions, resolves to the latest archived release): <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a>.
+</div>
+<div class="small" style="margin-top:.3rem">Also cite the upstream sources this catalog is built on:
+<ul style="margin:.2rem 0 0 1rem"></ul></div>
+</div>
+<h2 id="releases">Releases</h2>
+<p class="small">Every release is frozen and archived as a GitHub Release of the data repository (tag <span class="mono">data-v&lt;package&gt;</span>), with a matching site tag (<span class="mono">site-v&lt;package&gt;</span>) and a Zenodo version DOI. Every fact row carries <span class="mono">release_added</span> / <span class="mono">release_retired</span>; the <a href="../changes/index.html">Changes</a> page lists what changed in each release.</p>
+<table class="tbl compact" id="release-table"><thead><tr><th>Release</th><th>Date</th><th>Package</th><th>Data tag</th><th>Site tag</th><th>DOI</th><th class="num">Projects</th><th class="num">Samples</th><th class="num">Sample × field values</th><th>Sandpiper</th><th>Changes</th></tr></thead><tbody>
+<tr class="final" id="rel-R2026.31"><td class="mono">R2026.31 <b>current</b></td><td>2026-10-30</td><td class="mono">1.26.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">data-v1.26.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.26.0">site-v1.26.0</a></td>
+<td><span class="small">pending</span></td>
+<td class="num">5048</td><td class="num">810133</td><td class="num">4528857</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.31.html">changes</a></td></tr>
+</tbody></table>
+<p class="small">Earlier package versions stay archived as GitHub Releases of the data repository and on Zenodo (the concept DOI resolves to the newest version).</p>
+<h2 id="release-notes">Release notes</h2>
+
+<details open id="notes-R2026.31"><summary><b>R2026.31</b> — package 1.26.0, 2026-10-30 (<a href="../releases/RELEASE_NOTES_R2026.31.md">markdown</a>)</summary>
+<div class="doc"><h2 id="nR2026-31-release-notes-r202631-data-package-1260-2026-10-30">Release notes — R2026.31 (data package 1.26.0, 2026-10-30)</h2>
+<p>Generated by <code>catalog.release.release_notes</code> from package 1.25.0 (R2026.30, 2026-10-30) → 1.26.0. Every number below is computed from the two packages; dates come from VERSION.json.</p>
+<h3 id="nR2026-31-catalog-catalog_-tables">Catalog (<code>catalog_*</code> tables)</h3>
+<table>
+<thead>
+<tr>
+<th>entity</th>
+<th>1.25.0</th>
+<th>1.26.0</th>
+<th>added</th>
+<th>removed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>catalog studies</td>
+<td>4,950</td>
+<td>5,048</td>
+<td>104</td>
+<td>6</td>
+</tr>
+<tr>
+<td>catalog samples</td>
+<td>765,294</td>
+<td>810,133</td>
+<td>44,884</td>
+<td>45</td>
+</tr>
+<tr>
+<td>sample × field values (current)</td>
+<td>3,811,831</td>
+<td>4,528,857</td>
+<td>717,032</td>
+<td>6</td>
+</tr>
+<tr>
+<td>catalog runs (<code>catalog_runs</code>)</td>
+<td>967,178</td>
+<td>992,413</td>
+<td>+25,235</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Per-field coverage over all catalog samples (<code>catalog_sample_metadata_wide</code>):</p>
+<table>
+<thead>
+<tr>
+<th>field</th>
+<th>n 1.25.0</th>
+<th>cov</th>
+<th>n 1.26.0</th>
+<th>cov</th>
+<th>Δ n</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>age_category</code></td>
+<td>400,853</td>
+<td>52.4%</td>
+<td>448,672</td>
+<td>55.4%</td>
+<td>+47,819</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>674,837</td>
+<td>88.2%</td>
+<td>707,056</td>
+<td>87.3%</td>
+<td>+32,219</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>294,609</td>
+<td>38.5%</td>
+<td>305,778</td>
+<td>37.7%</td>
+<td>+11,169</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>457,342</td>
+<td>59.8%</td>
+<td>472,267</td>
+<td>58.3%</td>
+<td>+14,925</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>187,199</td>
+<td>24.5%</td>
+<td>192,111</td>
+<td>23.7%</td>
+<td>+4,912</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>219,292</td>
+<td>28.7%</td>
+<td>229,587</td>
+<td>28.3%</td>
+<td>+10,295</td>
+</tr>
+<tr>
+<td><code>detailed_location</code></td>
+<td>292,385</td>
+<td>38.2%</td>
+<td>303,866</td>
+<td>37.5%</td>
+<td>+11,481</td>
+</tr>
+<tr>
+<td><code>lifestyle</code></td>
+<td>16,655</td>
+<td>2.2%</td>
+<td>62,092</td>
+<td>7.7%</td>
+<td>+45,437</td>
+</tr>
+<tr>
+<td><code>collection_date</code></td>
+<td>592,204</td>
+<td>77.4%</td>
+<td>621,111</td>
+<td>76.7%</td>
+<td>+28,907</td>
+</tr>
+<tr>
+<td><code>intervention</code></td>
+<td>48,445</td>
+<td>6.3%</td>
+<td>49,214</td>
+<td>6.1%</td>
+<td>+769</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>110,217</td>
+<td>14.4%</td>
+<td>113,786</td>
+<td>14.0%</td>
+<td>+3,569</td>
+</tr>
+<tr>
+<td><code>bmi</code></td>
+<td>52,738</td>
+<td>6.9%</td>
+<td>53,838</td>
+<td>6.6%</td>
+<td>+1,100</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>178,050</td>
+<td>23.3%</td>
+<td>182,246</td>
+<td>22.5%</td>
+<td>+4,196</td>
+</tr>
+<tr>
+<td><code>diet</code></td>
+<td>16,327</td>
+<td>2.1%</td>
+<td>16,592</td>
+<td>2.0%</td>
+<td>+265</td>
+</tr>
+<tr>
+<td><code>smoking_status</code></td>
+<td>13,777</td>
+<td>1.8%</td>
+<td>13,957</td>
+<td>1.7%</td>
+<td>+180</td>
+</tr>
+<tr>
+<td><code>medication</code></td>
+<td>10,107</td>
+<td>1.3%</td>
+<td>10,553</td>
+<td>1.3%</td>
+<td>+446</td>
+</tr>
+<tr>
+<td><code>stool_consistency_bristol</code></td>
+<td>2,837</td>
+<td>0.4%</td>
+<td>3,038</td>
+<td>0.4%</td>
+<td>+201</td>
+</tr>
+</tbody>
+</table>
+<p>New catalog studies: PRJDB29433, PRJDB41048, PRJDB43571, PRJEB101630, PRJEB108076, PRJEB22481, PRJEB29152, PRJEB29491, PRJEB3206, PRJEB38352, PRJEB42612, PRJEB44507, PRJEB44737, PRJEB49124, PRJEB49334, PRJEB52877, PRJEB53649, PRJEB58787, PRJEB61661, PRJEB63347, PRJEB6358, PRJEB64621, PRJEB66343, PRJEB7166, PRJEB74042, PRJEB74553, PRJEB75433, PRJEB75510, PRJEB76236, PRJEB77410, PRJEB78698, PRJEB7899, PRJEB79034, PRJEB88618, PRJNA1001944, PRJNA1004560, PRJNA1024678, PRJNA1025870, PRJNA1044291, PRJNA1055134, PRJNA1069244, PRJNA1069622, PRJNA1091934, PRJNA1101882, PRJNA1116523, PRJNA1124620, PRJNA1127293, PRJNA1130704, PRJNA1134172, PRJNA1135322, PRJNA1157208, PRJNA1183628, PRJNA1184735, PRJNA1214590, PRJNA1221657, PRJNA1242044, PRJNA1266263, PRJNA1273449, PRJNA1273462, PRJNA1273656 …</p>
+<h3 id="nR2026-31-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
+<table>
+<thead>
+<tr>
+<th>entity</th>
+<th>1.25.0</th>
+<th>1.26.0</th>
+<th>added</th>
+<th>removed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>registry studies</td>
+<td>64,369</td>
+<td>64,369</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-31-infant-extension-studies-and-samples">Infant extension: studies and samples</h3>
+<table>
+<thead>
+<tr>
+<th>entity</th>
+<th>1.25.0</th>
+<th>1.26.0</th>
+<th>added</th>
+<th>removed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>included studies</td>
+<td>389</td>
+<td>389</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>catalog samples</td>
+<td>153,238</td>
+<td>153,238</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-31-infant-extension-per-field-coverage-on-catalog_scope">Infant extension: per-field coverage on <code>catalog_scope</code></h3>
+<p>Recomputed from <code>sample_metadata_wide</code> (non-null values among catalog_scope rows: 72,254 → 72,254); field list from <code>field_coverage_summary.csv</code>.</p>
+<table>
+<thead>
+<tr>
+<th>field</th>
+<th>n 1.25.0</th>
+<th>cov</th>
+<th>n 1.26.0</th>
+<th>cov</th>
+<th>Δ n</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>probiotic_exposure</code></td>
+<td>2,573</td>
+<td>3.6%</td>
+<td>2,573</td>
+<td>3.6%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>preterm_status</code></td>
+<td>32,289</td>
+<td>44.7%</td>
+<td>32,289</td>
+<td>44.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>gestational_age_weeks</code></td>
+<td>12,256</td>
+<td>17.0%</td>
+<td>12,256</td>
+<td>17.0%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>delivery_mode</code></td>
+<td>23,066</td>
+<td>31.9%</td>
+<td>23,066</td>
+<td>31.9%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>feeding_mode</code></td>
+<td>11,312</td>
+<td>15.7%</td>
+<td>11,312</td>
+<td>15.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>12,576</td>
+<td>17.4%</td>
+<td>12,576</td>
+<td>17.4%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>52,582</td>
+<td>72.8%</td>
+<td>52,582</td>
+<td>72.8%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>birth_weight_grams</code></td>
+<td>10,436</td>
+<td>14.4%</td>
+<td>10,436</td>
+<td>14.4%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>69,267</td>
+<td>95.9%</td>
+<td>69,267</td>
+<td>95.9%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>maternal_antibiotics</code></td>
+<td>8,317</td>
+<td>11.5%</td>
+<td>8,317</td>
+<td>11.5%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>hmo_supplementation</code></td>
+<td>1,256</td>
+<td>1.7%</td>
+<td>1,256</td>
+<td>1.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>nec_status</code></td>
+<td>5,302</td>
+<td>7.3%</td>
+<td>5,302</td>
+<td>7.3%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>6,284</td>
+<td>8.7%</td>
+<td>6,284</td>
+<td>8.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>multiple_birth</code></td>
+<td>4,792</td>
+<td>6.6%</td>
+<td>4,792</td>
+<td>6.6%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>sibling_in_study</code></td>
+<td>3,272</td>
+<td>4.5%</td>
+<td>3,272</td>
+<td>4.5%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>geo_subregion</code></td>
+<td>26,468</td>
+<td>36.6%</td>
+<td>26,468</td>
+<td>36.6%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>32,296</td>
+<td>44.7%</td>
+<td>32,296</td>
+<td>44.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>27,035</td>
+<td>37.4%</td>
+<td>27,035</td>
+<td>37.4%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>42,930</td>
+<td>59.4%</td>
+<td>42,930</td>
+<td>59.4%</td>
+<td>+0</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-31-triage-verdict-flips-universe_studies_alltriage_verdict">Triage verdict flips (<code>universe_studies_all.triage_verdict</code>)</h3>
+<p>Universe 9,581 → 9,581 studies; verdict distribution 1.26.0: exclude 9,140, include 389, uncertain 52. <strong>0 flips</strong> among studies present in both packages; 0 studies new to the universe, 0 removed.</p>
+<h3 id="nR2026-31-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
+<p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
+<p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
+<h3 id="nR2026-31-sandpiper-snapshot">Sandpiper snapshot</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>1.25.0</th>
+<th>1.26.0</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sandpiper_version</td>
+<td>2.0.0</td>
+<td>2.0.0</td>
+</tr>
+<tr>
+<td>zenodo_record</td>
+<td>20419175</td>
+<td>20419175</td>
+</tr>
+<tr>
+<td>profiled samples</td>
+<td>79,473</td>
+<td>79,473</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-31-gold-metrics-extraction_gold_eval_hirescsv-curatedmetagenomicdata-hi-res-set">Gold metrics (<code>extraction_gold_eval_hires.csv</code>, curatedMetagenomicData hi-res set)</h3>
+<table>
+<thead>
+<tr>
+<th>field</th>
+<th>gold n</th>
+<th>cov 1.25.0</th>
+<th>prec 1.25.0</th>
+<th>rec 1.25.0</th>
+<th>cov 1.26.0</th>
+<th>prec 1.26.0</th>
+<th>rec 1.26.0</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>age_days</code></td>
+<td>3,346</td>
+<td>0.959</td>
+<td>0.991</td>
+<td>0.951</td>
+<td>0.959</td>
+<td>0.991</td>
+<td>0.951</td>
+</tr>
+<tr>
+<td><code>born_method</code></td>
+<td>2,546</td>
+<td>0.937</td>
+<td>0.995</td>
+<td>0.932</td>
+<td>0.937</td>
+<td>0.995</td>
+<td>0.932</td>
+</tr>
+<tr>
+<td><code>feeding_practice</code></td>
+<td>693</td>
+<td>0.648</td>
+<td>0.891</td>
+<td>0.577</td>
+<td>0.648</td>
+<td>0.891</td>
+<td>0.577</td>
+</tr>
+<tr>
+<td><code>premature</code></td>
+<td>1,998</td>
+<td>0.961</td>
+<td>1.000</td>
+<td>0.961</td>
+<td>0.961</td>
+<td>1.000</td>
+<td>0.961</td>
+</tr>
+<tr>
+<td><code>antibiotics_current_use</code></td>
+<td>2,534</td>
+<td>0.946</td>
+<td>0.867</td>
+<td>0.820</td>
+<td>0.946</td>
+<td>0.867</td>
+<td>0.820</td>
+</tr>
+<tr>
+<td><code>gestational_age</code></td>
+<td>1,998</td>
+<td>0.264</td>
+<td>1.000</td>
+<td>0.264</td>
+<td>0.264</td>
+<td>1.000</td>
+<td>0.264</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-31-schema-changes">Schema changes</h3>
+<p>New files: <code>catalog_exposure_items.parquet</code>, <code>catalog_study_papers.parquet</code>
+Removed files: none
+Renamed: 19 files of the previous package are now the <code>catalog_*</code> tables (<code>CATALOG_SANDPIPER_REPORT.md</code>, <code>catalog_metadata_contradictions.parquet</code>, <code>catalog_pass_coverage.csv</code>, <code>catalog_relatedness.parquet</code>, <code>catalog_relations.parquet</code>, <code>catalog_runs.parquet</code>, <code>catalog_sample_determinations.parquet</code>, <code>catalog_sample_determinations_conflicts.parquet</code>, <code>catalog_sample_metadata_wide.parquet</code>, <code>catalog_sandpiper_pca_loadings.parquet</code>, <code>catalog_sandpiper_pca_scores.parquet</code>, <code>catalog_sandpiper_pca_variance.csv</code>, <code>catalog_sandpiper_sample_summary.parquet</code>, <code>catalog_sandpiper_study_coverage.csv</code>, <code>catalog_sandpiper_study_panels.parquet</code>, <code>catalog_studies.parquet</code>).
+Release notes of earlier releases (29 files) are no longer shipped; this package carries its own release notes only.</p>
+<p>No column changes in tables present in both packages.</p>
+<p>VERSION.json: <code>package_version</code>=1.26.0, <code>previous_release_id</code>=R2026.30, <code>release_id</code>=R2026.31, <code>release_tag</code>=data-v1.26.0</p>
+<h3 id="nR2026-31-bitemporal-columns-release_added-release_retired-package_added">Bitemporal columns (<code>release_added</code> / <code>release_retired</code> / <code>package_added</code>)</h3>
+<p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.31). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
+<table>
+<thead>
+<tr>
+<th>release_added (current determinations)</th>
+<th>rows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0.0</td>
+<td>605,707</td>
+</tr>
+<tr>
+<td>1.1.0</td>
+<td>3,632</td>
+</tr>
+<tr>
+<td>1.2.0</td>
+<td>9,559</td>
+</tr>
+<tr>
+<td>R2026.3</td>
+<td>749</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>release_retired (retired determinations)</th>
+<th>rows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.1.0</td>
+<td>75</td>
+</tr>
+<tr>
+<td>1.2.0</td>
+<td>245</td>
+</tr>
+<tr>
+<td>1.2.1</td>
+<td>295</td>
+</tr>
+<tr>
+<td>1.2.2</td>
+<td>701</td>
+</tr>
+</tbody>
+</table>
+<p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> — see <code>docs/RELEASES.md</code> §3 for exactness per row class.</p>
+<h3 id="nR2026-31-token-cost">Token cost</h3>
+<p>LLM tokens this cycle: not recorded</p></div></details>
+
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.31"><span class="mono">R2026.31</span></a> · package <span class="mono">1.26.0</span> · build <span class="mono">ee098e5</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.31.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.26.0',release:'data-v1.26.0',releaseId:'R2026.31',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

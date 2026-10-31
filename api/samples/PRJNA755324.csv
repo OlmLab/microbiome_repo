@@ -1,0 +1,451 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN20850263,PRJNA755324,Cohort 1; Subject 53,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-03,primary,1.0,6.642
+SAMN20850264,PRJNA755324,Cohort 1; Subject 53,Day 04,adult,,,US,,,,,,2018-01-08,primary,1.0,6.612
+SAMN20850265,PRJNA755324,Cohort 1; Subject 53,Day 05,adult,,,US,,,,,,2018-01-09,primary,1.0,5.271
+SAMN20850266,PRJNA755324,Cohort 1; Subject 53,Day 06,adult,,,US,,,,,,2018-01-10,primary,1.0,4.438
+SAMN20850267,PRJNA755324,Cohort 1; Subject 53,Day 08,adult,,,US,,,,,,2018-01-11,primary,1.0,5.435
+SAMN20850268,PRJNA755324,Cohort 1; Subject 53,Day 10,adult,,,US,,,,,,2018-01-12,primary,1.0,5.478
+SAMN20850262,PRJNA755324,Cohort 1; Subject 53,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-21,primary,1.0,8.433
+SAMN20850272,PRJNA755324,Cohort 1; Subject 53,Week 12,adult,,,US,,,,,,2018-03-29,primary,1.0,7.016
+SAMN20850269,PRJNA755324,Cohort 1; Subject 53,Week 4,adult,,,US,,,,,,2018-02-01,primary,1.0,4.97
+SAMN20850273,PRJNA755324,Cohort 1; Subject 53,Week 52,adult,,,US,,,,,,2019-01-02,primary,1.0,7.82
+SAMN20850270,PRJNA755324,Cohort 1; Subject 53,Week 6,adult,,,US,,,,,,2018-02-15,primary,1.0,6.24
+SAMN20850271,PRJNA755324,Cohort 1; Subject 53,Week 8,adult,,,US,,,,,,2018-03-02,primary,1.0,5.013
+SAMN20850288,PRJNA755324,Cohort 1; Subject 59,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-03,primary,1.0,4.796
+SAMN20850289,PRJNA755324,Cohort 1; Subject 59,Day 04,adult,,,US,,,,,,2018-01-07,primary,1.0,4.717
+SAMN20850290,PRJNA755324,Cohort 1; Subject 59,Day 05,adult,,,US,,,,,,2018-01-08,primary,1.0,8.529
+SAMN20850291,PRJNA755324,Cohort 1; Subject 59,Day 06,adult,,,US,,,,,,2018-01-09,primary,1.0,4.939
+SAMN20850292,PRJNA755324,Cohort 1; Subject 59,Day 08,adult,,,US,,,,,,2018-01-11,primary,1.0,7.099
+SAMN20850293,PRJNA755324,Cohort 1; Subject 59,Day 10,adult,,,US,,,,,,2018-01-12,primary,1.0,4.045
+SAMN20850287,PRJNA755324,Cohort 1; Subject 59,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-22,primary,1.0,5.399
+SAMN20850297,PRJNA755324,Cohort 1; Subject 59,Week 12,adult,,,US,,,,,,2018-03-29,primary,1.0,4.773
+SAMN20850298,PRJNA755324,Cohort 1; Subject 59,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,5.872
+SAMN20850294,PRJNA755324,Cohort 1; Subject 59,Week 4,adult,,,US,,,,,,2018-02-01,primary,1.0,4.426
+SAMN20850299,PRJNA755324,Cohort 1; Subject 59,Week 52,adult,,,US,,,,,,2019-01-02,primary,1.0,8.314
+SAMN20850295,PRJNA755324,Cohort 1; Subject 59,Week 6,adult,,,US,,,,,,2018-02-15,primary,1.0,4.498
+SAMN20850296,PRJNA755324,Cohort 1; Subject 59,Week 8,adult,,,US,,,,,,2018-03-01,primary,1.0,5.328
+SAMN20850250,PRJNA755324,Cohort 2; Subject 35,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-03,primary,1.0,6.579
+SAMN20850251,PRJNA755324,Cohort 2; Subject 35,Day 04,adult,,,US,,,,,,2018-01-07,primary,1.0,4.906
+SAMN20850252,PRJNA755324,Cohort 2; Subject 35,Day 05,adult,,,US,,,,,,2018-01-08,primary,1.0,6.684
+SAMN20850253,PRJNA755324,Cohort 2; Subject 35,Day 06,adult,,,US,,,,,,2018-01-09,primary,1.0,5.071
+SAMN20850254,PRJNA755324,Cohort 2; Subject 35,Day 08,adult,,,US,,,,,,2018-01-10,primary,1.0,4.068
+SAMN20850255,PRJNA755324,Cohort 2; Subject 35,Day 10,adult,,,US,,,,,,2018-01-12,primary,1.0,6.527
+SAMN20850249,PRJNA755324,Cohort 2; Subject 35,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-14,primary,1.0,5.314
+SAMN20850259,PRJNA755324,Cohort 2; Subject 35,Week 12,adult,,,US,,,,,,2018-03-27,primary,1.0,4.65
+SAMN20850260,PRJNA755324,Cohort 2; Subject 35,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,6.408
+SAMN20850256,PRJNA755324,Cohort 2; Subject 35,Week 4,adult,,,US,,,,,,2018-02-01,primary,1.0,4.673
+SAMN20850261,PRJNA755324,Cohort 2; Subject 35,Week 52,adult,,,US,,,,,,2019-01-02,primary,1.0,8.871
+SAMN20850257,PRJNA755324,Cohort 2; Subject 35,Week 6,adult,,,US,,,,,,2018-02-15,primary,1.0,4.481
+SAMN20850258,PRJNA755324,Cohort 2; Subject 35,Week 8,adult,,,US,,,,,,2018-03-02,primary,1.0,4.214
+SAMN20850275,PRJNA755324,Cohort 2; Subject 55,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-04,primary,1.0,5.277
+SAMN20850276,PRJNA755324,Cohort 2; Subject 55,Day 04,adult,,,US,,,,,,2018-01-07,primary,1.0,6.029
+SAMN20850277,PRJNA755324,Cohort 2; Subject 55,Day 05,adult,,,US,,,,,,2018-01-09,primary,1.0,4.336
+SAMN20850278,PRJNA755324,Cohort 2; Subject 55,Day 06,adult,,,US,,,,,,2018-01-09,primary,1.0,4.774
+SAMN20850279,PRJNA755324,Cohort 2; Subject 55,Day 08,adult,,,US,,,,,,2018-01-11,primary,1.0,6.369
+SAMN20850280,PRJNA755324,Cohort 2; Subject 55,Day 10,adult,,,US,,,,,,2018-01-12,primary,1.0,9.24
+SAMN20850274,PRJNA755324,Cohort 2; Subject 55,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-20,primary,1.0,6.69
+SAMN20850284,PRJNA755324,Cohort 2; Subject 55,Week 12,adult,,,US,,,,,,2018-03-29,primary,1.0,7.268
+SAMN20850285,PRJNA755324,Cohort 2; Subject 55,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,5.68
+SAMN20850281,PRJNA755324,Cohort 2; Subject 55,Week 4,adult,,,US,,,,,,2018-02-01,primary,1.0,5.844
+SAMN20850286,PRJNA755324,Cohort 2; Subject 55,Week 52,adult,,,US,,,,,,2019-01-02,primary,1.0,10.685
+SAMN20850282,PRJNA755324,Cohort 2; Subject 55,Week 6,adult,,,US,,,,,,2018-02-15,primary,1.0,4.704
+SAMN20850283,PRJNA755324,Cohort 2; Subject 55,Week 8,adult,,,US,,,,,,2018-03-02,primary,1.0,6.509
+SAMN20850340,PRJNA755324,Cohort 2; Subject 69,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-17,primary,1.0,4.994
+SAMN20850341,PRJNA755324,Cohort 2; Subject 69,Day 04,adult,,,US,,,,,,2018-01-21,primary,1.0,5.662
+SAMN20850342,PRJNA755324,Cohort 2; Subject 69,Day 05,adult,,,US,,,,,,2018-01-22,primary,1.0,8.0
+SAMN20850343,PRJNA755324,Cohort 2; Subject 69,Day 06,adult,,,US,,,,,,2018-01-23,primary,1.0,5.186
+SAMN20850344,PRJNA755324,Cohort 2; Subject 69,Day 08,adult,,,US,,,,,,2018-01-24,primary,1.0,5.107
+SAMN20850345,PRJNA755324,Cohort 2; Subject 69,Day 10,adult,,,US,,,,,,2018-01-26,primary,1.0,4.252
+SAMN20850339,PRJNA755324,Cohort 2; Subject 69,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-03,primary,1.0,5.679
+SAMN20850349,PRJNA755324,Cohort 2; Subject 69,Week 12,adult,,,US,,,,,,2018-04-13,primary,1.0,5.639
+SAMN20850346,PRJNA755324,Cohort 2; Subject 69,Week 4,adult,,,US,,,,,,2018-02-14,primary,1.0,5.251
+SAMN20850347,PRJNA755324,Cohort 2; Subject 69,Week 6,adult,,,US,,,,,,2018-03-02,primary,1.0,5.049
+SAMN20850348,PRJNA755324,Cohort 2; Subject 69,Week 8,adult,,,US,,,,,,2018-03-14,primary,1.0,5.196
+SAMN20850351,PRJNA755324,Cohort 3; Subject 100,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-18,primary,1.0,4.639
+SAMN20850352,PRJNA755324,Cohort 3; Subject 100,Day 04,adult,,,US,,,,,,2018-01-21,primary,1.0,6.423
+SAMN20850353,PRJNA755324,Cohort 3; Subject 100,Day 05,adult,,,US,,,,,,2018-01-22,primary,1.0,4.292
+SAMN20850354,PRJNA755324,Cohort 3; Subject 100,Day 06,adult,,,US,,,,,,2018-01-23,primary,1.0,5.771
+SAMN20850355,PRJNA755324,Cohort 3; Subject 100,Day 08,adult,,,US,,,,,,2018-01-24,primary,1.0,4.674
+SAMN20850356,PRJNA755324,Cohort 3; Subject 100,Day 10,adult,,,US,,,,,,2018-01-26,primary,1.0,5.374
+SAMN20850350,PRJNA755324,Cohort 3; Subject 100,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-08,primary,1.0,4.491
+SAMN20850360,PRJNA755324,Cohort 3; Subject 100,Week 12,adult,,,US,,,,,,2018-04-12,primary,1.0,7.566
+SAMN20850361,PRJNA755324,Cohort 3; Subject 100,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,6.448
+SAMN20850357,PRJNA755324,Cohort 3; Subject 100,Week 4,adult,,,US,,,,,,2018-02-15,primary,1.0,5.605
+SAMN20850362,PRJNA755324,Cohort 3; Subject 100,Week 52,adult,,,US,,,,,,2019-01-14,primary,1.0,8.036
+SAMN20850358,PRJNA755324,Cohort 3; Subject 100,Week 6,adult,,,US,,,,,,2018-03-02,primary,1.0,5.707
+SAMN20850359,PRJNA755324,Cohort 3; Subject 100,Week 8,adult,,,US,,,,,,2018-03-15,primary,1.0,5.269
+SAMN20850364,PRJNA755324,Cohort 3; Subject 102,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-18,primary,1.0,6.914
+SAMN20850365,PRJNA755324,Cohort 3; Subject 102,Day 04,adult,,,US,,,,,,2018-01-21,primary,1.0,4.613
+SAMN20850366,PRJNA755324,Cohort 3; Subject 102,Day 05,adult,,,US,,,,,,2018-01-22,primary,1.0,5.144
+SAMN20850367,PRJNA755324,Cohort 3; Subject 102,Day 06,adult,,,US,,,,,,2018-01-26,primary,1.0,9.097
+SAMN20850368,PRJNA755324,Cohort 3; Subject 102,Day 08,adult,,,US,,,,,,2018-01-27,primary,1.0,4.217
+SAMN20850369,PRJNA755324,Cohort 3; Subject 102,Day 10,adult,,,US,,,,,,2018-01-28,primary,1.0,5.326
+SAMN20850363,PRJNA755324,Cohort 3; Subject 102,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-08,primary,1.0,4.172
+SAMN20850370,PRJNA755324,Cohort 3; Subject 102,Week 4,adult,,,US,,,,,,2018-02-13,primary,1.0,7.166
+SAMN20850371,PRJNA755324,Cohort 3; Subject 102,Week 6,adult,,,US,,,,,,2018-03-02,primary,1.0,5.689
+SAMN20850327,PRJNA755324,Cohort 3; Subject 67,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-18,primary,1.0,5.038
+SAMN20850328,PRJNA755324,Cohort 3; Subject 67,Day 04,adult,,,US,,,,,,2018-01-21,primary,1.0,4.375
+SAMN20850329,PRJNA755324,Cohort 3; Subject 67,Day 05,adult,,,US,,,,,,2018-01-22,primary,1.0,8.105
+SAMN20850330,PRJNA755324,Cohort 3; Subject 67,Day 06,adult,,,US,,,,,,2018-01-23,primary,1.0,5.84
+SAMN20850331,PRJNA755324,Cohort 3; Subject 67,Day 08,adult,,,US,,,,,,2018-01-24,primary,1.0,6.503
+SAMN20850332,PRJNA755324,Cohort 3; Subject 67,Day 10,adult,,,US,,,,,,2018-01-26,primary,1.0,6.329
+SAMN20850326,PRJNA755324,Cohort 3; Subject 67,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-03,primary,1.0,7.125
+SAMN20850336,PRJNA755324,Cohort 3; Subject 67,Week 12,adult,,,US,,,,,,2018-04-13,primary,1.0,7.025
+SAMN20850337,PRJNA755324,Cohort 3; Subject 67,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,4.885
+SAMN20850333,PRJNA755324,Cohort 3; Subject 67,Week 4,adult,,,US,,,,,,2018-02-15,primary,1.0,4.01
+SAMN20850338,PRJNA755324,Cohort 3; Subject 67,Week 52,adult,,,US,,,,,,2019-01-14,primary,1.0,11.657
+SAMN20850334,PRJNA755324,Cohort 3; Subject 67,Week 6,adult,,,US,,,,,,2018-03-02,primary,1.0,5.256
+SAMN20850335,PRJNA755324,Cohort 3; Subject 67,Week 8,adult,,,US,,,,,,2018-03-16,primary,1.0,4.787
+SAMN20850373,PRJNA755324,Cohort 4; Subject 110,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-02-10,primary,1.0,7.592
+SAMN20850374,PRJNA755324,Cohort 4; Subject 110,Day 04,adult,,,US,,,,,,2018-02-13,primary,1.0,7.196
+SAMN20850375,PRJNA755324,Cohort 4; Subject 110,Day 05,adult,,,US,,,,,,2018-02-15,primary,1.0,6.498
+SAMN20850376,PRJNA755324,Cohort 4; Subject 110,Day 06,adult,,,US,,,,,,2018-02-16,primary,1.0,3.997
+SAMN20850377,PRJNA755324,Cohort 4; Subject 110,Day 08,adult,,,US,,,,,,2018-02-18,primary,1.0,4.943
+SAMN20850378,PRJNA755324,Cohort 4; Subject 110,Day 10,adult,,,US,,,,,,2018-02-20,primary,1.0,6.122
+SAMN20850379,PRJNA755324,Cohort 4; Subject 110,Day 14,adult,,,US,,,,,,2018-02-24,primary,1.0,6.875
+SAMN20850372,PRJNA755324,Cohort 4; Subject 110,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-22,primary,1.0,6.411
+SAMN20850383,PRJNA755324,Cohort 4; Subject 110,Week 12,adult,,,US,,,,,,2018-05-08,primary,1.0,10.271
+SAMN20850384,PRJNA755324,Cohort 4; Subject 110,Week 24,adult,,,US,,,,,,2018-10-04,primary,1.0,6.252
+SAMN20850380,PRJNA755324,Cohort 4; Subject 110,Week 4,adult,,,US,,,,,,2018-03-08,primary,1.0,4.943
+SAMN20850385,PRJNA755324,Cohort 4; Subject 110,Week 52,adult,,,US,,,,,,2019-02-07,primary,1.0,8.985
+SAMN20850381,PRJNA755324,Cohort 4; Subject 110,Week 6,adult,,,US,,,,,,2018-03-21,primary,1.0,4.725
+SAMN20850382,PRJNA755324,Cohort 4; Subject 110,Week 8,adult,,,US,,,,,,2018-04-06,primary,1.0,4.885
+SAMN20850387,PRJNA755324,Cohort 4; Subject 111,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-02-09,primary,1.0,6.637
+SAMN20850388,PRJNA755324,Cohort 4; Subject 111,Day 04,adult,,,US,,,,,,2018-02-14,primary,1.0,6.702
+SAMN20850389,PRJNA755324,Cohort 4; Subject 111,Day 05,adult,,,US,,,,,,2018-02-15,primary,1.0,7.597
+SAMN20850390,PRJNA755324,Cohort 4; Subject 111,Day 06,adult,,,US,,,,,,2018-02-16,primary,1.0,5.802
+SAMN20850391,PRJNA755324,Cohort 4; Subject 111,Day 08,adult,,,US,,,,,,2018-02-19,primary,1.0,7.008
+SAMN20850392,PRJNA755324,Cohort 4; Subject 111,Day 10,adult,,,US,,,,,,2018-02-20,primary,1.0,7.112
+SAMN20850393,PRJNA755324,Cohort 4; Subject 111,Day 14,adult,,,US,,,,,,2018-02-24,primary,1.0,6.855
+SAMN20850386,PRJNA755324,Cohort 4; Subject 111,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-22,primary,1.0,5.734
+SAMN20850397,PRJNA755324,Cohort 4; Subject 111,Week 12,adult,,,US,,,,,,2018-05-03,primary,1.0,9.053
+SAMN20850394,PRJNA755324,Cohort 4; Subject 111,Week 4,adult,,,US,,,,,,2018-03-09,primary,1.0,4.224
+SAMN20850398,PRJNA755324,Cohort 4; Subject 111,Week 52,adult,,,US,,,,,,2019-02-08,primary,1.0,8.32
+SAMN20850395,PRJNA755324,Cohort 4; Subject 111,Week 6,adult,,,US,,,,,,2018-03-26,primary,1.0,5.685
+SAMN20850396,PRJNA755324,Cohort 4; Subject 111,Week 8,adult,,,US,,,,,,2018-04-09,primary,1.0,8.213
+SAMN20850400,PRJNA755324,Cohort 4; Subject 126,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-02-10,primary,1.0,7.074
+SAMN20850401,PRJNA755324,Cohort 4; Subject 126,Day 04,adult,,,US,,,,,,2018-02-14,primary,1.0,5.819
+SAMN20850402,PRJNA755324,Cohort 4; Subject 126,Day 05,adult,,,US,,,,,,2018-02-15,primary,1.0,4.638
+SAMN20850403,PRJNA755324,Cohort 4; Subject 126,Day 06,adult,,,US,,,,,,2018-02-16,primary,1.0,5.942
+SAMN20850404,PRJNA755324,Cohort 4; Subject 126,Day 08,adult,,,US,,,,,,2018-02-18,primary,1.0,6.05
+SAMN20850405,PRJNA755324,Cohort 4; Subject 126,Day 10,adult,,,US,,,,,,2018-02-20,primary,1.0,5.41
+SAMN20850406,PRJNA755324,Cohort 4; Subject 126,Day 14,adult,,,US,,,,,,2018-02-24,primary,1.0,6.778
+SAMN20850399,PRJNA755324,Cohort 4; Subject 126,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-22,primary,1.0,4.682
+SAMN20850410,PRJNA755324,Cohort 4; Subject 126,Week 12,adult,,,US,,,,,,2018-05-02,primary,1.0,12.197
+SAMN20850411,PRJNA755324,Cohort 4; Subject 126,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,5.805
+SAMN20850407,PRJNA755324,Cohort 4; Subject 126,Week 4,adult,,,US,,,,,,2018-03-09,primary,1.0,4.594
+SAMN20850412,PRJNA755324,Cohort 4; Subject 126,Week 52,adult,,,US,,,,,,2019-02-06,primary,1.0,10.075
+SAMN20850408,PRJNA755324,Cohort 4; Subject 126,Week 6,adult,,,US,,,,,,2018-03-22,primary,1.0,4.926
+SAMN20850409,PRJNA755324,Cohort 4; Subject 126,Week 8,adult,,,US,,,,,,2018-04-04,primary,1.0,6.376
+SAMN20850414,PRJNA755324,Cohort 4; Subject 132,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-02-10,primary,1.0,6.995
+SAMN20850415,PRJNA755324,Cohort 4; Subject 132,Day 04,adult,,,US,,,,,,2018-02-13,primary,1.0,7.897
+SAMN20850416,PRJNA755324,Cohort 4; Subject 132,Day 05,adult,,,US,,,,,,2018-02-15,primary,1.0,8.09
+SAMN20850417,PRJNA755324,Cohort 4; Subject 132,Day 06,adult,,,US,,,,,,2018-02-16,primary,1.0,8.406
+SAMN20850418,PRJNA755324,Cohort 4; Subject 132,Day 08,adult,,,US,,,,,,2018-02-18,primary,1.0,8.326
+SAMN20850419,PRJNA755324,Cohort 4; Subject 132,Day 10,adult,,,US,,,,,,2018-02-20,primary,1.0,7.656
+SAMN20850420,PRJNA755324,Cohort 4; Subject 132,Day 14,adult,,,US,,,,,,2018-02-24,primary,1.0,6.788
+SAMN20850413,PRJNA755324,Cohort 4; Subject 132,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-24,primary,1.0,5.455
+SAMN20850424,PRJNA755324,Cohort 4; Subject 132,Week 12,adult,,,US,,,,,,2018-05-03,primary,1.0,8.654
+SAMN20850425,PRJNA755324,Cohort 4; Subject 132,Week 24,adult,,,US,,,,,,2018-10-05,primary,1.0,5.143
+SAMN20850421,PRJNA755324,Cohort 4; Subject 132,Week 4,adult,,,US,,,,,,2018-03-09,primary,1.0,6.053
+SAMN20850426,PRJNA755324,Cohort 4; Subject 132,Week 52,adult,,,US,,,,,,2019-02-07,primary,1.0,9.331
+SAMN20850422,PRJNA755324,Cohort 4; Subject 132,Week 6,adult,,,US,,,,,,2018-03-22,primary,1.0,3.873
+SAMN20850423,PRJNA755324,Cohort 4; Subject 132,Week 8,adult,,,US,,,,,,2018-04-04,primary,1.0,7.806
+SAMN20850428,PRJNA755324,Cohort 4; Subject 133,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-02-10,primary,1.0,6.924
+SAMN20850429,PRJNA755324,Cohort 4; Subject 133,Day 04,adult,,,US,,,,,,2018-02-13,primary,1.0,6.253
+SAMN20850430,PRJNA755324,Cohort 4; Subject 133,Day 05,adult,,,US,,,,,,2018-02-15,primary,1.0,6.785
+SAMN20850431,PRJNA755324,Cohort 4; Subject 133,Day 06,adult,,,US,,,,,,2018-02-16,primary,1.0,6.125
+SAMN20850432,PRJNA755324,Cohort 4; Subject 133,Day 08,adult,,,US,,,,,,2018-02-18,primary,1.0,7.416
+SAMN20850433,PRJNA755324,Cohort 4; Subject 133,Day 10,adult,,,US,,,,,,2018-02-20,primary,1.0,6.256
+SAMN20850434,PRJNA755324,Cohort 4; Subject 133,Day 14,adult,,,US,,,,,,2018-02-24,primary,1.0,6.885
+SAMN20850427,PRJNA755324,Cohort 4; Subject 133,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-24,primary,1.0,6.885
+SAMN20850438,PRJNA755324,Cohort 4; Subject 133,Week 12,adult,,,US,,,,,,2018-05-03,primary,1.0,11.195
+SAMN20850439,PRJNA755324,Cohort 4; Subject 133,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,5.653
+SAMN20850435,PRJNA755324,Cohort 4; Subject 133,Week 4,adult,,,US,,,,,,2018-03-09,primary,1.0,5.523
+SAMN20850440,PRJNA755324,Cohort 4; Subject 133,Week 52,adult,,,US,,,,,,2019-02-04,primary,1.0,8.602
+SAMN20850436,PRJNA755324,Cohort 4; Subject 133,Week 6,adult,,,US,,,,,,2018-03-23,primary,1.0,2.205
+SAMN20850437,PRJNA755324,Cohort 4; Subject 133,Week 8,adult,,,US,,,,,,2018-04-06,primary,1.0,8.879
+SAMN20850442,PRJNA755324,Cohort 4; Subject 144,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-02-10,primary,1.0,7.306
+SAMN20850443,PRJNA755324,Cohort 4; Subject 144,Day 04,adult,,,US,,,,,,2018-02-13,primary,1.0,6.169
+SAMN20850444,PRJNA755324,Cohort 4; Subject 144,Day 05,adult,,,US,,,,,,2018-02-15,primary,1.0,5.131
+SAMN20850445,PRJNA755324,Cohort 4; Subject 144,Day 06,adult,,,US,,,,,,2018-02-16,primary,1.0,5.333
+SAMN20850446,PRJNA755324,Cohort 4; Subject 144,Day 08,adult,,,US,,,,,,2018-02-18,primary,1.0,5.891
+SAMN20850447,PRJNA755324,Cohort 4; Subject 144,Day 10,adult,,,US,,,,,,2018-02-20,primary,1.0,8.059
+SAMN20850448,PRJNA755324,Cohort 4; Subject 144,Day 14,adult,,,US,,,,,,2018-02-24,primary,1.0,7.629
+SAMN20850441,PRJNA755324,Cohort 4; Subject 144,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-26,primary,1.0,7.794
+SAMN20850452,PRJNA755324,Cohort 4; Subject 144,Week 12,adult,,,US,,,,,,2018-05-02,primary,1.0,7.898
+SAMN20850449,PRJNA755324,Cohort 4; Subject 144,Week 4,adult,,,US,,,,,,2018-03-09,primary,1.0,5.52
+SAMN20850453,PRJNA755324,Cohort 4; Subject 144,Week 52,adult,,,US,,,,,,2019-02-25,primary,1.0,8.994
+SAMN20850450,PRJNA755324,Cohort 4; Subject 144,Week 6,adult,,,US,,,,,,2018-03-23,primary,1.0,4.109
+SAMN20850451,PRJNA755324,Cohort 4; Subject 144,Week 8,adult,,,US,,,,,,2018-04-04,primary,1.0,7.657
+SAMN20850455,PRJNA755324,Cohort 5; Subject 153,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,5.7
+SAMN20850456,PRJNA755324,Cohort 5; Subject 153,Day 04,adult,,,US,,,,,,2018-03-11,primary,1.0,6.654
+SAMN20850457,PRJNA755324,Cohort 5; Subject 153,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,6.538
+SAMN20850458,PRJNA755324,Cohort 5; Subject 153,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,12.871
+SAMN20850459,PRJNA755324,Cohort 5; Subject 153,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,5.987
+SAMN20850460,PRJNA755324,Cohort 5; Subject 153,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,4.138
+SAMN20850461,PRJNA755324,Cohort 5; Subject 153,Day 14,adult,,,US,,,,,,2018-03-20,primary,1.0,7.246
+SAMN20850462,PRJNA755324,Cohort 5; Subject 153,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,6.169
+SAMN20850463,PRJNA755324,Cohort 5; Subject 153,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,6.509
+SAMN20850464,PRJNA755324,Cohort 5; Subject 153,Day 26,adult,,,US,,,,,,2018-04-01,primary,1.0,7.098
+SAMN20850465,PRJNA755324,Cohort 5; Subject 153,Day 33,adult,,,US,,,,,,2018-04-08,primary,1.0,7.193
+SAMN20850454,PRJNA755324,Cohort 5; Subject 153,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-13,primary,1.0,7.032
+SAMN20850468,PRJNA755324,Cohort 5; Subject 153,Week 12,adult,,,US,,,,,,2018-05-29,primary,1.0,5.798
+SAMN20850469,PRJNA755324,Cohort 5; Subject 153,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,5.644
+SAMN20850470,PRJNA755324,Cohort 5; Subject 153,Week 52,adult,,,US,,,,,,2019-02-27,primary,1.0,8.798
+SAMN20850466,PRJNA755324,Cohort 5; Subject 153,Week 6,adult,,,US,,,,,,2018-04-17,primary,1.0,7.435
+SAMN20850467,PRJNA755324,Cohort 5; Subject 153,Week 8,adult,,,US,,,,,,2018-05-01,primary,1.0,8.881
+SAMN20850472,PRJNA755324,Cohort 5; Subject 156,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,6.297
+SAMN20850473,PRJNA755324,Cohort 5; Subject 156,Day 04,adult,,,US,,,,,,2018-03-10,primary,1.0,5.31
+SAMN20850474,PRJNA755324,Cohort 5; Subject 156,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,4.746
+SAMN20850475,PRJNA755324,Cohort 5; Subject 156,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,6.335
+SAMN20850476,PRJNA755324,Cohort 5; Subject 156,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,5.364
+SAMN20850477,PRJNA755324,Cohort 5; Subject 156,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,4.876
+SAMN20850478,PRJNA755324,Cohort 5; Subject 156,Day 14,adult,,,US,,,,,,2018-03-21,primary,1.0,6.604
+SAMN20850479,PRJNA755324,Cohort 5; Subject 156,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,6.771
+SAMN20850480,PRJNA755324,Cohort 5; Subject 156,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,6.028
+SAMN20850481,PRJNA755324,Cohort 5; Subject 156,Day 26,adult,,,US,,,,,,2018-04-01,primary,1.0,6.408
+SAMN20850482,PRJNA755324,Cohort 5; Subject 156,Day 33,adult,,,US,,,,,,2018-04-08,primary,1.0,6.88
+SAMN20850471,PRJNA755324,Cohort 5; Subject 156,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-13,primary,1.0,6.491
+SAMN20850485,PRJNA755324,Cohort 5; Subject 156,Week 12,adult,,,US,,,,,,2018-06-01,primary,1.0,4.44
+SAMN20850486,PRJNA755324,Cohort 5; Subject 156,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,5.87
+SAMN20850487,PRJNA755324,Cohort 5; Subject 156,Week 52,adult,,,US,,,,,,2019-03-01,primary,1.0,9.816
+SAMN20850483,PRJNA755324,Cohort 5; Subject 156,Week 6,adult,,,US,,,,,,2018-04-17,primary,1.0,7.356
+SAMN20850484,PRJNA755324,Cohort 5; Subject 156,Week 8,adult,,,US,,,,,,2018-04-30,primary,1.0,8.623
+SAMN20850489,PRJNA755324,Cohort 5; Subject 157,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,4.728
+SAMN20850490,PRJNA755324,Cohort 5; Subject 157,Day 04,adult,,,US,,,,,,2018-03-10,primary,1.0,6.472
+SAMN20850491,PRJNA755324,Cohort 5; Subject 157,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,5.05
+SAMN20850492,PRJNA755324,Cohort 5; Subject 157,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,11.432
+SAMN20850493,PRJNA755324,Cohort 5; Subject 157,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,10.379
+SAMN20850494,PRJNA755324,Cohort 5; Subject 157,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,8.477
+SAMN20850495,PRJNA755324,Cohort 5; Subject 157,Day 14,adult,,,US,,,,,,2018-03-20,primary,1.0,6.182
+SAMN20850496,PRJNA755324,Cohort 5; Subject 157,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,6.135
+SAMN20850497,PRJNA755324,Cohort 5; Subject 157,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,8.118
+SAMN20850498,PRJNA755324,Cohort 5; Subject 157,Day 26,adult,,,US,,,,,,2018-04-01,primary,1.0,6.278
+SAMN20850499,PRJNA755324,Cohort 5; Subject 157,Day 33,adult,,,US,,,,,,2018-04-07,primary,1.0,6.218
+SAMN20850488,PRJNA755324,Cohort 5; Subject 157,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-13,primary,1.0,7.343
+SAMN20850502,PRJNA755324,Cohort 5; Subject 157,Week 12,adult,,,US,,,,,,2018-05-30,primary,1.0,5.865
+SAMN20850503,PRJNA755324,Cohort 5; Subject 157,Week 24,adult,,,US,,,,,,2018-10-10,primary,1.0,5.412
+SAMN20850504,PRJNA755324,Cohort 5; Subject 157,Week 52,adult,,,US,,,,,,2019-03-01,primary,1.0,8.3
+SAMN20850500,PRJNA755324,Cohort 5; Subject 157,Week 6,adult,,,US,,,,,,2018-04-19,primary,1.0,6.576
+SAMN20850501,PRJNA755324,Cohort 5; Subject 157,Week 8,adult,,,US,,,,,,2018-05-04,primary,1.0,10.287
+SAMN20850506,PRJNA755324,Cohort 5; Subject 158,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,5.886
+SAMN20850507,PRJNA755324,Cohort 5; Subject 158,Day 04,adult,,,US,,,,,,2018-03-10,primary,1.0,11.929
+SAMN20850508,PRJNA755324,Cohort 5; Subject 158,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,7.643
+SAMN20850509,PRJNA755324,Cohort 5; Subject 158,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,7.11
+SAMN20850510,PRJNA755324,Cohort 5; Subject 158,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,7.066
+SAMN20850511,PRJNA755324,Cohort 5; Subject 158,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,6.92
+SAMN20850512,PRJNA755324,Cohort 5; Subject 158,Day 14,adult,,,US,,,,,,2018-03-20,primary,1.0,7.922
+SAMN20850513,PRJNA755324,Cohort 5; Subject 158,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,5.393
+SAMN20850514,PRJNA755324,Cohort 5; Subject 158,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,5.404
+SAMN20850515,PRJNA755324,Cohort 5; Subject 158,Day 26,adult,,,US,,,,,,2018-04-02,primary,1.0,7.656
+SAMN20850516,PRJNA755324,Cohort 5; Subject 158,Day 33,adult,,,US,,,,,,2018-04-09,primary,1.0,6.619
+SAMN20850505,PRJNA755324,Cohort 5; Subject 158,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-13,primary,1.0,5.495
+SAMN20850519,PRJNA755324,Cohort 5; Subject 158,Week 12,adult,,,US,,,,,,2018-05-31,primary,1.0,4.543
+SAMN20850520,PRJNA755324,Cohort 5; Subject 158,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,5.214
+SAMN20850521,PRJNA755324,Cohort 5; Subject 158,Week 52,adult,,,US,,,,,,2019-03-01,primary,1.0,8.132
+SAMN20850517,PRJNA755324,Cohort 5; Subject 158,Week 6,adult,,,US,,,,,,2018-04-19,primary,1.0,7.112
+SAMN20850518,PRJNA755324,Cohort 5; Subject 158,Week 8,adult,,,US,,,,,,2018-05-03,primary,1.0,9.279
+SAMN20850523,PRJNA755324,Cohort 5; Subject 166,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,5.236
+SAMN20850524,PRJNA755324,Cohort 5; Subject 166,Day 04,adult,,,US,,,,,,2018-03-10,primary,1.0,4.433
+SAMN20850525,PRJNA755324,Cohort 5; Subject 166,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,6.173
+SAMN20850526,PRJNA755324,Cohort 5; Subject 166,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,10.21
+SAMN20850527,PRJNA755324,Cohort 5; Subject 166,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,7.196
+SAMN20850528,PRJNA755324,Cohort 5; Subject 166,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,5.166
+SAMN20850529,PRJNA755324,Cohort 5; Subject 166,Day 14,adult,,,US,,,,,,2018-03-20,primary,1.0,6.109
+SAMN20850530,PRJNA755324,Cohort 5; Subject 166,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,5.959
+SAMN20850531,PRJNA755324,Cohort 5; Subject 166,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,6.482
+SAMN20850532,PRJNA755324,Cohort 5; Subject 166,Day 26,adult,,,US,,,,,,2018-04-01,primary,1.0,9.397
+SAMN20850533,PRJNA755324,Cohort 5; Subject 166,Day 33,adult,,,US,,,,,,2018-04-08,primary,1.0,6.554
+SAMN20850522,PRJNA755324,Cohort 5; Subject 166,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-17,primary,1.0,7.391
+SAMN20850536,PRJNA755324,Cohort 5; Subject 166,Week 12,adult,,,US,,,,,,2018-05-29,primary,1.0,28.293
+SAMN20850537,PRJNA755324,Cohort 5; Subject 166,Week 24,adult,,,US,,,,,,2018-10-03,primary,1.0,5.17
+SAMN20850538,PRJNA755324,Cohort 5; Subject 166,Week 52,adult,,,US,,,,,,2019-02-27,primary,1.0,9.415
+SAMN20850534,PRJNA755324,Cohort 5; Subject 166,Week 6,adult,,,US,,,,,,2018-04-19,primary,1.0,7.364
+SAMN20850535,PRJNA755324,Cohort 5; Subject 166,Week 8,adult,,,US,,,,,,2018-05-02,primary,1.0,8.481
+SAMN20850540,PRJNA755324,Cohort 5; Subject 171,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,5.382
+SAMN20850541,PRJNA755324,Cohort 5; Subject 171,Day 04,adult,,,US,,,,,,2018-03-10,primary,1.0,5.197
+SAMN20850542,PRJNA755324,Cohort 5; Subject 171,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,5.219
+SAMN20850543,PRJNA755324,Cohort 5; Subject 171,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,4.837
+SAMN20850544,PRJNA755324,Cohort 5; Subject 171,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,5.521
+SAMN20850545,PRJNA755324,Cohort 5; Subject 171,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,4.132
+SAMN20850546,PRJNA755324,Cohort 5; Subject 171,Day 14,adult,,,US,,,,,,2018-03-20,primary,1.0,5.794
+SAMN20850547,PRJNA755324,Cohort 5; Subject 171,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,4.274
+SAMN20850548,PRJNA755324,Cohort 5; Subject 171,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,6.54
+SAMN20850549,PRJNA755324,Cohort 5; Subject 171,Day 26,adult,,,US,,,,,,2018-04-01,primary,1.0,7.634
+SAMN20850550,PRJNA755324,Cohort 5; Subject 171,Day 33,adult,,,US,,,,,,2018-04-11,primary,1.0,6.939
+SAMN20850539,PRJNA755324,Cohort 5; Subject 171,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-19,primary,1.0,6.493
+SAMN20850553,PRJNA755324,Cohort 5; Subject 171,Week 12,adult,,,US,,,,,,2018-05-29,primary,1.0,4.641
+SAMN20850554,PRJNA755324,Cohort 5; Subject 171,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,5.654
+SAMN20850555,PRJNA755324,Cohort 5; Subject 171,Week 52,adult,,,US,,,,,,2019-02-27,primary,1.0,8.312
+SAMN20850551,PRJNA755324,Cohort 5; Subject 171,Week 6,adult,,,US,,,,,,2018-04-16,primary,1.0,6.393
+SAMN20850552,PRJNA755324,Cohort 5; Subject 171,Week 8,adult,,,US,,,,,,2018-05-01,primary,1.0,7.737
+SAMN20850557,PRJNA755324,Cohort 5; Subject 176,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-03-06,primary,1.0,4.778
+SAMN20850558,PRJNA755324,Cohort 5; Subject 176,Day 04,adult,,,US,,,,,,2018-03-10,primary,1.0,9.956
+SAMN20850559,PRJNA755324,Cohort 5; Subject 176,Day 05,adult,,,US,,,,,,2018-03-11,primary,1.0,6.489
+SAMN20850560,PRJNA755324,Cohort 5; Subject 176,Day 06,adult,,,US,,,,,,2018-03-12,primary,1.0,4.438
+SAMN20850561,PRJNA755324,Cohort 5; Subject 176,Day 08,adult,,,US,,,,,,2018-03-14,primary,1.0,7.163
+SAMN20850562,PRJNA755324,Cohort 5; Subject 176,Day 10,adult,,,US,,,,,,2018-03-16,primary,1.0,6.356
+SAMN20850563,PRJNA755324,Cohort 5; Subject 176,Day 14,adult,,,US,,,,,,2018-03-20,primary,1.0,7.294
+SAMN20850564,PRJNA755324,Cohort 5; Subject 176,Day 19,adult,,,US,,,,,,2018-03-25,primary,1.0,8.932
+SAMN20850565,PRJNA755324,Cohort 5; Subject 176,Day 23,adult,,,US,,,,,,2018-03-29,primary,1.0,6.747
+SAMN20850566,PRJNA755324,Cohort 5; Subject 176,Day 26,adult,,,US,,,,,,2018-04-01,primary,1.0,6.183
+SAMN20850567,PRJNA755324,Cohort 5; Subject 176,Day 33,adult,,,US,,,,,,2018-04-08,primary,1.0,6.92
+SAMN20850556,PRJNA755324,Cohort 5; Subject 176,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-02-19,primary,1.0,8.611
+SAMN20850570,PRJNA755324,Cohort 5; Subject 176,Week 12,adult,,,US,,,,,,2018-05-31,primary,1.0,5.22
+SAMN20850571,PRJNA755324,Cohort 5; Subject 176,Week 24,adult,,,US,,,,,,2018-10-05,primary,1.0,5.686
+SAMN20850572,PRJNA755324,Cohort 5; Subject 176,Week 52,adult,,,US,,,,,,2019-03-01,primary,1.0,10.301
+SAMN20850568,PRJNA755324,Cohort 5; Subject 176,Week 6,adult,,,US,,,,,,2018-04-18,primary,1.0,7.59
+SAMN20850569,PRJNA755324,Cohort 5; Subject 176,Week 8,adult,,,US,,,,,,2018-05-01,primary,1.0,6.776
+SAMN20850574,PRJNA755324,Cohort 6; Subject 191,Day -1,adult,,,US,,,no_intervention,baseline day before first VE303 dose,,2018-04-17,primary,1.0,8.568
+SAMN20850575,PRJNA755324,Cohort 6; Subject 191,Day 02,adult,,,US,,,,,,2018-04-20,primary,1.0,8.324
+SAMN20850576,PRJNA755324,Cohort 6; Subject 191,Day 06,adult,,,US,,,,,,2018-04-24,primary,1.0,7.711
+SAMN20850577,PRJNA755324,Cohort 6; Subject 191,Day 13,adult,,,US,,,,,,2018-05-01,primary,1.0,8.959
+SAMN20850578,PRJNA755324,Cohort 6; Subject 191,Day 20,adult,,,US,,,,,,2018-05-08,primary,1.0,10.173
+SAMN20850579,PRJNA755324,Cohort 6; Subject 191,Day 22,adult,,,US,,,,,,2018-05-10,primary,1.0,10.962
+SAMN20850580,PRJNA755324,Cohort 6; Subject 191,Day 24,adult,,,US,,,,,,2018-05-11,primary,1.0,9.186
+SAMN20850581,PRJNA755324,Cohort 6; Subject 191,Day 28,adult,,,US,,,,,,2018-05-16,primary,1.0,4.467
+SAMN20850582,PRJNA755324,Cohort 6; Subject 191,Day 35,adult,,,US,,,,,,2018-05-23,primary,1.0,5.178
+SAMN20850573,PRJNA755324,Cohort 6; Subject 191,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-04-02,primary,1.0,7.051
+SAMN20850585,PRJNA755324,Cohort 6; Subject 191,Week 12,adult,,,US,,,,,,2018-07-09,primary,1.0,28.694
+SAMN20850586,PRJNA755324,Cohort 6; Subject 191,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,5.458
+SAMN20850587,PRJNA755324,Cohort 6; Subject 191,Week 52,adult,,,US,,,,,,2019-02-27,primary,1.0,5.192
+SAMN20850583,PRJNA755324,Cohort 6; Subject 191,Week 6,adult,,,US,,,,,,2018-05-30,primary,1.0,5.441
+SAMN20850584,PRJNA755324,Cohort 6; Subject 191,Week 8,adult,,,US,,,,,,2018-06-13,primary,1.0,5.707
+SAMN20850589,PRJNA755324,Cohort 6; Subject 192,Day -1,adult,,,US,,,no_intervention,baseline day before first VE303 dose,,2018-04-17,primary,1.0,7.527
+SAMN20850590,PRJNA755324,Cohort 6; Subject 192,Day 02,adult,,,US,,,,,,2018-04-20,primary,1.0,7.576
+SAMN20850591,PRJNA755324,Cohort 6; Subject 192,Day 06,adult,,,US,,,,,,2018-04-24,primary,1.0,8.716
+SAMN20850592,PRJNA755324,Cohort 6; Subject 192,Day 13,adult,,,US,,,,,,2018-05-01,primary,1.0,7.657
+SAMN20850593,PRJNA755324,Cohort 6; Subject 192,Day 20,adult,,,US,,,,,,2018-05-08,primary,1.0,8.698
+SAMN20850594,PRJNA755324,Cohort 6; Subject 192,Day 22,adult,,,US,,,,,,2018-05-10,primary,1.0,9.949
+SAMN20850595,PRJNA755324,Cohort 6; Subject 192,Day 24,adult,,,US,,,,,,2018-05-11,primary,1.0,9.01
+SAMN20850596,PRJNA755324,Cohort 6; Subject 192,Day 28,adult,,,US,,,,,,2018-05-16,primary,1.0,5.239
+SAMN20850597,PRJNA755324,Cohort 6; Subject 192,Day 35,adult,,,US,,,,,,2018-05-22,primary,1.0,5.798
+SAMN20850588,PRJNA755324,Cohort 6; Subject 192,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-04-02,primary,1.0,6.435
+SAMN20850600,PRJNA755324,Cohort 6; Subject 192,Week 12,adult,,,US,,,,,,2018-07-10,primary,1.0,30.866
+SAMN20850601,PRJNA755324,Cohort 6; Subject 192,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,5.733
+SAMN20850602,PRJNA755324,Cohort 6; Subject 192,Week 52,adult,,,US,,,,,,2019-03-01,primary,1.0,8.759
+SAMN20850598,PRJNA755324,Cohort 6; Subject 192,Week 6,adult,,,US,,,,,,2018-05-29,primary,1.0,6.141
+SAMN20850599,PRJNA755324,Cohort 6; Subject 192,Week 8,adult,,,US,,,,,,2018-06-12,primary,1.0,6.207
+SAMN20850604,PRJNA755324,Cohort 6; Subject 194,Day -1,adult,,,US,,,no_intervention,baseline day before first VE303 dose,,2018-04-17,primary,1.0,7.52
+SAMN20850605,PRJNA755324,Cohort 6; Subject 194,Day 02,adult,,,US,,,,,,2018-04-20,primary,1.0,5.749
+SAMN20850606,PRJNA755324,Cohort 6; Subject 194,Day 06,adult,,,US,,,,,,2018-04-24,primary,1.0,7.846
+SAMN20850607,PRJNA755324,Cohort 6; Subject 194,Day 13,adult,,,US,,,,,,2018-05-01,primary,1.0,13.951
+SAMN20850608,PRJNA755324,Cohort 6; Subject 194,Day 20,adult,,,US,,,,,,2018-05-08,primary,1.0,9.789
+SAMN20850609,PRJNA755324,Cohort 6; Subject 194,Day 22,adult,,,US,,,,,,2018-05-10,primary,1.0,7.376
+SAMN20850610,PRJNA755324,Cohort 6; Subject 194,Day 24,adult,,,US,,,,,,2018-05-11,primary,1.0,10.389
+SAMN20850611,PRJNA755324,Cohort 6; Subject 194,Day 28,adult,,,US,,,,,,2018-05-17,primary,1.0,5.457
+SAMN20850612,PRJNA755324,Cohort 6; Subject 194,Day 35,adult,,,US,,,,,,2018-05-23,primary,1.0,4.922
+SAMN20850603,PRJNA755324,Cohort 6; Subject 194,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-04-02,primary,1.0,6.724
+SAMN20850615,PRJNA755324,Cohort 6; Subject 194,Week 12,adult,,,US,,,,,,2018-07-11,primary,1.0,22.457
+SAMN20850616,PRJNA755324,Cohort 6; Subject 194,Week 24,adult,,,US,,,,,,2018-10-03,primary,1.0,6.839
+SAMN20850617,PRJNA755324,Cohort 6; Subject 194,Week 52,adult,,,US,,,,,,2019-02-27,primary,1.0,7.785
+SAMN20850613,PRJNA755324,Cohort 6; Subject 194,Week 6,adult,,,US,,,,,,2018-05-30,primary,1.0,5.05
+SAMN20850614,PRJNA755324,Cohort 6; Subject 194,Week 8,adult,,,US,,,,,,2018-06-11,primary,1.0,4.942
+SAMN20850619,PRJNA755324,Cohort 6; Subject 198,Day -1,adult,,,US,,,no_intervention,baseline day before first VE303 dose,,2018-04-17,primary,1.0,7.48
+SAMN20850620,PRJNA755324,Cohort 6; Subject 198,Day 02,adult,,,US,,,,,,2018-04-20,primary,1.0,6.985
+SAMN20850621,PRJNA755324,Cohort 6; Subject 198,Day 06,adult,,,US,,,,,,2018-04-24,primary,1.0,7.504
+SAMN20850622,PRJNA755324,Cohort 6; Subject 198,Day 13,adult,,,US,,,,,,2018-05-01,primary,1.0,9.524
+SAMN20850623,PRJNA755324,Cohort 6; Subject 198,Day 20,adult,,,US,,,,,,2018-05-08,primary,1.0,10.177
+SAMN20850624,PRJNA755324,Cohort 6; Subject 198,Day 22,adult,,,US,,,,,,2018-05-10,primary,1.0,9.8
+SAMN20850625,PRJNA755324,Cohort 6; Subject 198,Day 24,adult,,,US,,,,,,2018-05-11,primary,1.0,9.093
+SAMN20850626,PRJNA755324,Cohort 6; Subject 198,Day 28,adult,,,US,,,,,,2018-05-16,primary,1.0,4.711
+SAMN20850627,PRJNA755324,Cohort 6; Subject 198,Day 35,adult,,,US,,,,,,2018-05-22,primary,1.0,5.299
+SAMN20850618,PRJNA755324,Cohort 6; Subject 198,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-04-02,primary,1.0,7.812
+SAMN20850630,PRJNA755324,Cohort 6; Subject 198,Week 12,adult,,,US,,,,,,2018-07-10,primary,1.0,26.481
+SAMN20850631,PRJNA755324,Cohort 6; Subject 198,Week 24,adult,,,US,,,,,,2018-10-08,primary,1.0,6.988
+SAMN20850632,PRJNA755324,Cohort 6; Subject 198,Week 52,adult,,,US,,,,,,2019-03-01,primary,1.0,7.499
+SAMN20850628,PRJNA755324,Cohort 6; Subject 198,Week 6,adult,,,US,,,,,,2018-05-29,primary,1.0,4.64
+SAMN20850629,PRJNA755324,Cohort 6; Subject 198,Week 8,adult,,,US,,,,,,2018-06-12,primary,1.0,5.424
+SAMN20850634,PRJNA755324,Cohort 6; Subject 203,Day -1,adult,,,US,,,no_intervention,baseline day before first VE303 dose,,2018-04-17,primary,1.0,9.047
+SAMN20850635,PRJNA755324,Cohort 6; Subject 203,Day 02,adult,,,US,,,,,,2018-04-20,primary,1.0,7.326
+SAMN20850636,PRJNA755324,Cohort 6; Subject 203,Day 06,adult,,,US,,,,,,2018-04-24,primary,1.0,8.118
+SAMN20850637,PRJNA755324,Cohort 6; Subject 203,Day 13,adult,,,US,,,,,,2018-05-01,primary,1.0,10.116
+SAMN20850638,PRJNA755324,Cohort 6; Subject 203,Day 20,adult,,,US,,,,,,2018-05-08,primary,1.0,9.763
+SAMN20850639,PRJNA755324,Cohort 6; Subject 203,Day 22,adult,,,US,,,,,,2018-05-10,primary,1.0,7.674
+SAMN20850640,PRJNA755324,Cohort 6; Subject 203,Day 24,adult,,,US,,,,,,2018-05-11,primary,1.0,9.581
+SAMN20850641,PRJNA755324,Cohort 6; Subject 203,Day 28,adult,,,US,,,,,,2018-05-16,primary,1.0,5.278
+SAMN20850642,PRJNA755324,Cohort 6; Subject 203,Day 35,adult,,,US,,,,,,2018-05-23,primary,1.0,5.232
+SAMN20850633,PRJNA755324,Cohort 6; Subject 203,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-04-04,primary,1.0,8.729
+SAMN20850645,PRJNA755324,Cohort 6; Subject 203,Week 12,adult,,,US,,,,,,2018-07-11,primary,1.0,24.785
+SAMN20850646,PRJNA755324,Cohort 6; Subject 203,Week 24,adult,,,US,,,,,,2018-10-11,primary,1.0,5.729
+SAMN20850647,PRJNA755324,Cohort 6; Subject 203,Week 52,adult,,,US,,,,,,2019-03-06,primary,1.0,10.022
+SAMN20850643,PRJNA755324,Cohort 6; Subject 203,Week 6,adult,,,US,,,,,,2018-05-29,primary,1.0,6.329
+SAMN20850644,PRJNA755324,Cohort 6; Subject 203,Week 8,adult,,,US,,,,,,2018-06-12,primary,1.0,5.445
+SAMN20850224,PRJNA755324,Cohort Sentinel; Subject 30,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2017-12-12,primary,1.0,8.047
+SAMN20850225,PRJNA755324,Cohort Sentinel; Subject 30,Day 04,adult,,,US,,,,,,2017-12-15,primary,1.0,5.654
+SAMN20850226,PRJNA755324,Cohort Sentinel; Subject 30,Day 05,adult,,,US,,,,,,2017-12-17,primary,1.0,4.312
+SAMN20850227,PRJNA755324,Cohort Sentinel; Subject 30,Day 06,adult,,,US,,,,,,2017-12-18,primary,1.0,4.582
+SAMN20850228,PRJNA755324,Cohort Sentinel; Subject 30,Day 08,adult,,,US,,,,,,2017-12-20,primary,1.0,5.224
+SAMN20850229,PRJNA755324,Cohort Sentinel; Subject 30,Day 10,adult,,,US,,,,,,2017-12-20,primary,1.0,6.306
+SAMN20850223,PRJNA755324,Cohort Sentinel; Subject 30,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-03,primary,1.0,5.377
+SAMN20850233,PRJNA755324,Cohort Sentinel; Subject 30,Week 12,adult,,,US,,,,,,2018-03-06,primary,1.0,6.769
+SAMN20850234,PRJNA755324,Cohort Sentinel; Subject 30,Week 24,adult,,,US,,,,,,2018-10-10,primary,1.0,5.562
+SAMN20850230,PRJNA755324,Cohort Sentinel; Subject 30,Week 4,adult,,,US,,,,,,2018-01-09,primary,1.0,5.702
+SAMN20850235,PRJNA755324,Cohort Sentinel; Subject 30,Week 52,adult,,,US,,,,,,2018-12-07,primary,1.0,9.768
+SAMN20850231,PRJNA755324,Cohort Sentinel; Subject 30,Week 6,adult,,,US,,,,,,2018-01-24,primary,1.0,6.068
+SAMN20850232,PRJNA755324,Cohort Sentinel; Subject 30,Week 8,adult,,,US,,,,,,2018-02-06,primary,1.0,3.786
+SAMN20850211,PRJNA755324,Cohort Vanco; Subject 29,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2017-12-12,primary,1.0,5.525
+SAMN20850212,PRJNA755324,Cohort Vanco; Subject 29,Day 04,adult,,,US,,,,,,2017-12-15,primary,1.0,9.415
+SAMN20850213,PRJNA755324,Cohort Vanco; Subject 29,Day 05,adult,,,US,,,,,,2017-12-17,primary,1.0,6.174
+SAMN20850214,PRJNA755324,Cohort Vanco; Subject 29,Day 06,adult,,,US,,,,,,2017-12-18,primary,1.0,5.554
+SAMN20850215,PRJNA755324,Cohort Vanco; Subject 29,Day 08,adult,,,US,,,,,,2017-12-19,primary,1.0,5.745
+SAMN20850216,PRJNA755324,Cohort Vanco; Subject 29,Day 10,adult,,,US,,,,,,2017-12-21,primary,1.0,5.596
+SAMN20850210,PRJNA755324,Cohort Vanco; Subject 29,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-03,primary,1.0,4.172
+SAMN20850220,PRJNA755324,Cohort Vanco; Subject 29,Week 12,adult,,,US,,,,,,2018-03-06,primary,1.0,6.48
+SAMN20850221,PRJNA755324,Cohort Vanco; Subject 29,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,6.342
+SAMN20850217,PRJNA755324,Cohort Vanco; Subject 29,Week 4,adult,,,US,,,,,,2018-01-09,primary,1.0,6.221
+SAMN20850222,PRJNA755324,Cohort Vanco; Subject 29,Week 52,adult,,,US,,,,,,2018-12-07,primary,1.0,9.133
+SAMN20850218,PRJNA755324,Cohort Vanco; Subject 29,Week 6,adult,,,US,,,,,,2018-01-23,primary,1.0,5.633
+SAMN20850219,PRJNA755324,Cohort Vanco; Subject 29,Week 8,adult,,,US,,,,,,2018-02-06,primary,1.0,5.429
+SAMN20850237,PRJNA755324,Cohort Vanco; Subject 32,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2017-12-12,primary,1.0,5.698
+SAMN20850238,PRJNA755324,Cohort Vanco; Subject 32,Day 04,adult,,,US,,,,,,2017-12-15,primary,1.0,4.803
+SAMN20850239,PRJNA755324,Cohort Vanco; Subject 32,Day 05,adult,,,US,,,,,,2017-12-16,primary,1.0,5.544
+SAMN20850240,PRJNA755324,Cohort Vanco; Subject 32,Day 06,adult,,,US,,,,,,2017-12-17,primary,1.0,5.415
+SAMN20850241,PRJNA755324,Cohort Vanco; Subject 32,Day 08,adult,,,US,,,,,,2017-12-18,primary,1.0,4.534
+SAMN20850242,PRJNA755324,Cohort Vanco; Subject 32,Day 10,adult,,,US,,,,,,2017-12-20,primary,1.0,7.581
+SAMN20850236,PRJNA755324,Cohort Vanco; Subject 32,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-04,primary,1.0,7.873
+SAMN20850246,PRJNA755324,Cohort Vanco; Subject 32,Week 12,adult,,,US,,,,,,2018-03-05,primary,1.0,7.274
+SAMN20850247,PRJNA755324,Cohort Vanco; Subject 32,Week 24,adult,,,US,,,,,,2018-10-01,primary,1.0,6.075
+SAMN20850243,PRJNA755324,Cohort Vanco; Subject 32,Week 4,adult,,,US,,,,,,2018-01-09,primary,1.0,6.432
+SAMN20850248,PRJNA755324,Cohort Vanco; Subject 32,Week 52,adult,,,US,,,,,,2018-12-07,primary,1.0,9.343
+SAMN20850244,PRJNA755324,Cohort Vanco; Subject 32,Week 6,adult,,,US,,,,,,2018-01-23,primary,1.0,6.824
+SAMN20850245,PRJNA755324,Cohort Vanco; Subject 32,Week 8,adult,,,US,,,,,,2018-02-05,primary,1.0,4.005
+SAMN20850199,PRJNA755324,Cohort Vanco; Subject 5,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2017-12-12,primary,1.0,5.451
+SAMN20850200,PRJNA755324,Cohort Vanco; Subject 5,Day 04,adult,,,US,,,,,,2017-12-15,primary,1.0,6.11
+SAMN20850201,PRJNA755324,Cohort Vanco; Subject 5,Day 05,adult,,,US,,,,,,2017-12-17,primary,1.0,8.724
+SAMN20850202,PRJNA755324,Cohort Vanco; Subject 5,Day 06,adult,,,US,,,,,,2017-12-18,primary,1.0,5.608
+SAMN20850203,PRJNA755324,Cohort Vanco; Subject 5,Day 08,adult,,,US,,,,,,2017-12-19,primary,1.0,9.107
+SAMN20850204,PRJNA755324,Cohort Vanco; Subject 5,Day 10,adult,,,US,,,,,,2017-12-20,primary,1.0,4.801
+SAMN20850198,PRJNA755324,Cohort Vanco; Subject 5,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2017-12-01,primary,1.0,6.003
+SAMN20850208,PRJNA755324,Cohort Vanco; Subject 5,Week 12,adult,,,US,,,,,,2018-03-08,primary,1.0,5.304
+SAMN20850205,PRJNA755324,Cohort Vanco; Subject 5,Week 4,adult,,,US,,,,,,2018-01-08,primary,1.0,5.746
+SAMN20850209,PRJNA755324,Cohort Vanco; Subject 5,Week 52,adult,,,US,,,,,,2018-12-10,primary,1.0,9.458
+SAMN20850206,PRJNA755324,Cohort Vanco; Subject 5,Week 6,adult,,,US,,,,,,2018-01-22,primary,1.0,5.495
+SAMN20850207,PRJNA755324,Cohort Vanco; Subject 5,Week 8,adult,,,US,,,,,,2018-02-05,primary,1.0,6.385
+SAMN20850301,PRJNA755324,Cohort Vanco; Subject 64,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-17,primary,1.0,5.546
+SAMN20850302,PRJNA755324,Cohort Vanco; Subject 64,Day 04,adult,,,US,,,,,,2018-01-21,primary,1.0,6.564
+SAMN20850303,PRJNA755324,Cohort Vanco; Subject 64,Day 05,adult,,,US,,,,,,2018-01-22,primary,1.0,5.742
+SAMN20850304,PRJNA755324,Cohort Vanco; Subject 64,Day 06,adult,,,US,,,,,,2018-01-23,primary,1.0,5.728
+SAMN20850305,PRJNA755324,Cohort Vanco; Subject 64,Day 08,adult,,,US,,,,,,2018-01-24,primary,1.0,4.726
+SAMN20850306,PRJNA755324,Cohort Vanco; Subject 64,Day 10,adult,,,US,,,,,,2018-01-26,primary,1.0,6.623
+SAMN20850300,PRJNA755324,Cohort Vanco; Subject 64,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-03,primary,1.0,4.566
+SAMN20850310,PRJNA755324,Cohort Vanco; Subject 64,Week 12,adult,,,US,,,,,,2018-04-10,primary,1.0,7.937
+SAMN20850311,PRJNA755324,Cohort Vanco; Subject 64,Week 24,adult,,,US,,,,,,2018-10-17,primary,1.0,5.763
+SAMN20850307,PRJNA755324,Cohort Vanco; Subject 64,Week 4,adult,,,US,,,,,,2018-02-14,primary,1.0,4.524
+SAMN20850312,PRJNA755324,Cohort Vanco; Subject 64,Week 52,adult,,,US,,,,,,2019-01-14,primary,1.0,5.226
+SAMN20850308,PRJNA755324,Cohort Vanco; Subject 64,Week 6,adult,,,US,,,,,,2018-02-28,primary,1.0,5.466
+SAMN20850309,PRJNA755324,Cohort Vanco; Subject 64,Week 8,adult,,,US,,,,,,2018-03-12,primary,1.0,5.201
+SAMN20850314,PRJNA755324,Cohort Vanco; Subject 65,Day 0,adult,,,US,,,no_intervention,baseline day 0 before first VE303 dose,,2018-01-18,primary,1.0,7.36
+SAMN20850315,PRJNA755324,Cohort Vanco; Subject 65,Day 04,adult,,,US,,,,,,2018-01-22,primary,1.0,5.489
+SAMN20850316,PRJNA755324,Cohort Vanco; Subject 65,Day 05,adult,,,US,,,,,,2018-01-22,primary,1.0,8.201
+SAMN20850317,PRJNA755324,Cohort Vanco; Subject 65,Day 06,adult,,,US,,,,,,2018-01-23,primary,1.0,4.31
+SAMN20850318,PRJNA755324,Cohort Vanco; Subject 65,Day 08,adult,,,US,,,,,,2018-01-24,primary,1.0,4.679
+SAMN20850319,PRJNA755324,Cohort Vanco; Subject 65,Day 10,adult,,,US,,,,,,2018-01-26,primary,1.0,4.826
+SAMN20850313,PRJNA755324,Cohort Vanco; Subject 65,Screening,adult,,,US,,,no_intervention,screening baseline before VE303 dosing,,2018-01-03,primary,1.0,4.562
+SAMN20850323,PRJNA755324,Cohort Vanco; Subject 65,Week 12,adult,,,US,,,,,,2018-04-09,primary,1.0,7.98
+SAMN20850324,PRJNA755324,Cohort Vanco; Subject 65,Week 24,adult,,,US,,,,,,2018-10-02,primary,1.0,6.012
+SAMN20850320,PRJNA755324,Cohort Vanco; Subject 65,Week 4,adult,,,US,,,,,,2018-02-14,primary,1.0,5.264
+SAMN20850325,PRJNA755324,Cohort Vanco; Subject 65,Week 52,adult,,,US,,,,,,2019-01-14,primary,1.0,7.974
+SAMN20850321,PRJNA755324,Cohort Vanco; Subject 65,Week 6,adult,,,US,,,,,,2018-03-02,primary,1.0,6.343
+SAMN20850322,PRJNA755324,Cohort Vanco; Subject 65,Week 8,adult,,,US,,,,,,2018-03-14,primary,1.0,7.088

@@ -1,0 +1,469 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN33276555,PRJNA934596,10,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.877
+SAMN33276556,PRJNA934596,10,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.999
+SAMN33276557,PRJNA934596,10,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.975
+SAMN33276558,PRJNA934596,11,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.141
+SAMN33276559,PRJNA934596,11,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.325
+SAMN33276560,PRJNA934596,11,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.495
+SAMN33276561,PRJNA934596,12,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.071
+SAMN33276562,PRJNA934596,12,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.038
+SAMN33276563,PRJNA934596,12,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.668
+SAMN33276564,PRJNA934596,13,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.048
+SAMN33276565,PRJNA934596,13,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.236
+SAMN33276566,PRJNA934596,13,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.165
+SAMN33276567,PRJNA934596,13,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.212
+SAMN33276568,PRJNA934596,14,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.486
+SAMN33276569,PRJNA934596,14,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.502
+SAMN33276570,PRJNA934596,14,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.528
+SAMN33276571,PRJNA934596,14,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.725
+SAMN33276572,PRJNA934596,15,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.903
+SAMN33276573,PRJNA934596,15,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.521
+SAMN33276574,PRJNA934596,15,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.493
+SAMN33276575,PRJNA934596,15,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.888
+SAMN33276576,PRJNA934596,16,,adult,8035.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.797
+SAMN33276577,PRJNA934596,16,,adult,8035.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.527
+SAMN33276578,PRJNA934596,17,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.313
+SAMN33276579,PRJNA934596,17,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.546
+SAMN33276580,PRJNA934596,17,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.797
+SAMN33276581,PRJNA934596,17,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.957
+SAMN33276582,PRJNA934596,19,,adult,7305.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.211
+SAMN33276583,PRJNA934596,21,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.006
+SAMN33276584,PRJNA934596,21,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.225
+SAMN33276585,PRJNA934596,21,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.98
+SAMN33276586,PRJNA934596,21,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.443
+SAMN33276587,PRJNA934596,22,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.874
+SAMN33276588,PRJNA934596,22,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.739
+SAMN33276589,PRJNA934596,22,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.741
+SAMN33276590,PRJNA934596,23,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.819
+SAMN33276591,PRJNA934596,23,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.991
+SAMN33276592,PRJNA934596,23,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.485
+SAMN33276593,PRJNA934596,23,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.969
+SAMN33276594,PRJNA934596,24,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.064
+SAMN33276595,PRJNA934596,24,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.077
+SAMN33276596,PRJNA934596,24,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.43
+SAMN33276597,PRJNA934596,24,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.92
+SAMN33276598,PRJNA934596,25,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.013
+SAMN33276599,PRJNA934596,25,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.078
+SAMN33276600,PRJNA934596,26,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.847
+SAMN33276601,PRJNA934596,26,,adult,8766.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.627
+SAMN33276602,PRJNA934596,27,,adult,12417.9,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.719
+SAMN33276603,PRJNA934596,27,,adult,12417.9,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.39
+SAMN33276604,PRJNA934596,27,,adult,12417.9,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.492
+SAMN33276605,PRJNA934596,27,,adult,12417.9,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.031
+SAMN33276606,PRJNA934596,29,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.556
+SAMN33276607,PRJNA934596,29,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,2.257
+SAMN33276608,PRJNA934596,29,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.921
+SAMN33276609,PRJNA934596,30,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.958
+SAMN33276610,PRJNA934596,30,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.099
+SAMN33276611,PRJNA934596,30,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.93
+SAMN33276612,PRJNA934596,30,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.197
+SAMN33276613,PRJNA934596,31,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.361
+SAMN33276614,PRJNA934596,31,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.731
+SAMN33276615,PRJNA934596,31,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.462
+SAMN33276616,PRJNA934596,31,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.218
+SAMN33276617,PRJNA934596,32,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.648
+SAMN33276618,PRJNA934596,32,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.796
+SAMN33276619,PRJNA934596,32,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.615
+SAMN33276620,PRJNA934596,32,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.567
+SAMN33276621,PRJNA934596,33,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.886
+SAMN33276622,PRJNA934596,33,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.651
+SAMN33276623,PRJNA934596,33,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.069
+SAMN33276624,PRJNA934596,34,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.491
+SAMN33276625,PRJNA934596,34,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.454
+SAMN33276626,PRJNA934596,34,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,8.571
+SAMN33276627,PRJNA934596,34,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.691
+SAMN33276628,PRJNA934596,36,,adult,12043.2,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,8.423
+SAMN33276629,PRJNA934596,36,,adult,12043.2,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.035
+SAMN33276630,PRJNA934596,36,,adult,12043.2,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,2.363
+SAMN33276631,PRJNA934596,36,,adult,12043.2,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.944
+SAMN33276632,PRJNA934596,37,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.683
+SAMN33276633,PRJNA934596,37,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.885
+SAMN33276634,PRJNA934596,38,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.781
+SAMN33276635,PRJNA934596,38,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.015
+SAMN33276636,PRJNA934596,38,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.558
+SAMN33276637,PRJNA934596,39,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.54
+SAMN33276638,PRJNA934596,40,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.456
+SAMN33276639,PRJNA934596,40,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.792
+SAMN33276640,PRJNA934596,40,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.578
+SAMN33276641,PRJNA934596,40,,adult,9857.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.199
+SAMN33276642,PRJNA934596,41,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.793
+SAMN33276643,PRJNA934596,41,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,9.348
+SAMN33276644,PRJNA934596,41,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.441
+SAMN33276645,PRJNA934596,42,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,18.482
+SAMN33276646,PRJNA934596,42,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.711
+SAMN33276647,PRJNA934596,43,,adult,12783.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.791
+SAMN33276648,PRJNA934596,43,,adult,12783.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.575
+SAMN33276649,PRJNA934596,43,,adult,12783.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.049
+SAMN33276650,PRJNA934596,43,,adult,12783.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.833
+SAMN33276651,PRJNA934596,44,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.336
+SAMN33276652,PRJNA934596,44,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.633
+SAMN33276653,PRJNA934596,44,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.54
+SAMN33276654,PRJNA934596,44,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.224
+SAMN33276655,PRJNA934596,45,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.099
+SAMN33276656,PRJNA934596,45,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.237
+SAMN33276657,PRJNA934596,45,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.386
+SAMN33276658,PRJNA934596,45,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.061
+SAMN33276659,PRJNA934596,46,,adult,7305.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.188
+SAMN33276660,PRJNA934596,46,,adult,7305.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.051
+SAMN33276661,PRJNA934596,47,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.441
+SAMN33276662,PRJNA934596,47,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.252
+SAMN33276663,PRJNA934596,47,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.505
+SAMN33276664,PRJNA934596,48,,adult,13149.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.532
+SAMN33276665,PRJNA934596,48,,adult,13149.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.493
+SAMN33276666,PRJNA934596,48,,adult,13149.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.921
+SAMN33276667,PRJNA934596,48,,adult,13149.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.636
+SAMN33276536,PRJNA934596,5,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.079
+SAMN33276537,PRJNA934596,5,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.613
+SAMN33276538,PRJNA934596,5,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.186
+SAMN33276539,PRJNA934596,5,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.63
+SAMN33276700,PRJNA934596,501,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.171
+SAMN33276701,PRJNA934596,501,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.13
+SAMN33276702,PRJNA934596,501,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.989
+SAMN33276703,PRJNA934596,502,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.946
+SAMN33276704,PRJNA934596,502,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.52
+SAMN33276705,PRJNA934596,502,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.988
+SAMN33276706,PRJNA934596,502,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.567
+SAMN33276707,PRJNA934596,505,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.197
+SAMN33276708,PRJNA934596,505,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.156
+SAMN33276709,PRJNA934596,505,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,1.433
+SAMN33276710,PRJNA934596,506,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.678
+SAMN33276711,PRJNA934596,506,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,7.574
+SAMN33276712,PRJNA934596,506,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.278
+SAMN33276713,PRJNA934596,506,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.23
+SAMN33276714,PRJNA934596,507,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.864
+SAMN33276715,PRJNA934596,507,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.356
+SAMN33276716,PRJNA934596,507,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.732
+SAMN33276717,PRJNA934596,507,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.238
+SAMN33276718,PRJNA934596,508,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,7.637
+SAMN33276719,PRJNA934596,508,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,8.249
+SAMN33276720,PRJNA934596,508,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.532
+SAMN33276721,PRJNA934596,508,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.527
+SAMN33276722,PRJNA934596,509,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,0.897
+SAMN33276723,PRJNA934596,509,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.491
+SAMN33276724,PRJNA934596,509,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.423
+SAMN33276725,PRJNA934596,509,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.633
+SAMN33276668,PRJNA934596,51,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.202
+SAMN33276669,PRJNA934596,51,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.846
+SAMN33276670,PRJNA934596,51,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.11
+SAMN33276671,PRJNA934596,51,,adult,10957.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.386
+SAMN33276726,PRJNA934596,510,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.298
+SAMN33276727,PRJNA934596,510,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.847
+SAMN33276728,PRJNA934596,510,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.576
+SAMN33276729,PRJNA934596,510,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.364
+SAMN33276730,PRJNA934596,511,,adult,12043.2,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.005
+SAMN33276731,PRJNA934596,511,,adult,12043.2,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.182
+SAMN33276732,PRJNA934596,511,,adult,12043.2,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.385
+SAMN33276733,PRJNA934596,511,,adult,12043.2,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.779
+SAMN33276734,PRJNA934596,513,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.433
+SAMN33276735,PRJNA934596,513,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.673
+SAMN33276736,PRJNA934596,513,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.273
+SAMN33276737,PRJNA934596,513,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.842
+SAMN33276738,PRJNA934596,514,,adult,8391.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.006
+SAMN33276739,PRJNA934596,514,,adult,8391.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.096
+SAMN33276740,PRJNA934596,514,,adult,8391.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.068
+SAMN33276741,PRJNA934596,514,,adult,8391.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.458
+SAMN33276742,PRJNA934596,515,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.559
+SAMN33276743,PRJNA934596,515,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.375
+SAMN33276744,PRJNA934596,515,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.243
+SAMN33276745,PRJNA934596,515,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.699
+SAMN33276746,PRJNA934596,516,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.827
+SAMN33276747,PRJNA934596,516,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.516
+SAMN33276748,PRJNA934596,516,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.928
+SAMN33276749,PRJNA934596,516,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,8.355
+SAMN33276750,PRJNA934596,517,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.621
+SAMN33276751,PRJNA934596,517,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.528
+SAMN33276752,PRJNA934596,517,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.155
+SAMN33276753,PRJNA934596,517,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.246
+SAMN33276754,PRJNA934596,518,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.928
+SAMN33276755,PRJNA934596,518,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.673
+SAMN33276756,PRJNA934596,518,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.378
+SAMN33276757,PRJNA934596,518,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.274
+SAMN33276758,PRJNA934596,519,,adult,6939.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.916
+SAMN33276759,PRJNA934596,519,,adult,6939.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.717
+SAMN33276760,PRJNA934596,519,,adult,6939.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.76
+SAMN33276761,PRJNA934596,519,,adult,6939.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.525
+SAMN33276762,PRJNA934596,520,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.2
+SAMN33276763,PRJNA934596,520,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.561
+SAMN33276764,PRJNA934596,520,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.999
+SAMN33276765,PRJNA934596,520,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.777
+SAMN33276766,PRJNA934596,521,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.258
+SAMN33276767,PRJNA934596,521,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.812
+SAMN33276768,PRJNA934596,521,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.973
+SAMN33276769,PRJNA934596,521,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.956
+SAMN33276770,PRJNA934596,522,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.285
+SAMN33276771,PRJNA934596,522,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,7.014
+SAMN33276772,PRJNA934596,522,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.088
+SAMN33276773,PRJNA934596,522,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.592
+SAMN33276774,PRJNA934596,524,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.777
+SAMN33276775,PRJNA934596,524,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.146
+SAMN33276776,PRJNA934596,524,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.34
+SAMN33276777,PRJNA934596,524,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.14
+SAMN33276778,PRJNA934596,525,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.262
+SAMN33276779,PRJNA934596,525,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.831
+SAMN33276780,PRJNA934596,525,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.924
+SAMN33276781,PRJNA934596,525,,adult,13504.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.419
+SAMN33276782,PRJNA934596,526,,adult,10234.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.273
+SAMN33276783,PRJNA934596,526,,adult,10234.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.046
+SAMN33276784,PRJNA934596,526,,adult,10234.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.785
+SAMN33276785,PRJNA934596,526,,adult,10234.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.616
+SAMN33276786,PRJNA934596,527,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.253
+SAMN33276787,PRJNA934596,527,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.813
+SAMN33276788,PRJNA934596,527,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.02
+SAMN33276789,PRJNA934596,527,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.122
+SAMN33276790,PRJNA934596,528,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.539
+SAMN33276791,PRJNA934596,528,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.244
+SAMN33276792,PRJNA934596,528,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.385
+SAMN33276793,PRJNA934596,528,,adult,9496.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.555
+SAMN33276794,PRJNA934596,529,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.18
+SAMN33276795,PRJNA934596,529,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.813
+SAMN33276796,PRJNA934596,529,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.027
+SAMN33276797,PRJNA934596,529,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.749
+SAMN33276798,PRJNA934596,535,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,9.214
+SAMN33276799,PRJNA934596,535,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.863
+SAMN33276800,PRJNA934596,535,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.12
+SAMN33276801,PRJNA934596,535,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.76
+SAMN33276802,PRJNA934596,535B,,adult,,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.204
+SAMN33276803,PRJNA934596,536,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.558
+SAMN33276804,PRJNA934596,536,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.314
+SAMN33276805,PRJNA934596,536,,adult,12783.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.846
+SAMN33276806,PRJNA934596,537,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.18
+SAMN33276807,PRJNA934596,537,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.993
+SAMN33276808,PRJNA934596,537,,adult,9131.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.818
+SAMN33276809,PRJNA934596,538,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.073
+SAMN33276810,PRJNA934596,538,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.872
+SAMN33276811,PRJNA934596,538,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.565
+SAMN33276812,PRJNA934596,538,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,4.802
+SAMN33276813,PRJNA934596,539,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.937
+SAMN33276814,PRJNA934596,539,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.232
+SAMN33276815,PRJNA934596,539,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.494
+SAMN33276816,PRJNA934596,539,,adult,10957.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.223
+SAMN33276817,PRJNA934596,541,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.24
+SAMN33276818,PRJNA934596,541,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.416
+SAMN33276819,PRJNA934596,541,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.045
+SAMN33276820,PRJNA934596,541B,,adult,13149.0,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,7.142
+SAMN33276821,PRJNA934596,542,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.838
+SAMN33276822,PRJNA934596,542,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.332
+SAMN33276823,PRJNA934596,542,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.731
+SAMN33276824,PRJNA934596,542,,adult,8035.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.374
+SAMN33276825,PRJNA934596,543,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.911
+SAMN33276826,PRJNA934596,543,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.254
+SAMN33276827,PRJNA934596,543,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.355
+SAMN33276828,PRJNA934596,543,,adult,13878.5,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.18
+SAMN33276829,PRJNA934596,544,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,6.264
+SAMN33276830,PRJNA934596,544,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,3.925
+SAMN33276831,PRJNA934596,544,,adult,11312.8,female,TR,pregnancy_postpartum,pre-eclampsia,,,,2018,primary,1.0,5.828
+SAMN33276540,PRJNA934596,6,,adult,8035.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.256
+SAMN33276541,PRJNA934596,6,,adult,8035.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.031
+SAMN33276542,PRJNA934596,6,,adult,8035.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.879
+SAMN33276543,PRJNA934596,6,,adult,8035.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.338
+SAMN33276672,PRJNA934596,63,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.921
+SAMN33276673,PRJNA934596,63,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.138
+SAMN33276674,PRJNA934596,63,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.953
+SAMN33276675,PRJNA934596,65,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.644
+SAMN33276676,PRJNA934596,65,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.162
+SAMN33276677,PRJNA934596,65,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.562
+SAMN33276678,PRJNA934596,65,,adult,8391.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.428
+SAMN33276679,PRJNA934596,67,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.317
+SAMN33276680,PRJNA934596,67,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.094
+SAMN33276681,PRJNA934596,67,,adult,6939.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.345
+SAMN33276682,PRJNA934596,68,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.953
+SAMN33276683,PRJNA934596,68,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.278
+SAMN33276684,PRJNA934596,68,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.152
+SAMN33276544,PRJNA934596,7,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.249
+SAMN33276545,PRJNA934596,7,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.03
+SAMN33276546,PRJNA934596,7,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.734
+SAMN33276685,PRJNA934596,70,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.89
+SAMN33276686,PRJNA934596,70,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.87
+SAMN33276687,PRJNA934596,70,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.166
+SAMN33276688,PRJNA934596,70,,adult,11312.8,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.906
+SAMN33276832,PRJNA934596,700,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.796
+SAMN33276833,PRJNA934596,700,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.842
+SAMN33276834,PRJNA934596,700,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.669
+SAMN33276835,PRJNA934596,700,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.076
+SAMN33276836,PRJNA934596,701,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.699
+SAMN33276837,PRJNA934596,701,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.896
+SAMN33276838,PRJNA934596,701,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.699
+SAMN33276839,PRJNA934596,701,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.662
+SAMN33276840,PRJNA934596,702,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.679
+SAMN33276841,PRJNA934596,702,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.054
+SAMN33276842,PRJNA934596,702,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.197
+SAMN33276843,PRJNA934596,702,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.819
+SAMN33276844,PRJNA934596,703,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.252
+SAMN33276845,PRJNA934596,703,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.158
+SAMN33276846,PRJNA934596,703,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.36
+SAMN33276847,PRJNA934596,703,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.23
+SAMN33276848,PRJNA934596,704,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.476
+SAMN33276849,PRJNA934596,704,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.142
+SAMN33276850,PRJNA934596,704,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.731
+SAMN33276851,PRJNA934596,704,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.373
+SAMN33276852,PRJNA934596,705,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.092
+SAMN33276853,PRJNA934596,705,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.618
+SAMN33276854,PRJNA934596,705,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.301
+SAMN33276855,PRJNA934596,705,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.57
+SAMN33276856,PRJNA934596,706,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.311
+SAMN33276857,PRJNA934596,706,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.732
+SAMN33276858,PRJNA934596,706,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.806
+SAMN33276859,PRJNA934596,706,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.902
+SAMN33276860,PRJNA934596,707,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.259
+SAMN33276861,PRJNA934596,707,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.288
+SAMN33276862,PRJNA934596,707,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.364
+SAMN33276863,PRJNA934596,707,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.799
+SAMN33276864,PRJNA934596,708,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.159
+SAMN33276865,PRJNA934596,708,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.562
+SAMN33276866,PRJNA934596,708,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.917
+SAMN33276867,PRJNA934596,708,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.099
+SAMN33276868,PRJNA934596,709,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.164
+SAMN33276869,PRJNA934596,709,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.251
+SAMN33276870,PRJNA934596,709,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.963
+SAMN33276871,PRJNA934596,709,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.585
+SAMN33276689,PRJNA934596,71,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.026
+SAMN33276690,PRJNA934596,71,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.597
+SAMN33276691,PRJNA934596,71,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.407
+SAMN33276692,PRJNA934596,71,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.503
+SAMN33276872,PRJNA934596,710,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,0.019
+SAMN33276873,PRJNA934596,710,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.872
+SAMN33276874,PRJNA934596,710,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.71
+SAMN33276875,PRJNA934596,710,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.432
+SAMN33276876,PRJNA934596,711,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.362
+SAMN33276877,PRJNA934596,711,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.074
+SAMN33276878,PRJNA934596,711,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.526
+SAMN33276879,PRJNA934596,711,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.183
+SAMN33276880,PRJNA934596,712,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.699
+SAMN33276881,PRJNA934596,712,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.764
+SAMN33276882,PRJNA934596,712,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.782
+SAMN33276883,PRJNA934596,712,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.887
+SAMN33276884,PRJNA934596,713,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.204
+SAMN33276885,PRJNA934596,713,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.088
+SAMN33276886,PRJNA934596,713,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,11.304
+SAMN33276887,PRJNA934596,713,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.206
+SAMN33276888,PRJNA934596,714,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.481
+SAMN33276889,PRJNA934596,714,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.946
+SAMN33276890,PRJNA934596,714,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.285
+SAMN33276891,PRJNA934596,714,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.18
+SAMN33276892,PRJNA934596,715,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,0.648
+SAMN33276893,PRJNA934596,715,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.186
+SAMN33276894,PRJNA934596,715,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.548
+SAMN33276895,PRJNA934596,715,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.248
+SAMN33276896,PRJNA934596,716,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.718
+SAMN33276897,PRJNA934596,716,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.355
+SAMN33276898,PRJNA934596,716,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.317
+SAMN33276899,PRJNA934596,716,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.194
+SAMN33276900,PRJNA934596,717,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.109
+SAMN33276901,PRJNA934596,717,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.367
+SAMN33276902,PRJNA934596,717,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.452
+SAMN33276903,PRJNA934596,717,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.158
+SAMN33276904,PRJNA934596,718,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,9.748
+SAMN33276905,PRJNA934596,718,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,2.998
+SAMN33276906,PRJNA934596,718,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.192
+SAMN33276907,PRJNA934596,718,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.016
+SAMN33276908,PRJNA934596,719,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,8.421
+SAMN33276909,PRJNA934596,719,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.814
+SAMN33276910,PRJNA934596,719,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.836
+SAMN33276911,PRJNA934596,719,,adult,14239.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.347
+SAMN33276912,PRJNA934596,720,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.498
+SAMN33276913,PRJNA934596,720,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.638
+SAMN33276914,PRJNA934596,720,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.129
+SAMN33276915,PRJNA934596,720,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.643
+SAMN33276916,PRJNA934596,721,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.313
+SAMN33276917,PRJNA934596,721,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.959
+SAMN33276918,PRJNA934596,721,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.497
+SAMN33276919,PRJNA934596,721,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.271
+SAMN33276920,PRJNA934596,722,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.722
+SAMN33276921,PRJNA934596,722,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.878
+SAMN33276922,PRJNA934596,722,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.948
+SAMN33276923,PRJNA934596,722,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.649
+SAMN33276924,PRJNA934596,723,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,0.042
+SAMN33276925,PRJNA934596,723,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.622
+SAMN33276926,PRJNA934596,723,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,15.557
+SAMN33276927,PRJNA934596,723,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.003
+SAMN33276928,PRJNA934596,725,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.601
+SAMN33276929,PRJNA934596,725,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.354
+SAMN33276930,PRJNA934596,725,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.749
+SAMN33276931,PRJNA934596,726,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.444
+SAMN33276932,PRJNA934596,726,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.477
+SAMN33276933,PRJNA934596,726,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.948
+SAMN33276934,PRJNA934596,726,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.155
+SAMN33276935,PRJNA934596,729,,adult,8391.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.927
+SAMN33276936,PRJNA934596,734,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.924
+SAMN33276937,PRJNA934596,734,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.551
+SAMN33276938,PRJNA934596,734,,adult,12783.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,0.875
+SAMN33276939,PRJNA934596,735,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.523
+SAMN33276940,PRJNA934596,735,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.848
+SAMN33276941,PRJNA934596,735,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.319
+SAMN33276942,PRJNA934596,735,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.167
+SAMN33276943,PRJNA934596,736,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.229
+SAMN33276944,PRJNA934596,736,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.74
+SAMN33276945,PRJNA934596,736,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.247
+SAMN33276946,PRJNA934596,736,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.405
+SAMN33276947,PRJNA934596,738,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.782
+SAMN33276948,PRJNA934596,738,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.914
+SAMN33276949,PRJNA934596,738,,adult,9131.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.828
+SAMN33276950,PRJNA934596,739,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,2.698
+SAMN33276951,PRJNA934596,739,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.981
+SAMN33276952,PRJNA934596,739,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.134
+SAMN33276953,PRJNA934596,741,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.036
+SAMN33276954,PRJNA934596,741,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.951
+SAMN33276955,PRJNA934596,741,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.151
+SAMN33276956,PRJNA934596,741,,adult,13149.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.192
+SAMN33276957,PRJNA934596,742,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.334
+SAMN33276958,PRJNA934596,742,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.867
+SAMN33276959,PRJNA934596,742,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.186
+SAMN33276960,PRJNA934596,742,,adult,8035.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.746
+SAMN33276961,PRJNA934596,743,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.759
+SAMN33276962,PRJNA934596,743,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.386
+SAMN33276963,PRJNA934596,743,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,9.386
+SAMN33276964,PRJNA934596,743,,adult,11312.8,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.974
+SAMN33276965,PRJNA934596,744,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,8.252
+SAMN33276966,PRJNA934596,744,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.49
+SAMN33276967,PRJNA934596,744,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.301
+SAMN33276968,PRJNA934596,744,,adult,10957.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.289
+SAMN33276969,PRJNA934596,745,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.056
+SAMN33276970,PRJNA934596,745,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.494
+SAMN33276971,PRJNA934596,745,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.702
+SAMN33276972,PRJNA934596,745,,adult,13504.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.373
+SAMN33276973,PRJNA934596,746,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.093
+SAMN33276974,PRJNA934596,746,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.205
+SAMN33276975,PRJNA934596,746,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.452
+SAMN33276976,PRJNA934596,746,,adult,9496.5,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.981
+SAMN33276977,PRJNA934596,747,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,10.367
+SAMN33276978,PRJNA934596,747,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.72
+SAMN33276979,PRJNA934596,747,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.168
+SAMN33276980,PRJNA934596,747,,adult,8766.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.142
+SAMN33276981,PRJNA934596,748,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.127
+SAMN33276982,PRJNA934596,748,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.974
+SAMN33276983,PRJNA934596,748,,adult,7305.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.311
+SAMN33276984,PRJNA934596,749,,adult,9857.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,0.048
+SAMN33276985,PRJNA934596,749,,adult,9857.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.927
+SAMN33276986,PRJNA934596,749,,adult,9857.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,19.695
+SAMN33276987,PRJNA934596,749,,adult,9857.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.599
+SAMN33276988,PRJNA934596,750,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.486
+SAMN33276989,PRJNA934596,750,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.171
+SAMN33276990,PRJNA934596,750,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.29
+SAMN33276991,PRJNA934596,750,,adult,10234.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.269
+SAMN33276992,PRJNA934596,751,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.56
+SAMN33276993,PRJNA934596,751,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.989
+SAMN33276994,PRJNA934596,751,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,6.734
+SAMN33276995,PRJNA934596,751,,adult,12043.2,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.807
+SAMN33276996,PRJNA934596,752,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,3.039
+SAMN33276997,PRJNA934596,752,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,7.403
+SAMN33276998,PRJNA934596,752,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.0
+SAMN33276999,PRJNA934596,752,,adult,,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.861
+SAMN33277000,PRJNA934596,753,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,0.035
+SAMN33277001,PRJNA934596,753,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,5.583
+SAMN33277002,PRJNA934596,753,,adult,6939.0,female,TR,pregnancy_postpartum,full-term delivery,,,,2018,primary,1.0,4.719
+SAMN33276547,PRJNA934596,8,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.688
+SAMN33276548,PRJNA934596,8,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.66
+SAMN33276549,PRJNA934596,8,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.212
+SAMN33276550,PRJNA934596,8,,adult,13878.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.667
+SAMN33276693,PRJNA934596,80,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.057
+SAMN33276694,PRJNA934596,80,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,7.131
+SAMN33276695,PRJNA934596,80,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.902
+SAMN33276696,PRJNA934596,80,,adult,,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,4.686
+SAMN33276697,PRJNA934596,82,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,6.181
+SAMN33276698,PRJNA934596,82,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.569
+SAMN33276699,PRJNA934596,82,,adult,9131.0,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.077
+SAMN33276551,PRJNA934596,9,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.176
+SAMN33276552,PRJNA934596,9,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.468
+SAMN33276553,PRJNA934596,9,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,3.663
+SAMN33276554,PRJNA934596,9,,adult,9496.5,female,TR,pregnancy_postpartum,pre-term delivery,,,,2018,primary,1.0,5.738
+SAMN33277003,PRJNA934596,cont,,adult,,,,,,,,,2018,unknown,1.0,0.007

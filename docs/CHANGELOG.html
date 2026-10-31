@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Changelog — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: a curated, evidence-linked catalog of human-associated shotgun metagenomes and metatranscriptomes — every body site, all ages — with per-sample metadata, and a registry of every screened public study.">
+<meta name="catalog-release" content="data-v1.26.0">
+<meta name="catalog-release-id" content="R2026.31">
+<link rel="canonical" href="https://microbiomerepo.com/docs/CHANGELOG.html">
+<meta name="catalog-package-version" content="1.26.0">
+<meta name="catalog-build-date" content="2026-10-30">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Changelog</div>
+
+<h1>Changelog</h1>
+<p class="small">Rendered from <a href="CHANGELOG.md">CHANGELOG.md</a>.</p>
+<div class="md"><h2 id="changelog">Changelog</h2>
+<p>Earlier versions are archived with their own releases (GitHub / Zenodo).</p>
+<h3 id="1260-r202631">1.26.0 (R2026.31)</h3>
+<ul>
+<li>One catalog of human-associated microbial communities sequenced by shotgun DNA or RNA sequencing, from every body site and at every age. All projects are in <code>catalog_studies.parquet</code>, all samples in <code>catalog_sample_metadata_wide.parquet</code> and <code>catalog_sample_determinations.parquet</code>, all runs in <code>catalog_runs.parquet</code>.</li>
+<li>DNA and RNA data sets are kept apart: <code>catalog_runs.nucleic_acid</code>, <code>catalog_sample_metadata_wide.has_dna</code> / <code>has_rna</code>, <code>catalog_studies.nucleic_acid</code> (+ <code>n_runs_dna</code>, <code>n_runs_rna</code>, <code>n_samples_dna</code>, <code>n_samples_rna</code>).</li>
+<li>Every sample carries its own <code>body_site_code</code>; projects carry <code>sample_body_sites</code> and <code>body_site_primary</code>.</li>
+<li>Methods and setting read from each project's generating paper (<code>platform</code>, <code>extraction_kit</code>, <code>library_kit</code>, <code>study_shape</code>, <code>n_participants</code>, <code>recruitment</code>, <code>settlement</code>, <code>n_places</code>, <code>lifestyle_paper</code>, <code>metadata_access_paper</code>, <code>n_exposure_items</code>) and the exposure items behind them (<code>catalog_exposure_items.parquet</code>); papers judged to have generated or reused a project's data in <code>catalog_study_papers.parquet</code>.</li>
+<li>Amplicon and single-cell data sets are excluded run by run; a sample without any in-scope data set is not in the catalog.</li>
+<li>Table names: every table of the catalog tier is named <code>catalog_*</code>; earlier packages stay archived with their own releases (GitHub / Zenodo).</li>
+</ul>
+<h2 id="changelog_1">Changelog</h2>
+<p>Earlier versions are archived with their own releases (GitHub / Zenodo).</p></div>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.31"><span class="mono">R2026.31</span></a> · package <span class="mono">1.26.0</span> · build <span class="mono">ee098e5</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.31.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.26.0',release:'data-v1.26.0',releaseId:'R2026.31',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

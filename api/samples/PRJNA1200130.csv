@@ -1,0 +1,62 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN46045262,PRJNA1200130,NPP01,,infant,548.0,male,US,sepsis_or_infection,Respiratory failure,,,,2018-02-01,primary,1.0,0.767
+SAMN46045263,PRJNA1200130,NPP02,,child,1606.0,male,US,sepsis_or_infection,Sepsis,,,,2018-02-03,primary,1.0,2.233
+SAMN46045264,PRJNA1200130,NPP02,,child,1606.0,male,US,sepsis_or_infection,Sepsis,,,,2018-02-08,primary,1.0,1.31
+SAMN46045265,PRJNA1200130,NPP02,,child,1606.0,male,US,sepsis_or_infection,Sepsis,,,,2018-02-13,primary,1.0,0.367
+SAMN46045266,PRJNA1200130,NPP03,,child,,female,US,sepsis_or_infection,Sepsis,,,,2018-02-20,primary,1.0,1.651
+SAMN46045267,PRJNA1200130,NPP03,,child,,female,US,sepsis_or_infection,Sepsis,,,,2018-02-25,primary,1.0,0.587
+SAMN46045268,PRJNA1200130,NPP03,,child,,female,US,sepsis_or_infection,Sepsis,,,,2018-03-04,primary,1.0,0.15
+SAMN46045269,PRJNA1200130,NPP03,,child,,female,US,sepsis_or_infection,Sepsis,,,,2018-03-18,primary,1.0,0.377
+SAMN46045270,PRJNA1200130,NPP07,,child,1129.0,male,US,sepsis_or_infection,Sepsis,,,,2018-03-19,primary,1.0,0.554
+SAMN46045271,PRJNA1200130,NPP09,,,,male,US,sepsis_or_infection,Sepsis,,,,2018-04-30,primary,1.0,0.566
+SAMN46045272,PRJNA1200130,NPP09,,,,male,US,sepsis_or_infection,Sepsis,,,,2018-05-01,primary,1.0,0.731
+SAMN46045273,PRJNA1200130,NPP09,,,,male,US,sepsis_or_infection,Sepsis,,,,2018-05-08,primary,1.0,0.071
+SAMN46045274,PRJNA1200130,NPP09,,,,male,US,sepsis_or_infection,Sepsis,,,,2018-05-22,primary,1.0,0.624
+SAMN46045275,PRJNA1200130,NPP10,,child,1644.0,female,US,sepsis_or_infection,Respiratory failure,,,,2018-05-10,primary,1.0,0.296
+SAMN46045276,PRJNA1200130,NPP10,,child,1644.0,female,US,sepsis_or_infection,Respiratory failure,,,,2018-05-17,primary,1.0,0.583
+SAMN46045277,PRJNA1200130,NPP12,,child,1861.0,male,US,neurological_psychiatric,Status epilepticus,,,,2018-06-19,primary,1.0,0.325
+SAMN46045278,PRJNA1200130,NPP14,,infant,474.0,female,US,allergy_or_atopy,Status asthmaticus,,,,2018-06-24,primary,1.0,0.498
+SAMN46045279,PRJNA1200130,NPP15,,infant,474.0,male,US,cardiometabolic_other,Congenital heart disease,,,,2017-06-24,primary,1.0,1.207
+SAMN46045280,PRJNA1200130,NPP15,,infant,474.0,male,US,cardiometabolic_other,Congenital heart disease,,,,2017-06-29,primary,1.0,0.641
+SAMN46045281,PRJNA1200130,NPP15,,infant,474.0,male,US,cardiometabolic_other,Congenital heart disease,,,,2017-07-01,primary,1.0,0.751
+SAMN46045282,PRJNA1200130,NPP15,,infant,474.0,male,US,cardiometabolic_other,Congenital heart disease,,,,2017-07-09,primary,1.0,0.861
+SAMN46045283,PRJNA1200130,NPP18,,infant,949.0,male,US,sepsis_or_infection,Respiratory failure,,,,2018-09-30,primary,1.0,0.562
+SAMN46045284,PRJNA1200130,NPP18,,infant,949.0,male,US,sepsis_or_infection,Respiratory failure,,,,2018-10-01,primary,1.0,0.836
+SAMN46045286,PRJNA1200130,NPP18,,infant,949.0,male,US,sepsis_or_infection,Respiratory failure,,,,2018-10-13,primary,1.0,0.768
+SAMN46045287,PRJNA1200130,NPP18,,infant,949.0,male,US,sepsis_or_infection,Respiratory failure,,,,2018-10-27,primary,1.0,0.927
+SAMN46045288,PRJNA1200130,NPP19,,infant,985.0,female,US,other_disease,Trauma,,,,2018-09-24,primary,1.0,0.508
+SAMN46045289,PRJNA1200130,NPP20,,child,1129.0,male,US,sepsis_or_infection,Respiratory failure,,,,2018-09-30,primary,1.0,1.818
+SAMN46045290,PRJNA1200130,NPP22,,child,1168.0,female,US,other_disease,Congenital diaphragmatic hernia,,,,2018-10-23,primary,1.0,0.543
+SAMN46045291,PRJNA1200130,NPP22,,child,1168.0,female,US,other_disease,Congenital diaphragmatic hernia,,,,2018-10-24,primary,1.0,0.746
+SAMN46045292,PRJNA1200130,NPP22,,child,1168.0,female,US,other_disease,Congenital diaphragmatic hernia,,,,2018-10-27,primary,1.0,1.835
+SAMN46045293,PRJNA1200130,NPP23,,child,2372.2,male,US,other_disease,Cardiac arrest,,,,2018-09-27,primary,1.0,5.761
+SAMN46045294,PRJNA1200130,NPP23,,child,2372.2,male,US,other_disease,Cardiac arrest,,,,2018-10-02,primary,1.0,0.868
+SAMN46045295,PRJNA1200130,NPP23,,infant,730.0,male,US,other_disease,Cardiac arrest,,,,2018-10-09,primary,1.0,0.601
+SAMN46045296,PRJNA1200130,NPP24,,adult,,female,US,sepsis_or_infection,Respiratory failure,,,,2019-01-01,primary,1.0,2.126
+SAMN46045297,PRJNA1200130,NPP25,,adult,,male,US,sepsis_or_infection,Respiratory failure,,,,2019-01-15,primary,1.0,0.693
+SAMN46045298,PRJNA1200130,NPP25,,child,4051.0,male,US,sepsis_or_infection,Respiratory failure,,,,2019-01-16,primary,1.0,0.446
+SAMN46045299,PRJNA1200130,NPP26,,child,4051.0,female,US,sepsis_or_infection,Sepsis,,,,2019-02-06,primary,1.0,0.513
+SAMN46045300,PRJNA1200130,NPP26,,child,4051.0,female,US,sepsis_or_infection,Sepsis,,,,2019-02-11,primary,1.0,0.59
+SAMN46045301,PRJNA1200130,NPP26,,child,4051.0,female,US,sepsis_or_infection,Sepsis,,,,2019-02-18,primary,1.0,0.413
+SAMN46045302,PRJNA1200130,NPP26,,,,female,US,sepsis_or_infection,Sepsis,,,,2019-03-04,primary,1.0,0.94
+SAMN46045303,PRJNA1200130,NPP27,,,,female,US,sepsis_or_infection,Respiratory failure,,,,2019-02-23,primary,1.0,0.65
+SAMN46045304,PRJNA1200130,NPP27,,,,female,US,sepsis_or_infection,Respiratory failure,,,,2019-02-24,primary,1.0,0.715
+SAMN46045305,PRJNA1200130,NPP27,,,,female,US,sepsis_or_infection,Respiratory failure,,,,2019-03-01,primary,1.0,0.818
+SAMN46045306,PRJNA1200130,NPP27,,,,female,US,sepsis_or_infection,Respiratory failure,,,,2019-03-08,primary,1.0,1.587
+SAMN46045307,PRJNA1200130,NPP27,,child,3176.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-03-22,primary,1.0,1.345
+SAMN46045308,PRJNA1200130,NPP28,,child,2227.0,male,US,sepsis_or_infection,Respiratory failure,,,,2019-03-11,primary,1.0,0.994
+SAMN46045309,PRJNA1200130,NPP29,,child,2227.0,male,US,other_cancer,Acute lymphoblastic leukemia,,,,2019-02-22,primary,1.0,0.843
+SAMN46045310,PRJNA1200130,NPP29,,child,2227.0,male,US,other_cancer,Acute lymphoblastic leukemia,,,,2019-03-01,primary,1.0,0.824
+SAMN46045311,PRJNA1200130,NPP29,,child,2738.8,male,US,other_cancer,Acute lymphoblastic leukemia,,,,2019-03-15,primary,1.0,0.644
+SAMN46045312,PRJNA1200130,NPP32,,,,female,US,other_disease,Trauma,,,,2019-04-18,primary,1.0,2.607
+SAMN46045313,PRJNA1200130,NPP33,,infant,69.0,male,US,other_disease,Trauma,,,,2019-04-16,primary,1.0,1.435
+SAMN46045314,PRJNA1200130,NPP35,,infant,69.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-04-23,primary,1.0,0.209
+SAMN46045315,PRJNA1200130,NPP36,,infant,657.0,female,US,sepsis_or_infection,Sepsis,,,,2019-05-30,primary,1.0,0.407
+SAMN46045316,PRJNA1200130,NPP37,,infant,657.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-06-22,primary,1.0,1.209
+SAMN46045317,PRJNA1200130,NPP37,,infant,657.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-06-23,primary,1.0,0.924
+SAMN46045318,PRJNA1200130,NPP37,,infant,657.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-06-28,primary,1.0,0.632
+SAMN46045319,PRJNA1200130,NPP37,,infant,657.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-07-05,primary,1.0,0.415
+SAMN46045320,PRJNA1200130,NPP37,,infant,657.0,female,US,sepsis_or_infection,Respiratory failure,,,,2019-07-14,primary,1.0,0.69
+SAMN46045321,PRJNA1200130,NPP37,,infant,584.4,female,US,sepsis_or_infection,Respiratory failure,,,,2019-07-28,primary,1.0,0.527
+SAMN46045322,PRJNA1200130,NPP38,,infant,584.4,female,US,sepsis_or_infection,Respiratory failure,,,,2019-07-05,primary,1.0,1.159
+SAMN46045323,PRJNA1200130,NPP38,,,,female,US,sepsis_or_infection,Respiratory failure,,,,2019-07-10,primary,1.0,1.045

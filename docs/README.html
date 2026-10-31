@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>README — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: a curated, evidence-linked catalog of human-associated shotgun metagenomes and metatranscriptomes — every body site, all ages — with per-sample metadata, and a registry of every screened public study.">
+<meta name="catalog-release" content="data-v1.26.0">
+<meta name="catalog-release-id" content="R2026.31">
+<link rel="canonical" href="https://microbiomerepo.com/docs/README.html">
+<meta name="catalog-package-version" content="1.26.0">
+<meta name="catalog-build-date" content="2026-10-30">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › README</div>
+
+<h1>README</h1>
+<p class="small">Rendered from <a href="README.md">README.md</a>.</p>
+<div class="md"><h2 id="microbiome-repo-data-package-v1260-2026-10-30">Microbiome Repo — data package v1.26.0 (2026-10-30)</h2>
+<p><strong>One catalog, two tiers, all ages.</strong> The <strong>catalog</strong> tables (<code>catalog_*</code>) are the curated tier: human-associated microbial communities sequenced by shotgun DNA or RNA sequencing, from every body site and at every age — <strong>5,048 projects, 810,133 samples, 4,528,857 sample × field values</strong> — with body site, age at collection, sex, BMI, country, health condition (controlled vocabulary), antibiotic exposure, subject and timepoint recovered from archive attributes (R1), supplementary tables (R2), paper full text (R3) and abstracts (R4); every value carries a verbatim evidence quote (≤ 12 words), a labelled source, a route and a confidence. Each run is labelled DNA or RNA (<code>catalog_runs.nucleic_acid</code>), each sample says which data sets it has (<code>has_dna</code>, <code>has_rna</code>), and each project carries the nucleic acid of its data sets (<code>catalog_studies.nucleic_acid</code>). Coverage over all catalog samples: age 24%, sex 28%, country 87%, health condition 38%, antibiotic exposure 14%. The <strong>registry</strong> tables (<code>registry_*</code>) list every screened public study in ENA/SRA/DDBJ with a human-associated metagenome signal — 64,369 studies — with archive-only classification (host, UBERON-anchored body sites, life stages, assay, access) and the harvested BioSample tier (637,397 BioSamples with normalised site / age / sex / country).</p>
+<p><strong>Start here.</strong> <code>catalog_studies.parquet</code> (one row per project: body sites, DNA / RNA, papers, methods and setting read from the paper, per-field coverage, age-category and health-condition mix, curated depth) → <code>catalog_sample_metadata_wide.parquet</code> (one row per sample: every field with <code>__route</code> / <code>__confidence</code>, <code>body_site_code</code>, <code>age_category</code> + basis, <code>has_dna</code> / <code>has_rna</code>) → <code>catalog_sample_determinations.parquet</code> (the evidence behind every value) and <code>catalog_runs.parquet</code> (every run). <code>registry_studies.parquet</code> is the registry; <code>registry_runs_v1.26.0.parquet</code> (every screened run) ships as a GitHub Release asset.</p>
+<p><strong>Infant extension.</strong> The 370 infant gut projects carry a deeper infant-field curation (delivery mode, feeding mode, preterm status, gestational age, birth weight, maternal antibiotics, probiotics, HMO supplementation, NEC). Those rows are present in the <code>catalog_*</code> tables (<code>curated_source = infant_catalog</code>; <code>infant_scope = true</code> selects them: 66,355 samples) and the deep tables (<code>sample_metadata_wide</code>, <code>sample_determinations</code>, <code>study_metadata_wide</code>, <code>cohorts</code>, <code>universe_studies_all</code>, <code>sandpiper_*</code>, …) are in the package as well.</p>
+<h3 id="files">Files</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th style="text-align: right;">Rows</th>
+<th>What it is</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>catalog_studies.parquet</code></td>
+<td style="text-align: right;">5,348</td>
+<td>Catalog projects: body sites (sample_body_sites, body_site_primary), nucleic acid of the data sets (nucleic_acid, n_runs_dna / n_runs_rna, n_samples_dna / n_samples_rna), methods and setting read from the paper (platform, extraction_kit, library_kit, study_shape, n_participants, recruitment, settlement), registry columns + per-field coverage (cov_<field> for every pack field), age-category / health-condition distributions, sequencing summary (n_runs_total, Gbp per run, instrument models, layouts, Sandpiper share; 1.12.0), curated depth and source</td>
+</tr>
+<tr>
+<td><code>catalog_sample_metadata_wide.parquet</code></td>
+<td style="text-align: right;">864,842</td>
+<td>Catalog samples, one row per sample: body_site_code / body_site_class / body_site_basis, has_dna / has_rna, age category, age, sex, BMI, country, health condition, antibiotic exposure, subject, timepoint, collection date, detailed location (region / locality / site), latitude / longitude, lifestyle (+ route / confidence per field), infant-only fields, body-site class, <code>infant_scope</code> (== the infant catalog's catalog_scope filter)</td>
+</tr>
+<tr>
+<td><code>catalog_sample_determinations.parquet</code></td>
+<td style="text-align: right;">4,947,738</td>
+<td><strong>Catalog determinations</strong>: one row per sample × field for every catalog sample (every body site, all ages) — value, normalised value, route (R1 archive attribute / R2 supplementary table / R3 paper prose / R4 abstract), confidence, verbatim evidence quote and source; infant-catalog rows copied verbatim (src_track infant_catalog)</td>
+</tr>
+<tr>
+<td><code>catalog_runs.parquet</code></td>
+<td style="text-align: right;">992,413</td>
+<td><strong>Catalog runs</strong>: one row per sequencing run of a catalog sample — nucleic_acid (dna / rna) and rrna_read_share where measured, accessions, library strategy / source / layout, instrument, read and base counts, first_public, sandpiper_profiled and the catalog sample_key (run-unit samples keyed by run accession)</td>
+</tr>
+<tr>
+<td><code>catalog_study_papers.parquet</code></td>
+<td style="text-align: right;">5,634</td>
+<td>project × paper judged by the link audit to have generated (own_data) or reused (reuse) the project's data</td>
+</tr>
+<tr>
+<td><code>catalog_exposure_items.parquet</code></td>
+<td style="text-align: right;">656</td>
+<td>exposure item read from a project's paper</td>
+</tr>
+<tr>
+<td><code>catalog_sample_determinations_conflicts.parquet</code></td>
+<td style="text-align: right;">168,422</td>
+<td>Competing values not committed: one row per sample × field × alternative value where sources disagree, with its evidence (the committed value is in <code>catalog_sample_determinations</code>)</td>
+</tr>
+<tr>
+<td><code>catalog_sandpiper_sample_summary.parquet</code></td>
+<td style="text-align: right;">423,170</td>
+<td><strong>Sandpiper community profiles for the whole catalog</strong>: one row per catalog sample with a SingleM/Sandpiper 2.0.0 profile (GTDB R232) — profiled runs, depth proxy, genus richness, Shannon, top genus, QC flags; the genus- and species-level long tables (catalog_sandpiper_sample_genus / _species) ship as release assets in parts</td>
+</tr>
+<tr>
+<td><code>catalog_sandpiper_pca_scores.parquet</code></td>
+<td style="text-align: right;">335,956</td>
+<td>Genus-level CLR-PCA scores (pc1-pc5) of every profiled sample with root coverage &gt;= 2 — the data behind Atlas › PCA</td>
+</tr>
+<tr>
+<td><code>catalog_sandpiper_pca_loadings.parquet</code></td>
+<td style="text-align: right;">383</td>
+<td>Genus loadings of the same PCA</td>
+</tr>
+<tr>
+<td><code>catalog_sandpiper_pca_variance.csv</code></td>
+<td style="text-align: right;">5</td>
+<td>Explained variance ratio per component</td>
+</tr>
+<tr>
+<td><code>catalog_sandpiper_study_coverage.csv</code></td>
+<td style="text-align: right;">5,222</td>
+<td>Sandpiper join coverage per catalog study</td>
+</tr>
+<tr>
+<td><code>catalog_relatedness.parquet</code></td>
+<td style="text-align: right;">6,540</td>
+<td><strong>Relatedness groups</strong>: one row per family or shared setting (household, village / community, tribe, daycare / school, care home, ward, unit) with at least two catalogued people — study, group kind / type / id, people (person keys), samples, role counts and the family motif (e.g. mother + father + child)</td>
+</tr>
+<tr>
+<td><code>catalog_relations.parquet</code></td>
+<td style="text-align: right;">1,122</td>
+<td><strong>Explicit relations</strong>: pairwise links stated by authors that are not expressible as a family id — FMT donor_of, twin_of / twin_mz_of / twin_dz_of, partner_of, roommate_of, mother_of, sibling_of — with evidence source, quote and confidence</td>
+</tr>
+<tr>
+<td><code>catalog_pass_coverage.csv</code></td>
+<td style="text-align: right;">5,048</td>
+<td><strong>Annotation pass coverage</strong>: one row per catalog project — whether each applicable pass ran (full text, abstract, interventions, deep per-sample, supplementary tables, subject_id, study design); the release fails when a pass never ran without a recorded exception</td>
+</tr>
+<tr>
+<td><code>catalog_metadata_contradictions.parquet</code></td>
+<td style="text-align: right;">9,156</td>
+<td><strong>Self-contradictory metadata</strong>: one row per withheld sample × field — two sample-level sources with incompatible values (sex, country, antibiotics yes/no, age &gt; max(30 d, 20 %), BMI &gt; 2, healthy_control vs a disease) or one subject id whose samples disagree on sex; value_a / source_a / quote_a and value_b / source_b / quote_b, handling (the value is not published) and a note. Project pages show a red ! badge</td>
+</tr>
+<tr>
+<td><code>catalog_sandpiper_study_panels.parquet</code></td>
+<td style="text-align: right;">37,929</td>
+<td>Composition panel per project: mean relative abundance of the top genera / phyla over the profiled samples of the project's most-profiled body site (<code>panel_body_site</code>)</td>
+</tr>
+<tr>
+<td><code>CATALOG_SANDPIPER_REPORT.md</code></td>
+<td style="text-align: right;"></td>
+<td>How the catalog samples were joined to Sandpiper profiles: streaming pass, join coverage, QC flags, tables, PCA</td>
+</tr>
+<tr>
+<td><code>sample_metadata_wide.parquet</code> / <code>.csv.gz</code></td>
+<td style="text-align: right;">154,206</td>
+<td>Infant extension: One row per sample: identifiers, body-site class, every metadata field with <code>&lt;field&gt;__confidence</code> and <code>&lt;field&gt;__route</code>, subject/timepoint, run accessions, cohort, links</td>
+</tr>
+<tr>
+<td><code>sample_determinations.parquet</code></td>
+<td style="text-align: right;">618,898</td>
+<td>Long form: one row per sample × field with <code>evidence_source</code>, <code>evidence_locator</code>, <code>evidence_quote</code> (≤12 words verbatim), <code>route</code>, <code>scope</code>, <code>confidence</code></td>
+</tr>
+<tr>
+<td><code>study_metadata_wide.parquet</code> / <code>.csv</code></td>
+<td style="text-align: right;">389</td>
+<td>One row per included study (BioProject): title, counts, triage evidence, recoverability tiers, per-field coverage (<code>cov_*</code>), cohort, links</td>
+</tr>
+<tr>
+<td><code>runs.parquet</code></td>
+<td style="text-align: right;">174,022</td>
+<td>Run → sample → study with library/instrument fields (join key into ENA/SRA)</td>
+</tr>
+<tr>
+<td><code>sample_subjects.parquet</code></td>
+<td style="text-align: right;">154,206</td>
+<td>Subject and timepoint resolution per sample (<code>subject_key</code>, <code>role</code> infant/mother/other, <code>t_index</code>)</td>
+</tr>
+<tr>
+<td><code>cohorts.csv</code></td>
+<td style="text-align: right;">373</td>
+<td>Cohort clusters (studies + papers sharing a cohort) with unique-infant estimates</td>
+</tr>
+<tr>
+<td><code>study_paper_links.csv</code></td>
+<td style="text-align: right;">973</td>
+<td>Study ↔ paper links with PMID/PMCID/DOI and link method</td>
+</tr>
+<tr>
+<td><code>sandpiper_flag_table.csv</code></td>
+<td style="text-align: right;">20</td>
+<td>Single source for every Sandpiper flag (field, level, site label, definition, used)</td>
+</tr>
+<tr>
+<td><code>sandpiper_study_panel_status.csv</code></td>
+<td style="text-align: right;">389</td>
+<td>Per-study panel scope label and n breakdown (age_scope of profiled rows)</td>
+</tr>
+<tr>
+<td><code>sandpiper_auditor_candidate_runs.csv</code></td>
+<td style="text-align: right;">375</td>
+<td>Runs whose organism label is a non-human host or a named microbe, with the v1.2.1 action taken</td>
+</tr>
+<tr>
+<td><code>review_genomic_only_samples.csv</code>, <code>review_named_microbe_metagenomic_samples.csv</code>, <code>review_amplicon_runs.csv</code></td>
+<td style="text-align: right;">3158 / 70 / 39</td>
+<td>Owner review lists (library_source GENOMIC on every run; METAGENOMIC runs with a named-microbe organism; AMPLICON-strategy runs)</td>
+</tr>
+<tr>
+<td><code>universe_studies_all.parquet</code></td>
+<td style="text-align: right;">9,579</td>
+<td>Every screened study with verdict, reason code and evidence</td>
+</tr>
+<tr>
+<td><code>parent_biosamples.parquet</code></td>
+<td style="text-align: right;">16</td>
+<td>Parent BioSamples of the run-level rows (provenance only; excluded from every count)</td>
+</tr>
+<tr>
+<td><code>study_verdict_history.parquet</code></td>
+<td style="text-align: right;">32,231</td>
+<td>Every triage-stage verdict per study (screen, rubric, Sonnet replicates, Opus adjudication, growth waves, BioSample re-judge, human-review rounds, final) with model, confidence, evidence and source artifact</td>
+</tr>
+<tr>
+<td><code>value_history.parquet</code></td>
+<td style="text-align: right;">45,591</td>
+<td>Determinations that are not current: superseded, rejected, dropped by the group-statement audit, duplicates, moved parent rows, auditor findings — each with <code>status</code>, <code>reason</code>, <code>replaced_by</code></td>
+</tr>
+<tr>
+<td><code>sample_determinations_superseded.parquet</code></td>
+<td style="text-align: right;">223</td>
+<td>Subset of the above kept in the v1.1 layout (run-level supersessions + v1.2 age corrections)</td>
+</tr>
+<tr>
+<td><code>confidence_tiers.csv</code></td>
+<td style="text-align: right;">29</td>
+<td>The engine confidence tiers: route × determiner × scope with the fixed confidence values they emit</td>
+</tr>
+<tr>
+<td><code>tier_field_precision.csv</code></td>
+<td style="text-align: right;">49</td>
+<td>Empirical precision of each route × confidence tier per field against the cMD gold join (hi-res and full sets)</td>
+</tr>
+<tr>
+<td><code>sample_unit_classification_by_study.csv</code></td>
+<td style="text-align: right;">67</td>
+<td>Per-study sample-unit class (A run-keyed, C technical multi-run, X cross-study BioSample)</td>
+</tr>
+<tr>
+<td><code>human_review_queue.csv</code></td>
+<td style="text-align: right;">52</td>
+<td>Studies the pipeline could not decide, with the reason</td>
+</tr>
+<tr>
+<td><code>field_coverage_summary.csv</code>, <code>study_field_coverage_matrix.csv</code></td>
+<td style="text-align: right;"></td>
+<td>Coverage per field and per study × field</td>
+</tr>
+<tr>
+<td><code>extraction_gold_eval_hires.csv</code></td>
+<td style="text-align: right;"></td>
+<td>Precision/recall vs curatedMetagenomicData</td>
+</tr>
+<tr>
+<td><code>sample_determinations_all.parquet</code></td>
+<td style="text-align: right;">620,214</td>
+<td>Current <strong>and retired</strong> determinations: <code>sample_determinations</code> columns + <code>release_added</code>, <code>release_retired</code> (null = current), <code>package_added</code>, <code>retired_reason</code>, <code>retired_change_stage</code> — the per-field value timeline</td>
+</tr>
+<tr>
+<td><code>releases.csv</code></td>
+<td style="text-align: right;">6</td>
+<td>Release registry: one row per release id (package version, date, tags, DOI, headline counts, notes file)</td>
+</tr>
+<tr>
+<td><code>RELEASE_NOTES_R2026.1.md</code></td>
+<td style="text-align: right;"></td>
+<td>Generated diff report vs the previous package (studies/samples, coverage, verdict flips, findings, Sandpiper, gold, schema)</td>
+</tr>
+<tr>
+<td><code>contribute_worklist.csv</code></td>
+<td style="text-align: right;">439</td>
+<td>Community-contribution worklist: one row per OPEN included/uncertain study (≥ 1 of the six fields age/delivery/feeding/preterm/antibiotics/probiotic below 0.5 coverage on catalog_scope), ranked by priority_score, with blocker_code, unlock_text and a prefilled contribution Issue URL</td>
+</tr>
+<tr>
+<td><code>contribute_worklist_fields.csv</code></td>
+<td style="text-align: right;">2,634</td>
+<td>Study × field detail of the worklist (coverage, best recoverability tier, field-level blocker, evidence)</td>
+</tr>
+<tr>
+<td><code>registry_studies.parquet</code></td>
+<td style="text-align: right;">54,410</td>
+<td><strong>Registry tier</strong>: one row per ENA study of the human shotgun-metagenome universe (all body sites, all ages) — host_human, assay, body_sites/life_stages (config/vocab codes with UBERON anchors), population flags, access, evidence rows, classification_stage, infant-catalog verdict, scope_memberships (config/scope.yaml)</td>
+</tr>
+<tr>
+<td><code>registry_universe_audit.csv</code></td>
+<td style="text-align: right;">35</td>
+<td>Registry enumeration audit: per ENA slice the archive count, rows pulled and completeness</td>
+</tr>
+<tr>
+<td><code>REGISTRY_REPORT.md</code></td>
+<td style="text-align: right;"></td>
+<td>Registry build report (universe counts per slice, host / assay / site / stage facets, scope sizes, deviations)</td>
+</tr>
+<tr>
+<td><code>registry_biosamples.parquet</code></td>
+<td style="text-align: right;">611,601</td>
+<td><strong>Registry sample tier</strong>: one row per harvested BioSample of the human_all registry studies outside the curated infant catalog — body site, life stage / age_days, sex, country, collection year normalised to the vocabularies (utility-model pass over distinct attribute pairs, docs/REGISTRY_S2_PILOT.md), raw key/value provenance, disease text unnormalised</td>
+</tr>
+<tr>
+<td><code>registry_study_papers.parquet</code></td>
+<td style="text-align: right;">6,398</td>
+<td>Registry study × paper links from Europe PMC accession mentions and NCBI BioProject declared publications (deterministic relation classes; docs/REGISTRY_S2_PAPERS.md)</td>
+</tr>
+<tr>
+<td><code>registry_bioproject_records.parquet</code></td>
+<td style="text-align: right;">4,217</td>
+<td>NCBI BioProject record per registry study: organisation, submitter, declared publications, dates, data types</td>
+</tr>
+<tr>
+<td><code>registry_authors.parquet</code></td>
+<td style="text-align: right;">52,110</td>
+<td>Authors (with ORCID / affiliation where present) of ≤ 5 linked papers per registry study, Europe PMC core records</td>
+</tr>
+<tr>
+<td><code>DATA_DICTIONARY.md</code></td>
+<td style="text-align: right;"></td>
+<td>Every column, every vocabulary</td>
+</tr>
+<tr>
+<td><code>getting_started.ipynb</code></td>
+<td style="text-align: right;"></td>
+<td>Load, filter, join, plot</td>
+</tr>
+</tbody>
+</table>
+<h3 id="infant-extension-age-scope-and-roles">Infant extension: age scope and roles</h3>
+<p><code>body_site_class</code> says <em>where</em> a sample comes from; it says nothing about the subject's age. Use <code>age_scope</code> for that: <code>infant_evidenced</code> (age ≤ 1,100 d, preterm status or gestational age committed on this sample, or on another sample of the same resolved subject), <code>study_all_infant</code> (no per-sample evidence, but triage estimated ≥ 90 % of the study's infant-scope samples to be infants), <code>age_unknown_mixed_study</code> (triage estimated the study as mixed-age), <code>age_unknown_no_study_estimate</code> (no per-sample evidence and no per-study estimate), <code>adult_flagged</code> (a committed age &gt; 1,100 d), <code>non_infant_role</code> (mother/other by attribute or sample-name evidence). <code>role</code> is <code>infant</code> only when evidenced (<code>role_source</code>), otherwise <code>unknown</code>; <code>adult</code>/<code>child</code> are set from the out-of-range age. <strong>Headline coverage is computed on <code>age_scope ∈ {infant_evidenced, study_all_infant}</code></strong>; <code>field_coverage_summary.csv</code> carries both denominators. Mixed-age deposits (61 studies, <code>mixed_age_deposit = True</code>, e.g. the American Gut Project PRJEB11419 with 79 infant-evidenced rows among 7,024) contribute most of the probiotic/antibiotic/delivery values on adults — filter on <code>age_scope</code> before using exposure fields.</p>
+<h3 id="release-model">Release model</h3>
+<p>Releases are numbered <code>R&lt;YYYY&gt;.&lt;n&gt;</code> (<code>VERSION.json.release_id</code>). Every fact table
+(<code>sample_determinations</code>, <code>universe_studies_all</code>, <code>study_metadata_wide</code>, <code>cohorts</code>, <code>study_paper_links</code>, <code>sandpiper_*</code>)
+carries three trailing columns <code>release_added</code>, <code>release_retired</code> (null = current) and <code>package_added</code>; <code>sample_metadata_wide</code>
+is derived and has none. <code>sample_determinations_all.parquet</code> adds the retired determinations (1,316 rows,
+reconstructed from <code>value_history</code>) so a per-field value timeline is one <code>ORDER BY release_added</code> query; <code>releases.csv</code> is the
+registry of every release. <strong>Caveat:</strong> packages before 1.3.0 had no release columns, so <code>release_added</code> for pre-existing rows is
+reconstructed from <code>value_history.change_stage</code> / <code>src_track</code> and is exact only for rows those stages touched (adult-age
+recommits, run-level rows, retired values); every other pre-1.3.0 row is labelled <code>1.0.0</code> by assumption. Full rules:
+<code>DATA_DICTIONARY.md</code> 'Release columns' and the pipeline's <code>docs/RELEASES.md</code>.</p>
+<h3 id="how-to-read-a-value">How to read a value</h3>
+<p>Every value carries a <strong>route</strong> (R1 = archive sample attribute or sample-name convention (per sample); R2 = supplementary table row (per sample; 'subject_level_join' in parse_note when copied from a per-subject row); R3 = statement in the paper text applied to a defined group; R4 = abstract/ENA description statement (group; confidence ≤0.5).) and a <strong>confidence</strong>. Confidence is an ordinal reliability tier fixed by the route/engine that produced the value (<code>confidence_tiers.csv</code>), <strong>not a calibrated probability</strong>; its empirical precision per tier and field against the gold set is in <code>tier_field_precision.csv</code> (see DATA_DICTIONARY). For most analyses: use R1/R2 values at any confidence, and R3/R4 values only when <code>confidence ≥ 0.5</code> — those are group-level statements applied to samples. <code>parse_note</code> explains derivations (unit resolution, subject propagation, date arithmetic). Rows that are no longer current (superseded, rejected, dropped by the group-statement audit) are in <code>value_history.parquet</code> with the reason and what replaced them; study-level verdict changes are in <code>study_verdict_history.parquet</code>.</p>
+<h3 id="infant-extension-known-limitations">Infant extension: known limitations</h3>
+<ul>
+<li>Age is recoverable for ~37 % of infant-scope samples; per study it is all-or-nothing. ~42k samples belong to studies whose supplementary tables are keyed by identifiers absent from the archive (e.g. TEDDY) and can only be joined with submitter help.</li>
+<li><code>antibiotic_exposure</code> means <em>any</em> antibiotics before/at sampling; sources that record only current use disagree (precision 0.87 vs that definition).</li>
+<li><code>feeding_mode</code> categories differ between sources; precision 0.89.</li>
+<li>Exposure fields (probiotic, HMO, NEC, birth weight, maternal antibiotics) have no external truth set — audited by blind model re-judgement only.</li>
+<li>9,559 samples in included studies carry an archive age &gt; 36 months (<code>adult_age_flag</code>, evidence-linked to an <code>age_at_collection_days</code> determination with <code>parse_note</code> starting <code>out_of_scope_adult</code>); a further 63,966 samples have no age evidence at all — see <code>age_scope</code>.</li>
+<li>Study <code>n_samples</code>/<code>n_runs</code> count the study's own archive runs; 62 BioSamples carry runs from two BioProjects and appear once in the sample table (under one study), so per-study <code>n_samples</code> sum to 154,268 while the sample table has 154,206 rows (<code>n_sample_rows</code> per study).</li>
+<li>Extension fields (<code>health_condition</code>, <code>multiple_birth</code>, <code>sibling_in_study</code>, <code>geo_subregion</code>) were added in a single pass and are less audited than the core fields.</li>
+</ul>
+<h3 id="provenance-and-licence">Provenance and licence</h3>
+<p>Built with Claude-model pipelines (Haiku for screening/normalisation, Sonnet for rubric judgement and prose extraction, Opus for adjudication), deterministic parsers, and two rounds of full-text model review of the undecidable residue. Full methods: <code>CATALOG_REPORT.md</code> and <code>EXTRACTION_REPORT.md</code> in the release bundle. Licence: CC-BY-4.0 for the curated tables (archive metadata remains under INSDC terms). Citation placeholder: <em>Infant Gut Shotgun-Metagenome Catalog data package v1.2 (release v12), 2026.</em></p>
+<h3 id="infant-extension-sandpiper-community-profiles-and-author-index">Infant extension: Sandpiper community profiles and author index</h3>
+<ul>
+<li><code>sample_metadata_wide</code> carries 39 Sandpiper columns (<code>sp_*</code>, <code>sandpiper_url</code>, <code>taxonomy_db</code>, <code>taxonomy_version</code>, <code>sandpiper_version</code>): 79,473 of 154,206 samples (51.5%) in 304 studies (<code>sp_n_samples_profiled &gt; 0</code>; 302 studies have profiled runs registered under their own accession, 181 have a composition panel — see <code>sp_panel_scope</code>) have a SingleM profile (Sandpiper 2.0.0, GTDB R232; 87,125 of 174,022 runs). Relative abundances (<code>*_ra</code>) are fractions of prokaryotic coverage — see <code>SANDPIPER_REPORT.md</code> §3 and the DATA_DICTIONARY. Every profiled sample links to <code>https://sandpiper.qut.edu.au/run/&lt;run&gt;</code> (the RANDOM-selection run with the highest root coverage). Profiles are Sandpiper 2.0.0 outputs from Zenodo snapshot 20419175; the linked live pages may show a newer Sandpiper version. Study composition panels and <code>sp_median_*</code> are computed over <code>catalog_scope</code> rows with adequate depth only.</li>
+<li><code>&lt;field&gt;__scope</code> (sample / subject / group / biosample) for the 16 coverage fields, so slice exports carry the scope of R3/R4 group statements.</li>
+<li><code>study_metadata_wide</code> adds <code>sp_n_samples_profiled</code>, <code>sp_frac_samples_profiled</code>, <code>sp_n_runs_profiled</code>, <code>sp_frac_runs_profiled</code>, <code>sp_coverage_class</code>, <code>sp_frac_runs_flagged</code> (runs whose organism/library labels fire Sandpiper's non-human-host / named-microbe / synthetic / RNA rules), <code>sp_frac_low_complexity_profiled</code>, <code>sp_frac_low_depth_profiled</code>, <code>sp_median_spf</code>, <code>sp_median_known_species_fraction</code>, <code>sp_median_bifidobacterium_ra</code>, <code>sp_median_shannon_genus</code>, <code>sp_auditor_attention</code>, <code>sp_auditor_reason</code>, and the author columns <code>first_author</code>, <code>last_author</code>, <code>n_authors</code>, <code>n_author_papers</code>, <code>organisations</code>.</li>
+<li>On-site Sandpiper tables: <code>sandpiper_sample_summary.parquet</code>, <code>sandpiper_top_genera.parquet</code> (top-15 genera + unassigned bin per sample), <code>sandpiper_study_panels.parquet</code> (per-study mean top phyla/genera), <code>sandpiper_run_qc.parquet</code> (all runs, QC flags, miss reasons), <code>sandpiper_study_coverage.csv</code>, <code>sandpiper_study_qc_flags.csv</code>, <code>sandpiper_flag_definitions.json</code>. Genus- and species-level long tables for every profiled catalog sample are Release assets (<code>catalog_sandpiper_sample_genus_v&lt;version&gt;_part*.parquet</code>, <code>catalog_sandpiper_sample_species_v&lt;version&gt;_part*.parquet</code>).</li>
+<li>Author index: <code>authors.parquet</code> (28,367 study × author rows, 10,965 distinct author keys), <code>study_authors_summary.csv</code> (first/last author, organisations for all screened studies), <code>authors_index.json</code> (search index used by the website). Names are string-matched from Europe PMC author strings and NCBI BioProject records; 103 included studies have no author on record (see <code>AUTHORS_REPORT.md</code>).</li>
+<li><code>VERSION.json</code>: package version, release tag, build date and sha256 + row count of every table.</li>
+</ul></div>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.31"><span class="mono">R2026.31</span></a> · package <span class="mono">1.26.0</span> · build <span class="mono">ee098e5</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.31.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.26.0',release:'data-v1.26.0',releaseId:'R2026.31',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

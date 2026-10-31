@@ -1,0 +1,46 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN35100977,PRJNA972883,,,elderly,,male,AU,other_infection,pleural space infection,,,,2022-03,primary,1.0,0.108
+SAMN35100978,PRJNA972883,,,adult,,female,AU,other_infection,pleural space infection,,,,2022-03,primary,1.0,0.115
+SAMN35100979,PRJNA972883,,,elderly,26641.0,male,AU,other_infection,pleural space infection,,,,2022-04,primary,1.0,0.109
+SAMN35100980,PRJNA972883,,,adult,13878.5,female,AU,other_infection,pleural space infection,,,,2022-04,primary,1.0,0.136
+SAMN35100981,PRJNA972883,,,adult,16791.5,male,AU,other_infection,pleural space infection,,,,2022-04,primary,1.0,0.062
+SAMN35100982,PRJNA972883,,,elderly,30702.0,male,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,5.135
+SAMN35100983,PRJNA972883,,,adult,22627.0,female,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,0.09
+SAMN35100984,PRJNA972883,,,adult,8391.0,male,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,0.057
+SAMN35100985,PRJNA972883,,,adult,10601.0,male,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,0.054
+SAMN35100986,PRJNA972883,,,elderly,,male,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,0.051
+SAMN35100987,PRJNA972883,,,elderly,,male,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,0.416
+SAMN35100988,PRJNA972883,,,adult,12783.8,male,AU,other_infection,pleural space infection,,,,2022-06,primary,1.0,0.095
+SAMN35100989,PRJNA972883,,,elderly,,male,AU,other_infection,pleural space infection,,,,2022-06,primary,1.0,0.08
+SAMN35100990,PRJNA972883,,,elderly,,female,AU,other_infection,pleural space infection,,,,2022-07,primary,1.0,0.072
+SAMN35100991,PRJNA972883,,,adult,16069.0,female,AU,other_infection,pleural space infection,,,,2022-07,primary,1.0,0.049
+SAMN35100992,PRJNA972883,,,elderly,27394.0,male,AU,other_infection,pleural space infection,,,,2022-07,primary,1.0,0.069
+SAMN35100993,PRJNA972883,,,elderly,,female,AU,other_infection,pleural space infection,,,,2022-08,primary,1.0,0.057
+SAMN35100994,PRJNA972883,,,elderly,,male,AU,other_infection,pleural space infection,,,,2022-05,primary,1.0,0.39
+SAMN35100995,PRJNA972883,,,adult,,male,AU,other_infection,pleural space infection,,,,2022-09,primary,1.0,0.315
+SAMN35100996,PRJNA972883,,,adult,22980.8,male,AU,other_infection,pleural space infection,,,,2022-09,primary,1.0,0.452
+SAMN35100997,PRJNA972883,,,elderly,,female,AU,other_infection,pleural space infection,,,,2022-09,primary,1.0,0.437
+SAMN35100998,PRJNA972883,,,elderly,24455.0,male,AU,other_infection,pleural space infection,,,,2022-09,primary,1.0,0.451
+SAMN35100999,PRJNA972883,,,adult,20434.0,male,AU,other_infection,pleural space infection,,,,2022-10,primary,1.0,0.465
+SAMN35101000,PRJNA972883,,,elderly,,male,AU,other_infection,pleural space infection,,,,2022-10,primary,1.0,0.446
+SAMN35101001,PRJNA972883,,,elderly,32481.0,male,AU,other_infection,pleural space infection,,,,2022-10,primary,1.0,0.495
+SAMN35101002,PRJNA972883,,,adult,7305.0,male,AU,other_infection,pleural space infection,,,,2022-11,primary,1.0,0.34
+SAMN35101003,PRJNA972883,,,elderly,26641.0,female,AU,other_cancer,malignant pleural effusion,,,,2022-08,primary,1.0,0.063
+SAMN35101004,PRJNA972883,,,,,male,AU,other_cancer,malignant pleural effusion,,,,2022-08,primary,1.0,0.067
+SAMN35101005,PRJNA972883,,,elderly,31788.0,male,AU,other_cancer,malignant pleural effusion,,,,2022-09,primary,1.0,0.453
+SAMN35101006,PRJNA972883,,,elderly,,male,AU,other_cancer,malignant pleural effusion,,,,2022-10,primary,1.0,0.456
+SAMN35101007,PRJNA972883,,,elderly,29580.0,female,AU,cardiometabolic_other,congestive cardiac failure,,,,2022-10,primary,1.0,0.457
+SAMN35101008,PRJNA972883,,,,,male,AU,other_cancer,malignant pleural effusion,,,,2022-10,primary,1.0,0.46
+SAMN35101009,PRJNA972883,,,adult,22627.0,male,AU,other_cancer,malignant pleural effusion,,,,2022-11,primary,1.0,0.1
+SAMN35101010,PRJNA972883,,,elderly,,male,AU,other_cancer,malignant pleural effusion,,,,2022-11,primary,1.0,0.454
+SAMN35101011,PRJNA972883,,,elderly,,male,AU,other_cancer,malignant pleural effusion,,,,2022-11,primary,1.0,0.373
+SAMN35101012,PRJNA972883,,,elderly,31788.0,male,AU,other_cancer,malignant pleural effusion,,,,2022-11,primary,1.0,0.469
+SAMN35101013,PRJNA972883,,,adult,,male,AU,other_infection,acute rhinovirus A infection,,,,2021-06,primary,1.0,0.026
+SAMN35101014,PRJNA972883,,,,,,AU,,,,,,2022,unknown,1.0,0.142
+SAMN35151072,PRJNA972883,,,adult,14239.8,female,AU,other_infection,acute undiagnosed respiratory infection,,,,2021-07-04,primary,1.0,0.463
+SAMN35151073,PRJNA972883,,,,,,AU,,,,,,2021,unknown,1.0,0.209
+SAMN35151074,PRJNA972883,,,,,,AU,,,,,,2021,unknown,1.0,0.161
+SAMN35151075,PRJNA972883,,,,,,AU,,,,,,2022,unknown,1.0,0.438
+SAMN35151076,PRJNA972883,,,,,,AU,,,,,,2022,unknown,1.0,0.074
+SAMN35151077,PRJNA972883,,,,,,AU,,,,,,2022,unknown,1.0,0.054
+SAMN35151078,PRJNA972883,,,,,,AU,,,,,,2022,unknown,1.0,0.063

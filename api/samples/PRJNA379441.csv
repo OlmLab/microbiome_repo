@@ -1,0 +1,10 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN06608440,PRJNA379441,Healthy pool A,,,,,ES,healthy_control,Healthy control,,,,2016-08-05,primary,1.0,0.85
+SAMN06608441,PRJNA379441,Healthy pool B,,,,,ES,healthy_control,Healthy control,,,,2016-08-05,primary,1.0,0.903
+SAMN06608442,PRJNA379441,Healthy pool C,,,,,ES,healthy_control,Healthy control,,,,2016-08-05,primary,1.0,0.849
+SAMN06608443,PRJNA379441,Healthy pool D,,,,,ES,healthy_control,Healthy control,,,,2016-08-05,primary,1.0,0.894
+SAMN06608435,PRJNA379441,Unhealthy pool A,,,,male,ES,liver_disease,Hepatitis,,,,2014-11-07,primary,1.0,1.294
+SAMN06608436,PRJNA379441,Unhealthy pool B,,,,male,ES,liver_disease,Hepatitis,,,,2014-11-07,primary,1.0,0.585
+SAMN06608437,PRJNA379441,Unhealthy pool C,,,,female,ES,liver_disease,Hepatitis,,,,2014-11-07,primary,1.0,2.782
+SAMN06608438,PRJNA379441,Unhealthy pool D,,,,,ES,liver_disease,Hepatitis,,,,2014-11-07,primary,1.0,1.53
+SAMN06608439,PRJNA379441,Unhealthy pool E,,,,,ES,liver_disease,Hepatitis,,,,2015-10-03,primary,1.0,2.168

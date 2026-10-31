@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Figures — Microbiome Repo</title>
+<meta name="description" content="The six figures of the Microbiome Repo resource paper, with captions.">
+<meta name="catalog-release" content="data-v1.26.0">
+<meta name="catalog-release-id" content="R2026.31">
+<link rel="canonical" href="https://microbiomerepo.com/atlas/figures.html">
+<meta name="catalog-package-version" content="1.26.0">
+<meta name="catalog-build-date" content="2026-10-30">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/figures.html" class="active">Figures (resource paper)</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="index.html">Atlas</a> › Figures</div>
+
+<div class="page-head"><h1>Figures</h1><p class="subnav"><a href="index.html">Taxon map</a> · <a href="pca.html">PCA of community profiles</a> · <a href="figures.html" class="active">Figures</a></p><p>The figures of the Microbiome Repo resource manuscript (in preparation), built from the catalog's own tables. Click a figure for the full-resolution image.</p></div>
+<figure class="msfig" id="figure-1">
+<a href="figures/figure1.png" title="Figure 1 — full resolution"><img src="figures/figure1_web.png" alt="Figure 1. Microbiome Repo is larger, broader and more current than existing resources." loading="lazy" width="1400"></a>
+<figcaption><b>Figure 1. Microbiome Repo is larger, broader and more current than existing resources.</b> (a) Catalog samples per country (Equal Earth projection; colour scale is logarithmic). Black outlines mark the 40 countries with no sample in any of nine prior resources. (b) Cumulative number of catalog samples by the year their study was first made public (gold), and the number also annotated by a prior resource (grey). 2026 is incomplete (through 29 September). (c) Of samples with at least one host value (age, sex, BMI, country, health condition or antibiotic exposure), the share that has a host value in any prior resource; each square is 1% of 575,335 samples. (d) Samples with a value for each host field in the union of prior resources (grey) and in Microbiome Repo (gold); numbers give the fold difference. (e) Age at collection for the 168,338 samples with an age, on a logarithmic axis from birth to 110 years. (f) The most common health-condition codes (of 29); &#34;healthy / control&#34; is shown in grey.</figcaption>
+</figure>
+<figure class="msfig" id="figure-2">
+<a href="figures/figure2.png" title="Figure 2 — full resolution"><img src="figures/figure2_web.png" alt="Figure 2. Reading papers with LLMs recovers metadata that is not in the archive, and the values are accurate." loading="lazy" width="1400"></a>
+<figcaption><b>Figure 2. Reading papers with LLMs recovers metadata that is not in the archive, and the values are accurate.</b> (a) Examples of evidence quotes behind catalog values, one per source: a BioSample title, a BioProject title, an ENA study description, an abstract, a methods section and a table in the paper. The badge colour gives the source, as in (b–e). The number of catalog samples that receive the value is shown in each card. (b) Source of each field for three studies whose defining exposure (boxed) is absent from the archive record. Squares are coloured by the source of the field&#39;s values; dashed squares mark fields with no value. The quote and result for the boxed field are shown on the right. (c) Share of catalog samples with a value for each field, built up from archive attributes alone, then adding decoded sample names, then papers and supplementary files, then external resources. Numbers give the fold increase over archive attributes. (d) Precision and recall of values produced by the pipeline against three independently curated resources, after removing values ingested from those resources. Grey symbols show each reference, sized by the number of reference values (shown when ≥ 100 values were compared); gold circles show pooled estimates (218,218 reference values, 60,389 samples, 370 studies). The shaded band marks precision ≥ 0.95. (e) Precision of values from each source against the pooled references, with 95% confidence intervals from resampling studies.</figcaption>
+</figure>
+<figure class="msfig" id="figure-3">
+<a href="figures/figure3.png" title="Figure 3 — full resolution"><img src="figures/figure3_web.png" alt="Figure 3. Microbiome Repo standardizes free-text metadata and makes conflicts between resources visible." loading="lazy" width="1400"></a>
+<figcaption><b>Figure 3. Microbiome Repo standardizes free-text metadata and makes conflicts between resources visible.</b> (a) Distinct raw strings that map to a single standardized value, for country (United States), health condition (Crohn&#39;s disease) and sex (female), and distinct attribute keys that carry host age. Line width scales with the number of values written each way; examples include a BioSample title from which sex was decoded. (b) Examples of raw age strings converted to age at collection in days, placed on a common logarithmic axis. Colour gives the source. (c) The 30 most frequent of 122 placeholder strings for missing data, sized by frequency. (d) Number of distinct raw strings and standardized codes per field. (e) Disagreement between values produced by the pipeline and values from each external resource on the same samples, as a percentage of shared values, coloured by type of disagreement. (f) Adjudicated examples of conflicts, each showing the value and evidence quote from Microbiome Repo and from the external resource, with the verdict and its basis.</figcaption>
+</figure>
+<figure class="msfig" id="figure-4">
+<a href="figures/figure4.png" title="Figure 4 — full resolution"><img src="figures/figure4_web.png" alt="Figure 4. Microbiome Repo links samples to people, time and relationships." loading="lazy" width="1400"></a>
+<figcaption><b>Figure 4. Microbiome Repo links samples to people, time and relationships.</b> (a) Summary of person, longitudinal and relatedness annotations in release R2026.23. (b) Sampling timelines for six longitudinal studies; each row is one of the 12 most-sampled people in the study, and each dot is one sample, placed by days since that person&#39;s first sample. The study&#39;s sampling schedule, as quoted from the paper or archive, is shown on the right (truncated). People with implausible follow-up times were excluded (Methods). (c) Source of the values for person, time point, family role and shared setting. Numbers give the percentage not derived from archive attributes. (d) Number of samples per person among the 57,097 people sampled more than once. (e) Family structures, with the number of families and, in parentheses, people. Circles show the roles in each structure. (f) Two relationship networks: stool donors and recipients in a multi-donor faecal microbiota transplantation trial (PRJNA637785), and hospital roommates among transplant patients (PRJNA707487), with line width proportional to days shared. (g) Examples of evidence quotes for relationships, coloured by source as in (c).</figcaption>
+</figure>
+<figure class="msfig" id="figure-5">
+<a href="figures/figure5.png" title="Figure 5 — full resolution"><img src="figures/figure5_web.png" alt="Figure 5. Cost and effort." loading="lazy" width="1400"></a>
+<figcaption><b>Figure 5. Cost and effort.</b> (a) Cost, effort and calendar time for Microbiome Repo (measured) and for manual curation by one curator (estimated as in e); linear axes; the panel titles give the ratio. (b) Cost by component. Agent costs are as recorded by the platform; extraction-request costs (hatched) are estimated from the per-request token usage of 2,773 requests with recorded usage, at list prices. (c) Agent tokens and their cost by token type, at list prices. (d) Extraction requests per day (bars) and cumulative cost (line). (e) Estimated person-hours for manual curation, by task. The rate for metadata extraction and harmonization (3.2 h per study) is taken from a manual harmonization of 468 studies; the other per-unit times are assumptions. (f) Unit costs.</figcaption>
+</figure>
+<figure class="msfig" id="figure-6">
+<a href="figures/figure6.png" title="Figure 6 — full resolution"><img src="figures/figure6_web.png" alt="Figure 6. The annotation passes." loading="lazy" width="1400"></a>
+<figcaption><b>Figure 6. The annotation passes.</b> (a) Passes at the study, sample and person level: the sources each pass reads, the methods it uses (rules, Claude Haiku, two independent replicates of Claude Sonnet or of the reasoning model, Opus adjudication, or one sub-agent per project shard), its safeguards and the number of current values it contributes (bars, linear scale) with the number of studies. Values superseded under the precedence rule are not counted. (b) Share of each field&#39;s current values contributed by each pass; dot area is proportional to the share. (c) Pass status for each of the 2,893 catalog studies (release R2026.23).</figcaption>
+</figure>
+
+<p class="small muted">Figures reflect the release they were built from (stated in each caption); numbers on the rest of the site follow the current release.</p>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.31"><span class="mono">R2026.31</span></a> · package <span class="mono">1.26.0</span> · build <span class="mono">ee098e5</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.31.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.26.0',release:'data-v1.26.0',releaseId:'R2026.31',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

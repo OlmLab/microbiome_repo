@@ -1,0 +1,9 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA54125668,PRJEB19188,CA1_01,,adult,,male,ES,,"Diseased, CAO's index = 8",,,,2009-04-01,primary,1.0,
+SAMEA54124918,PRJEB19188,CA1_02,,adult,,male,ES,,"Diseased, CAO's index = 6",,,,2009-03-25,primary,1.0,
+SAMEA54122668,PRJEB19188,CA_04,,adult,,female,ES,,"Diseased, CAO's index = 25",,,,2010-03-01,primary,1.0,
+SAMEA54123418,PRJEB19188,CA_05,,adult,,male,ES,,"Diseased, CAO's index = 10",,,,2010-03-01,primary,1.0,
+SAMEA54121918,PRJEB19188,CA_06,,adult,17886.0,male,ES,,"Diseased, CAO's index = 11",,,,2010-03-01,primary,1.0,
+SAMEA54124168,PRJEB19188,CA_06,,adult,17886.0,male,ES,,"Diseased, CAO's index = 11",,,,2010-03-01,primary,1.0,
+SAMEA54121168,PRJEB19188,NOCA_01,,adult,,male,ES,healthy_control,"Healthy, CAO's Index = 0",,,,2009-03-25,primary,1.0,
+SAMEA54126418,PRJEB19188,NOCA_03,,adult,14238.0,male,ES,healthy_control,"Healthy, CAO's Index = 0",,,,2010-01-15,primary,1.0,
