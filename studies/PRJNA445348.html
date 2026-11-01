@@ -50,13 +50,31 @@
 <p class="pg-links"><a href="https://www.ebi.ac.uk/ena/browser/view/PRJNA445348">ENA</a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA445348">BioProject</a><a href="../samples/index.html?q=PRJNA445348">Sample sheet</a><a href="../registry/index.html?study=PRJNA445348">Registry</a><a href="#downloads">Download</a><a class="flag" href="https://github.com/OlmLab/microbiome_repo/issues/new?template=simple-finding.yml&amp;labels=finding&amp;title=%5Bfinding%5D%20PRJNA445348&amp;accession=PRJNA445348&amp;release_id=R2026.32&amp;page_url=https%3A%2F%2Fmicrobiomerepo.com%2Fstudies%2FPRJNA445348.html">Flag an issue</a></p>
 </header>
 
+<section class="pg-sec" id="study-design">
+<div class="pg-label">Study design</div>
+<div class="ds-card"><div class="ds-head"><span class="ds-type">Case–control study</span><span class="ds-src" title="Where the design type comes from">classified from the paper or abstract</span></div><div class="ds-help">people with a condition compared with people without it</div><p class="ds-sent"><b>122</b> people, all with transplant / immunocompromised; <b>33</b> sampled more than once (median 3, up to 5 samples per person); 2 body sites (vaginal / urogenital, blood / tissue / internal fluids).</p><div class="ds-grid"><div class="ds-fig"><svg class="ds-mat" viewBox="0 0 352 104" width="352" role="img" aria-label="people per group and body site"><text x="82" y="12" text-anchor="end" font-size="9.5" fill="#7a6a3a" font-family="ui-monospace,Menlo,monospace">rows: all samples</text><text x="94" y="12" font-size="9.5" fill="#7a6a3a" font-family="ui-monospace,Menlo,monospace">columns: body_site_code</text><rect x="0" y="64" width="352" height="30" fill="#f7f2e3" fill-opacity=".55"/><text x="136" y="42" text-anchor="middle" font-size="10.5" fill="#333"><title>Vaginal / urogenital</title>Vaginal /</text><text x="136" y="55" text-anchor="middle" font-size="10.5" fill="#333">urogenital</text><text x="228" y="42" text-anchor="middle" font-size="10.5" fill="#333"><title>Blood / tissue / internal fluids</title>Blood / tissue</text><text x="228" y="55" text-anchor="middle" font-size="10.5" fill="#333">/ internal fluids</text><text x="314" y="55" text-anchor="middle" font-size="10.5" fill="#333" font-weight="600">people</text><text x="82" y="83" text-anchor="end" font-size="11" fill="#333"><title>all samples</title>all samples</text><circle class="ds-dot" cx="122" cy="79" r="13.5" fill="#CFB87C" fill-opacity=".85" stroke="#A88B4A" stroke-width=".8"><title>all samples × Vaginal / urogenital: 82 people, 141 samples</title></circle><text x="138" y="82" font-size="10" fill="#333">82</text><circle class="ds-dot" cx="214" cy="79" r="10.2" fill="#CFB87C" fill-opacity=".85" stroke="#A88B4A" stroke-width=".8"><title>all samples × Blood / tissue / internal fluids: 40 people, 40 samples</title></circle><text x="227" y="82" font-size="10" fill="#333">40</text><text x="314" y="83" text-anchor="middle" font-size="10.5" fill="#333" font-weight="600">122</text></svg><div class="ds-cap">Each circle: people in one group at one body site (area ∝ count; hover for people and samples). Rows come from <span class="mono">all samples</span>, columns from <span class="mono">body_site_code</span>.</div></div><div><div class="ds-checks-h">Paper and data checks</div><ul class="ds-checks"><li><span class="ds-ck warn">!</span><span>The source compares groups, but no sample variable says which group each sample belongs to (every sample with a value reads “Transplant / immunocompromised”).</span></li></ul></div></div><details class="ds-more" open><summary>Which variables the design is drawn from</summary><table class="ds-el"><tr><th>Design element</th><th>Field</th><th>Comes from</th><th>Samples</th></tr><tr><td>Person</td><td><span class="ds-var" title="archive attribute ‘submitted_subject_id’: 181 values">subject_id</span></td><td class="ds-from">archive attribute ‘submitted_subject_id’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>181 / 181</td></tr><tr><td>Group / condition</td><td><span class="ds-var" title="the paper&#x27;s abstract: 181 values">health_condition</span></td><td class="ds-from">the paper&#x27;s abstract</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>181 / 181</td></tr><tr><td>Body site</td><td><span class="ds-var" title="body_site_code: from each sample record, or the project-level site when the project has a single one">body_site_code</span></td><td class="ds-from">each sample&#x27;s own record</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>181 / 181</td></tr></table></details><p class="small muted" style="margin:.5rem 0 0"><a href="../about/value_sources.html#design-block">How this block is assembled</a></p></div>
+</section>
+
+
+
+
+<section class="pg-sec" id="design">
+<div class="pg-label">Sampling design and relatedness</div>
+<p class="dz-badges"><span class="dzb lg unres" title="Longitudinal, not resolved: the source describes repeated sampling, but which samples belong to the same person and/or the time between them is not known yet, so no timeline can be drawn">longitudinal — not resolved</span></p>
+<p class="small"><b>33</b> of 122 people sampled more than once (92 samples; median 3, up to 5 per person).
+</p>
+
+
+<p class="small muted"><a href="../about/value_sources.html#design">How longitudinal and relatedness information is derived</a></p>
+</section>
+
+
 <section class="pg-sec" id="sources">
 <div class="pg-label">Sources</div>
 <div class="srcrow"><span class="srcitem used" title="Sequence archive: 322 sample values (sex, subject id)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">322</span></span><span class="srcitem used" title="Abstract / description: 181 sample values (health condition)"><span class="srcmk u">✓</span>Abstract / description <span class="muted">181</span></span><span class="srcitem none" title="Full text: no open-access full text linked"><span class="srcmk n">–</span>Full text</span><span class="srcitem none" title="Supplementary tables: no supplementary tables available (or none open access)"><span class="srcmk n">–</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
 <p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA445348&amp;accession=PRJNA445348&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
 <details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>322 sample values (sex, subject id)</td></tr><tr><td><span class="srcmk u">✓</span> Abstract / description</td><td>181 sample values (health condition)</td></tr><tr><td><span class="srcmk n">–</span> Full text</td><td>no open-access full text linked</td></tr><tr><td><span class="srcmk n">–</span> Supplementary tables</td><td>no supplementary tables available (or none open access)</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=share-metadata.yml&amp;labels=contribution&amp;title=%5Bmetadata%5D%20PRJNA445348&amp;accession=PRJNA445348&amp;release_id=R2026.32">share metadata</a></td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA445348&amp;accession=PRJNA445348&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
 </section>
-
 
 
 <section class="pg-sec">
@@ -78,34 +96,9 @@
 </div></div>
 </section>
 
-<section class="pg-sec" id="study-design">
-<div class="pg-label">Study design</div>
-<p class="pg-facts"><b>case control</b> · <b>122</b> people identifiable in the data</p>
-<table class="livtbl"><tr><th>What the data show</th><th>Value</th><th>Which variable says so</th></tr>
-<tr><td>Samples</td><td>181</td><td class="muted mono small">sample records of this project</td></tr>
-<tr><td>People</td><td>122 · 1.5 samples per person</td><td class="muted mono small">subject_id · from the sample attribute naming the person</td></tr>
-
-<tr><td>Body sites</td><td>Vaginal / urogenital (141) · Blood / tissue / internal fluids (40)</td><td class="muted mono small">body_site_code · from each sample's own record</td></tr>
-
-<tr><td>Groups compared</td><td>Transplant / immunocompromised (HSCT, chemotherapy, ICU) (181)</td><td class="muted mono small">health_condition · mapped from the sample's disease / group attribute</td></tr>
-</table>
-
-
-</section>
 
 
 
-
-
-<section class="pg-sec" id="design">
-<div class="pg-label">Sampling design and relatedness</div>
-<p class="dz-badges"><span class="dzb lg unres" title="Longitudinal, not resolved: the source describes repeated sampling, but which samples belong to the same person and/or the time between them is not known yet, so no timeline can be drawn">longitudinal — not resolved</span></p>
-<p class="small"><b>33</b> of 122 people sampled more than once (92 samples; median 3, up to 5 per person).
-</p>
-
-
-<p class="small muted"><a href="../about/value_sources.html#design">How longitudinal and relatedness information is derived</a></p>
-</section>
 
 
 <section class="pg-sec" id="composition">

@@ -50,11 +50,9 @@
 <p class="pg-links"><a href="https://www.ebi.ac.uk/ena/browser/view/PRJNA1045616">ENA</a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1045616">BioProject</a><a href="../samples/index.html?q=PRJNA1045616">Sample sheet</a><a href="../registry/index.html?study=PRJNA1045616">Registry</a><a href="#downloads">Download</a><a class="flag" href="https://github.com/OlmLab/microbiome_repo/issues/new?template=simple-finding.yml&amp;labels=finding&amp;title=%5Bfinding%5D%20PRJNA1045616&amp;accession=PRJNA1045616&amp;release_id=R2026.32&amp;page_url=https%3A%2F%2Fmicrobiomerepo.com%2Fstudies%2FPRJNA1045616.html">Flag an issue</a></p>
 </header>
 
-<section class="pg-sec" id="sources">
-<div class="pg-label">Sources</div>
-<div class="srcrow"><span class="srcitem used" title="Sequence archive: 18 sample values (collection date, country, latitude, location region, longitude, timepoint)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">18</span></span><span class="srcitem checked" title="Abstract / description: read; no usable statement"><span class="srcmk c">○</span>Abstract / description</span><span class="srcitem used" title="Full text: 9 sample values (health condition, health condition detail, sex) · PMC11341271, PMC13560417"><span class="srcmk u">✓</span>Full text <span class="muted">9</span></span><span class="srcitem checked" title="Supplementary tables: files read; no table could be matched to the samples"><span class="srcmk c">○</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
-<p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA1045616&amp;accession=PRJNA1045616&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
-<details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>18 sample values (collection date, country, latitude, location region, longitude, timepoint)</td></tr><tr><td><span class="srcmk c">○</span> Abstract / description</td><td>read; no usable statement</td></tr><tr><td><span class="srcmk u">✓</span> Full text</td><td>9 sample values (health condition, health condition detail, sex) · <span class="mono">PMC11341271, PMC13560417</span></td></tr><tr><td><span class="srcmk c">○</span> Supplementary tables</td><td>files read; no table could be matched to the samples</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet</td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA1045616&amp;accession=PRJNA1045616&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
+<section class="pg-sec" id="study-design">
+<div class="pg-label">Study design</div>
+<div class="ds-card"><div class="ds-head"><span class="ds-type">Single-group study</span><span class="ds-src" title="Where the design type comes from">read from the paper</span></div><div class="ds-help">one group of people, no comparison group</div><p class="ds-sent"><b>3</b> samples from adults (which samples share a person is not recorded), all with obesity / overweight; sampled at: gut / stool.</p><div class="ds-checks-h">Paper and data checks</div><ul class="ds-checks"><li><span class="ds-ck ok">✓</span><span>The paper describes a single participant; every sample comes from that person.</span></li><li><span class="ds-ck warn">!</span><span>The source describes repeated sampling, but which samples belong to the same person is not recorded, so the time course cannot be drawn.</span></li><li><span class="ds-ck info">i</span><span>Body site is the project’s single stated site; the samples themselves do not record it.</span></li></ul><details class="ds-more" open><summary>Which variables the design is drawn from</summary><table class="ds-el"><tr><th>Design element</th><th>Field</th><th>Comes from</th><th>Samples</th></tr><tr><td>Person</td><td><span class="ds-var" title="subject_id">subject_id</span></td><td class="ds-from"><span class="ds-none">not recorded</span></td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:0%"></i></span>0 / 3</td></tr><tr><td>Group / condition</td><td><span class="ds-var" title="the paper&#x27;s methods: 3 values">health_condition</span></td><td class="ds-from">the paper&#x27;s methods</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr><tr><td>Body site</td><td><span class="ds-var" title="body_site_code: from each sample record, or the project-level site when the project has a single one">body_site_code</span></td><td class="ds-from">the project&#x27;s single stated site</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr><tr><td>Time point</td><td><span class="ds-var" title="a naming rule on the sample title: 3 values">timepoint_label</span></td><td class="ds-from">a naming rule on the sample title</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr><tr><td>Collection date</td><td><span class="ds-var" title="archive attribute ‘collection_date’: 3 values">collection_date</span></td><td class="ds-from">archive attribute ‘collection_date’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr></table></details><p class="small muted" style="margin:.5rem 0 0"><a href="../about/value_sources.html#design-block">How this block is assembled</a></p></div>
 </section>
 
 
@@ -64,6 +62,26 @@
 
 <p><span class="muted">design</span> <span class="mono">observational_with_procedure</span></p>
 
+</section>
+
+
+
+<section class="pg-sec" id="design">
+<div class="pg-label">Sampling design and relatedness</div>
+<p class="dz-badges"><span class="dzb lg unres" title="Longitudinal, not resolved: the source describes repeated sampling, but which samples belong to the same person and/or the time between them is not known yet, so no timeline can be drawn">longitudinal — not resolved</span></p>
+<p class="small">
+ Schedule stated by the source: “Same runner sampled 7 days before race (T0), ~10-15 min after race finish (T1), and 7 days after race finish (T2).” (time origin: other (race finish/completion)); stated follow-up 14 d.</p>
+
+
+<p class="small muted"><a href="../about/value_sources.html#design">How longitudinal and relatedness information is derived</a></p>
+</section>
+
+
+<section class="pg-sec" id="sources">
+<div class="pg-label">Sources</div>
+<div class="srcrow"><span class="srcitem used" title="Sequence archive: 18 sample values (collection date, country, latitude, location region, longitude, timepoint)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">18</span></span><span class="srcitem checked" title="Abstract / description: read; no usable statement"><span class="srcmk c">○</span>Abstract / description</span><span class="srcitem used" title="Full text: 9 sample values (health condition, health condition detail, sex) · PMC11341271, PMC13560417"><span class="srcmk u">✓</span>Full text <span class="muted">9</span></span><span class="srcitem checked" title="Supplementary tables: files read; no table could be matched to the samples"><span class="srcmk c">○</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
+<p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA1045616&amp;accession=PRJNA1045616&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
+<details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>18 sample values (collection date, country, latitude, location region, longitude, timepoint)</td></tr><tr><td><span class="srcmk c">○</span> Abstract / description</td><td>read; no usable statement</td></tr><tr><td><span class="srcmk u">✓</span> Full text</td><td>9 sample values (health condition, health condition detail, sex) · <span class="mono">PMC11341271, PMC13560417</span></td></tr><tr><td><span class="srcmk c">○</span> Supplementary tables</td><td>files read; no table could be matched to the samples</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet</td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA1045616&amp;accession=PRJNA1045616&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
 </section>
 
 
@@ -88,20 +106,6 @@
 </div></div>
 </section>
 
-<section class="pg-sec" id="study-design">
-<div class="pg-label">Study design</div>
-<p class="pg-facts"><b>case series</b> · <b>1</b> participants stated by the paper · <b>3</b> distinct timepoint labels</p>
-<table class="livtbl"><tr><th>What the data show</th><th>Value</th><th>Which variable says so</th></tr>
-<tr><td>Samples</td><td>3</td><td class="muted mono small">sample records of this project</td></tr>
-<tr><td>People</td><td><span class="pend">not identifiable in the deposited records</span></td><td class="muted mono small">no sample attribute names a subject, patient or participant</td></tr>
-<tr><td>Timepoints</td><td>3 distinct labels</td><td class="muted mono small">timepoint_label · from the sample attribute naming the visit or day</td></tr>
-
-
-<tr><td>Groups compared</td><td>Obesity / overweight (3)</td><td class="muted mono small">health_condition · mapped from the sample's disease / group attribute</td></tr>
-</table>
-<p class="note small"><b>Check:</b> the paper states 1 participants, but no variable in the deposited records says which samples came from the same person, so the 3 samples cannot be grouped by participant here.</p>
-
-</section>
 
 
 <section class="pg-sec" id="living">
@@ -111,17 +115,6 @@
 </section>
 
 
-
-
-<section class="pg-sec" id="design">
-<div class="pg-label">Sampling design and relatedness</div>
-<p class="dz-badges"><span class="dzb lg unres" title="Longitudinal, not resolved: the source describes repeated sampling, but which samples belong to the same person and/or the time between them is not known yet, so no timeline can be drawn">longitudinal — not resolved</span></p>
-<p class="small">
- Schedule stated by the source: “Same runner sampled 7 days before race (T0), ~10-15 min after race finish (T1), and 7 days after race finish (T2).” (time origin: other (race finish/completion)); stated follow-up 14 d.</p>
-
-
-<p class="small muted"><a href="../about/value_sources.html#design">How longitudinal and relatedness information is derived</a></p>
-</section>
 
 
 <section class="pg-sec" id="composition">

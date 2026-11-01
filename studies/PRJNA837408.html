@@ -50,13 +50,21 @@
 <p class="pg-links"><a href="https://www.ebi.ac.uk/ena/browser/view/PRJNA837408">ENA</a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA837408">BioProject</a><a href="../samples/index.html?q=PRJNA837408">Sample sheet</a><a href="../registry/index.html?study=PRJNA837408">Registry</a><a href="#downloads">Download</a><a class="flag" href="https://github.com/OlmLab/microbiome_repo/issues/new?template=simple-finding.yml&amp;labels=finding&amp;title=%5Bfinding%5D%20PRJNA837408&amp;accession=PRJNA837408&amp;release_id=R2026.32&amp;page_url=https%3A%2F%2Fmicrobiomerepo.com%2Fstudies%2FPRJNA837408.html">Flag an issue</a></p>
 </header>
 
+<section class="pg-sec" id="study-design">
+<div class="pg-label">Study design</div>
+<div class="ds-card"><div class="ds-head"><span class="ds-type">Cross-sectional comparison of groups</span><span class="ds-src" title="Where the design type comes from">read from the paper</span></div><div class="ds-help">groups sampled once and compared</div><p class="ds-sent"><b>5</b> samples (which samples share a person is not recorded), all healthy; sampled at: skin.</p><div class="ds-checks-h">Paper and data checks</div><ul class="ds-checks"><li><span class="ds-ck warn">!</span><span>The paper states 8 participants, but no variable says which samples came from the same person, so the samples cannot be grouped by participant.</span></li><li><span class="ds-ck warn">!</span><span>The source compares groups, but no sample variable says which group each sample belongs to (every sample with a value reads “Healthy / control”).</span></li></ul><details class="ds-more" open><summary>Which variables the design is drawn from</summary><table class="ds-el"><tr><th>Design element</th><th>Field</th><th>Comes from</th><th>Samples</th></tr><tr><td>Person</td><td><span class="ds-var" title="subject_id">subject_id</span></td><td class="ds-from"><span class="ds-none">not recorded</span></td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:0%"></i></span>0 / 5</td></tr><tr><td>Group / condition</td><td><span class="ds-var" title="the paper&#x27;s methods: 5 values">health_condition</span></td><td class="ds-from">the paper&#x27;s methods</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>5 / 5</td></tr><tr><td>Body site</td><td><span class="ds-var" title="body_site_code: from each sample record, or the project-level site when the project has a single one">body_site_code</span></td><td class="ds-from">each sample&#x27;s own record</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>5 / 5</td></tr><tr><td>Collection date</td><td><span class="ds-var" title="archive attribute ‘collection_date’: 5 values">collection_date</span></td><td class="ds-from">archive attribute ‘collection_date’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>5 / 5</td></tr></table></details><p class="small muted" style="margin:.5rem 0 0"><a href="../about/value_sources.html#design-block">How this block is assembled</a></p></div>
+</section>
+
+
+
+
+
 <section class="pg-sec" id="sources">
 <div class="pg-label">Sources</div>
 <div class="srcrow"><span class="srcitem used" title="Sequence archive: 10 sample values (collection date, country)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">10</span></span><span class="srcitem checked" title="Abstract / description: read; no usable statement"><span class="srcmk c">○</span>Abstract / description</span><span class="srcitem used" title="Full text: 10 sample values (health condition, location site) · PMC9389210"><span class="srcmk u">✓</span>Full text <span class="muted">10</span></span><span class="srcitem none" title="Supplementary tables: no supplementary tables available (or none open access)"><span class="srcmk n">–</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
 <p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA837408&amp;accession=PRJNA837408&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
 <details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>10 sample values (collection date, country)</td></tr><tr><td><span class="srcmk c">○</span> Abstract / description</td><td>read; no usable statement</td></tr><tr><td><span class="srcmk u">✓</span> Full text</td><td>10 sample values (health condition, location site) · <span class="mono">PMC9389210</span></td></tr><tr><td><span class="srcmk n">–</span> Supplementary tables</td><td>no supplementary tables available (or none open access)</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet</td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA837408&amp;accession=PRJNA837408&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
 </section>
-
 
 
 <section class="pg-sec">
@@ -76,21 +84,6 @@
 </div>
 <div class="sparks"><div><div class="dist-h">Collection year</div><p class="glance-one">All 5 dated samples were collected in <b>2020</b>.</p></div><div><div class="dist-h" title="Bases sequenced per sample, summed over its runs; linear scale">Sequencing depth per sample</div><p class="glance-one">5 samples, sequenced to <b>6, 6, 6, 6, 6 Gbp</b> (median 6 Gbp).</p><div class="gc-cap">Catalog median 2.96 Gbp (72 % of all catalog samples are shallower than this project's median)</div></div></div>
 </div></div>
-</section>
-
-<section class="pg-sec" id="study-design">
-<div class="pg-label">Study design</div>
-<p class="pg-facts"><b>cross sectional groups</b> · <b>8</b> participants stated by the paper</p>
-<table class="livtbl"><tr><th>What the data show</th><th>Value</th><th>Which variable says so</th></tr>
-<tr><td>Samples</td><td>5</td><td class="muted mono small">sample records of this project</td></tr>
-<tr><td>People</td><td><span class="pend">not identifiable in the deposited records</span></td><td class="muted mono small">no sample attribute names a subject, patient or participant</td></tr>
-
-
-
-<tr><td>Groups compared</td><td>Healthy / control (5)</td><td class="muted mono small">health_condition · mapped from the sample's disease / group attribute</td></tr>
-</table>
-<p class="note small"><b>Check:</b> the paper states 8 participants, but no variable in the deposited records says which samples came from the same person, so the 5 samples cannot be grouped by participant here.</p>
-
 </section>
 
 

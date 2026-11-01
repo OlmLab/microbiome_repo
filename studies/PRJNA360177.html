@@ -50,11 +50,9 @@
 <p class="pg-links"><a href="https://www.ebi.ac.uk/ena/browser/view/PRJNA360177">ENA</a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA360177">BioProject</a><a href="../samples/index.html?q=PRJNA360177">Sample sheet</a><a href="../registry/index.html?study=PRJNA360177">Registry</a><a href="#downloads">Download</a><a class="flag" href="https://github.com/OlmLab/microbiome_repo/issues/new?template=simple-finding.yml&amp;labels=finding&amp;title=%5Bfinding%5D%20PRJNA360177&amp;accession=PRJNA360177&amp;release_id=R2026.32&amp;page_url=https%3A%2F%2Fmicrobiomerepo.com%2Fstudies%2FPRJNA360177.html">Flag an issue</a></p>
 </header>
 
-<section class="pg-sec" id="sources">
-<div class="pg-label">Sources</div>
-<div class="srcrow"><span class="srcitem used" title="Sequence archive: 48 sample values (age, collection date, country, health condition, health condition detail, latitude, location locality, location region)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">48</span></span><span class="srcitem used" title="Abstract / description: 8 sample values (lifestyle, lifestyle detail)"><span class="srcmk u">✓</span>Abstract / description <span class="muted">8</span></span><span class="srcitem none" title="Full text: no open-access full text linked"><span class="srcmk n">–</span>Full text</span><span class="srcitem none" title="Supplementary tables: no supplementary tables available (or none open access)"><span class="srcmk n">–</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
-<p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA360177&amp;accession=PRJNA360177&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
-<details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>48 sample values (age, collection date, country, health condition, health condition detail, latitude, location locality, location region)</td></tr><tr><td><span class="srcmk u">✓</span> Abstract / description</td><td>8 sample values (lifestyle, lifestyle detail)</td></tr><tr><td><span class="srcmk n">–</span> Full text</td><td>no open-access full text linked</td></tr><tr><td><span class="srcmk n">–</span> Supplementary tables</td><td>no supplementary tables available (or none open access)</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet</td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA360177&amp;accession=PRJNA360177&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
+<section class="pg-sec" id="study-design">
+<div class="pg-label">Study design</div>
+<div class="ds-card"><div class="ds-head"><span class="ds-type">Longitudinal cohort</span><span class="ds-src" title="Where the design type comes from">inferred from the sample variables</span></div><div class="ds-help">no design statement was read from a paper; this is what the sample variables show</div><p class="ds-sent"><b>2</b> adults, all healthy; <b>2</b> sampled more than once (median 2, up to 2 samples per person), followed for a median of 33 days; sampled at: gut / stool.</p><div class="ds-checks-h">Paper and data checks</div><ul class="ds-checks"><li><span class="ds-ck warn">!</span><span>The study gave an intervention (single arm before after), but only 0 % of samples say which arm they belong to.</span></li></ul><details class="ds-more" open><summary>Which variables the design is drawn from</summary><table class="ds-el"><tr><th>Design element</th><th>Field</th><th>Comes from</th><th>Samples</th></tr><tr><td>Person</td><td><span class="ds-var" title="a naming rule on the sample library names: 4 values">subject_id</span></td><td class="ds-from">a naming rule on the sample library names</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>4 / 4</td></tr><tr><td>Group / condition</td><td><span class="ds-var" title="archive attribute ‘gastrointest_disord’: 4 values">health_condition</span></td><td class="ds-from">archive attribute ‘gastrointest_disord’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>4 / 4</td></tr><tr><td>Body site</td><td><span class="ds-var" title="body_site_code: from each sample record, or the project-level site when the project has a single one">body_site_code</span></td><td class="ds-from">each sample&#x27;s own record</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>4 / 4</td></tr><tr><td>Age at sampling</td><td><span class="ds-var" title="archive attribute ‘host_age’: 4 values">age_at_collection_days</span></td><td class="ds-from">archive attribute ‘host_age’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>4 / 4</td></tr><tr><td>Time point</td><td><span class="ds-var" title="a naming rule on the sample library names: 4 values">timepoint_label</span></td><td class="ds-from">a naming rule on the sample library names</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>4 / 4</td></tr><tr><td>Collection date</td><td><span class="ds-var" title="archive attribute ‘collection_date’: 4 values">collection_date</span></td><td class="ds-from">archive attribute ‘collection_date’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>4 / 4</td></tr></table></details><p class="small muted" style="margin:.5rem 0 0"><a href="../about/value_sources.html#design-block">How this block is assembled</a></p></div>
 </section>
 
 
@@ -64,6 +62,26 @@
 
 <p><span class="tag incat">Other administered intervention (see intervention_detail)</span> <span class="muted">design</span> <span class="mono">single_arm_before_after</span> · <span class="muted">population</span> <span class="mono">healthy_control</span> · <span class="small">Simulated 33-day space capsule confinement, sampled before and after</span></p>
 <p class="small muted">“lived in a high-fidelity ground simulation of a space capsule” — bioproject.description (study level; per-sample arms are in the intervention column below)</p>
+</section>
+
+
+
+<section class="pg-sec" id="design">
+<div class="pg-label">Sampling design and relatedness</div>
+<p class="dz-badges"><span class="dzb lg" title="Longitudinal, resolved: the same people were sampled more than once and the time between each person's samples is known (timeline below)">longitudinal</span></p>
+<p class="small"><b>2</b> of 2 people sampled more than once (4 samples; median 2, up to 2 per person) · follow-up median <b>33 d</b> (max 33 d) · median interval between samples <b>33 d</b> <span class="muted">(time from collection dates)</span>.
+</p>
+<div class="tline-box"><svg class="tline" viewBox="0 0 640 50" width="100%" role="img" aria-label="Sampling timeline of 2 people"><text x="86" y="14.5" text-anchor="end" font-size="8" fill="#565A5C">A</text><line x1="92.0" x2="628.0" y1="11.5" y2="11.5" stroke="#565A5C" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="92.0" cy="11.5" r="2.6" fill="#565A5C"><title>A: day 0</title></circle><circle cx="628.0" cy="11.5" r="2.6" fill="#565A5C"><title>A: day 33</title></circle><text x="86" y="25.5" text-anchor="end" font-size="8" fill="#565A5C">B</text><line x1="92.0" x2="628.0" y1="22.5" y2="22.5" stroke="#565A5C" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="92.0" cy="22.5" r="2.6" fill="#565A5C"><title>B: day 0</title></circle><circle cx="628.0" cy="22.5" r="2.6" fill="#565A5C"><title>B: day 33</title></circle><text x="92.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">0 d</text><text x="226.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">8 d</text><text x="360.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">16 d</text><text x="494.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">25 d</text><text x="628.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">33 d</text></svg></div><p class="small muted">Each row is one person (2 shown); dots are samples at days since that person's first sample.</p>
+
+<p class="small muted"><a href="../about/value_sources.html#design">How longitudinal and relatedness information is derived</a></p>
+</section>
+
+
+<section class="pg-sec" id="sources">
+<div class="pg-label">Sources</div>
+<div class="srcrow"><span class="srcitem used" title="Sequence archive: 48 sample values (age, collection date, country, health condition, health condition detail, latitude, location locality, location region)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">48</span></span><span class="srcitem used" title="Abstract / description: 8 sample values (lifestyle, lifestyle detail)"><span class="srcmk u">✓</span>Abstract / description <span class="muted">8</span></span><span class="srcitem none" title="Full text: no open-access full text linked"><span class="srcmk n">–</span>Full text</span><span class="srcitem none" title="Supplementary tables: no supplementary tables available (or none open access)"><span class="srcmk n">–</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
+<p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA360177&amp;accession=PRJNA360177&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
+<details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>48 sample values (age, collection date, country, health condition, health condition detail, latitude, location locality, location region)</td></tr><tr><td><span class="srcmk u">✓</span> Abstract / description</td><td>8 sample values (lifestyle, lifestyle detail)</td></tr><tr><td><span class="srcmk n">–</span> Full text</td><td>no open-access full text linked</td></tr><tr><td><span class="srcmk n">–</span> Supplementary tables</td><td>no supplementary tables available (or none open access)</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet</td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA360177&amp;accession=PRJNA360177&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
 </section>
 
 
@@ -88,34 +106,9 @@
 </div></div>
 </section>
 
-<section class="pg-sec" id="study-design">
-<div class="pg-label">Study design</div>
-<p class="pg-facts"><b>2</b> people identifiable in the data · <b>2</b> distinct timepoint labels</p>
-<table class="livtbl"><tr><th>What the data show</th><th>Value</th><th>Which variable says so</th></tr>
-<tr><td>Samples</td><td>4</td><td class="muted mono small">sample records of this project</td></tr>
-<tr><td>People</td><td>2 · 2.0 samples per person</td><td class="muted mono small">subject_id · from the sample attribute naming the person</td></tr>
-<tr><td>Timepoints</td><td>2 distinct labels</td><td class="muted mono small">timepoint_label · from the sample attribute naming the visit or day</td></tr>
-
-
-<tr><td>Groups compared</td><td>Healthy / control (4)</td><td class="muted mono small">health_condition · mapped from the sample's disease / group attribute</td></tr>
-</table>
-
-
-</section>
 
 
 
-
-
-<section class="pg-sec" id="design">
-<div class="pg-label">Sampling design and relatedness</div>
-<p class="dz-badges"><span class="dzb lg" title="Longitudinal, resolved: the same people were sampled more than once and the time between each person's samples is known (timeline below)">longitudinal</span></p>
-<p class="small"><b>2</b> of 2 people sampled more than once (4 samples; median 2, up to 2 per person) · follow-up median <b>33 d</b> (max 33 d) · median interval between samples <b>33 d</b> <span class="muted">(time from collection dates)</span>.
-</p>
-<div class="tline-box"><svg class="tline" viewBox="0 0 640 50" width="100%" role="img" aria-label="Sampling timeline of 2 people"><text x="86" y="14.5" text-anchor="end" font-size="8" fill="#565A5C">A</text><line x1="92.0" x2="628.0" y1="11.5" y2="11.5" stroke="#565A5C" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="92.0" cy="11.5" r="2.6" fill="#565A5C"><title>A: day 0</title></circle><circle cx="628.0" cy="11.5" r="2.6" fill="#565A5C"><title>A: day 33</title></circle><text x="86" y="25.5" text-anchor="end" font-size="8" fill="#565A5C">B</text><line x1="92.0" x2="628.0" y1="22.5" y2="22.5" stroke="#565A5C" stroke-opacity="0.45" stroke-width="1.5"/><circle cx="92.0" cy="22.5" r="2.6" fill="#565A5C"><title>B: day 0</title></circle><circle cx="628.0" cy="22.5" r="2.6" fill="#565A5C"><title>B: day 33</title></circle><text x="92.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">0 d</text><text x="226.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">8 d</text><text x="360.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">16 d</text><text x="494.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">25 d</text><text x="628.0" y="42" text-anchor="middle" font-size="8" fill="#565A5C">33 d</text></svg></div><p class="small muted">Each row is one person (2 shown); dots are samples at days since that person's first sample.</p>
-
-<p class="small muted"><a href="../about/value_sources.html#design">How longitudinal and relatedness information is derived</a></p>
-</section>
 
 
 <section class="pg-sec" id="composition">

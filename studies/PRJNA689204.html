@@ -50,13 +50,21 @@
 <p class="pg-links"><a href="https://www.ebi.ac.uk/ena/browser/view/PRJNA689204">ENA</a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA689204">BioProject</a><a href="../samples/index.html?q=PRJNA689204">Sample sheet</a><a href="../registry/index.html?study=PRJNA689204">Registry</a><a href="#downloads">Download</a><a class="flag" href="https://github.com/OlmLab/microbiome_repo/issues/new?template=simple-finding.yml&amp;labels=finding&amp;title=%5Bfinding%5D%20PRJNA689204&amp;accession=PRJNA689204&amp;release_id=R2026.32&amp;page_url=https%3A%2F%2Fmicrobiomerepo.com%2Fstudies%2FPRJNA689204.html">Flag an issue</a></p>
 </header>
 
+<section class="pg-sec" id="study-design">
+<div class="pg-label">Study design</div>
+<div class="ds-card"><div class="ds-head"><span class="ds-type">Cross-sectional comparison of groups</span><span class="ds-src" title="Where the design type comes from">read from the paper</span></div><div class="ds-help">groups sampled once and compared</div><p class="ds-sent"><b>3</b> adults, all healthy; one sample per person; sampled at: gut / stool.</p><div class="ds-checks-h">Paper and data checks</div><ul class="ds-checks"><li><span class="ds-ck warn">!</span><span>Participants: paper 68 · distinct people in the samples 3 (-65); fewer people were sequenced than enrolled, or the person identifier is missing for part of the samples.</span></li><li><span class="ds-ck warn">!</span><span>The source compares groups, but no sample variable says which group each sample belongs to (every sample with a value reads “Healthy / control”).</span></li></ul><details class="ds-more" open><summary>Which variables the design is drawn from</summary><table class="ds-el"><tr><th>Design element</th><th>Field</th><th>Comes from</th><th>Samples</th></tr><tr><td>Person</td><td><span class="ds-var" title="generated: the fulltext says one sample per person: 3 values">subject_id</span></td><td class="ds-from">generated: the fulltext says one sample per person</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr><tr><td>Group / condition</td><td><span class="ds-var" title="the paper&#x27;s methods: 3 values">health_condition</span></td><td class="ds-from">the paper&#x27;s methods</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr><tr><td>Body site</td><td><span class="ds-var" title="body_site_code: from each sample record, or the project-level site when the project has a single one">body_site_code</span></td><td class="ds-from">each sample&#x27;s own record</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr><tr><td>Collection date</td><td><span class="ds-var" title="archive attribute ‘collection_date’: 3 values">collection_date</span></td><td class="ds-from">archive attribute ‘collection_date’</td><td style="white-space:nowrap"><span class="ds-cov"><i style="width:100%"></i></span>3 / 3</td></tr></table></details><p class="small muted" style="margin:.5rem 0 0"><a href="../about/value_sources.html#design-block">How this block is assembled</a></p></div>
+</section>
+
+
+
+
+
 <section class="pg-sec" id="sources">
 <div class="pg-label">Sources</div>
 <div class="srcrow"><span class="srcitem used" title="Sequence archive: 15 sample values (collection date, country, latitude, location region, longitude)"><span class="srcmk u">✓</span>Sequence archive <span class="muted">15</span></span><span class="srcitem checked" title="Abstract / description: read; no usable statement"><span class="srcmk c">○</span>Abstract / description</span><span class="srcitem used" title="Full text: 9 sample values (health condition, health condition detail, subject id) · PMC8789378"><span class="srcmk u">✓</span>Full text <span class="muted">9</span></span><span class="srcitem checked" title="Supplementary tables: files read; no table could be matched to the samples"><span class="srcmk c">○</span>Supplementary tables</span><span class="srcitem none" title="External resources: not covered by the external resources we ingest"><span class="srcmk n">–</span>External resources</span><span class="srcitem none" title="User contribution: nothing uploaded yet"><span class="srcmk n">–</span>User contribution</span><span class="srcitem none" title="Human verified: not yet checked by a person"><span class="srcmk n">–</span>Human verified</span></div>
 <p class="small muted">Checked this project's papers and archive records yourself? <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA689204&amp;accession=PRJNA689204&amp;release_id=R2026.32">Mark it human-verified</a>.</p>
 <details class="pg-more"><summary>what each source gave</summary><table class="tbl small compact"><tr><td><span class="srcmk u">✓</span> Sequence archive</td><td>15 sample values (collection date, country, latitude, location region, longitude)</td></tr><tr><td><span class="srcmk c">○</span> Abstract / description</td><td>read; no usable statement</td></tr><tr><td><span class="srcmk u">✓</span> Full text</td><td>9 sample values (health condition, health condition detail, subject id) · <span class="mono">PMC8789378</span></td></tr><tr><td><span class="srcmk c">○</span> Supplementary tables</td><td>files read; no table could be matched to the samples</td></tr><tr><td><span class="srcmk n">–</span> External resources</td><td>not covered by the external resources we ingest</td></tr><tr><td><span class="srcmk n">–</span> User contribution</td><td>nothing uploaded yet</td></tr><tr><td><span class="srcmk n">–</span> Human verified</td><td>not yet checked by a person · <a href="https://github.com/OlmLab/microbiome_repo/issues/new?template=verify-metadata.yml&amp;labels=metadata-verified&amp;title=%5Bverified%5D%20PRJNA689204&amp;accession=PRJNA689204&amp;release_id=R2026.32">I checked this project — verify it</a></td></tr></table></details>
 </section>
-
 
 
 <section class="pg-sec">
@@ -78,20 +86,6 @@
 </div></div>
 </section>
 
-<section class="pg-sec" id="study-design">
-<div class="pg-label">Study design</div>
-<p class="pg-facts"><b>cross sectional groups</b> · <b>68</b> participants stated by the paper · <b>3</b> people identifiable in the data</p>
-<table class="livtbl"><tr><th>What the data show</th><th>Value</th><th>Which variable says so</th></tr>
-<tr><td>Samples</td><td>3</td><td class="muted mono small">sample records of this project</td></tr>
-<tr><td>People</td><td>3</td><td class="muted mono small">subject_id · from the sample attribute naming the person</td></tr>
-
-
-
-<tr><td>Groups compared</td><td>Healthy / control (3)</td><td class="muted mono small">health_condition · mapped from the sample's disease / group attribute</td></tr>
-</table>
-
-<p class="note small"><b>Check:</b> the paper states 68 participants, but 3 people can be told apart in the deposited records. The difference usually means some participants were not sequenced, or the person identifier is missing for part of the samples.</p>
-</section>
 
 
 <section class="pg-sec" id="living">
@@ -99,7 +93,6 @@
 <table class="livtbl"><tr><th>Field</th><th>Value</th><th>Scale</th><th>From</th></tr><tr><td>Recruitment setting</td><td>community_household</td><td><span class="scale cohort">cohort</span></td><td class="muted">paper, methods</td></tr><tr><td>Settlement type</td><td><span class=pend>not stated by this project</span></td><td><span class="scale place">place</span></td><td class="muted">paper, methods</td></tr><tr><td>Places named below country</td><td>1 place</td><td><span class="scale place">place</span></td><td class="muted">paper, methods</td></tr><tr><td>Lifestyle</td><td><span class=pend>not stated by this project</span></td><td><span class="scale cohort">cohort</span></td><td class="muted">paper, checked against the lifestyle vocabulary</td></tr><tr><td>Routine faecal–oral exposure items</td><td><span class=pend>not stated by this project</span></td><td><span class="scale cohort">cohort</span></td><td class="muted">paper, with a quote per item</td></tr></table><p class="small muted" style="margin:.35rem 0 0">Scale says what the value describes: this person, a group or arm, the whole cohort, or the sampling place.</p>
 
 </section>
-
 
 
 
