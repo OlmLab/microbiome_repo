@@ -1,0 +1,73 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN25888891,PRJNA806510,C1,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,9.792
+SAMN25888930,PRJNA806510,C1,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.726
+SAMN25888937,PRJNA806510,C104,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.176
+SAMN25888898,PRJNA806510,C104,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.981
+SAMN37155421,PRJNA806510,C107,the responder (after metformin treatment),adult,19358.2,female,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2020-04,primary,1.0,10.428
+SAMN37155420,PRJNA806510,C107,the responder (before metformin treatment),adult,19358.2,female,CN,type2_diabetes,Type 2 Diabetes Mellitus,no_intervention,,,2020-01,primary,1.0,11.504
+SAMN25888899,PRJNA806510,C108,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.098
+SAMN25888938,PRJNA806510,C108,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.858
+SAMN25888900,PRJNA806510,C118,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,11.997
+SAMN25888939,PRJNA806510,C118,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,11.005
+SAMN25888940,PRJNA806510,C120,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,12.671
+SAMN25888901,PRJNA806510,C120,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,9.953
+SAMN25888892,PRJNA806510,C19,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.541
+SAMN25888931,PRJNA806510,C19,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.456
+SAMN25888893,PRJNA806510,C34,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.042
+SAMN25888932,PRJNA806510,C34,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.934
+SAMN25888894,PRJNA806510,C45,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.495
+SAMN25888933,PRJNA806510,C45,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,13.464
+SAMN25888864,PRJNA806510,C49,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.629
+SAMN25888903,PRJNA806510,C49,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.047
+SAMN25888934,PRJNA806510,C76,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,9.949
+SAMN25888895,PRJNA806510,C76,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,11.245
+SAMN25888896,PRJNA806510,C77,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,9.927
+SAMN25888935,PRJNA806510,C77,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.812
+SAMN25888897,PRJNA806510,C99,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.411
+SAMN25888936,PRJNA806510,C99,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.978
+SAMN25888882,PRJNA806510,F101,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,12.157
+SAMN25888921,PRJNA806510,F101,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,11.426
+SAMN25888883,PRJNA806510,F121,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,13.532
+SAMN25888922,PRJNA806510,F121,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.968
+SAMN25888867,PRJNA806510,F14,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.112
+SAMN25888906,PRJNA806510,F14,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.832
+SAMN25888904,PRJNA806510,F2,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.246
+SAMN25888865,PRJNA806510,F2,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,11.919
+SAMN25888868,PRJNA806510,F20,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,9.863
+SAMN25888907,PRJNA806510,F20,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,11.525
+SAMN25888869,PRJNA806510,F22,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.73
+SAMN25888908,PRJNA806510,F22,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.206
+SAMN25888909,PRJNA806510,F33,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.239
+SAMN25888870,PRJNA806510,F33,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.476
+SAMN25888871,PRJNA806510,F41,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.375
+SAMN25888910,PRJNA806510,F41,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.478
+SAMN25888872,PRJNA806510,F58,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,9.846
+SAMN25888911,PRJNA806510,F58,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.754
+SAMN25888873,PRJNA806510,F62,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,11.197
+SAMN25888912,PRJNA806510,F62,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.413
+SAMN25888876,PRJNA806510,F72,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,9.867
+SAMN25888915,PRJNA806510,F72,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.714
+SAMN25888877,PRJNA806510,F86,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,14.548
+SAMN25888916,PRJNA806510,F86,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.513
+SAMN25888919,PRJNA806510,F90,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.807
+SAMN25888880,PRJNA806510,F90,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,9.738
+SAMN25888881,PRJNA806510,F91,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,11.166
+SAMN25888920,PRJNA806510,F91,,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,,,,,primary,1.0,10.504
+SAMN25888889,PRJNA806510,S103,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.377
+SAMN37155427,PRJNA806510,S103,the responder (after metformin treatment),adult,22280.2,female,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2020-03,primary,1.0,10.559
+SAMN25888890,PRJNA806510,S110,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.706
+SAMN37155426,PRJNA806510,S110,the responder (after metformin treatment),adult,14239.8,male,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2020-04,primary,1.0,10.812
+SAMN25888884,PRJNA806510,S18,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.602
+SAMN25888923,PRJNA806510,S18,3,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.366
+SAMN25888902,PRJNA806510,S26,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.222
+SAMN25888941,PRJNA806510,S26,2,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.634
+SAMN37155419,PRJNA806510,S4,the non-responder (after metformin treatment),adult,17897.2,male,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2019-08,primary,1.0,12.065
+SAMN37155418,PRJNA806510,S4,the non-responder (before metformin treatment),adult,17897.2,male,CN,type2_diabetes,Type 2 Diabetes Mellitus,no_intervention,,,2019-05,primary,1.0,10.495
+SAMN25888886,PRJNA806510,S42,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.952
+SAMN25888925,PRJNA806510,S42,3,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,drug_therapy,,,,primary,1.0,10.21
+SAMN37155423,PRJNA806510,S46,the responder (after metformin treatment),adult,19706.0,female,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2019-09,primary,1.0,10.595
+SAMN37155422,PRJNA806510,S46,the responder (before metformin treatment),adult,19706.0,female,CN,type2_diabetes,Type 2 Diabetes Mellitus,no_intervention,,,2019-06,primary,1.0,11.615
+SAMN25888887,PRJNA806510,S61,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.057
+SAMN37155425,PRJNA806510,S61,the responder (after metformin treatment),adult,17532.0,male,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2019-10,primary,1.0,12.112
+SAMN25888888,PRJNA806510,S78,1,adult,,,CN,type2_diabetes,newly diagnosed type 2 diabetes mellitus treated with metformin monotherapy,no_intervention,,,,primary,1.0,10.074
+SAMN37155424,PRJNA806510,S78,the responder (after metformin treatment),adult,22280.2,male,CN,type2_diabetes,Type 2 Diabetes Mellitus,drug_therapy,,,2019-11,primary,1.0,10.498

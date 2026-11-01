@@ -1,0 +1,429 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMD00652510,PRJDB16790,AAA10_1,,,,,JP,other_disease,AAA,,,,2019-03-02,primary,1.0,2.103
+SAMD00652511,PRJDB16790,AAA10_2,,,,,JP,other_disease,AAA,,,,2019-03-02,primary,1.0,3.182
+SAMD00652512,PRJDB16790,AAA10_3,,,,,JP,other_disease,AAA,,,,2019-03-02,primary,1.0,3.214
+SAMD00652513,PRJDB16790,AAA10_4,,,,,JP,other_disease,AAA,,,,2019-03-02,primary,1.0,3.058
+SAMD00652514,PRJDB16790,AAA11_1,,,,,JP,other_disease,AAA,,,,2019-05-29,primary,1.0,3.972
+SAMD00652515,PRJDB16790,AAA11_2,,,,,JP,other_disease,AAA,,,,2019-05-29,primary,1.0,3.502
+SAMD00652516,PRJDB16790,AAA11_3,,,,,JP,other_disease,AAA,,,,2019-05-29,primary,1.0,3.533
+SAMD00652517,PRJDB16790,AAA11_4,,,,,JP,other_disease,AAA,,,,2019-05-29,primary,1.0,3.365
+SAMD00652518,PRJDB16790,AAA12_1,,,,,JP,other_disease,AAA,,,,2019-06-05,primary,1.0,3.116
+SAMD00652519,PRJDB16790,AAA12_2,,,,,JP,other_disease,AAA,,,,2019-06-05,primary,1.0,3.348
+SAMD00652520,PRJDB16790,AAA12_3,,,,,JP,other_disease,AAA,,,,2019-06-05,primary,1.0,3.372
+SAMD00652521,PRJDB16790,AAA12_4,,,,,JP,other_disease,AAA,,,,2019-06-05,primary,1.0,3.211
+SAMD00652522,PRJDB16790,AAA13_1,,,,,JP,other_disease,AAA,,,,2019-06-04,primary,1.0,3.051
+SAMD00652523,PRJDB16790,AAA13_2,,,,,JP,other_disease,AAA,,,,2019-06-04,primary,1.0,2.887
+SAMD00652524,PRJDB16790,AAA13_3,,,,,JP,other_disease,AAA,,,,2019-06-04,primary,1.0,2.912
+SAMD00652525,PRJDB16790,AAA13_4,,,,,JP,other_disease,AAA,,,,2019-06-04,primary,1.0,2.741
+SAMD00652526,PRJDB16790,AAA14_1,,,,,JP,other_disease,AAA,,,,2019-07-27,primary,1.0,3.206
+SAMD00652527,PRJDB16790,AAA14_2,,,,,JP,other_disease,AAA,,,,2019-07-27,primary,1.0,3.448
+SAMD00652528,PRJDB16790,AAA14_3,,,,,JP,other_disease,AAA,,,,2019-07-27,primary,1.0,3.481
+SAMD00652529,PRJDB16790,AAA14_4,,,,,JP,other_disease,AAA,,,,2019-07-27,primary,1.0,3.265
+SAMD00652530,PRJDB16790,AAA15_1,,,,,JP,other_disease,AAA,,,,2019-07-09,primary,1.0,3.631
+SAMD00652531,PRJDB16790,AAA15_2,,,,,JP,other_disease,AAA,,,,2019-07-09,primary,1.0,3.537
+SAMD00652532,PRJDB16790,AAA15_3,,,,,JP,other_disease,AAA,,,,2019-07-09,primary,1.0,3.566
+SAMD00652533,PRJDB16790,AAA15_4,,,,,JP,other_disease,AAA,,,,2019-07-09,primary,1.0,3.353
+SAMD00652534,PRJDB16790,AAA16_1,,,,,JP,other_disease,AAA,,,,2019-07-25,primary,1.0,3.428
+SAMD00652535,PRJDB16790,AAA16_2,,,,,JP,other_disease,AAA,,,,2019-07-25,primary,1.0,3.117
+SAMD00652536,PRJDB16790,AAA16_3,,,,,JP,other_disease,AAA,,,,2019-07-25,primary,1.0,3.145
+SAMD00652537,PRJDB16790,AAA16_4,,,,,JP,other_disease,AAA,,,,2019-07-25,primary,1.0,2.957
+SAMD00652538,PRJDB16790,AAA17_1,,,,,JP,other_disease,AAA,,,,2019-08-16,primary,1.0,2.692
+SAMD00652539,PRJDB16790,AAA17_2,,,,,JP,other_disease,AAA,,,,2019-08-16,primary,1.0,2.882
+SAMD00652540,PRJDB16790,AAA17_3,,,,,JP,other_disease,AAA,,,,2019-08-16,primary,1.0,2.908
+SAMD00652541,PRJDB16790,AAA17_4,,,,,JP,other_disease,AAA,,,,2019-08-16,primary,1.0,2.782
+SAMD00652542,PRJDB16790,AAA18_1,,,,,JP,other_disease,AAA,,,,2019-08-29,primary,1.0,3.93
+SAMD00652543,PRJDB16790,AAA18_2,,,,,JP,other_disease,AAA,,,,2019-08-29,primary,1.0,3.21
+SAMD00652544,PRJDB16790,AAA18_3,,,,,JP,other_disease,AAA,,,,2019-08-29,primary,1.0,3.241
+SAMD00652545,PRJDB16790,AAA18_4,,,,,JP,other_disease,AAA,,,,2019-08-29,primary,1.0,3.077
+SAMD00652546,PRJDB16790,AAA19_1,,,,,JP,other_disease,AAA,,,,2019-09-26,primary,1.0,3.303
+SAMD00652547,PRJDB16790,AAA19_2,,,,,JP,other_disease,AAA,,,,2019-09-26,primary,1.0,3.165
+SAMD00652548,PRJDB16790,AAA19_3,,,,,JP,other_disease,AAA,,,,2019-09-26,primary,1.0,3.191
+SAMD00652549,PRJDB16790,AAA19_4,,,,,JP,other_disease,AAA,,,,2019-09-26,primary,1.0,3.033
+SAMD00652474,PRJDB16790,AAA1_1,,,,,JP,other_disease,AAA,,,,2019-03-01,primary,1.0,5.393
+SAMD00652475,PRJDB16790,AAA1_2,,,,,JP,other_disease,AAA,,,,2019-03-01,primary,1.0,4.36
+SAMD00652476,PRJDB16790,AAA1_3,,,,,JP,other_disease,AAA,,,,2019-03-01,primary,1.0,4.427
+SAMD00652477,PRJDB16790,AAA1_4,,,,,JP,other_disease,AAA,,,,2019-03-01,primary,1.0,4.169
+SAMD00652550,PRJDB16790,AAA20_1,,,,,JP,other_disease,AAA,,,,2016-09-01,primary,1.0,3.471
+SAMD00652551,PRJDB16790,AAA20_2,,,,,JP,other_disease,AAA,,,,2016-09-01,primary,1.0,3.297
+SAMD00652552,PRJDB16790,AAA20_3,,,,,JP,other_disease,AAA,,,,2016-09-01,primary,1.0,3.342
+SAMD00652553,PRJDB16790,AAA20_4,,,,,JP,other_disease,AAA,,,,2016-09-01,primary,1.0,3.123
+SAMD00652554,PRJDB16790,AAA21_1,,,,,JP,other_disease,AAA,,,,2019-11-18,primary,1.0,3.505
+SAMD00652555,PRJDB16790,AAA21_2,,,,,JP,other_disease,AAA,,,,2019-11-18,primary,1.0,3.266
+SAMD00652556,PRJDB16790,AAA21_3,,,,,JP,other_disease,AAA,,,,2019-11-18,primary,1.0,3.3
+SAMD00652557,PRJDB16790,AAA21_4,,,,,JP,other_disease,AAA,,,,2019-11-18,primary,1.0,3.123
+SAMD00652558,PRJDB16790,AAA22_1,,,,,JP,other_disease,AAA,,,,2019-10-10,primary,1.0,2.881
+SAMD00652559,PRJDB16790,AAA22_2,,,,,JP,other_disease,AAA,,,,2019-10-10,primary,1.0,3.074
+SAMD00652560,PRJDB16790,AAA22_3,,,,,JP,other_disease,AAA,,,,2019-10-10,primary,1.0,3.092
+SAMD00652561,PRJDB16790,AAA22_4,,,,,JP,other_disease,AAA,,,,2019-10-10,primary,1.0,2.921
+SAMD00652562,PRJDB16790,AAA23_1,,,,,JP,other_disease,AAA,,,,2019-12-23,primary,1.0,1.838
+SAMD00652563,PRJDB16790,AAA23_2,,,,,JP,other_disease,AAA,,,,2019-12-23,primary,1.0,3.204
+SAMD00652564,PRJDB16790,AAA23_3,,,,,JP,other_disease,AAA,,,,2019-12-23,primary,1.0,3.233
+SAMD00652565,PRJDB16790,AAA23_4,,,,,JP,other_disease,AAA,,,,2019-12-23,primary,1.0,3.011
+SAMD00652566,PRJDB16790,AAA24_1,,,,,JP,other_disease,AAA,,,,2019-12-20,primary,1.0,3.785
+SAMD00652567,PRJDB16790,AAA24_2,,,,,JP,other_disease,AAA,,,,2019-12-20,primary,1.0,3.033
+SAMD00652568,PRJDB16790,AAA24_3,,,,,JP,other_disease,AAA,,,,2019-12-20,primary,1.0,3.065
+SAMD00652569,PRJDB16790,AAA24_4,,,,,JP,other_disease,AAA,,,,2019-12-20,primary,1.0,2.893
+SAMD00652570,PRJDB16790,AAA25_1,,,,,JP,other_disease,AAA,,,,2019-12-02,primary,1.0,3.167
+SAMD00652571,PRJDB16790,AAA25_2,,,,,JP,other_disease,AAA,,,,2019-12-02,primary,1.0,3.327
+SAMD00652572,PRJDB16790,AAA25_3,,,,,JP,other_disease,AAA,,,,2019-12-02,primary,1.0,3.361
+SAMD00652573,PRJDB16790,AAA25_4,,,,,JP,other_disease,AAA,,,,2019-12-02,primary,1.0,3.128
+SAMD00652574,PRJDB16790,AAA26_1,,,,,JP,other_disease,AAA,,,,2020-03-13,primary,1.0,2.883
+SAMD00652575,PRJDB16790,AAA26_2,,,,,JP,other_disease,AAA,,,,2020-03-13,primary,1.0,2.904
+SAMD00652576,PRJDB16790,AAA26_3,,,,,JP,other_disease,AAA,,,,2020-03-13,primary,1.0,2.933
+SAMD00652577,PRJDB16790,AAA26_4,,,,,JP,other_disease,AAA,,,,2020-03-13,primary,1.0,2.772
+SAMD00652578,PRJDB16790,AAA27_1,,,,,JP,other_disease,AAA,,,,2020-04-03,primary,1.0,2.137
+SAMD00652579,PRJDB16790,AAA27_2,,,,,JP,other_disease,AAA,,,,2020-04-03,primary,1.0,2.833
+SAMD00652580,PRJDB16790,AAA27_3,,,,,JP,other_disease,AAA,,,,2020-04-03,primary,1.0,2.858
+SAMD00652581,PRJDB16790,AAA27_4,,,,,JP,other_disease,AAA,,,,2020-04-03,primary,1.0,2.714
+SAMD00652582,PRJDB16790,AAA28_1,,,,,JP,other_disease,AAA,,,,2020-04-17,primary,1.0,4.105
+SAMD00652583,PRJDB16790,AAA28_2,,,,,JP,other_disease,AAA,,,,2020-04-17,primary,1.0,3.049
+SAMD00652584,PRJDB16790,AAA28_3,,,,,JP,other_disease,AAA,,,,2020-04-17,primary,1.0,3.085
+SAMD00652585,PRJDB16790,AAA28_4,,,,,JP,other_disease,AAA,,,,2020-04-17,primary,1.0,2.892
+SAMD00652586,PRJDB16790,AAA29_1,,,,,JP,other_disease,AAA,,,,2020-05-15,primary,1.0,2.283
+SAMD00652587,PRJDB16790,AAA29_2,,,,,JP,other_disease,AAA,,,,2020-05-15,primary,1.0,3.034
+SAMD00652588,PRJDB16790,AAA29_3,,,,,JP,other_disease,AAA,,,,2020-05-15,primary,1.0,3.056
+SAMD00652589,PRJDB16790,AAA29_4,,,,,JP,other_disease,AAA,,,,2020-05-15,primary,1.0,2.896
+SAMD00652478,PRJDB16790,AAA2_1,,,,,JP,other_disease,AAA,,,,2019-01-05,primary,1.0,2.985
+SAMD00652479,PRJDB16790,AAA2_2,,,,,JP,other_disease,AAA,,,,2019-01-05,primary,1.0,3.536
+SAMD00652480,PRJDB16790,AAA2_3,,,,,JP,other_disease,AAA,,,,2019-01-05,primary,1.0,3.617
+SAMD00652481,PRJDB16790,AAA2_4,,,,,JP,other_disease,AAA,,,,2019-01-05,primary,1.0,3.396
+SAMD00652590,PRJDB16790,AAA30_1,,,,,JP,other_disease,AAA,,,,2020-06-01,primary,1.0,2.751
+SAMD00652591,PRJDB16790,AAA30_2,,,,,JP,other_disease,AAA,,,,2020-06-01,primary,1.0,3.168
+SAMD00652592,PRJDB16790,AAA30_3,,,,,JP,other_disease,AAA,,,,2020-06-01,primary,1.0,3.199
+SAMD00652593,PRJDB16790,AAA30_4,,,,,JP,other_disease,AAA,,,,2020-06-01,primary,1.0,2.937
+SAMD00652594,PRJDB16790,AAA31_1,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,2.949
+SAMD00652595,PRJDB16790,AAA31_2,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,3.328
+SAMD00652596,PRJDB16790,AAA31_3,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,3.363
+SAMD00652597,PRJDB16790,AAA31_4,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,3.103
+SAMD00652598,PRJDB16790,AAA32_1,,,,,JP,other_disease,AAA,,,,2020-06-29,primary,1.0,2.525
+SAMD00652599,PRJDB16790,AAA32_2,,,,,JP,other_disease,AAA,,,,2020-06-29,primary,1.0,3.118
+SAMD00652600,PRJDB16790,AAA32_3,,,,,JP,other_disease,AAA,,,,2020-06-29,primary,1.0,3.145
+SAMD00652601,PRJDB16790,AAA32_4,,,,,JP,other_disease,AAA,,,,2020-06-29,primary,1.0,2.977
+SAMD00652602,PRJDB16790,AAA33_1,,,,,JP,other_disease,AAA,,,,2020-07-03,primary,1.0,2.999
+SAMD00652603,PRJDB16790,AAA33_2,,,,,JP,other_disease,AAA,,,,2020-07-03,primary,1.0,3.262
+SAMD00652604,PRJDB16790,AAA33_3,,,,,JP,other_disease,AAA,,,,2020-07-03,primary,1.0,3.295
+SAMD00652605,PRJDB16790,AAA33_4,,,,,JP,other_disease,AAA,,,,2020-07-03,primary,1.0,3.078
+SAMD00652606,PRJDB16790,AAA34_1,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,2.742
+SAMD00652607,PRJDB16790,AAA34_2,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,3.444
+SAMD00652608,PRJDB16790,AAA34_3,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,3.474
+SAMD00652609,PRJDB16790,AAA34_4,,,,,JP,other_disease,AAA,,,,2020-06-25,primary,1.0,3.263
+SAMD00652610,PRJDB16790,AAA35_1,,,,,JP,other_disease,AAA,,,,2020-07-14,primary,1.0,2.801
+SAMD00652611,PRJDB16790,AAA35_2,,,,,JP,other_disease,AAA,,,,2020-07-14,primary,1.0,3.102
+SAMD00652612,PRJDB16790,AAA35_3,,,,,JP,other_disease,AAA,,,,2020-07-14,primary,1.0,3.128
+SAMD00652613,PRJDB16790,AAA35_4,,,,,JP,other_disease,AAA,,,,2020-07-14,primary,1.0,2.972
+SAMD00652614,PRJDB16790,AAA36_1,,,,,JP,other_disease,AAA,,,,2020-07-08,primary,1.0,3.672
+SAMD00652615,PRJDB16790,AAA36_2,,,,,JP,other_disease,AAA,,,,2020-07-08,primary,1.0,3.871
+SAMD00652616,PRJDB16790,AAA36_3,,,,,JP,other_disease,AAA,,,,2020-07-08,primary,1.0,3.912
+SAMD00652617,PRJDB16790,AAA36_4,,,,,JP,other_disease,AAA,,,,2020-07-08,primary,1.0,3.7
+SAMD00652618,PRJDB16790,AAA37_1,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,2.991
+SAMD00652619,PRJDB16790,AAA37_2,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,3.263
+SAMD00652620,PRJDB16790,AAA37_3,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,3.293
+SAMD00652621,PRJDB16790,AAA37_4,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,3.12
+SAMD00652622,PRJDB16790,AAA38_1,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,2.611
+SAMD00652623,PRJDB16790,AAA38_2,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,3.691
+SAMD00652624,PRJDB16790,AAA38_3,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,3.717
+SAMD00652625,PRJDB16790,AAA38_4,,,,,JP,other_disease,AAA,,,,2020-08-21,primary,1.0,3.463
+SAMD00652626,PRJDB16790,AAA39_1,,,,,JP,other_disease,AAA,,,,2020-10-05,primary,1.0,2.461
+SAMD00652627,PRJDB16790,AAA39_2,,,,,JP,other_disease,AAA,,,,2020-10-05,primary,1.0,3.523
+SAMD00652628,PRJDB16790,AAA39_3,,,,,JP,other_disease,AAA,,,,2020-10-05,primary,1.0,3.564
+SAMD00652629,PRJDB16790,AAA39_4,,,,,JP,other_disease,AAA,,,,2020-10-05,primary,1.0,3.32
+SAMD00652482,PRJDB16790,AAA3_1,,,,,JP,other_disease,AAA,,,,2019-03-29,primary,1.0,4.219
+SAMD00652483,PRJDB16790,AAA3_2,,,,,JP,other_disease,AAA,,,,2019-03-29,primary,1.0,4.014
+SAMD00652484,PRJDB16790,AAA3_3,,,,,JP,other_disease,AAA,,,,2019-03-29,primary,1.0,4.146
+SAMD00652485,PRJDB16790,AAA3_4,,,,,JP,other_disease,AAA,,,,2019-03-29,primary,1.0,3.889
+SAMD00652630,PRJDB16790,AAA40_1,,,,,JP,other_disease,AAA,,,,2020-10-16,primary,1.0,2.843
+SAMD00652631,PRJDB16790,AAA40_2,,,,,JP,other_disease,AAA,,,,2020-10-16,primary,1.0,3.314
+SAMD00652632,PRJDB16790,AAA40_3,,,,,JP,other_disease,AAA,,,,2020-10-16,primary,1.0,3.344
+SAMD00652633,PRJDB16790,AAA40_4,,,,,JP,other_disease,AAA,,,,2020-10-16,primary,1.0,3.136
+SAMD00652634,PRJDB16790,AAA41_1,,,,,JP,other_disease,AAA,,,,2020-11-16,primary,1.0,2.791
+SAMD00652635,PRJDB16790,AAA41_2,,,,,JP,other_disease,AAA,,,,2020-11-16,primary,1.0,3.463
+SAMD00652636,PRJDB16790,AAA41_3,,,,,JP,other_disease,AAA,,,,2020-11-16,primary,1.0,3.495
+SAMD00652637,PRJDB16790,AAA41_4,,,,,JP,other_disease,AAA,,,,2020-11-16,primary,1.0,3.268
+SAMD00652638,PRJDB16790,AAA42_1,,,,,JP,other_disease,AAA,,,,2020-10-14,primary,1.0,2.451
+SAMD00652639,PRJDB16790,AAA42_2,,,,,JP,other_disease,AAA,,,,2020-10-14,primary,1.0,3.005
+SAMD00652640,PRJDB16790,AAA42_3,,,,,JP,other_disease,AAA,,,,2020-10-14,primary,1.0,3.034
+SAMD00652641,PRJDB16790,AAA42_4,,,,,JP,other_disease,AAA,,,,2020-10-14,primary,1.0,2.894
+SAMD00652642,PRJDB16790,AAA43_1,,,,,JP,other_disease,AAA,,,,2020-10-30,primary,1.0,2.661
+SAMD00652643,PRJDB16790,AAA43_2,,,,,JP,other_disease,AAA,,,,2020-10-30,primary,1.0,3.471
+SAMD00652644,PRJDB16790,AAA43_3,,,,,JP,other_disease,AAA,,,,2020-10-30,primary,1.0,3.505
+SAMD00652645,PRJDB16790,AAA43_4,,,,,JP,other_disease,AAA,,,,2020-10-30,primary,1.0,3.287
+SAMD00652646,PRJDB16790,AAA44_1,,,,,JP,other_disease,AAA,,,,2020-12-21,primary,1.0,2.083
+SAMD00652647,PRJDB16790,AAA44_2,,,,,JP,other_disease,AAA,,,,2020-12-21,primary,1.0,3.077
+SAMD00652648,PRJDB16790,AAA44_3,,,,,JP,other_disease,AAA,,,,2020-12-21,primary,1.0,3.107
+SAMD00652649,PRJDB16790,AAA44_4,,,,,JP,other_disease,AAA,,,,2020-12-21,primary,1.0,2.884
+SAMD00652650,PRJDB16790,AAA45_1,,,,,JP,other_disease,AAA,,,,2021-01-28,primary,1.0,2.667
+SAMD00652651,PRJDB16790,AAA45_2,,,,,JP,other_disease,AAA,,,,2021-01-28,primary,1.0,3.431
+SAMD00652652,PRJDB16790,AAA45_3,,,,,JP,other_disease,AAA,,,,2021-01-28,primary,1.0,3.459
+SAMD00652653,PRJDB16790,AAA45_4,,,,,JP,other_disease,AAA,,,,2021-01-28,primary,1.0,3.266
+SAMD00652654,PRJDB16790,AAA46_1,,,,,JP,other_disease,AAA,,,,2021-01-18,primary,1.0,3.152
+SAMD00652655,PRJDB16790,AAA46_2,,,,,JP,other_disease,AAA,,,,2021-01-18,primary,1.0,3.506
+SAMD00652656,PRJDB16790,AAA46_3,,,,,JP,other_disease,AAA,,,,2021-01-18,primary,1.0,3.536
+SAMD00652657,PRJDB16790,AAA46_4,,,,,JP,other_disease,AAA,,,,2021-01-18,primary,1.0,3.336
+SAMD00652658,PRJDB16790,AAA47_1,,,,,JP,other_disease,AAA,,,,2021-02-12,primary,1.0,2.976
+SAMD00652659,PRJDB16790,AAA47_2,,,,,JP,other_disease,AAA,,,,2021-02-12,primary,1.0,3.005
+SAMD00652660,PRJDB16790,AAA47_3,,,,,JP,other_disease,AAA,,,,2021-02-12,primary,1.0,3.04
+SAMD00652661,PRJDB16790,AAA47_4,,,,,JP,other_disease,AAA,,,,2021-02-12,primary,1.0,2.877
+SAMD00652662,PRJDB16790,AAA48_1,,,,,JP,other_disease,AAA,,,,2021-02-26,primary,1.0,2.65
+SAMD00652663,PRJDB16790,AAA48_2,,,,,JP,other_disease,AAA,,,,2021-02-26,primary,1.0,3.219
+SAMD00652664,PRJDB16790,AAA48_3,,,,,JP,other_disease,AAA,,,,2021-02-26,primary,1.0,3.24
+SAMD00652665,PRJDB16790,AAA48_4,,,,,JP,other_disease,AAA,,,,2021-02-26,primary,1.0,3.046
+SAMD00652666,PRJDB16790,AAA49_1,,,,,JP,other_disease,AAA,,,,2021-04-19,primary,1.0,3.09
+SAMD00652667,PRJDB16790,AAA49_2,,,,,JP,other_disease,AAA,,,,2021-04-19,primary,1.0,3.457
+SAMD00652668,PRJDB16790,AAA49_3,,,,,JP,other_disease,AAA,,,,2021-04-19,primary,1.0,3.501
+SAMD00652669,PRJDB16790,AAA49_4,,,,,JP,other_disease,AAA,,,,2021-04-19,primary,1.0,3.267
+SAMD00652486,PRJDB16790,AAA4_1,,,,,JP,other_disease,AAA,,,,2019-04-03,primary,1.0,4.736
+SAMD00652487,PRJDB16790,AAA4_2,,,,,JP,other_disease,AAA,,,,2019-04-03,primary,1.0,4.247
+SAMD00652488,PRJDB16790,AAA4_3,,,,,JP,other_disease,AAA,,,,2019-04-03,primary,1.0,4.316
+SAMD00652489,PRJDB16790,AAA4_4,,,,,JP,other_disease,AAA,,,,2019-04-03,primary,1.0,4.09
+SAMD00652670,PRJDB16790,AAA50_1,,,,,JP,other_disease,AAA,,,,2021-02-19,primary,1.0,2.463
+SAMD00652671,PRJDB16790,AAA50_2,,,,,JP,other_disease,AAA,,,,2021-02-19,primary,1.0,2.874
+SAMD00652672,PRJDB16790,AAA50_3,,,,,JP,other_disease,AAA,,,,2021-02-19,primary,1.0,2.905
+SAMD00652673,PRJDB16790,AAA50_4,,,,,JP,other_disease,AAA,,,,2021-02-19,primary,1.0,2.742
+SAMD00652674,PRJDB16790,AAA51_1,,,,,JP,other_disease,AAA,,,,2021-03-08,primary,1.0,3.463
+SAMD00652675,PRJDB16790,AAA51_2,,,,,JP,other_disease,AAA,,,,2021-03-08,primary,1.0,3.476
+SAMD00652676,PRJDB16790,AAA51_3,,,,,JP,other_disease,AAA,,,,2021-03-08,primary,1.0,3.511
+SAMD00652677,PRJDB16790,AAA51_4,,,,,JP,other_disease,AAA,,,,2021-03-08,primary,1.0,3.281
+SAMD00652678,PRJDB16790,AAA52_1,,,,,JP,other_disease,AAA,,,,2021-04-23,primary,1.0,2.498
+SAMD00652679,PRJDB16790,AAA52_2,,,,,JP,other_disease,AAA,,,,2021-04-23,primary,1.0,3.38
+SAMD00652680,PRJDB16790,AAA52_3,,,,,JP,other_disease,AAA,,,,2021-04-23,primary,1.0,3.418
+SAMD00652681,PRJDB16790,AAA52_4,,,,,JP,other_disease,AAA,,,,2021-04-23,primary,1.0,3.179
+SAMD00652682,PRJDB16790,AAA53_1,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,5.118
+SAMD00652683,PRJDB16790,AAA53_2,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,3.618
+SAMD00652684,PRJDB16790,AAA53_3,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,3.676
+SAMD00652685,PRJDB16790,AAA53_4,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,3.405
+SAMD00652686,PRJDB16790,AAA54_1,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,2.571
+SAMD00652687,PRJDB16790,AAA54_2,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,3.415
+SAMD00652688,PRJDB16790,AAA54_3,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,3.444
+SAMD00652689,PRJDB16790,AAA54_4,,,,,JP,other_disease,AAA,,,,2021-05-14,primary,1.0,3.254
+SAMD00652690,PRJDB16790,AAA55_1,,,,,JP,other_disease,AAA,,,,2021-05-17,primary,1.0,3.363
+SAMD00652691,PRJDB16790,AAA55_2,,,,,JP,other_disease,AAA,,,,2021-05-17,primary,1.0,3.625
+SAMD00652692,PRJDB16790,AAA55_3,,,,,JP,other_disease,AAA,,,,2021-05-17,primary,1.0,3.665
+SAMD00652693,PRJDB16790,AAA55_4,,,,,JP,other_disease,AAA,,,,2021-05-17,primary,1.0,3.449
+SAMD00652490,PRJDB16790,AAA5_1,,,,,JP,other_disease,AAA,,,,2019-04-16,primary,1.0,3.866
+SAMD00652491,PRJDB16790,AAA5_2,,,,,JP,other_disease,AAA,,,,2019-04-16,primary,1.0,4.911
+SAMD00652492,PRJDB16790,AAA5_3,,,,,JP,other_disease,AAA,,,,2019-04-16,primary,1.0,5.029
+SAMD00652493,PRJDB16790,AAA5_4,,,,,JP,other_disease,AAA,,,,2019-04-16,primary,1.0,4.713
+SAMD00652494,PRJDB16790,AAA6_1,,,,,JP,other_disease,AAA,,,,2019-04-11,primary,1.0,3.221
+SAMD00652495,PRJDB16790,AAA6_2,,,,,JP,other_disease,AAA,,,,2019-04-11,primary,1.0,4.819
+SAMD00652496,PRJDB16790,AAA6_3,,,,,JP,other_disease,AAA,,,,2019-04-11,primary,1.0,4.901
+SAMD00652497,PRJDB16790,AAA6_4,,,,,JP,other_disease,AAA,,,,2019-04-11,primary,1.0,4.628
+SAMD00652498,PRJDB16790,AAA7_1,,,,,JP,other_disease,AAA,,,,2019-05-15,primary,1.0,2.576
+SAMD00652499,PRJDB16790,AAA7_2,,,,,JP,other_disease,AAA,,,,2019-05-15,primary,1.0,3.957
+SAMD00652500,PRJDB16790,AAA7_3,,,,,JP,other_disease,AAA,,,,2019-05-15,primary,1.0,4.081
+SAMD00652501,PRJDB16790,AAA7_4,,,,,JP,other_disease,AAA,,,,2019-05-15,primary,1.0,3.785
+SAMD00652502,PRJDB16790,AAA8_1,,,,,JP,other_disease,AAA,,,,2019-01-16,primary,1.0,4.107
+SAMD00652503,PRJDB16790,AAA8_2,,,,,JP,other_disease,AAA,,,,2019-01-16,primary,1.0,3.618
+SAMD00652504,PRJDB16790,AAA8_3,,,,,JP,other_disease,AAA,,,,2019-01-16,primary,1.0,3.671
+SAMD00652505,PRJDB16790,AAA8_4,,,,,JP,other_disease,AAA,,,,2019-01-16,primary,1.0,3.499
+SAMD00652506,PRJDB16790,AAA9_1,,,,,JP,other_disease,AAA,,,,2018-05-19,primary,1.0,2.513
+SAMD00652507,PRJDB16790,AAA9_2,,,,,JP,other_disease,AAA,,,,2018-05-19,primary,1.0,2.849
+SAMD00652508,PRJDB16790,AAA9_3,,,,,JP,other_disease,AAA,,,,2018-05-19,primary,1.0,2.87
+SAMD00652509,PRJDB16790,AAA9_4,,,,,JP,other_disease,AAA,,,,2018-05-19,primary,1.0,2.708
+SAMD00652302,PRJDB16790,Ctrl10_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-09,primary,1.0,3.814
+SAMD00652303,PRJDB16790,Ctrl10_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-09,primary,1.0,3.642
+SAMD00652304,PRJDB16790,Ctrl10_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-09,primary,1.0,3.7
+SAMD00652305,PRJDB16790,Ctrl10_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-09,primary,1.0,3.51
+SAMD00652306,PRJDB16790,Ctrl11_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-10,primary,1.0,1.671
+SAMD00652307,PRJDB16790,Ctrl11_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-10,primary,1.0,3.388
+SAMD00652308,PRJDB16790,Ctrl11_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-10,primary,1.0,3.461
+SAMD00652309,PRJDB16790,Ctrl11_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-10,primary,1.0,3.352
+SAMD00652310,PRJDB16790,Ctrl12_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-12,primary,1.0,3.302
+SAMD00652311,PRJDB16790,Ctrl12_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-12,primary,1.0,3.426
+SAMD00652312,PRJDB16790,Ctrl12_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-12,primary,1.0,3.55
+SAMD00652313,PRJDB16790,Ctrl12_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-12,primary,1.0,3.328
+SAMD00652314,PRJDB16790,Ctrl13_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-17,primary,1.0,3.894
+SAMD00652315,PRJDB16790,Ctrl13_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-17,primary,1.0,3.456
+SAMD00652316,PRJDB16790,Ctrl13_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-17,primary,1.0,3.525
+SAMD00652317,PRJDB16790,Ctrl13_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-17,primary,1.0,3.33
+SAMD00652318,PRJDB16790,Ctrl14_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-23,primary,1.0,3.994
+SAMD00652319,PRJDB16790,Ctrl14_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-23,primary,1.0,3.512
+SAMD00652320,PRJDB16790,Ctrl14_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-23,primary,1.0,3.576
+SAMD00652321,PRJDB16790,Ctrl14_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-23,primary,1.0,3.386
+SAMD00652322,PRJDB16790,Ctrl15_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-13,primary,1.0,2.511
+SAMD00652323,PRJDB16790,Ctrl15_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-13,primary,1.0,3.435
+SAMD00652324,PRJDB16790,Ctrl15_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-13,primary,1.0,3.494
+SAMD00652325,PRJDB16790,Ctrl15_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-13,primary,1.0,3.282
+SAMD00652326,PRJDB16790,Ctrl16_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-27,primary,1.0,3.301
+SAMD00652327,PRJDB16790,Ctrl16_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-27,primary,1.0,3.709
+SAMD00652328,PRJDB16790,Ctrl16_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-27,primary,1.0,3.792
+SAMD00652329,PRJDB16790,Ctrl16_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-03-27,primary,1.0,3.574
+SAMD00652330,PRJDB16790,Ctrl17_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-04-21,primary,1.0,3.702
+SAMD00652331,PRJDB16790,Ctrl17_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-04-21,primary,1.0,3.642
+SAMD00652332,PRJDB16790,Ctrl17_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-04-21,primary,1.0,3.749
+SAMD00652333,PRJDB16790,Ctrl17_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-04-21,primary,1.0,3.484
+SAMD00652334,PRJDB16790,Ctrl18_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-05-11,primary,1.0,2.793
+SAMD00652335,PRJDB16790,Ctrl18_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-05-11,primary,1.0,3.454
+SAMD00652336,PRJDB16790,Ctrl18_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-05-11,primary,1.0,3.549
+SAMD00652337,PRJDB16790,Ctrl18_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-05-11,primary,1.0,3.324
+SAMD00652338,PRJDB16790,Ctrl19_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-06-05,primary,1.0,3.818
+SAMD00652339,PRJDB16790,Ctrl19_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-06-05,primary,1.0,3.575
+SAMD00652340,PRJDB16790,Ctrl19_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-06-05,primary,1.0,3.649
+SAMD00652341,PRJDB16790,Ctrl19_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-06-05,primary,1.0,3.436
+SAMD00652266,PRJDB16790,Ctrl1_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-10-30,primary,1.0,4.077
+SAMD00652267,PRJDB16790,Ctrl1_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-10-30,primary,1.0,3.532
+SAMD00652268,PRJDB16790,Ctrl1_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-10-30,primary,1.0,3.613
+SAMD00652269,PRJDB16790,Ctrl1_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-10-30,primary,1.0,3.392
+SAMD00652342,PRJDB16790,Ctrl20_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-07-02,primary,1.0,2.382
+SAMD00652343,PRJDB16790,Ctrl20_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-07-02,primary,1.0,3.546
+SAMD00652344,PRJDB16790,Ctrl20_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-07-02,primary,1.0,3.626
+SAMD00652345,PRJDB16790,Ctrl20_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-07-02,primary,1.0,3.41
+SAMD00652346,PRJDB16790,Ctrl21_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,5.433
+SAMD00652347,PRJDB16790,Ctrl21_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,3.497
+SAMD00652348,PRJDB16790,Ctrl21_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,3.587
+SAMD00652349,PRJDB16790,Ctrl21_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,3.316
+SAMD00652350,PRJDB16790,Ctrl22_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-15,primary,1.0,2.953
+SAMD00652351,PRJDB16790,Ctrl22_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-15,primary,1.0,3.363
+SAMD00652352,PRJDB16790,Ctrl22_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-15,primary,1.0,3.432
+SAMD00652353,PRJDB16790,Ctrl22_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-15,primary,1.0,3.241
+SAMD00652354,PRJDB16790,Ctrl23_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-26,primary,1.0,3.636
+SAMD00652355,PRJDB16790,Ctrl23_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-26,primary,1.0,3.477
+SAMD00652356,PRJDB16790,Ctrl23_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-26,primary,1.0,3.545
+SAMD00652357,PRJDB16790,Ctrl23_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-26,primary,1.0,3.351
+SAMD00652358,PRJDB16790,Ctrl24_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.305
+SAMD00652359,PRJDB16790,Ctrl24_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.549
+SAMD00652360,PRJDB16790,Ctrl24_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.618
+SAMD00652361,PRJDB16790,Ctrl24_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.379
+SAMD00652362,PRJDB16790,Ctrl25_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-02,primary,1.0,4.592
+SAMD00652363,PRJDB16790,Ctrl25_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-02,primary,1.0,3.465
+SAMD00652364,PRJDB16790,Ctrl25_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-02,primary,1.0,3.555
+SAMD00652365,PRJDB16790,Ctrl25_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-02,primary,1.0,3.368
+SAMD00652366,PRJDB16790,Ctrl26_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.753
+SAMD00652367,PRJDB16790,Ctrl26_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.621
+SAMD00652368,PRJDB16790,Ctrl26_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.758
+SAMD00652369,PRJDB16790,Ctrl26_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.473
+SAMD00652370,PRJDB16790,Ctrl27_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-08,primary,1.0,4.088
+SAMD00652371,PRJDB16790,Ctrl27_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-08,primary,1.0,3.492
+SAMD00652372,PRJDB16790,Ctrl27_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-08,primary,1.0,3.57
+SAMD00652373,PRJDB16790,Ctrl27_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-08,primary,1.0,3.328
+SAMD00652374,PRJDB16790,Ctrl28_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,4.117
+SAMD00652375,PRJDB16790,Ctrl28_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.686
+SAMD00652376,PRJDB16790,Ctrl28_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.797
+SAMD00652377,PRJDB16790,Ctrl28_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-16,primary,1.0,3.565
+SAMD00652378,PRJDB16790,Ctrl29_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-06,primary,1.0,3.852
+SAMD00652379,PRJDB16790,Ctrl29_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-06,primary,1.0,3.268
+SAMD00652380,PRJDB16790,Ctrl29_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-06,primary,1.0,3.337
+SAMD00652381,PRJDB16790,Ctrl29_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-06,primary,1.0,3.172
+SAMD00652270,PRJDB16790,Ctrl2_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-02,primary,1.0,2.523
+SAMD00652271,PRJDB16790,Ctrl2_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-02,primary,1.0,3.645
+SAMD00652272,PRJDB16790,Ctrl2_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-02,primary,1.0,3.721
+SAMD00652273,PRJDB16790,Ctrl2_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-02,primary,1.0,3.506
+SAMD00652382,PRJDB16790,Ctrl30_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-27,primary,1.0,4.289
+SAMD00652383,PRJDB16790,Ctrl30_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-27,primary,1.0,3.629
+SAMD00652384,PRJDB16790,Ctrl30_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-27,primary,1.0,3.686
+SAMD00652385,PRJDB16790,Ctrl30_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-27,primary,1.0,3.496
+SAMD00652386,PRJDB16790,Ctrl31_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-01-10,primary,1.0,2.64
+SAMD00652387,PRJDB16790,Ctrl31_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-01-10,primary,1.0,3.092
+SAMD00652388,PRJDB16790,Ctrl31_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-01-10,primary,1.0,3.107
+SAMD00652389,PRJDB16790,Ctrl31_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-01-10,primary,1.0,2.923
+SAMD00652390,PRJDB16790,Ctrl32_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.45
+SAMD00652391,PRJDB16790,Ctrl32_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.269
+SAMD00652392,PRJDB16790,Ctrl32_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.298
+SAMD00652393,PRJDB16790,Ctrl32_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.08
+SAMD00652394,PRJDB16790,Ctrl33_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-08,primary,1.0,2.72
+SAMD00652395,PRJDB16790,Ctrl33_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-08,primary,1.0,3.226
+SAMD00652396,PRJDB16790,Ctrl33_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-08,primary,1.0,3.272
+SAMD00652397,PRJDB16790,Ctrl33_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-08,primary,1.0,2.973
+SAMD00652398,PRJDB16790,Ctrl34_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-15,primary,1.0,3.734
+SAMD00652399,PRJDB16790,Ctrl34_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-15,primary,1.0,3.483
+SAMD00652400,PRJDB16790,Ctrl34_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-15,primary,1.0,3.522
+SAMD00652401,PRJDB16790,Ctrl34_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-02-15,primary,1.0,3.299
+SAMD00652402,PRJDB16790,Ctrl35_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.104
+SAMD00652403,PRJDB16790,Ctrl35_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.083
+SAMD00652404,PRJDB16790,Ctrl35_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,3.113
+SAMD00652405,PRJDB16790,Ctrl35_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-03-14,primary,1.0,2.938
+SAMD00652406,PRJDB16790,Ctrl36_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-04-18,primary,1.0,2.69
+SAMD00652407,PRJDB16790,Ctrl36_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-04-18,primary,1.0,3.067
+SAMD00652408,PRJDB16790,Ctrl36_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-04-18,primary,1.0,3.093
+SAMD00652409,PRJDB16790,Ctrl36_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-04-18,primary,1.0,2.894
+SAMD00652410,PRJDB16790,Ctrl37_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-13,primary,1.0,3.121
+SAMD00652411,PRJDB16790,Ctrl37_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-13,primary,1.0,3.229
+SAMD00652412,PRJDB16790,Ctrl37_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-13,primary,1.0,3.257
+SAMD00652413,PRJDB16790,Ctrl37_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-13,primary,1.0,3.024
+SAMD00652414,PRJDB16790,Ctrl38_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-20,primary,1.0,3.114
+SAMD00652415,PRJDB16790,Ctrl38_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-20,primary,1.0,3.132
+SAMD00652416,PRJDB16790,Ctrl38_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-20,primary,1.0,3.168
+SAMD00652417,PRJDB16790,Ctrl38_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-20,primary,1.0,2.945
+SAMD00652418,PRJDB16790,Ctrl39_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-27,primary,1.0,3.161
+SAMD00652419,PRJDB16790,Ctrl39_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-27,primary,1.0,3.253
+SAMD00652420,PRJDB16790,Ctrl39_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-27,primary,1.0,3.281
+SAMD00652421,PRJDB16790,Ctrl39_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-06-27,primary,1.0,3.1
+SAMD00652274,PRJDB16790,Ctrl3_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-06,primary,1.0,2.772
+SAMD00652275,PRJDB16790,Ctrl3_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-06,primary,1.0,3.709
+SAMD00652276,PRJDB16790,Ctrl3_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-06,primary,1.0,3.767
+SAMD00652277,PRJDB16790,Ctrl3_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-06,primary,1.0,3.573
+SAMD00652422,PRJDB16790,Ctrl40_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,4.103
+SAMD00652423,PRJDB16790,Ctrl40_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,2.861
+SAMD00652424,PRJDB16790,Ctrl40_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,2.914
+SAMD00652425,PRJDB16790,Ctrl40_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,2.691
+SAMD00652426,PRJDB16790,Ctrl41_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,3.061
+SAMD00652427,PRJDB16790,Ctrl41_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,3.179
+SAMD00652428,PRJDB16790,Ctrl41_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,3.218
+SAMD00652429,PRJDB16790,Ctrl41_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-04,primary,1.0,3.042
+SAMD00652430,PRJDB16790,Ctrl42_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-11,primary,1.0,2.742
+SAMD00652431,PRJDB16790,Ctrl42_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-11,primary,1.0,3.201
+SAMD00652432,PRJDB16790,Ctrl42_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-11,primary,1.0,3.244
+SAMD00652433,PRJDB16790,Ctrl42_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-11,primary,1.0,2.947
+SAMD00652434,PRJDB16790,Ctrl43_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-05,primary,1.0,3.568
+SAMD00652435,PRJDB16790,Ctrl43_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-05,primary,1.0,3.426
+SAMD00652436,PRJDB16790,Ctrl43_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-05,primary,1.0,3.459
+SAMD00652437,PRJDB16790,Ctrl43_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-05,primary,1.0,3.226
+SAMD00652438,PRJDB16790,Ctrl44_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,2.482
+SAMD00652439,PRJDB16790,Ctrl44_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.365
+SAMD00652440,PRJDB16790,Ctrl44_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.394
+SAMD00652441,PRJDB16790,Ctrl44_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.216
+SAMD00652442,PRJDB16790,Ctrl45_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.595
+SAMD00652443,PRJDB16790,Ctrl45_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.655
+SAMD00652444,PRJDB16790,Ctrl45_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.69
+SAMD00652445,PRJDB16790,Ctrl45_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-07-31,primary,1.0,3.453
+SAMD00652446,PRJDB16790,Ctrl46_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.185
+SAMD00652447,PRJDB16790,Ctrl46_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.368
+SAMD00652448,PRJDB16790,Ctrl46_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.396
+SAMD00652449,PRJDB16790,Ctrl46_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.213
+SAMD00652450,PRJDB16790,Ctrl47_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.46
+SAMD00652451,PRJDB16790,Ctrl47_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.413
+SAMD00652452,PRJDB16790,Ctrl47_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.453
+SAMD00652453,PRJDB16790,Ctrl47_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-08,primary,1.0,3.222
+SAMD00652454,PRJDB16790,Ctrl48_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-22,primary,1.0,2.907
+SAMD00652455,PRJDB16790,Ctrl48_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-22,primary,1.0,3.25
+SAMD00652456,PRJDB16790,Ctrl48_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-22,primary,1.0,3.282
+SAMD00652457,PRJDB16790,Ctrl48_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-22,primary,1.0,3.063
+SAMD00652458,PRJDB16790,Ctrl49_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-28,primary,1.0,2.947
+SAMD00652459,PRJDB16790,Ctrl49_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-28,primary,1.0,3.449
+SAMD00652460,PRJDB16790,Ctrl49_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-28,primary,1.0,3.48
+SAMD00652461,PRJDB16790,Ctrl49_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-08-28,primary,1.0,3.254
+SAMD00652278,PRJDB16790,Ctrl4_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,4.32
+SAMD00652279,PRJDB16790,Ctrl4_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,3.407
+SAMD00652280,PRJDB16790,Ctrl4_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,3.472
+SAMD00652281,PRJDB16790,Ctrl4_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-08,primary,1.0,3.273
+SAMD00652462,PRJDB16790,Ctrl50_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-26,primary,1.0,1.621
+SAMD00652463,PRJDB16790,Ctrl50_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-26,primary,1.0,3.015
+SAMD00652464,PRJDB16790,Ctrl50_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-26,primary,1.0,3.04
+SAMD00652465,PRJDB16790,Ctrl50_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-26,primary,1.0,2.886
+SAMD00652466,PRJDB16790,Ctrl51_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-12,primary,1.0,3.725
+SAMD00652467,PRJDB16790,Ctrl51_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-12,primary,1.0,3.038
+SAMD00652468,PRJDB16790,Ctrl51_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-12,primary,1.0,3.077
+SAMD00652469,PRJDB16790,Ctrl51_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-12,primary,1.0,2.916
+SAMD00652470,PRJDB16790,Ctrl52_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-19,primary,1.0,2.764
+SAMD00652471,PRJDB16790,Ctrl52_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-19,primary,1.0,3.265
+SAMD00652472,PRJDB16790,Ctrl52_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-19,primary,1.0,3.305
+SAMD00652473,PRJDB16790,Ctrl52_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2020-09-19,primary,1.0,3.078
+SAMD00652282,PRJDB16790,Ctrl5_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.79
+SAMD00652283,PRJDB16790,Ctrl5_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.542
+SAMD00652284,PRJDB16790,Ctrl5_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.614
+SAMD00652285,PRJDB16790,Ctrl5_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.417
+SAMD00652286,PRJDB16790,Ctrl6_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,2.821
+SAMD00652287,PRJDB16790,Ctrl6_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.605
+SAMD00652288,PRJDB16790,Ctrl6_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.729
+SAMD00652289,PRJDB16790,Ctrl6_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-11-28,primary,1.0,3.49
+SAMD00652290,PRJDB16790,Ctrl7_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-05,primary,1.0,2.193
+SAMD00652291,PRJDB16790,Ctrl7_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-05,primary,1.0,3.595
+SAMD00652292,PRJDB16790,Ctrl7_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-05,primary,1.0,3.671
+SAMD00652293,PRJDB16790,Ctrl7_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2014-12-05,primary,1.0,3.461
+SAMD00652294,PRJDB16790,Ctrl8_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-09,primary,1.0,3.178
+SAMD00652295,PRJDB16790,Ctrl8_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-09,primary,1.0,3.431
+SAMD00652296,PRJDB16790,Ctrl8_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-09,primary,1.0,3.509
+SAMD00652297,PRJDB16790,Ctrl8_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-01-09,primary,1.0,3.298
+SAMD00652298,PRJDB16790,Ctrl9_1,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-03,primary,1.0,1.944
+SAMD00652299,PRJDB16790,Ctrl9_2,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-03,primary,1.0,3.476
+SAMD00652300,PRJDB16790,Ctrl9_3,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-03,primary,1.0,3.557
+SAMD00652301,PRJDB16790,Ctrl9_4,,,,,JP,,"mixed_case_control: AAA patients vs controls with hypertension, diabetes, dyslipidemia",,,,2015-02-03,primary,1.0,3.346

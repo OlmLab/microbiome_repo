@@ -1,0 +1,52 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN17050200,PRJNA684000,Patient_Failed_1,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_1,fmt,multiple FMT administrations,,2013-03,primary,1.0,0.04
+SAMN17050199,PRJNA684000,Patient_Failed_1,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_1,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2013-02,primary,1.0,0.06
+SAMN17050212,PRJNA684000,Patient_Failed_2,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_2,fmt,multiple FMT administrations,,2013-07,primary,1.0,0.001
+SAMN17050211,PRJNA684000,Patient_Failed_2,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_2,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2013-06,primary,1.0,0.0
+SAMN17050218,PRJNA684000,Patient_Failed_3,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_3,fmt,multiple FMT administrations,,2014-06,primary,1.0,0.025
+SAMN17050217,PRJNA684000,Patient_Failed_3,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_3,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2014-05,primary,1.0,0.021
+SAMN17050222,PRJNA684000,Patient_Failed_4,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_4,fmt,multiple FMT administrations,,2014-10,primary,1.0,0.016
+SAMN17050221,PRJNA684000,Patient_Failed_4,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_4,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2014-09,primary,1.0,0.021
+SAMN17050224,PRJNA684000,Patient_Failed_5,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_5,fmt,multiple FMT administrations,,2014-02,primary,1.0,0.001
+SAMN17050223,PRJNA684000,Patient_Failed_5,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_5,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2014-01,primary,1.0,0.032
+SAMN17050232,PRJNA684000,Patient_Failed_6,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_6,fmt,failed FMT treatment,,2014-04,primary,1.0,0.024
+SAMN17050225,PRJNA684000,Patient_Failed_6,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_6,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2014-03,primary,1.0,0.009
+SAMN17050233,PRJNA684000,Patient_Failed_7,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_7,fmt,failed FMT treatment,,2014-08,primary,1.0,0.035
+SAMN17050230,PRJNA684000,Patient_Failed_7,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_7,no_intervention,Patient before FMT treatment; assigned arm: failed FMT treatment,,2014-07,primary,1.0,0.015
+SAMN17050241,PRJNA684000,Patient_Failed_8,after,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_After_8,fmt,multiple FMT administrations,,2013-12,primary,1.0,0.022
+SAMN17050240,PRJNA684000,Patient_Failed_8,before,,,,CA,gi_infection_or_diarrhoea,Patient_Failed_Before_8,no_intervention,Patient before FMT treatment; assigned arm: multiple FMT administrations,,2013-11,primary,1.0,0.012
+SAMN17050193,PRJNA684000,Patient_Successful_1,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_1,fmt,single FMT administration,,2014-01,primary,1.0,0.011
+SAMN17050192,PRJNA684000,Patient_Successful_1,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_1,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2012-12,primary,1.0,0.017
+SAMN17050197,PRJNA684000,Patient_Successful_2,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_2,fmt,single FMT administration,,2014-07,primary,1.0,0.069
+SAMN17050194,PRJNA684000,Patient_Successful_2,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_2,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2014-06,primary,1.0,0.013
+SAMN17050205,PRJNA684000,Patient_Successful_3,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_3,fmt,single FMT administration,,2013-08,primary,1.0,0.016
+SAMN17050195,PRJNA684000,Patient_Successful_3,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_3,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2013-07,primary,1.0,0.016
+SAMN17050202,PRJNA684000,Patient_Successful_4,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_4,fmt,single FMT administration,,2014-08,primary,1.0,0.018
+SAMN17050196,PRJNA684000,Patient_Successful_4,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_4,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2014-07,primary,1.0,0.008
+SAMN17050207,PRJNA684000,Patient_Successful_5,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_5,fmt,single FMT administration,,2014-08,primary,1.0,0.028
+SAMN17050203,PRJNA684000,Patient_Successful_5,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_5,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2014-07,primary,1.0,0.027
+SAMN17050209,PRJNA684000,Patient_Successful_6,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_6,fmt,single FMT administration,,2014-08,primary,1.0,0.011
+SAMN17050208,PRJNA684000,Patient_Successful_6,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_6,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2014-07,primary,1.0,0.04
+SAMN17050215,PRJNA684000,Patient_Successful_7,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_7,fmt,single FMT administration,,2013-04,primary,1.0,0.07
+SAMN17050214,PRJNA684000,Patient_Successful_7,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_7,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2013-03,primary,1.0,0.058
+SAMN17050229,PRJNA684000,Patient_Successful_8,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_8,fmt,single FMT administration,,2014-06,primary,1.0,0.029
+SAMN17050228,PRJNA684000,Patient_Successful_8,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_8,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2014-05,primary,1.0,0.025
+SAMN17050239,PRJNA684000,Patient_Successful_9,after,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_After_9,fmt,single FMT administration,,2013-03,primary,1.0,0.011
+SAMN17050238,PRJNA684000,Patient_Successful_9,before,,,,CA,gi_infection_or_diarrhoea,Patient_Successful_Before_9,no_intervention,Patient before FMT treatment; assigned arm: single FMT administration,,2013-02,primary,1.0,0.036
+SAMN17050198,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_1,no_intervention,FMT donor sample,,2013-02,primary,1.0,0.052
+SAMN17050201,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_9,no_intervention,FMT donor sample,,2013-02,primary,1.0,0.056
+SAMN17050204,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_7,no_intervention,FMT donor sample,,2013-03,primary,1.0,0.031
+SAMN17050206,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_1,no_intervention,FMT donor sample,,2012-12,primary,1.0,0.03
+SAMN17050210,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_2,no_intervention,FMT donor sample,,2013-06,primary,1.0,0.042
+SAMN17050213,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_3,no_intervention,FMT donor sample,,2013-07,primary,1.0,0.014
+SAMN17050216,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_8,no_intervention,FMT donor sample,,2013-11,primary,1.0,0.046
+SAMN17050219,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_5,no_intervention,FMT donor sample,,2014-01,primary,1.0,0.044
+SAMN17050220,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_6,no_intervention,FMT donor sample,,2014-03,primary,1.0,0.006
+SAMN17050226,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_8,no_intervention,FMT donor sample,,2014-05,primary,1.0,0.022
+SAMN17050227,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_3,no_intervention,FMT donor sample,,2014-05,primary,1.0,0.023
+SAMN17050231,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_2,no_intervention,FMT donor sample,,2014-06,primary,1.0,0.018
+SAMN17050234,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_7,no_intervention,FMT donor sample,,2014-07,primary,1.0,0.048
+SAMN17050235,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_5,no_intervention,FMT donor sample,,2014-07,primary,1.0,0.01
+SAMN17050236,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_6,no_intervention,FMT donor sample,,2014-07,primary,1.0,0.02
+SAMN17050237,PRJNA684000,,,,,,CA,healthy_control,Donor_Successful_4,no_intervention,FMT donor sample,,2014-07,primary,1.0,0.058
+SAMN17050242,PRJNA684000,,,,,,CA,healthy_control,Donor_Failed_4,no_intervention,FMT donor sample,,2014-09,primary,1.0,0.03

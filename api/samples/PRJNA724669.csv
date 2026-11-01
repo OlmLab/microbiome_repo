@@ -1,0 +1,22 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN18846561,PRJNA724669,,,,,male,,other_disease,Cystic fibrosis,,,,,primary,1.0,0.012
+SAMN18846562,PRJNA724669,,,,,male,,other_disease,Cystic fibrosis,,,,,primary,1.0,0.002
+SAMN18846563,PRJNA724669,,,,,female,,other_disease,Cystic fibrosis,,,,,primary,1.0,0.002
+SAMN18846564,PRJNA724669,,,,,female,,other_infection,SARI,,,,,primary,1.0,0.001
+SAMN18846565,PRJNA724669,,,,,male,,other_infection,SARI,,,,,primary,1.0,0.001
+SAMN18846566,PRJNA724669,,,,,female,,other_infection,ARVI,,,,,primary,1.0,0.001
+SAMN18846567,PRJNA724669,,,adult,,male,,other_infection,COVID-19,,,,,primary,1.0,0.004
+SAMN18846568,PRJNA724669,,,elderly,,female,,other_infection,ARVI,,,,,primary,1.0,0.037
+SAMN18846569,PRJNA724669,,,,,,,other_infection,ARVI,,,,,primary,1.0,0.023
+SAMN18846570,PRJNA724669,,,adult,14610.0,male,,other_infection,COVID-19,,,,,primary,1.0,0.044
+SAMN18846571,PRJNA724669,,,elderly,24090.0,female,,other_infection,COVID-19,,,,,primary,1.0,0.027
+SAMN18846572,PRJNA724669,,,elderly,30234.0,female,,other_infection,COVID-19,,,,,primary,1.0,0.318
+SAMN18846573,PRJNA724669,,,adult,13504.0,female,,other_infection,COVID-19,,,,,primary,1.0,0.029
+SAMN18846574,PRJNA724669,,,adult,,female,,other_infection,COVID-19,,,,,primary,1.0,0.036
+SAMN18846575,PRJNA724669,,,adult,,male,,other_infection,COVID-19,,,,,primary,1.0,0.0
+SAMN18846576,PRJNA724669,,,adult,15330.5,male,,other_infection,COVID-19,,,,,primary,1.0,0.001
+SAMN19374882,PRJNA724669,,,elderly,,female,,other_infection,COVID-19,,,,,primary,1.0,0.003
+SAMN19374883,PRJNA724669,,,adult,,female,,other_infection,COVID-19,,,,,primary,1.0,0.011
+SAMN19374884,PRJNA724669,,,elderly,,female,,other_infection,COVID-19,,,,,primary,1.0,0.035
+SAMN19374885,PRJNA724669,,,adult,10957.0,female,,other_infection,COVID-19,,,,,primary,1.0,0.007
+SAMN19374886,PRJNA724669,,,elderly,25922.0,female,,other_infection,COVID-19,,,,,primary,1.0,0.001
