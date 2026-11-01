@@ -1,0 +1,409 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN31848230,PRJNA904651,P1,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-09-09,primary,1.0,9.824
+SAMN31848226,PRJNA904651,P1,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-04-14,primary,1.0,6.673
+SAMN31848227,PRJNA904651,P1,Week 0,adult,,,NO,obesity,severe obesity,diet_intervention,,,2015-05-05,primary,1.0,7.634
+SAMN31848228,PRJNA904651,P1,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-05-18,primary,1.0,7.889
+SAMN31848229,PRJNA904651,P1,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-06-15,primary,1.0,7.933
+SAMN31848231,PRJNA904651,P1,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-05-17,primary,1.0,8.117
+SAMN31848232,PRJNA904651,P1,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-05-16,primary,1.0,9.2
+SAMN31848289,PRJNA904651,P10,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-14,primary,1.0,9.588
+SAMN31848285,PRJNA904651,P10,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-09-23,primary,1.0,9.824
+SAMN31848286,PRJNA904651,P10,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-10-13,primary,1.0,8.041
+SAMN31848287,PRJNA904651,P10,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-26,primary,1.0,8.266
+SAMN31848288,PRJNA904651,P10,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-11-24,primary,1.0,10.02
+SAMN31848290,PRJNA904651,P10,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-10-17,primary,1.0,7.809
+SAMN31848291,PRJNA904651,P10,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-10-10,primary,1.0,7.751
+SAMN31848296,PRJNA904651,P11,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-07,primary,1.0,8.469
+SAMN31848292,PRJNA904651,P11,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-09-16,primary,1.0,9.025
+SAMN31848293,PRJNA904651,P11,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-10-07,primary,1.0,7.805
+SAMN31848294,PRJNA904651,P11,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-18,primary,1.0,7.709
+SAMN31848295,PRJNA904651,P11,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-11-18,primary,1.0,10.305
+SAMN31848297,PRJNA904651,P12,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-09-23,primary,1.0,7.709
+SAMN31848298,PRJNA904651,P12,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-10-14,primary,1.0,7.25
+SAMN31848299,PRJNA904651,P12,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-11-26,primary,1.0,7.063
+SAMN31848300,PRJNA904651,P12,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-10-25,primary,1.0,7.58
+SAMN31848305,PRJNA904651,P13,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-05-21,primary,1.0,10.793
+SAMN31848301,PRJNA904651,P13,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-06,primary,1.0,9.908
+SAMN31848302,PRJNA904651,P13,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-26,primary,1.0,8.951
+SAMN31848303,PRJNA904651,P13,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-07,primary,1.0,9.563
+SAMN31848304,PRJNA904651,P13,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,,,2016-03-09,primary,1.0,9.428
+SAMN31848306,PRJNA904651,P13,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-22,primary,1.0,12.203
+SAMN31848307,PRJNA904651,P13,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-01-24,primary,1.0,8.259
+SAMN31848312,PRJNA904651,P14,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-05-21,primary,1.0,8.116
+SAMN31848308,PRJNA904651,P14,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-05,primary,1.0,9.171
+SAMN31848309,PRJNA904651,P14,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-26,primary,1.0,7.501
+SAMN31848310,PRJNA904651,P14,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-07,primary,1.0,8.996
+SAMN31848311,PRJNA904651,P14,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-03-08,primary,1.0,7.741
+SAMN31848313,PRJNA904651,P14,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-22,primary,1.0,8.484
+SAMN31848314,PRJNA904651,P14,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-01-24,primary,1.0,9.763
+SAMN31848319,PRJNA904651,P15,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-06-06,primary,1.0,7.7
+SAMN31848315,PRJNA904651,P15,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-14,primary,1.0,8.561
+SAMN31848316,PRJNA904651,P15,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-02-04,primary,1.0,6.958
+SAMN31848317,PRJNA904651,P15,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-17,primary,1.0,7.504
+SAMN31848318,PRJNA904651,P15,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-03-17,primary,1.0,9.11
+SAMN31848320,PRJNA904651,P15,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-30,primary,1.0,9.289
+SAMN31848321,PRJNA904651,P15,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-02-01,primary,1.0,9.5
+SAMN31848325,PRJNA904651,P16,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-06-05,primary,1.0,8.952
+SAMN31848322,PRJNA904651,P16,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-13,primary,1.0,9.519
+SAMN31848323,PRJNA904651,P16,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-02-03,primary,1.0,6.316
+SAMN31848324,PRJNA904651,P16,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-16,primary,1.0,10.455
+SAMN31848329,PRJNA904651,P17,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-06-06,primary,1.0,8.846
+SAMN31848326,PRJNA904651,P17,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-20,primary,1.0,9.742
+SAMN31848327,PRJNA904651,P17,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-21,primary,1.0,7.865
+SAMN31848328,PRJNA904651,P17,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-03-31,primary,1.0,9.164
+SAMN31848330,PRJNA904651,P17,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-02-05,primary,1.0,9.48
+SAMN31848331,PRJNA904651,P17,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-02-08,primary,1.0,9.945
+SAMN31848336,PRJNA904651,P18,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-06-06,primary,1.0,9.83
+SAMN31848332,PRJNA904651,P18,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-01-20,primary,1.0,11.065
+SAMN31848333,PRJNA904651,P18,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-02-10,primary,1.0,9.73
+SAMN31848334,PRJNA904651,P18,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-02-21,primary,1.0,13.682
+SAMN31848335,PRJNA904651,P18,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-03-30,primary,1.0,8.62
+SAMN31848337,PRJNA904651,P18,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-02-06,primary,1.0,5.839
+SAMN31848338,PRJNA904651,P18,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-02-08,primary,1.0,22.104
+SAMN31848339,PRJNA904651,P19,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-04-06,primary,1.0,9.05
+SAMN31848340,PRJNA904651,P19,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-04-27,primary,1.0,8.506
+SAMN31848237,PRJNA904651,P2,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,,,2015-09-07,primary,1.0,10.106
+SAMN31848233,PRJNA904651,P2,Week -3,adult,,,NO,obesity,severe obesity,diet_intervention,,,2015-04-15,primary,1.0,8.252
+SAMN31848234,PRJNA904651,P2,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-05-05,primary,1.0,10.321
+SAMN31848235,PRJNA904651,P2,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-05-19,primary,1.0,7.357
+SAMN31848236,PRJNA904651,P2,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-06-15,primary,1.0,9.767
+SAMN31848238,PRJNA904651,P2,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-05-17,primary,1.0,10.129
+SAMN31848239,PRJNA904651,P2,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-05-15,primary,1.0,6.084
+SAMN31848343,PRJNA904651,P20,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-22,primary,1.0,7.738
+SAMN31848341,PRJNA904651,P20,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-04-07,primary,1.0,8.882
+SAMN31848342,PRJNA904651,P20,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-04-24,primary,1.0,9.104
+SAMN31848344,PRJNA904651,P21,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-04-20,primary,1.0,9.764
+SAMN31848345,PRJNA904651,P21,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-05-11,primary,1.0,9.191
+SAMN31848346,PRJNA904651,P21,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-05-23,primary,1.0,10.855
+SAMN31848347,PRJNA904651,P21,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-06-22,primary,1.0,7.737
+SAMN31848348,PRJNA904651,P21,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-05-03,primary,1.0,8.42
+SAMN31848352,PRJNA904651,P22,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-09-05,primary,1.0,9.52
+SAMN31848349,PRJNA904651,P22,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-05-10,primary,1.0,6.446
+SAMN31848350,PRJNA904651,P22,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-05-24,primary,1.0,10.636
+SAMN31848351,PRJNA904651,P22,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,,,2016-06-21,primary,1.0,8.217
+SAMN31848353,PRJNA904651,P22,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-05-02,primary,1.0,8.608
+SAMN31848357,PRJNA904651,P23,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-10-26,primary,1.0,22.821
+SAMN31848354,PRJNA904651,P23,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-05-25,primary,1.0,8.593
+SAMN31848355,PRJNA904651,P23,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-06-15,primary,1.0,7.019
+SAMN31848356,PRJNA904651,P23,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-04,primary,1.0,9.365
+SAMN31848358,PRJNA904651,P24,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-05-25,primary,1.0,8.981
+SAMN31848359,PRJNA904651,P24,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-06-15,primary,1.0,10.734
+SAMN31848360,PRJNA904651,P24,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-06-28,primary,1.0,9.07
+SAMN31848361,PRJNA904651,P24,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-04,primary,1.0,10.245
+SAMN31848362,PRJNA904651,P24,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-06-11,primary,1.0,9.344
+SAMN31848363,PRJNA904651,P24,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-06-14,primary,1.0,7.405
+SAMN31848364,PRJNA904651,P25,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,,primary,1.0,8.036
+SAMN31848365,PRJNA904651,P25,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-11-24,primary,1.0,6.661
+SAMN31848366,PRJNA904651,P25,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,,,2017-01-05,primary,1.0,9.551
+SAMN31848367,PRJNA904651,P25,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-11-21,primary,1.0,11.284
+SAMN31848368,PRJNA904651,P26,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-10,primary,1.0,10.113
+SAMN31848369,PRJNA904651,P26,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-10-12,primary,1.0,12.261
+SAMN31848370,PRJNA904651,P26,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-09-03,primary,1.0,10.637
+SAMN31848371,PRJNA904651,P27,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-17,primary,1.0,10.33
+SAMN31848372,PRJNA904651,P27,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-09-07,primary,1.0,6.926
+SAMN31848373,PRJNA904651,P27,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-09-20,primary,1.0,6.208
+SAMN31848374,PRJNA904651,P27,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-10-19,primary,1.0,7.885
+SAMN31848379,PRJNA904651,P28,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,,,2017-01-11,primary,1.0,9.408
+SAMN31848375,PRJNA904651,P28,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-18,primary,1.0,7.396
+SAMN31848376,PRJNA904651,P28,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-09-07,primary,1.0,10.19
+SAMN31848377,PRJNA904651,P28,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-09-21,primary,1.0,8.726
+SAMN31848378,PRJNA904651,P28,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-10-19,primary,1.0,9.58
+SAMN31848380,PRJNA904651,P28,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,,primary,1.0,7.776
+SAMN31848381,PRJNA904651,P28,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-09-05,primary,1.0,7.393
+SAMN31848382,PRJNA904651,P29,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-24,primary,1.0,7.556
+SAMN31848383,PRJNA904651,P29,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-09-15,primary,1.0,7.817
+SAMN31848244,PRJNA904651,P3,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-12-08,primary,1.0,9.973
+SAMN31848240,PRJNA904651,P3,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-07-29,primary,1.0,9.444
+SAMN31848241,PRJNA904651,P3,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-18,primary,1.0,8.845
+SAMN31848242,PRJNA904651,P3,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-08-30,primary,1.0,8.223
+SAMN31848243,PRJNA904651,P3,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-09-30,primary,1.0,8.338
+SAMN31848245,PRJNA904651,P3,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-22,primary,1.0,6.351
+SAMN31848246,PRJNA904651,P3,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,,,2017-08-24,primary,1.0,9.603
+SAMN31848384,PRJNA904651,P30,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-10,primary,1.0,8.583
+SAMN31848385,PRJNA904651,P30,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-31,primary,1.0,8.536
+SAMN31848389,PRJNA904651,P31,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-08,primary,1.0,7.158
+SAMN31848386,PRJNA904651,P31,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-08-25,primary,1.0,8.83
+SAMN31848387,PRJNA904651,P31,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-09-14,primary,1.0,9.767
+SAMN31848388,PRJNA904651,P31,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-09-28,primary,1.0,7.784
+SAMN31848394,PRJNA904651,P32,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-03-21,primary,1.0,9.007
+SAMN31848390,PRJNA904651,P32,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-11-02,primary,1.0,7.857
+SAMN31848391,PRJNA904651,P32,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-11-23,primary,1.0,8.73
+SAMN31848392,PRJNA904651,P32,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-12-04,primary,1.0,9.751
+SAMN31848393,PRJNA904651,P32,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-04,primary,1.0,6.966
+SAMN31848395,PRJNA904651,P32,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-11-23,primary,1.0,9.034
+SAMN31848396,PRJNA904651,P32,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-11-21,primary,1.0,10.045
+SAMN31848397,PRJNA904651,P33,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-12,primary,1.0,9.297
+SAMN31848398,PRJNA904651,P33,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-11-29,primary,1.0,7.67
+SAMN31848399,PRJNA904651,P33,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-11-28,primary,1.0,8.785
+SAMN31848400,PRJNA904651,P34,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-11-08,primary,1.0,14.408
+SAMN31848401,PRJNA904651,P34,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-11-30,primary,1.0,7.508
+SAMN31848402,PRJNA904651,P34,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-12-13,primary,1.0,10.606
+SAMN31848403,PRJNA904651,P34,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-11,primary,1.0,8.141
+SAMN31848404,PRJNA904651,P34,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2019-11-27,primary,1.0,8.485
+SAMN31848405,PRJNA904651,P34,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-11-27,primary,1.0,9.545
+SAMN31848410,PRJNA904651,P35,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-04-02,primary,1.0,9.013
+SAMN31848406,PRJNA904651,P35,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2016-11-16,primary,1.0,9.369
+SAMN31848407,PRJNA904651,P35,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2016-12-07,primary,1.0,7.047
+SAMN31848408,PRJNA904651,P35,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-12-19,primary,1.0,9.158
+SAMN31848409,PRJNA904651,P35,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-01-18,primary,1.0,8.467
+SAMN31848411,PRJNA904651,P35,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-12-06,primary,1.0,22.3
+SAMN31848412,PRJNA904651,P35,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-12-05,primary,1.0,11.296
+SAMN31848417,PRJNA904651,P36,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-06-21,primary,1.0,10.031
+SAMN31848413,PRJNA904651,P36,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-01,primary,1.0,10.306
+SAMN31848414,PRJNA904651,P36,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-22,primary,1.0,7.184
+SAMN31848415,PRJNA904651,P36,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-03-08,primary,1.0,9.92
+SAMN31848416,PRJNA904651,P36,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-04-05,primary,1.0,8.98
+SAMN31848418,PRJNA904651,P36,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-02-14,primary,1.0,8.363
+SAMN31848423,PRJNA904651,P37,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-06-21,primary,1.0,9.708
+SAMN31848419,PRJNA904651,P37,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-01,primary,1.0,8.844
+SAMN31848420,PRJNA904651,P37,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-22,primary,1.0,9.281
+SAMN31848421,PRJNA904651,P37,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-03-07,primary,1.0,8.254
+SAMN31848422,PRJNA904651,P37,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-04-05,primary,1.0,6.675
+SAMN31848424,PRJNA904651,P37,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-03-07,primary,1.0,8.97
+SAMN31848429,PRJNA904651,P38,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-06-05,primary,1.0,13.277
+SAMN31848425,PRJNA904651,P38,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2017-01-24,primary,1.0,9.447
+SAMN31848426,PRJNA904651,P38,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-15,primary,1.0,9.36
+SAMN31848427,PRJNA904651,P38,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-02-26,primary,1.0,10.09
+SAMN31848428,PRJNA904651,P38,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-03-29,primary,1.0,6.848
+SAMN31848434,PRJNA904651,P39,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-06-26,primary,1.0,6.42
+SAMN31848430,PRJNA904651,P39,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-08,primary,1.0,7.896
+SAMN31848431,PRJNA904651,P39,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2017-03-01,primary,1.0,7.992
+SAMN31848432,PRJNA904651,P39,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-03-12,primary,1.0,8.682
+SAMN31848433,PRJNA904651,P39,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-04-19,primary,1.0,10.82
+SAMN31848435,PRJNA904651,P39,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-02-27,primary,1.0,7.547
+SAMN31848436,PRJNA904651,P39,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2019-02-14,primary,1.0,9.939
+SAMN31848251,PRJNA904651,P4,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-12-09,primary,1.0,8.481
+SAMN31848247,PRJNA904651,P4,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-07-30,primary,1.0,9.017
+SAMN31848248,PRJNA904651,P4,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-20,primary,1.0,8.315
+SAMN31848249,PRJNA904651,P4,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,,,2015-08-31,primary,1.0,8.369
+SAMN31848250,PRJNA904651,P4,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-01,primary,1.0,8.913
+SAMN31848252,PRJNA904651,P4,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-22,primary,1.0,7.869
+SAMN31848253,PRJNA904651,P4,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-08-24,primary,1.0,10.761
+SAMN31848441,PRJNA904651,P40,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-06-27,primary,1.0,8.855
+SAMN31848437,PRJNA904651,P40,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2017-02-08,primary,1.0,9.963
+SAMN31848438,PRJNA904651,P40,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2017-03-02,primary,1.0,7.543
+SAMN31848439,PRJNA904651,P40,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-03-13,primary,1.0,8.275
+SAMN31848440,PRJNA904651,P40,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-04-19,primary,1.0,8.774
+SAMN31848442,PRJNA904651,P40,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2018-02-28,primary,1.0,6.783
+SAMN31848443,PRJNA904651,P40,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2019-02-13,primary,1.0,7.374
+SAMN31848448,PRJNA904651,P41,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-12-07,primary,1.0,8.065
+SAMN31848444,PRJNA904651,P41,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-07-27,primary,1.0,9.314
+SAMN31848445,PRJNA904651,P41,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-08-17,primary,1.0,8.459
+SAMN31848446,PRJNA904651,P41,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-08-29,primary,1.0,9.984
+SAMN31848447,PRJNA904651,P41,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-09-29,primary,1.0,9.187
+SAMN31848449,PRJNA904651,P41,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-08-21,primary,1.0,14.008
+SAMN31848450,PRJNA904651,P41,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-08-21,primary,1.0,12.23
+SAMN31848455,PRJNA904651,P42,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-12-09,primary,1.0,8.153
+SAMN31848451,PRJNA904651,P42,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-07-28,primary,1.0,11.801
+SAMN31848452,PRJNA904651,P42,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-08-18,primary,1.0,7.424
+SAMN31848453,PRJNA904651,P42,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-08-30,primary,1.0,8.544
+SAMN31848454,PRJNA904651,P42,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-09-30,primary,1.0,9.395
+SAMN31848456,PRJNA904651,P42,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-08-22,primary,1.0,10.046
+SAMN31848457,PRJNA904651,P42,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-08-22,primary,1.0,7.857
+SAMN31848462,PRJNA904651,P43,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-02-07,primary,1.0,10.013
+SAMN31848458,PRJNA904651,P43,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-09-15,primary,1.0,8.799
+SAMN31848459,PRJNA904651,P43,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-10-06,primary,1.0,9.125
+SAMN31848460,PRJNA904651,P43,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-10-17,primary,1.0,9.658
+SAMN31848461,PRJNA904651,P43,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-11-16,primary,1.0,10.382
+SAMN31848463,PRJNA904651,P43,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-09,primary,1.0,9.449
+SAMN31848464,PRJNA904651,P43,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-09,primary,1.0,6.848
+SAMN31848465,PRJNA904651,P44,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-09-15,primary,1.0,7.899
+SAMN31848466,PRJNA904651,P44,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-10-06,primary,1.0,7.219
+SAMN31848471,PRJNA904651,P45,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-01-03,primary,1.0,8.95
+SAMN31848467,PRJNA904651,P45,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-08-11,primary,1.0,7.465
+SAMN31848468,PRJNA904651,P45,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-09-01,primary,1.0,7.912
+SAMN31848469,PRJNA904651,P45,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-09-14,primary,1.0,9.072
+SAMN31848470,PRJNA904651,P45,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-10-20,primary,1.0,7.401
+SAMN31848472,PRJNA904651,P45,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-04,primary,1.0,9.391
+SAMN31848473,PRJNA904651,P45,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-04,primary,1.0,8.229
+SAMN31848478,PRJNA904651,P46,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-01-04,primary,1.0,8.454
+SAMN31848474,PRJNA904651,P46,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-08-10,primary,1.0,7.499
+SAMN31848475,PRJNA904651,P46,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-08-31,primary,1.0,9.623
+SAMN31848476,PRJNA904651,P46,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-09-14,primary,1.0,8.474
+SAMN31848477,PRJNA904651,P46,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-10-19,primary,1.0,8.572
+SAMN31848479,PRJNA904651,P46,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,,primary,1.0,8.436
+SAMN31848484,PRJNA904651,P47,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-02-14,primary,1.0,6.266
+SAMN31848480,PRJNA904651,P47,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-09-22,primary,1.0,5.912
+SAMN31848481,PRJNA904651,P47,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-10-13,primary,1.0,7.451
+SAMN31848482,PRJNA904651,P47,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-10-25,primary,1.0,7.008
+SAMN31848483,PRJNA904651,P47,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-11-24,primary,1.0,9.211
+SAMN31848485,PRJNA904651,P47,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-17,primary,1.0,10.861
+SAMN31848486,PRJNA904651,P47,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-17,primary,1.0,8.212
+SAMN31848487,PRJNA904651,P48,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-09-22,primary,1.0,7.308
+SAMN31848488,PRJNA904651,P48,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2015-10-13,primary,1.0,18.72
+SAMN31848489,PRJNA904651,P48,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2015-10-25,primary,1.0,9.101
+SAMN31848490,PRJNA904651,P48,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,,primary,1.0,17.869
+SAMN31848495,PRJNA904651,P49,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-05-23,primary,1.0,7.61
+SAMN31848491,PRJNA904651,P49,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-05,primary,1.0,6.768
+SAMN31848492,PRJNA904651,P49,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-26,primary,1.0,7.468
+SAMN31848493,PRJNA904651,P49,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-02-08,primary,1.0,8.349
+SAMN31848494,PRJNA904651,P49,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-03-08,primary,1.0,10.131
+SAMN31848496,PRJNA904651,P49,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-22,primary,1.0,7.589
+SAMN31848497,PRJNA904651,P49,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-22,primary,1.0,8.767
+SAMN31848257,PRJNA904651,P5,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-12-19,primary,1.0,7.227
+SAMN31848254,PRJNA904651,P5,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-03,primary,1.0,11.637
+SAMN31848255,PRJNA904651,P5,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-25,primary,1.0,7.379
+SAMN31848256,PRJNA904651,P5,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-09-09,primary,1.0,6.976
+SAMN31848258,PRJNA904651,P5,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-28,primary,1.0,8.033
+SAMN31848259,PRJNA904651,P5,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-11-09,primary,1.0,8.096
+SAMN31848502,PRJNA904651,P50,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-06-06,primary,1.0,15.943
+SAMN31848498,PRJNA904651,P50,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-12,primary,1.0,10.869
+SAMN31848499,PRJNA904651,P50,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-02-03,primary,1.0,7.799
+SAMN31848500,PRJNA904651,P50,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-02-17,primary,1.0,5.929
+SAMN31848501,PRJNA904651,P50,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-03-16,primary,1.0,7.104
+SAMN31848503,PRJNA904651,P50,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-30,primary,1.0,13.363
+SAMN31848508,PRJNA904651,P51,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-05-23,primary,1.0,8.555
+SAMN31848504,PRJNA904651,P51,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-06,primary,1.0,9.021
+SAMN31848505,PRJNA904651,P51,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-26,primary,1.0,8.315
+SAMN31848506,PRJNA904651,P51,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-02-09,primary,1.0,10.924
+SAMN31848507,PRJNA904651,P51,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-03-09,primary,1.0,14.915
+SAMN31848509,PRJNA904651,P51,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,,primary,1.0,9.116
+SAMN31848510,PRJNA904651,P52,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-19,primary,1.0,11.103
+SAMN31848511,PRJNA904651,P52,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-02-08,primary,1.0,8.937
+SAMN31848512,PRJNA904651,P53,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-01-19,primary,1.0,8.29
+SAMN31848517,PRJNA904651,P54,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-04,primary,1.0,6.513
+SAMN31848513,PRJNA904651,P54,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-04-05,primary,1.0,8.866
+SAMN31848514,PRJNA904651,P54,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-04-26,primary,1.0,17.699
+SAMN31848515,PRJNA904651,P54,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-05-08,primary,1.0,6.703
+SAMN31848516,PRJNA904651,P54,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-06-07,primary,1.0,6.84
+SAMN31848518,PRJNA904651,P54,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-05-03,primary,1.0,6.609
+SAMN31848519,PRJNA904651,P54,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-05-03,primary,1.0,7.292
+SAMN31848523,PRJNA904651,P55,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-15,primary,1.0,8.983
+SAMN31848520,PRJNA904651,P55,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-04-25,primary,1.0,9.387
+SAMN31848521,PRJNA904651,P55,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-05-08,primary,1.0,8.443
+SAMN31848522,PRJNA904651,P55,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-06-07,primary,1.0,6.258
+SAMN31848524,PRJNA904651,P55,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,,primary,1.0,7.756
+SAMN31848527,PRJNA904651,P56,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-06,primary,1.0,7.999
+SAMN31848525,PRJNA904651,P56,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-04-19,primary,1.0,8.89
+SAMN31848526,PRJNA904651,P56,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-05-10,primary,1.0,7.693
+SAMN31848532,PRJNA904651,P57,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-05,primary,1.0,8.914
+SAMN31848528,PRJNA904651,P57,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-04-18,primary,1.0,6.248
+SAMN31848529,PRJNA904651,P57,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-05-10,primary,1.0,9.244
+SAMN31848530,PRJNA904651,P57,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-05-23,primary,1.0,17.093
+SAMN31848531,PRJNA904651,P57,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-06-21,primary,1.0,6.764
+SAMN31848533,PRJNA904651,P57,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-05-08,primary,1.0,8.263
+SAMN31848534,PRJNA904651,P57,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-05-08,primary,1.0,8.721
+SAMN31848539,PRJNA904651,P58,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-13,primary,1.0,8.094
+SAMN31848535,PRJNA904651,P58,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-05-24,primary,1.0,7.659
+SAMN31848536,PRJNA904651,P58,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-06-14,primary,1.0,16.258
+SAMN31848537,PRJNA904651,P58,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-06-29,primary,1.0,9.714
+SAMN31848538,PRJNA904651,P58,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-08-02,primary,1.0,7.668
+SAMN31848540,PRJNA904651,P58,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-06-12,primary,1.0,9.035
+SAMN31848541,PRJNA904651,P58,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-06-12,primary,1.0,9.071
+SAMN31848542,PRJNA904651,P59,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-05-25,primary,1.0,9.736
+SAMN31848264,PRJNA904651,P6,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-12-20,primary,1.0,22.527
+SAMN31848260,PRJNA904651,P6,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-05,primary,1.0,20.725
+SAMN31848261,PRJNA904651,P6,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-26,primary,1.0,9.324
+SAMN31848262,PRJNA904651,P6,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-09-09,primary,1.0,13.476
+SAMN31848263,PRJNA904651,P6,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-05,primary,1.0,10.344
+SAMN31848265,PRJNA904651,P6,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-08-30,primary,1.0,10.311
+SAMN31848547,PRJNA904651,P60,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-08,primary,1.0,5.834
+SAMN31848543,PRJNA904651,P60,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-08-16,primary,1.0,8.494
+SAMN31848544,PRJNA904651,P60,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-09-07,primary,1.0,9.82
+SAMN31848545,PRJNA904651,P60,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-20,primary,1.0,9.196
+SAMN31848546,PRJNA904651,P60,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-18,primary,1.0,9.268
+SAMN31848548,PRJNA904651,P60,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-09-04,primary,1.0,6.52
+SAMN31848549,PRJNA904651,P60,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-09-04,primary,1.0,6.568
+SAMN31848550,PRJNA904651,P61,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-08-16,primary,1.0,7.912
+SAMN31848551,PRJNA904651,P61,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-09-07,primary,1.0,7.975
+SAMN31848552,PRJNA904651,P61,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-21,primary,1.0,7.123
+SAMN31848553,PRJNA904651,P61,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-19,primary,1.0,9.419
+SAMN31848554,PRJNA904651,P61,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-09-04,primary,1.0,7.737
+SAMN31848555,PRJNA904651,P61,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-09-04,primary,1.0,8.74
+SAMN31848556,PRJNA904651,P62,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-08-23,primary,1.0,8.498
+SAMN31848557,PRJNA904651,P62,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-09-13,primary,1.0,6.497
+SAMN31848558,PRJNA904651,P62,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-28,primary,1.0,9.633
+SAMN31848559,PRJNA904651,P62,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-10-26,primary,1.0,7.159
+SAMN31848560,PRJNA904651,P62,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-09-13,primary,1.0,8.556
+SAMN31848561,PRJNA904651,P62,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-09-13,primary,1.0,6.649
+SAMN31848562,PRJNA904651,P63,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-08-23,primary,1.0,9.132
+SAMN31848563,PRJNA904651,P63,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-09-26,primary,1.0,13.139
+SAMN31848564,PRJNA904651,P64,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-03,primary,1.0,7.419
+SAMN31848569,PRJNA904651,P65,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-03-26,primary,1.0,6.113
+SAMN31848565,PRJNA904651,P65,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-11-08,primary,1.0,7.653
+SAMN31848566,PRJNA904651,P65,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-11-29,primary,1.0,8.056
+SAMN31848567,PRJNA904651,P65,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-12-12,primary,1.0,4.086
+SAMN31848568,PRJNA904651,P65,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-10,primary,1.0,8.82
+SAMN31848570,PRJNA904651,P65,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-11-28,primary,1.0,6.611
+SAMN31848573,PRJNA904651,P66,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-03-26,primary,1.0,8.517
+SAMN31848571,PRJNA904651,P66,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-11-09,primary,1.0,13.708
+SAMN31848572,PRJNA904651,P66,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-11-29,primary,1.0,7.741
+SAMN31848574,PRJNA904651,P66,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-11-29,primary,1.0,7.255
+SAMN31848579,PRJNA904651,P67,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-04-02,primary,1.0,8.424
+SAMN31848575,PRJNA904651,P67,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-11-15,primary,1.0,6.796
+SAMN31848576,PRJNA904651,P67,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-12-06,primary,1.0,6.658
+SAMN31848577,PRJNA904651,P67,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-12-20,primary,1.0,7.411
+SAMN31848578,PRJNA904651,P67,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-18,primary,1.0,7.433
+SAMN31848580,PRJNA904651,P67,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-12-06,primary,1.0,8.195
+SAMN31848581,PRJNA904651,P67,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-12-06,primary,1.0,9.051
+SAMN31848586,PRJNA904651,P68,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-04-09,primary,1.0,7.28
+SAMN31848582,PRJNA904651,P68,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2016-11-16,primary,1.0,6.81
+SAMN31848583,PRJNA904651,P68,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,,primary,1.0,8.868
+SAMN31848584,PRJNA904651,P68,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2016-12-20,primary,1.0,6.538
+SAMN31848585,PRJNA904651,P68,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-01-18,primary,1.0,8.231
+SAMN31848587,PRJNA904651,P68,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-12-05,primary,1.0,8.568
+SAMN31848588,PRJNA904651,P68,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-12-05,primary,1.0,6.37
+SAMN31848593,PRJNA904651,P69,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-06-12,primary,1.0,7.245
+SAMN31848589,PRJNA904651,P69,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-01-25,primary,1.0,9.162
+SAMN31848590,PRJNA904651,P69,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-15,primary,1.0,5.856
+SAMN31848591,PRJNA904651,P69,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-02-27,primary,1.0,7.45
+SAMN31848592,PRJNA904651,P69,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-03-29,primary,1.0,7.803
+SAMN31848594,PRJNA904651,P69,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-07,primary,1.0,6.204
+SAMN31848595,PRJNA904651,P69,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-07,primary,1.0,8.315
+SAMN31848270,PRJNA904651,P7,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-01-04,primary,1.0,8.819
+SAMN31848266,PRJNA904651,P7,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-06,primary,1.0,9.002
+SAMN31848267,PRJNA904651,P7,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-27,primary,1.0,11.309
+SAMN31848268,PRJNA904651,P7,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-09-10,primary,1.0,8.248
+SAMN31848269,PRJNA904651,P7,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-06,primary,1.0,10.144
+SAMN31848271,PRJNA904651,P7,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-08-29,primary,1.0,8.85
+SAMN31848596,PRJNA904651,P70,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-06,primary,1.0,5.834
+SAMN31848597,PRJNA904651,P70,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-28,primary,1.0,8.425
+SAMN31848598,PRJNA904651,P70,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-04-18,primary,1.0,8.345
+SAMN31848599,PRJNA904651,P70,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-28,primary,1.0,7.717
+SAMN31848600,PRJNA904651,P70,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-28,primary,1.0,6.839
+SAMN31848601,PRJNA904651,P71,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-01,primary,1.0,9.704
+SAMN31848602,PRJNA904651,P71,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-21,primary,1.0,6.505
+SAMN31848603,PRJNA904651,P71,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-07,primary,1.0,6.988
+SAMN31848604,PRJNA904651,P71,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-07,primary,1.0,7.789
+SAMN31848605,PRJNA904651,P72,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-01-31,primary,1.0,12.02
+SAMN31848606,PRJNA904651,P72,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-21,primary,1.0,5.701
+SAMN31848611,PRJNA904651,P73,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-06-14,primary,1.0,7.17
+SAMN31848607,PRJNA904651,P73,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-01-24,primary,1.0,6.362
+SAMN31848608,PRJNA904651,P73,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-14,primary,1.0,5.829
+SAMN31848609,PRJNA904651,P73,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-02-25,primary,1.0,7.449
+SAMN31848610,PRJNA904651,P73,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-03-27,primary,1.0,7.508
+SAMN31848612,PRJNA904651,P73,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-06,primary,1.0,7.197
+SAMN31848613,PRJNA904651,P73,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-02-06,primary,1.0,8.333
+SAMN31848614,PRJNA904651,P74,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-02-07,primary,1.0,8.275
+SAMN31848619,PRJNA904651,P75,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-10-08,primary,1.0,5.944
+SAMN31848615,PRJNA904651,P75,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-04-23,primary,1.0,7.396
+SAMN31848616,PRJNA904651,P75,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-06-13,primary,1.0,6.58
+SAMN31848617,PRJNA904651,P75,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-06-24,primary,1.0,8.543
+SAMN31848618,PRJNA904651,P75,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-08-01,primary,1.0,5.48
+SAMN31848620,PRJNA904651,P75,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-06-12,primary,1.0,4.47
+SAMN31848621,PRJNA904651,P75,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-06-12,primary,1.0,7.094
+SAMN31848622,PRJNA904651,P76,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-06-12,primary,1.0,9.588
+SAMN31848623,PRJNA904651,P76,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-06-24,primary,1.0,8.669
+SAMN31848624,PRJNA904651,P76,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-08-01,primary,1.0,6.822
+SAMN31848629,PRJNA904651,P77,Month 4,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-10-09,primary,1.0,10.378
+SAMN31848625,PRJNA904651,P77,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,,primary,1.0,7.513
+SAMN31848626,PRJNA904651,P77,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-06-20,primary,1.0,6.737
+SAMN31848627,PRJNA904651,P77,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-07-04,primary,1.0,8.233
+SAMN31848628,PRJNA904651,P77,Week 6,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-08-09,primary,1.0,7.387
+SAMN31848630,PRJNA904651,P77,Year 1,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-06-13,primary,1.0,6.652
+SAMN31848631,PRJNA904651,P77,Year 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2018-06-13,primary,1.0,7.614
+SAMN31848632,PRJNA904651,P78,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: gastric bypass surgery (GBP) arm,,2017-05-30,primary,1.0,6.854
+SAMN31848633,PRJNA904651,P78,Week 2,adult,,,NO,obesity,severe obesity,surgery,gastric bypass surgery (GBP) arm,,2017-07-04,primary,1.0,11.42
+SAMN31848276,PRJNA904651,P8,Month 4,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-01-03,primary,1.0,9.559
+SAMN31848272,PRJNA904651,P8,Week -3,adult,,,NO,obesity,severe obesity,no_intervention,3 weeks before intervention start; assigned arm: very low energy diet (VLED) arm,,2015-08-11,primary,1.0,10.156
+SAMN31848273,PRJNA904651,P8,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-09-01,primary,1.0,6.749
+SAMN31848274,PRJNA904651,P8,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-09-14,primary,1.0,8.637
+SAMN31848275,PRJNA904651,P8,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-20,primary,1.0,10.618
+SAMN31848277,PRJNA904651,P8,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-09-05,primary,1.0,10.752
+SAMN31848278,PRJNA904651,P8,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-09-05,primary,1.0,9.208
+SAMN31848279,PRJNA904651,P9,Week -3,adult,,,NO,obesity,severe obesity,diet_intervention,,,2015-09-16,primary,1.0,9.276
+SAMN31848280,PRJNA904651,P9,Week 0,adult,,,NO,obesity,severe obesity,no_intervention,baseline at intervention start; assigned arm: very low energy diet (VLED) arm,,2015-10-07,primary,1.0,4.708
+SAMN31848281,PRJNA904651,P9,Week 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-10-17,primary,1.0,19.624
+SAMN31848282,PRJNA904651,P9,Week 6,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2015-11-17,primary,1.0,17.574
+SAMN31848283,PRJNA904651,P9,Year 1,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2016-10-26,primary,1.0,10.345
+SAMN31848284,PRJNA904651,P9,Year 2,adult,,,NO,obesity,severe obesity,diet_intervention,very low energy diet (VLED) arm,,2017-10-25,primary,1.0,8.241

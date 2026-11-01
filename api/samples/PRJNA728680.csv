@@ -1,0 +1,96 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN19760871,PRJNA728680,PM01,C1D01,adult,22280.2,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,1.403
+SAMN19760872,PRJNA728680,PM01,C1D02,adult,22280.2,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,2.497
+SAMN19760873,PRJNA728680,PM01,C1D15,adult,22280.2,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,2.334
+SAMN19760874,PRJNA728680,PM01,C1D36,adult,22280.2,female,US,type2_diabetes,mdro: no,fmt,FMT treatment arm,,,primary,1.0,1.352
+SAMN19760875,PRJNA728680,PM01,S1,adult,22280.2,female,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,2.0,2.328
+SAMN19760876,PRJNA728680,PM01,S2,adult,22280.2,female,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,3.09
+SAMN19760877,PRJNA728680,PM01,S3,adult,22280.2,female,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,3.0,3.2
+SAMN19760878,PRJNA728680,PM02,C1D01,elderly,23741.2,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,3.0,4.302
+SAMN19760879,PRJNA728680,PM02,C1D02,elderly,23741.2,female,US,type2_diabetes,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.652
+SAMN19760880,PRJNA728680,PM02,C1D15,elderly,23741.2,female,US,type2_diabetes,mdro: no,fmt,FMT treatment arm,,,primary,3.0,3.631
+SAMN19760881,PRJNA728680,PM02,C1D36,elderly,23741.2,female,US,type2_diabetes,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.097
+SAMN19760882,PRJNA728680,PM02,S1,elderly,23741.2,female,US,type2_diabetes,mdro: no,no_intervention,screening visit before randomisation,,,primary,2.0,3.08
+SAMN19760883,PRJNA728680,PM03,C0D01,adult,22627.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,2.0,3.601
+SAMN19760884,PRJNA728680,PM03,C0D02,adult,22627.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,2.752
+SAMN19760885,PRJNA728680,PM03,C0D15,adult,22627.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,2.0,2.102
+SAMN19760886,PRJNA728680,PM03,C0D36,adult,22627.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,2.0,2.489
+SAMN19760887,PRJNA728680,PM03,C1D01,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,3.477
+SAMN19760888,PRJNA728680,PM03,C1D02,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,4.019
+SAMN19760889,PRJNA728680,PM03,C1D15,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,4.185
+SAMN19760890,PRJNA728680,PM03,C1D36,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,3.595
+SAMN19760891,PRJNA728680,PM03,C2D01,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.378
+SAMN19760892,PRJNA728680,PM03,C2D02,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,3.0,3.736
+SAMN19760893,PRJNA728680,PM03,C2D15,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.055
+SAMN19760894,PRJNA728680,PM03,C2D36,adult,22627.0,male,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.449
+SAMN19760895,PRJNA728680,PM03,S1,adult,22627.0,male,US,other_infection,mdro: yes,no_intervention,screening visit before randomisation,,,primary,2.0,3.052
+SAMN19760896,PRJNA728680,PM04,C1D01,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,3.0,4.027
+SAMN19760897,PRJNA728680,PM04,C1D02,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.558
+SAMN19760898,PRJNA728680,PM04,C1D15,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,3.0,4.119
+SAMN19760899,PRJNA728680,PM04,C1D36,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,3.879
+SAMN19760900,PRJNA728680,PM04,C2D01,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,3.0,4.532
+SAMN19760901,PRJNA728680,PM04,C2D02,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,4.104
+SAMN19760902,PRJNA728680,PM04,C2D15,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,3.0,3.142
+SAMN19760903,PRJNA728680,PM04,C2D36,elderly,25550.0,female,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,2.0,4.091
+SAMN19760904,PRJNA728680,PM04,S1,elderly,25550.0,female,US,other_infection,mdro: yes,no_intervention,screening visit before randomisation,,,primary,3.0,4.162
+SAMN19760905,PRJNA728680,PM05,C0D01,elderly,27394.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,3.245
+SAMN19760906,PRJNA728680,PM05,C0D02,elderly,27394.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.364
+SAMN19760907,PRJNA728680,PM05,C0D15,elderly,27394.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.063
+SAMN19760908,PRJNA728680,PM05,C0D36,elderly,27394.0,male,US,other_infection,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,3.176
+SAMN19760909,PRJNA728680,PM05,C1D01,elderly,27394.0,male,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,2.217
+SAMN19760910,PRJNA728680,PM05,C1D02,elderly,27394.0,male,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,3.883
+SAMN19760911,PRJNA728680,PM05,C1D15,elderly,27394.0,male,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,1.0,3.221
+SAMN19760912,PRJNA728680,PM05,C1D36,elderly,27394.0,male,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,1.0,3.941
+SAMN19760913,PRJNA728680,PM05,S1,elderly,27394.0,male,US,other_infection,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,3.359
+SAMN19760914,PRJNA728680,PM06,C1D01,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,3.629
+SAMN19760915,PRJNA728680,PM06,C1D02,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,3.862
+SAMN19760916,PRJNA728680,PM06,C1D15,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,3.866
+SAMN19760917,PRJNA728680,PM06,C1D36,adult,18627.8,female,US,type2_diabetes,mdro: no,fmt,FMT treatment arm,,,primary,2.0,3.641
+SAMN19760918,PRJNA728680,PM06,S1,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,2.0,3.562
+SAMN19760919,PRJNA728680,PM07,C0D01,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,3.0,4.048
+SAMN19760920,PRJNA728680,PM07,C0D02,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,2.0,3.255
+SAMN19760921,PRJNA728680,PM07,C0D15,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,3.0,4.418
+SAMN19760922,PRJNA728680,PM07,C0D36,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,3.0,4.214
+SAMN19760923,PRJNA728680,PM07,C1D01,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,5.624
+SAMN19760924,PRJNA728680,PM07,C1D02,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,4.644
+SAMN19760925,PRJNA728680,PM07,C1D15,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,5.083
+SAMN19760926,PRJNA728680,PM07,C1D36,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,5.424
+SAMN19760927,PRJNA728680,PM07,C2D01,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,4.687
+SAMN19760928,PRJNA728680,PM07,C2D02,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,4.808
+SAMN19760929,PRJNA728680,PM07,C2D15,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,5.266
+SAMN19760930,PRJNA728680,PM07,C2D36,adult,18627.8,female,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,2.0,5.541
+SAMN19760931,PRJNA728680,PM07,S1,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,3.0,4.548
+SAMN19760932,PRJNA728680,PM07,S2,adult,18627.8,female,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,2.0,5.19
+SAMN19760933,PRJNA728680,PM08,C0D01,elderly,27028.5,male,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,5.228
+SAMN19760934,PRJNA728680,PM08,C0D02,elderly,27028.5,male,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.394
+SAMN19760935,PRJNA728680,PM08,C0D15,elderly,27028.5,male,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.416
+SAMN19760936,PRJNA728680,PM08,C0D36,elderly,27028.5,male,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.61
+SAMN19760937,PRJNA728680,PM08,C1D01,elderly,27028.5,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,2.634
+SAMN19760938,PRJNA728680,PM08,C1D02,elderly,27028.5,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,4.676
+SAMN19760939,PRJNA728680,PM08,C1D15,elderly,27028.5,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,4.727
+SAMN19760940,PRJNA728680,PM08,C1D36,elderly,27028.5,male,US,type2_diabetes,mdro: no,fmt,FMT treatment arm,,,primary,1.0,4.47
+SAMN19760941,PRJNA728680,PM08,S1,elderly,27028.5,male,US,type2_diabetes,mdro: no,no_intervention,screening visit before randomisation,,,primary,1.0,4.215
+SAMN19760942,PRJNA728680,PM08,S2,elderly,27028.5,male,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,4.466
+SAMN19760943,PRJNA728680,PM08,S3,elderly,27028.5,male,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,4.446
+SAMN19760944,PRJNA728680,PM09,C1D01,adult,19358.2,female,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,1.0,5.592
+SAMN19760945,PRJNA728680,PM09,C1D15,adult,19358.2,female,US,transplant_or_immunocompromised,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,5.552
+SAMN19760946,PRJNA728680,PM09,C1D36,adult,19358.2,female,US,transplant_or_immunocompromised,mdro: no,fmt,FMT treatment arm,,,primary,1.0,4.837
+SAMN19760947,PRJNA728680,PM09,S1,adult,19358.2,female,US,other_infection,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,5.472
+SAMN19760948,PRJNA728680,PM09,S2,adult,19358.2,female,US,other_infection,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,4.374
+SAMN19760949,PRJNA728680,PM09,S3,adult,19358.2,female,US,other_infection,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,4.199
+SAMN19760950,PRJNA728680,PM12,C0D01,elderly,23741.2,male,US,type2_diabetes,mdro: no,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.475
+SAMN19760951,PRJNA728680,PM12,C0D02,elderly,23741.2,male,US,type2_diabetes,mdro: no,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.366
+SAMN19760952,PRJNA728680,PM12,C0D15,elderly,23741.2,male,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,3.809
+SAMN19760953,PRJNA728680,PM12,C0D36,elderly,23741.2,male,US,type2_diabetes,mdro: yes,no_intervention,baseline cycle 0 visit before FMT,,,primary,1.0,4.448
+SAMN19760954,PRJNA728680,PM12,S1,elderly,23741.2,male,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,5.062
+SAMN19760955,PRJNA728680,PM13,C1D01,elderly,26641.0,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,5.032
+SAMN19760956,PRJNA728680,PM13,C1D02,elderly,26641.0,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,5.373
+SAMN19760957,PRJNA728680,PM13,C1D15,elderly,26641.0,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,3.901
+SAMN19760958,PRJNA728680,PM13,C1D36,elderly,26641.0,male,US,type2_diabetes,mdro: yes,fmt,FMT treatment arm,,,primary,1.0,4.669
+SAMN19760959,PRJNA728680,PM13,S1,elderly,26641.0,male,US,type2_diabetes,mdro: yes,no_intervention,screening visit before randomisation,,,primary,1.0,4.072
+SAMN19760960,PRJNA728680,SD01,419001,adult,12783.8,female,US,,mdro: no,no_intervention,stool donor (no intervention),,,primary,1.0,5.196
+SAMN19760961,PRJNA728680,SD01,419002,adult,12783.8,female,US,,mdro: no,no_intervention,stool donor (no intervention),,,primary,1.0,5.427
+SAMN19760962,PRJNA728680,SD01,419003,adult,12783.8,female,US,,mdro: no,no_intervention,stool donor (no intervention),,,primary,1.0,7.294
+SAMN19760963,PRJNA728680,SD01,718001,adult,12783.8,female,US,,mdro: no,no_intervention,stool donor (no intervention),,,primary,1.0,4.657
+SAMN19760964,PRJNA728680,SD01,818001,adult,12783.8,female,US,,mdro: no,no_intervention,stool donor (no intervention),,,primary,1.0,2.431
+SAMN19760965,PRJNA728680,SD01,818002,adult,12783.8,female,US,,mdro: no,no_intervention,stool donor (no intervention),,,primary,1.0,3.609

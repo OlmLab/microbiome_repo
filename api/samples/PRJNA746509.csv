@@ -1,0 +1,6 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN20336867,PRJNA746509,,1 day after 1st antibiotic therapy,infant,30.0,male,IT,other_disease,propionic acidemia,,,yes,2020-06-01,primary,1.0,0.398
+SAMN20336869,PRJNA746509,,1 day after 5th antibiotic therapy and 1 day of probiotic supplementation,infant,122.0,male,IT,other_disease,propionic acidemia,,,,2020-09-21,primary,1.0,0.282
+SAMN20336870,PRJNA746509,,21 days after 5th antibiotic therapy and end of probiotic supplementation,infant,152.0,male,IT,other_disease,propionic acidemia,,,,2020-10-11,primary,1.0,0.776
+SAMN20336866,PRJNA746509,,Before 1st antibiotic therapy,infant,30.0,male,IT,other_disease,propionic acidemia,no_intervention,,no,2020-05-18,primary,1.0,0.453
+SAMN20336868,PRJNA746509,,Before 5th antibiotic therapy,infant,122.0,male,IT,other_disease,propionic acidemia,,,,2020-09-13,primary,1.0,0.542

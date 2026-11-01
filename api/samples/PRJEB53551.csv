@@ -1,0 +1,213 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA110132972,PRJEB53551,003,,adult,,,,healthy_control,Donor,,,,,primary,1.0,8.016
+SAMEA110132975,PRJEB53551,003,,adult,,,,healthy_control,Donor,,,,,primary,1.0,6.885
+SAMEA110132979,PRJEB53551,003,,adult,,,,healthy_control,Donor,,,,,primary,1.0,7.976
+SAMEA110132995,PRJEB53551,003,,adult,,,,healthy_control,Donor,,,,,primary,1.0,7.307
+SAMEA110132996,PRJEB53551,003,,adult,,,,healthy_control,Donor,,,,,primary,1.0,9.059
+SAMEA110132998,PRJEB53551,004,,adult,,,,healthy_control,Donor,,,,,primary,1.0,7.59
+SAMEA110132978,PRJEB53551,011,,adult,,,,healthy_control,Donor,,,,,primary,1.0,6.957
+SAMEA110132980,PRJEB53551,011,,adult,,,,healthy_control,Donor,,,,,primary,1.0,4.043
+SAMEA110132985,PRJEB53551,012,,adult,,,,healthy_control,Donor,,,,,primary,1.0,4.029
+SAMEA110132973,PRJEB53551,013,,adult,,,,healthy_control,Donor,,,,,primary,1.0,7.579
+SAMEA110132976,PRJEB53551,013,,adult,,,,healthy_control,Donor,,,,,primary,1.0,9.385
+SAMEA110132981,PRJEB53551,013,,adult,,,,healthy_control,Donor,,,,,primary,1.0,3.999
+SAMEA110132984,PRJEB53551,014,,adult,,,,healthy_control,Donor,,,,,primary,1.0,4.086
+SAMEA110132987,PRJEB53551,014,,adult,,,,healthy_control,Donor,,,,,primary,1.0,5.484
+SAMEA110132991,PRJEB53551,017,,adult,,,,healthy_control,Donor,,,,,primary,1.0,5.524
+SAMEA110132989,PRJEB53551,018,,adult,,,,healthy_control,Donor,,,,,primary,1.0,5.097
+SAMEA110132992,PRJEB53551,028,,adult,,,,healthy_control,Donor,,,,,primary,1.0,4.639
+SAMEA110133001,PRJEB53551,10H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.561
+SAMEA110133000,PRJEB53551,10H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,8.335
+SAMEA110133002,PRJEB53551,10H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.266
+SAMEA110132999,PRJEB53551,10H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,7.333
+SAMEA110133107,PRJEB53551,11H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,7.445
+SAMEA110133105,PRJEB53551,11H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,8.598
+SAMEA110133108,PRJEB53551,11H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,8.231
+SAMEA110133106,PRJEB53551,11H,day 56,adult,,,,type2_diabetes,Placebo56D,placebo,,,,primary,1.0,8.722
+SAMEA110133104,PRJEB53551,11H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,6.876
+SAMEA110133109,PRJEB53551,11H,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,9.522
+SAMEA110133110,PRJEB53551,11H,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,8.122
+SAMEA110133111,PRJEB53551,11H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,8.473
+SAMEA110133112,PRJEB53551,11H,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,7.612
+SAMEA110133006,PRJEB53551,12H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,8.11
+SAMEA110133004,PRJEB53551,12H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,8.675
+SAMEA110133007,PRJEB53551,12H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.831
+SAMEA110133005,PRJEB53551,12H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,8.229
+SAMEA110133003,PRJEB53551,12H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,7.246
+SAMEA110133011,PRJEB53551,14H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.945
+SAMEA110133009,PRJEB53551,14H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.714
+SAMEA110133012,PRJEB53551,14H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.31
+SAMEA110133010,PRJEB53551,14H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,7.277
+SAMEA110133008,PRJEB53551,14H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,7.7
+SAMEA110133116,PRJEB53551,15H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,8.376
+SAMEA110133114,PRJEB53551,15H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,12.15
+SAMEA110133117,PRJEB53551,15H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,8.512
+SAMEA110133115,PRJEB53551,15H,day 56,adult,,,,type2_diabetes,Placebo56D,placebo,,,,primary,1.0,9.796
+SAMEA110133113,PRJEB53551,15H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,7.477
+SAMEA110133118,PRJEB53551,15H,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,3.95
+SAMEA110133119,PRJEB53551,15H,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,7.59
+SAMEA110133120,PRJEB53551,15H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,7.444
+SAMEA110133121,PRJEB53551,15H,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,8.158
+SAMEA110133020,PRJEB53551,17H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,8.055
+SAMEA110133123,PRJEB53551,19H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,7.926
+SAMEA110133124,PRJEB53551,19H,day 56,adult,,,,type2_diabetes,Placebo56D,placebo,,,,primary,1.0,7.024
+SAMEA110133122,PRJEB53551,19H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,8.527
+SAMEA110133128,PRJEB53551,19H,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,4.341
+SAMEA110133129,PRJEB53551,19H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,4.243
+SAMEA110133030,PRJEB53551,1H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,8.618
+SAMEA110133028,PRJEB53551,1H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.717
+SAMEA110133031,PRJEB53551,1H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.015
+SAMEA110133029,PRJEB53551,1H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,7.945
+SAMEA110133027,PRJEB53551,1H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,8.034
+SAMEA110133035,PRJEB53551,20H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,9.962
+SAMEA110133033,PRJEB53551,20H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,9.902
+SAMEA110133036,PRJEB53551,20H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,9.185
+SAMEA110133034,PRJEB53551,20H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,8.894
+SAMEA110133032,PRJEB53551,20H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,11.971
+SAMEA110133040,PRJEB53551,21H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,8.341
+SAMEA110133038,PRJEB53551,21H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.178
+SAMEA110133041,PRJEB53551,21H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,9.435
+SAMEA110133039,PRJEB53551,21H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,8.124
+SAMEA110133037,PRJEB53551,21H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,5.081
+SAMEA110133045,PRJEB53551,22H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,8.727
+SAMEA110133043,PRJEB53551,22H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.909
+SAMEA110133046,PRJEB53551,22H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.419
+SAMEA110133044,PRJEB53551,22H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,4.275
+SAMEA110133042,PRJEB53551,22H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,4.127
+SAMEA110133050,PRJEB53551,23H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,8.349
+SAMEA110133048,PRJEB53551,23H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,10.297
+SAMEA110133051,PRJEB53551,23H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.089
+SAMEA110133049,PRJEB53551,23H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,4.063
+SAMEA110133047,PRJEB53551,23H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,3.488
+SAMEA110133133,PRJEB53551,24H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,8.171
+SAMEA110133132,PRJEB53551,24H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,9.98
+SAMEA110133134,PRJEB53551,24H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,9.969
+SAMEA110133131,PRJEB53551,24H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,4.647
+SAMEA110133055,PRJEB53551,25H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,4.456
+SAMEA110133053,PRJEB53551,25H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,4.427
+SAMEA110133054,PRJEB53551,25H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,4.006
+SAMEA110133052,PRJEB53551,25H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,4.263
+SAMEA110133141,PRJEB53551,26H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,4.244
+SAMEA110133139,PRJEB53551,26H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,4.382
+SAMEA110133142,PRJEB53551,26H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,3.907
+SAMEA110133140,PRJEB53551,26H,day 56,adult,,,,type2_diabetes,Placebo56D,placebo,,,,primary,1.0,4.301
+SAMEA110133138,PRJEB53551,26H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,4.14
+SAMEA110133151,PRJEB53551,29H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,4.408
+SAMEA110133147,PRJEB53551,29H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,4.358
+SAMEA110133158,PRJEB53551,31H,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,5.464
+SAMEA110133159,PRJEB53551,31H,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,6.068
+SAMEA110133160,PRJEB53551,31H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,6.419
+SAMEA110133161,PRJEB53551,31H,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,5.263
+SAMEA110133064,PRJEB53551,32H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,5.992
+SAMEA110133062,PRJEB53551,32H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,5.327
+SAMEA110133065,PRJEB53551,32H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,5.68
+SAMEA110133063,PRJEB53551,32H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,4.56
+SAMEA110133061,PRJEB53551,32H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,4.323
+SAMEA110133164,PRJEB53551,33H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,5.296
+SAMEA110133163,PRJEB53551,33H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,5.112
+SAMEA110133165,PRJEB53551,33H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,5.712
+SAMEA110133162,PRJEB53551,33H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,5.817
+SAMEA110133166,PRJEB53551,33H,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,5.188
+SAMEA110133167,PRJEB53551,33H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,4.739
+SAMEA110133168,PRJEB53551,33H,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,5.662
+SAMEA110133069,PRJEB53551,34H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,5.252
+SAMEA110133067,PRJEB53551,34H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,6.339
+SAMEA110133070,PRJEB53551,34H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,5.856
+SAMEA110133068,PRJEB53551,34H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,5.662
+SAMEA110133066,PRJEB53551,34H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,5.613
+SAMEA110133074,PRJEB53551,35H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,5.046
+SAMEA110133072,PRJEB53551,35H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,5.371
+SAMEA110133075,PRJEB53551,35H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,6.274
+SAMEA110133073,PRJEB53551,35H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,5.698
+SAMEA110133071,PRJEB53551,35H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,5.564
+SAMEA110133078,PRJEB53551,36H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,4.089
+SAMEA110133077,PRJEB53551,36H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,5.23
+SAMEA110133079,PRJEB53551,36H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,4.95
+SAMEA110133076,PRJEB53551,36H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,4.847
+SAMEA110133083,PRJEB53551,37H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,5.182
+SAMEA110133081,PRJEB53551,37H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,5.928
+SAMEA110133084,PRJEB53551,37H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,5.509
+SAMEA110133082,PRJEB53551,37H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,5.714
+SAMEA110133080,PRJEB53551,37H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,5.549
+SAMEA110133088,PRJEB53551,3H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,9.883
+SAMEA110133086,PRJEB53551,3H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.179
+SAMEA110133089,PRJEB53551,3H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,8.986
+SAMEA110133087,PRJEB53551,3H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,8.098
+SAMEA110133085,PRJEB53551,3H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,8.827
+SAMEA110133092,PRJEB53551,4H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.875
+SAMEA110133091,PRJEB53551,4H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,8.833
+SAMEA110133093,PRJEB53551,4H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,6.873
+SAMEA110133090,PRJEB53551,4H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,9.203
+SAMEA110133097,PRJEB53551,5H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.807
+SAMEA110133095,PRJEB53551,5H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.831
+SAMEA110133098,PRJEB53551,5H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.548
+SAMEA110133096,PRJEB53551,5H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,8.85
+SAMEA110133094,PRJEB53551,5H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,7.157
+SAMEA110133171,PRJEB53551,6H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,7.753
+SAMEA110133170,PRJEB53551,6H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,7.559
+SAMEA110133172,PRJEB53551,6H,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,7.162
+SAMEA110133169,PRJEB53551,6H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,7.775
+SAMEA110133173,PRJEB53551,6H,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,7.522
+SAMEA110133174,PRJEB53551,6H,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,7.845
+SAMEA110133175,PRJEB53551,6H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,8.034
+SAMEA110133176,PRJEB53551,6H,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,8.137
+SAMEA110133180,PRJEB53551,8H,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,7.017
+SAMEA110133178,PRJEB53551,8H,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,9.345
+SAMEA110133179,PRJEB53551,8H,day 56,adult,,,,type2_diabetes,Placebo56D,placebo,,,,primary,1.0,7.536
+SAMEA110133177,PRJEB53551,8H,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,7.408
+SAMEA110133182,PRJEB53551,8H,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,8.58
+SAMEA110133183,PRJEB53551,8H,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,7.558
+SAMEA110133102,PRJEB53551,9H,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.596
+SAMEA110133100,PRJEB53551,9H,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,8.812
+SAMEA110133103,PRJEB53551,9H,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.499
+SAMEA110133101,PRJEB53551,9H,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,7.877
+SAMEA110133099,PRJEB53551,9H,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,8.023
+SAMEA110133016,PRJEB53551,,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.618
+SAMEA110133021,PRJEB53551,,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.476
+SAMEA110133025,PRJEB53551,,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,7.937
+SAMEA110133059,PRJEB53551,,day 0,adult,,,,type2_diabetes,FMT0D,fmt,,,,primary,1.0,4.424
+SAMEA110133125,PRJEB53551,,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,7.641
+SAMEA110133156,PRJEB53551,,day 0,adult,,,,type2_diabetes,Placebo0D,placebo,,,,primary,1.0,3.256
+SAMEA110133014,PRJEB53551,,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,7.121
+SAMEA110133019,PRJEB53551,,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,10.361
+SAMEA110133024,PRJEB53551,,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,9.764
+SAMEA110133058,PRJEB53551,,day 28,adult,,,,type2_diabetes,FMT28D,fmt,,,,primary,1.0,4.076
+SAMEA110133149,PRJEB53551,,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,3.962
+SAMEA110133155,PRJEB53551,,day 28,adult,,,,type2_diabetes,Placebo28D,placebo,,,,primary,1.0,3.665
+SAMEA110133017,PRJEB53551,,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,6.699
+SAMEA110133022,PRJEB53551,,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,7.907
+SAMEA110133026,PRJEB53551,,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,8.478
+SAMEA110133056,PRJEB53551,,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,4.112
+SAMEA110133060,PRJEB53551,,day 3,adult,,,,type2_diabetes,FMT3D,fmt,,,,primary,1.0,3.365
+SAMEA110133126,PRJEB53551,,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,9.611
+SAMEA110133157,PRJEB53551,,day 3,adult,,,,type2_diabetes,Placebo3D,placebo,,,,primary,1.0,4.225
+SAMEA110133015,PRJEB53551,,day 56,adult,,,,type2_diabetes,FMT56D,fmt,,,,primary,1.0,9.533
+SAMEA110133150,PRJEB53551,,day 56,adult,,,,type2_diabetes,Placebo56D,placebo,,,,primary,1.0,4.508
+SAMEA110133013,PRJEB53551,,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,8.035
+SAMEA110133018,PRJEB53551,,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,9.077
+SAMEA110133023,PRJEB53551,,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,8.173
+SAMEA110133057,PRJEB53551,,day 84,adult,,,,type2_diabetes,FMT84D,fmt,,,,primary,1.0,3.023
+SAMEA110133148,PRJEB53551,,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,4.667
+SAMEA110133154,PRJEB53551,,day 84,adult,,,,type2_diabetes,Placebo84D,placebo,,,,primary,1.0,3.688
+SAMEA110132974,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,13.029
+SAMEA110132977,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,8.559
+SAMEA110132982,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,8.057
+SAMEA110132983,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,11.472
+SAMEA110132986,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,17.424
+SAMEA110132988,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,22.186
+SAMEA110132990,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,20.43
+SAMEA110132993,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,10.163
+SAMEA110132994,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,12.102
+SAMEA110132997,PRJEB53551,,,adult,,,,healthy_control,Donor,,,,,primary,1.0,8.779
+SAMEA110133127,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,4.083
+SAMEA110133130,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,3.616
+SAMEA110133135,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,4.306
+SAMEA110133136,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,4.936
+SAMEA110133137,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,4.833
+SAMEA110133143,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,4.516
+SAMEA110133144,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+28D,,,,,primary,1.0,4.087
+SAMEA110133145,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+56D,,,,,primary,1.0,4.475
+SAMEA110133146,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,4.226
+SAMEA110133152,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,4.301
+SAMEA110133153,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+3D,,,,,primary,1.0,4.32
+SAMEA110133181,PRJEB53551,,,adult,,,,type2_diabetes,Placebo2+84D+84D,,,,,primary,1.0,7.412

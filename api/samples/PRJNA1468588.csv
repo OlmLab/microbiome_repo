@@ -1,0 +1,5 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN60297422,PRJNA1468588,PRJNA1468588:single_subject,baseline,adult,,,US,liver_disease,primary sclerosing cholangitis (PSC),no_intervention,baseline before vancomycin treatment,yes,,primary,1.0,3.877
+SAMN60297424,PRJNA1468588,PRJNA1468588:single_subject,day 112,adult,,,US,liver_disease,primary sclerosing cholangitis (PSC),antibiotic,day 112 of vancomycin treatment,yes,,primary,1.0,39.575
+SAMN60297425,PRJNA1468588,PRJNA1468588:single_subject,day 222,adult,,,US,liver_disease,primary sclerosing cholangitis (PSC),antibiotic,day 222 of vancomycin treatment,yes,,primary,1.0,19.149
+SAMN60297423,PRJNA1468588,PRJNA1468588:single_subject,day 28,adult,,,US,liver_disease,primary sclerosing cholangitis (PSC),antibiotic,day 28 of vancomycin treatment,yes,,primary,1.0,8.573

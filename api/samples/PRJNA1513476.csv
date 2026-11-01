@@ -1,0 +1,91 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN62451179,PRJNA1513476,PD01,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.325
+SAMN62451202,PRJNA1513476,PD01,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.462
+SAMN62451225,PRJNA1513476,PD01,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,6.183
+SAMN62451247,PRJNA1513476,PD01,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,4.588
+SAMN62451180,PRJNA1513476,PD02,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,7.048
+SAMN62451203,PRJNA1513476,PD02,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,3.403
+SAMN62451226,PRJNA1513476,PD02,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,7.334
+SAMN62451248,PRJNA1513476,PD02,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,4.799
+SAMN62451181,PRJNA1513476,PD03,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,6.593
+SAMN62451204,PRJNA1513476,PD03,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,4.013
+SAMN62451227,PRJNA1513476,PD03,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.886
+SAMN62451249,PRJNA1513476,PD03,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.827
+SAMN62451182,PRJNA1513476,PD04,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.468
+SAMN62451205,PRJNA1513476,PD04,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,3.087
+SAMN62451228,PRJNA1513476,PD04,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.517
+SAMN62451183,PRJNA1513476,PD05,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.727
+SAMN62451206,PRJNA1513476,PD05,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.03
+SAMN62451229,PRJNA1513476,PD05,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.84
+SAMN62451250,PRJNA1513476,PD05,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,4.97
+SAMN62451184,PRJNA1513476,PD06,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.904
+SAMN62451207,PRJNA1513476,PD06,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.445
+SAMN62451230,PRJNA1513476,PD06,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.8
+SAMN62451251,PRJNA1513476,PD06,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.415
+SAMN62451185,PRJNA1513476,PD07,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.858
+SAMN62451208,PRJNA1513476,PD07,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.997
+SAMN62451231,PRJNA1513476,PD07,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.565
+SAMN62451252,PRJNA1513476,PD07,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.399
+SAMN62451186,PRJNA1513476,PD08,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,6.305
+SAMN62451209,PRJNA1513476,PD08,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.94
+SAMN62451232,PRJNA1513476,PD08,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.937
+SAMN62451253,PRJNA1513476,PD08,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.464
+SAMN62451187,PRJNA1513476,PD09,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.685
+SAMN62451210,PRJNA1513476,PD09,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,6.196
+SAMN62451233,PRJNA1513476,PD09,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.454
+SAMN62451254,PRJNA1513476,PD09,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.583
+SAMN62451188,PRJNA1513476,PD10,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,4.988
+SAMN62451211,PRJNA1513476,PD10,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,2.296
+SAMN62451234,PRJNA1513476,PD10,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.747
+SAMN62451255,PRJNA1513476,PD10,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,4.81
+SAMN62451189,PRJNA1513476,PD11,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,4.756
+SAMN62451212,PRJNA1513476,PD11,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,2.832
+SAMN62451235,PRJNA1513476,PD11,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.251
+SAMN62451256,PRJNA1513476,PD11,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.113
+SAMN62451190,PRJNA1513476,PD12,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,6.189
+SAMN62451213,PRJNA1513476,PD12,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,3.583
+SAMN62451236,PRJNA1513476,PD12,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.498
+SAMN62451257,PRJNA1513476,PD12,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.068
+SAMN62451191,PRJNA1513476,PD14,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.373
+SAMN62451214,PRJNA1513476,PD14,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,4.647
+SAMN62451237,PRJNA1513476,PD14,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.614
+SAMN62451258,PRJNA1513476,PD14,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.632
+SAMN62451192,PRJNA1513476,PD15,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,6.248
+SAMN62451215,PRJNA1513476,PD15,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,6.66
+SAMN62451238,PRJNA1513476,PD15,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.329
+SAMN62451259,PRJNA1513476,PD15,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.096
+SAMN62451193,PRJNA1513476,PD16,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,4.439
+SAMN62451216,PRJNA1513476,PD16,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.186
+SAMN62451239,PRJNA1513476,PD16,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,3.936
+SAMN62451260,PRJNA1513476,PD16,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.94
+SAMN62451194,PRJNA1513476,PD18,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.295
+SAMN62451217,PRJNA1513476,PD18,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,4.923
+SAMN62451261,PRJNA1513476,PD18,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,4.749
+SAMN62451195,PRJNA1513476,PD19,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.567
+SAMN62451218,PRJNA1513476,PD19,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,6.038
+SAMN62451240,PRJNA1513476,PD19,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.735
+SAMN62451262,PRJNA1513476,PD19,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.246
+SAMN62451196,PRJNA1513476,PD20,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.325
+SAMN62451219,PRJNA1513476,PD20,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.621
+SAMN62451241,PRJNA1513476,PD20,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.02
+SAMN62451263,PRJNA1513476,PD20,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.152
+SAMN62451197,PRJNA1513476,PD21,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,3.605
+SAMN62451220,PRJNA1513476,PD21,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,2.518
+SAMN62451242,PRJNA1513476,PD21,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.607
+SAMN62451264,PRJNA1513476,PD21,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.376
+SAMN62451198,PRJNA1513476,PD22,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.785
+SAMN62451221,PRJNA1513476,PD22,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,4.392
+SAMN62451243,PRJNA1513476,PD22,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,5.225
+SAMN62451265,PRJNA1513476,PD22,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,4.348
+SAMN62451199,PRJNA1513476,PD23,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,5.449
+SAMN62451222,PRJNA1513476,PD23,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.182
+SAMN62451244,PRJNA1513476,PD23,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.831
+SAMN62451266,PRJNA1513476,PD23,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,5.174
+SAMN62451200,PRJNA1513476,PD25,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,3.951
+SAMN62451223,PRJNA1513476,PD25,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,3.305
+SAMN62451245,PRJNA1513476,PD25,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.172
+SAMN62451267,PRJNA1513476,PD25,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,2.238
+SAMN62451201,PRJNA1513476,PD26,period 1,adult,,,IE,healthy_control,healthy,no_intervention,baseline before probiotic dosing,,,primary,1.0,4.962
+SAMN62451224,PRJNA1513476,PD26,period 1,adult,,,IE,healthy_control,healthy,probiotic,"day 28, after first LGG probiotic period",,,primary,1.0,5.726
+SAMN62451246,PRJNA1513476,PD26,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 42, start of second period after washout, prior probiotic exposure",,,primary,1.0,4.57
+SAMN62451268,PRJNA1513476,PD26,period 2,adult,,,IE,healthy_control,healthy,probiotic,"day 70, after second LGG probiotic period",,,primary,1.0,3.324

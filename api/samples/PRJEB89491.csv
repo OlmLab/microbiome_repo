@@ -1,0 +1,930 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA118323395,PRJEB89491,ENA_fam_0001_father,,,,male,NL,,,,,,2021,primary,1.0,15.194
+SAMEA118322587,PRJEB89491,ENA_fam_0001_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2021,primary,1.0,13.148
+SAMEA118322671,PRJEB89491,ENA_fam_0001_infant,4 months,infant,122.0,female,NL,,,,,,2022,primary,1.0,11.432
+SAMEA118322774,PRJEB89491,ENA_fam_0001_infant,4 weeks,neonate,28.0,female,NL,,,,,,2021,primary,1.0,15.241
+SAMEA118322856,PRJEB89491,ENA_fam_0001_infant,5 months,infant,152.0,female,NL,,,,,,2022,primary,1.0,12.596
+SAMEA118323040,PRJEB89491,ENA_fam_0001_infant,8 weeks,infant,56.0,female,NL,,,,,,2022,primary,1.0,12.719
+SAMEA118323396,PRJEB89491,ENA_fam_0001_mother,,,,female,NL,,,,,,2021,primary,1.0,20.037
+SAMEA118323397,PRJEB89491,ENA_fam_0002_father,,,,male,NL,,,,,,2021,primary,1.0,16.687
+SAMEA118322588,PRJEB89491,ENA_fam_0002_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2021,primary,1.0,13.038
+SAMEA118322672,PRJEB89491,ENA_fam_0002_infant,4 months,infant,122.0,female,NL,,,,,,2021,primary,1.0,14.097
+SAMEA118322775,PRJEB89491,ENA_fam_0002_infant,4 weeks,neonate,28.0,female,NL,,,,,,2021,primary,1.0,14.209
+SAMEA118323041,PRJEB89491,ENA_fam_0002_infant,8 weeks,infant,56.0,female,NL,,,,,,2021,primary,1.0,16.119
+SAMEA118323398,PRJEB89491,ENA_fam_0002_mother,,,,female,NL,,,,,,2021,primary,1.0,17.146
+SAMEA118323399,PRJEB89491,ENA_fam_0003_father,,,,male,NL,,,,,,2021,primary,1.0,11.223
+SAMEA118322589,PRJEB89491,ENA_fam_0003_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2021,primary,1.0,16.016
+SAMEA118322673,PRJEB89491,ENA_fam_0003_infant,4 months,infant,122.0,male,NL,,,,,,2021,primary,1.0,14.2
+SAMEA118322776,PRJEB89491,ENA_fam_0003_infant,4 weeks,neonate,28.0,male,NL,,,,,,2021,primary,1.0,13.419
+SAMEA118322857,PRJEB89491,ENA_fam_0003_infant,5 months,infant,152.0,male,NL,,,,,,2021,primary,1.0,16.575
+SAMEA118323042,PRJEB89491,ENA_fam_0003_infant,8 weeks,infant,56.0,male,NL,,,,,,2021,primary,1.0,14.896
+SAMEA118323400,PRJEB89491,ENA_fam_0003_mother,,,,female,NL,,,,,,2021,primary,1.0,14.92
+SAMEA118323401,PRJEB89491,ENA_fam_0004_father,,,,male,NL,,,,,,2021,primary,1.0,9.235
+SAMEA118322590,PRJEB89491,ENA_fam_0004_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2021,primary,1.0,10.789
+SAMEA118322777,PRJEB89491,ENA_fam_0004_infant,4 weeks,neonate,28.0,male,NL,,,,,,2021,primary,1.0,14.854
+SAMEA118322858,PRJEB89491,ENA_fam_0004_infant,5 months,infant,152.0,male,NL,,,,,,2021,primary,1.0,15.567
+SAMEA118323043,PRJEB89491,ENA_fam_0004_infant,8 weeks,infant,56.0,male,NL,,,,,,2021,primary,1.0,9.686
+SAMEA118323402,PRJEB89491,ENA_fam_0004_mother,,,,female,NL,,,,,,2021,primary,1.0,17.402
+SAMEA118323403,PRJEB89491,ENA_fam_0005_father,,,,male,NL,,,,,,2021,primary,1.0,14.201
+SAMEA118322591,PRJEB89491,ENA_fam_0005_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2021,primary,1.0,13.179
+SAMEA118322778,PRJEB89491,ENA_fam_0005_infant,4 weeks,neonate,28.0,male,NL,,,,,,2021,primary,1.0,12.854
+SAMEA118323404,PRJEB89491,ENA_fam_0005_mother,,,,female,NL,,,,,,2021,primary,1.0,12.899
+SAMEA118322592,PRJEB89491,ENA_fam_0006_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2020,primary,1.0,11.831
+SAMEA118322674,PRJEB89491,ENA_fam_0006_infant,4 months,infant,122.0,female,NL,,,,,,2021,primary,1.0,11.628
+SAMEA118322779,PRJEB89491,ENA_fam_0006_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,15.142
+SAMEA118322859,PRJEB89491,ENA_fam_0006_infant,5 months,infant,152.0,female,NL,,,,,,2021,primary,1.0,11.575
+SAMEA118322952,PRJEB89491,ENA_fam_0006_infant,6 months,infant,183.0,female,NL,,,,,,2021,primary,1.0,7.44
+SAMEA118323044,PRJEB89491,ENA_fam_0006_infant,8 weeks,infant,56.0,female,NL,,,,,,2021,primary,1.0,12.769
+SAMEA118323145,PRJEB89491,ENA_fam_0006_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,17.128
+SAMEA118323405,PRJEB89491,ENA_fam_0006_mother,,,,female,NL,,,,,,2020,primary,1.0,15.014
+SAMEA118323406,PRJEB89491,ENA_fam_0007_father,,,,male,NL,,,,,,2021,primary,1.0,16.552
+SAMEA118322593,PRJEB89491,ENA_fam_0007_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2021,primary,1.0,16.748
+SAMEA118323237,PRJEB89491,ENA_fam_0007_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,15.489
+SAMEA118323320,PRJEB89491,ENA_fam_0007_infant,14 months,infant,426.0,female,NL,,,,,,2022,primary,1.0,14.055
+SAMEA118322675,PRJEB89491,ENA_fam_0007_infant,4 months,infant,122.0,female,NL,,,,,,2021,primary,1.0,14.967
+SAMEA118322780,PRJEB89491,ENA_fam_0007_infant,4 weeks,neonate,28.0,female,NL,,,,,,2021,primary,1.0,11.923
+SAMEA118322860,PRJEB89491,ENA_fam_0007_infant,5 months,infant,152.0,female,NL,,,,,,2021,primary,1.0,15.285
+SAMEA118322953,PRJEB89491,ENA_fam_0007_infant,6 months,infant,183.0,female,NL,,,,,,2021,primary,1.0,9.418
+SAMEA118323045,PRJEB89491,ENA_fam_0007_infant,8 weeks,infant,56.0,female,NL,,,,,,2021,primary,1.0,15.945
+SAMEA118323146,PRJEB89491,ENA_fam_0007_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,2.628
+SAMEA118323407,PRJEB89491,ENA_fam_0007_mother,,,,female,NL,,,,,,2021,primary,1.0,14.024
+SAMEA118322594,PRJEB89491,ENA_fam_0008_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,34.486
+SAMEA118322676,PRJEB89491,ENA_fam_0008_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,13.408
+SAMEA118322781,PRJEB89491,ENA_fam_0008_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,22.745
+SAMEA118322861,PRJEB89491,ENA_fam_0008_infant,5 months,infant,152.0,male,NL,,,,,,2021,primary,1.0,11.363
+SAMEA118323046,PRJEB89491,ENA_fam_0008_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,14.76
+SAMEA118323408,PRJEB89491,ENA_fam_0008_mother,,,,female,NL,,,,,,2020,primary,1.0,16.82
+SAMEA118323238,PRJEB89491,ENA_fam_0009_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,14.649
+SAMEA118323321,PRJEB89491,ENA_fam_0009_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,13.45
+SAMEA118322677,PRJEB89491,ENA_fam_0009_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,11.63
+SAMEA118322782,PRJEB89491,ENA_fam_0009_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,16.72
+SAMEA118322862,PRJEB89491,ENA_fam_0009_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,14.143
+SAMEA118322954,PRJEB89491,ENA_fam_0009_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,12.369
+SAMEA118323047,PRJEB89491,ENA_fam_0009_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,18.285
+SAMEA118323147,PRJEB89491,ENA_fam_0009_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,15.356
+SAMEA118323409,PRJEB89491,ENA_fam_0009_mother,,,,female,NL,,,,,,2020,primary,1.0,13.634
+SAMEA118322595,PRJEB89491,ENA_fam_0010_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,24.216
+SAMEA118323239,PRJEB89491,ENA_fam_0010_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,12.788
+SAMEA118323322,PRJEB89491,ENA_fam_0010_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,6.771
+SAMEA118322678,PRJEB89491,ENA_fam_0010_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,18.509
+SAMEA118322783,PRJEB89491,ENA_fam_0010_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,18.566
+SAMEA118322955,PRJEB89491,ENA_fam_0010_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,7.674
+SAMEA118323048,PRJEB89491,ENA_fam_0010_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,18.015
+SAMEA118323148,PRJEB89491,ENA_fam_0010_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,11.726
+SAMEA118323410,PRJEB89491,ENA_fam_0010_mother,,,,female,NL,,,,,,2020,primary,1.0,13.126
+SAMEA118323240,PRJEB89491,ENA_fam_0011_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,14.172
+SAMEA118323323,PRJEB89491,ENA_fam_0011_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,16.932
+SAMEA118322679,PRJEB89491,ENA_fam_0011_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,10.432
+SAMEA118322863,PRJEB89491,ENA_fam_0011_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,14.131
+SAMEA118322956,PRJEB89491,ENA_fam_0011_infant,6 months,infant,183.0,male,NL,,,,,,2021,primary,1.0,10.326
+SAMEA118323049,PRJEB89491,ENA_fam_0011_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,18.743
+SAMEA118323149,PRJEB89491,ENA_fam_0011_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,14.874
+SAMEA118323411,PRJEB89491,ENA_fam_0011_mother,,,,female,NL,,,,,,2020,primary,1.0,15.808
+SAMEA118322596,PRJEB89491,ENA_fam_0012_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,11.861
+SAMEA118322784,PRJEB89491,ENA_fam_0012_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,14.707
+SAMEA118323050,PRJEB89491,ENA_fam_0012_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,14.176
+SAMEA118323412,PRJEB89491,ENA_fam_0012_mother,,,,female,NL,,,,,,2020,primary,1.0,18.638
+SAMEA118322785,PRJEB89491,ENA_fam_0013_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,26.187
+SAMEA118323051,PRJEB89491,ENA_fam_0013_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,14.367
+SAMEA118323413,PRJEB89491,ENA_fam_0013_mother,,,,female,NL,,,,,,2020,primary,1.0,17.468
+SAMEA118323241,PRJEB89491,ENA_fam_0014_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,11.439
+SAMEA118323324,PRJEB89491,ENA_fam_0014_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,14.664
+SAMEA118322680,PRJEB89491,ENA_fam_0014_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,18.741
+SAMEA118322864,PRJEB89491,ENA_fam_0014_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,19.051
+SAMEA118322957,PRJEB89491,ENA_fam_0014_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,13.082
+SAMEA118323150,PRJEB89491,ENA_fam_0014_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,9.397
+SAMEA118323414,PRJEB89491,ENA_fam_0014_mother,,,,female,NL,,,,,,2020,primary,1.0,19.089
+SAMEA118322597,PRJEB89491,ENA_fam_0015_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,10.548
+SAMEA118322681,PRJEB89491,ENA_fam_0015_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,17.632
+SAMEA118322786,PRJEB89491,ENA_fam_0015_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,26.204
+SAMEA118322865,PRJEB89491,ENA_fam_0015_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,20.399
+SAMEA118322958,PRJEB89491,ENA_fam_0015_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,19.198
+SAMEA118323052,PRJEB89491,ENA_fam_0015_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,15.704
+SAMEA118323151,PRJEB89491,ENA_fam_0015_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,13.548
+SAMEA118323415,PRJEB89491,ENA_fam_0015_mother,,,,female,NL,,,,,,2020,primary,1.0,25.622
+SAMEA118322598,PRJEB89491,ENA_fam_0016_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,15.8
+SAMEA118322682,PRJEB89491,ENA_fam_0016_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,21.591
+SAMEA118322787,PRJEB89491,ENA_fam_0016_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,15.419
+SAMEA118322866,PRJEB89491,ENA_fam_0016_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,18.135
+SAMEA118322959,PRJEB89491,ENA_fam_0016_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,12.856
+SAMEA118323053,PRJEB89491,ENA_fam_0016_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,15.806
+SAMEA118323152,PRJEB89491,ENA_fam_0016_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,13.459
+SAMEA118323416,PRJEB89491,ENA_fam_0016_mother,,,,female,NL,,,,,,2020,primary,1.0,20.365
+SAMEA118322599,PRJEB89491,ENA_fam_0017_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2020,primary,1.0,14.422
+SAMEA118323242,PRJEB89491,ENA_fam_0017_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,14.052
+SAMEA118323325,PRJEB89491,ENA_fam_0017_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,13.082
+SAMEA118322683,PRJEB89491,ENA_fam_0017_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,16.594
+SAMEA118322788,PRJEB89491,ENA_fam_0017_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,14.535
+SAMEA118322867,PRJEB89491,ENA_fam_0017_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,13.279
+SAMEA118323054,PRJEB89491,ENA_fam_0017_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,18.823
+SAMEA118323417,PRJEB89491,ENA_fam_0017_mother,,,,female,NL,,,,,,2020,primary,1.0,19.813
+SAMEA118323243,PRJEB89491,ENA_fam_0018_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,15.776
+SAMEA118323326,PRJEB89491,ENA_fam_0018_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,15.54
+SAMEA118322684,PRJEB89491,ENA_fam_0018_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,7.125
+SAMEA118322789,PRJEB89491,ENA_fam_0018_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,15.398
+SAMEA118322868,PRJEB89491,ENA_fam_0018_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,12.799
+SAMEA118322960,PRJEB89491,ENA_fam_0018_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,14.661
+SAMEA118323055,PRJEB89491,ENA_fam_0018_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,16.627
+SAMEA118323153,PRJEB89491,ENA_fam_0018_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,12.086
+SAMEA118323418,PRJEB89491,ENA_fam_0018_mother,,,,female,NL,,,,,,2020,primary,1.0,18.376
+SAMEA118322600,PRJEB89491,ENA_fam_0019_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,17.56
+SAMEA118323244,PRJEB89491,ENA_fam_0019_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,17.051
+SAMEA118323327,PRJEB89491,ENA_fam_0019_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,17.493
+SAMEA118322685,PRJEB89491,ENA_fam_0019_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,17.488
+SAMEA118322869,PRJEB89491,ENA_fam_0019_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,16.142
+SAMEA118322961,PRJEB89491,ENA_fam_0019_infant,6 months,infant,183.0,male,NL,,,,,,2021,primary,1.0,16.822
+SAMEA118323056,PRJEB89491,ENA_fam_0019_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,20.001
+SAMEA118323154,PRJEB89491,ENA_fam_0019_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,13.361
+SAMEA118323419,PRJEB89491,ENA_fam_0019_mother,,,,female,NL,,,,,,2020,primary,1.0,18.271
+SAMEA118322601,PRJEB89491,ENA_fam_0020_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2020,primary,1.0,11.558
+SAMEA118322686,PRJEB89491,ENA_fam_0020_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,19.215
+SAMEA118322870,PRJEB89491,ENA_fam_0020_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,18.167
+SAMEA118322962,PRJEB89491,ENA_fam_0020_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,14.329
+SAMEA118323155,PRJEB89491,ENA_fam_0020_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,14.305
+SAMEA118323245,PRJEB89491,ENA_fam_0021_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,14.611
+SAMEA118323328,PRJEB89491,ENA_fam_0021_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,11.023
+SAMEA118322871,PRJEB89491,ENA_fam_0021_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,17.327
+SAMEA118323057,PRJEB89491,ENA_fam_0021_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,16.52
+SAMEA118323156,PRJEB89491,ENA_fam_0021_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,10.365
+SAMEA118322602,PRJEB89491,ENA_fam_0022_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,19.893
+SAMEA118323246,PRJEB89491,ENA_fam_0022_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,13.782
+SAMEA118323329,PRJEB89491,ENA_fam_0022_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,13.845
+SAMEA118322790,PRJEB89491,ENA_fam_0022_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,20.08
+SAMEA118322872,PRJEB89491,ENA_fam_0022_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,20.658
+SAMEA118322963,PRJEB89491,ENA_fam_0022_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,12.533
+SAMEA118323058,PRJEB89491,ENA_fam_0022_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,16.138
+SAMEA118323157,PRJEB89491,ENA_fam_0022_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,13.92
+SAMEA118323420,PRJEB89491,ENA_fam_0022_mother,,,,female,NL,,,,,,2020,primary,1.0,18.389
+SAMEA118323247,PRJEB89491,ENA_fam_0023_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,12.571
+SAMEA118323330,PRJEB89491,ENA_fam_0023_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,10.563
+SAMEA118322964,PRJEB89491,ENA_fam_0023_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,18.832
+SAMEA118323158,PRJEB89491,ENA_fam_0023_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,12.71
+SAMEA118322603,PRJEB89491,ENA_fam_0024_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,8.891
+SAMEA118323248,PRJEB89491,ENA_fam_0024_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,13.093
+SAMEA118323331,PRJEB89491,ENA_fam_0024_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,14.498
+SAMEA118322687,PRJEB89491,ENA_fam_0024_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,13.634
+SAMEA118322791,PRJEB89491,ENA_fam_0024_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,13.702
+SAMEA118322873,PRJEB89491,ENA_fam_0024_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,8.594
+SAMEA118322965,PRJEB89491,ENA_fam_0024_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,19.763
+SAMEA118323059,PRJEB89491,ENA_fam_0024_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,18.816
+SAMEA118323159,PRJEB89491,ENA_fam_0024_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,12.439
+SAMEA118323421,PRJEB89491,ENA_fam_0024_mother,,,,female,NL,,,,,,2020,primary,1.0,13.738
+SAMEA118322604,PRJEB89491,ENA_fam_0025_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,15.428
+SAMEA118323249,PRJEB89491,ENA_fam_0025_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,12.927
+SAMEA118323332,PRJEB89491,ENA_fam_0025_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,13.239
+SAMEA118322688,PRJEB89491,ENA_fam_0025_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,14.23
+SAMEA118322792,PRJEB89491,ENA_fam_0025_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,17.721
+SAMEA118322874,PRJEB89491,ENA_fam_0025_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,12.28
+SAMEA118323060,PRJEB89491,ENA_fam_0025_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,15.165
+SAMEA118323160,PRJEB89491,ENA_fam_0025_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,14.0
+SAMEA118323422,PRJEB89491,ENA_fam_0025_mother,,,,female,NL,,,,,,2020,primary,1.0,18.592
+SAMEA118322605,PRJEB89491,ENA_fam_0026_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2020,primary,1.0,27.01
+SAMEA118323250,PRJEB89491,ENA_fam_0026_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,11.774
+SAMEA118323333,PRJEB89491,ENA_fam_0026_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,11.075
+SAMEA118322793,PRJEB89491,ENA_fam_0026_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,15.937
+SAMEA118322875,PRJEB89491,ENA_fam_0026_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,13.435
+SAMEA118322966,PRJEB89491,ENA_fam_0026_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,13.914
+SAMEA118323061,PRJEB89491,ENA_fam_0026_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,19.544
+SAMEA118323161,PRJEB89491,ENA_fam_0026_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,13.256
+SAMEA118323423,PRJEB89491,ENA_fam_0026_mother,,,,female,NL,,,,,,2020,primary,1.0,15.26
+SAMEA118323251,PRJEB89491,ENA_fam_0027_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,11.561
+SAMEA118323334,PRJEB89491,ENA_fam_0027_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,13.485
+SAMEA118322689,PRJEB89491,ENA_fam_0027_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,16.761
+SAMEA118322876,PRJEB89491,ENA_fam_0027_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,11.985
+SAMEA118322967,PRJEB89491,ENA_fam_0027_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,12.635
+SAMEA118323162,PRJEB89491,ENA_fam_0027_infant,9 months,infant,274.0,female,NL,,,,,,2020,primary,1.0,13.912
+SAMEA118323424,PRJEB89491,ENA_fam_0027_mother,,,,female,NL,,,,,,2020,primary,1.0,17.219
+SAMEA118322606,PRJEB89491,ENA_fam_0028_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,16.559
+SAMEA118323252,PRJEB89491,ENA_fam_0028_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,14.805
+SAMEA118323335,PRJEB89491,ENA_fam_0028_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,16.619
+SAMEA118322794,PRJEB89491,ENA_fam_0028_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,13.504
+SAMEA118322877,PRJEB89491,ENA_fam_0028_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,20.691
+SAMEA118322968,PRJEB89491,ENA_fam_0028_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,19.76
+SAMEA118323062,PRJEB89491,ENA_fam_0028_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,13.195
+SAMEA118323163,PRJEB89491,ENA_fam_0028_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,11.851
+SAMEA118323425,PRJEB89491,ENA_fam_0028_mother,,,,female,NL,,,,,,2020,primary,1.0,14.828
+SAMEA118322607,PRJEB89491,ENA_fam_0029_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2020,primary,1.0,17.325
+SAMEA118323253,PRJEB89491,ENA_fam_0029_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,13.371
+SAMEA118323336,PRJEB89491,ENA_fam_0029_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,18.673
+SAMEA118322878,PRJEB89491,ENA_fam_0029_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,18.553
+SAMEA118322969,PRJEB89491,ENA_fam_0029_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,12.32
+SAMEA118323063,PRJEB89491,ENA_fam_0029_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,14.566
+SAMEA118323164,PRJEB89491,ENA_fam_0029_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,11.149
+SAMEA118323426,PRJEB89491,ENA_fam_0029_mother,,,,female,NL,,,,,,2020,primary,1.0,14.897
+SAMEA118322608,PRJEB89491,ENA_fam_0030_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,17.86
+SAMEA118323254,PRJEB89491,ENA_fam_0030_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,13.241
+SAMEA118323337,PRJEB89491,ENA_fam_0030_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,18.416
+SAMEA118322690,PRJEB89491,ENA_fam_0030_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,21.718
+SAMEA118322795,PRJEB89491,ENA_fam_0030_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,17.497
+SAMEA118322970,PRJEB89491,ENA_fam_0030_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,11.644
+SAMEA118323064,PRJEB89491,ENA_fam_0030_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,15.063
+SAMEA118323165,PRJEB89491,ENA_fam_0030_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,8.982
+SAMEA118323427,PRJEB89491,ENA_fam_0030_mother,,,,female,NL,,,,,,2020,primary,1.0,21.045
+SAMEA118322609,PRJEB89491,ENA_fam_0031_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,18.439
+SAMEA118323255,PRJEB89491,ENA_fam_0031_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,10.764
+SAMEA118322796,PRJEB89491,ENA_fam_0031_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,13.447
+SAMEA118322971,PRJEB89491,ENA_fam_0031_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,14.549
+SAMEA118323065,PRJEB89491,ENA_fam_0031_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,16.571
+SAMEA118323166,PRJEB89491,ENA_fam_0031_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,11.643
+SAMEA118323428,PRJEB89491,ENA_fam_0031_mother,,,,female,NL,,,,,,2020,primary,1.0,16.926
+SAMEA118322610,PRJEB89491,ENA_fam_0032_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,12.314
+SAMEA118323256,PRJEB89491,ENA_fam_0032_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,16.049
+SAMEA118323338,PRJEB89491,ENA_fam_0032_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,11.061
+SAMEA118322691,PRJEB89491,ENA_fam_0032_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,12.088
+SAMEA118322879,PRJEB89491,ENA_fam_0032_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,13.478
+SAMEA118322972,PRJEB89491,ENA_fam_0032_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,12.52
+SAMEA118323066,PRJEB89491,ENA_fam_0032_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,16.402
+SAMEA118323167,PRJEB89491,ENA_fam_0032_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,17.096
+SAMEA118323429,PRJEB89491,ENA_fam_0032_mother,,,,female,NL,,,,,,2020,primary,1.0,17.433
+SAMEA118323257,PRJEB89491,ENA_fam_0033_infant,11 months,infant,335.0,female,NL,,,,,,2021,primary,1.0,17.505
+SAMEA118323339,PRJEB89491,ENA_fam_0033_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,13.421
+SAMEA118322797,PRJEB89491,ENA_fam_0033_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,12.364
+SAMEA118322880,PRJEB89491,ENA_fam_0033_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,13.947
+SAMEA118323067,PRJEB89491,ENA_fam_0033_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,14.781
+SAMEA118323168,PRJEB89491,ENA_fam_0033_infant,9 months,infant,274.0,female,NL,,,,,,2021,primary,1.0,11.722
+SAMEA118323430,PRJEB89491,ENA_fam_0033_mother,,,,female,NL,,,,,,2020,primary,1.0,17.238
+SAMEA118323340,PRJEB89491,ENA_fam_0034_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,11.744
+SAMEA118322692,PRJEB89491,ENA_fam_0034_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,15.028
+SAMEA118322798,PRJEB89491,ENA_fam_0034_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,18.989
+SAMEA118322881,PRJEB89491,ENA_fam_0034_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,16.174
+SAMEA118322973,PRJEB89491,ENA_fam_0034_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,21.191
+SAMEA118323068,PRJEB89491,ENA_fam_0034_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,13.335
+SAMEA118323431,PRJEB89491,ENA_fam_0034_mother,,,,female,NL,,,,,,2020,primary,1.0,22.679
+SAMEA118322799,PRJEB89491,ENA_fam_0035_infant,4 weeks,neonate,28.0,female,NL,,,,,,2020,primary,1.0,16.3
+SAMEA118323432,PRJEB89491,ENA_fam_0035_mother,,,,female,NL,,,,,,2020,primary,1.0,14.982
+SAMEA118323258,PRJEB89491,ENA_fam_0036_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,14.775
+SAMEA118323341,PRJEB89491,ENA_fam_0036_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,14.517
+SAMEA118322693,PRJEB89491,ENA_fam_0036_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,13.079
+SAMEA118322800,PRJEB89491,ENA_fam_0036_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,16.385
+SAMEA118322974,PRJEB89491,ENA_fam_0036_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,17.688
+SAMEA118323069,PRJEB89491,ENA_fam_0036_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,8.919
+SAMEA118323169,PRJEB89491,ENA_fam_0036_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,16.13
+SAMEA118323433,PRJEB89491,ENA_fam_0036_mother,,,,female,NL,,,,,,2020,primary,1.0,16.302
+SAMEA118323259,PRJEB89491,ENA_fam_0037_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,15.871
+SAMEA118322694,PRJEB89491,ENA_fam_0037_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,21.147
+SAMEA118322882,PRJEB89491,ENA_fam_0037_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,15.531
+SAMEA118322975,PRJEB89491,ENA_fam_0037_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,17.633
+SAMEA118323070,PRJEB89491,ENA_fam_0037_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,12.386
+SAMEA118323170,PRJEB89491,ENA_fam_0037_infant,9 months,infant,274.0,male,NL,,,,,,2021,primary,1.0,12.133
+SAMEA118323434,PRJEB89491,ENA_fam_0037_mother,,,,female,NL,,,,,,2020,primary,1.0,15.997
+SAMEA118323260,PRJEB89491,ENA_fam_0038_infant,11 months,infant,335.0,male,NL,,,,,,2021,primary,1.0,12.219
+SAMEA118322801,PRJEB89491,ENA_fam_0038_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,16.403
+SAMEA118322883,PRJEB89491,ENA_fam_0038_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,14.827
+SAMEA118322976,PRJEB89491,ENA_fam_0038_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,11.78
+SAMEA118323071,PRJEB89491,ENA_fam_0038_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,3.465
+SAMEA118323171,PRJEB89491,ENA_fam_0038_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,16.746
+SAMEA118323435,PRJEB89491,ENA_fam_0038_mother,,,,female,NL,,,,,,2020,primary,1.0,14.231
+SAMEA118322611,PRJEB89491,ENA_fam_0039_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2020,primary,1.0,14.365
+SAMEA118323261,PRJEB89491,ENA_fam_0039_infant,11 months,infant,335.0,male,NL,,,,,,2020,primary,1.0,17.056
+SAMEA118323342,PRJEB89491,ENA_fam_0039_infant,14 months,infant,426.0,male,NL,,,,,,2021,primary,1.0,13.229
+SAMEA118322695,PRJEB89491,ENA_fam_0039_infant,4 months,infant,122.0,male,NL,,,,,,2020,primary,1.0,10.9
+SAMEA118322802,PRJEB89491,ENA_fam_0039_infant,4 weeks,neonate,28.0,male,NL,,,,,,2020,primary,1.0,13.753
+SAMEA118322884,PRJEB89491,ENA_fam_0039_infant,5 months,infant,152.0,male,NL,,,,,,2020,primary,1.0,19.878
+SAMEA118322977,PRJEB89491,ENA_fam_0039_infant,6 months,infant,183.0,male,NL,,,,,,2020,primary,1.0,16.371
+SAMEA118323172,PRJEB89491,ENA_fam_0039_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,18.307
+SAMEA118323436,PRJEB89491,ENA_fam_0039_mother,,,,female,NL,,,,,,2020,primary,1.0,17.005
+SAMEA118323072,PRJEB89491,ENA_fam_0040_infant,8 weeks,infant,56.0,male,NL,,,,,,2020,primary,1.0,15.594
+SAMEA118323437,PRJEB89491,ENA_fam_0040_mother,,,,female,NL,,,,,,2020,primary,1.0,22.828
+SAMEA118323262,PRJEB89491,ENA_fam_0041_infant,11 months,infant,335.0,female,NL,,,,,,2020,primary,1.0,7.224
+SAMEA118323343,PRJEB89491,ENA_fam_0041_infant,14 months,infant,426.0,female,NL,,,,,,2020,primary,1.0,15.404
+SAMEA118322696,PRJEB89491,ENA_fam_0041_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,9.843
+SAMEA118322885,PRJEB89491,ENA_fam_0041_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,11.917
+SAMEA118322978,PRJEB89491,ENA_fam_0041_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,10.065
+SAMEA118323073,PRJEB89491,ENA_fam_0041_infant,8 weeks,infant,56.0,female,NL,,,,,,2019,primary,1.0,17.694
+SAMEA118323438,PRJEB89491,ENA_fam_0041_mother,,,,female,NL,,,,,,2019,primary,1.0,14.878
+SAMEA118322612,PRJEB89491,ENA_fam_0042_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2020,primary,1.0,14.764
+SAMEA118323263,PRJEB89491,ENA_fam_0042_infant,11 months,infant,335.0,female,NL,,,,,,2020,primary,1.0,13.409
+SAMEA118323344,PRJEB89491,ENA_fam_0042_infant,14 months,infant,426.0,female,NL,,,,,,2021,primary,1.0,17.333
+SAMEA118322697,PRJEB89491,ENA_fam_0042_infant,4 months,infant,122.0,female,NL,,,,,,2020,primary,1.0,10.663
+SAMEA118322886,PRJEB89491,ENA_fam_0042_infant,5 months,infant,152.0,female,NL,,,,,,2020,primary,1.0,10.839
+SAMEA118322979,PRJEB89491,ENA_fam_0042_infant,6 months,infant,183.0,female,NL,,,,,,2020,primary,1.0,14.161
+SAMEA118323074,PRJEB89491,ENA_fam_0042_infant,8 weeks,infant,56.0,female,NL,,,,,,2020,primary,1.0,18.76
+SAMEA118323173,PRJEB89491,ENA_fam_0042_infant,9 months,infant,274.0,female,NL,,,,,,2020,primary,1.0,11.73
+SAMEA118323439,PRJEB89491,ENA_fam_0042_mother,,,,female,NL,,,,,,2020,primary,1.0,21.098
+SAMEA118322698,PRJEB89491,ENA_fam_0043_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,20.358
+SAMEA118322803,PRJEB89491,ENA_fam_0043_infant,4 weeks,neonate,28.0,male,NL,,,,,,2019,primary,1.0,20.24
+SAMEA118322887,PRJEB89491,ENA_fam_0043_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,19.868
+SAMEA118322980,PRJEB89491,ENA_fam_0043_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,17.525
+SAMEA118323075,PRJEB89491,ENA_fam_0043_infant,8 weeks,infant,56.0,male,NL,,,,,,2019,primary,1.0,22.985
+SAMEA118323440,PRJEB89491,ENA_fam_0043_mother,,,,female,NL,,,,,,2019,primary,1.0,18.021
+SAMEA118322613,PRJEB89491,ENA_fam_0044_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2019,primary,1.0,14.837
+SAMEA118323345,PRJEB89491,ENA_fam_0044_infant,14 months,infant,426.0,female,NL,,,,,,2020,primary,1.0,17.616
+SAMEA118322699,PRJEB89491,ENA_fam_0044_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,14.278
+SAMEA118322804,PRJEB89491,ENA_fam_0044_infant,4 weeks,neonate,28.0,female,NL,,,,,,2019,primary,1.0,17.492
+SAMEA118322888,PRJEB89491,ENA_fam_0044_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,7.182
+SAMEA118322981,PRJEB89491,ENA_fam_0044_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,19.906
+SAMEA118323076,PRJEB89491,ENA_fam_0044_infant,8 weeks,infant,56.0,female,NL,,,,,,2019,primary,1.0,8.309
+SAMEA118323441,PRJEB89491,ENA_fam_0044_mother,,,,female,NL,,,,,,2019,primary,1.0,16.458
+SAMEA118322614,PRJEB89491,ENA_fam_0045_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2019,primary,1.0,14.13
+SAMEA118322700,PRJEB89491,ENA_fam_0045_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,22.368
+SAMEA118322805,PRJEB89491,ENA_fam_0045_infant,4 weeks,neonate,28.0,male,NL,,,,,,2019,primary,1.0,19.021
+SAMEA118322889,PRJEB89491,ENA_fam_0045_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,19.538
+SAMEA118322982,PRJEB89491,ENA_fam_0045_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,26.57
+SAMEA118323077,PRJEB89491,ENA_fam_0045_infant,8 weeks,infant,56.0,male,NL,,,,,,2019,primary,1.0,25.093
+SAMEA118323174,PRJEB89491,ENA_fam_0045_infant,9 months,infant,274.0,male,NL,,,,,,2020,primary,1.0,10.292
+SAMEA118323442,PRJEB89491,ENA_fam_0045_mother,,,,female,NL,,,,,,2019,primary,1.0,18.14
+SAMEA118323264,PRJEB89491,ENA_fam_0046_infant,11 months,infant,335.0,female,NL,,,,,,2020,primary,1.0,24.744
+SAMEA118322701,PRJEB89491,ENA_fam_0046_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,13.9
+SAMEA118322890,PRJEB89491,ENA_fam_0046_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,12.265
+SAMEA118322983,PRJEB89491,ENA_fam_0046_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,27.878
+SAMEA118323443,PRJEB89491,ENA_fam_0046_mother,,,,female,NL,,,,,,2019,primary,1.0,24.196
+SAMEA118322615,PRJEB89491,ENA_fam_0047_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,8.932
+SAMEA118323265,PRJEB89491,ENA_fam_0047_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,21.755
+SAMEA118322702,PRJEB89491,ENA_fam_0047_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,9.127
+SAMEA118322806,PRJEB89491,ENA_fam_0047_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,20.745
+SAMEA118322891,PRJEB89491,ENA_fam_0047_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,10.65
+SAMEA118322984,PRJEB89491,ENA_fam_0047_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,18.039
+SAMEA118323078,PRJEB89491,ENA_fam_0047_infant,8 weeks,infant,56.0,male,NL,,,,,,2019,primary,1.0,15.401
+SAMEA118323175,PRJEB89491,ENA_fam_0047_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,18.513
+SAMEA118323444,PRJEB89491,ENA_fam_0047_mother,,,,female,NL,,,,,,2018,primary,1.0,11.606
+SAMEA118323266,PRJEB89491,ENA_fam_0048_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,15.283
+SAMEA118323346,PRJEB89491,ENA_fam_0048_infant,14 months,infant,426.0,male,NL,,,,,,2020,primary,1.0,19.658
+SAMEA118323079,PRJEB89491,ENA_fam_0048_infant,8 weeks,infant,56.0,male,NL,,,,,,2019,primary,1.0,11.477
+SAMEA118323445,PRJEB89491,ENA_fam_0048_mother,,,,female,NL,,,,,,2019,primary,1.0,24.629
+SAMEA118322616,PRJEB89491,ENA_fam_0049_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2019,primary,1.0,14.834
+SAMEA118322703,PRJEB89491,ENA_fam_0049_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,9.546
+SAMEA118322807,PRJEB89491,ENA_fam_0049_infant,4 weeks,neonate,28.0,female,NL,,,,,,2019,primary,1.0,20.581
+SAMEA118322892,PRJEB89491,ENA_fam_0049_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,11.077
+SAMEA118323080,PRJEB89491,ENA_fam_0049_infant,8 weeks,infant,56.0,female,NL,,,,,,2019,primary,1.0,11.791
+SAMEA118322617,PRJEB89491,ENA_fam_0050_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,13.611
+SAMEA118323267,PRJEB89491,ENA_fam_0050_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,13.978
+SAMEA118323347,PRJEB89491,ENA_fam_0050_infant,14 months,infant,426.0,female,NL,,,,,,2020,primary,1.0,18.302
+SAMEA118322704,PRJEB89491,ENA_fam_0050_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,13.687
+SAMEA118322808,PRJEB89491,ENA_fam_0050_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,13.295
+SAMEA118322893,PRJEB89491,ENA_fam_0050_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,16.163
+SAMEA118322985,PRJEB89491,ENA_fam_0050_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,17.178
+SAMEA118323081,PRJEB89491,ENA_fam_0050_infant,8 weeks,infant,56.0,female,NL,,,,,,2019,primary,1.0,19.939
+SAMEA118323176,PRJEB89491,ENA_fam_0050_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,15.126
+SAMEA118323446,PRJEB89491,ENA_fam_0050_mother,,,,female,NL,,,,,,2018,primary,1.0,12.573
+SAMEA118323348,PRJEB89491,ENA_fam_0051_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,14.746
+SAMEA118322705,PRJEB89491,ENA_fam_0051_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,16.02
+SAMEA118322894,PRJEB89491,ENA_fam_0051_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,18.38
+SAMEA118322986,PRJEB89491,ENA_fam_0051_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,16.742
+SAMEA118323082,PRJEB89491,ENA_fam_0051_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,12.576
+SAMEA118323177,PRJEB89491,ENA_fam_0051_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,19.457
+SAMEA118323447,PRJEB89491,ENA_fam_0051_mother,,,,female,NL,,,,,,2018,primary,1.0,12.212
+SAMEA118322618,PRJEB89491,ENA_fam_0052_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,18.394
+SAMEA118323349,PRJEB89491,ENA_fam_0052_infant,14 months,infant,426.0,male,NL,,,,,,2020,primary,1.0,12.5
+SAMEA118322706,PRJEB89491,ENA_fam_0052_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,18.406
+SAMEA118322987,PRJEB89491,ENA_fam_0052_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,22.814
+SAMEA118323083,PRJEB89491,ENA_fam_0052_infant,8 weeks,infant,56.0,male,NL,,,,,,2019,primary,1.0,18.118
+SAMEA118323178,PRJEB89491,ENA_fam_0052_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,7.908
+SAMEA118323448,PRJEB89491,ENA_fam_0052_mother,,,,female,NL,,,,,,2018,primary,1.0,19.615
+SAMEA118322809,PRJEB89491,ENA_fam_0053_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,14.042
+SAMEA118323084,PRJEB89491,ENA_fam_0053_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,9.792
+SAMEA118322619,PRJEB89491,ENA_fam_0054_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,15.995
+SAMEA118323268,PRJEB89491,ENA_fam_0054_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,15.198
+SAMEA118323350,PRJEB89491,ENA_fam_0054_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,15.608
+SAMEA118322707,PRJEB89491,ENA_fam_0054_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,9.668
+SAMEA118322810,PRJEB89491,ENA_fam_0054_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,13.142
+SAMEA118322895,PRJEB89491,ENA_fam_0054_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,20.184
+SAMEA118322988,PRJEB89491,ENA_fam_0054_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,20.867
+SAMEA118323085,PRJEB89491,ENA_fam_0054_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,7.589
+SAMEA118323179,PRJEB89491,ENA_fam_0054_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,26.731
+SAMEA118323449,PRJEB89491,ENA_fam_0054_mother,,,,female,NL,,,,,,2018,primary,1.0,17.9
+SAMEA118322620,PRJEB89491,ENA_fam_0055_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,16.394
+SAMEA118323269,PRJEB89491,ENA_fam_0055_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,17.389
+SAMEA118323351,PRJEB89491,ENA_fam_0055_infant,14 months,infant,426.0,female,NL,,,,,,2020,primary,1.0,17.27
+SAMEA118322708,PRJEB89491,ENA_fam_0055_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,18.092
+SAMEA118322811,PRJEB89491,ENA_fam_0055_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,6.547
+SAMEA118322896,PRJEB89491,ENA_fam_0055_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,19.348
+SAMEA118323086,PRJEB89491,ENA_fam_0055_infant,8 weeks,infant,56.0,female,NL,,,,,,2019,primary,1.0,18.92
+SAMEA118323180,PRJEB89491,ENA_fam_0055_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,17.03
+SAMEA118323450,PRJEB89491,ENA_fam_0055_mother,,,,female,NL,,,,,,2018,primary,1.0,17.649
+SAMEA118323270,PRJEB89491,ENA_fam_0056_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,20.483
+SAMEA118322709,PRJEB89491,ENA_fam_0056_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,22.013
+SAMEA118322897,PRJEB89491,ENA_fam_0056_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,11.978
+SAMEA118322989,PRJEB89491,ENA_fam_0056_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,16.809
+SAMEA118323087,PRJEB89491,ENA_fam_0056_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,19.359
+SAMEA118323181,PRJEB89491,ENA_fam_0056_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,10.222
+SAMEA118323451,PRJEB89491,ENA_fam_0056_mother,,,,female,NL,,,,,,2018,primary,1.0,22.232
+SAMEA118322621,PRJEB89491,ENA_fam_0057_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,10.643
+SAMEA118323271,PRJEB89491,ENA_fam_0057_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,7.87
+SAMEA118322710,PRJEB89491,ENA_fam_0057_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,14.737
+SAMEA118322812,PRJEB89491,ENA_fam_0057_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,8.851
+SAMEA118322898,PRJEB89491,ENA_fam_0057_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,18.373
+SAMEA118322990,PRJEB89491,ENA_fam_0057_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,12.387
+SAMEA118323088,PRJEB89491,ENA_fam_0057_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,16.477
+SAMEA118323182,PRJEB89491,ENA_fam_0057_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,16.125
+SAMEA118322622,PRJEB89491,ENA_fam_0058_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,10.149
+SAMEA118323272,PRJEB89491,ENA_fam_0058_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,20.315
+SAMEA118323352,PRJEB89491,ENA_fam_0058_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,21.881
+SAMEA118322711,PRJEB89491,ENA_fam_0058_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,17.291
+SAMEA118322899,PRJEB89491,ENA_fam_0058_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,19.747
+SAMEA118322991,PRJEB89491,ENA_fam_0058_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,15.829
+SAMEA118322813,PRJEB89491,ENA_fam_0058_infant,8 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,17.926
+SAMEA118323089,PRJEB89491,ENA_fam_0058_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,15.724
+SAMEA118323183,PRJEB89491,ENA_fam_0058_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,27.031
+SAMEA118323452,PRJEB89491,ENA_fam_0058_mother,,,,female,NL,,,,,,2018,primary,1.0,15.847
+SAMEA118322623,PRJEB89491,ENA_fam_0059_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,11.731
+SAMEA118323353,PRJEB89491,ENA_fam_0059_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,24.878
+SAMEA118322712,PRJEB89491,ENA_fam_0059_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,17.711
+SAMEA118322814,PRJEB89491,ENA_fam_0059_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,29.067
+SAMEA118322900,PRJEB89491,ENA_fam_0059_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,24.495
+SAMEA118323090,PRJEB89491,ENA_fam_0059_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,17.15
+SAMEA118323184,PRJEB89491,ENA_fam_0059_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,14.299
+SAMEA118323453,PRJEB89491,ENA_fam_0059_mother,,,,female,NL,,,,,,2018,primary,1.0,9.51
+SAMEA118323273,PRJEB89491,ENA_fam_0060_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,10.453
+SAMEA118322713,PRJEB89491,ENA_fam_0060_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,16.015
+SAMEA118322901,PRJEB89491,ENA_fam_0060_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,12.711
+SAMEA118322992,PRJEB89491,ENA_fam_0060_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,30.262
+SAMEA118323091,PRJEB89491,ENA_fam_0060_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,13.405
+SAMEA118323454,PRJEB89491,ENA_fam_0060_mother,,,,female,NL,,,,,,2018,primary,1.0,21.783
+SAMEA118322714,PRJEB89491,ENA_fam_0061_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,6.0
+SAMEA118322902,PRJEB89491,ENA_fam_0061_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,12.561
+SAMEA118322993,PRJEB89491,ENA_fam_0061_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,13.145
+SAMEA118323092,PRJEB89491,ENA_fam_0061_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,28.744
+SAMEA118323185,PRJEB89491,ENA_fam_0061_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,19.135
+SAMEA118323455,PRJEB89491,ENA_fam_0061_mother,,,,female,NL,,,,,,2018,primary,1.0,19.294
+SAMEA118322624,PRJEB89491,ENA_fam_0062_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,24.222
+SAMEA118323274,PRJEB89491,ENA_fam_0062_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,21.678
+SAMEA118323354,PRJEB89491,ENA_fam_0062_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,21.586
+SAMEA118322815,PRJEB89491,ENA_fam_0062_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,13.665
+SAMEA118322903,PRJEB89491,ENA_fam_0062_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,14.39
+SAMEA118323093,PRJEB89491,ENA_fam_0062_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,18.459
+SAMEA118323186,PRJEB89491,ENA_fam_0062_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,13.66
+SAMEA118322625,PRJEB89491,ENA_fam_0063_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,19.571
+SAMEA118323275,PRJEB89491,ENA_fam_0063_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,18.188
+SAMEA118322816,PRJEB89491,ENA_fam_0063_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,16.954
+SAMEA118322904,PRJEB89491,ENA_fam_0063_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,13.888
+SAMEA118323094,PRJEB89491,ENA_fam_0063_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,10.807
+SAMEA118323187,PRJEB89491,ENA_fam_0063_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,17.209
+SAMEA118323456,PRJEB89491,ENA_fam_0063_mother,,,,female,NL,,,,,,2018,primary,1.0,24.417
+SAMEA118322626,PRJEB89491,ENA_fam_0064_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,23.136
+SAMEA118322627,PRJEB89491,ENA_fam_0065_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,16.361
+SAMEA118322715,PRJEB89491,ENA_fam_0065_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,14.555
+SAMEA118322817,PRJEB89491,ENA_fam_0065_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,15.135
+SAMEA118322905,PRJEB89491,ENA_fam_0065_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,15.292
+SAMEA118322994,PRJEB89491,ENA_fam_0065_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,13.041
+SAMEA118323095,PRJEB89491,ENA_fam_0065_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,15.866
+SAMEA118323188,PRJEB89491,ENA_fam_0065_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,20.049
+SAMEA118323457,PRJEB89491,ENA_fam_0065_mother,,,,female,NL,,,,,,2018,primary,1.0,30.659
+SAMEA118322628,PRJEB89491,ENA_fam_0066_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,9.06
+SAMEA118323276,PRJEB89491,ENA_fam_0066_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,14.956
+SAMEA118323355,PRJEB89491,ENA_fam_0066_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,10.595
+SAMEA118322716,PRJEB89491,ENA_fam_0066_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,17.228
+SAMEA118322818,PRJEB89491,ENA_fam_0066_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,9.492
+SAMEA118322906,PRJEB89491,ENA_fam_0066_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,11.168
+SAMEA118322995,PRJEB89491,ENA_fam_0066_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,20.473
+SAMEA118323096,PRJEB89491,ENA_fam_0066_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,9.183
+SAMEA118323458,PRJEB89491,ENA_fam_0066_mother,,,,female,NL,,,,,,2018,primary,1.0,18.891
+SAMEA118323356,PRJEB89491,ENA_fam_0067_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,24.273
+SAMEA118322717,PRJEB89491,ENA_fam_0067_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,11.092
+SAMEA118323097,PRJEB89491,ENA_fam_0067_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,7.524
+SAMEA118323459,PRJEB89491,ENA_fam_0067_mother,,,,female,NL,,,,,,2018,primary,1.0,17.254
+SAMEA118322629,PRJEB89491,ENA_fam_0068_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,11.926
+SAMEA118323277,PRJEB89491,ENA_fam_0068_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,6.075
+SAMEA118322718,PRJEB89491,ENA_fam_0068_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,27.607
+SAMEA118322819,PRJEB89491,ENA_fam_0068_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,14.34
+SAMEA118322907,PRJEB89491,ENA_fam_0068_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,20.916
+SAMEA118322996,PRJEB89491,ENA_fam_0068_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,22.895
+SAMEA118323098,PRJEB89491,ENA_fam_0068_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,12.578
+SAMEA118323189,PRJEB89491,ENA_fam_0068_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,13.307
+SAMEA118323460,PRJEB89491,ENA_fam_0068_mother,,,,female,NL,,,,,,2018,primary,1.0,18.829
+SAMEA118322630,PRJEB89491,ENA_fam_0069_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,18.911
+SAMEA118323278,PRJEB89491,ENA_fam_0069_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,23.244
+SAMEA118323357,PRJEB89491,ENA_fam_0069_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,16.932
+SAMEA118322719,PRJEB89491,ENA_fam_0069_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,8.804
+SAMEA118322820,PRJEB89491,ENA_fam_0069_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,12.416
+SAMEA118322908,PRJEB89491,ENA_fam_0069_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,17.843
+SAMEA118323099,PRJEB89491,ENA_fam_0069_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,12.215
+SAMEA118323190,PRJEB89491,ENA_fam_0069_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,12.899
+SAMEA118323461,PRJEB89491,ENA_fam_0069_mother,,,,female,NL,,,,,,2018,primary,1.0,24.593
+SAMEA118322720,PRJEB89491,ENA_fam_0070_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,18.814
+SAMEA118322821,PRJEB89491,ENA_fam_0070_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,15.858
+SAMEA118323100,PRJEB89491,ENA_fam_0070_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,10.51
+SAMEA118323191,PRJEB89491,ENA_fam_0070_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,9.622
+SAMEA118322631,PRJEB89491,ENA_fam_0071_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,15.821
+SAMEA118323279,PRJEB89491,ENA_fam_0071_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,18.295
+SAMEA118323358,PRJEB89491,ENA_fam_0071_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,20.442
+SAMEA118322721,PRJEB89491,ENA_fam_0071_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,15.271
+SAMEA118322822,PRJEB89491,ENA_fam_0071_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,15.658
+SAMEA118322909,PRJEB89491,ENA_fam_0071_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,15.733
+SAMEA118322997,PRJEB89491,ENA_fam_0071_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,16.018
+SAMEA118323101,PRJEB89491,ENA_fam_0071_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,13.445
+SAMEA118322632,PRJEB89491,ENA_fam_0072_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,15.095
+SAMEA118323280,PRJEB89491,ENA_fam_0072_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,21.407
+SAMEA118322722,PRJEB89491,ENA_fam_0072_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,10.494
+SAMEA118322823,PRJEB89491,ENA_fam_0072_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,18.662
+SAMEA118322910,PRJEB89491,ENA_fam_0072_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,9.715
+SAMEA118322998,PRJEB89491,ENA_fam_0072_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,10.215
+SAMEA118323102,PRJEB89491,ENA_fam_0072_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,14.825
+SAMEA118323192,PRJEB89491,ENA_fam_0072_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,24.814
+SAMEA118323462,PRJEB89491,ENA_fam_0072_mother,,,,female,NL,,,,,,2018,primary,1.0,21.229
+SAMEA118322633,PRJEB89491,ENA_fam_0073_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,16.506
+SAMEA118323281,PRJEB89491,ENA_fam_0073_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,12.902
+SAMEA118322723,PRJEB89491,ENA_fam_0073_infant,4 months,infant,122.0,male,NL,,,,,,2019,primary,1.0,17.596
+SAMEA118322824,PRJEB89491,ENA_fam_0073_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,12.628
+SAMEA118322999,PRJEB89491,ENA_fam_0073_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,6.616
+SAMEA118323193,PRJEB89491,ENA_fam_0073_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,7.418
+SAMEA118322634,PRJEB89491,ENA_fam_0074_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,13.391
+SAMEA118322911,PRJEB89491,ENA_fam_0074_infant,5 months,infant,152.0,male,NL,,,,,,2019,primary,1.0,15.303
+SAMEA118323000,PRJEB89491,ENA_fam_0074_infant,6 months,infant,183.0,male,NL,,,,,,2019,primary,1.0,14.692
+SAMEA118323103,PRJEB89491,ENA_fam_0074_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,12.468
+SAMEA118323464,PRJEB89491,ENA_fam_0074_mother,,,,female,NL,,,,,,2018,primary,1.0,16.955
+SAMEA118323282,PRJEB89491,ENA_fam_0075_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,25.101
+SAMEA118322724,PRJEB89491,ENA_fam_0075_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,14.574
+SAMEA118322825,PRJEB89491,ENA_fam_0075_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,13.493
+SAMEA118322912,PRJEB89491,ENA_fam_0075_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,22.299
+SAMEA118323001,PRJEB89491,ENA_fam_0075_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,22.642
+SAMEA118323104,PRJEB89491,ENA_fam_0075_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,14.65
+SAMEA118323465,PRJEB89491,ENA_fam_0075_mother,,,,female,NL,,,,,,2018,primary,1.0,20.426
+SAMEA118322725,PRJEB89491,ENA_fam_0076_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,11.727
+SAMEA118323002,PRJEB89491,ENA_fam_0076_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,11.898
+SAMEA118323105,PRJEB89491,ENA_fam_0076_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,18.76
+SAMEA118323466,PRJEB89491,ENA_fam_0076_mother,,,,female,NL,,,,,,2018,primary,1.0,17.706
+SAMEA118322635,PRJEB89491,ENA_fam_0077_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,12.014
+SAMEA118322726,PRJEB89491,ENA_fam_0077_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,15.737
+SAMEA118322826,PRJEB89491,ENA_fam_0077_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,16.468
+SAMEA118323467,PRJEB89491,ENA_fam_0077_mother,,,,female,NL,,,,,,2018,primary,1.0,25.119
+SAMEA118323283,PRJEB89491,ENA_fam_0078_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,23.194
+SAMEA118323359,PRJEB89491,ENA_fam_0078_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,13.447
+SAMEA118322913,PRJEB89491,ENA_fam_0078_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,12.664
+SAMEA118323003,PRJEB89491,ENA_fam_0078_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,20.274
+SAMEA118323106,PRJEB89491,ENA_fam_0078_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,17.923
+SAMEA118323194,PRJEB89491,ENA_fam_0078_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,13.076
+SAMEA118323468,PRJEB89491,ENA_fam_0078_mother,,,,female,NL,,,,,,2018,primary,1.0,13.125
+SAMEA118322636,PRJEB89491,ENA_fam_0079_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,16.308
+SAMEA118323284,PRJEB89491,ENA_fam_0079_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,29.33
+SAMEA118322727,PRJEB89491,ENA_fam_0079_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,16.707
+SAMEA118322827,PRJEB89491,ENA_fam_0079_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,16.229
+SAMEA118322914,PRJEB89491,ENA_fam_0079_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,15.135
+SAMEA118323004,PRJEB89491,ENA_fam_0079_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,8.1
+SAMEA118323107,PRJEB89491,ENA_fam_0079_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,15.236
+SAMEA118323195,PRJEB89491,ENA_fam_0079_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,23.903
+SAMEA118323469,PRJEB89491,ENA_fam_0079_mother,,,,female,NL,,,,,,2018,primary,1.0,20.357
+SAMEA118322637,PRJEB89491,ENA_fam_0080_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,8.042
+SAMEA118322828,PRJEB89491,ENA_fam_0080_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,5.882
+SAMEA118323108,PRJEB89491,ENA_fam_0080_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,19.182
+SAMEA118323470,PRJEB89491,ENA_fam_0080_mother,,,,female,NL,,,,,,2018,primary,1.0,20.079
+SAMEA118322638,PRJEB89491,ENA_fam_0081_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,10.564
+SAMEA118323285,PRJEB89491,ENA_fam_0081_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,11.215
+SAMEA118323360,PRJEB89491,ENA_fam_0081_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,12.998
+SAMEA118322728,PRJEB89491,ENA_fam_0081_infant,4 months,infant,122.0,female,NL,,,,,,2019,primary,1.0,15.759
+SAMEA118322915,PRJEB89491,ENA_fam_0081_infant,5 months,infant,152.0,female,NL,,,,,,2019,primary,1.0,21.588
+SAMEA118323005,PRJEB89491,ENA_fam_0081_infant,6 months,infant,183.0,female,NL,,,,,,2019,primary,1.0,13.968
+SAMEA118323109,PRJEB89491,ENA_fam_0081_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,13.274
+SAMEA118323196,PRJEB89491,ENA_fam_0081_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,8.211
+SAMEA118323471,PRJEB89491,ENA_fam_0081_mother,,,,female,NL,,,,,,2018,primary,1.0,21.386
+SAMEA118322639,PRJEB89491,ENA_fam_0082_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,8.088
+SAMEA118323286,PRJEB89491,ENA_fam_0082_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,19.655
+SAMEA118323361,PRJEB89491,ENA_fam_0082_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,8.974
+SAMEA118322729,PRJEB89491,ENA_fam_0082_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,8.583
+SAMEA118322829,PRJEB89491,ENA_fam_0082_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,19.837
+SAMEA118322916,PRJEB89491,ENA_fam_0082_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,6.983
+SAMEA118323006,PRJEB89491,ENA_fam_0082_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,12.995
+SAMEA118323110,PRJEB89491,ENA_fam_0082_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,12.912
+SAMEA118323197,PRJEB89491,ENA_fam_0082_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,7.312
+SAMEA118323472,PRJEB89491,ENA_fam_0082_mother,,,,female,NL,,,,,,2018,primary,1.0,13.09
+SAMEA118322640,PRJEB89491,ENA_fam_0083_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,30.321
+SAMEA118322917,PRJEB89491,ENA_fam_0083_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,10.226
+SAMEA118322641,PRJEB89491,ENA_fam_0084_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,19.274
+SAMEA118322830,PRJEB89491,ENA_fam_0084_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,16.776
+SAMEA118323473,PRJEB89491,ENA_fam_0084_mother,,,,female,NL,,,,,,2018,primary,1.0,18.115
+SAMEA118322730,PRJEB89491,ENA_fam_0085_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,19.944
+SAMEA118323111,PRJEB89491,ENA_fam_0085_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,10.58
+SAMEA118323474,PRJEB89491,ENA_fam_0085_mother,,,,female,NL,,,,,,2018,primary,1.0,21.041
+SAMEA118323287,PRJEB89491,ENA_fam_0086_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,20.97
+SAMEA118323362,PRJEB89491,ENA_fam_0086_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,18.42
+SAMEA118323198,PRJEB89491,ENA_fam_0086_infant,9 months,infant,274.0,female,NL,,,,,,2019,primary,1.0,11.477
+SAMEA118322642,PRJEB89491,ENA_fam_0087_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,17.261
+SAMEA118322731,PRJEB89491,ENA_fam_0087_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,8.957
+SAMEA118322831,PRJEB89491,ENA_fam_0087_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,11.283
+SAMEA118322918,PRJEB89491,ENA_fam_0087_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,14.256
+SAMEA118323007,PRJEB89491,ENA_fam_0087_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,14.275
+SAMEA118323112,PRJEB89491,ENA_fam_0087_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,19.647
+SAMEA118322732,PRJEB89491,ENA_fam_0088_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,14.53
+SAMEA118323475,PRJEB89491,ENA_fam_0088_mother,,,,female,NL,,,,,,2018,primary,1.0,19.436
+SAMEA118323288,PRJEB89491,ENA_fam_0089_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,12.089
+SAMEA118323363,PRJEB89491,ENA_fam_0089_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,22.035
+SAMEA118322733,PRJEB89491,ENA_fam_0089_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,10.172
+SAMEA118322919,PRJEB89491,ENA_fam_0089_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,27.401
+SAMEA118323008,PRJEB89491,ENA_fam_0089_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,25.877
+SAMEA118323199,PRJEB89491,ENA_fam_0089_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,20.815
+SAMEA118323476,PRJEB89491,ENA_fam_0089_mother,,,,female,NL,,,,,,2018,primary,1.0,15.235
+SAMEA118322832,PRJEB89491,ENA_fam_0090_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,18.124
+SAMEA118323477,PRJEB89491,ENA_fam_0090_mother,,,,female,NL,,,,,,2018,primary,1.0,14.081
+SAMEA118322643,PRJEB89491,ENA_fam_0091_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,14.969
+SAMEA118322734,PRJEB89491,ENA_fam_0091_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,11.199
+SAMEA118322833,PRJEB89491,ENA_fam_0091_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,16.818
+SAMEA118322920,PRJEB89491,ENA_fam_0091_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,23.566
+SAMEA118323009,PRJEB89491,ENA_fam_0091_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,16.636
+SAMEA118323113,PRJEB89491,ENA_fam_0091_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,15.99
+SAMEA118323478,PRJEB89491,ENA_fam_0091_mother,,,,female,NL,,,,,,2018,primary,1.0,17.77
+SAMEA118322644,PRJEB89491,ENA_fam_0092_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,12.382
+SAMEA118323289,PRJEB89491,ENA_fam_0092_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,18.429
+SAMEA118323364,PRJEB89491,ENA_fam_0092_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,20.589
+SAMEA118322735,PRJEB89491,ENA_fam_0092_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,12.618
+SAMEA118322834,PRJEB89491,ENA_fam_0092_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,17.833
+SAMEA118322921,PRJEB89491,ENA_fam_0092_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,18.024
+SAMEA118323114,PRJEB89491,ENA_fam_0092_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,11.933
+SAMEA118323479,PRJEB89491,ENA_fam_0092_mother,,,,female,NL,,,,,,2018,primary,1.0,20.026
+SAMEA118322645,PRJEB89491,ENA_fam_0093_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,18.175
+SAMEA118323290,PRJEB89491,ENA_fam_0093_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,19.354
+SAMEA118323365,PRJEB89491,ENA_fam_0093_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,17.782
+SAMEA118322736,PRJEB89491,ENA_fam_0093_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,17.409
+SAMEA118322835,PRJEB89491,ENA_fam_0093_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,14.561
+SAMEA118322922,PRJEB89491,ENA_fam_0093_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,16.314
+SAMEA118323010,PRJEB89491,ENA_fam_0093_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,10.369
+SAMEA118323115,PRJEB89491,ENA_fam_0093_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,16.683
+SAMEA118323200,PRJEB89491,ENA_fam_0093_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,16.399
+SAMEA118323480,PRJEB89491,ENA_fam_0093_mother,,,,female,NL,,,,,,2018,primary,1.0,14.286
+SAMEA118322646,PRJEB89491,ENA_fam_0094_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,14.351
+SAMEA118322737,PRJEB89491,ENA_fam_0094_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,12.548
+SAMEA118322836,PRJEB89491,ENA_fam_0094_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,18.125
+SAMEA118322923,PRJEB89491,ENA_fam_0094_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,10.557
+SAMEA118323011,PRJEB89491,ENA_fam_0094_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,34.164
+SAMEA118323201,PRJEB89491,ENA_fam_0094_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,19.031
+SAMEA118323481,PRJEB89491,ENA_fam_0094_mother,,,,female,NL,,,,,,2018,primary,1.0,26.218
+SAMEA118323366,PRJEB89491,ENA_fam_0095_infant,14 months,infant,426.0,male,NL,,,,,,2019,primary,1.0,20.638
+SAMEA118322738,PRJEB89491,ENA_fam_0095_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,12.765
+SAMEA118323012,PRJEB89491,ENA_fam_0095_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,13.508
+SAMEA118323116,PRJEB89491,ENA_fam_0095_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,13.299
+SAMEA118323202,PRJEB89491,ENA_fam_0095_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,21.194
+SAMEA118323482,PRJEB89491,ENA_fam_0095_mother,,,,female,NL,,,,,,2018,primary,1.0,18.304
+SAMEA118322647,PRJEB89491,ENA_fam_0096_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2018,primary,1.0,17.254
+SAMEA118323291,PRJEB89491,ENA_fam_0096_infant,11 months,infant,335.0,male,NL,,,,,,2019,primary,1.0,11.738
+SAMEA118322837,PRJEB89491,ENA_fam_0096_infant,4 weeks,neonate,28.0,male,NL,,,,,,2018,primary,1.0,17.821
+SAMEA118323013,PRJEB89491,ENA_fam_0096_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,14.256
+SAMEA118323117,PRJEB89491,ENA_fam_0096_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,19.431
+SAMEA118323203,PRJEB89491,ENA_fam_0096_infant,9 months,infant,274.0,male,NL,,,,,,2019,primary,1.0,11.974
+SAMEA118323483,PRJEB89491,ENA_fam_0096_mother,,,,female,NL,,,,,,2018,primary,1.0,17.256
+SAMEA118322739,PRJEB89491,ENA_fam_0097_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,17.806
+SAMEA118322924,PRJEB89491,ENA_fam_0097_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,13.83
+SAMEA118323014,PRJEB89491,ENA_fam_0097_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,12.989
+SAMEA118323484,PRJEB89491,ENA_fam_0097_mother,,,,female,NL,,,,,,2018,primary,1.0,14.222
+SAMEA118322648,PRJEB89491,ENA_fam_0098_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,16.832
+SAMEA118322740,PRJEB89491,ENA_fam_0098_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,11.347
+SAMEA118322838,PRJEB89491,ENA_fam_0098_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,30.124
+SAMEA118322925,PRJEB89491,ENA_fam_0098_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,21.014
+SAMEA118323015,PRJEB89491,ENA_fam_0098_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,15.633
+SAMEA118323204,PRJEB89491,ENA_fam_0098_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,16.775
+SAMEA118323485,PRJEB89491,ENA_fam_0098_mother,,,,female,NL,,,,,,2018,primary,1.0,16.557
+SAMEA118322649,PRJEB89491,ENA_fam_0099_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,16.635
+SAMEA118323292,PRJEB89491,ENA_fam_0099_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,23.619
+SAMEA118323367,PRJEB89491,ENA_fam_0099_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,14.39
+SAMEA118322741,PRJEB89491,ENA_fam_0099_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,16.639
+SAMEA118322839,PRJEB89491,ENA_fam_0099_infant,4 weeks,neonate,28.0,female,NL,,,,,,2018,primary,1.0,20.44
+SAMEA118322926,PRJEB89491,ENA_fam_0099_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,15.514
+SAMEA118323016,PRJEB89491,ENA_fam_0099_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,22.745
+SAMEA118323118,PRJEB89491,ENA_fam_0099_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,14.397
+SAMEA118323205,PRJEB89491,ENA_fam_0099_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,16.172
+SAMEA118323486,PRJEB89491,ENA_fam_0099_mother,,,,female,NL,,,,,,2017,primary,1.0,21.452
+SAMEA118323293,PRJEB89491,ENA_fam_0100_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,7.147
+SAMEA118323368,PRJEB89491,ENA_fam_0100_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,18.831
+SAMEA118322742,PRJEB89491,ENA_fam_0100_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,13.592
+SAMEA118322927,PRJEB89491,ENA_fam_0100_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,28.441
+SAMEA118323017,PRJEB89491,ENA_fam_0100_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,11.972
+SAMEA118323119,PRJEB89491,ENA_fam_0100_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,16.615
+SAMEA118323487,PRJEB89491,ENA_fam_0100_mother,,,,female,NL,,,,,,2018,primary,1.0,15.258
+SAMEA118323294,PRJEB89491,ENA_fam_0101_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,7.9
+SAMEA118323369,PRJEB89491,ENA_fam_0101_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,13.244
+SAMEA118323206,PRJEB89491,ENA_fam_0101_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,22.085
+SAMEA118323295,PRJEB89491,ENA_fam_0102_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,19.304
+SAMEA118323370,PRJEB89491,ENA_fam_0102_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,24.12
+SAMEA118322743,PRJEB89491,ENA_fam_0102_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,16.923
+SAMEA118322928,PRJEB89491,ENA_fam_0102_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,13.891
+SAMEA118323207,PRJEB89491,ENA_fam_0102_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,12.602
+SAMEA118323488,PRJEB89491,ENA_fam_0102_mother,,,,female,NL,,,,,,2018,primary,1.0,18.106
+SAMEA118322650,PRJEB89491,ENA_fam_0103_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,13.856
+SAMEA118323296,PRJEB89491,ENA_fam_0103_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,11.198
+SAMEA118323018,PRJEB89491,ENA_fam_0103_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,15.363
+SAMEA118323120,PRJEB89491,ENA_fam_0103_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,19.726
+SAMEA118323208,PRJEB89491,ENA_fam_0103_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,10.858
+SAMEA118323489,PRJEB89491,ENA_fam_0103_mother,,,,female,NL,,,,,,2017,primary,1.0,14.208
+SAMEA118322651,PRJEB89491,ENA_fam_0104_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,17.606
+SAMEA118323297,PRJEB89491,ENA_fam_0104_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,21.515
+SAMEA118322744,PRJEB89491,ENA_fam_0104_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,18.077
+SAMEA118322840,PRJEB89491,ENA_fam_0104_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,16.406
+SAMEA118322929,PRJEB89491,ENA_fam_0104_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,15.509
+SAMEA118323019,PRJEB89491,ENA_fam_0104_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,36.97
+SAMEA118323121,PRJEB89491,ENA_fam_0104_infant,8 weeks,infant,56.0,male,NL,,,,,,2018,primary,1.0,13.276
+SAMEA118323209,PRJEB89491,ENA_fam_0104_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,13.934
+SAMEA118323490,PRJEB89491,ENA_fam_0104_mother,,,,female,NL,,,,,,2017,primary,1.0,30.146
+SAMEA118323298,PRJEB89491,ENA_fam_0105_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,15.793
+SAMEA118322745,PRJEB89491,ENA_fam_0105_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,15.313
+SAMEA118322841,PRJEB89491,ENA_fam_0105_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,13.186
+SAMEA118322930,PRJEB89491,ENA_fam_0105_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,18.698
+SAMEA118323020,PRJEB89491,ENA_fam_0105_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,17.455
+SAMEA118323122,PRJEB89491,ENA_fam_0105_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,19.149
+SAMEA118323210,PRJEB89491,ENA_fam_0105_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,15.022
+SAMEA118323491,PRJEB89491,ENA_fam_0105_mother,,,,female,NL,,,,,,2017,primary,1.0,16.164
+SAMEA118323371,PRJEB89491,ENA_fam_0106_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,14.821
+SAMEA118322746,PRJEB89491,ENA_fam_0106_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,18.297
+SAMEA118322931,PRJEB89491,ENA_fam_0106_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,14.846
+SAMEA118323123,PRJEB89491,ENA_fam_0106_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,15.476
+SAMEA118323211,PRJEB89491,ENA_fam_0106_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,12.383
+SAMEA118323372,PRJEB89491,ENA_fam_0107_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,13.249
+SAMEA118322747,PRJEB89491,ENA_fam_0107_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,15.393
+SAMEA118323212,PRJEB89491,ENA_fam_0107_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,15.98
+SAMEA118323492,PRJEB89491,ENA_fam_0107_mother,,,,female,NL,,,,,,2017,primary,1.0,19.739
+SAMEA118322932,PRJEB89491,ENA_fam_0108_infant,1-2 weeks,infant,152.0,male,NL,,,,,,2017,primary,1.0,17.262
+SAMEA118322748,PRJEB89491,ENA_fam_0108_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,13.696
+SAMEA118322652,PRJEB89491,ENA_fam_0109_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,18.337
+SAMEA118323299,PRJEB89491,ENA_fam_0109_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,17.482
+SAMEA118323373,PRJEB89491,ENA_fam_0109_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,20.334
+SAMEA118322749,PRJEB89491,ENA_fam_0109_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,19.134
+SAMEA118322933,PRJEB89491,ENA_fam_0109_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,23.802
+SAMEA118323213,PRJEB89491,ENA_fam_0109_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,7.186
+SAMEA118323300,PRJEB89491,ENA_fam_0110_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,26.428
+SAMEA118323374,PRJEB89491,ENA_fam_0110_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,6.934
+SAMEA118322934,PRJEB89491,ENA_fam_0110_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,16.72
+SAMEA118323124,PRJEB89491,ENA_fam_0110_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,9.834
+SAMEA118323214,PRJEB89491,ENA_fam_0110_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,9.526
+SAMEA118323493,PRJEB89491,ENA_fam_0110_mother,,,,female,NL,,,,,,2017,primary,1.0,16.714
+SAMEA118322750,PRJEB89491,ENA_fam_0111_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,17.259
+SAMEA118322935,PRJEB89491,ENA_fam_0111_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,20.176
+SAMEA118323021,PRJEB89491,ENA_fam_0111_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,8.304
+SAMEA118322653,PRJEB89491,ENA_fam_0112_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,15.623
+SAMEA118323301,PRJEB89491,ENA_fam_0112_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,8.417
+SAMEA118323375,PRJEB89491,ENA_fam_0112_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,17.934
+SAMEA118322751,PRJEB89491,ENA_fam_0112_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,19.653
+SAMEA118322842,PRJEB89491,ENA_fam_0112_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,20.355
+SAMEA118322936,PRJEB89491,ENA_fam_0112_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,16.681
+SAMEA118323125,PRJEB89491,ENA_fam_0112_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,11.14
+SAMEA118323215,PRJEB89491,ENA_fam_0112_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,34.455
+SAMEA118323494,PRJEB89491,ENA_fam_0112_mother,,,,female,NL,,,,,,2017,primary,1.0,18.02
+SAMEA118322654,PRJEB89491,ENA_fam_0113_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,13.831
+SAMEA118323302,PRJEB89491,ENA_fam_0113_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,17.783
+SAMEA118323376,PRJEB89491,ENA_fam_0113_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,21.472
+SAMEA118322752,PRJEB89491,ENA_fam_0113_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,18.439
+SAMEA118322843,PRJEB89491,ENA_fam_0113_infant,4 weeks,neonate,28.0,female,NL,,,,,,2017,primary,1.0,10.561
+SAMEA118323126,PRJEB89491,ENA_fam_0113_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,16.288
+SAMEA118323216,PRJEB89491,ENA_fam_0113_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,13.272
+SAMEA118323303,PRJEB89491,ENA_fam_0114_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,15.648
+SAMEA118322753,PRJEB89491,ENA_fam_0114_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,14.327
+SAMEA118322937,PRJEB89491,ENA_fam_0114_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,17.856
+SAMEA118323022,PRJEB89491,ENA_fam_0114_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,12.141
+SAMEA118323127,PRJEB89491,ENA_fam_0114_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,21.652
+SAMEA118323217,PRJEB89491,ENA_fam_0114_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,16.778
+SAMEA118323495,PRJEB89491,ENA_fam_0114_mother,,,,female,NL,,,,,,2017,primary,1.0,16.548
+SAMEA118322655,PRJEB89491,ENA_fam_0115_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2018,primary,1.0,13.317
+SAMEA118323304,PRJEB89491,ENA_fam_0115_infant,11 months,infant,335.0,female,NL,,,,,,2019,primary,1.0,24.22
+SAMEA118323377,PRJEB89491,ENA_fam_0115_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,18.559
+SAMEA118322754,PRJEB89491,ENA_fam_0115_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,26.704
+SAMEA118323023,PRJEB89491,ENA_fam_0115_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,14.88
+SAMEA118323218,PRJEB89491,ENA_fam_0115_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,24.764
+SAMEA118323496,PRJEB89491,ENA_fam_0115_mother,,,,female,NL,,,,,,2018,primary,1.0,15.431
+SAMEA118323305,PRJEB89491,ENA_fam_0116_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,19.123
+SAMEA118323378,PRJEB89491,ENA_fam_0116_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,20.12
+SAMEA118322755,PRJEB89491,ENA_fam_0116_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,18.16
+SAMEA118322938,PRJEB89491,ENA_fam_0116_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,10.522
+SAMEA118323024,PRJEB89491,ENA_fam_0116_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,15.638
+SAMEA118323128,PRJEB89491,ENA_fam_0116_infant,8 weeks,infant,56.0,female,NL,,,,,,2018,primary,1.0,17.437
+SAMEA118323497,PRJEB89491,ENA_fam_0116_mother,,,,female,NL,,,,,,2018,primary,1.0,17.982
+SAMEA118322656,PRJEB89491,ENA_fam_0117_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,16.538
+SAMEA118323379,PRJEB89491,ENA_fam_0117_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,10.124
+SAMEA118322756,PRJEB89491,ENA_fam_0117_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,18.014
+SAMEA118322844,PRJEB89491,ENA_fam_0117_infant,4 weeks,neonate,28.0,female,NL,,,,,,2017,primary,1.0,16.917
+SAMEA118322939,PRJEB89491,ENA_fam_0117_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,17.63
+SAMEA118323025,PRJEB89491,ENA_fam_0117_infant,6 months,infant,183.0,female,NL,,,,,,2017,primary,1.0,9.874
+SAMEA118323129,PRJEB89491,ENA_fam_0117_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,11.443
+SAMEA118323219,PRJEB89491,ENA_fam_0117_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,14.999
+SAMEA118322657,PRJEB89491,ENA_fam_0118_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,14.894
+SAMEA118323306,PRJEB89491,ENA_fam_0118_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,15.798
+SAMEA118322757,PRJEB89491,ENA_fam_0118_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,17.261
+SAMEA118322845,PRJEB89491,ENA_fam_0118_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,15.607
+SAMEA118323130,PRJEB89491,ENA_fam_0118_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,23.203
+SAMEA118323498,PRJEB89491,ENA_fam_0118_mother,,,,female,NL,,,,,,2017,primary,1.0,16.173
+SAMEA118322758,PRJEB89491,ENA_fam_0119_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,17.796
+SAMEA118323026,PRJEB89491,ENA_fam_0119_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,16.339
+SAMEA118323131,PRJEB89491,ENA_fam_0119_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,11.682
+SAMEA118323499,PRJEB89491,ENA_fam_0119_mother,,,,female,NL,,,,,,2017,primary,1.0,18.416
+SAMEA118322658,PRJEB89491,ENA_fam_0120_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,11.873
+SAMEA118323307,PRJEB89491,ENA_fam_0120_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,9.722
+SAMEA118323380,PRJEB89491,ENA_fam_0120_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,17.438
+SAMEA118322759,PRJEB89491,ENA_fam_0120_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,15.398
+SAMEA118323027,PRJEB89491,ENA_fam_0120_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,18.67
+SAMEA118323132,PRJEB89491,ENA_fam_0120_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,13.195
+SAMEA118323220,PRJEB89491,ENA_fam_0120_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,28.48
+SAMEA118323500,PRJEB89491,ENA_fam_0120_mother,,,,female,NL,,,,,,2017,primary,1.0,16.913
+SAMEA118323308,PRJEB89491,ENA_fam_0121_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,12.451
+SAMEA118323381,PRJEB89491,ENA_fam_0121_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,20.568
+SAMEA118322760,PRJEB89491,ENA_fam_0121_infant,4 months,infant,122.0,male,NL,,,,,,2018,primary,1.0,12.514
+SAMEA118322846,PRJEB89491,ENA_fam_0121_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,15.197
+SAMEA118322659,PRJEB89491,ENA_fam_0121_infant,5 months,neonate,10.0,male,NL,,,,,,2017,primary,1.0,11.311
+SAMEA118322940,PRJEB89491,ENA_fam_0121_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,14.611
+SAMEA118323028,PRJEB89491,ENA_fam_0121_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,12.968
+SAMEA118323133,PRJEB89491,ENA_fam_0121_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,18.529
+SAMEA118323501,PRJEB89491,ENA_fam_0121_mother,,,,female,NL,,,,,,2017,primary,1.0,15.831
+SAMEA118322660,PRJEB89491,ENA_fam_0122_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,20.067
+SAMEA118323309,PRJEB89491,ENA_fam_0122_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,10.839
+SAMEA118323382,PRJEB89491,ENA_fam_0122_infant,14 months,infant,426.0,female,NL,,,,,,2019,primary,1.0,13.061
+SAMEA118322761,PRJEB89491,ENA_fam_0122_infant,4 months,infant,122.0,female,NL,,,,,,2018,primary,1.0,15.54
+SAMEA118322941,PRJEB89491,ENA_fam_0122_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,17.816
+SAMEA118323029,PRJEB89491,ENA_fam_0122_infant,6 months,infant,183.0,female,NL,,,,,,2018,primary,1.0,11.56
+SAMEA118323221,PRJEB89491,ENA_fam_0122_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,18.777
+SAMEA118323502,PRJEB89491,ENA_fam_0122_mother,,,,female,NL,,,,,,2017,primary,1.0,19.311
+SAMEA118323310,PRJEB89491,ENA_fam_0123_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,13.486
+SAMEA118323383,PRJEB89491,ENA_fam_0123_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,20.275
+SAMEA118322762,PRJEB89491,ENA_fam_0123_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,14.385
+SAMEA118322942,PRJEB89491,ENA_fam_0123_infant,5 months,infant,152.0,male,NL,,,,,,2018,primary,1.0,12.1
+SAMEA118323030,PRJEB89491,ENA_fam_0123_infant,6 months,infant,183.0,male,NL,,,,,,2018,primary,1.0,14.61
+SAMEA118323222,PRJEB89491,ENA_fam_0123_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,14.306
+SAMEA118322661,PRJEB89491,ENA_fam_0124_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,12.842
+SAMEA118322847,PRJEB89491,ENA_fam_0124_infant,11 months,neonate,28.0,male,NL,,,,,,2017,primary,1.0,10.289
+SAMEA118323384,PRJEB89491,ENA_fam_0124_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,17.799
+SAMEA118322763,PRJEB89491,ENA_fam_0124_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,15.602
+SAMEA118323031,PRJEB89491,ENA_fam_0124_infant,6 months,infant,183.0,male,NL,,,,,,2017,primary,1.0,14.433
+SAMEA118323134,PRJEB89491,ENA_fam_0124_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,15.261
+SAMEA118323223,PRJEB89491,ENA_fam_0124_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,21.084
+SAMEA118323503,PRJEB89491,ENA_fam_0124_mother,4 weeks,,,female,NL,,,,,,2017,primary,1.0,16.653
+SAMEA118323385,PRJEB89491,ENA_fam_0125_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,18.998
+SAMEA118322943,PRJEB89491,ENA_fam_0125_infant,5 months,infant,152.0,female,NL,,,,,,2018,primary,1.0,17.724
+SAMEA118323504,PRJEB89491,ENA_fam_0125_mother,,,,female,NL,,,,,,2018,primary,1.0,16.764
+SAMEA118322662,PRJEB89491,ENA_fam_0126_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,15.897
+SAMEA118322764,PRJEB89491,ENA_fam_0126_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,12.05
+SAMEA118323032,PRJEB89491,ENA_fam_0126_infant,6 months,infant,183.0,male,NL,,,,,,2017,primary,1.0,13.024
+SAMEA118323135,PRJEB89491,ENA_fam_0126_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,14.231
+SAMEA118323224,PRJEB89491,ENA_fam_0126_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,14.184
+SAMEA118323505,PRJEB89491,ENA_fam_0126_mother,,,,female,NL,,,,,,2017,primary,1.0,14.612
+SAMEA118322663,PRJEB89491,ENA_fam_0127_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,12.25
+SAMEA118323311,PRJEB89491,ENA_fam_0127_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,19.146
+SAMEA118323386,PRJEB89491,ENA_fam_0127_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,16.733
+SAMEA118322944,PRJEB89491,ENA_fam_0127_infant,5 months,infant,152.0,male,NL,,,,,,2017,primary,1.0,19.348
+SAMEA118323225,PRJEB89491,ENA_fam_0127_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,16.766
+SAMEA118323506,PRJEB89491,ENA_fam_0127_mother,,,,female,NL,,,,,,2017,primary,1.0,15.165
+SAMEA118322664,PRJEB89491,ENA_fam_0128_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,13.509
+SAMEA118323312,PRJEB89491,ENA_fam_0128_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,14.417
+SAMEA118323387,PRJEB89491,ENA_fam_0128_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,20.231
+SAMEA118322765,PRJEB89491,ENA_fam_0128_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,15.272
+SAMEA118322848,PRJEB89491,ENA_fam_0128_infant,4 weeks,neonate,28.0,female,NL,,,,,,2017,primary,1.0,18.232
+SAMEA118322945,PRJEB89491,ENA_fam_0128_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,17.743
+SAMEA118323033,PRJEB89491,ENA_fam_0128_infant,6 months,infant,183.0,female,NL,,,,,,2017,primary,1.0,17.114
+SAMEA118323226,PRJEB89491,ENA_fam_0128_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,20.37
+SAMEA118323313,PRJEB89491,ENA_fam_0129_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,16.772
+SAMEA118323388,PRJEB89491,ENA_fam_0129_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,19.088
+SAMEA118322766,PRJEB89491,ENA_fam_0129_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,19.431
+SAMEA118322849,PRJEB89491,ENA_fam_0129_infant,4 weeks,neonate,28.0,female,NL,,,,,,2017,primary,1.0,13.213
+SAMEA118322946,PRJEB89491,ENA_fam_0129_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,28.52
+SAMEA118323136,PRJEB89491,ENA_fam_0129_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,22.246
+SAMEA118323227,PRJEB89491,ENA_fam_0129_infant,9 months,infant,274.0,female,NL,,,,,,2018,primary,1.0,16.339
+SAMEA118323314,PRJEB89491,ENA_fam_0130_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,16.282
+SAMEA118322767,PRJEB89491,ENA_fam_0130_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,18.527
+SAMEA118322850,PRJEB89491,ENA_fam_0130_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,17.032
+SAMEA118323034,PRJEB89491,ENA_fam_0130_infant,6 months,infant,183.0,male,NL,,,,,,2017,primary,1.0,14.532
+SAMEA118323137,PRJEB89491,ENA_fam_0130_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,12.169
+SAMEA118323228,PRJEB89491,ENA_fam_0130_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,9.005
+SAMEA118323507,PRJEB89491,ENA_fam_0130_mother,,,,female,NL,,,,,,2017,primary,1.0,18.878
+SAMEA118322665,PRJEB89491,ENA_fam_0131_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2017,primary,1.0,13.867
+SAMEA118323315,PRJEB89491,ENA_fam_0131_infant,11 months,infant,335.0,male,NL,,,,,,2018,primary,1.0,16.347
+SAMEA118323389,PRJEB89491,ENA_fam_0131_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,23.81
+SAMEA118322768,PRJEB89491,ENA_fam_0131_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,20.634
+SAMEA118322851,PRJEB89491,ENA_fam_0131_infant,5 months,neonate,28.0,male,NL,,,,,,2017,primary,1.0,17.191
+SAMEA118323035,PRJEB89491,ENA_fam_0131_infant,6 months,infant,183.0,male,NL,,,,,,2017,primary,1.0,15.376
+SAMEA118323138,PRJEB89491,ENA_fam_0131_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,21.587
+SAMEA118323229,PRJEB89491,ENA_fam_0131_infant,9 months,infant,274.0,male,NL,,,,,,2018,primary,1.0,16.197
+SAMEA118323508,PRJEB89491,ENA_fam_0131_mother,,,,female,NL,,,,,,2017,primary,1.0,22.881
+SAMEA118322947,PRJEB89491,ENA_fam_0132_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,15.323
+SAMEA118323230,PRJEB89491,ENA_fam_0132_infant,9 months,infant,274.0,female,NL,,,,,,2017,primary,1.0,20.36
+SAMEA118323509,PRJEB89491,ENA_fam_0132_mother,,,,female,NL,,,,,,2017,primary,1.0,21.353
+SAMEA118323316,PRJEB89491,ENA_fam_0133_infant,11 months,infant,335.0,male,NL,,,,,,2017,primary,1.0,17.035
+SAMEA118323390,PRJEB89491,ENA_fam_0133_infant,14 months,infant,426.0,male,NL,,,,,,2017,primary,1.0,23.069
+SAMEA118322769,PRJEB89491,ENA_fam_0133_infant,4 months,infant,122.0,male,NL,,,,,,2016,primary,1.0,19.739
+SAMEA118323231,PRJEB89491,ENA_fam_0133_infant,4 weeks,infant,274.0,male,NL,,,,,,2017,primary,1.0,14.266
+SAMEA118323139,PRJEB89491,ENA_fam_0133_infant,8 weeks,infant,56.0,male,NL,,,,,,2016,primary,1.0,11.301
+SAMEA118322852,PRJEB89491,ENA_fam_0133_infant,9 months,neonate,28.0,male,NL,,,,,,2016,primary,1.0,21.077
+SAMEA118323510,PRJEB89491,ENA_fam_0133_mother,,,,female,NL,,,,,,2016,primary,1.0,14.69
+SAMEA118322666,PRJEB89491,ENA_fam_0134_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2017,primary,1.0,13.766
+SAMEA118323317,PRJEB89491,ENA_fam_0134_infant,11 months,infant,335.0,female,NL,,,,,,2018,primary,1.0,21.801
+SAMEA118323391,PRJEB89491,ENA_fam_0134_infant,14 months,infant,426.0,female,NL,,,,,,2018,primary,1.0,13.567
+SAMEA118322770,PRJEB89491,ENA_fam_0134_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,13.648
+SAMEA118322853,PRJEB89491,ENA_fam_0134_infant,4 weeks,neonate,28.0,female,NL,,,,,,2017,primary,1.0,12.957
+SAMEA118322948,PRJEB89491,ENA_fam_0134_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,18.596
+SAMEA118323036,PRJEB89491,ENA_fam_0134_infant,6 months,infant,183.0,female,NL,,,,,,2017,primary,1.0,13.799
+SAMEA118323140,PRJEB89491,ENA_fam_0134_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,18.709
+SAMEA118323232,PRJEB89491,ENA_fam_0134_infant,9 months,infant,274.0,female,NL,,,,,,2017,primary,1.0,20.892
+SAMEA118323511,PRJEB89491,ENA_fam_0134_mother,,,,female,NL,,,,,,2017,primary,1.0,17.659
+SAMEA118322667,PRJEB89491,ENA_fam_0135_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2016,primary,1.0,13.796
+SAMEA118323318,PRJEB89491,ENA_fam_0135_infant,11 months,infant,335.0,male,NL,,,,,,2017,primary,1.0,11.315
+SAMEA118323392,PRJEB89491,ENA_fam_0135_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,17.439
+SAMEA118322771,PRJEB89491,ENA_fam_0135_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,18.982
+SAMEA118322949,PRJEB89491,ENA_fam_0135_infant,5 months,infant,152.0,male,NL,,,,,,2017,primary,1.0,15.159
+SAMEA118323141,PRJEB89491,ENA_fam_0135_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,19.276
+SAMEA118323233,PRJEB89491,ENA_fam_0135_infant,9 months,infant,274.0,male,NL,,,,,,2017,primary,1.0,9.002
+SAMEA118323512,PRJEB89491,ENA_fam_0135_mother,,,,female,NL,,,,,,2016,primary,1.0,17.74
+SAMEA118322668,PRJEB89491,ENA_fam_0136_infant,1-2 weeks,neonate,10.0,female,NL,,,,,,2016,primary,1.0,16.129
+SAMEA118323319,PRJEB89491,ENA_fam_0136_infant,11 months,infant,335.0,female,NL,,,,,,2017,primary,1.0,20.134
+SAMEA118322772,PRJEB89491,ENA_fam_0136_infant,4 months,infant,122.0,female,NL,,,,,,2017,primary,1.0,14.896
+SAMEA118322854,PRJEB89491,ENA_fam_0136_infant,4 weeks,neonate,28.0,female,NL,,,,,,2016,primary,1.0,17.156
+SAMEA118323142,PRJEB89491,ENA_fam_0136_infant,8 weeks,infant,56.0,female,NL,,,,,,2017,primary,1.0,17.724
+SAMEA118323234,PRJEB89491,ENA_fam_0136_infant,9 months,infant,274.0,female,NL,,,,,,2017,primary,1.0,20.215
+SAMEA118323513,PRJEB89491,ENA_fam_0136_mother,,,,female,NL,,,,,,2016,primary,1.0,15.853
+SAMEA118322950,PRJEB89491,ENA_fam_0137_infant,1-2 weeks,infant,152.0,male,NL,,,,,,2017,primary,1.0,14.505
+SAMEA118323037,PRJEB89491,ENA_fam_0137_infant,6 months,infant,183.0,male,NL,,,,,,2017,primary,1.0,16.466
+SAMEA118323143,PRJEB89491,ENA_fam_0137_infant,8 weeks,infant,56.0,male,NL,,,,,,2017,primary,1.0,19.909
+SAMEA118323514,PRJEB89491,ENA_fam_0137_mother,,,,female,NL,,,,,,2017,primary,1.0,19.084
+SAMEA118322669,PRJEB89491,ENA_fam_0138_infant,1-2 weeks,neonate,10.0,male,NL,,,,,,2016,primary,1.0,19.743
+SAMEA118323393,PRJEB89491,ENA_fam_0138_infant,14 months,infant,426.0,male,NL,,,,,,2018,primary,1.0,16.911
+SAMEA118322773,PRJEB89491,ENA_fam_0138_infant,4 months,infant,122.0,male,NL,,,,,,2017,primary,1.0,14.529
+SAMEA118322855,PRJEB89491,ENA_fam_0138_infant,4 weeks,neonate,28.0,male,NL,,,,,,2017,primary,1.0,15.37
+SAMEA118323038,PRJEB89491,ENA_fam_0138_infant,6 months,infant,183.0,male,NL,,,,,,2017,primary,1.0,8.821
+SAMEA118323235,PRJEB89491,ENA_fam_0138_infant,9 months,infant,274.0,male,NL,,,,,,2017,primary,1.0,14.601
+SAMEA118323515,PRJEB89491,ENA_fam_0138_mother,,,,female,NL,,,,,,2016,primary,1.0,16.475
+SAMEA118323394,PRJEB89491,ENA_fam_0139_infant,14 months,infant,426.0,female,NL,,,,,,2017,primary,1.0,17.182
+SAMEA118322951,PRJEB89491,ENA_fam_0139_infant,5 months,infant,152.0,female,NL,,,,,,2017,primary,1.0,13.396
+SAMEA118322670,PRJEB89491,ENA_fam_0139_infant,6 months,neonate,10.0,female,NL,,,,,,2016,primary,1.0,13.985
+SAMEA118323039,PRJEB89491,ENA_fam_0139_infant,6 months,infant,183.0,female,NL,,,,,,2017,primary,1.0,18.984
+SAMEA118323144,PRJEB89491,ENA_fam_0139_infant,8 weeks,infant,56.0,female,NL,,,,,,2016,primary,1.0,19.056
+SAMEA118323236,PRJEB89491,ENA_fam_0139_infant,9 months,infant,274.0,female,NL,,,,,,2017,primary,1.0,22.155
+SAMEA118323516,PRJEB89491,ENA_fam_0139_mother,,,,female,NL,,,,,,2016,primary,1.0,15.242

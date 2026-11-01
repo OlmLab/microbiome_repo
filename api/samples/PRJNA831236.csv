@@ -1,0 +1,13 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN27749350,PRJNA831236,patient1,,adult,,,FR,autoimmune_inflammatory,Behcet,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.262
+SAMN27749351,PRJNA831236,patient1,,adult,,,FR,autoimmune_inflammatory,Behcet,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.052
+SAMN27749352,PRJNA831236,patient2,,adult,,,FR,crohns_disease,Crohn,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.031
+SAMN27749353,PRJNA831236,patient2,,adult,,,FR,crohns_disease,Crohn,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.173
+SAMN27749354,PRJNA831236,patient3,,adult,,,FR,autoimmune_inflammatory,Psoriasis,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.245
+SAMN27749355,PRJNA831236,patient3,,adult,,,FR,autoimmune_inflammatory,Psoriasis,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.29
+SAMN27749356,PRJNA831236,patient4,,adult,,,FR,autoimmune_inflammatory,Scleroderma,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,2.83
+SAMN27749357,PRJNA831236,patient4,,adult,,,FR,autoimmune_inflammatory,Scleroderma,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,2.784
+SAMN27749358,PRJNA831236,patient5,,adult,,,FR,autoimmune_inflammatory,Sjogren,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.663
+SAMN27749359,PRJNA831236,patient5,,adult,,,FR,autoimmune_inflammatory,Sjogren,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.064
+SAMN27749360,PRJNA831236,patient6,,adult,,,FR,autoimmune_inflammatory,Sjogren,no_intervention,before low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.296
+SAMN27749361,PRJNA831236,patient6,,adult,,,FR,autoimmune_inflammatory,Sjogren,drug_therapy,after low-dose IL-2 treatment,,2019-03-01,primary,1.0,3.114
