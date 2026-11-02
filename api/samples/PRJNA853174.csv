@@ -1,0 +1,23 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN29363406,PRJNA853174,PRJNA853174_S1,before,infant,341.0,male,NI,,,,,,2018-08,primary,1.0,9.753
+SAMN29363415,PRJNA853174,PRJNA853174_S10,after,infant,630.0,male,NI,,,,,yes,2019-09,primary,1.0,9.241
+SAMN29363416,PRJNA853174,PRJNA853174_S11,before,infant,265.0,male,NI,,,,,,2018-10,primary,1.0,10.754
+SAMN29363417,PRJNA853174,PRJNA853174_S12,during,infant,293.0,male,NI,gi_infection_or_diarrhoea,acute gastroenteritis,,,,2018-11,primary,1.0,6.97
+SAMN29363418,PRJNA853174,PRJNA853174_S13,after,infant,320.0,male,NI,,,,,,2018-12,primary,1.0,12.044
+SAMN29363419,PRJNA853174,PRJNA853174_S14,after,infant,377.0,male,NI,,,,,,2019-02,primary,1.0,10.641
+SAMN29363420,PRJNA853174,PRJNA853174_S15,before,infant,290.0,male,NI,,,,,,2018-11,primary,1.0,10.107
+SAMN29363421,PRJNA853174,PRJNA853174_S16,during,infant,303.0,male,NI,gi_infection_or_diarrhoea,acute gastroenteritis,,,,2018-11,primary,1.0,8.957
+SAMN29363422,PRJNA853174,PRJNA853174_S17,after,infant,318.0,male,NI,,,,,,2018-12,primary,1.0,9.096
+SAMN29363423,PRJNA853174,PRJNA853174_S18,after,infant,347.0,male,NI,,,,,,2019-01,primary,1.0,9.972
+SAMN29363424,PRJNA853174,PRJNA853174_S19,before,infant,233.0,male,NI,,,,,,2018-11,primary,1.0,3.898
+SAMN29363407,PRJNA853174,PRJNA853174_S2,during,infant,438.0,male,NI,gi_infection_or_diarrhoea,acute gastroenteritis,,,,2018-11,primary,1.0,11.14
+SAMN29363425,PRJNA853174,PRJNA853174_S20,during,infant,262.0,male,NI,gi_infection_or_diarrhoea,acute gastroenteritis,,,,2018-12,primary,1.0,7.615
+SAMN29363426,PRJNA853174,PRJNA853174_S21,after,infant,317.0,male,NI,,,,,,2019-02,primary,1.0,12.24
+SAMN29363427,PRJNA853174,PRJNA853174_S22,after,infant,373.0,male,NI,,,,,,2019-04,primary,1.0,10.396
+SAMN29363408,PRJNA853174,PRJNA853174_S3,after,infant,544.0,male,NI,,,,,,2019-02,primary,1.0,8.528
+SAMN29363409,PRJNA853174,PRJNA853174_S4,before,infant,285.0,male,NI,,,,,yes,2018-10,primary,1.0,9.002
+SAMN29363410,PRJNA853174,PRJNA853174_S5,during,infant,298.0,male,NI,gi_infection_or_diarrhoea,acute gastroenteritis,,,yes,2018-10,primary,1.0,8.86
+SAMN29363411,PRJNA853174,PRJNA853174_S6,after,infant,326.0,male,NI,,,,,yes,2018-11,primary,1.0,7.479
+SAMN29363412,PRJNA853174,PRJNA853174_S7,after,infant,382.0,male,NI,,,,,yes,2019-01,primary,1.0,6.323
+SAMN29363413,PRJNA853174,PRJNA853174_S8,before,infant,564.0,male,NI,,,,,yes,2019-07,primary,1.0,10.241
+SAMN29363414,PRJNA853174,PRJNA853174_S9,during,infant,571.0,male,NI,gi_infection_or_diarrhoea,acute gastroenteritis,,,yes,2019-07,primary,1.0,7.825

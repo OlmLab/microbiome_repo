@@ -1,0 +1,134 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN14002520,PRJNA528960,01-001,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,28.959
+SAMN14002521,PRJNA528960,01-001,UTI,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,31.549
+SAMN14002522,PRJNA528960,01-001,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,48.731
+SAMN11482917,PRJNA528960,01-002,Baseline,,,female,US,,,placebo,,,,primary,4.0,18.045
+SAMN11482918,PRJNA528960,01-002,Week24,,,female,US,,,placebo,,,,primary,4.0,25.26
+SAMN11482919,PRJNA528960,01-003,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,30.778
+SAMN11482920,PRJNA528960,01-003,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,15.327
+SAMN11482921,PRJNA528960,01-008,Baseline,,,female,US,,,placebo,,,,primary,4.0,30.355
+SAMN11482922,PRJNA528960,01-008,Week24,,,female,US,,,placebo,,,,primary,4.0,25.874
+SAMN11482923,PRJNA528960,01-010,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,21.854
+SAMN11482924,PRJNA528960,01-010,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,15.084
+SAMN11482925,PRJNA528960,01-015,Baseline,,,female,US,,,dietary_supplement,,,,primary,3.0,13.375
+SAMN11482926,PRJNA528960,01-020,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,52.38
+SAMN11482927,PRJNA528960,01-020,Week24,,,female,US,,,dietary_supplement,,,,primary,3.0,35.552
+SAMN11482928,PRJNA528960,01-024,Baseline,,,female,US,,,placebo,,,,primary,4.0,50.426
+SAMN11482929,PRJNA528960,01-024,Week24,,,female,US,,,placebo,,,,primary,4.0,29.606
+SAMN11482930,PRJNA528960,01-027,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,64.195
+SAMN11482931,PRJNA528960,01-027,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,21.736
+SAMN14002523,PRJNA528960,01-029,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,37.756
+SAMN14002524,PRJNA528960,01-029,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,27.478
+SAMN11482932,PRJNA528960,01-032,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,16.527
+SAMN14002525,PRJNA528960,01-034,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,39.752
+SAMN14002526,PRJNA528960,01-034,UTI,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,30.968
+SAMN14002527,PRJNA528960,01-034,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,45.935
+SAMN14002528,PRJNA528960,01-035,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,31.245
+SAMN14002529,PRJNA528960,01-036,Baseline,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,34.537
+SAMN14002530,PRJNA528960,01-036,Week24,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,24.072
+SAMN11482933,PRJNA528960,01-039,Baseline,,,female,US,,,placebo,,,,primary,4.0,18.48
+SAMN11482934,PRJNA528960,01-039,Week24,,,female,US,,,placebo,,,,primary,4.0,24.75
+SAMN11482935,PRJNA528960,01-041,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,32.341
+SAMN14002531,PRJNA528960,02-001,Baseline,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,41.497
+SAMN14002532,PRJNA528960,02-001,UTI,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,55.765
+SAMN14002533,PRJNA528960,02-001,Week24,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,25.437
+SAMN11482936,PRJNA528960,02-006,Baseline,,,female,US,,,placebo,,,,primary,4.0,22.493
+SAMN11482937,PRJNA528960,02-006,Week24,,,female,US,,,placebo,,,,primary,4.0,19.119
+SAMN11482938,PRJNA528960,02-007,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,18.468
+SAMN11482939,PRJNA528960,02-007,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,19.87
+SAMN14002534,PRJNA528960,02-008,Baseline,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,28.246
+SAMN14002535,PRJNA528960,02-008,Week24,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,23.591
+SAMN11483010,PRJNA528960,02-012,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,29.653
+SAMN11482940,PRJNA528960,02-013,Baseline,,,female,US,,,placebo,,,,primary,4.0,19.623
+SAMN11482941,PRJNA528960,02-013,Week24,,,female,US,,,placebo,,,,primary,4.0,55.962
+SAMN11482942,PRJNA528960,02-014,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,15.883
+SAMN11482943,PRJNA528960,02-014,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,31.116
+SAMN11482944,PRJNA528960,02-015,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,27.029
+SAMN11482945,PRJNA528960,02-017,Baseline,,,female,US,,,placebo,,,,primary,4.0,19.573
+SAMN11482946,PRJNA528960,02-017,Week24,,,female,US,,,placebo,,,,primary,4.0,20.293
+SAMN11482947,PRJNA528960,02-018,Baseline,,,female,US,,,placebo,,,,primary,3.0,22.005
+SAMN11482948,PRJNA528960,02-018,Week24,,,female,US,,,placebo,,,,primary,4.0,28.854
+SAMN11482949,PRJNA528960,02-021,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,21.311
+SAMN11482950,PRJNA528960,02-021,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,21.536
+SAMN11482951,PRJNA528960,02-022,Baseline,,,female,US,,,placebo,,,,primary,4.0,14.765
+SAMN14002536,PRJNA528960,02-025,Baseline,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,28.84
+SAMN14002537,PRJNA528960,02-025,Week24,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,23.562
+SAMN11482952,PRJNA528960,02-026,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,25.071
+SAMN11482953,PRJNA528960,02-026,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,28.037
+SAMN11483011,PRJNA528960,02-034,Baseline,,,female,US,,,placebo,,,,primary,4.0,31.605
+SAMN11482954,PRJNA528960,02-035,Baseline,,,female,US,,,placebo,,,,primary,4.0,24.839
+SAMN11482955,PRJNA528960,02-035,Week24,,,female,US,,,placebo,,,,primary,3.0,20.489
+SAMN11482956,PRJNA528960,02-037,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,41.155
+SAMN11482957,PRJNA528960,02-038,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,28.805
+SAMN11482958,PRJNA528960,02-038,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,22.267
+SAMN11482959,PRJNA528960,02-039,Baseline,,,female,US,,,dietary_supplement,,,,primary,3.0,15.796
+SAMN11482960,PRJNA528960,02-042,Baseline,,,female,US,,,placebo,,,,primary,4.0,25.896
+SAMN11482961,PRJNA528960,02-042,Week24,,,female,US,,,placebo,,,,primary,4.0,22.884
+SAMN11482962,PRJNA528960,02-044,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,31.189
+SAMN11482963,PRJNA528960,02-044,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,16.768
+SAMN11482964,PRJNA528960,02-051,Baseline,,,female,US,,,placebo,,,,primary,4.0,8.359
+SAMN11482965,PRJNA528960,02-051,Week24,,,female,US,,,placebo,,,,primary,4.0,9.612
+SAMN11482966,PRJNA528960,04-001,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,14.738
+SAMN11482967,PRJNA528960,04-001,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,45.278
+SAMN11482968,PRJNA528960,04-009,Baseline,,,female,US,,,placebo,,,,primary,4.0,39.402
+SAMN14002538,PRJNA528960,04-013,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,64.601
+SAMN14002539,PRJNA528960,04-013,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,42.224
+SAMN11482969,PRJNA528960,04-017,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,33.346
+SAMN11482970,PRJNA528960,04-017,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,43.166
+SAMN11482971,PRJNA528960,04-018,Baseline,,,female,US,,,placebo,,,,primary,4.0,22.725
+SAMN11482972,PRJNA528960,04-018,Week24,,,female,US,,,placebo,,,,primary,4.0,26.519
+SAMN11482973,PRJNA528960,04-023,Baseline,,,female,US,,,placebo,,,,primary,4.0,21.567
+SAMN14002540,PRJNA528960,04-026,Baseline,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,63.406
+SAMN14002541,PRJNA528960,04-026,UTI,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,43.72
+SAMN14002542,PRJNA528960,04-026,Week24,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,44.052
+SAMN11482974,PRJNA528960,04-027,Baseline,,,female,US,,,placebo,,,,primary,4.0,41.225
+SAMN11482975,PRJNA528960,04-028,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,22.301
+SAMN11482976,PRJNA528960,04-028,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,31.001
+SAMN11482977,PRJNA528960,04-031,Baseline,,,female,US,,,placebo,,,,primary,4.0,20.075
+SAMN11482978,PRJNA528960,04-031,Week24,,,female,US,,,placebo,,,,primary,4.0,55.399
+SAMN11482979,PRJNA528960,04-032,Baseline,,,female,US,,,placebo,,,,primary,4.0,15.135
+SAMN14002543,PRJNA528960,07-001,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,45.957
+SAMN14002544,PRJNA528960,07-001,UTI,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,74.169
+SAMN14002545,PRJNA528960,07-001,UTI,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,30.438
+SAMN14002546,PRJNA528960,07-001,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,34.807
+SAMN11482980,PRJNA528960,07-003,Baseline,,,female,US,,,placebo,,,,primary,4.0,13.047
+SAMN11482981,PRJNA528960,07-003,Week24,,,female,US,,,placebo,,,,primary,4.0,74.621
+SAMN11482982,PRJNA528960,07-007,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,54.459
+SAMN11482983,PRJNA528960,07-007,Week24,,,female,US,,,dietary_supplement,,,,primary,3.0,27.395
+SAMN14002547,PRJNA528960,07-011,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,20.889
+SAMN14002548,PRJNA528960,07-011,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,4.0,19.211
+SAMN11482984,PRJNA528960,07-012,Baseline,,,female,US,,,placebo,,,,primary,4.0,28.221
+SAMN11482985,PRJNA528960,07-012,Week24,,,female,US,,,placebo,,,,primary,4.0,38.308
+SAMN11482986,PRJNA528960,09-001,Baseline,,,female,US,,,placebo,,,,primary,4.0,23.966
+SAMN11482987,PRJNA528960,09-001,Week24,,,female,US,,,placebo,,,,primary,3.0,42.211
+SAMN11482988,PRJNA528960,09-002,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,37.836
+SAMN11482989,PRJNA528960,09-002,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,33.001
+SAMN11482990,PRJNA528960,09-003,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,22.265
+SAMN11482991,PRJNA528960,09-003,Week24,,,female,US,,,dietary_supplement,,,,primary,3.0,29.981
+SAMN11482992,PRJNA528960,09-004,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,33.583
+SAMN11482993,PRJNA528960,09-005,Baseline,,,female,US,,,placebo,,,,primary,4.0,31.525
+SAMN11482994,PRJNA528960,09-005,Week24,,,female,US,,,placebo,,,,primary,4.0,32.035
+SAMN14002549,PRJNA528960,09-006,Baseline,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,21.317
+SAMN14002550,PRJNA528960,09-006,UTI,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,3.0,16.263
+SAMN14002551,PRJNA528960,09-006,Week24,,,female,US,other_infection,Urinary Tract Infection,dietary_supplement,,,,primary,4.0,26.434
+SAMN11482995,PRJNA528960,09-007,Baseline,,,female,US,,,placebo,,,,primary,4.0,13.716
+SAMN11482996,PRJNA528960,09-007,Week24,,,female,US,,,placebo,,,,primary,4.0,19.017
+SAMN11483012,PRJNA528960,09-009,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,24.396
+SAMN11482997,PRJNA528960,09-010,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,33.343
+SAMN11482998,PRJNA528960,09-010,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,34.359
+SAMN11482999,PRJNA528960,09-011,Baseline,,,female,US,,,dietary_supplement,,,,primary,3.0,26.078
+SAMN11483000,PRJNA528960,09-011,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,13.333
+SAMN11483001,PRJNA528960,11-002,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,33.283
+SAMN11483002,PRJNA528960,11-002,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,29.629
+SAMN11483003,PRJNA528960,11-006,Baseline,,,female,US,,,placebo,,,,primary,4.0,40.125
+SAMN11483004,PRJNA528960,11-006,Week24,,,female,US,,,placebo,,,,primary,4.0,16.435
+SAMN11483005,PRJNA528960,11-007,Baseline,,,female,US,,,placebo,,,,primary,3.0,15.196
+SAMN11483006,PRJNA528960,11-007,Week24,,,female,US,,,placebo,,,,primary,3.0,11.781
+SAMN14002552,PRJNA528960,11-008,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,3.0,16.997
+SAMN11483007,PRJNA528960,11-008,Week24,,,female,US,,,placebo,,,,primary,4.0,33.17
+SAMN14002553,PRJNA528960,12-001,Baseline,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,3.0,19.19
+SAMN14002554,PRJNA528960,12-001,Week24,,,female,US,other_infection,Urinary Tract Infection,placebo,,,,primary,3.0,10.348
+SAMN11483008,PRJNA528960,12-002,Baseline,,,female,US,,,dietary_supplement,,,,primary,4.0,26.267
+SAMN11483009,PRJNA528960,12-002,Week24,,,female,US,,,dietary_supplement,,,,primary,4.0,29.609
+SAMN36757877,PRJNA528960,,,,,female,US,,,,,,,primary,2.0,27.437
+SAMN36757878,PRJNA528960,,,,,female,US,,,,,,,primary,2.0,24.248

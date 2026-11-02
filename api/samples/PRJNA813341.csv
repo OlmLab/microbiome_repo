@@ -1,0 +1,17 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN27035824,PRJNA813341,Ctrl558,,child,4019.0,female,CN,other_infection,Infetection,,,,2021-01-06,primary,1.0,1.65
+SAMN27035825,PRJNA813341,Ctrl559,,adult,11312.8,female,CN,other_infection,Infetection,,,,2021-01-25,primary,1.0,2.467
+SAMN27035826,PRJNA813341,Ctrl560,,adult,,male,CN,other_infection,Infetection,,,,2020-10-15,primary,1.0,0.913
+SAMN27035827,PRJNA813341,Ctrl561,,adult,11312.8,male,CN,other_infection,Infetection,,,,2020-10-19,primary,1.0,3.255
+SAMN27035828,PRJNA813341,Ctrl562,,adult,16069.0,male,CN,other_infection,Infetection,,,,2021-01-19,primary,1.0,2.971
+SAMN27035829,PRJNA813341,Ctrl563,,adult,15330.0,female,CN,other_infection,Infetection,,,,2021-01-22,primary,1.0,2.768
+SAMN27035818,PRJNA813341,HLHUPN137,,adult,15330.0,male,CN,sepsis_or_infection,HLH,,,,2020-10-29,primary,1.0,1.369
+SAMN27035819,PRJNA813341,HLHUPN138,,child,2554.0,male,CN,sepsis_or_infection,HLH,,,,2020-11-03,primary,1.0,3.432
+SAMN27035820,PRJNA813341,HLHUPN139,,adult,,male,CN,sepsis_or_infection,HLH,,,,2020-11-23,primary,1.0,1.652
+SAMN27035817,PRJNA813341,HLHUPN140,,adult,8766.0,male,CN,sepsis_or_infection,HLH,,,,2020-10-26,primary,1.0,1.761
+SAMN27035822,PRJNA813341,HLHUPN141,,adult,,female,CN,sepsis_or_infection,HLH,,,,2020-11-11,primary,1.0,3.746
+SAMN27035814,PRJNA813341,HLHUPN145,,elderly,30300.0,female,CN,sepsis_or_infection,HLH,,,,2021-01-21,primary,1.0,2.537
+SAMN27035821,PRJNA813341,HLHUPN146,,adult,,male,CN,sepsis_or_infection,HLH,,,,2021-01-19,primary,1.0,4.541
+SAMN27035815,PRJNA813341,HLHUPN148,,adult,,female,CN,sepsis_or_infection,HLH,,,,2021-01-18,primary,1.0,1.784
+SAMN27035816,PRJNA813341,HLHUPN149,,elderly,29931.0,male,CN,sepsis_or_infection,HLH,,,,2021-01-25,primary,1.0,4.049
+SAMN27035823,PRJNA813341,HLHUPN153,,adult,10957.5,female,CN,sepsis_or_infection,HLH,,,,2021-02-22,primary,1.0,2.46

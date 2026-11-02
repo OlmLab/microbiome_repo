@@ -1,0 +1,295 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN17292192,PRJNA445968,1431011T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.014
+SAMN17292191,PRJNA445968,1431014T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.018
+SAMN17292197,PRJNA445968,1431081T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.02
+SAMN17292195,PRJNA445968,1431104T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.01
+SAMN17292204,PRJNA445968,1431105T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.007
+SAMN17292193,PRJNA445968,1431106T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.018
+SAMN17292206,PRJNA445968,1431117T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.024
+SAMN17292205,PRJNA445968,1431118T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.03
+SAMN17292190,PRJNA445968,1431134T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.012
+SAMN17292194,PRJNA445968,1431135T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.01
+SAMN17292198,PRJNA445968,1431261T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.026
+SAMN17292196,PRJNA445968,1431262T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.021
+SAMN17292199,PRJNA445968,1431404T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.024
+SAMN17292201,PRJNA445968,1431411T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.015
+SAMN17292202,PRJNA445968,1431412T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.016
+SAMN17822918,PRJNA445968,1431413T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.008
+SAMN17292203,PRJNA445968,1431443T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.02
+SAMN17292200,PRJNA445968,1431444T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.01
+SAMN17822920,PRJNA445968,1431497T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.022
+SAMN17822923,PRJNA445968,1431528T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.026
+SAMN17822924,PRJNA445968,1431531T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.012
+SAMN17822927,PRJNA445968,1431533T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.022
+SAMN17822925,PRJNA445968,1431534T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.024
+SAMN17822928,PRJNA445968,1431547T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.025
+SAMN17822921,PRJNA445968,1431550T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.033
+SAMN17822926,PRJNA445968,1431552T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.032
+SAMN17822919,PRJNA445968,1431553T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.034
+SAMN17822922,PRJNA445968,1431556T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.018
+SAMN17822929,PRJNA445968,1431569T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.008
+SAMN17292207,PRJNA445968,1431575T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.06
+SAMN17292208,PRJNA445968,1431580T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.06
+SAMN17292216,PRJNA445968,1431584T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.055
+SAMN17292209,PRJNA445968,1431596T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.031
+SAMN17292210,PRJNA445968,1431597T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.052
+SAMN17292213,PRJNA445968,1431599T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.036
+SAMN17292217,PRJNA445968,1431807T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.038
+SAMN17292225,PRJNA445968,1431932T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.007
+SAMN17292221,PRJNA445968,1431933T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.007
+SAMN17292223,PRJNA445968,1431934T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.008
+SAMN17292219,PRJNA445968,1431935T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.007
+SAMN17292214,PRJNA445968,1431968T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.053
+SAMN17292211,PRJNA445968,1431970T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.066
+SAMN17292212,PRJNA445968,1431974T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.042
+SAMN17292215,PRJNA445968,1431977T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.05
+SAMN17292218,PRJNA445968,1432138T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.019
+SAMN17292224,PRJNA445968,1432531T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.007
+SAMN17292220,PRJNA445968,1432535T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.007
+SAMN17292222,PRJNA445968,1432536T,,,,,HT,,FC_CC,,,,2015-03-10,primary,1.0,0.004
+SAMN17292128,PRJNA445968,1830004T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.009
+SAMN17292148,PRJNA445968,1830004T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.034
+SAMN17292131,PRJNA445968,1830005T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.036
+SAMN17292135,PRJNA445968,1830005T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.02
+SAMN17292129,PRJNA445968,1830006T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.04
+SAMN17292137,PRJNA445968,1830006T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.029
+SAMN17292134,PRJNA445968,1830008T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.066
+SAMN17292138,PRJNA445968,1830008T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.03
+SAMN17292143,PRJNA445968,1830008T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.036
+SAMN17292132,PRJNA445968,1830010T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.027
+SAMN17292145,PRJNA445968,1830010T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.043
+SAMN17292133,PRJNA445968,1830011T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.03
+SAMN17292136,PRJNA445968,1830011T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.03
+SAMN17292139,PRJNA445968,1830011T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17292146,PRJNA445968,1830011T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.034
+SAMN17292149,PRJNA445968,1830011T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.039
+SAMN17822895,PRJNA445968,1830011T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17292130,PRJNA445968,1830012T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.04
+SAMN17292150,PRJNA445968,1830012T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.056
+SAMN17292155,PRJNA445968,1830012T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.032
+SAMN17292156,PRJNA445968,1830012T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.04
+SAMN17822896,PRJNA445968,1830012T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17292140,PRJNA445968,1830013T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.033
+SAMN17292151,PRJNA445968,1830013T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.019
+SAMN17292153,PRJNA445968,1830013T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.028
+SAMN17292154,PRJNA445968,1830013T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.041
+SAMN17822897,PRJNA445968,1830013T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17292141,PRJNA445968,1830015T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.044
+SAMN17292144,PRJNA445968,1830015T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.056
+SAMN17292147,PRJNA445968,1830015T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.048
+SAMN17292171,PRJNA445968,1830015T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.054
+SAMN17822886,PRJNA445968,1830015T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.052
+SAMN17822906,PRJNA445968,1830015T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.007
+SAMN17292160,PRJNA445968,1830017T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.034
+SAMN17292161,PRJNA445968,1830017T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.056
+SAMN17292163,PRJNA445968,1830017T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.038
+SAMN17822879,PRJNA445968,1830017T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.027
+SAMN17822883,PRJNA445968,1830017T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.037
+SAMN17822910,PRJNA445968,1830017T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17292142,PRJNA445968,1830018T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.033
+SAMN17822877,PRJNA445968,1830018T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.041
+SAMN17822881,PRJNA445968,1830018T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.038
+SAMN17822890,PRJNA445968,1830018T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.055
+SAMN17822908,PRJNA445968,1830018T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.004
+SAMN17822917,PRJNA445968,1830018T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17292152,PRJNA445968,1830019T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.032
+SAMN17292165,PRJNA445968,1830019T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.051
+SAMN17822878,PRJNA445968,1830019T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.044
+SAMN17822884,PRJNA445968,1830019T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.044
+SAMN17292162,PRJNA445968,1830021T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.035
+SAMN17292166,PRJNA445968,1830021T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.044
+SAMN17822888,PRJNA445968,1830021T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.03
+SAMN17822889,PRJNA445968,1830021T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.057
+SAMN17822892,PRJNA445968,1830021T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17822914,PRJNA445968,1830021T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.005
+SAMN17292158,PRJNA445968,1830022T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.047
+SAMN17292169,PRJNA445968,1830022T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.034
+SAMN17822880,PRJNA445968,1830022T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.029
+SAMN17822885,PRJNA445968,1830022T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.044
+SAMN17822891,PRJNA445968,1830022T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17822912,PRJNA445968,1830022T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17292157,PRJNA445968,1830023T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.025
+SAMN17292164,PRJNA445968,1830023T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.021
+SAMN17292167,PRJNA445968,1830023T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.061
+SAMN17822882,PRJNA445968,1830023T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.016
+SAMN17822893,PRJNA445968,1830023T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17822915,PRJNA445968,1830023T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.002
+SAMN17292159,PRJNA445968,1830024T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.029
+SAMN17292168,PRJNA445968,1830024T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.047
+SAMN17292170,PRJNA445968,1830024T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.055
+SAMN17822887,PRJNA445968,1830024T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.041
+SAMN17822894,PRJNA445968,1830024T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.006
+SAMN17822916,PRJNA445968,1830024T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.006
+SAMN17822898,PRJNA445968,1830028T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17822899,PRJNA445968,1830028T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17822909,PRJNA445968,1830028T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.004
+SAMN17822901,PRJNA445968,1830030T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.001
+SAMN17822904,PRJNA445968,1830030T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.005
+SAMN17822907,PRJNA445968,1830030T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.002
+SAMN17822913,PRJNA445968,1830030T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.003
+SAMN17822900,PRJNA445968,1830031T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.004
+SAMN17822903,PRJNA445968,1830031T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.004
+SAMN17822905,PRJNA445968,1830031T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.004
+SAMN17822911,PRJNA445968,1830031T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.007
+SAMN17822902,PRJNA445968,1830032T,,,,,HT,,Long_Obs,,,,2015-03-10,primary,1.0,0.005
+SAMN17292075,PRJNA445968,3041004,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.007
+SAMN17292076,PRJNA445968,3041004,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.007
+SAMN17292072,PRJNA445968,3041005,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.006
+SAMN17292073,PRJNA445968,3041005,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.007
+SAMN17292064,PRJNA445968,3041008,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.01
+SAMN17292065,PRJNA445968,3041008,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.004
+SAMN17292062,PRJNA445968,3041009,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.005
+SAMN17292070,PRJNA445968,3041009,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.006
+SAMN17292066,PRJNA445968,3041012,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.005
+SAMN17292071,PRJNA445968,3041012,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.008
+SAMN17292067,PRJNA445968,3041014,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.007
+SAMN17292068,PRJNA445968,3041014,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.005
+SAMN17292059,PRJNA445968,3041017,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.005
+SAMN17292077,PRJNA445968,3041017,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.004
+SAMN17292060,PRJNA445968,3041018,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.01
+SAMN17292063,PRJNA445968,3041018,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.009
+SAMN17292069,PRJNA445968,3041020,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.007
+SAMN17292074,PRJNA445968,3041020,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.007
+SAMN17292061,PRJNA445968,3041021,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.008
+SAMN17292078,PRJNA445968,3041021,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.005
+SAMN17292085,PRJNA445968,3041023,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.13
+SAMN17292089,PRJNA445968,3041023,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.006
+SAMN17292091,PRJNA445968,3041024,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.039
+SAMN17292079,PRJNA445968,3041028,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.026
+SAMN17292084,PRJNA445968,3041028,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.029
+SAMN17292080,PRJNA445968,3041029,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.002
+SAMN17292086,PRJNA445968,3041029,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.031
+SAMN17292081,PRJNA445968,3041033,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.091
+SAMN17292082,PRJNA445968,3041033,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.058
+SAMN17292087,PRJNA445968,3041034,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.039
+SAMN17292092,PRJNA445968,3041034,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.066
+SAMN17292088,PRJNA445968,3041036,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.077
+SAMN17292090,PRJNA445968,3041036,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.057
+SAMN17292083,PRJNA445968,3041038,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.053
+SAMN17292101,PRJNA445968,3041038,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.05
+SAMN17292106,PRJNA445968,3041042,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.003
+SAMN17292114,PRJNA445968,3041042,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.072
+SAMN17292102,PRJNA445968,3041043,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.027
+SAMN17292127,PRJNA445968,3041043,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.014
+SAMN17292093,PRJNA445968,3041045,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.027
+SAMN17292122,PRJNA445968,3041045,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.075
+SAMN17292094,PRJNA445968,3041046,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.113
+SAMN17292098,PRJNA445968,3041046,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.003
+SAMN17292099,PRJNA445968,3041047,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.029
+SAMN17292126,PRJNA445968,3041047,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.015
+SAMN17292103,PRJNA445968,3041049,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.014
+SAMN17292107,PRJNA445968,3041049,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.017
+SAMN17292100,PRJNA445968,3041051,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.038
+SAMN17292108,PRJNA445968,3041051,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.001
+SAMN17292115,PRJNA445968,3041052,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.04
+SAMN17292120,PRJNA445968,3041052,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.045
+SAMN17292104,PRJNA445968,3041054,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.015
+SAMN17292116,PRJNA445968,3041054,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.025
+SAMN17292096,PRJNA445968,3041055,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.02
+SAMN17292123,PRJNA445968,3041055,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.107
+SAMN17292109,PRJNA445968,3041056,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.082
+SAMN17292117,PRJNA445968,3041056,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.002
+SAMN17292097,PRJNA445968,3041057,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.08
+SAMN17292125,PRJNA445968,3041057,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.021
+SAMN17292095,PRJNA445968,3041058,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.055
+SAMN17292110,PRJNA445968,3041058,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.011
+SAMN17292121,PRJNA445968,3041059,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.024
+SAMN17292124,PRJNA445968,3041059,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.069
+SAMN17292112,PRJNA445968,3041061,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.017
+SAMN17292118,PRJNA445968,3041061,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.051
+SAMN17292105,PRJNA445968,3041062,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.011
+SAMN17292111,PRJNA445968,3041062,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.02
+SAMN17292113,PRJNA445968,3041065,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.035
+SAMN17292119,PRJNA445968,3041065,,,,,HT,,HRZE_NTZ,,,,2015-03-10,primary,1.0,0.006
+SAMN08804291,PRJNA445968,,,adult,17872.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-22,primary,1.0,0.816
+SAMN08804292,PRJNA445968,,,adult,9496.5,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-01,primary,1.0,0.943
+SAMN08804293,PRJNA445968,,,adult,6574.5,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-01,primary,1.0,0.944
+SAMN08804294,PRJNA445968,,,adult,7305.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-07-07,primary,1.0,1.225
+SAMN08804295,PRJNA445968,,,adult,18614.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-10-07,primary,1.0,1.015
+SAMN08804296,PRJNA445968,,,adult,18993.0,female,HT,healthy_control,community_control,,,,2015-12-01,primary,1.0,0.524
+SAMN08804297,PRJNA445968,,,adult,7305.0,male,HT,healthy_control,community_control,,,,2016-05-12,primary,1.0,0.669
+SAMN08804298,PRJNA445968,,,adult,16791.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.687
+SAMN08804299,PRJNA445968,,,adult,9131.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-12,primary,1.0,1.206
+SAMN08804300,PRJNA445968,,,adult,8034.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-07-07,primary,1.0,0.733
+SAMN08804301,PRJNA445968,,,adult,14234.0,female,HT,healthy_control,community_control,,,,2015-08-05,primary,1.0,0.574
+SAMN08804302,PRJNA445968,,,adult,17166.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-11-12,primary,1.0,0.68
+SAMN08804303,PRJNA445968,,,adult,9131.0,male,HT,healthy_control,community_control,,,,2016-05-13,primary,1.0,0.546
+SAMN08804304,PRJNA445968,,,adult,7670.2,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-22,primary,1.0,0.597
+SAMN08804305,PRJNA445968,,,adult,11305.8,female,HT,healthy_control,community_control,,,,2015-08-05,primary,1.0,1.082
+SAMN08804306,PRJNA445968,,,adolescent,4748.2,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-07-06,primary,1.0,1.23
+SAMN08804307,PRJNA445968,,,adult,6936.8,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-10-09,primary,1.0,0.636
+SAMN08804308,PRJNA445968,,,child,4018.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-10-09,primary,1.0,0.605
+SAMN08804309,PRJNA445968,,,adult,6574.5,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-11-10,primary,1.0,0.455
+SAMN08804310,PRJNA445968,,,adult,6574.5,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-11,primary,1.0,1.329
+SAMN08804311,PRJNA445968,,,adult,8400.8,male,HT,healthy_control,community_control,,,,2016-05-20,primary,1.0,0.811
+SAMN08804312,PRJNA445968,,,adolescent,5478.8,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-06-08,primary,1.0,1.196
+SAMN08804313,PRJNA445968,,,adult,7305.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-28,primary,1.0,0.722
+SAMN08804314,PRJNA445968,,,adult,17872.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-08,primary,1.0,0.729
+SAMN08804315,PRJNA445968,,,adolescent,5844.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-07-07,primary,1.0,0.498
+SAMN08804316,PRJNA445968,,,adult,12418.5,female,HT,healthy_control,community_control,,,,2015-09-01,primary,1.0,0.569
+SAMN08804317,PRJNA445968,,,adult,11688.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-07,primary,1.0,0.671
+SAMN08804318,PRJNA445968,,,adult,11688.0,female,HT,healthy_control,community_control,,,,2015-10-08,primary,1.0,0.624
+SAMN08804319,PRJNA445968,,,adult,6574.5,female,HT,healthy_control,community_control,,,,2016-05-09,primary,1.0,1.189
+SAMN08804320,PRJNA445968,,,adolescent,5113.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.643
+SAMN08804321,PRJNA445968,,,adolescent,6209.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-08,primary,1.0,0.699
+SAMN08804322,PRJNA445968,,,adult,10957.0,male,HT,healthy_control,community_control,,,,2015-08-24,primary,1.0,0.715
+SAMN08804323,PRJNA445968,,,adult,12053.2,female,HT,healthy_control,community_control,,,,2015-09-07,primary,1.0,1.155
+SAMN08804324,PRJNA445968,,,adult,8766.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-10-07,primary,1.0,1.056
+SAMN08804325,PRJNA445968,,,adult,8400.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-04-07,primary,1.0,1.225
+SAMN08804326,PRJNA445968,,,adult,6574.5,female,HT,healthy_control,community_control,,,,2016-05-10,primary,1.0,1.305
+SAMN08804327,PRJNA445968,,,adult,8766.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-10,primary,1.0,0.516
+SAMN08804328,PRJNA445968,,,adult,7670.2,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-10,primary,1.0,0.919
+SAMN08804329,PRJNA445968,,,adult,14971.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-12,primary,1.0,1.109
+SAMN08804330,PRJNA445968,,,adult,18993.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-07-07,primary,1.0,0.7
+SAMN08804331,PRJNA445968,,,adult,13504.0,female,HT,healthy_control,community_control,,,,2015-08-24,primary,1.0,0.681
+SAMN08804332,PRJNA445968,,,adult,17872.0,female,HT,healthy_control,community_control,,,,2015-09-01,primary,1.0,0.857
+SAMN08804333,PRJNA445968,,,adult,11688.0,male,HT,healthy_control,community_control,,,,2016-04-28,primary,1.0,0.575
+SAMN08804334,PRJNA445968,,,child,2191.5,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-08,primary,1.0,0.553
+SAMN08804335,PRJNA445968,,,elderly,26298.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.492
+SAMN08804336,PRJNA445968,,,adult,22645.5,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-10,primary,1.0,0.677
+SAMN08804337,PRJNA445968,,,adult,6936.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-28,primary,1.0,0.611
+SAMN08804338,PRJNA445968,,,adult,8034.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-28,primary,1.0,0.75
+SAMN08804339,PRJNA445968,,,adult,15704.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-01,primary,1.0,0.612
+SAMN08804340,PRJNA445968,,,adult,13149.0,female,HT,healthy_control,community_control,,,,2015-08-26,primary,1.0,0.817
+SAMN08804341,PRJNA445968,,,adult,11688.0,female,HT,healthy_control,community_control,,,,2015-10-08,primary,1.0,0.658
+SAMN08804342,PRJNA445968,,,adult,7305.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-02-11,primary,1.0,1.281
+SAMN08804343,PRJNA445968,,,adult,9496.5,male,HT,healthy_control,community_control,,,,2016-05-10,primary,1.0,0.639
+SAMN08804344,PRJNA445968,,,adult,8400.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.67
+SAMN08804345,PRJNA445968,,,adult,9131.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-29,primary,1.0,0.526
+SAMN08804346,PRJNA445968,,,adult,11688.0,female,HT,healthy_control,community_control,,,,2015-09-01,primary,1.0,0.868
+SAMN08804347,PRJNA445968,,,adult,14234.0,female,HT,healthy_control,community_control,,,,2015-10-08,primary,1.0,0.687
+SAMN08804348,PRJNA445968,,,adult,9131.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-03,primary,1.0,1.287
+SAMN08804349,PRJNA445968,,,adolescent,6209.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-03,primary,1.0,1.139
+SAMN08804350,PRJNA445968,,,adult,8766.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-11,primary,1.0,0.518
+SAMN08804351,PRJNA445968,,,adult,12053.2,male,HT,healthy_control,community_control,,,,2016-05-19,primary,1.0,0.667
+SAMN08804352,PRJNA445968,,,adolescent,4383.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-08,primary,1.0,0.549
+SAMN08804353,PRJNA445968,,,adult,16071.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.511
+SAMN08804354,PRJNA445968,,,child,2922.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.609
+SAMN08804355,PRJNA445968,,,adult,8766.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-22,primary,1.0,0.695
+SAMN08804356,PRJNA445968,,,adult,8766.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-05-28,primary,1.0,0.761
+SAMN08804357,PRJNA445968,,,adult,7670.2,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-01,primary,1.0,0.467
+SAMN08804358,PRJNA445968,,,adult,18993.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-06-08,primary,1.0,0.659
+SAMN08804359,PRJNA445968,,,adult,16436.2,female,HT,healthy_control,community_control,,,,2015-08-11,primary,1.0,0.943
+SAMN08804360,PRJNA445968,,,adult,8034.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-07-03,primary,1.0,1.319
+SAMN08804361,PRJNA445968,,,adolescent,5478.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-10-09,primary,1.0,0.407
+SAMN08804362,PRJNA445968,,,adult,8034.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-11-10,primary,1.0,1.35
+SAMN08804363,PRJNA445968,,,adolescent,4748.2,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-02-11,primary,1.0,1.285
+SAMN08804364,PRJNA445968,,,adult,8034.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-22,primary,1.0,0.583
+SAMN08804365,PRJNA445968,,,adolescent,5113.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-12,primary,1.0,0.632
+SAMN08804366,PRJNA445968,,,adult,8400.8,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-11,primary,1.0,0.661
+SAMN08804367,PRJNA445968,,,adult,7305.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2015-03-09,primary,1.0,0.577
+SAMN08804368,PRJNA445968,,,adult,15330.5,female,HT,healthy_control,community_control,,,,2015-08-24,primary,1.0,0.731
+SAMN08804369,PRJNA445968,,,adult,11688.0,female,HT,healthy_control,community_control,,,,2015-08-26,primary,1.0,1.041
+SAMN08804370,PRJNA445968,,,adult,10957.0,female,HT,healthy_control,community_control,,,,2015-08-26,primary,1.0,0.867
+SAMN08804371,PRJNA445968,,,adult,11688.0,male,HT,healthy_control,community_control,,,,2015-09-01,primary,1.0,0.683
+SAMN08804372,PRJNA445968,,,adult,12418.5,male,HT,healthy_control,community_control,,,,2015-09-07,primary,1.0,0.65
+SAMN08804373,PRJNA445968,,,adult,14971.0,male,HT,healthy_control,community_control,,,,2015-09-07,primary,1.0,0.65
+SAMN08804374,PRJNA445968,,,adult,7670.2,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-02-05,primary,1.0,1.292
+SAMN08804375,PRJNA445968,,,adult,7305.0,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-02-16,primary,1.0,1.649
+SAMN08804376,PRJNA445968,,,adult,17532.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-03,primary,1.0,0.6
+SAMN08804377,PRJNA445968,,,adult,9496.5,male,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-11,primary,1.0,1.366
+SAMN08804378,PRJNA445968,,,adult,17166.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-05-11,primary,1.0,0.631
+SAMN08804379,PRJNA445968,,,adult,10957.0,male,HT,healthy_control,community_control,,,,2016-05-19,primary,1.0,0.556
+SAMN08804380,PRJNA445968,,,adult,21549.8,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2016-06-08,primary,1.0,0.702
+SAMN08804381,PRJNA445968,,,adult,15704.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-08,primary,1.0,0.626
+SAMN08804382,PRJNA445968,,,adolescent,5844.0,female,HT,,"mixed_case_control: Longitudinal study of TB patients before, during, and after treatment",,,,2017-03-27,primary,1.0,0.529

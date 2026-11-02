@@ -1,0 +1,88 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN49979959,PRJNA1291832,CHA003,Baseline,elderly,25190.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-08-20,primary,1.0,5.885
+SAMN49979960,PRJNA1291832,CHA004,Baseline,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-08-23,primary,1.0,6.749
+SAMN49979961,PRJNA1291832,CHA004,DP,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at disease progression during ICB,,2019-01-15,primary,1.0,6.945
+SAMN49979962,PRJNA1291832,CHA004,Wk17,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2018-12-13,primary,1.0,4.738
+SAMN49979963,PRJNA1291832,CHA006,Baseline,elderly,26298.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-10-15,primary,1.0,9.831
+SAMN49979964,PRJNA1291832,CHA006,Wk17,elderly,26298.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2019-01-03,primary,1.0,7.044
+SAMN49979965,PRJNA1291832,CHA007,Baseline,elderly,26641.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-10-17,primary,1.0,10.01
+SAMN49979966,PRJNA1291832,CHA007,Wk17,elderly,26641.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2019-02-06,primary,1.0,7.327
+SAMN49979967,PRJNA1291832,CHA008,Baseline,adult,20820.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-10-17,primary,1.0,7.158
+SAMN49979968,PRJNA1291832,CHA009,Baseline,elderly,26641.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-10-16,primary,1.0,7.618
+SAMN49979969,PRJNA1291832,CHA009,Wk17,elderly,26641.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2019-02-21,primary,1.0,6.573
+SAMN49979970,PRJNA1291832,CHA011,Baseline,elderly,31394.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2018-11-07,primary,1.0,7.755
+SAMN49979971,PRJNA1291832,CHA011,Wk17,elderly,31394.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2019-03-27,primary,1.0,5.815
+SAMN49979972,PRJNA1291832,CHA012,Baseline,elderly,24455.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-02-06,primary,1.0,6.311
+SAMN49979973,PRJNA1291832,CHA012,EOT,elderly,24455.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at end of ICB treatment,,2019-04-29,primary,1.0,4.85
+SAMN49979974,PRJNA1291832,CHA015,Baseline,elderly,27759.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-05-04,primary,1.0,8.094
+SAMN49979976,PRJNA1291832,CHA015,DP,elderly,27759.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at disease progression during ICB,,2019-09-19,primary,1.0,7.344
+SAMN49979977,PRJNA1291832,CHA015,EOT,elderly,27759.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at end of ICB treatment,,2020-12-24,primary,1.0,7.429
+SAMN49979975,PRJNA1291832,CHA015,Wk17,elderly,27759.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2019-08-27,primary,1.0,6.783
+SAMN49979978,PRJNA1291832,CHA016,Baseline,adult,18993.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-07-30,primary,1.0,5.978
+SAMN49979979,PRJNA1291832,CHA016,EOT,adult,18993.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at end of ICB treatment,,2019-09-24,primary,1.0,6.064
+SAMN49979980,PRJNA1291832,CHA017,Baseline,elderly,25932.8,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-08-30,primary,1.0,5.72
+SAMN49979981,PRJNA1291832,CHA017,Wk17,elderly,25932.8,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2019-12-20,primary,1.0,9.22
+SAMN49979982,PRJNA1291832,CHA018,Baseline,elderly,29580.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-10-11,primary,1.0,6.421
+SAMN49979984,PRJNA1291832,CHA018,DP,elderly,29580.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at disease progression during ICB,,2020-01-23,primary,1.0,1.025
+SAMN49979985,PRJNA1291832,CHA018,DP,elderly,29580.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at disease progression during ICB,,2020-04-17,primary,1.0,4.802
+SAMN49979983,PRJNA1291832,CHA018,Wk17,elderly,29580.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-02-03,primary,1.0,7.28
+SAMN49979986,PRJNA1291832,CHA019,Baseline,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-10-24,primary,1.0,7.774
+SAMN49979988,PRJNA1291832,CHA019,CR,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at complete response during ICB,,2021-11-18,primary,1.0,7.796
+SAMN49979987,PRJNA1291832,CHA019,Wk17,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-02-17,primary,1.0,7.641
+SAMN49979989,PRJNA1291832,CHA020,Baseline,elderly,24106.5,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2019-11-11,primary,1.0,7.38
+SAMN49979990,PRJNA1291832,CHA020,Wk17,elderly,24106.5,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-03-02,primary,1.0,9.297
+SAMN49979991,PRJNA1291832,CHA022,Baseline,elderly,25190.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-01-28,primary,1.0,5.824
+SAMN49979992,PRJNA1291832,CHA022,Wk17,elderly,25190.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-05-15,primary,1.0,5.966
+SAMN49979993,PRJNA1291832,CHA023,Baseline,adult,21915.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-02-06,primary,1.0,6.619
+SAMN49979994,PRJNA1291832,CHA023,Wk17,adult,21915.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-06-03,primary,1.0,9.215
+SAMN49979995,PRJNA1291832,CHA025,Baseline,elderly,28124.2,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-02-07,primary,1.0,7.318
+SAMN49979996,PRJNA1291832,CHA025,Wk17,elderly,28124.2,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-05-29,primary,1.0,3.09
+SAMN49979997,PRJNA1291832,CHA026,Baseline,adult,21177.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-02-07,primary,1.0,6.822
+SAMN49979999,PRJNA1291832,CHA026,DP,adult,21177.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at disease progression during ICB,,2020-08-28,primary,1.0,7.393
+SAMN49979998,PRJNA1291832,CHA026,Wk17,adult,21177.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-05-29,primary,1.0,5.364
+SAMN49980000,PRJNA1291832,CHA027,Baseline,elderly,29580.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-02-21,primary,1.0,8.163
+SAMN49980001,PRJNA1291832,CHA027,Wk17,elderly,29580.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-06-16,primary,1.0,11.424
+SAMN49980002,PRJNA1291832,CHA028,Baseline,elderly,29931.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-03-04,primary,1.0,7.474
+SAMN49980003,PRJNA1291832,CHA028,Wk17,elderly,29931.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-07-01,primary,1.0,5.535
+SAMN49980004,PRJNA1291832,CHA029,Baseline,adult,14975.2,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-03-06,primary,1.0,7.519
+SAMN49980007,PRJNA1291832,CHA029,EOT,adult,14975.2,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at end of ICB treatment,,2022-06-29,primary,1.0,7.371
+SAMN49980006,PRJNA1291832,CHA029,PD,adult,14975.2,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at progressive disease during ICB,,2022-08-31,primary,1.0,7.229
+SAMN49980005,PRJNA1291832,CHA029,Wk17,adult,14975.2,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-06-30,primary,1.0,8.367
+SAMN49980008,PRJNA1291832,CHA030,Baseline,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-03-12,primary,1.0,6.39
+SAMN49980009,PRJNA1291832,CHA030,Wk17,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-07-06,primary,1.0,8.546
+SAMN49980010,PRJNA1291832,CHA032,Baseline,elderly,24106.5,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-05-01,primary,1.0,9.998
+SAMN49980011,PRJNA1291832,CHA032,DPEOT,elderly,24106.5,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at disease progression at end of ICB treatment,,2020-07-29,primary,1.0,9.821
+SAMN49980012,PRJNA1291832,CHA033,Baseline,elderly,24837.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-05-05,primary,1.0,6.292
+SAMN49980013,PRJNA1291832,CHA033,Wk17,elderly,24837.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-09-04,primary,1.0,6.581
+SAMN49980014,PRJNA1291832,CHA034,Baseline,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-05-20,primary,1.0,6.531
+SAMN49980015,PRJNA1291832,CHA034,Wk17,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-09-09,primary,1.0,4.5
+SAMN49980016,PRJNA1291832,CHA035,Baseline,elderly,25190.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-05-26,primary,1.0,7.885
+SAMN49980018,PRJNA1291832,CHA035,EOT,elderly,25190.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at end of ICB treatment,,2022-06-29,primary,1.0,8.192
+SAMN49980017,PRJNA1291832,CHA035,Wk17,elderly,25190.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-09-17,primary,1.0,11.271
+SAMN49980019,PRJNA1291832,CHA036,Baseline,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-08-07,primary,1.0,8.36
+SAMN49980021,PRJNA1291832,CHA036,EOT,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at end of ICB treatment,,2020-10-05,primary,1.0,8.246
+SAMN49980020,PRJNA1291832,CHA036,Wk17,elderly,25932.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2020-12-04,primary,1.0,6.696
+SAMN49980022,PRJNA1291832,CHA037,Baseline,elderly,27028.5,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-10-28,primary,1.0,6.743
+SAMN49980023,PRJNA1291832,CHA037,Wk17,elderly,27028.5,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-02-23,primary,1.0,8.983
+SAMN49980024,PRJNA1291832,CHA038,Baseline,adult,17532.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-11-10,primary,1.0,10.236
+SAMN49980025,PRJNA1291832,CHA040,Baseline,adult,21549.8,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2020-11-19,primary,1.0,11.415
+SAMN49980026,PRJNA1291832,CHA040,CR,adult,21549.8,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at complete response during ICB,,2022-06-21,primary,1.0,5.575
+SAMN49980027,PRJNA1291832,CHA041,Baseline,adult,20434.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-01-06,primary,1.0,8.192
+SAMN49980028,PRJNA1291832,CHA041,Wk17,adult,20434.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-05-25,primary,1.0,6.515
+SAMN49980029,PRJNA1291832,CHA043,Baseline,elderly,26298.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-02-08,primary,1.0,9.147
+SAMN49980030,PRJNA1291832,CHA043,Wk17,elderly,26298.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-06-08,primary,1.0,6.45
+SAMN49980031,PRJNA1291832,CHA044,Baseline,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-04-14,primary,1.0,6.898
+SAMN49980033,PRJNA1291832,CHA044,COR,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at continued response during ICB,,2021-09-13,primary,1.0,8.687
+SAMN49980032,PRJNA1291832,CHA044,Wk17,adult,22627.0,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-08-05,primary,1.0,6.707
+SAMN49980034,PRJNA1291832,CHA046,Baseline,adult,13149.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-06-25,primary,1.0,13.331
+SAMN49980036,PRJNA1291832,CHA046,COR,adult,13149.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at continued response during ICB,,2022-03-02,primary,1.0,10.012
+SAMN49980035,PRJNA1291832,CHA046,Wk17,adult,13149.0,female,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-10-21,primary,1.0,7.437
+SAMN49980037,PRJNA1291832,CHA047,Baseline,adult,22980.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-07-23,primary,1.0,11.824
+SAMN49980038,PRJNA1291832,CHA047,Wk17,adult,22980.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-11-01,primary,1.0,7.681
+SAMN49980039,PRJNA1291832,CHA049,Baseline,elderly,28124.2,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-07-28,primary,1.0,7.845
+SAMN49980040,PRJNA1291832,CHA049,Wk17,elderly,28124.2,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2021-11-16,primary,1.0,9.897
+SAMN49980041,PRJNA1291832,CHA050,Baseline,elderly,28124.2,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-09-08,primary,1.0,9.492
+SAMN49980042,PRJNA1291832,CHA050,Wk17,elderly,28124.2,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at week 17 of ICB therapy,,2022-01-06,primary,1.0,4.197
+SAMN49980043,PRJNA1291832,CHA052,Baseline,adult,14975.2,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-11-09,primary,1.0,6.557
+SAMN49980044,PRJNA1291832,CHA052,PD,adult,14975.2,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,drug_therapy,sample at progressive disease during ICB,,2021-12-09,primary,1.0,5.163
+SAMN49980045,PRJNA1291832,CHA053,Baseline,adult,20088.8,male,AU,other_cancer,Metastatic melanoma undergoing ICB therapy,no_intervention,pre-ICB baseline sample,,2021-12-21,primary,1.0,6.373
