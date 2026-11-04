@@ -1,0 +1,154 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN31621089,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,11.135
+SAMN31621090,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,13.302
+SAMN31621091,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,12.249
+SAMN31621092,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,35.332
+SAMN31621093,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,12.317
+SAMN31621094,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,12.684
+SAMN31621095,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,12.408
+SAMN31621096,PRJNA898682,,,adult,,female,,other_cancer,Other malignancies,,,,,primary,1.0,4.685
+SAMN31621097,PRJNA898682,,,adult,,female,,other_cancer,Other malignancies,,,,,primary,1.0,15.729
+SAMN31621098,PRJNA898682,,,adult,,female,,other_cancer,Other malignancies,,,,,primary,1.0,14.166
+SAMN31621099,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,13.658
+SAMN31621100,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,15.629
+SAMN31621101,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,13.975
+SAMN31621102,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,14.712
+SAMN31621103,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,12.889
+SAMN31621104,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,10.703
+SAMN31621105,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,18.735
+SAMN31621106,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,21.853
+SAMN31621107,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,18.869
+SAMN31621108,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,7.405
+SAMN31621109,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,19.278
+SAMN31621110,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,14.917
+SAMN31621111,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,4.019
+SAMN31621112,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,3.179
+SAMN31621113,PRJNA898682,,,adult,,male,,other_cancer,CML,,,,,primary,1.0,9.712
+SAMN31621114,PRJNA898682,,,adult,,male,,other_cancer,CML,,,,,primary,1.0,16.046
+SAMN31621115,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,5.375
+SAMN31621116,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,13.36
+SAMN31621117,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,16.124
+SAMN31621118,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,16.485
+SAMN31621119,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,12.844
+SAMN31621120,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,12.707
+SAMN31621121,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,12.905
+SAMN31621122,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,7.396
+SAMN31621123,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,11.375
+SAMN31621124,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,13.215
+SAMN31621125,PRJNA898682,,,adult,,male,,other_cancer,CLL,,,,,primary,1.0,12.794
+SAMN31621126,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,12.754
+SAMN31621127,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,14.581
+SAMN31621128,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,12.385
+SAMN31621129,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,13.413
+SAMN31621130,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,12.259
+SAMN31621131,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,14.161
+SAMN31621132,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,39.707
+SAMN31621133,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,17.826
+SAMN31621134,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,5.231
+SAMN31621135,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,15.356
+SAMN31621136,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,14.369
+SAMN31621137,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,15.602
+SAMN31621138,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,14.191
+SAMN31621139,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,16.678
+SAMN31621140,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,20.468
+SAMN31621141,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,18.188
+SAMN31621142,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,15.83
+SAMN31621143,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,16.378
+SAMN31621144,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,15.065
+SAMN31621145,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,17.242
+SAMN31621146,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,16.547
+SAMN31621147,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,13.071
+SAMN31621148,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,23.519
+SAMN31621149,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,14.268
+SAMN31621150,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,16.112
+SAMN31621151,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,15.346
+SAMN31621152,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,12.901
+SAMN31621153,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,16.513
+SAMN31621154,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,15.361
+SAMN31621155,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,14.777
+SAMN31621156,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,17.246
+SAMN31621157,PRJNA898682,,,adult,,female,,other_cancer,CLL,,,,,primary,1.0,14.563
+SAMN31621158,PRJNA898682,,,adult,,female,,other_cancer,CLL,,,,,primary,1.0,16.378
+SAMN31621159,PRJNA898682,,,adult,,female,,other_cancer,CLL,,,,,primary,1.0,14.862
+SAMN31621160,PRJNA898682,,,adult,,female,,other_cancer,CLL,,,,,primary,1.0,13.494
+SAMN31621161,PRJNA898682,,,adult,,female,,other_cancer,CLL,,,,,primary,1.0,12.677
+SAMN31621162,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,5.666
+SAMN31621163,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,7.123
+SAMN31621164,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,5.105
+SAMN31621165,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,6.456
+SAMN31621166,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,4.514
+SAMN31621167,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,11.191
+SAMN31621168,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,13.585
+SAMN31621169,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,11.967
+SAMN31621170,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,8.609
+SAMN31621171,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,2.053
+SAMN31621172,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,7.19
+SAMN31621173,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,3.135
+SAMN31621174,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,2.504
+SAMN31621176,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,6.191
+SAMN31621177,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,2.645
+SAMN31621178,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,10.526
+SAMN31621179,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,14.967
+SAMN31621180,PRJNA898682,,,adult,,female,,other_cancer,NHL,,,,,primary,1.0,11.571
+SAMN31621181,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,19.65
+SAMN31621182,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,13.372
+SAMN31621183,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,14.06
+SAMN31621184,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,15.307
+SAMN31621185,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,3.973
+SAMN31621186,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,15.894
+SAMN31621187,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,16.732
+SAMN31621188,PRJNA898682,,,adult,,male,,other_cancer,Hodgkin,,,,,primary,1.0,17.183
+SAMN31621189,PRJNA898682,,,adult,,male,,other_cancer,Hodgkin,,,,,primary,1.0,18.75
+SAMN31621190,PRJNA898682,,,adult,,male,,other_cancer,Hodgkin,,,,,primary,1.0,13.383
+SAMN31621191,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,34.714
+SAMN31621192,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,17.429
+SAMN31621193,PRJNA898682,,,adult,,male,,other_cancer,ALL,,,,,primary,1.0,16.538
+SAMN31621194,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,15.283
+SAMN31621195,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,16.366
+SAMN31621196,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,15.043
+SAMN31621197,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,14.91
+SAMN31621198,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,18.735
+SAMN31621199,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,13.898
+SAMN31621200,PRJNA898682,,,adult,,female,,other_cancer,ALL,,,,,primary,1.0,9.475
+SAMN31621201,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,14.209
+SAMN31621202,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,15.286
+SAMN31621203,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,17.288
+SAMN31621204,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,15.327
+SAMN31621205,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,13.759
+SAMN31621206,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,15.037
+SAMN31621207,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,11.072
+SAMN31621208,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,10.384
+SAMN31621209,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,7.273
+SAMN31621210,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,6.168
+SAMN31621211,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,7.967
+SAMN31621212,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,4.633
+SAMN31621213,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,11.939
+SAMN31621214,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,10.183
+SAMN31621215,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,17.2
+SAMN31621216,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,14.353
+SAMN31621217,PRJNA898682,,,adult,,male,,other_cancer,AML,,,,,primary,1.0,14.97
+SAMN31621218,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,9.105
+SAMN31621219,PRJNA898682,,,adult,,female,,other_cancer,MDS,,,,,primary,1.0,13.553
+SAMN31621220,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,12.266
+SAMN31621221,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,12.2
+SAMN31621222,PRJNA898682,,,adult,,male,,other_cancer,Other malignancies,,,,,primary,1.0,14.384
+SAMN31621223,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,13.874
+SAMN31621224,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,13.756
+SAMN31621225,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,4.333
+SAMN31621226,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,9.078
+SAMN31621227,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,12.449
+SAMN31621228,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,17.476
+SAMN31621229,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,12.516
+SAMN31621230,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,9.97
+SAMN31621231,PRJNA898682,,,adult,,male,,other_cancer,NHL,,,,,primary,1.0,14.536
+SAMN31621232,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,12.613
+SAMN31621233,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,17.147
+SAMN31621234,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,12.415
+SAMN31621235,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,17.319
+SAMN31621236,PRJNA898682,,,adult,,male,,other_cancer,MDS,,,,,primary,1.0,13.389
+SAMN31621237,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,14.244
+SAMN31621238,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,15.655
+SAMN31621239,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,13.749
+SAMN31621240,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,14.284
+SAMN31621241,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,3.338
+SAMN31621242,PRJNA898682,,,adult,,female,,other_cancer,AML,,,,,primary,1.0,4.939
