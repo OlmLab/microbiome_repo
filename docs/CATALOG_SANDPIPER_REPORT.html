@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sandpiper profiles for the whole catalog (report) — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: a curated, evidence-linked catalog of human-associated shotgun metagenomes and metatranscriptomes — every body site, all ages — with per-sample metadata, and a registry of every screened public study.">
+<meta name="catalog-release" content="data-v1.30.0">
+<meta name="catalog-release-id" content="R2026.36">
+<link rel="canonical" href="https://microbiomerepo.com/docs/CATALOG_SANDPIPER_REPORT.html">
+<meta name="catalog-package-version" content="1.30.0">
+<meta name="catalog-build-date" content="2026-11-06">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="../static/icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../static/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../static/icons/apple-touch-icon.png">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Explore <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../registry/index.html">Registry (every screened ENA study)</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a><span class="navhead">Insights</span><a role="menuitem" href="../atlas/index.html">Atlas: taxon map</a><a role="menuitem" href="../atlas/pca.html">Atlas: PCA of community profiles</a><a role="menuitem" href="../atlas/measures.html">Atlas: profile measures</a><a role="menuitem" href="../atlas/figures.html">Figures (resource paper)</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, samples, authors…" aria-label="Search the repository" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="../about/index.html">About</a> › <a href="../about/methods.html">Methods</a> › Sandpiper profiles for the whole catalog (report)</div>
+
+<h1>Sandpiper profiles for the whole catalog (report)</h1>
+<p class="small">Rendered from <a href="CATALOG_SANDPIPER_REPORT.md">CATALOG_SANDPIPER_REPORT.md</a>.</p>
+<div class="md"><h2 id="catalog_sandpiper_report-sandpiper-201-profiles-for-the-current-catalog-samples">CATALOG_SANDPIPER_REPORT — Sandpiper 2.0.1 profiles for the current catalog samples</h2>
+<p>Built by <code>scripts/refresh_sandpiper.py</code> (one pass, all tables rebuilt). Inputs: <code>sandpiper2.0.1.gtdb.csv.gz</code> (GTDB R232, Zenodo record 21287531), <code>sandpiper2.0.1.per_acc_summary.csv.gz</code>, <code>catalog_runs.parquet</code> and <code>catalog_sample_metadata_wide.parquet</code> from <code>build/package</code>. Only current samples (release_retired null) are used: 806,054 of 865,529 wide-table rows.</p>
+<h3 id="1-streaming-pass">1. Streaming pass</h3>
+<table>
+<thead>
+<tr>
+<th>quantity</th>
+<th>value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bulk rows scanned</td>
+<td>238,306,693</td>
+</tr>
+<tr>
+<td>rows kept</td>
+<td>66,958,488</td>
+</tr>
+<tr>
+<td>candidate runs (DNA runs of current samples)</td>
+<td>926,319</td>
+</tr>
+<tr>
+<td>runs with a profile</td>
+<td>449,233</td>
+</tr>
+<tr>
+<td>coverage format in the bulk file</td>
+<td>unfilled (converted to filled)</td>
+</tr>
+<tr>
+<td>wall time</td>
+<td>59.2 s</td>
+</tr>
+</tbody>
+</table>
+<p>Unfilled coverage rows below −0.02: 0. Genus sum-check (min, max, n): [0.9999999999999987, 1.000000000000001, 416336].</p>
+<h3 id="2-coverage">2. Coverage</h3>
+<p><strong>416,336 of 806,054 current samples (51.7 %) in 3,131 of 5,052 projects; 449,233 of 962,740 runs (46.7 %).</strong> Profiled runs without per-run metadata: 0.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">prefix</th>
+<th style="text-align: right;">projects</th>
+<th style="text-align: right;">projects_profiled</th>
+<th style="text-align: right;">runs</th>
+<th style="text-align: right;">runs_profiled</th>
+<th style="text-align: right;">samples</th>
+<th style="text-align: right;">samples_profiled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">PRJDA</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">60</td>
+</tr>
+<tr>
+<td style="text-align: left;">PRJDB</td>
+<td style="text-align: right;">177</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">19812</td>
+<td style="text-align: right;">6474</td>
+<td style="text-align: right;">19393</td>
+<td style="text-align: right;">6450</td>
+</tr>
+<tr>
+<td style="text-align: left;">PRJEB</td>
+<td style="text-align: right;">1100</td>
+<td style="text-align: right;">698</td>
+<td style="text-align: right;">366858</td>
+<td style="text-align: right;">172588</td>
+<td style="text-align: right;">295805</td>
+<td style="text-align: right;">157363</td>
+</tr>
+<tr>
+<td style="text-align: left;">PRJNA</td>
+<td style="text-align: right;">3769</td>
+<td style="text-align: right;">2348</td>
+<td style="text-align: right;">575601</td>
+<td style="text-align: right;">269838</td>
+<td style="text-align: right;">490387</td>
+<td style="text-align: right;">252190</td>
+</tr>
+<tr>
+<td style="text-align: left;">SRP00</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr>
+<td style="text-align: left;">SRP01</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td style="text-align: left;">SRP05</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">369</td>
+<td style="text-align: right;">263</td>
+<td style="text-align: right;">369</td>
+<td style="text-align: right;">263</td>
+</tr>
+</tbody>
+</table>
+<p>Coverage classes (frac_samples_profiled; complete ≥ 0.95, majority ≥ 0.5, partial &gt; 0): none 1,921, majority 1,874, complete 785, partial 472.</p>
+<p>By age category:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">age_category</th>
+<th style="text-align: right;">n_samples</th>
+<th style="text-align: right;">n_profiled</th>
+<th style="text-align: right;">frac_profiled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">adolescent</td>
+<td style="text-align: right;">7009</td>
+<td style="text-align: right;">4008</td>
+<td style="text-align: right;">0.572</td>
+</tr>
+<tr>
+<td style="text-align: left;">adult</td>
+<td style="text-align: right;">284629</td>
+<td style="text-align: right;">164366</td>
+<td style="text-align: right;">0.577</td>
+</tr>
+<tr>
+<td style="text-align: left;">child</td>
+<td style="text-align: right;">35153</td>
+<td style="text-align: right;">20304</td>
+<td style="text-align: right;">0.578</td>
+</tr>
+<tr>
+<td style="text-align: left;">elderly</td>
+<td style="text-align: right;">38431</td>
+<td style="text-align: right;">24139</td>
+<td style="text-align: right;">0.628</td>
+</tr>
+<tr>
+<td style="text-align: left;">infant</td>
+<td style="text-align: right;">75501</td>
+<td style="text-align: right;">42209</td>
+<td style="text-align: right;">0.559</td>
+</tr>
+<tr>
+<td style="text-align: left;">neonate</td>
+<td style="text-align: right;">16670</td>
+<td style="text-align: right;">11381</td>
+<td style="text-align: right;">0.683</td>
+</tr>
+<tr>
+<td style="text-align: left;">unknown</td>
+<td style="text-align: right;">348661</td>
+<td style="text-align: right;">149929</td>
+<td style="text-align: right;">0.43</td>
+</tr>
+</tbody>
+</table>
+<h3 id="3-qc-flags-per-sample-flagged-never-dropped-now-computed-for-every-sample">3. QC flags per sample (flagged, never dropped; now computed for every sample)</h3>
+<table>
+<thead>
+<tr>
+<th>flag</th>
+<th>n_samples</th>
+<th>pct</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>qc_low_depth</td>
+<td>6,375</td>
+<td>1.5 %</td>
+</tr>
+<tr>
+<td>qc_low_complexity</td>
+<td>24,360</td>
+<td>5.9 %</td>
+</tr>
+<tr>
+<td>qc_readfraction_warning</td>
+<td>6,558</td>
+<td>1.6 %</td>
+</tr>
+<tr>
+<td>qc_non_metagenome</td>
+<td>3,709</td>
+<td>0.9 %</td>
+</tr>
+<tr>
+<td>qc_non_metagenome_strict</td>
+<td>23,391</td>
+<td>5.6 %</td>
+</tr>
+<tr>
+<td>qc_synthetic</td>
+<td>124</td>
+<td>0.0 %</td>
+</tr>
+<tr>
+<td>qc_rna</td>
+<td>0</td>
+<td>0.0 %</td>
+</tr>
+<tr>
+<td>qc_predicted_ecological</td>
+<td>4,171</td>
+<td>1.0 %</td>
+</tr>
+<tr>
+<td>qc_partial</td>
+<td>11,243</td>
+<td>2.7 %</td>
+</tr>
+<tr>
+<td>qc_no_genus_assigned</td>
+<td>6,898</td>
+<td>1.7 %</td>
+</tr>
+<tr>
+<td>qc_any_flag</td>
+<td>66,793</td>
+<td>16.0 %</td>
+</tr>
+</tbody>
+</table>
+<p>Definitions as in the 1.x report: low_depth = summed root coverage &lt; 2; low_complexity / readfraction_warning / predicted_ecological (host_or_not = ecological) = on any run; non_metagenome = organism names a single non-human species on any run (strict rule minus 'Homo sapiens'); non_metagenome_strict includes 'Homo sapiens'; synthetic = organism synthetic/simulat or library_source SYNTHETIC; rna = RNA library strategy/source; partial = n_runs_profiled &lt; n_runs_total (DNA runs); no_genus_assigned = richness 0.</p>
+<h3 id="4-pca">4. PCA</h3>
+<p>Matrix: 409,961 samples with root coverage ≥ 2; 386 genera detected (≥ 0.001) in ≥ 1 % of them; 5,064 samples contain none of the kept genera → <strong>404,897 scored samples</strong>. Kept genera hold a median 0.932 (5th percentile 0.562) of a sample's root coverage. Method unchanged from 1.x.</p>
+<p>Explained variance ratio: PC1 0.1990, PC2 0.0609, PC3 0.0386, PC4 0.0303, PC5 0.0278 (cumulative 0.3565).</p>
+<ul>
+<li><strong>PC1</strong> + g__Faecalibacterium 0.195, g__Roseburia 0.186, g__Alistipes 0.175, g__Blautia_A 0.173, g__Gemmiger 0.168, g__Phocaeicola 0.160; − g__Veillonella -0.102, g__Rothia -0.095, g__Corynebacterium -0.088, g__Staphylococcus -0.085, g__Neisseria -0.082</li>
+<li><strong>PC2</strong> + g__Enterocloster 0.199, g__Flavonifractor 0.191, g__Mediterraneibacter 0.171, g__Eggerthella 0.166, g__Bacteroides 0.157, g__Blautia 0.154; − g__CAG-170 -0.182, g__Prevotella -0.177, g__Hominicoprocola -0.167, g__Vescimonas -0.140, g__Faecousia -0.140</li>
+<li><strong>PC3</strong> + g__Prevotella 0.255, g__Streptococcus 0.237, g__Veillonella 0.178, g__Haemophilus_D 0.175, g__Pauljensenia 0.172, g__Rothia 0.147; − g__Akkermansia -0.132, g__Bacteroides -0.116, g__Escherichia -0.111, g__Alistipes -0.107, g__Ruthenibacterium -0.104</li>
+<li><strong>PC4</strong> + g__Prevotella 0.272, g__Phocaeicola 0.246, g__Bacteroides 0.216, g__Parabacteroides 0.210, g__Alistipes 0.176, g__Oscillibacter 0.141; − g__Bifidobacterium -0.181, g__Anaerobutyricum -0.144, g__Clostridium -0.140, g__Lentihominibacter -0.126, g__Oliverpabstia -0.126</li>
+<li><strong>PC5</strong> + g__Escherichia 0.317, g__Bifidobacterium 0.243, g__Prevotella 0.190, g__ECMA0423 0.160, g__Klebsiella 0.160, g__Holdemanella 0.141; − g__Adlercreutzia -0.122, g__Neisseria -0.121, g__Alistipes -0.120, g__Actinomyces -0.119, g__Akkermansia -0.118</li>
+</ul>
+<h3 id="5-changes-against-the-previous-tables">5. Changes against the previous tables</h3>
+<table>
+<thead>
+<tr>
+<th>quantity</th>
+<th>value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>previous_rows</td>
+<td>416,336</td>
+</tr>
+<tr>
+<td>previous_rows_retired_samples</td>
+<td>0</td>
+</tr>
+<tr>
+<td>previous_versions</td>
+<td>{'2.0.1': 416336}</td>
+</tr>
+<tr>
+<td>samples_new</td>
+<td>0</td>
+</tr>
+<tr>
+<td>samples_lost</td>
+<td>0</td>
+</tr>
+<tr>
+<td>root_changed_gt1pct</td>
+<td>0</td>
+</tr>
+<tr>
+<td>top_genus_changed</td>
+<td>0</td>
+</tr>
+<tr>
+<td>compared</td>
+<td>416,336</td>
+</tr>
+</tbody>
+</table>
+<h3 id="6-registry-run-flags">6. Registry run flags</h3>
+<p><code>registry_runs_sandpiper.parquet</code>: 1,984,693 runs; sandpiper_profiled 840,403 → 840,403 (run list of <code>sandpiper2.0.1.per_acc_summary.csv.gz</code>).</p></div>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.36"><span class="mono">R2026.36</span></a> · package <span class="mono">1.30.0</span> · build <span class="mono">126cde0</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.36.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="../about/methods.html#limitations">Limitations</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to its source, route and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+<div class="muted small">Site icon: microbe from <a href="https://github.com/googlefonts/noto-emoji">Noto Emoji</a> (Apache License 2.0).</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.30.0',release:'data-v1.30.0',releaseId:'R2026.36',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

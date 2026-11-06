@@ -1,0 +1,645 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA7097212,PRJEB39610,364,,neonate,15.0,female,GB,nec,PreNEC,,,no,2014,primary,1.0,3.876
+SAMEA7097213,PRJEB39610,364,,neonate,19.0,female,GB,nec,PreNEC,,,no,2014,primary,1.0,1.592
+SAMEA7097214,PRJEB39610,364,,neonate,22.0,female,GB,nec,PreNEC,,,no,2014,primary,1.0,1.823
+SAMEA7097215,PRJEB39610,364,,neonate,23.0,female,GB,nec,PreNEC,,,no,2014,primary,1.0,4.591
+SAMEA7097216,PRJEB39610,364,,neonate,28.0,female,GB,nec,PreNEC,,,no,2014,primary,1.0,1.953
+SAMEA7097217,PRJEB39610,364,,infant,31.0,female,GB,nec,PreNEC,,,no,2014,primary,1.0,3.277
+SAMEA7097218,PRJEB39610,364,,infant,41.0,female,GB,nec,PostNEC,,,yes,2015,primary,1.0,3.723
+SAMEA7097219,PRJEB39610,364,,infant,58.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,4.302
+SAMEA7097220,PRJEB39610,364,,infant,64.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,1.28
+SAMEA7096762,PRJEB39610,367,0 - 1 month,neonate,12.0,male,GB,healthy_control,NoNEC,,,no,2014,primary,1.0,0.962
+SAMEA7096768,PRJEB39610,367,0 - 1 month,infant,30.0,male,GB,preterm_nicu,NoNEC,,,yes,2015,primary,1.0,0.385
+SAMEA7096769,PRJEB39610,367,1 - 6 months,infant,37.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.773
+SAMEA7096763,PRJEB39610,367,,neonate,14.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.376
+SAMEA7096764,PRJEB39610,367,,neonate,16.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.635
+SAMEA7096765,PRJEB39610,367,,neonate,18.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.88
+SAMEA7096766,PRJEB39610,367,,neonate,20.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.447
+SAMEA7096767,PRJEB39610,367,,neonate,21.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.211
+SAMEA7096770,PRJEB39610,367,,infant,42.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.244
+SAMEA7096771,PRJEB39610,367,,infant,53.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.565
+SAMEA7096772,PRJEB39610,369,0 - 1 month,neonate,0.0,female,GB,healthy_control,NoNEC,,,yes,2014,primary,1.0,2.356
+SAMEA7096776,PRJEB39610,369,0 - 1 month,neonate,21.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.546
+SAMEA7096778,PRJEB39610,369,1 - 6 months,infant,33.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,6.062
+SAMEA7096773,PRJEB39610,369,,neonate,12.0,female,GB,healthy_control,NoNEC,,,no,2014,primary,1.0,3.61
+SAMEA7096774,PRJEB39610,369,,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,7.058
+SAMEA7096775,PRJEB39610,369,,neonate,18.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,0.878
+SAMEA7096777,PRJEB39610,369,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,6.433
+SAMEA7096779,PRJEB39610,369,,infant,40.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,7.885
+SAMEA7096780,PRJEB39610,369,,infant,48.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,5.957
+SAMEA7096781,PRJEB39610,369,,infant,55.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,5.362
+SAMEA7096782,PRJEB39610,369,,infant,71.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.795
+SAMEA7096783,PRJEB39610,369,,infant,76.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,7.02
+SAMEA7096784,PRJEB39610,369,,infant,82.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.228
+SAMEA7096785,PRJEB39610,369,,infant,89.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,6.491
+SAMEA7096786,PRJEB39610,369,,infant,94.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.527
+SAMEA7096787,PRJEB39610,379,0 - 1 month,neonate,11.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,6.784
+SAMEA7096790,PRJEB39610,379,0 - 1 month,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,5.454
+SAMEA7096788,PRJEB39610,379,,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.68
+SAMEA7096789,PRJEB39610,379,,neonate,18.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.514
+SAMEA7096791,PRJEB39610,381,0 - 1 month,neonate,13.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.706
+SAMEA7096792,PRJEB39610,381,1 - 6 months,infant,86.0,female,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,3.547
+SAMEA7096793,PRJEB39610,381,,infant,93.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.939
+SAMEA7097221,PRJEB39610,393,,neonate,5.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,4.285
+SAMEA7097222,PRJEB39610,393,,neonate,7.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,3.975
+SAMEA7097223,PRJEB39610,393,,neonate,9.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,6.4
+SAMEA7097224,PRJEB39610,393,,neonate,11.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,5.808
+SAMEA7097225,PRJEB39610,393,,neonate,13.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,3.724
+SAMEA7097226,PRJEB39610,393,,neonate,22.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,6.498
+SAMEA7097227,PRJEB39610,393,,neonate,24.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,0.521
+SAMEA7097228,PRJEB39610,393,,neonate,26.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,0.583
+SAMEA7097229,PRJEB39610,393,,neonate,28.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,4.374
+SAMEA7097230,PRJEB39610,393,,infant,31.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,4.536
+SAMEA7097231,PRJEB39610,393,,infant,40.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,2.943
+SAMEA7097232,PRJEB39610,393,,infant,50.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.68
+SAMEA7097233,PRJEB39610,393,,infant,57.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,1.024
+SAMEA7097234,PRJEB39610,393,,infant,65.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,7.245
+SAMEA7097235,PRJEB39610,393,,infant,70.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,7.252
+SAMEA7097236,PRJEB39610,393,,infant,74.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,2.726
+SAMEA7097237,PRJEB39610,393,,infant,83.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,2.222
+SAMEA7097238,PRJEB39610,393,,infant,108.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.503
+SAMEA7097239,PRJEB39610,393,,infant,128.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,2.187
+SAMEA7096794,PRJEB39610,394,0 - 1 month,neonate,7.0,female,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,3.465
+SAMEA7096798,PRJEB39610,394,0 - 1 month,neonate,25.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.308
+SAMEA7096801,PRJEB39610,394,1 - 6 months,infant,38.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.722
+SAMEA7096795,PRJEB39610,394,,neonate,9.0,female,GB,preterm_nicu,NoNEC,,,no,2015,primary,1.0,0.426
+SAMEA7096796,PRJEB39610,394,,neonate,14.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.299
+SAMEA7096797,PRJEB39610,394,,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.921
+SAMEA7096799,PRJEB39610,394,,neonate,27.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.022
+SAMEA7096800,PRJEB39610,394,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.9
+SAMEA7096802,PRJEB39610,394,,infant,45.0,female,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,4.249
+SAMEA7096803,PRJEB39610,394,,infant,64.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.206
+SAMEA7096804,PRJEB39610,394,,infant,72.0,female,GB,preterm_nicu,NoNEC,,,no,2015,primary,1.0,1.364
+SAMEA7096805,PRJEB39610,394,,infant,82.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.125
+SAMEA7096806,PRJEB39610,394,,infant,107.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.255
+SAMEA7096807,PRJEB39610,394,,infant,113.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,6.928
+SAMEA7096808,PRJEB39610,394,,infant,156.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.867
+SAMEA7096809,PRJEB39610,394,,infant,162.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.189
+SAMEA7097343,PRJEB39610,395,,neonate,9.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,3.898
+SAMEA7097344,PRJEB39610,395,,neonate,11.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,4.241
+SAMEA7097345,PRJEB39610,395,,neonate,12.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,0.844
+SAMEA7097346,PRJEB39610,395,,infant,40.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,0.488
+SAMEA7097347,PRJEB39610,395,,infant,50.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,5.391
+SAMEA7097348,PRJEB39610,395,,infant,55.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,1.426
+SAMEA7097349,PRJEB39610,395,,infant,108.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,1.825
+SAMEA7096810,PRJEB39610,403,0 - 1 month,neonate,4.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.214
+SAMEA7096811,PRJEB39610,403,0 - 1 month,neonate,12.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.814
+SAMEA7096815,PRJEB39610,403,1 - 6 months,infant,38.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.233
+SAMEA7096818,PRJEB39610,403,6 months - 1 yr,infant,300.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.74
+SAMEA7096812,PRJEB39610,403,,neonate,15.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.626
+SAMEA7096813,PRJEB39610,403,,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.567
+SAMEA7096814,PRJEB39610,403,,infant,30.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.77
+SAMEA7096816,PRJEB39610,403,,infant,46.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.347
+SAMEA7096817,PRJEB39610,403,,infant,59.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.082
+SAMEA7096819,PRJEB39610,405,0 - 1 month,neonate,7.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.709
+SAMEA7096825,PRJEB39610,405,0 - 1 month,neonate,21.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.943
+SAMEA7096829,PRJEB39610,405,1 - 6 months,infant,35.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.543
+SAMEA7096841,PRJEB39610,405,1 yr - 4 yr,infant,374.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.684
+SAMEA7096842,PRJEB39610,405,1 yr - 4 yr,infant,383.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.79
+SAMEA7096839,PRJEB39610,405,6 months - 1 yr,infant,255.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.185
+SAMEA7096820,PRJEB39610,405,,neonate,9.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.196
+SAMEA7096821,PRJEB39610,405,,neonate,12.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.436
+SAMEA7096822,PRJEB39610,405,,neonate,14.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.455
+SAMEA7096823,PRJEB39610,405,,neonate,17.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.335
+SAMEA7096824,PRJEB39610,405,,neonate,19.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,5.625
+SAMEA7096826,PRJEB39610,405,,neonate,23.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.406
+SAMEA7096827,PRJEB39610,405,,neonate,27.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,5.335
+SAMEA7096828,PRJEB39610,405,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.578
+SAMEA7096830,PRJEB39610,405,,infant,42.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.895
+SAMEA7096831,PRJEB39610,405,,infant,49.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.933
+SAMEA7096832,PRJEB39610,405,,infant,56.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.028
+SAMEA7096833,PRJEB39610,405,,infant,63.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.783
+SAMEA7096834,PRJEB39610,405,,infant,84.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.386
+SAMEA7096835,PRJEB39610,405,,infant,111.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.623
+SAMEA7096836,PRJEB39610,405,,infant,119.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.699
+SAMEA7096837,PRJEB39610,405,,infant,125.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.888
+SAMEA7096838,PRJEB39610,405,,infant,132.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.474
+SAMEA7096840,PRJEB39610,405,,infant,300.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.714
+SAMEA7097240,PRJEB39610,408,,neonate,8.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,4.086
+SAMEA7097241,PRJEB39610,408,,neonate,13.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,3.026
+SAMEA7097242,PRJEB39610,408,,neonate,15.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,8.268
+SAMEA7097243,PRJEB39610,408,,neonate,20.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,3.389
+SAMEA7097244,PRJEB39610,408,,neonate,21.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,3.409
+SAMEA7097245,PRJEB39610,408,,neonate,25.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,3.851
+SAMEA7097246,PRJEB39610,408,,neonate,27.0,male,GB,nec,PreNEC,,,no,2015,primary,1.0,8.059
+SAMEA7097247,PRJEB39610,408,,infant,29.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,4.27
+SAMEA7097248,PRJEB39610,408,,infant,37.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,1.023
+SAMEA7097249,PRJEB39610,408,,infant,43.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,0.518
+SAMEA7097250,PRJEB39610,408,,infant,53.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.744
+SAMEA7097251,PRJEB39610,408,,infant,67.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.115
+SAMEA7097252,PRJEB39610,408,,infant,76.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.263
+SAMEA7097253,PRJEB39610,408,,infant,88.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,4.917
+SAMEA7097254,PRJEB39610,408,,infant,94.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,6.732
+SAMEA7097255,PRJEB39610,408,,infant,100.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,2.989
+SAMEA7097256,PRJEB39610,408,,infant,123.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.179
+SAMEA7097257,PRJEB39610,408,,infant,126.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.8
+SAMEA7097258,PRJEB39610,408,,infant,137.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.904
+SAMEA7097259,PRJEB39610,408,,infant,158.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,1.503
+SAMEA7097260,PRJEB39610,408,,infant,171.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.0
+SAMEA7097261,PRJEB39610,408,,infant,192.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,3.489
+SAMEA7097262,PRJEB39610,408,,infant,244.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.905
+SAMEA7097263,PRJEB39610,408,,infant,339.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,3.739
+SAMEA7097264,PRJEB39610,408,,infant,393.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.616
+SAMEA7097350,PRJEB39610,410,,neonate,0.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,1.679
+SAMEA7097351,PRJEB39610,410,,neonate,7.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,5.081
+SAMEA7097352,PRJEB39610,410,,neonate,8.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,2.413
+SAMEA7097353,PRJEB39610,410,,neonate,11.0,male,GB,nec,PreNEC,,,yes,2015,primary,1.0,5.674
+SAMEA7097354,PRJEB39610,410,,neonate,14.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,3.967
+SAMEA7097355,PRJEB39610,410,,neonate,16.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,3.018
+SAMEA7097356,PRJEB39610,410,,neonate,20.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,1.495
+SAMEA7097357,PRJEB39610,410,,infant,31.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,6.27
+SAMEA7097358,PRJEB39610,410,,infant,37.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,2.019
+SAMEA7097359,PRJEB39610,410,,infant,44.0,male,GB,nec,PostNEC,,,yes,2015,primary,1.0,4.409
+SAMEA7097360,PRJEB39610,410,,infant,58.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.545
+SAMEA7097361,PRJEB39610,410,,infant,64.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,3.376
+SAMEA7097362,PRJEB39610,410,,infant,73.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,1.423
+SAMEA7097363,PRJEB39610,410,,infant,80.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,8.5
+SAMEA7097364,PRJEB39610,410,,infant,88.0,male,GB,nec,PostNEC,,,no,2015,primary,1.0,1.892
+SAMEA7097365,PRJEB39610,410,,infant,96.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,1.803
+SAMEA7097366,PRJEB39610,410,,infant,102.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,6.539
+SAMEA7097367,PRJEB39610,410,,infant,109.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,0.991
+SAMEA7097368,PRJEB39610,410,,infant,188.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,1.961
+SAMEA7097265,PRJEB39610,415,,neonate,9.0,female,GB,nec,PostNEC,,,yes,2015,primary,1.0,2.721
+SAMEA7097266,PRJEB39610,415,,neonate,10.0,female,GB,nec,PostNEC,,,yes,2015,primary,1.0,6.635
+SAMEA7097267,PRJEB39610,415,,neonate,16.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,1.24
+SAMEA7097268,PRJEB39610,415,,neonate,18.0,female,GB,nec,PostNEC,,,yes,2015,primary,1.0,3.457
+SAMEA7097269,PRJEB39610,415,,neonate,20.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,2.13
+SAMEA7097270,PRJEB39610,415,,neonate,23.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,3.355
+SAMEA7097271,PRJEB39610,415,,neonate,25.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,2.555
+SAMEA7097272,PRJEB39610,415,,neonate,27.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,6.172
+SAMEA7097273,PRJEB39610,415,,infant,33.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,4.824
+SAMEA7097274,PRJEB39610,415,,infant,37.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,2.543
+SAMEA7097275,PRJEB39610,415,,infant,52.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,6.506
+SAMEA7097276,PRJEB39610,415,,infant,55.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,8.597
+SAMEA7097277,PRJEB39610,415,,infant,59.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,2.557
+SAMEA7097278,PRJEB39610,415,,infant,65.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,4.016
+SAMEA7097279,PRJEB39610,415,,infant,72.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,5.625
+SAMEA7096843,PRJEB39610,420,0 - 1 month,neonate,6.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,1.057
+SAMEA7096845,PRJEB39610,420,0 - 1 month,neonate,17.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,1.299
+SAMEA7096851,PRJEB39610,420,1 - 6 months,infant,67.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.961
+SAMEA7096854,PRJEB39610,420,1 yr - 4 yr,infant,416.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,8.267
+SAMEA7096855,PRJEB39610,420,1 yr - 4 yr,infant,475.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.66
+SAMEA7096844,PRJEB39610,420,,neonate,7.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,4.543
+SAMEA7096846,PRJEB39610,420,,neonate,19.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,4.282
+SAMEA7096847,PRJEB39610,420,,neonate,21.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,2.644
+SAMEA7096848,PRJEB39610,420,,neonate,26.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,4.622
+SAMEA7096849,PRJEB39610,420,,neonate,28.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.314
+SAMEA7096850,PRJEB39610,420,,infant,30.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,8.3
+SAMEA7096852,PRJEB39610,420,,infant,78.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.887
+SAMEA7096853,PRJEB39610,420,,infant,106.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,0.866
+SAMEA7096856,PRJEB39610,422,0 - 1 month,neonate,12.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,5.457
+SAMEA7096858,PRJEB39610,422,0 - 1 month,neonate,25.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,8.217
+SAMEA7096859,PRJEB39610,422,1 - 6 months,infant,34.0,male,GB,healthy_control,NoNEC,,,yes,2015,primary,1.0,3.579
+SAMEA7096857,PRJEB39610,422,,neonate,14.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,7.003
+SAMEA7096860,PRJEB39610,422,,infant,45.0,male,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,6.699
+SAMEA7096861,PRJEB39610,422,,infant,51.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.47
+SAMEA7096862,PRJEB39610,422,,infant,60.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.637
+SAMEA7096863,PRJEB39610,422,,infant,71.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.397
+SAMEA7096864,PRJEB39610,422,,infant,102.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.659
+SAMEA7096866,PRJEB39610,423,0 - 1 month,neonate,14.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,4.296
+SAMEA7096869,PRJEB39610,423,0 - 1 month,infant,30.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,0.951
+SAMEA7096870,PRJEB39610,423,1 - 6 months,infant,52.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.46
+SAMEA7096865,PRJEB39610,423,,neonate,12.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,1.734
+SAMEA7096867,PRJEB39610,423,,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,3.255
+SAMEA7096868,PRJEB39610,423,,neonate,26.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.024
+SAMEA7096871,PRJEB39610,423,,infant,60.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.03
+SAMEA7096872,PRJEB39610,423,,infant,67.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.633
+SAMEA7096873,PRJEB39610,423,,infant,74.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,6.423
+SAMEA7096874,PRJEB39610,423,,infant,81.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.64
+SAMEA7096875,PRJEB39610,423,,infant,92.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.537
+SAMEA7096876,PRJEB39610,423,,infant,98.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.128
+SAMEA7096877,PRJEB39610,423,,infant,104.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.508
+SAMEA7097280,PRJEB39610,424,,neonate,8.0,female,GB,nec,PreNEC,,,no,2015,primary,1.0,4.572
+SAMEA7097281,PRJEB39610,424,,neonate,14.0,female,GB,nec,PostNEC,,,yes,2015,primary,1.0,2.987
+SAMEA7097282,PRJEB39610,424,,neonate,23.0,female,GB,nec,PostNEC,,,yes,2015,primary,1.0,3.122
+SAMEA7097283,PRJEB39610,424,,infant,33.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,0.76
+SAMEA7097284,PRJEB39610,424,,infant,40.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,4.272
+SAMEA7097285,PRJEB39610,424,,infant,41.0,female,GB,nec,PostNEC,,,no,2015,primary,1.0,4.276
+SAMEA7097286,PRJEB39610,424,,infant,47.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,2.656
+SAMEA7097287,PRJEB39610,424,,infant,54.0,female,GB,nec,PostNEC,,,yes,2016,primary,1.0,2.332
+SAMEA7097288,PRJEB39610,424,,infant,61.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,2.887
+SAMEA7097289,PRJEB39610,424,,infant,74.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,2.306
+SAMEA7097290,PRJEB39610,424,,infant,85.0,female,GB,nec,PostNEC,,,yes,2016,primary,1.0,3.501
+SAMEA7097291,PRJEB39610,424,,infant,92.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,3.475
+SAMEA7097292,PRJEB39610,424,,infant,101.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,3.938
+SAMEA7097293,PRJEB39610,424,,infant,106.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,3.78
+SAMEA7097294,PRJEB39610,424,,infant,190.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,3.891
+SAMEA7097295,PRJEB39610,424,,infant,226.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,3.432
+SAMEA7097296,PRJEB39610,424,,infant,232.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,3.131
+SAMEA7097297,PRJEB39610,424,,infant,317.0,female,GB,nec,PostNEC,,,no,2016,primary,1.0,7.95
+SAMEA7096878,PRJEB39610,431,0 - 1 month,neonate,5.0,female,GB,healthy_control,NoNEC,,,no,2015,primary,1.0,2.815
+SAMEA7096881,PRJEB39610,431,0 - 1 month,neonate,13.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.629
+SAMEA7096888,PRJEB39610,431,1 - 6 months,infant,40.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.622
+SAMEA7096898,PRJEB39610,431,6 months - 1 yr,infant,233.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.937
+SAMEA7096879,PRJEB39610,431,,neonate,8.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.98
+SAMEA7096880,PRJEB39610,431,,neonate,11.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,3.726
+SAMEA7096882,PRJEB39610,431,,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.74
+SAMEA7096883,PRJEB39610,431,,neonate,17.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.604
+SAMEA7096884,PRJEB39610,431,,neonate,20.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,3.009
+SAMEA7096885,PRJEB39610,431,,neonate,20.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,5.881
+SAMEA7096886,PRJEB39610,431,,neonate,27.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,2.098
+SAMEA7096887,PRJEB39610,431,,infant,30.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,3.419
+SAMEA7096889,PRJEB39610,431,,infant,48.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.97
+SAMEA7096890,PRJEB39610,431,,infant,55.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.385
+SAMEA7096891,PRJEB39610,431,,infant,63.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.075
+SAMEA7096892,PRJEB39610,431,,infant,71.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.345
+SAMEA7096893,PRJEB39610,431,,infant,80.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,6.051
+SAMEA7096894,PRJEB39610,431,,infant,86.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.65
+SAMEA7096895,PRJEB39610,431,,infant,93.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.289
+SAMEA7096896,PRJEB39610,431,,infant,99.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.389
+SAMEA7096897,PRJEB39610,431,,infant,168.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.751
+SAMEA7096899,PRJEB39610,431,,infant,343.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.678
+SAMEA7096900,PRJEB39610,440,0 - 1 month,neonate,11.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,6.097
+SAMEA7096906,PRJEB39610,440,0 - 1 month,neonate,26.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.377
+SAMEA7096908,PRJEB39610,440,1 - 6 months,infant,34.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.179
+SAMEA7096920,PRJEB39610,440,1 yr - 4 yr,infant,403.0,female,GB,preterm_nicu,NoNEC,,,no,2017,primary,1.0,0.215
+SAMEA7096901,PRJEB39610,440,,neonate,13.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.787
+SAMEA7096902,PRJEB39610,440,,neonate,17.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.852
+SAMEA7096903,PRJEB39610,440,,neonate,19.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.391
+SAMEA7096904,PRJEB39610,440,,neonate,21.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.656
+SAMEA7096905,PRJEB39610,440,,neonate,24.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.596
+SAMEA7096907,PRJEB39610,440,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.929
+SAMEA7096909,PRJEB39610,440,,infant,42.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.693
+SAMEA7096910,PRJEB39610,440,,infant,53.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.263
+SAMEA7096911,PRJEB39610,440,,infant,60.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.222
+SAMEA7096912,PRJEB39610,440,,infant,68.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.918
+SAMEA7096913,PRJEB39610,440,,infant,73.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.018
+SAMEA7096914,PRJEB39610,440,,infant,80.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,0.883
+SAMEA7096915,PRJEB39610,440,,infant,96.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.245
+SAMEA7096916,PRJEB39610,440,,infant,102.0,female,GB,preterm_nicu,NoNEC,,,no,2016,primary,1.0,0.073
+SAMEA7096917,PRJEB39610,440,,infant,110.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.297
+SAMEA7096919,PRJEB39610,440,,infant,116.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.383
+SAMEA7096921,PRJEB39610,447,0 - 1 month,neonate,10.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.588
+SAMEA7096924,PRJEB39610,447,0 - 1 month,neonate,20.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.504
+SAMEA7096925,PRJEB39610,447,1 - 6 months,infant,40.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,3.745
+SAMEA7096934,PRJEB39610,447,1 yr - 4 yr,infant,501.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.318
+SAMEA7096930,PRJEB39610,447,6 months - 1 yr,infant,201.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.941
+SAMEA7096933,PRJEB39610,447,6 months - 1 yr,infant,252.0,female,GB,preterm_nicu,NoNEC,,,no,2016,primary,1.0,0.767
+SAMEA7096922,PRJEB39610,447,,neonate,11.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,4.24
+SAMEA7096923,PRJEB39610,447,,neonate,17.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.674
+SAMEA7096926,PRJEB39610,447,,infant,46.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.349
+SAMEA7096927,PRJEB39610,447,,infant,53.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.406
+SAMEA7096928,PRJEB39610,447,,infant,61.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.349
+SAMEA7096929,PRJEB39610,447,,infant,69.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.553
+SAMEA7096931,PRJEB39610,447,,infant,207.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.362
+SAMEA7096932,PRJEB39610,447,,infant,217.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.388
+SAMEA7096935,PRJEB39610,450,0 - 1 month,neonate,9.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,2.824
+SAMEA7096936,PRJEB39610,450,0 - 1 month,neonate,11.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,1.572
+SAMEA7096943,PRJEB39610,450,1 - 6 months,infant,41.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.088
+SAMEA7096949,PRJEB39610,450,6 months - 1 yr,infant,222.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.16
+SAMEA7096937,PRJEB39610,450,,neonate,14.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.188
+SAMEA7096938,PRJEB39610,450,,neonate,18.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.834
+SAMEA7096939,PRJEB39610,450,,neonate,21.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.912
+SAMEA7096940,PRJEB39610,450,,neonate,25.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.646
+SAMEA7096941,PRJEB39610,450,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.008
+SAMEA7096942,PRJEB39610,450,,infant,31.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.812
+SAMEA7096944,PRJEB39610,450,,infant,54.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.927
+SAMEA7096945,PRJEB39610,450,,infant,60.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.207
+SAMEA7096946,PRJEB39610,450,,infant,149.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.866
+SAMEA7096947,PRJEB39610,450,,infant,153.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.226
+SAMEA7096948,PRJEB39610,450,,infant,176.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,6.026
+SAMEA7096950,PRJEB39610,450,,infant,230.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.193
+SAMEA7097298,PRJEB39610,451,,neonate,6.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,4.903
+SAMEA7097299,PRJEB39610,451,,neonate,8.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,0.962
+SAMEA7097300,PRJEB39610,451,,neonate,10.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,1.653
+SAMEA7097301,PRJEB39610,451,,neonate,23.0,male,GB,nec,PreNEC,,,yes,2016,primary,1.0,3.285
+SAMEA7097302,PRJEB39610,451,,neonate,25.0,male,GB,nec,PreNEC,,,yes,2016,primary,1.0,7.181
+SAMEA7097303,PRJEB39610,451,,neonate,27.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,1.55
+SAMEA7097304,PRJEB39610,451,,infant,38.0,male,GB,nec,PostNEC,,,yes,2016,primary,1.0,1.626
+SAMEA7097305,PRJEB39610,451,,infant,48.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,3.497
+SAMEA7097306,PRJEB39610,451,,infant,57.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,3.417
+SAMEA7097307,PRJEB39610,451,,infant,88.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,2.606
+SAMEA7097308,PRJEB39610,451,,infant,95.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,1.791
+SAMEA7097309,PRJEB39610,451,,infant,106.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,3.811
+SAMEA7096951,PRJEB39610,457,0 - 1 month,neonate,9.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.48
+SAMEA7096956,PRJEB39610,457,0 - 1 month,neonate,21.0,male,GB,preterm_nicu,NoNEC,,,no,2016,primary,1.0,0.283
+SAMEA7096962,PRJEB39610,457,1 - 6 months,infant,38.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,0.853
+SAMEA7096952,PRJEB39610,457,,neonate,12.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.763
+SAMEA7096953,PRJEB39610,457,,neonate,15.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.322
+SAMEA7096954,PRJEB39610,457,,neonate,17.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.269
+SAMEA7096955,PRJEB39610,457,,neonate,19.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,8.025
+SAMEA7096957,PRJEB39610,457,,neonate,23.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.011
+SAMEA7096958,PRJEB39610,457,,neonate,25.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.248
+SAMEA7096959,PRJEB39610,457,,neonate,27.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.002
+SAMEA7096960,PRJEB39610,457,,infant,29.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.338
+SAMEA7096961,PRJEB39610,457,,infant,31.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.977
+SAMEA7096963,PRJEB39610,457,,infant,45.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.45
+SAMEA7096964,PRJEB39610,457,,infant,51.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.675
+SAMEA7096965,PRJEB39610,457,,infant,63.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.28
+SAMEA7096966,PRJEB39610,463,0 - 1 month,neonate,8.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.294
+SAMEA7096967,PRJEB39610,463,0 - 1 month,neonate,13.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,0.995
+SAMEA7096972,PRJEB39610,463,1 - 6 months,infant,35.0,male,GB,preterm_nicu,NoNEC,,,no,2016,primary,1.0,0.154
+SAMEA7096968,PRJEB39610,463,,neonate,16.0,male,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,3.109
+SAMEA7096969,PRJEB39610,463,,neonate,20.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.742
+SAMEA7096970,PRJEB39610,463,,neonate,26.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.297
+SAMEA7096971,PRJEB39610,463,,neonate,28.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,6.847
+SAMEA7096973,PRJEB39610,463,,infant,41.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.186
+SAMEA7096974,PRJEB39610,465,0 - 1 month,neonate,21.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.229
+SAMEA7097093,PRJEB39610,465,0 - 1 month,neonate,20.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.53
+SAMEA7096978,PRJEB39610,465,1 - 6 months,infant,32.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.175
+SAMEA7096982,PRJEB39610,465,6 months - 1 yr,infant,187.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.179
+SAMEA7096975,PRJEB39610,465,,neonate,23.0,male,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,1.951
+SAMEA7096976,PRJEB39610,465,,neonate,27.0,male,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,7.317
+SAMEA7096977,PRJEB39610,465,,infant,29.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.243
+SAMEA7096979,PRJEB39610,465,,infant,38.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.759
+SAMEA7096980,PRJEB39610,465,,infant,142.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.199
+SAMEA7096981,PRJEB39610,465,,infant,181.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.29
+SAMEA7096983,PRJEB39610,465,,infant,194.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.259
+SAMEA7096984,PRJEB39610,465,,infant,201.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.636
+SAMEA7096985,PRJEB39610,465,,infant,208.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,7.419
+SAMEA7096986,PRJEB39610,465,,infant,214.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,6.17
+SAMEA7096987,PRJEB39610,465,,infant,219.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.84
+SAMEA7096988,PRJEB39610,465,,infant,230.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.672
+SAMEA7096989,PRJEB39610,465,,infant,240.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.99
+SAMEA7096990,PRJEB39610,465,,infant,251.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.71
+SAMEA7096991,PRJEB39610,465,,infant,258.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.026
+SAMEA7096992,PRJEB39610,465,,infant,274.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.68
+SAMEA7096993,PRJEB39610,465,,infant,280.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.087
+SAMEA7096994,PRJEB39610,465,,infant,327.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.291
+SAMEA7096995,PRJEB39610,465,,infant,341.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.714
+SAMEA7096996,PRJEB39610,465,,infant,365.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.005
+SAMEA7097092,PRJEB39610,465,,neonate,10.0,male,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,7.345
+SAMEA7097094,PRJEB39610,465,,infant,40.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.475
+SAMEA7097095,PRJEB39610,465,,infant,46.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.647
+SAMEA7097096,PRJEB39610,465,,infant,50.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.387
+SAMEA7097097,PRJEB39610,465,,infant,55.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.545
+SAMEA7097098,PRJEB39610,465,,infant,58.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.855
+SAMEA7097099,PRJEB39610,465,,infant,81.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,6.563
+SAMEA7097100,PRJEB39610,465,,infant,89.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.151
+SAMEA7097101,PRJEB39610,465,,infant,93.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.468
+SAMEA7096997,PRJEB39610,473,0 - 1 month,neonate,4.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.096
+SAMEA7096998,PRJEB39610,473,0 - 1 month,neonate,11.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.008
+SAMEA7097004,PRJEB39610,473,1 - 6 months,infant,32.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.472
+SAMEA7096999,PRJEB39610,473,,neonate,13.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.831
+SAMEA7097000,PRJEB39610,473,,neonate,20.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.726
+SAMEA7097001,PRJEB39610,473,,neonate,21.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.115
+SAMEA7097002,PRJEB39610,473,,neonate,25.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.309
+SAMEA7097003,PRJEB39610,473,,neonate,28.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.831
+SAMEA7097005,PRJEB39610,473,,infant,38.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.156
+SAMEA7097006,PRJEB39610,473,,infant,44.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.885
+SAMEA7097007,PRJEB39610,478,0 - 1 month,neonate,5.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.33
+SAMEA7097011,PRJEB39610,478,0 - 1 month,neonate,27.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.306
+SAMEA7097014,PRJEB39610,478,1 - 6 months,infant,38.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.872
+SAMEA7097015,PRJEB39610,478,1 - 6 months,infant,45.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.475
+SAMEA7097008,PRJEB39610,478,,neonate,20.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.01
+SAMEA7097009,PRJEB39610,478,,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.062
+SAMEA7097010,PRJEB39610,478,,neonate,24.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.714
+SAMEA7097012,PRJEB39610,478,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.013
+SAMEA7097013,PRJEB39610,478,,infant,31.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.39
+SAMEA7097016,PRJEB39610,478,,infant,53.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.808
+SAMEA7097017,PRJEB39610,478,,infant,70.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,0.779
+SAMEA7097018,PRJEB39610,478,,infant,77.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.943
+SAMEA7097019,PRJEB39610,478,,infant,80.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.05
+SAMEA7097117,PRJEB39610,479,0 - 1 month,neonate,9.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.249
+SAMEA7097121,PRJEB39610,479,0 - 1 month,neonate,19.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.495
+SAMEA7097123,PRJEB39610,479,1 - 6 months,infant,32.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.75
+SAMEA7097116,PRJEB39610,479,,neonate,3.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,8.66
+SAMEA7097118,PRJEB39610,479,,neonate,12.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,9.047
+SAMEA7097119,PRJEB39610,479,,neonate,14.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.154
+SAMEA7097120,PRJEB39610,479,,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.999
+SAMEA7097122,PRJEB39610,479,,neonate,28.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.857
+SAMEA7097124,PRJEB39610,479,,infant,36.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.747
+SAMEA7097125,PRJEB39610,479,,infant,46.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.628
+SAMEA7097126,PRJEB39610,479,,infant,51.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.671
+SAMEA7097127,PRJEB39610,479,,infant,58.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.46
+SAMEA7097128,PRJEB39610,479,,infant,63.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.047
+SAMEA7097332,PRJEB39610,506,,neonate,7.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,3.952
+SAMEA7097333,PRJEB39610,506,,neonate,12.0,male,GB,nec,PreNEC,,,yes,2016,primary,1.0,2.902
+SAMEA7097334,PRJEB39610,506,,neonate,15.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,2.229
+SAMEA7097335,PRJEB39610,506,,neonate,18.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,6.922
+SAMEA7097336,PRJEB39610,506,,neonate,27.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,1.061
+SAMEA7097337,PRJEB39610,506,,infant,30.0,male,GB,nec,PreNEC,,,yes,2016,primary,1.0,5.238
+SAMEA7097338,PRJEB39610,506,,infant,45.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,5.965
+SAMEA7097339,PRJEB39610,506,,infant,49.0,male,GB,nec,PreNEC,,,no,2016,primary,1.0,3.025
+SAMEA7097340,PRJEB39610,506,,infant,70.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,4.182
+SAMEA7097341,PRJEB39610,506,,infant,72.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,6.475
+SAMEA7097342,PRJEB39610,506,,infant,92.0,male,GB,nec,PostNEC,,,no,2016,primary,1.0,1.479
+SAMEA7097102,PRJEB39610,509,0 - 1 month,neonate,11.0,female,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,0.873
+SAMEA7097103,PRJEB39610,509,0 - 1 month,neonate,15.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.582
+SAMEA7097105,PRJEB39610,509,1 - 6 months,infant,33.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.338
+SAMEA7097104,PRJEB39610,509,,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.453
+SAMEA7097106,PRJEB39610,509,,infant,35.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.762
+SAMEA7097107,PRJEB39610,509,,infant,39.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.532
+SAMEA7097108,PRJEB39610,509,,infant,44.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.258
+SAMEA7097109,PRJEB39610,512,0 - 1 month,neonate,3.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,5.539
+SAMEA7097114,PRJEB39610,512,0 - 1 month,neonate,22.0,male,GB,healthy_control,NoNEC,,,yes,2016,primary,1.0,4.311
+SAMEA7097110,PRJEB39610,512,,neonate,7.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,1.906
+SAMEA7097111,PRJEB39610,512,,neonate,8.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.004
+SAMEA7097112,PRJEB39610,512,,neonate,17.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,3.062
+SAMEA7097113,PRJEB39610,512,,neonate,20.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.759
+SAMEA7097115,PRJEB39610,512,,neonate,25.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,4.857
+SAMEA7097130,PRJEB39610,520,0 - 1 month,neonate,14.0,male,GB,healthy_control,NoNEC,,,no,2016,primary,1.0,2.614
+SAMEA7097133,PRJEB39610,520,0 - 1 month,neonate,23.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.154
+SAMEA7097134,PRJEB39610,520,1 - 6 months,infant,39.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,0.8
+SAMEA7097129,PRJEB39610,520,,neonate,7.0,male,GB,preterm_nicu,NoNEC,,,no,2016,primary,1.0,0.372
+SAMEA7097131,PRJEB39610,520,,neonate,15.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.831
+SAMEA7097132,PRJEB39610,520,,neonate,22.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,5.504
+SAMEA7097135,PRJEB39610,520,,infant,43.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.163
+SAMEA7097136,PRJEB39610,520,,infant,47.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.024
+SAMEA7097137,PRJEB39610,520,,infant,53.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.107
+SAMEA7097138,PRJEB39610,520,,infant,60.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.236
+SAMEA7097139,PRJEB39610,520,,infant,70.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.456
+SAMEA7097140,PRJEB39610,520,,infant,84.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,9.813
+SAMEA7097141,PRJEB39610,520,,infant,90.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.406
+SAMEA7097142,PRJEB39610,520,,infant,94.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.575
+SAMEA7097143,PRJEB39610,520,,infant,102.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.584
+SAMEA7097020,PRJEB39610,534,0 - 1 month,neonate,6.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.705
+SAMEA7097027,PRJEB39610,534,0 - 1 month,neonate,22.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,1.414
+SAMEA7097031,PRJEB39610,534,1 - 6 months,infant,37.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.765
+SAMEA7097021,PRJEB39610,534,,neonate,8.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.791
+SAMEA7097022,PRJEB39610,534,,neonate,12.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,1.547
+SAMEA7097023,PRJEB39610,534,,neonate,14.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.302
+SAMEA7097024,PRJEB39610,534,,neonate,16.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,0.813
+SAMEA7097025,PRJEB39610,534,,neonate,18.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.857
+SAMEA7097026,PRJEB39610,534,,neonate,20.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.741
+SAMEA7097028,PRJEB39610,534,,neonate,24.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,1.861
+SAMEA7097029,PRJEB39610,534,,neonate,28.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.959
+SAMEA7097030,PRJEB39610,534,,infant,30.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.721
+SAMEA7097032,PRJEB39610,534,,infant,50.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.393
+SAMEA7097033,PRJEB39610,534,,infant,57.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.871
+SAMEA7097034,PRJEB39610,534,,infant,63.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.937
+SAMEA7097035,PRJEB39610,534,,infant,86.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.753
+SAMEA7097036,PRJEB39610,535,0 - 1 month,neonate,5.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.223
+SAMEA7097040,PRJEB39610,535,0 - 1 month,neonate,16.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,0.965
+SAMEA7097045,PRJEB39610,535,1 - 6 months,infant,38.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.904
+SAMEA7097037,PRJEB39610,535,,neonate,7.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.127
+SAMEA7097038,PRJEB39610,535,,neonate,12.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.582
+SAMEA7097039,PRJEB39610,535,,neonate,14.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.611
+SAMEA7097041,PRJEB39610,535,,neonate,18.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.206
+SAMEA7097042,PRJEB39610,535,,neonate,25.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,12.247
+SAMEA7097043,PRJEB39610,535,,neonate,28.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.253
+SAMEA7097044,PRJEB39610,535,,infant,31.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.163
+SAMEA7097046,PRJEB39610,535,,infant,44.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,0.806
+SAMEA7097145,PRJEB39610,547,0 - 1 month,neonate,6.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,6.307
+SAMEA7097150,PRJEB39610,547,0 - 1 month,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.163
+SAMEA7097152,PRJEB39610,547,1 - 6 months,infant,41.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.264
+SAMEA7097144,PRJEB39610,547,,neonate,0.0,female,GB,preterm_nicu,NoNEC,,,yes,2017,primary,1.0,0.815
+SAMEA7097146,PRJEB39610,547,,neonate,10.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.728
+SAMEA7097147,PRJEB39610,547,,neonate,14.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,4.251
+SAMEA7097148,PRJEB39610,547,,neonate,17.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,7.867
+SAMEA7097149,PRJEB39610,547,,neonate,21.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.892
+SAMEA7097151,PRJEB39610,547,,neonate,28.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.128
+SAMEA7097153,PRJEB39610,547,,infant,50.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,7.408
+SAMEA7097154,PRJEB39610,547,,infant,59.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,13.222
+SAMEA7097156,PRJEB39610,552,0 - 1 month,neonate,6.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.071
+SAMEA7097158,PRJEB39610,552,0 - 1 month,neonate,14.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.254
+SAMEA7097161,PRJEB39610,552,1 - 6 months,infant,39.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.305
+SAMEA7097155,PRJEB39610,552,,neonate,4.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,0.926
+SAMEA7097157,PRJEB39610,552,,neonate,13.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.073
+SAMEA7097159,PRJEB39610,552,,neonate,25.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.696
+SAMEA7097160,PRJEB39610,552,,infant,29.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,6.263
+SAMEA7097162,PRJEB39610,552,,infant,51.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,12.019
+SAMEA7097163,PRJEB39610,552,,infant,58.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.61
+SAMEA7097164,PRJEB39610,552,,infant,66.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.986
+SAMEA7097165,PRJEB39610,552,,infant,72.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.81
+SAMEA7097166,PRJEB39610,552,,infant,80.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.877
+SAMEA7097167,PRJEB39610,552,,infant,89.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.841
+SAMEA7097168,PRJEB39610,552,,infant,97.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.827
+SAMEA7097170,PRJEB39610,554,0 - 1 month,neonate,6.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,1.605
+SAMEA7097173,PRJEB39610,554,0 - 1 month,neonate,15.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.369
+SAMEA7097177,PRJEB39610,554,1 - 6 months,infant,33.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.243
+SAMEA7097169,PRJEB39610,554,,neonate,2.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,1.376
+SAMEA7097171,PRJEB39610,554,,neonate,8.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,5.214
+SAMEA7097172,PRJEB39610,554,,neonate,11.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.318
+SAMEA7097174,PRJEB39610,554,,neonate,19.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,1.851
+SAMEA7097175,PRJEB39610,554,,neonate,22.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.648
+SAMEA7097176,PRJEB39610,554,,neonate,25.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.981
+SAMEA7097178,PRJEB39610,554,,infant,51.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.971
+SAMEA7097179,PRJEB39610,554,,infant,73.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.743
+SAMEA7097180,PRJEB39610,554,,infant,82.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.718
+SAMEA7097181,PRJEB39610,554,,infant,89.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.801
+SAMEA7097182,PRJEB39610,554,,infant,109.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,6.126
+SAMEA7097048,PRJEB39610,559,0 - 1 month,neonate,10.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.619
+SAMEA7097053,PRJEB39610,559,0 - 1 month,neonate,26.0,male,GB,preterm_nicu,NoNEC,,,yes,2017,primary,1.0,0.596
+SAMEA7097055,PRJEB39610,559,1 - 6 months,infant,43.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,10.483
+SAMEA7097063,PRJEB39610,559,1 - 6 months,infant,101.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.917
+SAMEA7097047,PRJEB39610,559,,neonate,5.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.366
+SAMEA7097049,PRJEB39610,559,,neonate,12.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.319
+SAMEA7097050,PRJEB39610,559,,neonate,17.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.638
+SAMEA7097051,PRJEB39610,559,,neonate,21.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.4
+SAMEA7097052,PRJEB39610,559,,neonate,23.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.606
+SAMEA7097054,PRJEB39610,559,,infant,30.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.813
+SAMEA7097056,PRJEB39610,559,,infant,50.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.429
+SAMEA7097057,PRJEB39610,559,,infant,57.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.739
+SAMEA7097058,PRJEB39610,559,,infant,69.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.739
+SAMEA7097059,PRJEB39610,559,,infant,75.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.892
+SAMEA7097060,PRJEB39610,559,,infant,81.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.139
+SAMEA7097061,PRJEB39610,559,,infant,86.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,9.566
+SAMEA7097062,PRJEB39610,559,,infant,93.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.005
+SAMEA7097064,PRJEB39610,559,,infant,108.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.173
+SAMEA7097065,PRJEB39610,559,,infant,114.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.892
+SAMEA7097066,PRJEB39610,559,,infant,123.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.109
+SAMEA7097067,PRJEB39610,559,,infant,146.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.275
+SAMEA7097183,PRJEB39610,575,0 - 1 month,neonate,8.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.858
+SAMEA7097189,PRJEB39610,575,0 - 1 month,infant,30.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,10.191
+SAMEA7097190,PRJEB39610,575,1 - 6 months,infant,36.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.849
+SAMEA7097184,PRJEB39610,575,,neonate,9.0,female,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,2.455
+SAMEA7097185,PRJEB39610,575,,neonate,17.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,7.369
+SAMEA7097186,PRJEB39610,575,,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,11.051
+SAMEA7097187,PRJEB39610,575,,neonate,25.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.797
+SAMEA7097188,PRJEB39610,575,,neonate,26.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.985
+SAMEA7097310,PRJEB39610,580,,neonate,4.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,0.935
+SAMEA7097311,PRJEB39610,580,,neonate,6.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,4.449
+SAMEA7097312,PRJEB39610,580,,neonate,8.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.561
+SAMEA7097313,PRJEB39610,580,,neonate,10.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.854
+SAMEA7097314,PRJEB39610,580,,neonate,12.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.989
+SAMEA7097315,PRJEB39610,580,,neonate,16.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,1.418
+SAMEA7097316,PRJEB39610,580,,neonate,18.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,1.193
+SAMEA7097317,PRJEB39610,580,,neonate,20.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.986
+SAMEA7097318,PRJEB39610,580,,neonate,22.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.57
+SAMEA7097319,PRJEB39610,580,,neonate,24.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,0.743
+SAMEA7097320,PRJEB39610,580,,neonate,28.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,4.298
+SAMEA7097321,PRJEB39610,580,,infant,30.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.128
+SAMEA7097322,PRJEB39610,580,,infant,37.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,3.832
+SAMEA7097191,PRJEB39610,593,0 - 1 month,neonate,4.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.805
+SAMEA7097193,PRJEB39610,593,0 - 1 month,neonate,11.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.809
+SAMEA7097197,PRJEB39610,593,1 - 6 months,infant,39.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.199
+SAMEA7097192,PRJEB39610,593,,neonate,8.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.491
+SAMEA7097194,PRJEB39610,593,,neonate,12.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,6.714
+SAMEA7097195,PRJEB39610,593,,neonate,18.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.272
+SAMEA7097196,PRJEB39610,593,,neonate,28.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.811
+SAMEA7097198,PRJEB39610,594,0 - 1 month,neonate,10.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.614
+SAMEA7097204,PRJEB39610,594,0 - 1 month,infant,29.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,0.841
+SAMEA7097205,PRJEB39610,594,1 - 6 months,infant,34.0,male,GB,healthy_control,NoNEC,,,yes,2017,primary,1.0,3.544
+SAMEA7097199,PRJEB39610,594,,neonate,12.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.243
+SAMEA7097200,PRJEB39610,594,,neonate,14.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.018
+SAMEA7097201,PRJEB39610,594,,neonate,17.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.008
+SAMEA7097202,PRJEB39610,594,,neonate,21.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.123
+SAMEA7097203,PRJEB39610,594,,neonate,25.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.59
+SAMEA7097206,PRJEB39610,594,,infant,54.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,3.692
+SAMEA7097207,PRJEB39610,594,,infant,71.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.842
+SAMEA7097208,PRJEB39610,594,,infant,80.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,0.971
+SAMEA7097209,PRJEB39610,594,,infant,89.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.979
+SAMEA7097210,PRJEB39610,594,,infant,108.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,6.54
+SAMEA7097211,PRJEB39610,594,,infant,117.0,male,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,7.36
+SAMEA7097378,PRJEB39610,596,,neonate,4.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,2.061
+SAMEA7097379,PRJEB39610,596,,neonate,8.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,4.634
+SAMEA7097380,PRJEB39610,596,,neonate,10.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,3.846
+SAMEA7097381,PRJEB39610,596,,neonate,13.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,1.88
+SAMEA7097382,PRJEB39610,596,,neonate,25.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,3.828
+SAMEA7097383,PRJEB39610,596,,neonate,27.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,3.185
+SAMEA7097384,PRJEB39610,596,,infant,30.0,male,GB,nec,PreNEC,,,no,2017,primary,1.0,0.919
+SAMEA7097385,PRJEB39610,596,,infant,38.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,12.686
+SAMEA7097386,PRJEB39610,596,,infant,41.0,male,GB,nec,PreNEC,,,yes,2017,primary,1.0,2.445
+SAMEA7097387,PRJEB39610,596,,infant,64.0,male,GB,nec,PostNEC,,,no,2017,primary,1.0,5.724
+SAMEA7097388,PRJEB39610,596,,infant,71.0,male,GB,nec,PostNEC,,,no,2017,primary,1.0,2.593
+SAMEA7097389,PRJEB39610,596,,infant,78.0,male,GB,nec,PostNEC,,,yes,2017,primary,1.0,4.534
+SAMEA7097390,PRJEB39610,596,,infant,85.0,male,GB,nec,PostNEC,,,no,2017,primary,1.0,1.984
+SAMEA7097391,PRJEB39610,596,,infant,92.0,male,GB,nec,PostNEC,,,no,2017,primary,1.0,1.211
+SAMEA7097392,PRJEB39610,596,,infant,111.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,1.662
+SAMEA7097393,PRJEB39610,596,,infant,118.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,1.094
+SAMEA7097394,PRJEB39610,596,,infant,120.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,1.775
+SAMEA7097068,PRJEB39610,610,0 - 1 month,neonate,16.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,1.312
+SAMEA7097069,PRJEB39610,610,0 - 1 month,neonate,18.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.113
+SAMEA7097074,PRJEB39610,610,1 - 6 months,infant,45.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,5.365
+SAMEA7097070,PRJEB39610,610,,neonate,20.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.533
+SAMEA7097071,PRJEB39610,610,,neonate,22.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.844
+SAMEA7097072,PRJEB39610,610,,neonate,28.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,4.963
+SAMEA7097073,PRJEB39610,610,,infant,30.0,female,GB,healthy_control,NoNEC,,,no,2017,primary,1.0,2.292
+SAMEA7097075,PRJEB39610,610,,infant,52.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,1.017
+SAMEA7097076,PRJEB39610,610,,infant,59.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,4.035
+SAMEA7097077,PRJEB39610,610,,infant,72.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,3.331
+SAMEA7097078,PRJEB39610,610,,infant,80.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,3.47
+SAMEA7097079,PRJEB39610,610,,infant,88.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,0.663
+SAMEA7097080,PRJEB39610,610,,infant,93.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,3.516
+SAMEA7097081,PRJEB39610,610,,infant,173.0,female,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,2.854
+SAMEA7097395,PRJEB39610,629,,neonate,17.0,male,GB,nec,PostNEC,,,yes,2018,primary,1.0,0.883
+SAMEA7097396,PRJEB39610,629,,neonate,21.0,male,GB,nec,PostNEC,,,yes,2018,primary,1.0,1.068
+SAMEA7097397,PRJEB39610,629,,neonate,23.0,male,GB,nec,PostNEC,,,yes,2018,primary,1.0,1.665
+SAMEA7097398,PRJEB39610,629,,neonate,28.0,male,GB,nec,PostNEC,,,yes,2018,primary,1.0,1.974
+SAMEA7097399,PRJEB39610,629,,infant,32.0,male,GB,nec,PostNEC,,,yes,2018,primary,1.0,2.323
+SAMEA7097400,PRJEB39610,629,,infant,42.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,3.06
+SAMEA7097401,PRJEB39610,629,,infant,49.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,2.351
+SAMEA7097402,PRJEB39610,629,,infant,59.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,1.595
+SAMEA7097403,PRJEB39610,629,,infant,69.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,2.736
+SAMEA7097404,PRJEB39610,629,,infant,74.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,3.34
+SAMEA7097405,PRJEB39610,629,,infant,80.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,2.884
+SAMEA7097406,PRJEB39610,629,,infant,93.0,male,GB,nec,PostNEC,,,no,2018,primary,1.0,4.393
+SAMEA7097323,PRJEB39610,636,,neonate,9.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,5.527
+SAMEA7097324,PRJEB39610,636,,neonate,11.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,3.035
+SAMEA7097325,PRJEB39610,636,,neonate,13.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,2.316
+SAMEA7097326,PRJEB39610,636,,infant,30.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,3.913
+SAMEA7097327,PRJEB39610,636,,infant,40.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,3.252
+SAMEA7097328,PRJEB39610,636,,infant,47.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,3.382
+SAMEA7097329,PRJEB39610,636,,infant,53.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,5.4
+SAMEA7097330,PRJEB39610,636,,infant,60.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,4.227
+SAMEA7097331,PRJEB39610,636,,infant,67.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,3.472
+SAMEA7097083,PRJEB39610,682,0 - 1 month,neonate,9.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,1.193
+SAMEA7097086,PRJEB39610,682,0 - 1 month,neonate,17.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,4.596
+SAMEA7097089,PRJEB39610,682,1 - 6 months,infant,33.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,6.749
+SAMEA7097082,PRJEB39610,682,,neonate,6.0,male,GB,preterm_nicu,NoNEC,,,no,2018,primary,1.0,2.793
+SAMEA7097084,PRJEB39610,682,,neonate,14.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,3.873
+SAMEA7097085,PRJEB39610,682,,neonate,15.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,3.038
+SAMEA7097087,PRJEB39610,682,,neonate,22.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,3.1
+SAMEA7097088,PRJEB39610,682,,neonate,26.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,6.405
+SAMEA7097090,PRJEB39610,682,,infant,41.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,2.851
+SAMEA7097091,PRJEB39610,682,,infant,49.0,male,GB,healthy_control,NoNEC,,,no,2018,primary,1.0,1.311
+SAMEA7097369,PRJEB39610,712,,neonate,5.0,male,GB,nec,PreNEC,,,no,2018,primary,1.0,4.242
+SAMEA7097370,PRJEB39610,712,,neonate,13.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,3.694
+SAMEA7097371,PRJEB39610,712,,neonate,16.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,5.034
+SAMEA7097372,PRJEB39610,712,,neonate,19.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,3.783
+SAMEA7097373,PRJEB39610,712,,neonate,22.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,2.007
+SAMEA7097374,PRJEB39610,712,,neonate,25.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,3.733
+SAMEA7097375,PRJEB39610,712,,neonate,27.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,3.461
+SAMEA7097376,PRJEB39610,712,,infant,34.0,male,GB,nec,PreNEC,,,yes,2018,primary,1.0,8.917
+SAMEA7097377,PRJEB39610,712,,infant,45.0,male,GB,nec,PreNEC,,,yes,2019,primary,1.0,0.135
