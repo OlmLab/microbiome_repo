@@ -1,0 +1,85 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA115956018,PRJEB75958,P01,0,adult,19358.2,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.369
+SAMEA115956019,PRJEB75958,P01,1,adult,19358.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.369
+SAMEA115956021,PRJEB75958,P01,24,adult,19358.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.397
+SAMEA115956020,PRJEB75958,P01,8,adult,19358.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.394
+SAMEA115956022,PRJEB75958,P02,0,adult,17532.0,female,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.367
+SAMEA115956023,PRJEB75958,P02,1,adult,17532.0,female,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.492
+SAMEA115956024,PRJEB75958,P02,8,adult,17532.0,female,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.414
+SAMEA115956025,PRJEB75958,P03,0,adult,19706.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.508
+SAMEA115956027,PRJEB75958,P03,24,adult,19706.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.365
+SAMEA115956026,PRJEB75958,P03,7,adult,19706.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.391
+SAMEA115956028,PRJEB75958,P04,0,adult,13504.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.495
+SAMEA115956029,PRJEB75958,P04,1,adult,13504.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.315
+SAMEA115956031,PRJEB75958,P04,24,adult,13504.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.476
+SAMEA115956030,PRJEB75958,P04,8,adult,13504.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.491
+SAMEA115956032,PRJEB75958,P05,0,adult,19358.2,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.426
+SAMEA115956033,PRJEB75958,P06,0,adult,10234.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.377
+SAMEA115956035,PRJEB75958,P06,24,adult,10234.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.618
+SAMEA115956034,PRJEB75958,P06,7,adult,10234.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.394
+SAMEA115956036,PRJEB75958,P07,0,adult,19358.2,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.416
+SAMEA115956037,PRJEB75958,P07,1,adult,19358.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.456
+SAMEA115956039,PRJEB75958,P07,24,adult,19358.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.716
+SAMEA115956038,PRJEB75958,P07,8,adult,19358.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.552
+SAMEA115956040,PRJEB75958,P08,0,adult,17532.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.17
+SAMEA115956042,PRJEB75958,P08,24,adult,17532.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.193
+SAMEA115956041,PRJEB75958,P08,7,adult,17532.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.167
+SAMEA115956043,PRJEB75958,P09,0,adult,21549.8,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.517
+SAMEA115956045,PRJEB75958,P09,24,adult,21549.8,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.436
+SAMEA115956044,PRJEB75958,P09,7,adult,21549.8,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.151
+SAMEA115956046,PRJEB75958,P10,0,adult,12417.9,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.231
+SAMEA115956048,PRJEB75958,P10,24,adult,12417.9,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.154
+SAMEA115956047,PRJEB75958,P10,7,adult,12417.9,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.568
+SAMEA115956049,PRJEB75958,P11,0,adult,19706.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.488
+SAMEA115956050,PRJEB75958,P11,1,adult,19706.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.487
+SAMEA115956052,PRJEB75958,P11,24,adult,19706.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.121
+SAMEA115956051,PRJEB75958,P11,8,adult,19706.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.2
+SAMEA115956053,PRJEB75958,P12,0,adult,15330.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.464
+SAMEA115956054,PRJEB75958,P12,1,adult,15330.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.673
+SAMEA115956056,PRJEB75958,P12,24,adult,15330.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.19
+SAMEA115956055,PRJEB75958,P12,8,adult,15330.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.652
+SAMEA115956057,PRJEB75958,P13,0,adult,14975.2,female,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.169
+SAMEA115956058,PRJEB75958,P14,0,adult,21177.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.236
+SAMEA115956059,PRJEB75958,P14,1,adult,21177.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.234
+SAMEA115956061,PRJEB75958,P14,24,adult,21177.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.644
+SAMEA115956060,PRJEB75958,P14,8,adult,21177.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.181
+SAMEA115956062,PRJEB75958,P16,0,adult,15696.8,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.501
+SAMEA115956064,PRJEB75958,P16,24,adult,15696.8,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.503
+SAMEA115956063,PRJEB75958,P16,7,adult,15696.8,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.454
+SAMEA115956065,PRJEB75958,P17,0,adult,21549.8,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.554
+SAMEA115956066,PRJEB75958,P17,1,adult,21549.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.966
+SAMEA115956068,PRJEB75958,P17,24,adult,21549.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.546
+SAMEA115956067,PRJEB75958,P17,8,adult,21549.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.538
+SAMEA115956069,PRJEB75958,P18,0,adult,18627.8,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.505
+SAMEA115956070,PRJEB75958,P18,1,adult,18627.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.518
+SAMEA115956072,PRJEB75958,P18,24,adult,18627.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.499
+SAMEA115956071,PRJEB75958,P18,8,adult,18627.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.699
+SAMEA115956073,PRJEB75958,P19,0,adult,13149.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.559
+SAMEA115956075,PRJEB75958,P19,24,adult,13149.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.341
+SAMEA115956074,PRJEB75958,P19,7,adult,13149.0,male,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.485
+SAMEA115956076,PRJEB75958,P20,0,adult,9131.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.514
+SAMEA115956077,PRJEB75958,P20,1,adult,9131.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.551
+SAMEA115956079,PRJEB75958,P20,24,adult,9131.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.572
+SAMEA115956078,PRJEB75958,P20,8,adult,9131.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.456
+SAMEA115956080,PRJEB75958,P21,0,adult,17897.2,,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.553
+SAMEA115956082,PRJEB75958,P21,24,adult,17897.2,,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.704
+SAMEA115956081,PRJEB75958,P21,7,adult,17897.2,,ES,other_infection,HIV infection,placebo,,,2017,primary,1.0,0.669
+SAMEA115956083,PRJEB75958,P22,0,adult,11312.8,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.506
+SAMEA115956084,PRJEB75958,P23,0,adult,21549.8,female,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.28
+SAMEA115956085,PRJEB75958,P23,1,adult,21549.8,female,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.886
+SAMEA115956087,PRJEB75958,P23,24,adult,21549.8,female,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.22
+SAMEA115956086,PRJEB75958,P23,8,adult,21549.8,female,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.759
+SAMEA115956088,PRJEB75958,P24,1,adult,20434.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.188
+SAMEA115956090,PRJEB75958,P24,24,adult,20434.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.245
+SAMEA115956089,PRJEB75958,P24,8,adult,20434.0,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.159
+SAMEA115956091,PRJEB75958,P25,0,adult,12043.2,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.193
+SAMEA115956092,PRJEB75958,P26,0,adult,16791.5,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.168
+SAMEA115956093,PRJEB75958,P27,0,elderly,25190.0,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.152
+SAMEA115956094,PRJEB75958,P29,0,adult,15696.8,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.21
+SAMEA115956095,PRJEB75958,P29,1,adult,15696.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.2
+SAMEA115956097,PRJEB75958,P29,24,adult,15696.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.566
+SAMEA115956096,PRJEB75958,P29,8,adult,15696.8,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.2
+SAMEA115956098,PRJEB75958,P30,0,adult,14975.2,male,ES,other_infection,HIV infection,no_intervention,timepoint = 0 (before intervention start),,2017,primary,1.0,0.222
+SAMEA115956099,PRJEB75958,P30,1,adult,14975.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.178
+SAMEA115956101,PRJEB75958,P30,24,adult,14975.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.216
+SAMEA115956100,PRJEB75958,P30,8,adult,14975.2,male,ES,other_infection,HIV infection,fmt,,,2017,primary,1.0,0.314

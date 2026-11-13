@@ -1,0 +1,264 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN52657071,PRJNA1344899,C_01,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.381
+SAMN52657134,PRJNA1344899,C_01,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.602
+SAMN52657184,PRJNA1344899,C_01,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.223
+SAMN52657072,PRJNA1344899,C_02,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,7.376
+SAMN52657073,PRJNA1344899,C_03,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.896
+SAMN52657074,PRJNA1344899,C_04,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,7.406
+SAMN52657135,PRJNA1344899,C_04,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.08
+SAMN52657185,PRJNA1344899,C_04,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.313
+SAMN52657075,PRJNA1344899,C_05,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.058
+SAMN52657076,PRJNA1344899,C_06,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.935
+SAMN52657136,PRJNA1344899,C_06,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.199
+SAMN52657186,PRJNA1344899,C_06,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,9.427
+SAMN52657137,PRJNA1344899,C_07,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,7.271
+SAMN52657187,PRJNA1344899,C_07,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.213
+SAMN52657077,PRJNA1344899,C_08,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.232
+SAMN52657138,PRJNA1344899,C_08,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.861
+SAMN52657188,PRJNA1344899,C_08,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,7.975
+SAMN52657078,PRJNA1344899,C_10,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.688
+SAMN52657139,PRJNA1344899,C_10,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.195
+SAMN52657189,PRJNA1344899,C_10,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.794
+SAMN52657079,PRJNA1344899,C_11,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.569
+SAMN52657140,PRJNA1344899,C_11,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.365
+SAMN52657190,PRJNA1344899,C_11,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.32
+SAMN52657080,PRJNA1344899,C_12,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.63
+SAMN52657141,PRJNA1344899,C_12,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.934
+SAMN52657191,PRJNA1344899,C_12,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.075
+SAMN52657081,PRJNA1344899,C_13,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.137
+SAMN52657142,PRJNA1344899,C_13,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.91
+SAMN52657192,PRJNA1344899,C_13,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.479
+SAMN52657082,PRJNA1344899,C_14,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.555
+SAMN52657083,PRJNA1344899,C_15,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.986
+SAMN52657143,PRJNA1344899,C_15,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.972
+SAMN52657193,PRJNA1344899,C_15,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.196
+SAMN52657084,PRJNA1344899,C_17,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.672
+SAMN52657085,PRJNA1344899,C_18,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.57
+SAMN52657144,PRJNA1344899,C_18,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.348
+SAMN52657194,PRJNA1344899,C_18,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,5.993
+SAMN52657086,PRJNA1344899,C_19,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.703
+SAMN52657145,PRJNA1344899,C_19,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.934
+SAMN52657195,PRJNA1344899,C_19,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.283
+SAMN52657087,PRJNA1344899,C_20,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.973
+SAMN52657088,PRJNA1344899,C_21,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.252
+SAMN52657089,PRJNA1344899,C_23,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.907
+SAMN52657146,PRJNA1344899,C_23,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,5.882
+SAMN52657196,PRJNA1344899,C_23,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.497
+SAMN52657090,PRJNA1344899,C_25,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.277
+SAMN52657091,PRJNA1344899,C_29,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,7.045
+SAMN52657147,PRJNA1344899,C_29,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.443
+SAMN52657197,PRJNA1344899,C_29,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.381
+SAMN52657092,PRJNA1344899,C_30,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.534
+SAMN52657093,PRJNA1344899,C_31,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.5
+SAMN52657148,PRJNA1344899,C_31,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,8.395
+SAMN52657094,PRJNA1344899,C_32,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.631
+SAMN52657095,PRJNA1344899,C_33,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,5.941
+SAMN52657149,PRJNA1344899,C_33,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,7.222
+SAMN52657150,PRJNA1344899,C_35,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.953
+SAMN52657198,PRJNA1344899,C_35,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,7.287
+SAMN52657096,PRJNA1344899,C_38,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,7.053
+SAMN52657151,PRJNA1344899,C_38,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.229
+SAMN52657152,PRJNA1344899,C_39,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.829
+SAMN52657199,PRJNA1344899,C_39,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,8.467
+SAMN52657153,PRJNA1344899,C_40,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.624
+SAMN52657200,PRJNA1344899,C_40,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,7.056
+SAMN52657097,PRJNA1344899,C_42,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.442
+SAMN52657154,PRJNA1344899,C_42,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.014
+SAMN52657098,PRJNA1344899,C_43,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.686
+SAMN52657155,PRJNA1344899,C_43,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.064
+SAMN52657201,PRJNA1344899,C_43,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,10.139
+SAMN52657099,PRJNA1344899,C_45,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.563
+SAMN52657100,PRJNA1344899,C_47,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.207
+SAMN52657156,PRJNA1344899,C_49,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.054
+SAMN52657202,PRJNA1344899,C_49,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.323
+SAMN52657101,PRJNA1344899,C_50,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.931
+SAMN52657157,PRJNA1344899,C_50,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.206
+SAMN52657203,PRJNA1344899,C_50,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,7.028
+SAMN52657102,PRJNA1344899,C_51,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.636
+SAMN52657103,PRJNA1344899,C_52,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.973
+SAMN52657158,PRJNA1344899,C_52,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.835
+SAMN52657204,PRJNA1344899,C_52,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.382
+SAMN52657104,PRJNA1344899,C_53,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,5.939
+SAMN52657159,PRJNA1344899,C_53,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.427
+SAMN52657205,PRJNA1344899,C_53,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.168
+SAMN52657105,PRJNA1344899,C_55,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,7.183
+SAMN52657160,PRJNA1344899,C_55,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.979
+SAMN52657206,PRJNA1344899,C_55,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,7.685
+SAMN52657106,PRJNA1344899,C_56,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,7.738
+SAMN52657161,PRJNA1344899,C_56,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.417
+SAMN52657107,PRJNA1344899,C_57,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.246
+SAMN52657162,PRJNA1344899,C_57,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.434
+SAMN52657207,PRJNA1344899,C_57,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.231
+SAMN52657108,PRJNA1344899,C_58,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,7.073
+SAMN52657109,PRJNA1344899,C_59,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.948
+SAMN52657163,PRJNA1344899,C_59,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.994
+SAMN52657208,PRJNA1344899,C_59,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.275
+SAMN52657110,PRJNA1344899,C_60,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,5.937
+SAMN52657164,PRJNA1344899,C_60,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.932
+SAMN52657209,PRJNA1344899,C_60,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.276
+SAMN52657111,PRJNA1344899,C_61,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.317
+SAMN52657165,PRJNA1344899,C_61,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.327
+SAMN52657210,PRJNA1344899,C_61,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.225
+SAMN52657112,PRJNA1344899,C_62,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.846
+SAMN52657166,PRJNA1344899,C_62,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.383
+SAMN52657113,PRJNA1344899,C_63,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.718
+SAMN52657167,PRJNA1344899,C_63,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,8.107
+SAMN52657211,PRJNA1344899,C_63,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,8.546
+SAMN52657114,PRJNA1344899,C_64,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.267
+SAMN52657168,PRJNA1344899,C_64,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.462
+SAMN52657115,PRJNA1344899,C_65,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,7.612
+SAMN52657169,PRJNA1344899,C_65,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.268
+SAMN52657212,PRJNA1344899,C_65,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.266
+SAMN52657116,PRJNA1344899,C_66,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.144
+SAMN52657170,PRJNA1344899,C_66,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.325
+SAMN52657213,PRJNA1344899,C_66,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.477
+SAMN52657117,PRJNA1344899,C_67,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.398
+SAMN52657171,PRJNA1344899,C_67,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.78
+SAMN52657214,PRJNA1344899,C_67,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,9.904
+SAMN52657118,PRJNA1344899,C_68,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.856
+SAMN52657172,PRJNA1344899,C_68,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.425
+SAMN52657215,PRJNA1344899,C_68,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.277
+SAMN52657119,PRJNA1344899,C_69,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,7.49
+SAMN52657173,PRJNA1344899,C_69,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.269
+SAMN52657216,PRJNA1344899,C_69,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.198
+SAMN52657120,PRJNA1344899,C_7,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.21
+SAMN52657121,PRJNA1344899,C_70,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.69
+SAMN52657122,PRJNA1344899,C_72,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,7.44
+SAMN52657174,PRJNA1344899,C_72,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,5.956
+SAMN52657217,PRJNA1344899,C_72,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.259
+SAMN52657123,PRJNA1344899,C_73,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.771
+SAMN52657175,PRJNA1344899,C_73,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.482
+SAMN52657218,PRJNA1344899,C_73,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,10.857
+SAMN52657124,PRJNA1344899,C_74,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.958
+SAMN52657176,PRJNA1344899,C_74,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,5.915
+SAMN52657219,PRJNA1344899,C_74,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,8.112
+SAMN52657125,PRJNA1344899,C_75,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.395
+SAMN52657177,PRJNA1344899,C_75,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.033
+SAMN52657220,PRJNA1344899,C_75,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.226
+SAMN52657126,PRJNA1344899,C_77,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.229
+SAMN52657178,PRJNA1344899,C_77,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.855
+SAMN52657221,PRJNA1344899,C_77,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.378
+SAMN52657127,PRJNA1344899,C_79,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.271
+SAMN52657179,PRJNA1344899,C_79,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,7.059
+SAMN52657222,PRJNA1344899,C_79,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,9.818
+SAMN52657128,PRJNA1344899,C_81,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,6.445
+SAMN52657129,PRJNA1344899,C_82,baseline,child,,,CN,obesity,obesity,no_intervention,,,2024-09,primary,1.0,7.041
+SAMN52657130,PRJNA1344899,C_83,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.418
+SAMN52657180,PRJNA1344899,C_83,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.998
+SAMN52657223,PRJNA1344899,C_83,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.176
+SAMN52657131,PRJNA1344899,C_84,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.777
+SAMN52657181,PRJNA1344899,C_84,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.489
+SAMN52657224,PRJNA1344899,C_84,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.184
+SAMN52657132,PRJNA1344899,C_85,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.061
+SAMN52657182,PRJNA1344899,C_85,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.815
+SAMN52657225,PRJNA1344899,C_85,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,8.71
+SAMN52657133,PRJNA1344899,C_86,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.785
+SAMN52657183,PRJNA1344899,C_86,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.171
+SAMN52657226,PRJNA1344899,C_86,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.634
+SAMN52657284,PRJNA1344899,Child_214,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.985
+SAMN52657285,PRJNA1344899,Child_215,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.376
+SAMN52657286,PRJNA1344899,Child_216,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,5.921
+SAMN52657287,PRJNA1344899,Child_217,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.093
+SAMN52657288,PRJNA1344899,Child_218,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.234
+SAMN52657289,PRJNA1344899,Child_219,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.224
+SAMN52657290,PRJNA1344899,Child_220,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.304
+SAMN52657291,PRJNA1344899,Child_221,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.671
+SAMN52657292,PRJNA1344899,Child_222,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.231
+SAMN52657293,PRJNA1344899,Child_223,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.607
+SAMN52657294,PRJNA1344899,Child_224,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.194
+SAMN52657295,PRJNA1344899,Child_225,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.83
+SAMN52657296,PRJNA1344899,Child_226,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.699
+SAMN52657297,PRJNA1344899,Child_227,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.673
+SAMN52657298,PRJNA1344899,Child_228,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.33
+SAMN52657299,PRJNA1344899,Child_229,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.73
+SAMN52657300,PRJNA1344899,Child_230,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.699
+SAMN52657301,PRJNA1344899,Child_231,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,5.99
+SAMN52657302,PRJNA1344899,Child_232,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.639
+SAMN52657303,PRJNA1344899,Child_233,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.257
+SAMN52657304,PRJNA1344899,Child_234,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.102
+SAMN52657305,PRJNA1344899,Child_235,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.107
+SAMN52657306,PRJNA1344899,Child_236,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.071
+SAMN52657307,PRJNA1344899,Child_237,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.5
+SAMN52657308,PRJNA1344899,Child_238,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.413
+SAMN52657309,PRJNA1344899,Child_239,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.024
+SAMN52657310,PRJNA1344899,Child_240,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.725
+SAMN52657311,PRJNA1344899,Child_241,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.704
+SAMN52657312,PRJNA1344899,Child_242,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.271
+SAMN52657313,PRJNA1344899,Child_243,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.797
+SAMN52657314,PRJNA1344899,Child_244,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.466
+SAMN52657315,PRJNA1344899,Child_245,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.299
+SAMN52657316,PRJNA1344899,Child_246,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.676
+SAMN52657317,PRJNA1344899,Child_247,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.285
+SAMN52657318,PRJNA1344899,Child_248,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.089
+SAMN52657319,PRJNA1344899,Child_249,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.188
+SAMN52657320,PRJNA1344899,Child_250,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.129
+SAMN52657321,PRJNA1344899,Child_251,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.338
+SAMN52657322,PRJNA1344899,Child_252,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.106
+SAMN52657323,PRJNA1344899,Child_253,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.068
+SAMN52657324,PRJNA1344899,Child_254,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.522
+SAMN52657325,PRJNA1344899,Child_255,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.042
+SAMN52657326,PRJNA1344899,Child_256,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.947
+SAMN52657327,PRJNA1344899,Child_257,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.26
+SAMN52657328,PRJNA1344899,Child_258,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.193
+SAMN52657329,PRJNA1344899,Child_259,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.204
+SAMN52657330,PRJNA1344899,Child_260,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.478
+SAMN52657331,PRJNA1344899,Child_261,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.526
+SAMN52657332,PRJNA1344899,Child_262,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,7.016
+SAMN52657333,PRJNA1344899,Child_263,,child,,,CN,healthy_control,healthy,no_intervention,,,2024-09,primary,1.0,6.594
+SAMN52657227,PRJNA1344899,E_01,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.329
+SAMN52657249,PRJNA1344899,E_01,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.06
+SAMN52657267,PRJNA1344899,E_01,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.623
+SAMN52657228,PRJNA1344899,E_02,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.247
+SAMN52657250,PRJNA1344899,E_02,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.056
+SAMN52657268,PRJNA1344899,E_02,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,7.292
+SAMN52657229,PRJNA1344899,E_03,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,5.938
+SAMN52657251,PRJNA1344899,E_03,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,7.656
+SAMN52657269,PRJNA1344899,E_03,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.113
+SAMN52657230,PRJNA1344899,E_07,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,7.034
+SAMN52657252,PRJNA1344899,E_07,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.059
+SAMN52657270,PRJNA1344899,E_07,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.425
+SAMN52657231,PRJNA1344899,E_08,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.922
+SAMN52657253,PRJNA1344899,E_08,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.125
+SAMN52657232,PRJNA1344899,E_09,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.342
+SAMN52657254,PRJNA1344899,E_09,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,10.105
+SAMN52657271,PRJNA1344899,E_09,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.652
+SAMN52657233,PRJNA1344899,E_10,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.303
+SAMN52657255,PRJNA1344899,E_10,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,15.505
+SAMN52657272,PRJNA1344899,E_10,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.657
+SAMN52657234,PRJNA1344899,E_11,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.94
+SAMN52657256,PRJNA1344899,E_11,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,8.089
+SAMN52657273,PRJNA1344899,E_11,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.394
+SAMN52657235,PRJNA1344899,E_14,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.821
+SAMN52657274,PRJNA1344899,E_14,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,7.038
+SAMN52657236,PRJNA1344899,E_19,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.083
+SAMN52657257,PRJNA1344899,E_19,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.43
+SAMN52657275,PRJNA1344899,E_19,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,7.099
+SAMN52657237,PRJNA1344899,E_20,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.946
+SAMN52657276,PRJNA1344899,E_20,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,7.954
+SAMN52657238,PRJNA1344899,E_21,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.108
+SAMN52657258,PRJNA1344899,E_21,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.674
+SAMN52657277,PRJNA1344899,E_21,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,7.75
+SAMN52657239,PRJNA1344899,E_22,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.214
+SAMN52657259,PRJNA1344899,E_22,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.362
+SAMN52657278,PRJNA1344899,E_22,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,10.013
+SAMN52657240,PRJNA1344899,E_23,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.151
+SAMN52657260,PRJNA1344899,E_23,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,5.917
+SAMN52657241,PRJNA1344899,E_24,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.304
+SAMN52657261,PRJNA1344899,E_24,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.275
+SAMN52657279,PRJNA1344899,E_24,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,6.209
+SAMN52657242,PRJNA1344899,E_27,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.453
+SAMN52657262,PRJNA1344899,E_27,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.695
+SAMN52657280,PRJNA1344899,E_27,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,11.069
+SAMN52657243,PRJNA1344899,E_28,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.335
+SAMN52657281,PRJNA1344899,E_28,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,6.743
+SAMN52657244,PRJNA1344899,E_29,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.52
+SAMN52657282,PRJNA1344899,E_29,month 3,child,,,CN,obesity,PlaM3,placebo,,,2024-09,primary,1.0,7.243
+SAMN52657245,PRJNA1344899,E_30,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,5.91
+SAMN52657263,PRJNA1344899,E_30,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,6.16
+SAMN52657246,PRJNA1344899,E_32,baseline,child,,,CN,obesity,ProM0,probiotic,,,2024-09,primary,1.0,6.638
+SAMN52657264,PRJNA1344899,E_32,month 2,child,,,CN,obesity,ProM2,probiotic,,,2024-09,primary,1.0,6.728
+SAMN52657283,PRJNA1344899,E_32,month 3,child,,,CN,obesity,ProM3,probiotic,,,2024-09,primary,1.0,7.458
+SAMN52657247,PRJNA1344899,E_34,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,6.541
+SAMN52657265,PRJNA1344899,E_34,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.38
+SAMN52657248,PRJNA1344899,E_37,baseline,child,,,CN,obesity,PlaM0,placebo,,,2024-09,primary,1.0,7.204
+SAMN52657266,PRJNA1344899,E_37,month 2,child,,,CN,obesity,PlaM2,placebo,,,2024-09,primary,1.0,7.257

@@ -1,0 +1,426 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN07583764,PRJNA400628,UMB01,00,,,female,US,healthy_control,healthy,,,,2015-10-26,primary,3.0,25.207
+SAMN07583768,PRJNA400628,UMB01,04,,,female,US,healthy_control,healthy,,,,2016-02-09,primary,2.0,4.306
+SAMN07583769,PRJNA400628,UMB01,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-10,primary,3.0,13.851
+SAMN07583773,PRJNA400628,UMB01,09,,,female,US,healthy_control,healthy,,,,2016-07-12,primary,5.0,6.437
+SAMN07583774,PRJNA400628,UMB01,10,,,female,US,healthy_control,healthy,,,,2016-08-17,primary,4.0,12.2
+SAMN07583765,PRJNA400628,UMB01,,,,female,US,healthy_control,healthy,,,,2015-11-11,primary,4.0,6.188
+SAMN07583766,PRJNA400628,UMB01,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-07,primary,2.0,13.285
+SAMN07583767,PRJNA400628,UMB01,,,,female,US,healthy_control,healthy,,,,2016-01-06,primary,4.0,17.303
+SAMN07583770,PRJNA400628,UMB01,,,,female,US,healthy_control,healthy,,,,2016-04-06,primary,4.0,6.272
+SAMN07583771,PRJNA400628,UMB01,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-04,primary,3.0,9.447
+SAMN07583772,PRJNA400628,UMB01,,,,female,US,healthy_control,healthy,,,,2016-06-08,primary,4.0,12.415
+SAMN07583775,PRJNA400628,UMB01,,,,female,US,healthy_control,healthy,,,,2016-09-14,primary,5.0,7.865
+SAMN07583776,PRJNA400628,UMB01,,,,female,US,healthy_control,healthy,,,,,primary,4.0,5.609
+SAMN32575373,PRJNA400628,UMB01,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-11,primary,1.0,2.206
+SAMN32575374,PRJNA400628,UMB01,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-11,primary,1.0,3.305
+SAMN32575375,PRJNA400628,UMB01,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-06,primary,1.0,2.744
+SAMN32575376,PRJNA400628,UMB01,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-06,primary,1.0,2.648
+SAMN07583777,PRJNA400628,UMB02,00,,,female,US,healthy_control,healthy,,,,2015-09-01,primary,3.0,21.363
+SAMN07583781,PRJNA400628,UMB02,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-05,primary,2.0,13.897
+SAMN07583782,PRJNA400628,UMB02,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,13.338
+SAMN07583786,PRJNA400628,UMB02,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,2.0,10.964
+SAMN07583787,PRJNA400628,UMB02,10,,,female,US,healthy_control,healthy,,,,2016-07-11,primary,4.0,14.113
+SAMN07583778,PRJNA400628,UMB02,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-10-06,primary,2.0,13.581
+SAMN07583779,PRJNA400628,UMB02,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-02,primary,3.0,4.939
+SAMN07583780,PRJNA400628,UMB02,,,,female,US,healthy_control,healthy,,,,2015-12-08,primary,4.0,5.934
+SAMN07583783,PRJNA400628,UMB02,,,,female,US,healthy_control,healthy,,,,,primary,4.0,7.277
+SAMN07583784,PRJNA400628,UMB02,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-05,primary,3.0,20.546
+SAMN07583785,PRJNA400628,UMB02,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-01,primary,3.0,15.903
+SAMN07583788,PRJNA400628,UMB02,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-07,primary,3.0,8.231
+SAMN07583789,PRJNA400628,UMB02,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-11,primary,2.0,10.519
+SAMN07583790,PRJNA400628,UMB03,00,,,female,US,healthy_control,healthy,,,,2015-08-31,primary,4.0,14.107
+SAMN07583794,PRJNA400628,UMB03,04,,,female,US,healthy_control,healthy,,,,2016-01-06,primary,4.0,13.482
+SAMN07583795,PRJNA400628,UMB03,05,,,female,US,healthy_control,healthy,,,,2016-02-07,primary,2.0,14.167
+SAMN07583799,PRJNA400628,UMB03,09,,,female,US,healthy_control,healthy,,,,2016-06-08,primary,4.0,15.809
+SAMN07583800,PRJNA400628,UMB03,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,6.583
+SAMN07583791,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,2015-10-12,primary,4.0,16.357
+SAMN07583792,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,2015-11-04,primary,3.0,21.264
+SAMN07583793,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,2015-12-11,primary,2.0,7.085
+SAMN07583796,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,,primary,3.0,14.482
+SAMN07583797,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,,primary,4.0,11.976
+SAMN07583798,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,2016-05-09,primary,4.0,11.054
+SAMN07583801,PRJNA400628,UMB03,,,,female,US,healthy_control,healthy,,,,,primary,2.0,10.582
+SAMN07583802,PRJNA400628,UMB03,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-12,primary,3.0,25.069
+SAMN07583803,PRJNA400628,UMB04,00,,,female,US,,non-recurrer,,,,2015-09-14,primary,3.0,24.535
+SAMN07583807,PRJNA400628,UMB04,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-05,primary,3.0,20.807
+SAMN07583808,PRJNA400628,UMB04,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-02-10,primary,2.0,13.218
+SAMN07583812,PRJNA400628,UMB04,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,2.0,15.332
+SAMN07583804,PRJNA400628,UMB04,,,,female,US,,non-recurrer,,,,2015-10-07,primary,4.0,7.439
+SAMN07583805,PRJNA400628,UMB04,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-03,primary,3.0,10.02
+SAMN07583806,PRJNA400628,UMB04,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-07,primary,3.0,16.077
+SAMN07583809,PRJNA400628,UMB04,,,,female,US,,non-recurrer,,,,2016-03-06,primary,3.0,15.723
+SAMN07583810,PRJNA400628,UMB04,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,42.711
+SAMN07583811,PRJNA400628,UMB04,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,13.24
+SAMN07583816,PRJNA400628,UMB05,00,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-09-30,primary,2.0,16.129
+SAMN07583820,PRJNA400628,UMB05,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-02-02,primary,2.0,21.66
+SAMN07583821,PRJNA400628,UMB05,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-02,primary,3.0,11.071
+SAMN07583822,PRJNA400628,UMB05,05.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-21,primary,3.0,14.262
+SAMN07583824,PRJNA400628,UMB05,06.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-19,primary,3.0,46.132
+SAMN07583827,PRJNA400628,UMB05,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-11,primary,2.0,3.086
+SAMN07583828,PRJNA400628,UMB05,09.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-19,primary,2.0,2.423
+SAMN07583829,PRJNA400628,UMB05,09.2,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-03,primary,2.0,8.443
+SAMN07583830,PRJNA400628,UMB05,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-08,primary,3.0,13.625
+SAMN07583831,PRJNA400628,UMB05,10.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-15,primary,3.0,15.333
+SAMN07583817,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-02,primary,1.0,5.748
+SAMN07583818,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-01,primary,1.0,3.608
+SAMN07583819,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-04,primary,1.0,4.06
+SAMN07583823,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-04,primary,3.0,10.554
+SAMN07583825,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,14.37
+SAMN07583826,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-01,primary,2.0,7.45
+SAMN07583832,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-12,primary,2.0,3.691
+SAMN07583833,PRJNA400628,UMB05,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-03,primary,2.0,11.377
+SAMN07583834,PRJNA400628,UMB06,00,,,female,US,healthy_control,healthy,,,,2015-10-19,primary,4.0,18.245
+SAMN07583838,PRJNA400628,UMB06,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-09,primary,2.0,11.495
+SAMN07583841,PRJNA400628,UMB06,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-25,primary,3.0,8.508
+SAMN07583842,PRJNA400628,UMB06,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-09,primary,2.0,3.962
+SAMN07583835,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-03,primary,2.0,20.055
+SAMN07583836,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-09,primary,3.0,11.622
+SAMN07583837,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-14,primary,1.0,1.267
+SAMN07583839,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-04,primary,2.0,15.633
+SAMN07583840,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-09,primary,2.0,17.261
+SAMN07583843,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-14,primary,2.0,7.85
+SAMN07583844,PRJNA400628,UMB06,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-12,primary,2.0,7.154
+SAMN07583845,PRJNA400628,UMB07,00,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-09-30,primary,2.0,19.53
+SAMN07583849,PRJNA400628,UMB07,04,,,female,US,healthy_control,healthy,,,,2016-02-08,primary,2.0,5.663
+SAMN07583850,PRJNA400628,UMB07,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-08,primary,2.0,5.96
+SAMN07583854,PRJNA400628,UMB07,09,,,female,US,healthy_control,healthy,,,,2016-07-18,primary,4.0,6.426
+SAMN07583855,PRJNA400628,UMB07,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,13.712
+SAMN07583846,PRJNA400628,UMB07,,,,female,US,healthy_control,healthy,,,,2015-11-03,primary,3.0,23.588
+SAMN07583847,PRJNA400628,UMB07,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,28.972
+SAMN07583848,PRJNA400628,UMB07,,,,female,US,healthy_control,healthy,,,,2016-01-05,primary,4.0,5.832
+SAMN07583851,PRJNA400628,UMB07,,,,female,US,healthy_control,healthy,,,,2016-04-07,primary,4.0,23.251
+SAMN07583852,PRJNA400628,UMB07,,,,female,US,healthy_control,healthy,,,,2016-05-04,primary,3.0,16.073
+SAMN07583853,PRJNA400628,UMB07,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,37.455
+SAMN07583856,PRJNA400628,UMB07,,,,female,US,healthy_control,healthy,,,,2016-09-15,primary,4.0,15.587
+SAMN07583857,PRJNA400628,UMB07,,,,female,US,healthy_control,healthy,,,,2016-10-06,primary,4.0,4.671
+SAMN19697363,PRJNA400628,UMB08,00.1rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.419
+SAMN07583859,PRJNA400628,UMB08,01.1,,,female,US,,recurrer,,,,2015-11-15,primary,2.0,8.421
+SAMN19697366,PRJNA400628,UMB08,02.1rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,1.549
+SAMN19697367,PRJNA400628,UMB08,02.1rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.33
+SAMN07583861,PRJNA400628,UMB08,02.2,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-21,primary,2.0,10.735
+SAMN07583863,PRJNA400628,UMB08,04,,,female,US,,recurrer,,,,2016-02-08,primary,4.0,3.474
+SAMN07583864,PRJNA400628,UMB08,05,,,female,US,,recurrer,,,,2016-03-09,primary,4.0,6.159
+SAMN07583868,PRJNA400628,UMB08,09,,,female,US,,recurrer,,,,2016-07-13,primary,4.0,14.198
+SAMN07583869,PRJNA400628,UMB08,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-31,primary,2.0,3.972
+SAMN07583858,PRJNA400628,UMB08,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-03,primary,2.0,5.049
+SAMN07583860,PRJNA400628,UMB08,,,,female,US,,recurrer,,,,2015-12-06,primary,4.0,8.459
+SAMN07583862,PRJNA400628,UMB08,,,,female,US,,recurrer,,,,2016-01-05,primary,5.0,13.07
+SAMN07583865,PRJNA400628,UMB08,,,,female,US,,recurrer,,,,2016-04-06,primary,4.0,5.26
+SAMN07583866,PRJNA400628,UMB08,,,,female,US,,recurrer,,,,2016-05-02,primary,4.0,8.658
+SAMN07583867,PRJNA400628,UMB08,,,,female,US,,recurrer,,,,2016-06-07,primary,4.0,24.413
+SAMN07583870,PRJNA400628,UMB08,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-11,primary,2.0,7.505
+SAMN07583871,PRJNA400628,UMB08,,,,female,US,,recurrer,,,,,primary,4.0,4.49
+SAMN32575400,PRJNA400628,UMB08,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,1.0,2.257
+SAMN32575401,PRJNA400628,UMB08,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,1.0,2.907
+SAMN32575402,PRJNA400628,UMB08,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-06,primary,1.0,2.462
+SAMN32575403,PRJNA400628,UMB08,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-06,primary,1.0,2.252
+SAMN07583877,PRJNA400628,UMB09,09,,,female,US,healthy_control,healthy,,,,,primary,4.0,4.591
+SAMN07583878,PRJNA400628,UMB09,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,6.729
+SAMN07583872,PRJNA400628,UMB09,,,,female,US,healthy_control,healthy,,,,,primary,3.0,6.828
+SAMN07583874,PRJNA400628,UMB09,,,,female,US,healthy_control,healthy,,,,,primary,4.0,16.665
+SAMN07583875,PRJNA400628,UMB09,,,,female,US,healthy_control,healthy,,,,,primary,3.0,7.839
+SAMN07583876,PRJNA400628,UMB09,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,11.65
+SAMN07583879,PRJNA400628,UMB09,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,40.064
+SAMN07583880,PRJNA400628,UMB09,,,,female,US,healthy_control,healthy,,,,,primary,2.0,5.325
+SAMN19697370,PRJNA400628,UMB10,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.063
+SAMN07583884,PRJNA400628,UMB10,04,,,female,US,,non-recurrer,,,,,primary,3.0,15.754
+SAMN07583885,PRJNA400628,UMB10,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-04,primary,2.0,21.601
+SAMN07583889,PRJNA400628,UMB10,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-07,primary,3.0,13.276
+SAMN07583890,PRJNA400628,UMB10,10,,,female,US,,non-recurrer,,,,2016-09-12,primary,4.0,6.515
+SAMN07583881,PRJNA400628,UMB10,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-06,primary,2.0,10.055
+SAMN07583882,PRJNA400628,UMB10,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,4.901
+SAMN07583883,PRJNA400628,UMB10,,,,female,US,,non-recurrer,,,,2016-02-09,primary,4.0,5.565
+SAMN07583886,PRJNA400628,UMB10,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-04,primary,2.0,14.696
+SAMN07583887,PRJNA400628,UMB10,,,,female,US,,non-recurrer,,,,2016-06-06,primary,4.0,3.03
+SAMN07583888,PRJNA400628,UMB10,,,,female,US,,non-recurrer,,,,2016-07-12,primary,4.0,7.312
+SAMN07583891,PRJNA400628,UMB10,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-20,primary,2.0,9.609
+SAMN07583892,PRJNA400628,UMB10,,,,female,US,,non-recurrer,,,,,primary,4.0,7.55
+SAMN19697372,PRJNA400628,UMB11,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.002
+SAMN07583896,PRJNA400628,UMB11,03.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-02-20,primary,4.0,11.413
+SAMN19697374,PRJNA400628,UMB11,03.1rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,3.142
+SAMN19697375,PRJNA400628,UMB11,03.1rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,4.364
+SAMN07583897,PRJNA400628,UMB11,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-07,primary,3.0,4.6
+SAMN07583898,PRJNA400628,UMB11,04.1,,,female,US,,recurrer,,,,2016-03-22,primary,3.0,22.803
+SAMN07583899,PRJNA400628,UMB11,05,,,female,US,,recurrer,,,,,primary,4.0,15.765
+SAMN07583905,PRJNA400628,UMB11,11,,,female,US,,recurrer,,,,2016-10-06,primary,4.0,8.701
+SAMN07583894,PRJNA400628,UMB11,2,,,female,US,,recurrer,,,,2016-01-05,primary,4.0,10.242
+SAMN07583895,PRJNA400628,UMB11,3,,,female,US,,recurrer,,,,2016-02-08,primary,4.0,14.952
+SAMN07583902,PRJNA400628,UMB11,8,,,female,US,,recurrer,,,,2016-07-11,primary,4.0,6.222
+SAMN07583893,PRJNA400628,UMB11,,,,female,US,,recurrer,,,,2015-12-10,primary,4.0,7.116
+SAMN07583900,PRJNA400628,UMB11,,,,female,US,,recurrer,,,,2016-05-03,primary,5.0,50.754
+SAMN07583901,PRJNA400628,UMB11,,,,female,US,,recurrer,,,,2016-06-06,primary,4.0,12.578
+SAMN07583906,PRJNA400628,UMB11,,,,female,US,,recurrer,,,,,primary,3.0,12.881
+SAMN32575377,PRJNA400628,UMB11,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-10,primary,1.0,2.478
+SAMN32575378,PRJNA400628,UMB11,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-10,primary,1.0,2.938
+SAMN32575379,PRJNA400628,UMB11,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-03,primary,1.0,2.446
+SAMN32575380,PRJNA400628,UMB11,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-03,primary,1.0,2.48
+SAMN32575381,PRJNA400628,UMB11,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-06,primary,1.0,1.509
+SAMN19697378,PRJNA400628,UMB12,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,2.996
+SAMN19697380,PRJNA400628,UMB12,01.1rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,4.218
+SAMN19697381,PRJNA400628,UMB12,01.1rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,1.876
+SAMN07583909,PRJNA400628,UMB12,01.2,,,female,US,,recurrer,,,,2016-01-04,primary,4.0,7.041
+SAMN07583912,PRJNA400628,UMB12,04,,,female,US,,recurrer,,,,,primary,2.0,5.991
+SAMN07583913,PRJNA400628,UMB12,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,23.924
+SAMN07583917,PRJNA400628,UMB12,09,,,female,US,,recurrer,,,,,primary,4.0,10.28
+SAMN07583918,PRJNA400628,UMB12,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-13,primary,3.0,10.905
+SAMN07583907,PRJNA400628,UMB12,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-08,primary,2.0,5.191
+SAMN07583910,PRJNA400628,UMB12,,,,female,US,,recurrer,,,,2016-01-05,primary,4.0,5.921
+SAMN07583911,PRJNA400628,UMB12,,,,female,US,,recurrer,,,,2016-02-09,primary,3.0,13.451
+SAMN07583914,PRJNA400628,UMB12,,,,female,US,,recurrer,,,,,primary,3.0,22.738
+SAMN07583915,PRJNA400628,UMB12,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-08,primary,2.0,14.645
+SAMN07583916,PRJNA400628,UMB12,,,,female,US,,recurrer,,,,2016-07-13,primary,4.0,3.363
+SAMN07583919,PRJNA400628,UMB12,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,1.962
+SAMN07583920,PRJNA400628,UMB12,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,25.459
+SAMN32575382,PRJNA400628,UMB12,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-13,primary,1.0,2.367
+SAMN07583921,PRJNA400628,UMB13,00,,,female,US,healthy_control,healthy,,,,2015-11-18,primary,4.0,12.659
+SAMN07583925,PRJNA400628,UMB13,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-07,primary,2.0,12.61
+SAMN07583926,PRJNA400628,UMB13,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-07,primary,2.0,3.377
+SAMN07583930,PRJNA400628,UMB13,09,,,female,US,healthy_control,healthy,,,,,primary,4.0,2.237
+SAMN07583931,PRJNA400628,UMB13,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-15,primary,2.0,33.439
+SAMN07583922,PRJNA400628,UMB13,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-07,primary,2.0,12.064
+SAMN07583923,PRJNA400628,UMB13,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,9.594
+SAMN07583924,PRJNA400628,UMB13,,,,female,US,healthy_control,healthy,,,,2016-02-10,primary,2.0,2.129
+SAMN07583927,PRJNA400628,UMB13,,,,female,US,healthy_control,healthy,,,,,primary,4.0,17.812
+SAMN07583928,PRJNA400628,UMB13,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-06,primary,3.0,21.264
+SAMN07583929,PRJNA400628,UMB13,,,,female,US,healthy_control,healthy,,,,,primary,4.0,13.406
+SAMN07583932,PRJNA400628,UMB13,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,10.206
+SAMN07583933,PRJNA400628,UMB13,,,,female,US,healthy_control,healthy,,,,,primary,4.0,8.692
+SAMN07583934,PRJNA400628,UMB14,00,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-13,primary,2.0,20.159
+SAMN07583935,PRJNA400628,UMB14,,,,female,US,healthy_control,healthy,,,,2016-01-05,primary,4.0,4.467
+SAMN07583937,PRJNA400628,UMB15,01.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-12-18,primary,2.0,15.814
+SAMN19697387,PRJNA400628,UMB15,01.1rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,5.188
+SAMN07583939,PRJNA400628,UMB15,02.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-19,primary,3.0,4.28
+SAMN07583941,PRJNA400628,UMB15,04,,,female,US,,recurrer,,,,2016-03-09,primary,3.0,42.053
+SAMN07583942,PRJNA400628,UMB15,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,20.793
+SAMN07583946,PRJNA400628,UMB15,09,,,female,US,,recurrer,,,,2016-08-11,primary,4.0,18.733
+SAMN07583947,PRJNA400628,UMB15,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-14,primary,2.0,16.477
+SAMN07583936,PRJNA400628,UMB15,,,,female,US,,recurrer,,,,2015-12-09,primary,3.0,12.993
+SAMN07583938,PRJNA400628,UMB15,,,,female,US,,recurrer,,,,2016-01-05,primary,4.0,16.149
+SAMN07583940,PRJNA400628,UMB15,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-02-10,primary,3.0,4.231
+SAMN07583943,PRJNA400628,UMB15,,,,female,US,,recurrer,,,,,primary,4.0,10.323
+SAMN07583945,PRJNA400628,UMB15,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-13,primary,2.0,12.897
+SAMN07583948,PRJNA400628,UMB15,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-06,primary,2.0,7.323
+SAMN07583949,PRJNA400628,UMB15,,,,female,US,,recurrer,,,,,primary,4.0,25.213
+SAMN19697390,PRJNA400628,UMB16,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.449
+SAMN07583950,PRJNA400628,UMB16,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-06,primary,2.0,21.831
+SAMN07583951,PRJNA400628,UMB16,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-07,primary,2.0,15.346
+SAMN07583952,PRJNA400628,UMB16,,,,female,US,healthy_control,healthy,,,,2016-06-09,primary,4.0,11.491
+SAMN07583956,PRJNA400628,UMB17,04,,,female,US,,non-recurrer,,,,,primary,3.0,13.581
+SAMN07583957,PRJNA400628,UMB17,05,,,female,US,,non-recurrer,,,,2016-04-04,primary,4.0,8.685
+SAMN07583961,PRJNA400628,UMB17,09,,,female,US,,non-recurrer,,,,,primary,4.0,5.983
+SAMN07583962,PRJNA400628,UMB17,10,,,female,US,,non-recurrer,,,,2016-09-12,primary,4.0,5.974
+SAMN07583953,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,17.933
+SAMN07583954,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-01-03,primary,2.0,16.571
+SAMN07583955,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-02-07,primary,2.0,31.983
+SAMN07583958,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,22.473
+SAMN07583959,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-06,primary,3.0,9.662
+SAMN07583960,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-11,primary,3.0,21.712
+SAMN07583963,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-04,primary,2.0,16.241
+SAMN07583964,PRJNA400628,UMB17,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,24.415
+SAMN07583965,PRJNA400628,UMB18,00,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,29.257
+SAMN07583966,PRJNA400628,UMB18,00.1,,,female,US,,recurrer,,,,2016-02-23,primary,3.0,19.582
+SAMN19697393,PRJNA400628,UMB18,00rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,2.318
+SAMN19697394,PRJNA400628,UMB18,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.014
+SAMN07583968,PRJNA400628,UMB18,01.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-23,primary,2.0,19.607
+SAMN07583970,PRJNA400628,UMB18,02.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,4.885
+SAMN07583972,PRJNA400628,UMB18,04,,,female,US,,recurrer,,,,2016-06-14,primary,4.0,7.445
+SAMN07583973,PRJNA400628,UMB18,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-11,primary,3.0,8.176
+SAMN07583977,PRJNA400628,UMB18,09,,,female,US,,recurrer,,,,,primary,4.0,16.438
+SAMN07583978,PRJNA400628,UMB18,09.1,,,female,US,,recurrer,,,,2016-11-29,primary,4.0,10.12
+SAMN07583979,PRJNA400628,UMB18,10,,,female,US,,recurrer,,,,2016-12-06,primary,4.0,14.069
+SAMN07583980,PRJNA400628,UMB18,10.1,,,female,US,,recurrer,,,,,primary,4.0,15.045
+SAMN07583981,PRJNA400628,UMB18,10.2,,,female,US,,recurrer,,,,,primary,4.0,17.598
+SAMN07583967,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-08,primary,2.0,11.76
+SAMN07583969,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-05,primary,2.0,18.068
+SAMN07583971,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-04,primary,2.0,6.026
+SAMN07583974,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-15,primary,3.0,19.573
+SAMN07583975,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-13,primary,2.0,8.786
+SAMN07583976,PRJNA400628,UMB18,,,,female,US,,recurrer,,,,2016-10-05,primary,3.0,16.21
+SAMN07583982,PRJNA400628,UMB18,,,,female,US,,recurrer,,,,2017-02-14,primary,4.0,29.725
+SAMN32575383,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-15,primary,1.0,2.476
+SAMN32575384,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-15,primary,1.0,2.381
+SAMN32575385,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-14,primary,1.0,2.516
+SAMN32575386,PRJNA400628,UMB18,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-14,primary,1.0,2.355
+SAMN19697397,PRJNA400628,UMB19,00rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,2.213
+SAMN19697398,PRJNA400628,UMB19,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,1.436
+SAMN07583986,PRJNA400628,UMB19,04,,,female,US,healthy_control,healthy,,,,2016-06-07,primary,4.0,23.815
+SAMN07583987,PRJNA400628,UMB19,05,,,female,US,healthy_control,healthy,,,,2016-07-05,primary,4.0,7.452
+SAMN07583991,PRJNA400628,UMB19,09,,,female,US,healthy_control,healthy,,,,,primary,4.0,19.291
+SAMN07583992,PRJNA400628,UMB19,10,,,female,US,healthy_control,healthy,,,,,primary,3.0,4.02
+SAMN07583983,PRJNA400628,UMB19,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-08,primary,2.0,25.074
+SAMN07583984,PRJNA400628,UMB19,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-03,primary,2.0,16.619
+SAMN07583985,PRJNA400628,UMB19,,,,female,US,healthy_control,healthy,,,,2016-05-05,primary,4.0,2.371
+SAMN07583988,PRJNA400628,UMB19,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,2.0,32.423
+SAMN07583989,PRJNA400628,UMB19,,,,female,US,healthy_control,healthy,,,,2016-09-12,primary,4.0,9.184
+SAMN07583990,PRJNA400628,UMB19,,,,female,US,healthy_control,healthy,,,,2016-10-05,primary,3.0,30.504
+SAMN07583993,PRJNA400628,UMB19,,,,female,US,healthy_control,healthy,,,,2017-01-04,primary,4.0,13.173
+SAMN07583994,PRJNA400628,UMB19,,,,female,US,healthy_control,healthy,,,,2017-02-07,primary,3.0,20.595
+SAMN07583995,PRJNA400628,UMB20,00.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,44.992
+SAMN19697400,PRJNA400628,UMB20,00.1rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,5.064
+SAMN19697401,PRJNA400628,UMB20,00rot,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,6.356
+SAMN07583997,PRJNA400628,UMB20,01.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-13,primary,2.0,27.55
+SAMN07583998,PRJNA400628,UMB20,01.2,,,female,US,,recurrer,,,,,primary,4.0,25.409
+SAMN07584000,PRJNA400628,UMB20,02.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-12,primary,2.0,24.213
+SAMN07584001,PRJNA400628,UMB20,02.2,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,2.543
+SAMN07584003,PRJNA400628,UMB20,03.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,6.1
+SAMN07584004,PRJNA400628,UMB20,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,2.0,18.817
+SAMN07584005,PRJNA400628,UMB20,04.1,,,female,US,,recurrer,,,,2016-06-27,primary,4.0,4.82
+SAMN07584006,PRJNA400628,UMB20,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-13,primary,2.0,2.476
+SAMN07584007,PRJNA400628,UMB20,05.1,,,female,US,,recurrer,,,,2016-07-24,primary,4.0,10.25
+SAMN07584011,PRJNA400628,UMB20,09,,,female,US,,recurrer,,,,2016-11-21,primary,4.0,6.965
+SAMN07584012,PRJNA400628,UMB20,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-12-05,primary,2.0,17.908
+SAMN07584013,PRJNA400628,UMB20,10.1,,,female,US,,recurrer,,,,,primary,4.0,30.475
+SAMN07583996,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-06,primary,2.0,43.218
+SAMN07583999,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-03,primary,2.0,15.834
+SAMN07584002,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-02,primary,2.0,26.888
+SAMN07584008,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-31,primary,2.0,2.663
+SAMN07584009,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-14,primary,2.0,15.969
+SAMN07584010,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-19,primary,2.0,23.432
+SAMN07584014,PRJNA400628,UMB20,,,,female,US,,recurrer,,,,2017-01-10,primary,3.0,28.012
+SAMN07584015,PRJNA400628,UMB20,,,,female,US,,recurrer,,,,,primary,3.0,35.65
+SAMN32575387,PRJNA400628,UMB20,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-03,primary,1.0,1.808
+SAMN19697403,PRJNA400628,UMB21,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,8.582
+SAMN07584019,PRJNA400628,UMB21,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-07,primary,2.0,25.216
+SAMN07584020,PRJNA400628,UMB21,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-12,primary,2.0,3.453
+SAMN07584024,PRJNA400628,UMB21,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,19.848
+SAMN07584017,PRJNA400628,UMB21,5,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,42.213
+SAMN07584016,PRJNA400628,UMB21,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,9.316
+SAMN07584018,PRJNA400628,UMB21,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,17.551
+SAMN07584021,PRJNA400628,UMB21,,,,female,US,healthy_control,healthy,,,,,primary,4.0,10.841
+SAMN07584022,PRJNA400628,UMB21,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,17.515
+SAMN07584023,PRJNA400628,UMB21,,,,female,US,healthy_control,healthy,,,,2016-10-05,primary,4.0,5.834
+SAMN07584026,PRJNA400628,UMB21,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-01-10,primary,2.0,26.93
+SAMN07584027,PRJNA400628,UMB21,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-20,primary,2.0,17.025
+SAMN19697405,PRJNA400628,UMB22,00rrt,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,0.046
+SAMN07584031,PRJNA400628,UMB22,04,,,female,US,,recurrer,,,,2016-06-07,primary,4.0,14.073
+SAMN07584032,PRJNA400628,UMB22,05,,,female,US,,recurrer,,,,2016-07-12,primary,4.0,3.844
+SAMN07584036,PRJNA400628,UMB22,09,,,female,US,,recurrer,,,,2016-11-06,primary,4.0,6.257
+SAMN07584037,PRJNA400628,UMB22,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-12-04,primary,3.0,28.059
+SAMN07584028,PRJNA400628,UMB22,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-03-06,primary,1.0,3.882
+SAMN07584029,PRJNA400628,UMB22,,,,female,US,,recurrer,,,,2016-04-03,primary,4.0,7.839
+SAMN07584030,PRJNA400628,UMB22,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-03,primary,3.0,7.188
+SAMN07584033,PRJNA400628,UMB22,,,,female,US,,recurrer,,,,2016-08-09,primary,3.0,28.226
+SAMN07584034,PRJNA400628,UMB22,,,,female,US,,recurrer,,,,2016-09-13,primary,4.0,5.431
+SAMN07584035,PRJNA400628,UMB22,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-02,primary,3.0,15.541
+SAMN07584038,PRJNA400628,UMB22,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-01-18,primary,2.0,25.458
+SAMN07584039,PRJNA400628,UMB22,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-07,primary,2.0,22.038
+SAMN07584041,PRJNA400628,UMB23,01.2,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-26,primary,2.0,16.843
+SAMN07584043,PRJNA400628,UMB23,02.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,32.742
+SAMN07584045,PRJNA400628,UMB23,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-30,primary,3.0,9.943
+SAMN07584046,PRJNA400628,UMB23,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-17,primary,2.0,31.094
+SAMN07584047,PRJNA400628,UMB23,05.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,5.953
+SAMN07584049,PRJNA400628,UMB23,06.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-28,primary,3.0,13.055
+SAMN07584051,PRJNA400628,UMB23,07.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-27,primary,3.0,2.887
+SAMN07584053,PRJNA400628,UMB23,08.1,,,female,US,,recurrer,,,,,primary,3.0,10.636
+SAMN07584054,PRJNA400628,UMB23,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-01-11,primary,2.0,12.245
+SAMN07584055,PRJNA400628,UMB23,10.1,,,female,US,,recurrer,,,,2017-01-23,primary,3.0,7.305
+SAMN07584040,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-06,primary,2.0,17.916
+SAMN07584042,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,21.762
+SAMN07584044,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,3.113
+SAMN07584048,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-16,primary,3.0,6.255
+SAMN07584050,PRJNA400628,UMB23,,,,female,US,,recurrer,,,,,primary,4.0,4.607
+SAMN07584052,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,26.145
+SAMN07584056,PRJNA400628,UMB23,,,,female,US,,recurrer,,,,2017-02-10,primary,3.0,13.971
+SAMN32575388,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-13,primary,1.0,2.113
+SAMN32575389,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-13,primary,1.0,3.029
+SAMN32575390,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-11-09,primary,1.0,2.215
+SAMN32575391,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-11-09,primary,1.0,2.478
+SAMN32575392,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-10,primary,1.0,2.101
+SAMN32575393,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-10,primary,1.0,2.644
+SAMN32575394,PRJNA400628,UMB23,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-02-10,primary,1.0,2.873
+SAMN07584060,PRJNA400628,UMB24,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,7.628
+SAMN07584061,PRJNA400628,UMB24,05,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,12.145
+SAMN07584065,PRJNA400628,UMB24,09,,,female,US,,recurrer,,,,,primary,4.0,8.223
+SAMN07584066,PRJNA400628,UMB24,09.1,,,female,US,,recurrer,,,,,primary,4.0,39.394
+SAMN07584067,PRJNA400628,UMB24,09.2,,,female,US,,recurrer,,,,,primary,4.0,7.65
+SAMN07584069,PRJNA400628,UMB24,10.1,,,female,US,,recurrer,,,,2017-01-23,primary,3.0,41.996
+SAMN07584057,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,2016-04-05,primary,4.0,9.765
+SAMN07584058,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,,primary,4.0,15.893
+SAMN07584059,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,,primary,4.0,18.38
+SAMN07584062,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,,primary,4.0,5.501
+SAMN07584063,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,,primary,4.0,3.263
+SAMN07584064,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,,primary,3.0,18.622
+SAMN07584070,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,,primary,3.0,13.401
+SAMN07584071,PRJNA400628,UMB24,,,,female,US,,recurrer,,,,2017-03-15,primary,3.0,30.211
+SAMN32575395,PRJNA400628,UMB24,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-14,primary,1.0,2.631
+SAMN32575396,PRJNA400628,UMB24,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-14,primary,1.0,2.538
+SAMN32575397,PRJNA400628,UMB24,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-13,primary,1.0,2.417
+SAMN32575398,PRJNA400628,UMB24,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-11-15,primary,1.0,2.578
+SAMN32575399,PRJNA400628,UMB24,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-11-15,primary,1.0,2.921
+SAMN07584075,PRJNA400628,UMB25,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-09,primary,3.0,20.845
+SAMN07584076,PRJNA400628,UMB25,05,,,female,US,,non-recurrer,,,,2016-09-14,primary,4.0,7.148
+SAMN07584080,PRJNA400628,UMB25,09,,,female,US,,non-recurrer,,,,,primary,3.0,21.681
+SAMN07584081,PRJNA400628,UMB25,10,,,female,US,,non-recurrer,,,,2017-02-07,primary,3.0,15.283
+SAMN07584072,PRJNA400628,UMB25,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-05-10,primary,3.0,6.292
+SAMN07584073,PRJNA400628,UMB25,,,,female,US,,non-recurrer,,,,,primary,4.0,21.203
+SAMN07584074,PRJNA400628,UMB25,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-12,primary,2.0,25.715
+SAMN07584077,PRJNA400628,UMB25,,,,female,US,,non-recurrer,,,,2016-10-04,primary,4.0,8.046
+SAMN07584078,PRJNA400628,UMB25,,,,female,US,,non-recurrer,,,,,primary,4.0,19.027
+SAMN07584079,PRJNA400628,UMB25,,,,female,US,,non-recurrer,,,,2016-12-12,primary,2.0,5.106
+SAMN07584082,PRJNA400628,UMB25,,,,female,US,,non-recurrer,,,,2017-03-08,primary,3.0,54.376
+SAMN07584143,PRJNA400628,UMB25,,,,female,US,,non-recurrer,,,,2017-04-12,primary,3.0,18.149
+SAMN07584086,PRJNA400628,UMB26,04,,,female,US,healthy_control,healthy,,,,2016-08-14,primary,4.0,12.968
+SAMN07584087,PRJNA400628,UMB26,05,,,female,US,healthy_control,healthy,,,,,primary,4.0,11.097
+SAMN07584091,PRJNA400628,UMB26,09,,,female,US,healthy_control,healthy,,,,2017-01-16,primary,3.0,22.147
+SAMN07584092,PRJNA400628,UMB26,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,13.798
+SAMN07584083,PRJNA400628,UMB26,,,,female,US,healthy_control,healthy,,,,,primary,5.0,26.794
+SAMN07584084,PRJNA400628,UMB26,,,,female,US,healthy_control,healthy,,,,2016-06-15,primary,4.0,20.419
+SAMN07584085,PRJNA400628,UMB26,,,,female,US,healthy_control,healthy,,,,2016-07-17,primary,4.0,39.098
+SAMN07584088,PRJNA400628,UMB26,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,5.249
+SAMN07584089,PRJNA400628,UMB26,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,1.0,5.235
+SAMN07584090,PRJNA400628,UMB26,,,,female,US,healthy_control,healthy,,,,,primary,2.0,8.743
+SAMN07584093,PRJNA400628,UMB26,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,19.335
+SAMN07584142,PRJNA400628,UMB26,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,23.108
+SAMN07584094,PRJNA400628,UMB27,00,,,female,US,healthy_control,healthy,,,,2016-04-24,primary,4.0,22.768
+SAMN07584097,PRJNA400628,UMB27,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-08,primary,2.0,10.518
+SAMN07584098,PRJNA400628,UMB27,05,,,female,US,healthy_control,healthy,,,,2016-09-07,primary,4.0,24.796
+SAMN07584102,PRJNA400628,UMB27,09,,,female,US,healthy_control,healthy,,,,2017-01-17,primary,3.0,6.767
+SAMN07584103,PRJNA400628,UMB27,10,,,female,US,healthy_control,healthy,,,,2017-02-22,primary,3.0,13.96
+SAMN07584095,PRJNA400628,UMB27,,,,female,US,healthy_control,healthy,,,,,primary,4.0,15.158
+SAMN07584096,PRJNA400628,UMB27,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-25,primary,3.0,12.255
+SAMN07584099,PRJNA400628,UMB27,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-03,primary,3.0,35.465
+SAMN07584100,PRJNA400628,UMB27,,,,female,US,healthy_control,healthy,,,,,primary,4.0,16.708
+SAMN07584101,PRJNA400628,UMB27,,,,female,US,healthy_control,healthy,,,,2016-12-06,primary,3.0,13.281
+SAMN07584104,PRJNA400628,UMB27,,,,female,US,healthy_control,healthy,,,,2017-03-06,primary,3.0,35.876
+SAMN07584144,PRJNA400628,UMB27,,,,female,US,healthy_control,healthy,,,,2017-04-11,primary,3.0,15.258
+SAMN07584105,PRJNA400628,UMB28,00,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-04-24,primary,2.0,7.385
+SAMN07584109,PRJNA400628,UMB28,04,,,female,US,healthy_control,healthy,,,,2016-08-30,primary,4.0,13.632
+SAMN07584110,PRJNA400628,UMB28,05,,,female,US,healthy_control,healthy,,,,2016-09-12,primary,4.0,10.48
+SAMN07584114,PRJNA400628,UMB28,10,,,female,US,healthy_control,healthy,,,,2017-02-08,primary,3.0,33.031
+SAMN07584106,PRJNA400628,UMB28,,,,female,US,healthy_control,healthy,,,,,primary,4.0,25.583
+SAMN07584107,PRJNA400628,UMB28,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,3.0,18.509
+SAMN07584108,PRJNA400628,UMB28,,,,female,US,healthy_control,healthy,,,,2016-07-13,primary,4.0,13.678
+SAMN07584111,PRJNA400628,UMB28,,,,female,US,healthy_control,healthy,,,,2016-10-05,primary,5.0,27.586
+SAMN07584112,PRJNA400628,UMB28,,,,female,US,healthy_control,healthy,,,,2016-11-14,primary,4.0,20.444
+SAMN07584140,PRJNA400628,UMB28,,,,female,US,healthy_control,healthy,,,,2017-03-08,primary,3.0,11.67
+SAMN07584115,PRJNA400628,UMB29,00,,,female,US,healthy_control,healthy,,,,2016-04-25,primary,4.0,7.896
+SAMN07584119,PRJNA400628,UMB29,04,,,female,US,healthy_control,healthy,,,,2016-08-02,primary,4.0,4.442
+SAMN07584120,PRJNA400628,UMB29,05,,,female,US,healthy_control,healthy,,,,,primary,4.0,5.094
+SAMN07584124,PRJNA400628,UMB29,09,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-01-08,primary,2.0,32.296
+SAMN07584125,PRJNA400628,UMB29,10,,,female,US,healthy_control,healthy,,,,2017-02-05,primary,3.0,17.453
+SAMN07584116,PRJNA400628,UMB29,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,14.039
+SAMN07584117,PRJNA400628,UMB29,,,,female,US,healthy_control,healthy,,,,2016-06-06,primary,4.0,6.152
+SAMN07584118,PRJNA400628,UMB29,,,,female,US,healthy_control,healthy,,,,2016-06-27,primary,4.0,6.525
+SAMN07584121,PRJNA400628,UMB29,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-10-05,primary,2.0,1.584
+SAMN07584122,PRJNA400628,UMB29,,,,female,US,healthy_control,healthy,,,,,primary,4.0,9.629
+SAMN07584123,PRJNA400628,UMB29,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-12-06,primary,3.0,12.194
+SAMN07584126,PRJNA400628,UMB29,,,,female,US,healthy_control,healthy,,,,2017-03-09,primary,3.0,19.059
+SAMN07584141,PRJNA400628,UMB29,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-04-04,primary,2.0,21.925
+SAMN07584128,PRJNA400628,UMB30,01.1,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-23,primary,2.0,16.557
+SAMN07584127,PRJNA400628,UMB30,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-06-06,primary,4.0,25.024
+SAMN07584129,PRJNA400628,UMB31,00,,,female,US,healthy_control,healthy,,,,2016-05-22,primary,4.0,9.845
+SAMN07584133,PRJNA400628,UMB31,04,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-09-14,primary,3.0,11.931
+SAMN07584134,PRJNA400628,UMB31,05,,,female,US,healthy_control,healthy,,,,2016-10-05,primary,4.0,11.283
+SAMN07584138,PRJNA400628,UMB31,09,,,female,US,healthy_control,healthy,,,,2017-02-10,primary,3.0,34.03
+SAMN07584139,PRJNA400628,UMB31,10,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-03-27,primary,2.0,16.157
+SAMN07584130,PRJNA400628,UMB31,,,,female,US,healthy_control,healthy,,,,2016-06-06,primary,4.0,10.117
+SAMN07584131,PRJNA400628,UMB31,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-07-13,primary,2.0,11.01
+SAMN07584132,PRJNA400628,UMB31,,,,female,US,healthy_control,healthy,,,,2016-08-08,primary,4.0,8.593
+SAMN07584135,PRJNA400628,UMB31,,,,female,US,healthy_control,healthy,,,,,primary,4.0,14.437
+SAMN07584136,PRJNA400628,UMB31,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,12.024
+SAMN07584137,PRJNA400628,UMB31,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2017-01-24,primary,2.0,11.312
+SAMN07584145,PRJNA400628,UMB31,,,,female,US,healthy_control,healthy,,,,2017-04-26,primary,3.0,13.531
+SAMN07583944,PRJNA400628,,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,,primary,2.0,6.47
+SAMN41801924,PRJNA400628,,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2016-08-08,primary,1.0,25.085
+SAMN41801925,PRJNA400628,,,,,female,US,,mixed_case_control: recurrent urinary tract infection cases vs controls,,,,2015-11-17,primary,1.0,11.978

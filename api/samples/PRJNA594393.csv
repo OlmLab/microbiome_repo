@@ -1,0 +1,948 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN13514752,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.107
+SAMN13515201,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.317
+SAMN13515232,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.218
+SAMN13515252,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.065
+SAMN13515311,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.117
+SAMN13515330,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.127
+SAMN13515391,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.031
+SAMN13515432,PRJNA594393,101-001,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.007
+SAMN13515196,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.238
+SAMN13515245,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.256
+SAMN13515261,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.234
+SAMN13515320,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.283
+SAMN13515344,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.126
+SAMN13515387,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.06
+SAMN13515416,PRJNA594393,101-001,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.008
+SAMN13514853,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.173
+SAMN13514858,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.134
+SAMN13514862,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.199
+SAMN13514863,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.117
+SAMN13514865,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.162
+SAMN13514866,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.167
+SAMN13514886,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.213
+SAMN13514892,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.121
+SAMN13514894,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.179
+SAMN13514918,PRJNA594393,101-004,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.145
+SAMN13514837,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.188
+SAMN13514839,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.155
+SAMN13514861,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.16
+SAMN13514883,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.159
+SAMN13514891,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.139
+SAMN13514912,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.131
+SAMN13514913,PRJNA594393,101-004,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.149
+SAMN13514836,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.13
+SAMN13514838,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.161
+SAMN13514841,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.151
+SAMN13514845,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.164
+SAMN13514855,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.126
+SAMN13514857,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.145
+SAMN13514864,PRJNA594393,101-004,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.134
+SAMN13514840,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.104
+SAMN13514843,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.133
+SAMN13514854,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.088
+SAMN13514871,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.117
+SAMN13514874,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.119
+SAMN13514876,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.116
+SAMN13514882,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.144
+SAMN13514887,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.142
+SAMN13514889,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.106
+SAMN13514890,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.137
+SAMN13514893,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.146
+SAMN13514895,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.118
+SAMN13514898,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.125
+SAMN13514910,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.156
+SAMN13514914,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.136
+SAMN13514915,PRJNA594393,101-004,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.13
+SAMN13514510,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.182
+SAMN13514531,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.145
+SAMN13514564,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.1
+SAMN13514593,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.127
+SAMN13514609,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.109
+SAMN13514638,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.16
+SAMN13514785,PRJNA594393,101-006,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.12
+SAMN13514603,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.124
+SAMN13514611,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.144
+SAMN13514660,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.146
+SAMN13514856,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.115
+SAMN13514859,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.129
+SAMN13514867,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.136
+SAMN13514868,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.127
+SAMN13514869,PRJNA594393,101-006,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.138
+SAMN13514507,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.134
+SAMN13514509,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.156
+SAMN13514527,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.164
+SAMN13514569,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.136
+SAMN13514608,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.137
+SAMN13514610,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.151
+SAMN13514654,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.144
+SAMN13514661,PRJNA594393,101-006,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.094
+SAMN13514497,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.127
+SAMN13514504,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.097
+SAMN13514506,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.104
+SAMN13514508,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.084
+SAMN13514522,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.139
+SAMN13514562,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.114
+SAMN13514572,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.117
+SAMN13514576,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.093
+SAMN13514629,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.113
+SAMN13514680,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.132
+SAMN13514730,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.1
+SAMN13514770,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.118
+SAMN13514771,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.1
+SAMN13514782,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.121
+SAMN13514881,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.092
+SAMN13514885,PRJNA594393,101-006,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.092
+SAMN13514529,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.142
+SAMN13514548,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.104
+SAMN13514575,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.165
+SAMN13514616,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.136
+SAMN13514627,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.121
+SAMN13514693,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.12
+SAMN13514740,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.117
+SAMN13514769,PRJNA594393,101-007,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.134
+SAMN13514517,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.142
+SAMN13514574,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.056
+SAMN13514602,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.121
+SAMN13514621,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.137
+SAMN13514623,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.165
+SAMN13514711,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.102
+SAMN13514749,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.069
+SAMN13514811,PRJNA594393,101-007,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.099
+SAMN13514488,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.099
+SAMN13514707,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.118
+SAMN13514710,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.052
+SAMN13514731,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.061
+SAMN13514742,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.113
+SAMN13514779,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.098
+SAMN13514797,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.065
+SAMN13514808,PRJNA594393,101-007,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.071
+SAMN13514499,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.106
+SAMN13514521,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.138
+SAMN13514540,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.144
+SAMN13514549,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.167
+SAMN13514551,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.124
+SAMN13514556,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.139
+SAMN13514599,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.148
+SAMN13514612,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.177
+SAMN13514613,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.111
+SAMN13514619,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.164
+SAMN13514651,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.082
+SAMN13514688,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.085
+SAMN13514712,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.134
+SAMN13514715,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.167
+SAMN13514786,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.123
+SAMN13514790,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.131
+SAMN13514829,PRJNA594393,101-007,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.04
+SAMN13514539,PRJNA594393,101-009,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.168
+SAMN13514587,PRJNA594393,101-009,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.152
+SAMN13514646,PRJNA594393,101-009,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.122
+SAMN13514798,PRJNA594393,101-009,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.066
+SAMN13514833,PRJNA594393,101-009,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.013
+SAMN13514834,PRJNA594393,101-009,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.008
+SAMN13514495,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.127
+SAMN13514541,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.121
+SAMN13514624,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.12
+SAMN13514625,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.127
+SAMN13514626,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.092
+SAMN13514714,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.11
+SAMN13514825,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.051
+SAMN13514835,PRJNA594393,101-009,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.05
+SAMN13514528,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.135
+SAMN13514530,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.128
+SAMN13514532,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.134
+SAMN13514545,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.185
+SAMN13514554,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.221
+SAMN13514697,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.157
+SAMN13514699,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.15
+SAMN13514826,PRJNA594393,101-009,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.052
+SAMN13514934,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.125
+SAMN13514938,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.118
+SAMN13514943,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.141
+SAMN13514949,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.111
+SAMN13514951,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.112
+SAMN13514968,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.124
+SAMN13515006,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.111
+SAMN13515035,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.128
+SAMN13515049,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.118
+SAMN13515069,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.137
+SAMN13515085,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.063
+SAMN13515091,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.116
+SAMN13515132,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.157
+SAMN13515133,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.106
+SAMN13515139,PRJNA594393,101-009,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.094
+SAMN13514494,PRJNA594393,101-010,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.127
+SAMN13514568,PRJNA594393,101-010,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.158
+SAMN13514595,PRJNA594393,101-010,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.129
+SAMN13514732,PRJNA594393,101-010,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.122
+SAMN13514812,PRJNA594393,101-010,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.139
+SAMN13514519,PRJNA594393,101-010,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.156
+SAMN13514543,PRJNA594393,101-010,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.11
+SAMN13514632,PRJNA594393,101-010,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.172
+SAMN13514650,PRJNA594393,101-010,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.138
+SAMN13514734,PRJNA594393,101-010,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.105
+SAMN13514778,PRJNA594393,101-010,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.117
+SAMN13514524,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.09
+SAMN13514570,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.124
+SAMN13514656,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.1
+SAMN13514691,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.145
+SAMN13514698,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.094
+SAMN13514705,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.11
+SAMN13514757,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.07
+SAMN13514774,PRJNA594393,101-011,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.114
+SAMN13514487,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.14
+SAMN13514503,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.117
+SAMN13514589,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.087
+SAMN13514636,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.059
+SAMN13514692,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.113
+SAMN13514753,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.126
+SAMN13514768,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.138
+SAMN13514814,PRJNA594393,101-011,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.055
+SAMN13514490,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.144
+SAMN13514493,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.114
+SAMN13514537,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.133
+SAMN13514628,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.135
+SAMN13514637,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.104
+SAMN13514684,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.118
+SAMN13514713,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.097
+SAMN13514773,PRJNA594393,101-011,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.122
+SAMN13514523,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.104
+SAMN13514525,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.121
+SAMN13514534,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.118
+SAMN13514552,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.145
+SAMN13514559,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.142
+SAMN13514590,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.153
+SAMN13514592,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.124
+SAMN13514614,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.124
+SAMN13514643,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.101
+SAMN13514673,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.087
+SAMN13514703,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.095
+SAMN13514716,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.127
+SAMN13514738,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.089
+SAMN13514763,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.098
+SAMN13514764,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.114
+SAMN13514765,PRJNA594393,101-011,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.046
+SAMN13515199,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.198
+SAMN13515224,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.193
+SAMN13515227,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.073
+SAMN13515292,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.151
+SAMN13515318,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.133
+SAMN13515322,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.102
+SAMN13515377,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.056
+SAMN13515379,PRJNA594393,101-012,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.146
+SAMN13515198,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.076
+SAMN13515226,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.225
+SAMN13515233,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.151
+SAMN13515263,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.067
+SAMN13515277,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.126
+SAMN13515296,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.09
+SAMN13515308,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.117
+SAMN13515335,PRJNA594393,101-012,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.13
+SAMN13515203,PRJNA594393,101-012,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.099
+SAMN13515241,PRJNA594393,101-012,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.075
+SAMN13515260,PRJNA594393,101-012,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.147
+SAMN13515336,PRJNA594393,101-012,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.101
+SAMN13515399,PRJNA594393,101-012,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.11
+SAMN13515406,PRJNA594393,101-012,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.087
+SAMN13515188,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.089
+SAMN13515204,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.138
+SAMN13515236,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.234
+SAMN13515253,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.141
+SAMN13515266,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.144
+SAMN13515268,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.116
+SAMN13515273,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.124
+SAMN13515283,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.144
+SAMN13515299,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.083
+SAMN13515300,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.197
+SAMN13515328,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.143
+SAMN13515349,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.135
+SAMN13515352,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.074
+SAMN13515367,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.058
+SAMN13515405,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.074
+SAMN13515415,PRJNA594393,101-012,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.118
+SAMN13515191,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.23
+SAMN13515249,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.195
+SAMN13515270,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.205
+SAMN13515274,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.087
+SAMN13515325,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.084
+SAMN13515326,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.193
+SAMN13515342,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.155
+SAMN13515400,PRJNA594393,101-013,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.087
+SAMN13515189,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.236
+SAMN13515217,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.149
+SAMN13515302,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.188
+SAMN13515317,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.086
+SAMN13515370,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.144
+SAMN13515408,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.112
+SAMN13515420,PRJNA594393,101-013,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.034
+SAMN13515184,PRJNA594393,101-013,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.26
+SAMN13515290,PRJNA594393,101-013,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.175
+SAMN13515315,PRJNA594393,101-013,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.114
+SAMN13515422,PRJNA594393,101-013,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.05
+SAMN13515192,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.106
+SAMN13515206,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.1
+SAMN13515212,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.109
+SAMN13515220,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.131
+SAMN13515272,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.124
+SAMN13515295,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.124
+SAMN13515303,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.063
+SAMN13515329,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.08
+SAMN13515332,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.027
+SAMN13515350,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.143
+SAMN13515356,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.11
+SAMN13515365,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.131
+SAMN13515381,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.128
+SAMN13515386,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.131
+SAMN13515392,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.105
+SAMN13515402,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.065
+SAMN13515407,PRJNA594393,101-013,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.067
+SAMN13514514,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.152
+SAMN13514538,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.144
+SAMN13514544,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.11
+SAMN13514588,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.094
+SAMN13514657,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.166
+SAMN13514678,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.061
+SAMN13514679,PRJNA594393,101-015,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.093
+SAMN13514557,PRJNA594393,101-015,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.152
+SAMN13514586,PRJNA594393,101-015,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.141
+SAMN13514658,PRJNA594393,101-015,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.154
+SAMN13514690,PRJNA594393,101-015,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.032
+SAMN13514777,PRJNA594393,101-015,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.146
+SAMN13514561,PRJNA594393,101-015,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.145
+SAMN13514565,PRJNA594393,101-015,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.14
+SAMN13514622,PRJNA594393,101-015,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.175
+SAMN13514639,PRJNA594393,101-015,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.166
+SAMN13514652,PRJNA594393,101-015,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.156
+SAMN13514515,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.108
+SAMN13514555,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.139
+SAMN13514649,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.137
+SAMN13514663,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.165
+SAMN13514664,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.113
+SAMN13514696,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.149
+SAMN13514727,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.14
+SAMN13514735,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.12
+SAMN13514759,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.083
+SAMN13514767,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.165
+SAMN13514789,PRJNA594393,101-015,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.174
+SAMN13514842,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.087
+SAMN13514844,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.123
+SAMN13514852,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.111
+SAMN13514873,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.135
+SAMN13514879,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.106
+SAMN13514888,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.133
+SAMN13514900,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.099
+SAMN13514906,PRJNA594393,101-016,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.102
+SAMN13514846,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.101
+SAMN13514847,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.124
+SAMN13514901,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.078
+SAMN13514902,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.071
+SAMN13514903,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.093
+SAMN13514904,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.112
+SAMN13514907,PRJNA594393,101-016,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.126
+SAMN13514850,PRJNA594393,101-016,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.135
+SAMN13514851,PRJNA594393,101-016,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.125
+SAMN13514860,PRJNA594393,101-016,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.113
+SAMN13514875,PRJNA594393,101-016,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.093
+SAMN13514899,PRJNA594393,101-016,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.117
+SAMN13514909,PRJNA594393,101-016,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.105
+SAMN13514848,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.147
+SAMN13514849,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.129
+SAMN13514870,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.128
+SAMN13514872,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.123
+SAMN13514877,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.14
+SAMN13514878,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.096
+SAMN13514880,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.118
+SAMN13514884,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.097
+SAMN13514896,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.116
+SAMN13514897,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.106
+SAMN13514905,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.176
+SAMN13514908,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.156
+SAMN13514911,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.127
+SAMN13514916,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.151
+SAMN13514917,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.147
+SAMN13514919,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.061
+SAMN13514920,PRJNA594393,101-016,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.07
+SAMN13514550,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.095
+SAMN13514581,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.085
+SAMN13514585,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.101
+SAMN13514591,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.088
+SAMN13514694,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.136
+SAMN13514729,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.113
+SAMN13514750,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.139
+SAMN13514758,PRJNA594393,101-017,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.093
+SAMN13514546,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.125
+SAMN13514566,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.089
+SAMN13514580,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.136
+SAMN13514582,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.112
+SAMN13514704,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.117
+SAMN13514724,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.153
+SAMN13514744,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.137
+SAMN13514772,PRJNA594393,101-017,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.087
+SAMN13514505,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.092
+SAMN13514558,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.073
+SAMN13514584,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.093
+SAMN13514634,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.085
+SAMN13514717,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.104
+SAMN13514747,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.114
+SAMN13514813,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.094
+SAMN13514821,PRJNA594393,101-017,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.078
+SAMN13514498,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.184
+SAMN13514526,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.113
+SAMN13514600,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.124
+SAMN13514645,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.136
+SAMN13514682,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.075
+SAMN13514685,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.13
+SAMN13514687,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.147
+SAMN13514701,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.122
+SAMN13514709,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.104
+SAMN13514725,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.131
+SAMN13514726,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.095
+SAMN13514784,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.108
+SAMN13514794,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.082
+SAMN13514800,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.036
+SAMN13514801,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.15
+SAMN13514807,PRJNA594393,101-017,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.11
+SAMN13515185,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.323
+SAMN13515218,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.131
+SAMN13515219,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.056
+SAMN13515248,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.091
+SAMN13515255,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.18
+SAMN13515282,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.15
+SAMN13515305,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.1
+SAMN13515358,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.138
+SAMN13515384,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.061
+SAMN13515429,PRJNA594393,101-018,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.017
+SAMN13515186,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.191
+SAMN13515187,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.051
+SAMN13515209,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.24
+SAMN13515256,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.081
+SAMN13515258,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.046
+SAMN13515285,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.122
+SAMN13515419,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.058
+SAMN13515428,PRJNA594393,101-018,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.014
+SAMN13515216,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.101
+SAMN13515240,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.118
+SAMN13515257,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.085
+SAMN13515366,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.114
+SAMN13515383,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.054
+SAMN13515403,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.037
+SAMN13515430,PRJNA594393,101-018,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.02
+SAMN13515223,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.127
+SAMN13515265,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.163
+SAMN13515281,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.052
+SAMN13515309,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.053
+SAMN13515343,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.016
+SAMN13515346,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.037
+SAMN13515354,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.022
+SAMN13515361,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.096
+SAMN13515374,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.149
+SAMN13515376,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.221
+SAMN13515388,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.065
+SAMN13515389,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.157
+SAMN13515395,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.041
+SAMN13515396,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.021
+SAMN13515411,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.021
+SAMN13515421,PRJNA594393,101-018,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.013
+SAMN13514571,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.061
+SAMN13514618,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.061
+SAMN13514633,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.082
+SAMN13514635,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.081
+SAMN13514640,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.133
+SAMN13514642,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.125
+SAMN13514741,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.107
+SAMN13514788,PRJNA594393,101-019,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.103
+SAMN13514533,PRJNA594393,101-019,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.124
+SAMN13514573,PRJNA594393,101-019,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.135
+SAMN13514605,PRJNA594393,101-019,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.165
+SAMN13514793,PRJNA594393,101-019,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.102
+SAMN13514520,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.023
+SAMN13514630,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.03
+SAMN13514739,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.047
+SAMN13514815,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.024
+SAMN13514827,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.013
+SAMN13514828,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.049
+SAMN13514831,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.039
+SAMN13514832,PRJNA594393,101-019,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.022
+SAMN13514518,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.133
+SAMN13514563,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.108
+SAMN13514583,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.079
+SAMN13514594,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.121
+SAMN13514674,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.121
+SAMN13514702,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.106
+SAMN13514723,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.109
+SAMN13514751,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.077
+SAMN13514776,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.087
+SAMN13514783,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.078
+SAMN13514802,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.088
+SAMN13514806,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.077
+SAMN13514810,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.105
+SAMN13514822,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.095
+SAMN13514830,PRJNA594393,101-019,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.056
+SAMN13515267,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.116
+SAMN13515287,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.205
+SAMN13515291,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.159
+SAMN13515323,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.097
+SAMN13515340,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.086
+SAMN13515345,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.161
+SAMN13515410,PRJNA594393,101-020,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.127
+SAMN13515207,PRJNA594393,101-020,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.242
+SAMN13515221,PRJNA594393,101-020,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,,primary,1.0,0.078
+SAMN13515276,PRJNA594393,101-020,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.104
+SAMN13515288,PRJNA594393,101-020,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,,primary,1.0,0.091
+SAMN13515424,PRJNA594393,101-020,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,,primary,1.0,0.053
+SAMN13515210,PRJNA594393,101-020,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.268
+SAMN13515271,PRJNA594393,101-020,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.108
+SAMN13515279,PRJNA594393,101-020,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.302
+SAMN13515304,PRJNA594393,101-020,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,,primary,1.0,0.108
+SAMN13515347,PRJNA594393,101-020,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.128
+SAMN13515423,PRJNA594393,101-020,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,,primary,1.0,0.079
+SAMN13515234,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.102
+SAMN13515247,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.062
+SAMN13515251,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.093
+SAMN13515289,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.073
+SAMN13515316,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.081
+SAMN13515319,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.13
+SAMN13515327,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.075
+SAMN13515339,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.111
+SAMN13515378,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.085
+SAMN13515409,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.058
+SAMN13515412,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.083
+SAMN13515418,PRJNA594393,101-020,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.071
+SAMN13514945,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.153
+SAMN13514946,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.178
+SAMN13514985,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.14
+SAMN13515114,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.165
+SAMN13515146,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.039
+SAMN13515161,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.112
+SAMN13515172,PRJNA594393,101-021,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.134
+SAMN13514932,PRJNA594393,101-021,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.054
+SAMN13515014,PRJNA594393,101-021,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.152
+SAMN13515100,PRJNA594393,101-021,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.077
+SAMN13515151,PRJNA594393,101-021,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.113
+SAMN13515176,PRJNA594393,101-021,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.051
+SAMN13515045,PRJNA594393,101-021,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.099
+SAMN13515167,PRJNA594393,101-021,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.096
+SAMN13515181,PRJNA594393,101-021,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.142
+SAMN13514956,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.198
+SAMN13514961,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.076
+SAMN13514972,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.183
+SAMN13515008,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.126
+SAMN13515050,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.127
+SAMN13515055,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.148
+SAMN13515058,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.273
+SAMN13515104,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.216
+SAMN13515107,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.265
+SAMN13515109,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.13
+SAMN13515115,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.131
+SAMN13515143,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.153
+SAMN13515160,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.077
+SAMN13515163,PRJNA594393,101-021,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.159
+SAMN13515197,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.101
+SAMN13515239,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.065
+SAMN13515278,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.246
+SAMN13515312,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.119
+SAMN13515314,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.105
+SAMN13515324,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.086
+SAMN13515369,PRJNA594393,101-023,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.167
+SAMN13515211,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.13
+SAMN13515230,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.09
+SAMN13515275,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.133
+SAMN13515284,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.177
+SAMN13515301,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.087
+SAMN13515307,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.098
+SAMN13515359,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.037
+SAMN13515368,PRJNA594393,101-023,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.031
+SAMN13515195,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.081
+SAMN13515205,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.247
+SAMN13515235,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.187
+SAMN13515244,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.135
+SAMN13515250,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.165
+SAMN13515262,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.137
+SAMN13515337,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.056
+SAMN13515413,PRJNA594393,101-023,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.081
+SAMN13515193,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.064
+SAMN13515194,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.061
+SAMN13515202,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.121
+SAMN13515208,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.151
+SAMN13515213,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.126
+SAMN13515215,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.198
+SAMN13515254,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.109
+SAMN13515264,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.109
+SAMN13515286,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.057
+SAMN13515321,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.077
+SAMN13515334,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.177
+SAMN13515341,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.065
+SAMN13515351,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.068
+SAMN13515363,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.042
+SAMN13515382,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.122
+SAMN13515398,PRJNA594393,101-023,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.098
+SAMN13514501,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.102
+SAMN13514502,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.08
+SAMN13514553,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.08
+SAMN13514617,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.097
+SAMN13514641,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.03
+SAMN13514686,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.133
+SAMN13514746,PRJNA594393,101-024,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.102
+SAMN13514496,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.099
+SAMN13514620,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.121
+SAMN13514647,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.137
+SAMN13514665,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.075
+SAMN13514667,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.135
+SAMN13514736,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.119
+SAMN13514762,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.117
+SAMN13514803,PRJNA594393,101-024,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.071
+SAMN13514486,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.125
+SAMN13514492,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.097
+SAMN13514500,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.12
+SAMN13514579,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.012
+SAMN13514666,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.12
+SAMN13514745,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.113
+SAMN13514748,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.132
+SAMN13514795,PRJNA594393,101-024,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.087
+SAMN13514578,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.067
+SAMN13514655,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.12
+SAMN13514659,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.088
+SAMN13514668,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.146
+SAMN13514669,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.11
+SAMN13514670,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.161
+SAMN13514671,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.112
+SAMN13514672,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.131
+SAMN13514675,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.098
+SAMN13514681,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.048
+SAMN13514728,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.088
+SAMN13514733,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.141
+SAMN13514737,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.138
+SAMN13514791,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.072
+SAMN13514792,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.146
+SAMN13514818,PRJNA594393,101-024,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.127
+SAMN13514631,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.132
+SAMN13514676,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.085
+SAMN13514719,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.125
+SAMN13514721,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.121
+SAMN13514761,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.067
+SAMN13514775,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.095
+SAMN13514781,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.015
+SAMN13514816,PRJNA594393,101-025,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.096
+SAMN13514683,PRJNA594393,101-025,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.052
+SAMN13514718,PRJNA594393,101-025,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.102
+SAMN13514743,PRJNA594393,101-025,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.087
+SAMN13514796,PRJNA594393,101-025,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.108
+SAMN13514516,PRJNA594393,101-025,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.093
+SAMN13514615,PRJNA594393,101-025,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.132
+SAMN13514708,PRJNA594393,101-025,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.044
+SAMN13514766,PRJNA594393,101-025,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.141
+SAMN13514804,PRJNA594393,101-025,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.009
+SAMN13514809,PRJNA594393,101-025,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.085
+SAMN13514512,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.074
+SAMN13514513,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.044
+SAMN13514598,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.106
+SAMN13514607,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.123
+SAMN13514644,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.073
+SAMN13514653,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.119
+SAMN13514662,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.064
+SAMN13514689,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.086
+SAMN13514760,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.111
+SAMN13514787,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.065
+SAMN13514805,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.084
+SAMN13514817,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.061
+SAMN13514819,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.06
+SAMN13514823,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.048
+SAMN13514824,PRJNA594393,101-025,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.058
+SAMN13514489,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.128
+SAMN13514491,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.167
+SAMN13514536,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.141
+SAMN13514542,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.164
+SAMN13514596,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.17
+SAMN13514720,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.144
+SAMN13514754,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.173
+SAMN13514780,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.136
+SAMN13514799,PRJNA594393,101-028,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-29,primary,1.0,0.119
+SAMN13514511,PRJNA594393,101-028,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.096
+SAMN13514560,PRJNA594393,101-028,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.1
+SAMN13514606,PRJNA594393,101-028,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.107
+SAMN13514722,PRJNA594393,101-028,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.074
+SAMN13514755,PRJNA594393,101-028,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-29,primary,1.0,0.108
+SAMN13514547,PRJNA594393,101-028,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.114
+SAMN13514567,PRJNA594393,101-028,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.134
+SAMN13514577,PRJNA594393,101-028,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.149
+SAMN13514700,PRJNA594393,101-028,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.109
+SAMN13514706,PRJNA594393,101-028,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.032
+SAMN13514820,PRJNA594393,101-028,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-29,primary,1.0,0.116
+SAMN13514535,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.123
+SAMN13514604,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.099
+SAMN13514648,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.068
+SAMN13514677,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.111
+SAMN13514695,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.059
+SAMN13514756,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-29,primary,1.0,0.101
+SAMN13515214,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.054
+SAMN13515269,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.109
+SAMN13515293,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.108
+SAMN13515306,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.101
+SAMN13515348,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.197
+SAMN13515357,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.113
+SAMN13515364,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.015
+SAMN13515390,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.092
+SAMN13515401,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.041
+SAMN13515414,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.064
+SAMN13515427,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.015
+SAMN13515431,PRJNA594393,101-028,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.004
+SAMN13515280,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.078
+SAMN13515310,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.095
+SAMN13515331,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.114
+SAMN13515355,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.067
+SAMN13515372,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.195
+SAMN13515380,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.136
+SAMN13515404,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.151
+SAMN13515417,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.059
+SAMN13515426,PRJNA594393,101-029,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-09-01,primary,1.0,0.031
+SAMN13515200,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.098
+SAMN13515228,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.145
+SAMN13515229,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.188
+SAMN13515238,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.129
+SAMN13515243,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.081
+SAMN13515298,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.122
+SAMN13515338,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.11
+SAMN13515373,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.137
+SAMN13515375,PRJNA594393,101-029,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-09-01,primary,1.0,0.09
+SAMN13515190,PRJNA594393,101-029,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.33
+SAMN13515225,PRJNA594393,101-029,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.127
+SAMN13515246,PRJNA594393,101-029,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.123
+SAMN13515259,PRJNA594393,101-029,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.067
+SAMN13515371,PRJNA594393,101-029,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-09-01,primary,1.0,0.135
+SAMN13514597,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.075
+SAMN13514601,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.081
+SAMN13515222,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.186
+SAMN13515231,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.075
+SAMN13515237,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.201
+SAMN13515242,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.101
+SAMN13515294,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.073
+SAMN13515297,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.143
+SAMN13515313,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.075
+SAMN13515333,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.056
+SAMN13515353,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.05
+SAMN13515360,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.135
+SAMN13515362,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.109
+SAMN13515385,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.149
+SAMN13515393,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.094
+SAMN13515394,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.077
+SAMN13515397,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.132
+SAMN13515425,PRJNA594393,101-029,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-09-01,primary,1.0,0.073
+SAMN13514960,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.113
+SAMN13514969,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.097
+SAMN13514971,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.203
+SAMN13515075,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.157
+SAMN13515088,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.13
+SAMN13515095,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.131
+SAMN13515155,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.146
+SAMN13515182,PRJNA594393,101-030,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.083
+SAMN13514959,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.16
+SAMN13514964,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.196
+SAMN13515027,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.087
+SAMN13515043,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.183
+SAMN13515074,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.042
+SAMN13515089,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.143
+SAMN13515123,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.126
+SAMN13515129,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.171
+SAMN13515144,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.126
+SAMN13515153,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.112
+SAMN13515162,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.145
+SAMN13515170,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.117
+SAMN13515174,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.149
+SAMN13515177,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.114
+SAMN13515178,PRJNA594393,101-030,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.078
+SAMN13514952,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.176
+SAMN13514954,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.063
+SAMN13514978,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.132
+SAMN13515028,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.106
+SAMN13515036,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-28,primary,1.0,0.139
+SAMN13515145,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.152
+SAMN13515152,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.151
+SAMN13515169,PRJNA594393,101-031,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.092
+SAMN13514993,PRJNA594393,101-031,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.167
+SAMN13515030,PRJNA594393,101-031,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.154
+SAMN13515057,PRJNA594393,101-031,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.182
+SAMN13515084,PRJNA594393,101-031,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.123
+SAMN13515086,PRJNA594393,101-031,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.158
+SAMN13515168,PRJNA594393,101-031,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-28,primary,1.0,0.19
+SAMN13514936,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.175
+SAMN13514980,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.165
+SAMN13514987,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,,primary,1.0,0.139
+SAMN13514989,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.126
+SAMN13515037,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,,primary,1.0,0.18
+SAMN13515070,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.188
+SAMN13515073,PRJNA594393,101-031,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-28,primary,1.0,0.218
+SAMN13514973,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.147
+SAMN13514974,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.173
+SAMN13515010,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.211
+SAMN13515019,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.1
+SAMN13515022,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.169
+SAMN13515042,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.119
+SAMN13515048,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.08
+SAMN13515059,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.116
+SAMN13515082,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.17
+SAMN13515122,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.147
+SAMN13515124,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.016
+SAMN13515125,PRJNA594393,101-031,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-28,primary,1.0,0.122
+SAMN13514925,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.165
+SAMN13514926,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.105
+SAMN13514935,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.156
+SAMN13514939,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.151
+SAMN13515025,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.156
+SAMN13515076,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.136
+SAMN13515077,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.132
+SAMN13515078,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.126
+SAMN13515097,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.131
+SAMN13515136,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.079
+SAMN13515180,PRJNA594393,101-032,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.006
+SAMN13514933,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.156
+SAMN13514950,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.13
+SAMN13514965,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.116
+SAMN13514966,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.228
+SAMN13514983,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,,primary,1.0,0.137
+SAMN13515000,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.1
+SAMN13515029,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.03
+SAMN13515041,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,,primary,1.0,0.106
+SAMN13515061,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,,primary,1.0,0.107
+SAMN13515112,PRJNA594393,101-032,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.153
+SAMN13514928,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.196
+SAMN13514957,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.241
+SAMN13515016,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.086
+SAMN13515054,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.164
+SAMN13515079,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.128
+SAMN13515111,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.172
+SAMN13515119,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.17
+SAMN13515149,PRJNA594393,101-032,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.186
+SAMN13514924,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.086
+SAMN13514931,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.091
+SAMN13515053,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.187
+SAMN13515102,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.163
+SAMN13515118,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.133
+SAMN13515127,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.123
+SAMN13515130,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.116
+SAMN13515164,PRJNA594393,101-033,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.119
+SAMN13514940,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.159
+SAMN13515002,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.09
+SAMN13515007,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.159
+SAMN13515052,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.118
+SAMN13515103,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.132
+SAMN13515117,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.083
+SAMN13515175,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.062
+SAMN13515183,PRJNA594393,101-033,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.044
+SAMN13514942,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.087
+SAMN13514962,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.138
+SAMN13514975,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.16
+SAMN13515021,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.161
+SAMN13515067,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.254
+SAMN13515068,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.152
+SAMN13515141,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.147
+SAMN13515148,PRJNA594393,101-033,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.089
+SAMN13514923,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.116
+SAMN13514944,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.097
+SAMN13514947,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.211
+SAMN13514955,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.11
+SAMN13514976,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.142
+SAMN13514979,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.194
+SAMN13514981,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.222
+SAMN13514982,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.117
+SAMN13515003,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.164
+SAMN13515004,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.142
+SAMN13515020,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.078
+SAMN13515090,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.174
+SAMN13515110,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.158
+SAMN13515120,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.128
+SAMN13515128,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.102
+SAMN13515140,PRJNA594393,101-033,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.113
+SAMN13514958,PRJNA594393,101-034,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.127
+SAMN13514970,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.107
+SAMN13515017,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.123
+SAMN13515034,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.104
+SAMN13515039,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.119
+SAMN13515092,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.122
+SAMN13515101,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.103
+SAMN13515154,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.125
+SAMN13515159,PRJNA594393,101-035,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.088
+SAMN13514977,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.154
+SAMN13514992,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.119
+SAMN13515001,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.131
+SAMN13515015,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.087
+SAMN13515032,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.182
+SAMN13515081,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.141
+SAMN13515116,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.113
+SAMN13515138,PRJNA594393,101-035,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.155
+SAMN13515011,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.106
+SAMN13515051,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.091
+SAMN13515056,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.079
+SAMN13515080,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.065
+SAMN13515108,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.112
+SAMN13515121,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.115
+SAMN13515179,PRJNA594393,101-035,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.104
+SAMN13514921,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.144
+SAMN13514937,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.118
+SAMN13514948,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.142
+SAMN13514995,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.151
+SAMN13514996,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.131
+SAMN13515018,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.138
+SAMN13515031,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.143
+SAMN13515040,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.033
+SAMN13515060,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.095
+SAMN13515062,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.156
+SAMN13515072,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.121
+SAMN13515093,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.17
+SAMN13515126,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.13
+SAMN13515150,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.1
+SAMN13515157,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.096
+SAMN13515171,PRJNA594393,101-035,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.09
+SAMN13514930,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.102
+SAMN13515066,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.038
+SAMN13515071,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.106
+SAMN13515096,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.159
+SAMN13515165,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,,primary,1.0,0.098
+SAMN13515166,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.093
+SAMN13515173,PRJNA594393,101-038,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.043
+SAMN13514929,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.09
+SAMN13514953,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.143
+SAMN13514967,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.129
+SAMN13515024,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.156
+SAMN13515033,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.103
+SAMN13515113,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.112
+SAMN13515131,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.14
+SAMN13515137,PRJNA594393,101-038,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.107
+SAMN13514984,PRJNA594393,101-038,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.179
+SAMN13515012,PRJNA594393,101-038,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.232
+SAMN13515063,PRJNA594393,101-038,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.164
+SAMN13514927,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.149
+SAMN13514941,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.213
+SAMN13514991,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.139
+SAMN13514997,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.212
+SAMN13515013,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.159
+SAMN13515023,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.154
+SAMN13515087,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.194
+SAMN13515147,PRJNA594393,101-039,Feeding1,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 1 (lower dose),,2017-08-25,primary,1.0,0.089
+SAMN13514963,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.117
+SAMN13515009,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.172
+SAMN13515038,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.179
+SAMN13515064,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.133
+SAMN13515065,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.135
+SAMN13515083,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.151
+SAMN13515099,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.088
+SAMN13515142,PRJNA594393,101-039,Feeding2,adult,,,US,healthy_control,Healthy volunteers,prebiotic_or_fibre,FOS feeding period 2 (higher dose),,2017-08-25,primary,1.0,0.129
+SAMN13514999,PRJNA594393,101-039,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.057
+SAMN13515005,PRJNA594393,101-039,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.137
+SAMN13515105,PRJNA594393,101-039,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.117
+SAMN13515134,PRJNA594393,101-039,Run-In,adult,,,US,healthy_control,Healthy volunteers,no_intervention,run-in baseline period before FOS feeding,,2017-08-25,primary,1.0,0.045
+SAMN13514922,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.146
+SAMN13514986,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.18
+SAMN13514988,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.163
+SAMN13514990,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.116
+SAMN13514994,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.178
+SAMN13514998,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.137
+SAMN13515026,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.184
+SAMN13515044,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.195
+SAMN13515046,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.122
+SAMN13515047,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.114
+SAMN13515094,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.152
+SAMN13515098,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.096
+SAMN13515106,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.127
+SAMN13515135,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.127
+SAMN13515156,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.14
+SAMN13515158,PRJNA594393,101-039,Washout,adult,,,US,healthy_control,Healthy volunteers,no_intervention,"washout period, no FOS intake",,2017-08-25,primary,1.0,0.054
