@@ -1,0 +1,84 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN39488496,PRJNA1066476,Donor1,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 1 sample,,,primary,1.0,5.761
+SAMN39488497,PRJNA1066476,Donor10,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 10 sample,,,primary,1.0,6.863
+SAMN39488498,PRJNA1066476,Donor3,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 3 sample,,,primary,1.0,5.916
+SAMN39488499,PRJNA1066476,Donor4,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 4 sample,,,primary,1.0,5.127
+SAMN39488500,PRJNA1066476,Donor6,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 6 sample,,,primary,1.0,8.218
+SAMN39488501,PRJNA1066476,Donor7,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 7 sample,,,primary,1.0,4.683
+SAMN39488502,PRJNA1066476,Donor8,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 8 sample,,,primary,1.0,6.007
+SAMN39488503,PRJNA1066476,Donor9,Donor,adult,,,CN,,mixed_case_control: ulcerative colitis patients vs healthy controls,no_intervention,FMT donor 9 sample,,,primary,1.0,5.002
+SAMN39488544,PRJNA1066476,F1,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,4.862
+SAMN39488545,PRJNA1066476,F1,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.37
+SAMN39488547,PRJNA1066476,F1,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,4.899
+SAMN39488546,PRJNA1066476,F1,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,4.918
+SAMN39488570,PRJNA1066476,F10,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,6.779
+SAMN39488571,PRJNA1066476,F10,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.801
+SAMN39488572,PRJNA1066476,F10,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.544
+SAMN39488573,PRJNA1066476,F12,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,4.752
+SAMN39488574,PRJNA1066476,F12,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.814
+SAMN39488575,PRJNA1066476,F12,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.109
+SAMN39488536,PRJNA1066476,F13,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.759
+SAMN39488537,PRJNA1066476,F13,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.076
+SAMN39488539,PRJNA1066476,F13,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.558
+SAMN39488538,PRJNA1066476,F13,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.398
+SAMN39488576,PRJNA1066476,F14,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,6.202
+SAMN39488577,PRJNA1066476,F14,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.121
+SAMN39488578,PRJNA1066476,F14,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.286
+SAMN39488504,PRJNA1066476,F15,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.383
+SAMN39488505,PRJNA1066476,F15,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.19
+SAMN39488507,PRJNA1066476,F15,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.489
+SAMN39488506,PRJNA1066476,F15,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.883
+SAMN39488508,PRJNA1066476,F16,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.944
+SAMN39488509,PRJNA1066476,F16,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.724
+SAMN39488511,PRJNA1066476,F16,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.531
+SAMN39488510,PRJNA1066476,F16,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.956
+SAMN39488540,PRJNA1066476,F17,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,6.203
+SAMN39488541,PRJNA1066476,F17,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.424
+SAMN39488543,PRJNA1066476,F17,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,4.744
+SAMN39488542,PRJNA1066476,F17,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.897
+SAMN39488512,PRJNA1066476,F18,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.655
+SAMN39488513,PRJNA1066476,F18,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.287
+SAMN39488514,PRJNA1066476,F18,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.808
+SAMN39488515,PRJNA1066476,F19,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.663
+SAMN39488516,PRJNA1066476,F19,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.981
+SAMN39488518,PRJNA1066476,F19,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.638
+SAMN39488517,PRJNA1066476,F19,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.321
+SAMN39488548,PRJNA1066476,F2,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,4.687
+SAMN39488549,PRJNA1066476,F2,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.417
+SAMN39488551,PRJNA1066476,F2,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,4.982
+SAMN39488550,PRJNA1066476,F2,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.021
+SAMN39488519,PRJNA1066476,F20,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.526
+SAMN39488520,PRJNA1066476,F20,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.262
+SAMN39488522,PRJNA1066476,F20,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,9.383
+SAMN39488521,PRJNA1066476,F20,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.231
+SAMN39488523,PRJNA1066476,F21,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,6.252
+SAMN39488524,PRJNA1066476,F21,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,12.646
+SAMN39488526,PRJNA1066476,F21,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.153
+SAMN39488525,PRJNA1066476,F21,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,11.542
+SAMN39488533,PRJNA1066476,F22,W0,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,4.819
+SAMN39488534,PRJNA1066476,F22,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.172
+SAMN39488535,PRJNA1066476,F22,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,8.066
+SAMN39488552,PRJNA1066476,F3,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,4.905
+SAMN39488553,PRJNA1066476,F3,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.606
+SAMN39488568,PRJNA1066476,F3,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.651
+SAMN39488554,PRJNA1066476,F3,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.801
+SAMN39488555,PRJNA1066476,F4,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.638
+SAMN39488556,PRJNA1066476,F4,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.153
+SAMN39488530,PRJNA1066476,F4,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.265
+SAMN39488529,PRJNA1066476,F4,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,4.715
+SAMN39488557,PRJNA1066476,F5,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.635
+SAMN39488558,PRJNA1066476,F5,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.835
+SAMN39488559,PRJNA1066476,F6,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.403
+SAMN39488560,PRJNA1066476,F6,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.029
+SAMN39488561,PRJNA1066476,F7,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.642
+SAMN39488562,PRJNA1066476,F7,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.667
+SAMN39488528,PRJNA1066476,F7,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.02
+SAMN39488527,PRJNA1066476,F7,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.757
+SAMN39488563,PRJNA1066476,F8,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,5.078
+SAMN39488564,PRJNA1066476,F8,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.828
+SAMN39488569,PRJNA1066476,F8,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.546
+SAMN39488565,PRJNA1066476,F8,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,6.245
+SAMN39488566,PRJNA1066476,F9,W0,adult,,,CN,ulcerative_colitis,FMT,no_intervention,baseline before FMT; assigned arm: FMT treatment,,,primary,1.0,6.502
+SAMN39488567,PRJNA1066476,F9,W1,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.3
+SAMN39488532,PRJNA1066476,F9,W12,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,7.389
+SAMN39488531,PRJNA1066476,F9,W4,adult,,,CN,ulcerative_colitis,FMT,fmt,FMT treatment,,,primary,1.0,5.005
