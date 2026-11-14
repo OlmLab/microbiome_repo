@@ -1,0 +1,62 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN05761898,PRJNA344504,,,,,,US,,,,,,2016-08-23,unknown,2.0,0.981
+SAMN05761899,PRJNA344504,,,,,,US,,,,,,2016-08-23,unknown,5.0,3.276
+SAMN05761900,PRJNA344504,,,,,,US,,,,,,2016-08-22,unknown,2.0,1.106
+SAMN05792872,PRJNA344504,,,,,,US,other_infection,Zika virus disease,,,,2016-06-22,primary,5.0,1.481
+SAMN05844990,PRJNA344504,,,adult,20434.0,female,DO,other_infection,Zika virus disease,,,,2016-04-05,primary,1.0,0.008
+SAMN05844991,PRJNA344504,,,adult,9496.5,female,US,other_infection,Zika virus disease,,,,2016-08-02,primary,1.0,0.042
+SAMN05844992,PRJNA344504,,,adult,12043.2,male,US,other_infection,Zika virus disease,,,,2016-08-05,primary,2.0,0.345
+SAMN05844993,PRJNA344504,,,adult,12417.9,male,US,other_infection,Zika virus disease,,,,2016-08-05,primary,1.0,0.018
+SAMN05844994,PRJNA344504,,,adult,17151.0,female,US,other_infection,Zika virus disease,,,,2016-08-17,primary,2.0,1.274
+SAMN05844995,PRJNA344504,,,,,,US,other_infection,Zika virus disease,,,,2016-09-04,unknown,2.0,2.319
+SAMN05844999,PRJNA344504,,,adult,13878.5,female,BR,other_infection,Zika virus disease,,,,2016-04-12,primary,2.0,0.079
+SAMN05845000,PRJNA344504,,,adult,12783.8,male,BR,other_infection,Zika virus disease,,,,2016-03-23,primary,2.0,0.924
+SAMN05845001,PRJNA344504,,,adult,11312.8,female,BR,other_infection,Zika virus disease,,,,2016-04-18,primary,2.0,1.045
+SAMN05845003,PRJNA344504,,,adult,12417.9,male,BR,other_infection,Zika virus disease,,,,2016-04-13,primary,2.0,0.301
+SAMN05845005,PRJNA344504,,,adult,,female,BR,other_infection,Zika virus disease,,,,2016-03-28,primary,2.0,0.209
+SAMN05845006,PRJNA344504,,,adult,15330.0,female,HN,other_infection,Zika virus disease,,,,2016-06-06,primary,2.0,0.494
+SAMN05845007,PRJNA344504,,,adult,9131.0,female,HN,other_infection,Zika virus disease,,,,2016-06-09,primary,2.0,0.515
+SAMN05845008,PRJNA344504,,,adult,10234.0,female,HN,other_infection,Zika virus disease,,,,2016-06-10,primary,2.0,0.211
+SAMN05845009,PRJNA344504,,,adult,9857.0,female,HN,other_infection,Zika virus disease,,,,2016-04-30,primary,5.0,0.303
+SAMN05845012,PRJNA344504,,,adult,8035.5,female,HN,other_infection,Zika virus disease,,,,2016-05-13,primary,2.0,0.234
+SAMN05853061,PRJNA344504,,,,,,US,other_infection,Zika virus disease,,,,2016-07-19,primary,1.0,0.042
+SAMN05861584,PRJNA344504,,,adult,20820.0,female,DO,other_infection,Zika virus disease,,,,2016-04-20,primary,2.0,0.656
+SAMN05861585,PRJNA344504,,,adult,9131.0,female,DO,other_infection,Zika virus disease,,,,2016-04-21,primary,2.0,0.087
+SAMN05861586,PRJNA344504,,,adult,13504.0,male,DO,other_infection,Zika virus disease,,,,2016-04-27,primary,2.0,0.057
+SAMN05861587,PRJNA344504,,,adult,11312.8,male,DO,other_infection,Zika virus disease,,,,2016-06-14,primary,2.0,0.042
+SAMN05965485,PRJNA344504,,,,,,US,,,,,,2016-09-09,unknown,2.0,1.686
+SAMN05965486,PRJNA344504,,,,,,US,,,,,,2016-09-20,unknown,2.0,1.667
+SAMN05965487,PRJNA344504,,,,,,US,,,,,,2016-10-05,unknown,2.0,5.268
+SAMN06617248,PRJNA344504,,,adult,15696.8,female,BR,other_infection,Zika virus disease,,,,2016-03-27,primary,1.0,0.011
+SAMN06617250,PRJNA344504,,,adult,12783.8,male,BR,other_infection,Zika virus disease,,,,2016-04-08,primary,1.0,0.071
+SAMN06617251,PRJNA344504,,,adult,13878.5,female,BR,other_infection,Zika virus disease,,,,2016-04-12,primary,2.0,0.48
+SAMN06617253,PRJNA344504,,,adult,,female,BR,other_infection,Zika virus disease,,,,2016-04-15,primary,1.0,0.102
+SAMN06617256,PRJNA344504,,,adult,14239.8,female,BR,other_infection,Zika virus disease,,,,2016-03-30,primary,1.0,0.014
+SAMN06617259,PRJNA344504,,,adult,,female,BR,other_infection,Zika virus disease,,,,2016-03-30,primary,2.0,0.059
+SAMN06617261,PRJNA344504,,,adult,16069.0,male,BR,other_infection,Zika virus disease,,,,2016-04-06,primary,2.0,0.328
+SAMN06617264,PRJNA344504,,,adult,10957.5,male,BR,other_infection,Zika virus disease,,,,2016-04-04,primary,2.0,0.087
+SAMN06617266,PRJNA344504,,,child,4019.0,female,CO,other_infection,Zika virus disease,,,,2016-04-28,primary,1.0,0.021
+SAMN06617268,PRJNA344504,,,adult,13504.0,female,CO,other_infection,Zika virus disease,,,,2016-04-05,primary,1.0,0.014
+SAMN06617270,PRJNA344504,,,,,female,DO,other_infection,Zika virus disease,,,,2016-04-05,primary,1.0,0.011
+SAMN06617272,PRJNA344504,,,adult,20434.0,female,DO,other_infection,Zika virus disease,,,,2016-04-05,primary,1.0,0.003
+SAMN06617277,PRJNA344504,,,adult,,male,DO,other_infection,Zika virus disease,,,,2016-04-18,primary,1.0,0.005
+SAMN06617280,PRJNA344504,,,adult,13149.0,female,DO,other_infection,Zika virus disease,,,,2016-06-13,primary,1.0,0.027
+SAMN06617281,PRJNA344504,,,adult,10234.0,female,DO,other_infection,Zika virus disease,,,,2016-05-10,primary,1.0,0.012
+SAMN06617283,PRJNA344504,,,adult,,female,DO,other_infection,Zika virus disease,,,,2016-06-06,primary,1.0,0.015
+SAMN06617285,PRJNA344504,,,adult,21177.0,female,DO,other_infection,Zika virus disease,,,,2016-06-18,primary,1.0,0.034
+SAMN06617287,PRJNA344504,,,adult,13149.0,female,DO,other_infection,Zika virus disease,,,,2016-07-07,primary,1.0,0.016
+SAMN06617294,PRJNA344504,,,adult,13149.0,female,HN,other_infection,Zika virus disease,,,,2016-06-04,primary,1.0,0.007
+SAMN06617295,PRJNA344504,,,adult,8391.0,female,HN,other_infection,Zika virus disease,,,,2016-06-07,primary,1.0,0.006
+SAMN06617296,PRJNA344504,,,adult,9131.0,female,HN,other_infection,Zika virus disease,,,,2016-06-10,primary,1.0,0.017
+SAMN06617300,PRJNA344504,,,adult,9496.5,female,HN,other_infection,Zika virus disease,,,,2016-05-13,primary,1.0,0.011
+SAMN06617303,PRJNA344504,,,adult,8766.0,female,JM,other_infection,Zika virus disease,,,,2016-07-10,primary,1.0,0.019
+SAMN06617305,PRJNA344504,,,adult,,female,JM,other_infection,Zika virus disease,,,,2016-09-28,primary,1.0,0.026
+SAMN06617307,PRJNA344504,,,adult,13878.5,female,JM,other_infection,Zika virus disease,,,,2016-06-13,primary,1.0,0.0
+SAMN06617308,PRJNA344504,,,adult,8035.5,female,PR,other_infection,Zika virus disease,,,,2016-04-13,primary,1.0,0.026
+SAMN06617310,PRJNA344504,,,adult,18993.0,male,PR,other_infection,Zika virus disease,,,,2016-06-26,primary,1.0,0.024
+SAMN06617316,PRJNA344504,,,adult,9496.5,male,US,other_infection,Zika virus disease,,,,2016-08-15,primary,1.0,0.014
+SAMN06649490,PRJNA344504,,,adult,19706.0,male,BL,other_infection,Dengue virus disease,,,,2016-04-27,primary,1.0,0.556
+SAMN07172982,PRJNA344504,,,adult,12783.8,male,US,other_infection,Zika virus disease,,,,2016-08-04,primary,1.0,0.062
+SAMN07172983,PRJNA344504,,,,,,US,other_infection,Zika virus disease,,,,2016-09-23,unknown,1.0,0.036
+SAMN07172984,PRJNA344504,,,adult,16069.0,male,BR,other_infection,Zika virus disease,,,,2016-03-30,primary,1.0,0.057
+SAMN07172985,PRJNA344504,,,adult,15330.0,female,BR,other_infection,Zika virus disease,,,,2016-04-15,primary,1.0,0.149

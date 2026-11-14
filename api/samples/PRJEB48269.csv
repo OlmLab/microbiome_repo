@@ -1,0 +1,273 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMEA10030968,PRJEB48269,HKU003,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-06,unknown,1.0,9.201
+SAMEA10030969,PRJEB48269,HKU003,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-09,unknown,1.0,9.829
+SAMEA10030970,PRJEB48269,HKU005,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,8.413
+SAMEA10030971,PRJEB48269,HKU005,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,9.485
+SAMEA10030972,PRJEB48269,HKU007,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-11,unknown,1.0,9.04
+SAMEA10030973,PRJEB48269,HKU007,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-29,unknown,1.0,8.287
+SAMEA10030974,PRJEB48269,HKU011,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-05,unknown,1.0,7.001
+SAMEA10030975,PRJEB48269,HKU011,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-29,unknown,1.0,5.665
+SAMEA10030976,PRJEB48269,HKU014,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-13,unknown,1.0,6.661
+SAMEA10030977,PRJEB48269,HKU014,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-05,unknown,1.0,6.266
+SAMEA10030978,PRJEB48269,HKU018,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-07,unknown,1.0,7.327
+SAMEA10030979,PRJEB48269,HKU018,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-30,unknown,1.0,5.731
+SAMEA10030980,PRJEB48269,HKU028,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-04,unknown,1.0,9.113
+SAMEA10030981,PRJEB48269,HKU028,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-08,unknown,1.0,7.284
+SAMEA10030982,PRJEB48269,HKU029,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-21,unknown,1.0,9.706
+SAMEA10030983,PRJEB48269,HKU029,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-29,unknown,1.0,7.699
+SAMEA10030984,PRJEB48269,HKU030,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-13,unknown,1.0,10.674
+SAMEA10030985,PRJEB48269,HKU030,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-11-07,unknown,1.0,8.219
+SAMEA10030986,PRJEB48269,HKU033,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-30,unknown,1.0,9.198
+SAMEA10030987,PRJEB48269,HKU033,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-27,unknown,1.0,7.489
+SAMEA10030988,PRJEB48269,HKU036,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-12,unknown,1.0,10.776
+SAMEA10030989,PRJEB48269,HKU036,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-17,unknown,1.0,9.825
+SAMEA10030990,PRJEB48269,HKU043,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-25,unknown,1.0,7.587
+SAMEA10030991,PRJEB48269,HKU043,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-20,unknown,1.0,8.826
+SAMEA10030992,PRJEB48269,HKU045,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-20,unknown,1.0,7.242
+SAMEA10030993,PRJEB48269,HKU045,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-17,unknown,1.0,7.574
+SAMEA10030994,PRJEB48269,HKU046,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-25,unknown,1.0,8.128
+SAMEA10030995,PRJEB48269,HKU046,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-26,unknown,1.0,3.928
+SAMEA10030996,PRJEB48269,HKU047,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-05,unknown,1.0,8.064
+SAMEA10030997,PRJEB48269,HKU047,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-27,unknown,1.0,8.885
+SAMEA10030998,PRJEB48269,HKU050,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-07,unknown,1.0,6.677
+SAMEA10030999,PRJEB48269,HKU050,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-25,unknown,1.0,7.71
+SAMEA10031000,PRJEB48269,HKU052,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-20,unknown,1.0,8.487
+SAMEA10031001,PRJEB48269,HKU052,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-14,unknown,1.0,6.981
+SAMEA10031002,PRJEB48269,HKU056,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-25,unknown,1.0,7.164
+SAMEA10031003,PRJEB48269,HKU056,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-10,unknown,1.0,10.848
+SAMEA10031004,PRJEB48269,HKU062,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-27,unknown,1.0,8.851
+SAMEA10031005,PRJEB48269,HKU062,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-16,unknown,1.0,6.319
+SAMEA10031006,PRJEB48269,HKU063,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-27,unknown,1.0,5.76
+SAMEA10031007,PRJEB48269,HKU063,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-29,unknown,1.0,8.406
+SAMEA10031008,PRJEB48269,HKU067,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-07,unknown,1.0,8.207
+SAMEA10031009,PRJEB48269,HKU067,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,9.62
+SAMEA10031010,PRJEB48269,HKU068,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,8.713
+SAMEA10031011,PRJEB48269,HKU068,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-04,unknown,1.0,7.834
+SAMEA10031012,PRJEB48269,HKU070,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-16,unknown,1.0,8.686
+SAMEA10031013,PRJEB48269,HKU070,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,12.662
+SAMEA10031014,PRJEB48269,HKU071,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-29,unknown,1.0,6.954
+SAMEA10031015,PRJEB48269,HKU071,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-22,unknown,1.0,13.284
+SAMEA10031016,PRJEB48269,HKU072,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,8.268
+SAMEA10031017,PRJEB48269,HKU072,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-16,unknown,1.0,6.161
+SAMEA10031018,PRJEB48269,HKU073,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,8.122
+SAMEA10031019,PRJEB48269,HKU073,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-16,unknown,1.0,8.029
+SAMEA10031020,PRJEB48269,HKU075,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-31,unknown,1.0,5.427
+SAMEA10031021,PRJEB48269,HKU075,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-23,unknown,1.0,5.757
+SAMEA10031022,PRJEB48269,HKU077,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-06,unknown,1.0,9.344
+SAMEA10031023,PRJEB48269,HKU077,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-28,unknown,1.0,4.235
+SAMEA10031024,PRJEB48269,HKU081,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-20,unknown,1.0,8.048
+SAMEA10031025,PRJEB48269,HKU081,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,8.979
+SAMEA10031026,PRJEB48269,HKU082,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,8.072
+SAMEA10031027,PRJEB48269,HKU082,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-05,unknown,1.0,4.192
+SAMEA10031028,PRJEB48269,HKU084,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-08,unknown,1.0,8.127
+SAMEA10031029,PRJEB48269,HKU084,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-08,unknown,1.0,3.082
+SAMEA10031030,PRJEB48269,HKU085,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,6.766
+SAMEA10031031,PRJEB48269,HKU085,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-06,unknown,1.0,5.216
+SAMEA10031032,PRJEB48269,HKU086,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-04,unknown,1.0,5.579
+SAMEA10031033,PRJEB48269,HKU086,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-28,unknown,1.0,5.609
+SAMEA10031034,PRJEB48269,HKU087,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-04,unknown,1.0,8.109
+SAMEA10031035,PRJEB48269,HKU087,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-29,unknown,1.0,4.403
+SAMEA10031036,PRJEB48269,HKU088,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,6.293
+SAMEA10031037,PRJEB48269,HKU088,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-28,unknown,1.0,6.251
+SAMEA10031038,PRJEB48269,HKU090,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-04,unknown,1.0,7.696
+SAMEA10031039,PRJEB48269,HKU090,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-28,unknown,1.0,5.522
+SAMEA10031040,PRJEB48269,HKU091,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-05,unknown,1.0,5.682
+SAMEA10031041,PRJEB48269,HKU091,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-05,unknown,1.0,4.81
+SAMEA10031042,PRJEB48269,HKU096,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-06,unknown,1.0,9.896
+SAMEA10031043,PRJEB48269,HKU096,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-29,unknown,1.0,8.455
+SAMEA10031044,PRJEB48269,HKU099,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,4.348
+SAMEA10031045,PRJEB48269,HKU099,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,5.034
+SAMEA10031046,PRJEB48269,HKU100,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,6.359
+SAMEA10031047,PRJEB48269,HKU100,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-06,unknown,1.0,8.478
+SAMEA10031048,PRJEB48269,HKU101,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,4.712
+SAMEA10031049,PRJEB48269,HKU101,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-07,unknown,1.0,6.211
+SAMEA10031050,PRJEB48269,HKU102,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,6.1
+SAMEA10031051,PRJEB48269,HKU102,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-08,unknown,1.0,7.133
+SAMEA10031052,PRJEB48269,HKU103,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,8.116
+SAMEA10031053,PRJEB48269,HKU103,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-04,unknown,1.0,11.189
+SAMEA10031054,PRJEB48269,HKU107,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-13,unknown,1.0,8.835
+SAMEA10031055,PRJEB48269,HKU107,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-08,unknown,1.0,9.191
+SAMEA10031056,PRJEB48269,HKU110,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-21,unknown,1.0,5.208
+SAMEA10031057,PRJEB48269,HKU110,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,8.081
+SAMEA10031058,PRJEB48269,HKU111,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-12,unknown,1.0,6.976
+SAMEA10031059,PRJEB48269,HKU111,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-06,unknown,1.0,11.848
+SAMEA10031060,PRJEB48269,HKU113,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-12,unknown,1.0,6.503
+SAMEA10031061,PRJEB48269,HKU113,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-06,unknown,1.0,6.171
+SAMEA10031062,PRJEB48269,HKU116,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,8.388
+SAMEA10031063,PRJEB48269,HKU116,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-08,unknown,1.0,7.918
+SAMEA10031064,PRJEB48269,HKU119,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-11,unknown,1.0,5.863
+SAMEA10031065,PRJEB48269,HKU119,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-06,unknown,1.0,8.321
+SAMEA10031066,PRJEB48269,HKU120,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-11,unknown,1.0,6.514
+SAMEA10031067,PRJEB48269,HKU120,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-27,unknown,1.0,7.23
+SAMEA10031068,PRJEB48269,HKU122,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,6.864
+SAMEA10031069,PRJEB48269,HKU122,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-15,unknown,1.0,8.218
+SAMEA10031070,PRJEB48269,HKU123,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-29,unknown,1.0,8.595
+SAMEA10031071,PRJEB48269,HKU123,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-19,unknown,1.0,10.636
+SAMEA10031072,PRJEB48269,HKU124,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-23,unknown,1.0,7.009
+SAMEA10031073,PRJEB48269,HKU124,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-15,unknown,1.0,6.669
+SAMEA10031074,PRJEB48269,HKU126,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-21,unknown,1.0,7.338
+SAMEA10031075,PRJEB48269,HKU126,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-13,unknown,1.0,7.201
+SAMEA10031076,PRJEB48269,HKU128,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-19,unknown,1.0,6.17
+SAMEA10031077,PRJEB48269,HKU128,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-13,unknown,1.0,7.479
+SAMEA10031078,PRJEB48269,HKU129,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-27,unknown,1.0,7.221
+SAMEA10031079,PRJEB48269,HKU129,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-27,unknown,1.0,11.535
+SAMEA10031080,PRJEB48269,HKU130,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-21,unknown,1.0,6.595
+SAMEA10031081,PRJEB48269,HKU130,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-17,unknown,1.0,10.309
+SAMEA10031082,PRJEB48269,HKU131,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-01,unknown,1.0,9.69
+SAMEA10031083,PRJEB48269,HKU131,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-20,unknown,1.0,10.095
+SAMEA10031084,PRJEB48269,HKU132,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-27,unknown,1.0,7.721
+SAMEA10031085,PRJEB48269,HKU132,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-20,unknown,1.0,11.497
+SAMEA10031086,PRJEB48269,HKU133,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-25,unknown,1.0,8.402
+SAMEA10031087,PRJEB48269,HKU133,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,9.616
+SAMEA10031088,PRJEB48269,HKU136,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-26,unknown,1.0,7.093
+SAMEA10031089,PRJEB48269,HKU136,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-20,unknown,1.0,9.001
+SAMEA10031090,PRJEB48269,HKU137,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-28,unknown,1.0,10.774
+SAMEA10031091,PRJEB48269,HKU137,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,10.498
+SAMEA10031092,PRJEB48269,HKU138,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-02,unknown,1.0,6.748
+SAMEA10031093,PRJEB48269,HKU138,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-18,unknown,1.0,7.621
+SAMEA10031094,PRJEB48269,HKU141,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-11,unknown,1.0,5.494
+SAMEA10031095,PRJEB48269,HKU141,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,10.133
+SAMEA10031096,PRJEB48269,HKU142,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-23,unknown,1.0,8.105
+SAMEA10031097,PRJEB48269,HKU142,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-20,unknown,1.0,7.647
+SAMEA10031098,PRJEB48269,HKU145,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-25,unknown,1.0,8.021
+SAMEA10031099,PRJEB48269,HKU145,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-12,unknown,1.0,6.88
+SAMEA10031100,PRJEB48269,HKU146,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-02,unknown,1.0,9.655
+SAMEA10031101,PRJEB48269,HKU146,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-18,unknown,1.0,9.097
+SAMEA10031102,PRJEB48269,HKU147,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-30,unknown,1.0,7.917
+SAMEA10031103,PRJEB48269,HKU147,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,6.887
+SAMEA10031104,PRJEB48269,HKU148,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-23,unknown,1.0,9.25
+SAMEA10031105,PRJEB48269,HKU148,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-20,unknown,1.0,8.802
+SAMEA10031106,PRJEB48269,HKU154,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-04,unknown,1.0,9.365
+SAMEA10031107,PRJEB48269,HKU154,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-25,unknown,1.0,10.27
+SAMEA10031108,PRJEB48269,HKU169,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-07,unknown,1.0,8.87
+SAMEA10031109,PRJEB48269,HKU169,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,8.052
+SAMEA10031110,PRJEB48269,HKU171,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-08,unknown,1.0,7.727
+SAMEA10031111,PRJEB48269,HKU171,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,9.473
+SAMEA10031112,PRJEB48269,HKU172,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-10,unknown,1.0,6.502
+SAMEA10031113,PRJEB48269,HKU172,,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-26,unknown,1.0,8.192
+SAMEA10031114,PRJEB48269,VAC002S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-20,unknown,1.0,3.179
+SAMEA10031115,PRJEB48269,VAC003B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-22,unknown,1.0,4.851
+SAMEA10031116,PRJEB48269,VAC003B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-15,unknown,1.0,5.032
+SAMEA10031117,PRJEB48269,VAC005B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-22,unknown,1.0,3.791
+SAMEA10031118,PRJEB48269,VAC005B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-22,unknown,1.0,4.621
+SAMEA10031119,PRJEB48269,VAC007B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-24,unknown,1.0,5.518
+SAMEA10031120,PRJEB48269,VAC007B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-05,unknown,1.0,8.279
+SAMEA10031121,PRJEB48269,VAC010B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-09,unknown,1.0,6.184
+SAMEA10031122,PRJEB48269,VAC010B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-12,unknown,1.0,5.422
+SAMEA10031124,PRJEB48269,VAC011S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-31,unknown,1.0,6.265
+SAMEA10031123,PRJEB48269,VAC011S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-24,unknown,1.0,6.271
+SAMEA10031125,PRJEB48269,VAC012B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-19,unknown,1.0,7.036
+SAMEA10031126,PRJEB48269,VAC012B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,3.882
+SAMEA10031127,PRJEB48269,VAC013B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-24,unknown,1.0,8.372
+SAMEA10031128,PRJEB48269,VAC013B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,6.689
+SAMEA10031130,PRJEB48269,VAC015S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-21,unknown,1.0,6.221
+SAMEA10031129,PRJEB48269,VAC015S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-25,unknown,1.0,10.767
+SAMEA10031131,PRJEB48269,VAC016B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-26,unknown,1.0,4.985
+SAMEA10031132,PRJEB48269,VAC016B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-21,unknown,1.0,7.334
+SAMEA10031133,PRJEB48269,VAC019B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-01,unknown,1.0,10.54
+SAMEA10031134,PRJEB48269,VAC019B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-05,unknown,1.0,8.275
+SAMEA10031136,PRJEB48269,VAC020S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-29,unknown,1.0,9.469
+SAMEA10031135,PRJEB48269,VAC020S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-31,unknown,1.0,5.551
+SAMEA10031138,PRJEB48269,VAC021S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-23,unknown,1.0,10.489
+SAMEA10031137,PRJEB48269,VAC021S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-27,unknown,1.0,8.906
+SAMEA10031139,PRJEB48269,VAC024B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-14,unknown,1.0,8.166
+SAMEA10031140,PRJEB48269,VAC024B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-24,unknown,1.0,8.053
+SAMEA10031142,PRJEB48269,VAC026S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-24,unknown,1.0,9.645
+SAMEA10031141,PRJEB48269,VAC026S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-29,unknown,1.0,5.897
+SAMEA10031143,PRJEB48269,VAC027B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-30,unknown,1.0,10.25
+SAMEA10031144,PRJEB48269,VAC027B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-08,unknown,1.0,6.528
+SAMEA10031146,PRJEB48269,VAC029S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-29,unknown,1.0,6.281
+SAMEA10031145,PRJEB48269,VAC029S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-30,unknown,1.0,8.398
+SAMEA10031147,PRJEB48269,VAC030B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-29,unknown,1.0,9.493
+SAMEA10031148,PRJEB48269,VAC030B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-07,unknown,1.0,7.687
+SAMEA10031150,PRJEB48269,VAC031S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-05,unknown,1.0,7.331
+SAMEA10031149,PRJEB48269,VAC031S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-30,unknown,1.0,9.98
+SAMEA10031151,PRJEB48269,VAC032B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-03-30,unknown,1.0,7.749
+SAMEA10031152,PRJEB48269,VAC032B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-23,unknown,1.0,10.243
+SAMEA10031153,PRJEB48269,VAC033B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-16,unknown,1.0,8.619
+SAMEA10031154,PRJEB48269,VAC033B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-18,unknown,1.0,7.286
+SAMEA10031156,PRJEB48269,VAC035S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-05,unknown,1.0,12.812
+SAMEA10031155,PRJEB48269,VAC035S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-01,unknown,1.0,7.178
+SAMEA10031157,PRJEB48269,VAC036B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-10,unknown,1.0,10.688
+SAMEA10031159,PRJEB48269,VAC038S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-14,unknown,1.0,7.708
+SAMEA10031158,PRJEB48269,VAC038S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-09,unknown,1.0,7.417
+SAMEA10031160,PRJEB48269,VAC039B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-08,unknown,1.0,7.683
+SAMEA10031161,PRJEB48269,VAC039B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-07,unknown,1.0,9.246
+SAMEA10031163,PRJEB48269,VAC040S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-07,unknown,1.0,8.482
+SAMEA10031162,PRJEB48269,VAC040S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-08,unknown,1.0,10.246
+SAMEA10031164,PRJEB48269,VAC041B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-09,unknown,1.0,7.945
+SAMEA10031166,PRJEB48269,VAC043S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,7.924
+SAMEA10031165,PRJEB48269,VAC043S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-12,unknown,1.0,7.682
+SAMEA10031167,PRJEB48269,VAC045B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-14,unknown,1.0,3.12
+SAMEA10031168,PRJEB48269,VAC045B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-12,unknown,1.0,11.38
+SAMEA10031170,PRJEB48269,VAC046S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,8.214
+SAMEA10031169,PRJEB48269,VAC046S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-13,unknown,1.0,4.519
+SAMEA10031172,PRJEB48269,VAC047S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-10,unknown,1.0,9.355
+SAMEA10031171,PRJEB48269,VAC047S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-14,unknown,1.0,3.207
+SAMEA10031173,PRJEB48269,VAC048B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-14,unknown,1.0,4.972
+SAMEA10031174,PRJEB48269,VAC048B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,10.108
+SAMEA10031176,PRJEB48269,VAC049B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-17,unknown,1.0,7.633
+SAMEA10031175,PRJEB48269,VAC049B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-16,unknown,1.0,9.418
+SAMEA10031178,PRJEB48269,VAC050S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-12,unknown,1.0,6.389
+SAMEA10031177,PRJEB48269,VAC050S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-14,unknown,1.0,7.992
+SAMEA10031179,PRJEB48269,VAC051B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-17,unknown,1.0,7.716
+SAMEA10031180,PRJEB48269,VAC051B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-09,unknown,1.0,9.311
+SAMEA10031182,PRJEB48269,VAC053S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-18,unknown,1.0,7.999
+SAMEA10031181,PRJEB48269,VAC053S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-17,unknown,1.0,7.996
+SAMEA10031183,PRJEB48269,VAC054B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-17,unknown,1.0,3.358
+SAMEA10031184,PRJEB48269,VAC054B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-21,unknown,1.0,5.304
+SAMEA10031186,PRJEB48269,VAC055S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-19,unknown,1.0,6.266
+SAMEA10031185,PRJEB48269,VAC055S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-19,unknown,1.0,4.683
+SAMEA10031188,PRJEB48269,VAC056S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-28,unknown,1.0,5.257
+SAMEA10031187,PRJEB48269,VAC056S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-16,unknown,1.0,5.659
+SAMEA10031189,PRJEB48269,VAC057B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-22,unknown,1.0,7.191
+SAMEA10031190,PRJEB48269,VAC057B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-19,unknown,1.0,6.184
+SAMEA10031191,PRJEB48269,VAC058B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-22,unknown,1.0,13.732
+SAMEA10031192,PRJEB48269,VAC058B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-19,unknown,1.0,9.23
+SAMEA10031193,PRJEB48269,VAC059B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,6.87
+SAMEA10031194,PRJEB48269,VAC059B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-24,unknown,1.0,8.557
+SAMEA10031195,PRJEB48269,VAC060B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-22,unknown,1.0,8.263
+SAMEA10031196,PRJEB48269,VAC060B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-22,unknown,1.0,7.732
+SAMEA10031197,PRJEB48269,VAC061B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-23,unknown,1.0,10.862
+SAMEA10031198,PRJEB48269,VAC061B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-24,unknown,1.0,6.973
+SAMEA10031199,PRJEB48269,VAC062B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-22,unknown,1.0,9.176
+SAMEA10031200,PRJEB48269,VAC062B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,6.493
+SAMEA10031202,PRJEB48269,VAC065S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-04,unknown,1.0,6.02
+SAMEA10031201,PRJEB48269,VAC065S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,7.824
+SAMEA10031204,PRJEB48269,VAC066S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-04,unknown,1.0,5.536
+SAMEA10031203,PRJEB48269,VAC066S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,6.579
+SAMEA10031205,PRJEB48269,VAC068B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,5.688
+SAMEA10031206,PRJEB48269,VAC068B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-22,unknown,1.0,9.471
+SAMEA10031207,PRJEB48269,VAC069B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,6.504
+SAMEA10031208,PRJEB48269,VAC069B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-24,unknown,1.0,7.481
+SAMEA10031209,PRJEB48269,VAC070B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,5.761
+SAMEA10031210,PRJEB48269,VAC070B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-16,unknown,1.0,8.209
+SAMEA10031211,PRJEB48269,VAC071B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-24,unknown,1.0,8.642
+SAMEA10031212,PRJEB48269,VAC071B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-17,unknown,1.0,11.627
+SAMEA10031213,PRJEB48269,VAC072B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-21,unknown,1.0,8.519
+SAMEA10031214,PRJEB48269,VAC072B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-18,unknown,1.0,8.548
+SAMEA10031215,PRJEB48269,VAC075B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-28,unknown,1.0,8.322
+SAMEA10031216,PRJEB48269,VAC075B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-14,unknown,1.0,10.954
+SAMEA10031217,PRJEB48269,VAC076B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-28,unknown,1.0,4.884
+SAMEA10031218,PRJEB48269,VAC078B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-04-29,unknown,1.0,6.245
+SAMEA10031219,PRJEB48269,VAC078B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-22,unknown,1.0,9.415
+SAMEA10031220,PRJEB48269,VAC080B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-04,unknown,1.0,6.18
+SAMEA10031221,PRJEB48269,VAC080B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-15,unknown,1.0,9.799
+SAMEA10031223,PRJEB48269,VAC081S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-15,unknown,1.0,8.204
+SAMEA10031222,PRJEB48269,VAC081S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-06,unknown,1.0,5.632
+SAMEA10031225,PRJEB48269,VAC082S,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-19,unknown,1.0,10.218
+SAMEA10031224,PRJEB48269,VAC082S,SinoVac Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-10,unknown,1.0,8.079
+SAMEA10031226,PRJEB48269,VAC089B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-25,unknown,1.0,7.163
+SAMEA10031227,PRJEB48269,VAC089B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-27,unknown,1.0,8.375
+SAMEA10031228,PRJEB48269,VAC093B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-05-29,unknown,1.0,8.717
+SAMEA10031229,PRJEB48269,VAC093B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-24,unknown,1.0,8.949
+SAMEA10031230,PRJEB48269,VAC096B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-01,unknown,1.0,7.575
+SAMEA10031231,PRJEB48269,VAC096B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-23,unknown,1.0,6.624
+SAMEA10031232,PRJEB48269,VAC097B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-01,unknown,1.0,7.273
+SAMEA10031233,PRJEB48269,VAC097B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-19,unknown,1.0,7.785
+SAMEA10031234,PRJEB48269,VAC099B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-02,unknown,1.0,8.088
+SAMEA10031235,PRJEB48269,VAC099B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-07-29,unknown,1.0,3.789
+SAMEA10031236,PRJEB48269,VAC101B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-25,unknown,1.0,5.958
+SAMEA10031237,PRJEB48269,VAC101B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-17,unknown,1.0,5.668
+SAMEA10031238,PRJEB48269,VAC102B,BioNTech Baseline,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-06-29,unknown,1.0,6.521
+SAMEA10031239,PRJEB48269,VAC102B,M1,,,,HK,healthy_control,96 Japanese healthy volunteers,vaccine,,,2021-08-15,unknown,1.0,10.216
