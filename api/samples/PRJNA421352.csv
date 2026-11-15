@@ -1,0 +1,5 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN08140885,PRJNA421352,ALL-12,PC-5M,child,1461.0,female,US,other_cancer,PC-5M,,,,2014,primary,1.0,0.0
+SAMN08140830,PRJNA421352,ALL-14,PC-3M,child,2922.0,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.0
+SAMN08140996,PRJNA421352,ALL-26,PC-3M,child,1826.2,male,US,other_cancer,PC-3M,,,,2014,primary,1.0,0.0
+SAMN08140966,PRJNA421352,HC-11,,infant,1095.8,female,US,healthy_control,Healthy Control,,,,2014,primary,1.0,0.0

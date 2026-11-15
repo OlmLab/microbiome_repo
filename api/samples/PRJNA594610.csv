@@ -1,0 +1,973 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN13521952,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.045
+SAMN13521971,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.075
+SAMN13521980,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.2
+SAMN13522030,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.165
+SAMN13522182,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.072
+SAMN13522315,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.14
+SAMN13522366,PRJNA594610,201-001,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.175
+SAMN13521953,PRJNA594610,201-001,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.216
+SAMN13522067,PRJNA594610,201-001,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.187
+SAMN13522213,PRJNA594610,201-001,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.045
+SAMN13521898,PRJNA594610,201-001,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.049
+SAMN13522056,PRJNA594610,201-001,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.136
+SAMN13522089,PRJNA594610,201-001,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.16
+SAMN13522115,PRJNA594610,201-001,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.097
+SAMN13522319,PRJNA594610,201-001,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.085
+SAMN13522369,PRJNA594610,201-001,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.079
+SAMN13521917,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.18
+SAMN13521943,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.126
+SAMN13521957,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.135
+SAMN13521978,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.214
+SAMN13522134,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.121
+SAMN13522187,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.131
+SAMN13522194,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.127
+SAMN13522216,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.134
+SAMN13522246,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.118
+SAMN13522367,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.164
+SAMN13522379,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.058
+SAMN13522380,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.088
+SAMN13522398,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.04
+SAMN13522400,PRJNA594610,201-001,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.027
+SAMN13521908,PRJNA594610,201-002,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.18
+SAMN13522070,PRJNA594610,201-002,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.128
+SAMN13522088,PRJNA594610,201-002,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.112
+SAMN13522237,PRJNA594610,201-002,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.113
+SAMN13522321,PRJNA594610,201-002,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.112
+SAMN13522328,PRJNA594610,201-002,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.111
+SAMN13521966,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.113
+SAMN13522090,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.133
+SAMN13522250,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.145
+SAMN13522267,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.127
+SAMN13522274,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.07
+SAMN13522325,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.087
+SAMN13522343,PRJNA594610,201-002,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.087
+SAMN13521947,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.078
+SAMN13521984,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.116
+SAMN13522142,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.133
+SAMN13522151,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.117
+SAMN13522254,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.133
+SAMN13522290,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.153
+SAMN13522350,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.148
+SAMN13522351,PRJNA594610,201-002,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.143
+SAMN13521907,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.139
+SAMN13521988,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.124
+SAMN13521995,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.111
+SAMN13522060,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.154
+SAMN13522078,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.107
+SAMN13522118,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.17
+SAMN13522225,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.075
+SAMN13522293,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.127
+SAMN13522320,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.106
+SAMN13522359,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.097
+SAMN13522368,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.141
+SAMN13522397,PRJNA594610,201-002,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.093
+SAMN13521909,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.211
+SAMN13522064,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.071
+SAMN13522091,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.175
+SAMN13522146,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.175
+SAMN13522203,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.137
+SAMN13522251,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.106
+SAMN13522309,PRJNA594610,201-003,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.2
+SAMN13522034,PRJNA594610,201-003,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.204
+SAMN13522119,PRJNA594610,201-003,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.194
+SAMN13522396,PRJNA594610,201-003,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.078
+SAMN13522001,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.157
+SAMN13522002,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.107
+SAMN13522143,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.129
+SAMN13522271,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.077
+SAMN13522301,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.112
+SAMN13522317,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.115
+SAMN13522338,PRJNA594610,201-003,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.127
+SAMN13521945,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.071
+SAMN13521954,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.065
+SAMN13522025,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.12
+SAMN13522082,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.095
+SAMN13522125,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.092
+SAMN13522199,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.03
+SAMN13522200,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.127
+SAMN13522232,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.08
+SAMN13522235,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.064
+SAMN13522280,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.109
+SAMN13522281,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.139
+SAMN13522288,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.073
+SAMN13522340,PRJNA594610,201-003,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.109
+SAMN13521990,PRJNA594610,201-004,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.091
+SAMN13522165,PRJNA594610,201-004,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.132
+SAMN13522204,PRJNA594610,201-004,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.139
+SAMN13522239,PRJNA594610,201-004,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.088
+SAMN13522273,PRJNA594610,201-004,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.152
+SAMN13522335,PRJNA594610,201-004,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.117
+SAMN13521968,PRJNA594610,201-004,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.131
+SAMN13522242,PRJNA594610,201-004,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.128
+SAMN13522300,PRJNA594610,201-004,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.116
+SAMN13522327,PRJNA594610,201-004,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.141
+SAMN13522342,PRJNA594610,201-004,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.116
+SAMN13522387,PRJNA594610,201-004,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.134
+SAMN13522065,PRJNA594610,201-004,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.129
+SAMN13522330,PRJNA594610,201-004,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.1
+SAMN13522371,PRJNA594610,201-004,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.153
+SAMN13521900,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.062
+SAMN13521927,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.126
+SAMN13521946,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.179
+SAMN13521955,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.106
+SAMN13521960,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.109
+SAMN13521965,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.133
+SAMN13522016,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.094
+SAMN13522044,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.116
+SAMN13522052,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.082
+SAMN13522069,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.092
+SAMN13522185,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.024
+SAMN13522306,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.103
+SAMN13522365,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.101
+SAMN13522391,PRJNA594610,201-004,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.071
+SAMN13521480,PRJNA594610,201-005,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.13
+SAMN13521585,PRJNA594610,201-005,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.143
+SAMN13521745,PRJNA594610,201-005,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.212
+SAMN13521866,PRJNA594610,201-005,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.169
+SAMN13521454,PRJNA594610,201-005,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.32
+SAMN13521522,PRJNA594610,201-005,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.152
+SAMN13521525,PRJNA594610,201-005,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.592
+SAMN13521710,PRJNA594610,201-005,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.153
+SAMN13521749,PRJNA594610,201-005,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.055
+SAMN13521464,PRJNA594610,201-005,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.201
+SAMN13521535,PRJNA594610,201-005,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.251
+SAMN13521670,PRJNA594610,201-005,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.216
+SAMN13521743,PRJNA594610,201-005,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.043
+SAMN13521453,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.23
+SAMN13521461,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.376
+SAMN13521510,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.438
+SAMN13521512,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.2
+SAMN13521545,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.215
+SAMN13521550,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.262
+SAMN13521599,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.179
+SAMN13521607,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.112
+SAMN13521613,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.185
+SAMN13521651,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.075
+SAMN13521695,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.025
+SAMN13521703,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.328
+SAMN13521718,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.225
+SAMN13521725,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.19
+SAMN13521783,PRJNA594610,201-005,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.273
+SAMN13521479,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.11
+SAMN13521484,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.201
+SAMN13521617,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.115
+SAMN13521697,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.157
+SAMN13521770,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.164
+SAMN13521776,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.109
+SAMN13521837,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.187
+SAMN13521849,PRJNA594610,201-006,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.088
+SAMN13521438,PRJNA594610,201-006,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.183
+SAMN13521483,PRJNA594610,201-006,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.2
+SAMN13521593,PRJNA594610,201-006,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.179
+SAMN13521611,PRJNA594610,201-006,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.21
+SAMN13521433,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.191
+SAMN13521436,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.217
+SAMN13521462,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.193
+SAMN13521467,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.197
+SAMN13521509,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.143
+SAMN13521821,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.122
+SAMN13521838,PRJNA594610,201-006,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.195
+SAMN13522057,PRJNA594610,201-008,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.108
+SAMN13522061,PRJNA594610,201-008,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.162
+SAMN13522155,PRJNA594610,201-008,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.186
+SAMN13522226,PRJNA594610,201-008,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.173
+SAMN13522228,PRJNA594610,201-008,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.157
+SAMN13522347,PRJNA594610,201-008,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.171
+SAMN13521926,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.209
+SAMN13522024,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.158
+SAMN13522036,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.197
+SAMN13522241,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.154
+SAMN13522284,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.2
+SAMN13522334,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.083
+SAMN13522382,PRJNA594610,201-008,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.112
+SAMN13521910,PRJNA594610,201-008,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.083
+SAMN13522183,PRJNA594610,201-008,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.098
+SAMN13522230,PRJNA594610,201-008,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.032
+SAMN13522244,PRJNA594610,201-008,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.043
+SAMN13522376,PRJNA594610,201-008,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.088
+SAMN13521905,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.178
+SAMN13521937,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.144
+SAMN13521944,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.133
+SAMN13522026,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.16
+SAMN13522046,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.162
+SAMN13522047,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.067
+SAMN13522092,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.131
+SAMN13522093,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.116
+SAMN13522106,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.069
+SAMN13522116,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.056
+SAMN13522122,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.146
+SAMN13522257,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.129
+SAMN13522277,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.125
+SAMN13522303,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.119
+SAMN13522384,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.08
+SAMN13522386,PRJNA594610,201-008,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.067
+SAMN13521687,PRJNA594610,201-009,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.19
+SAMN13521698,PRJNA594610,201-009,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.148
+SAMN13521736,PRJNA594610,201-009,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.207
+SAMN13521756,PRJNA594610,201-009,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.142
+SAMN13521486,PRJNA594610,201-009,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.153
+SAMN13521493,PRJNA594610,201-009,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.165
+SAMN13521588,PRJNA594610,201-009,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.132
+SAMN13521813,PRJNA594610,201-009,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.15
+SAMN13521851,PRJNA594610,201-009,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.136
+SAMN13521948,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.188
+SAMN13522041,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.133
+SAMN13522233,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.195
+SAMN13522278,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.122
+SAMN13522287,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.153
+SAMN13522339,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.095
+SAMN13522349,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.165
+SAMN13522394,PRJNA594610,201-010,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.05
+SAMN13521969,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.111
+SAMN13521985,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.213
+SAMN13521999,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.214
+SAMN13522066,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.176
+SAMN13522356,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.211
+SAMN13522360,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.12
+SAMN13522373,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.164
+SAMN13522389,PRJNA594610,201-010,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.188
+SAMN13521896,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.219
+SAMN13521967,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.164
+SAMN13522075,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.088
+SAMN13522077,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.05
+SAMN13522170,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.102
+SAMN13522355,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.075
+SAMN13522370,PRJNA594610,201-010,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.069
+SAMN13522023,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.183
+SAMN13522050,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.221
+SAMN13522063,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.097
+SAMN13522071,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.175
+SAMN13522072,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.181
+SAMN13522129,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.107
+SAMN13522160,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.178
+SAMN13522173,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.15
+SAMN13522220,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.119
+SAMN13522223,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.151
+SAMN13522234,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.158
+SAMN13522261,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.123
+SAMN13522265,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.108
+SAMN13522314,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.178
+SAMN13522388,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.121
+SAMN13522393,PRJNA594610,201-010,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.056
+SAMN13521439,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.134
+SAMN13521472,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.158
+SAMN13521488,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.171
+SAMN13521546,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.157
+SAMN13521675,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.145
+SAMN13521689,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.118
+SAMN13521864,PRJNA594610,201-011,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.087
+SAMN13522136,PRJNA594610,201-011,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.158
+SAMN13522153,PRJNA594610,201-011,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.146
+SAMN13522172,PRJNA594610,201-011,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.142
+SAMN13522195,PRJNA594610,201-011,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.263
+SAMN13522229,PRJNA594610,201-011,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.153
+SAMN13521451,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.146
+SAMN13521587,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.162
+SAMN13521619,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.193
+SAMN13521705,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.184
+SAMN13521785,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.161
+SAMN13521801,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.156
+SAMN13521867,PRJNA594610,201-011,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.197
+SAMN13521983,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.144
+SAMN13522081,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.181
+SAMN13522148,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.121
+SAMN13522159,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.199
+SAMN13522169,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.126
+SAMN13522184,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.131
+SAMN13522189,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.139
+SAMN13522190,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.159
+SAMN13522202,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.243
+SAMN13522209,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.179
+SAMN13522224,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.083
+SAMN13522272,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.212
+SAMN13522299,PRJNA594610,201-011,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.232
+SAMN13521894,PRJNA594610,201-012,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.197
+SAMN13521997,PRJNA594610,201-012,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.192
+SAMN13522009,PRJNA594610,201-012,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.153
+SAMN13522011,PRJNA594610,201-012,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.184
+SAMN13522031,PRJNA594610,201-012,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.155
+SAMN13522097,PRJNA594610,201-012,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.196
+SAMN13521976,PRJNA594610,201-012,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.206
+SAMN13522059,PRJNA594610,201-012,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.166
+SAMN13522094,PRJNA594610,201-012,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.167
+SAMN13522131,PRJNA594610,201-012,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.145
+SAMN13522171,PRJNA594610,201-012,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.158
+SAMN13522176,PRJNA594610,201-012,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.193
+SAMN13521912,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.183
+SAMN13521977,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.115
+SAMN13521996,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.162
+SAMN13522013,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.17
+SAMN13522181,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.153
+SAMN13522188,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.158
+SAMN13522256,PRJNA594610,201-012,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.14
+SAMN13521932,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.156
+SAMN13521974,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.139
+SAMN13521975,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.129
+SAMN13521992,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.126
+SAMN13522005,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.214
+SAMN13522014,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.156
+SAMN13522051,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.234
+SAMN13522103,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.15
+SAMN13522133,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.139
+SAMN13522193,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.175
+SAMN13522198,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.169
+SAMN13522201,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.164
+SAMN13522260,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.159
+SAMN13522324,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.147
+SAMN13522336,PRJNA594610,201-012,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.166
+SAMN13521466,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.185
+SAMN13521557,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.193
+SAMN13521573,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.163
+SAMN13521627,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.14
+SAMN13521657,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.184
+SAMN13521662,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.187
+SAMN13521792,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.151
+SAMN13521803,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.109
+SAMN13521843,PRJNA594610,201-013,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.13
+SAMN13521568,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.133
+SAMN13521655,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.172
+SAMN13521700,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.186
+SAMN13521720,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.167
+SAMN13521760,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.164
+SAMN13521780,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.124
+SAMN13521791,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.182
+SAMN13521800,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.141
+SAMN13521827,PRJNA594610,201-013,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.112
+SAMN13521556,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.121
+SAMN13521594,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.201
+SAMN13521616,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.035
+SAMN13521649,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.126
+SAMN13521722,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.124
+SAMN13521757,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.112
+SAMN13521794,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.127
+SAMN13521812,PRJNA594610,201-013,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.154
+SAMN13521441,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.169
+SAMN13521457,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.203
+SAMN13521474,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.136
+SAMN13521475,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.126
+SAMN13521537,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.099
+SAMN13521548,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.142
+SAMN13521618,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.215
+SAMN13521629,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.165
+SAMN13521654,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.137
+SAMN13521658,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.082
+SAMN13521702,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.139
+SAMN13521738,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.116
+SAMN13521768,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.136
+SAMN13521784,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.177
+SAMN13521831,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.171
+SAMN13521850,PRJNA594610,201-013,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.119
+SAMN13521911,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.153
+SAMN13521979,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.185
+SAMN13522110,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.184
+SAMN13522117,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.179
+SAMN13522137,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.171
+SAMN13522156,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.18
+SAMN13522390,PRJNA594610,201-015,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.133
+SAMN13521938,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.157
+SAMN13521939,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.182
+SAMN13521982,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.168
+SAMN13522049,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.166
+SAMN13522086,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.193
+SAMN13522207,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.117
+SAMN13522312,PRJNA594610,201-015,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.182
+SAMN13521936,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.182
+SAMN13521991,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.172
+SAMN13521993,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.183
+SAMN13522032,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.163
+SAMN13522101,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.155
+SAMN13522112,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.151
+SAMN13522258,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.183
+SAMN13522318,PRJNA594610,201-015,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.17
+SAMN13521920,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.153
+SAMN13521972,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.19
+SAMN13521987,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.17
+SAMN13522012,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.14
+SAMN13522035,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.18
+SAMN13522099,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.174
+SAMN13522109,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.162
+SAMN13522113,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.17
+SAMN13522139,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.113
+SAMN13522140,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.161
+SAMN13522161,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.186
+SAMN13522196,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.182
+SAMN13522245,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.178
+SAMN13522248,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.201
+SAMN13522268,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.177
+SAMN13522316,PRJNA594610,201-015,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.062
+SAMN13521476,PRJNA594610,201-016,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.044
+SAMN13521489,PRJNA594610,201-016,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.187
+SAMN13521500,PRJNA594610,201-016,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.183
+SAMN13521656,PRJNA594610,201-016,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.171
+SAMN13521755,PRJNA594610,201-016,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.155
+SAMN13521807,PRJNA594610,201-016,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.157
+SAMN13521865,PRJNA594610,201-016,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.107
+SAMN13521925,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.079
+SAMN13521958,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.129
+SAMN13522017,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.158
+SAMN13522085,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.212
+SAMN13522147,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.059
+SAMN13522168,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.051
+SAMN13522219,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.055
+SAMN13522296,PRJNA594610,201-017,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.037
+SAMN13521956,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.22
+SAMN13521986,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.132
+SAMN13522073,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.151
+SAMN13522144,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.11
+SAMN13522167,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.184
+SAMN13522221,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.199
+SAMN13522323,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.08
+SAMN13522341,PRJNA594610,201-017,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.042
+SAMN13521963,PRJNA594610,201-017,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.058
+SAMN13522015,PRJNA594610,201-017,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.071
+SAMN13522178,PRJNA594610,201-017,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.094
+SAMN13522374,PRJNA594610,201-017,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.109
+SAMN13522385,PRJNA594610,201-017,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.063
+SAMN13521904,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.129
+SAMN13521915,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.153
+SAMN13521924,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.175
+SAMN13521930,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.137
+SAMN13521970,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.161
+SAMN13522045,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.131
+SAMN13522105,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.2
+SAMN13522145,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.087
+SAMN13522150,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.162
+SAMN13522154,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.14
+SAMN13522206,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.124
+SAMN13522212,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.178
+SAMN13522215,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.183
+SAMN13522259,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.223
+SAMN13522375,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.102
+SAMN13522395,PRJNA594610,201-017,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.05
+SAMN13522074,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.218
+SAMN13522124,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.202
+SAMN13522262,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.105
+SAMN13522264,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.213
+SAMN13522289,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.15
+SAMN13522331,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.22
+SAMN13522358,PRJNA594610,201-018,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.077
+SAMN13521913,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.251
+SAMN13521919,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.208
+SAMN13522087,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.234
+SAMN13522149,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.179
+SAMN13522255,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.158
+SAMN13522313,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.209
+SAMN13522344,PRJNA594610,201-018,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.159
+SAMN13521951,PRJNA594610,201-018,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.195
+SAMN13521981,PRJNA594610,201-018,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.217
+SAMN13522107,PRJNA594610,201-018,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.204
+SAMN13522286,PRJNA594610,201-018,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.139
+SAMN13521914,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.145
+SAMN13522028,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.223
+SAMN13522029,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.209
+SAMN13522043,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.189
+SAMN13522126,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.192
+SAMN13522127,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.255
+SAMN13522208,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.153
+SAMN13522263,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.152
+SAMN13522311,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.243
+SAMN13522322,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.176
+SAMN13522346,PRJNA594610,201-018,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.185
+SAMN13521477,PRJNA594610,201-019,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.107
+SAMN13521600,PRJNA594610,201-019,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.098
+SAMN13521754,PRJNA594610,201-019,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.055
+SAMN13521764,PRJNA594610,201-019,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.12
+SAMN13521769,PRJNA594610,201-019,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.183
+SAMN13521775,PRJNA594610,201-019,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.144
+SAMN13521482,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.107
+SAMN13521505,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.14
+SAMN13521577,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.1
+SAMN13521721,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.08
+SAMN13521857,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.059
+SAMN13521863,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.057
+SAMN13521870,PRJNA594610,201-019,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.095
+SAMN13521543,PRJNA594610,201-019,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.219
+SAMN13521598,PRJNA594610,201-019,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.171
+SAMN13521664,PRJNA594610,201-019,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.122
+SAMN13521823,PRJNA594610,201-019,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.058
+SAMN13521855,PRJNA594610,201-019,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.08
+SAMN13521874,PRJNA594610,201-019,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.135
+SAMN13521499,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.176
+SAMN13521520,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.087
+SAMN13521609,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.121
+SAMN13521672,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.073
+SAMN13521701,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.084
+SAMN13521737,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.074
+SAMN13521741,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.085
+SAMN13521747,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.127
+SAMN13521787,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.155
+SAMN13521828,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.173
+SAMN13521834,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.111
+SAMN13521836,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.119
+SAMN13521852,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.08
+SAMN13521859,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.105
+SAMN13521869,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.078
+SAMN13521871,PRJNA594610,201-019,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.098
+SAMN13521959,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.13
+SAMN13522123,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.162
+SAMN13522210,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.131
+SAMN13522227,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.161
+SAMN13522238,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.128
+SAMN13522252,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.116
+SAMN13522291,PRJNA594610,201-021,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.125
+SAMN13521935,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.138
+SAMN13521989,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.107
+SAMN13522162,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.047
+SAMN13522205,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.136
+SAMN13522214,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.127
+SAMN13522249,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.099
+SAMN13522333,PRJNA594610,201-021,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.177
+SAMN13521899,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.138
+SAMN13521961,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.128
+SAMN13522003,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.181
+SAMN13522084,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.14
+SAMN13522104,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.15
+SAMN13522128,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.116
+SAMN13522292,PRJNA594610,201-021,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.097
+SAMN13521895,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.161
+SAMN13521916,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.164
+SAMN13521941,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.159
+SAMN13521950,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.163
+SAMN13522022,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.172
+SAMN13522033,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.099
+SAMN13522048,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.153
+SAMN13522100,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.148
+SAMN13522111,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.104
+SAMN13522135,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.145
+SAMN13522138,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.16
+SAMN13522240,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.07
+SAMN13522269,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.161
+SAMN13522294,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.107
+SAMN13522302,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.182
+SAMN13522357,PRJNA594610,201-021,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.065
+SAMN13521432,PRJNA594610,201-022,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.084
+SAMN13521523,PRJNA594610,201-022,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.162
+SAMN13521536,PRJNA594610,201-022,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.124
+SAMN13521562,PRJNA594610,201-022,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.141
+SAMN13522217,PRJNA594610,201-022,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.112
+SAMN13521465,PRJNA594610,201-022,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.168
+SAMN13521555,PRJNA594610,201-022,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.165
+SAMN13521590,PRJNA594610,201-022,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.149
+SAMN13521683,PRJNA594610,201-022,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.249
+SAMN13521730,PRJNA594610,201-022,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.111
+SAMN13521877,PRJNA594610,201-022,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.008
+SAMN13521517,PRJNA594610,201-022,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.139
+SAMN13521589,PRJNA594610,201-022,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.139
+SAMN13521679,PRJNA594610,201-022,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.073
+SAMN13521682,PRJNA594610,201-022,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.212
+SAMN13521579,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.156
+SAMN13521694,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.175
+SAMN13521735,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.04
+SAMN13521815,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.029
+SAMN13521816,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.155
+SAMN13521822,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.008
+SAMN13521833,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.055
+SAMN13521861,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.028
+SAMN13521875,PRJNA594610,201-022,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.007
+SAMN13521430,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.108
+SAMN13521502,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.145
+SAMN13521644,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.137
+SAMN13521673,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.087
+SAMN13521797,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.092
+SAMN13521799,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.054
+SAMN13521820,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.089
+SAMN13521839,PRJNA594610,201-023,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.054
+SAMN13521440,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.156
+SAMN13521511,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.211
+SAMN13521572,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.154
+SAMN13521667,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.188
+SAMN13521712,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.118
+SAMN13521767,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.098
+SAMN13521788,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.174
+SAMN13521872,PRJNA594610,201-023,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.12
+SAMN13521553,PRJNA594610,201-023,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.096
+SAMN13521818,PRJNA594610,201-023,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.195
+SAMN13521840,PRJNA594610,201-023,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.066
+SAMN13521434,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.32
+SAMN13521492,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.44
+SAMN13521513,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.434
+SAMN13521514,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.293
+SAMN13521516,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.201
+SAMN13521558,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.29
+SAMN13521578,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.249
+SAMN13521581,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.383
+SAMN13521653,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.189
+SAMN13521666,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.247
+SAMN13521678,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.198
+SAMN13521766,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.151
+SAMN13521774,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.185
+SAMN13521804,PRJNA594610,201-023,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.222
+SAMN13521515,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.357
+SAMN13521659,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.2
+SAMN13521762,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.014
+SAMN13521808,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.155
+SAMN13521809,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.107
+SAMN13521830,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.027
+SAMN13521879,PRJNA594610,201-024,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.009
+SAMN13521429,PRJNA594610,201-024,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.374
+SAMN13521485,PRJNA594610,201-024,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.269
+SAMN13521530,PRJNA594610,201-024,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.303
+SAMN13521538,PRJNA594610,201-024,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.154
+SAMN13521620,PRJNA594610,201-024,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.294
+SAMN13521668,PRJNA594610,201-024,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.179
+SAMN13521449,PRJNA594610,201-024,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.853
+SAMN13521529,PRJNA594610,201-024,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.043
+SAMN13521748,PRJNA594610,201-024,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.154
+SAMN13521758,PRJNA594610,201-024,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.032
+SAMN13521817,PRJNA594610,201-024,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.116
+SAMN13521858,PRJNA594610,201-024,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.009
+SAMN13521447,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.092
+SAMN13521487,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.194
+SAMN13521534,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.032
+SAMN13521539,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.044
+SAMN13521592,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.222
+SAMN13521652,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.127
+SAMN13521665,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.015
+SAMN13521680,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.144
+SAMN13521724,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.179
+SAMN13521746,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.21
+SAMN13521772,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.124
+SAMN13521862,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.003
+SAMN13521881,PRJNA594610,201-024,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.003
+SAMN13521595,PRJNA594610,201-025,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.229
+SAMN13521628,PRJNA594610,201-025,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.298
+SAMN13521684,PRJNA594610,201-025,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.02
+SAMN13521731,PRJNA594610,201-025,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.214
+SAMN13521448,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.266
+SAMN13521458,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.244
+SAMN13521490,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.14
+SAMN13521521,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.185
+SAMN13521591,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.244
+SAMN13521685,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.134
+SAMN13521819,PRJNA594610,201-025,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.186
+SAMN13521906,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.189
+SAMN13521928,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.214
+SAMN13521933,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.19
+SAMN13521973,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.187
+SAMN13522000,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.174
+SAMN13522076,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.172
+SAMN13522177,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.217
+SAMN13522243,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.153
+SAMN13522285,PRJNA594610,201-025,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.237
+SAMN13521575,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.13
+SAMN13521586,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.176
+SAMN13521663,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.149
+SAMN13521704,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.126
+SAMN13521940,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.098
+SAMN13522114,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.155
+SAMN13522191,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.231
+SAMN13522275,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.186
+SAMN13522345,PRJNA594610,201-025,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.169
+SAMN13522053,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.121
+SAMN13522068,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.165
+SAMN13522080,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.117
+SAMN13522279,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.168
+SAMN13522298,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.141
+SAMN13522305,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.063
+SAMN13522337,PRJNA594610,201-026,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.109
+SAMN13521921,PRJNA594610,201-026,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.169
+SAMN13522010,PRJNA594610,201-026,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.124
+SAMN13522270,PRJNA594610,201-026,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.153
+SAMN13522310,PRJNA594610,201-026,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-20,primary,1.0,0.154
+SAMN13521901,PRJNA594610,201-026,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.102
+SAMN13522095,PRJNA594610,201-026,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.133
+SAMN13522218,PRJNA594610,201-026,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.125
+SAMN13522247,PRJNA594610,201-026,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.153
+SAMN13522307,PRJNA594610,201-026,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.093
+SAMN13522381,PRJNA594610,201-026,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.054
+SAMN13521931,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.219
+SAMN13522007,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.179
+SAMN13522008,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.161
+SAMN13522062,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.164
+SAMN13522108,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.262
+SAMN13522121,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.153
+SAMN13522157,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.143
+SAMN13522329,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.121
+SAMN13522353,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.17
+SAMN13522354,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.136
+SAMN13522364,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.247
+SAMN13522378,PRJNA594610,201-026,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-20,primary,1.0,0.194
+SAMN13521922,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.144
+SAMN13521962,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.084
+SAMN13521994,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.096
+SAMN13522021,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.141
+SAMN13522027,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.13
+SAMN13522038,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.084
+SAMN13522055,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.069
+SAMN13522392,PRJNA594610,201-028,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.12
+SAMN13522054,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.144
+SAMN13522132,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.075
+SAMN13522163,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.113
+SAMN13522166,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.143
+SAMN13522283,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.049
+SAMN13522326,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.076
+SAMN13522352,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.124
+SAMN13522362,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.086
+SAMN13522377,PRJNA594610,201-028,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.133
+SAMN13521949,PRJNA594610,201-028,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.141
+SAMN13522042,PRJNA594610,201-028,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.118
+SAMN13522098,PRJNA594610,201-028,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.132
+SAMN13522130,PRJNA594610,201-028,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.096
+SAMN13522039,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.146
+SAMN13522040,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.061
+SAMN13522079,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.096
+SAMN13522083,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.093
+SAMN13522096,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.116
+SAMN13522120,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.144
+SAMN13522164,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.087
+SAMN13522211,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.105
+SAMN13522266,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.093
+SAMN13522282,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.133
+SAMN13522297,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.1
+SAMN13522304,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.083
+SAMN13522308,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.041
+SAMN13522361,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.096
+SAMN13522363,PRJNA594610,201-028,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.089
+SAMN13521897,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.171
+SAMN13521929,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.143
+SAMN13522102,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.125
+SAMN13522141,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.114
+SAMN13522158,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.16
+SAMN13522236,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.137
+SAMN13522295,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.125
+SAMN13522332,PRJNA594610,201-030,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-21,primary,1.0,0.148
+SAMN13521903,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.133
+SAMN13521918,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.114
+SAMN13521923,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.126
+SAMN13522004,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.118
+SAMN13522152,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.105
+SAMN13522175,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.133
+SAMN13522222,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.155
+SAMN13522276,PRJNA594610,201-030,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-21,primary,1.0,0.113
+SAMN13521998,PRJNA594610,201-030,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.148
+SAMN13522020,PRJNA594610,201-030,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.128
+SAMN13522037,PRJNA594610,201-030,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.118
+SAMN13522180,PRJNA594610,201-030,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.113
+SAMN13522231,PRJNA594610,201-030,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.126
+SAMN13522253,PRJNA594610,201-030,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-21,primary,1.0,0.156
+SAMN13521883,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.111
+SAMN13521884,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.087
+SAMN13521885,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.088
+SAMN13521886,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.079
+SAMN13521887,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.099
+SAMN13521888,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.076
+SAMN13521889,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.085
+SAMN13521890,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.097
+SAMN13521891,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.084
+SAMN13521892,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.097
+SAMN13521893,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.101
+SAMN13521942,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.106
+SAMN13522018,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.1
+SAMN13522058,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.146
+SAMN13522399,PRJNA594610,201-030,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-21,primary,1.0,0.029
+SAMN13521964,PRJNA594610,201-031,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.231
+SAMN13522019,PRJNA594610,201-031,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.1
+SAMN13522179,PRJNA594610,201-031,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.179
+SAMN13522383,PRJNA594610,201-031,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-20,primary,1.0,0.153
+SAMN13521902,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.171
+SAMN13521934,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.151
+SAMN13522006,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.149
+SAMN13522174,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.132
+SAMN13522186,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.076
+SAMN13522192,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.126
+SAMN13522197,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.136
+SAMN13522348,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.182
+SAMN13522372,PRJNA594610,201-031,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-20,primary,1.0,0.071
+SAMN13521444,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.123
+SAMN13521582,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.174
+SAMN13521661,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.181
+SAMN13521688,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.179
+SAMN13521696,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.203
+SAMN13521711,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.104
+SAMN13521752,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.085
+SAMN13521829,PRJNA594610,201-033,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.131
+SAMN13521583,PRJNA594610,201-033,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.125
+SAMN13521584,PRJNA594610,201-033,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.116
+SAMN13521751,PRJNA594610,201-033,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.172
+SAMN13521442,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.206
+SAMN13521445,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.103
+SAMN13521547,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.17
+SAMN13521604,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.178
+SAMN13521640,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.135
+SAMN13521716,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.207
+SAMN13521732,PRJNA594610,201-033,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.196
+SAMN13521549,PRJNA594610,201-034,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.159
+SAMN13521671,PRJNA594610,201-034,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.16
+SAMN13521713,PRJNA594610,201-034,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.187
+SAMN13521744,PRJNA594610,201-034,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.173
+SAMN13521805,PRJNA594610,201-034,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.19
+SAMN13521873,PRJNA594610,201-034,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.024
+SAMN13521481,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.097
+SAMN13521540,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.124
+SAMN13521719,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.033
+SAMN13521727,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.234
+SAMN13521750,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.088
+SAMN13521753,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.188
+SAMN13521781,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.203
+SAMN13521795,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.087
+SAMN13521835,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.132
+SAMN13521868,PRJNA594610,201-034,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.129
+SAMN13521435,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.171
+SAMN13521478,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.214
+SAMN13521541,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.182
+SAMN13521563,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.181
+SAMN13521605,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.129
+SAMN13521677,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.249
+SAMN13521709,PRJNA594610,201-034,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.23
+SAMN13521431,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.154
+SAMN13521542,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.214
+SAMN13521596,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.227
+SAMN13521610,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.145
+SAMN13521623,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.104
+SAMN13521634,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.114
+SAMN13521635,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.213
+SAMN13521708,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.197
+SAMN13521733,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.184
+SAMN13521793,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.121
+SAMN13521825,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.122
+SAMN13521844,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.169
+SAMN13521846,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.176
+SAMN13521853,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.11
+SAMN13521854,PRJNA594610,201-034,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.187
+SAMN13521686,PRJNA594610,201-035,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.149
+SAMN13521726,PRJNA594610,201-035,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.148
+SAMN13521734,PRJNA594610,201-035,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.037
+SAMN13521531,PRJNA594610,201-035,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.168
+SAMN13521554,PRJNA594610,201-035,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.247
+SAMN13521625,PRJNA594610,201-035,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.031
+SAMN13521456,PRJNA594610,201-035,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.336
+SAMN13521504,PRJNA594610,201-035,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.163
+SAMN13521544,PRJNA594610,201-035,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.189
+SAMN13521615,PRJNA594610,201-035,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.241
+SAMN13521715,PRJNA594610,201-035,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.358
+SAMN13521497,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.237
+SAMN13521498,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.25
+SAMN13521551,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.17
+SAMN13521552,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.15
+SAMN13521559,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.237
+SAMN13521639,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.229
+SAMN13521645,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.239
+SAMN13521742,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.023
+SAMN13521848,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.153
+SAMN13521860,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.069
+SAMN13521880,PRJNA594610,201-035,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.013
+SAMN13521443,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.155
+SAMN13521455,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.265
+SAMN13521519,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.192
+SAMN13521570,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.152
+SAMN13521603,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.232
+SAMN13521691,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.149
+SAMN13521790,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.26
+SAMN13521826,PRJNA594610,201-036,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-18,primary,1.0,0.154
+SAMN13521630,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.164
+SAMN13521648,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.305
+SAMN13521674,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.175
+SAMN13521690,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.157
+SAMN13521692,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.187
+SAMN13521806,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.233
+SAMN13521841,PRJNA594610,201-036,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-18,primary,1.0,0.175
+SAMN13521446,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.214
+SAMN13521452,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.229
+SAMN13521524,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.176
+SAMN13521564,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.151
+SAMN13521643,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.172
+SAMN13521647,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.198
+SAMN13521832,PRJNA594610,201-036,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-18,primary,1.0,0.199
+SAMN13521495,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.294
+SAMN13521503,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.14
+SAMN13521533,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.324
+SAMN13521561,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.309
+SAMN13521565,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.178
+SAMN13521676,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.353
+SAMN13521693,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.159
+SAMN13521739,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.218
+SAMN13521771,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.18
+SAMN13521773,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.18
+SAMN13521782,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.195
+SAMN13521810,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.153
+SAMN13521814,PRJNA594610,201-036,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-18,primary,1.0,0.164
+SAMN13521469,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.173
+SAMN13521470,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.135
+SAMN13521526,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.125
+SAMN13521597,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.106
+SAMN13521637,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.13
+SAMN13521699,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.131
+SAMN13521798,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.079
+SAMN13521802,PRJNA594610,201-037,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.101
+SAMN13521460,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.146
+SAMN13521468,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.135
+SAMN13521560,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.21
+SAMN13521601,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.157
+SAMN13521622,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.072
+SAMN13521626,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.215
+SAMN13521717,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.216
+SAMN13521876,PRJNA594610,201-037,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.075
+SAMN13521459,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.065
+SAMN13521532,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.061
+SAMN13521608,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.027
+SAMN13521621,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.032
+SAMN13521638,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.051
+SAMN13521878,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.02
+SAMN13521882,PRJNA594610,201-037,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.007
+SAMN13521450,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.177
+SAMN13521494,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.134
+SAMN13521602,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.157
+SAMN13521606,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.1
+SAMN13521631,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.087
+SAMN13521633,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.064
+SAMN13521636,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.103
+SAMN13521728,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.14
+SAMN13521729,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.12
+SAMN13521763,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.114
+SAMN13521777,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.042
+SAMN13521778,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.052
+SAMN13521779,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.117
+SAMN13521796,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.137
+SAMN13521824,PRJNA594610,201-037,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.016
+SAMN13521463,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.166
+SAMN13521473,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.149
+SAMN13521496,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.151
+SAMN13521501,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.169
+SAMN13521518,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.135
+SAMN13521567,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.097
+SAMN13521569,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.132
+SAMN13521681,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.176
+SAMN13521761,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.165
+SAMN13521789,PRJNA594610,201-040,Feeding1,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 1 (lower dose),,2017-07-19,primary,1.0,0.079
+SAMN13521507,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.164
+SAMN13521528,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.163
+SAMN13521571,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.151
+SAMN13521646,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.174
+SAMN13521650,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.142
+SAMN13521759,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.153
+SAMN13521765,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.157
+SAMN13521845,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.143
+SAMN13521847,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.138
+SAMN13521856,PRJNA594610,201-040,Feeding2,adult,,,US,healthy_control,,prebiotic_or_fibre,PDX feeding period 2 (higher dose),,2017-07-19,primary,1.0,0.149
+SAMN13521491,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.193
+SAMN13521508,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.118
+SAMN13521574,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.179
+SAMN13521576,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.094
+SAMN13521632,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.093
+SAMN13521641,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.176
+SAMN13521642,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.154
+SAMN13521660,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.162
+SAMN13521714,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.097
+SAMN13521786,PRJNA594610,201-040,Run-In,adult,,,US,healthy_control,,no_intervention,run-in baseline period before PDX feeding,,2017-07-19,primary,1.0,0.203
+SAMN13521437,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.131
+SAMN13521471,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.223
+SAMN13521506,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.167
+SAMN13521527,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.199
+SAMN13521566,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.218
+SAMN13521580,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.128
+SAMN13521612,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.15
+SAMN13521614,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.193
+SAMN13521624,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.176
+SAMN13521669,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.159
+SAMN13521706,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.153
+SAMN13521707,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.249
+SAMN13521723,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.162
+SAMN13521740,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.164
+SAMN13521811,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.154
+SAMN13521842,PRJNA594610,201-040,Washout,adult,,,US,healthy_control,,no_intervention,"washout period, no PDX intake",,2017-07-19,primary,1.0,0.145
