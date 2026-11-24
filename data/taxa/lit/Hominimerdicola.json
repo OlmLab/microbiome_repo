@@ -1,0 +1,76 @@
+{
+ "slug": "Hominimerdicola",
+ "taxon": "g__Hominimerdicola",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Hominimerdicola (Hominimerdicola aceti, published as \"Ruminococcus bicirculans\")",
+ "name_note": "Most genomes GTDB places in g__Hominimerdicola are deposited in NCBI under Ruminococcus, and a taxonomic study lists the 'Ruminococcus bicirculans' type strain 80/3 as Hominimerdicola aceti.",
+ "sentences": [
+  {
+   "text": "Hominimerdicola intestinalis was proposed for a strain isolated from faecal samples of healthy Japanese volunteers.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The genome of Ruminococcus bicirculans, sequenced from a member of the human colonic microbiota, comprises two large chromosomes, and growth on hemicelluloses such as beta-glucans and xyloglucan was confirmed experimentally.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same report describes this species as lacking the machinery for degrading cellulose and xylan that related cellulolytic ruminococci possess.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of schizophrenia reported Ruminococcus bicirculans among species depleted in the gut microbiota of patients, and an analysis of colorectal cancer reported subclades of this species associated with late-stage disease.",
+   "refs": [
+    3,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wegmann U, Louis P, Goesmann A, Henrissat B, Duncan SH, Flint HJ.",
+   "title": "Complete genome of a new Firmicutes species belonging to the dominant human colonic microbiota ('Ruminococcus bicirculans') reveals two chromosomes and a selective capacity to utilize plant glucans",
+   "journal": "Environmental microbiology",
+   "year": 2014,
+   "pmid": "23919528",
+   "n": 1,
+   "doi": "10.1111/1462-2920.12217"
+  },
+  {
+   "authors": "Hisatomi A, Ohkuma M, Sakamoto M.",
+   "title": "Hominimerdicola intestinalis sp. nov. and Ruminococcus sporogenes sp. nov., isolated from human faeces, and reclassification of Ruminococcus albus Hungate 1957 as Hominimerdicola alba comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "41729196",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.007091"
+  },
+  {
+   "authors": "Thirion F, Speyer H, Hansen TH, Nielsen T, Fan Y, Le Chatelier E, Fromentin S, Berland M, Plaza Oñate F, Pons N, Galleron N, Levenez F, Markó L, Birkner T, Jørgensen T, Forslund SK, Vestergaard H, Hansen T, Nordentoft M, Mors O, Benros ME, Pedersen O, Ehrlich SD.",
+   "title": "Alteration of Gut Microbiome in Patients With Schizophrenia Indicates Links Between Bacterial Tyrosine Biosynthesis and Cognitive Dysfunction",
+   "journal": "Biological psychiatry global open science",
+   "year": 2023,
+   "pmid": "37124355",
+   "n": 3,
+   "doi": "10.1016/j.bpsgos.2022.01.009"
+  },
+  {
+   "authors": "Piccinno G, Thompson KN, Manghi P, Ghazi AR, Thomas AM, Blanco-Míguez A, Asnicar F, Mladenovic K, Pinto F, Armanini F, Punčochář M, Piperni E, Heidrich V, Fackelmann G, Ferrero G, Tarallo S, Nguyen LH, Yan Y, Keles NA, Tuna BG, Vymetalkova V, Trompetto M, Liska V, Hucl T, Vodicka P, Bencsiková B, Čarnogurská M, Popovici V, Marmorino F, Cremolini C, Pardini B, Cordero F, Song M, Chan AT, Derosa L, Zitvogel L, Huttenhower C, Naccarati A, Budinska E, Segata N.",
+   "title": "Pooled analysis of 3,741 stool metagenomes from 18 cohorts for cross-stage and strain-level reproducible microbial biomarkers of colorectal cancer",
+   "journal": "Nature medicine",
+   "year": 2025,
+   "pmid": "40461820",
+   "n": 4,
+   "doi": "10.1038/s41591-025-03693-9"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

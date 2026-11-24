@@ -1,0 +1,60 @@
+{
+ "slug": "Aquipseudomonas_paracarnis",
+ "taxon": "s__Aquipseudomonas paracarnis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Pseudomonas paracarnis",
+ "name_note": "GTDB places this species in the genus Aquipseudomonas, while published work calls it Pseudomonas paracarnis; many genomes in this GTDB species carry the NCBI names Pseudomonas carnis or Pseudomonas fluorescens, and no retrieved source describes it at a human body site.",
+ "sentences": [
+  {
+   "text": "Pseudomonas paracarnis is a Pseudomonas species whose sequenced strains were isolated from refrigerated spoiled foods, including panela cheese that had turned blue.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It causes blue discoloration of fresh cheese, and gaseous ozone and ozonated mist have been tested to reduce its populations.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Pseudomonas strains in raw milk, among them Pseudomonas carnis isolates, hydrolyse milk proteins by producing extracellular metalloproteases.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Mendoza MC, Nigenda-Morales SF, et al.",
+   "title": "Complete genomes of blue- and pink-colored Pseudomonas strains isolated from spoiled foods",
+   "journal": "Microbiology resource announcements",
+   "year": 2026,
+   "pmid": "42954468",
+   "n": 1,
+   "doi": "10.1128/mra.01137-26"
+  },
+  {
+   "authors": "de Oliveira JM, de Paula Campos LN, et al.",
+   "title": "Ozone-based interventions to mitigate Pseudomonas paracarnis-induced blue discoloration in fresh cheese",
+   "journal": "Food science and biotechnology",
+   "year": 2026,
+   "pmid": "42661802",
+   "n": 2,
+   "doi": "10.1007/s10068-026-02237-2"
+  },
+  {
+   "authors": "Zhou H, Li L, et al.",
+   "title": "Genotype-phenotype associated comparisons of Pseudomonas carnis spoilage ability based on whole-genome analyses",
+   "journal": "Food research international (Ottawa, Ont.)",
+   "year": 2026,
+   "pmid": "42967769",
+   "n": 3,
+   "doi": "10.1016/j.foodres.2026.121004"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

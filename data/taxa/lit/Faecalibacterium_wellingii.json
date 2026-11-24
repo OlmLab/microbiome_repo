@@ -1,0 +1,63 @@
+{
+ "slug": "Faecalibacterium_wellingii",
+ "taxon": "s__Faecalibacterium wellingii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium wellingii",
+ "name_note": "Most genomes GTDB places here carry the NCBI name Faecalibacterium prausnitzii, reflecting the recent split of that species; the name Faecalibacterium wellingii was proposed for strain HTF-F.",
+ "sentences": [
+  {
+   "text": "Faecalibacterium wellingii is the name proposed for strains HTF-F and HTF-128, which represent a novel species, with HTF-F as the type strain.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus Faecalibacterium is described as one of the most important butyrate producers in the human intestinal tract and has been widely linked to health.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species description rested on phylogenomic analysis of whole-genome and 16S rRNA gene sequences together with chemotaxonomic analysis by MALDI-TOF mass spectrometry.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study using qPCR with rpoA-based species-specific primers quantified nine species-level groups within Faecalibacterium in faeces of 88 healthy Japanese adults; five species were detected only occasionally.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study indicates that F. prausnitzii is not the predominant Faecalibacterium species in the healthy Japanese adults it included.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Plomp N, Harmsen HJM.",
+   "title": "Description of Faecalibacterium wellingii sp. nov. and two Faecalibacterium taiwanense strains, aiding to the reclassification of Faecalibacterium species.",
+   "journal": "Anaerobe",
+   "year": 2024,
+   "pmid": "38925221",
+   "n": 1,
+   "doi": "10.1016/j.anaerobe.2024.102881"
+  },
+  {
+   "authors": "Hirasaki M, Kadowaki R, Ang A, Harata G, Miyazawa K, Maeno S, Gueimonde M, Endo A.",
+   "title": "Species-level quantification of <i>Faecalibacterium</i> spp. in faeces of healthy Japanese adults.",
+   "journal": "Journal of medical microbiology",
+   "year": 2025,
+   "pmid": "40408134",
+   "n": 2,
+   "doi": "10.1099/jmm.0.002019"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

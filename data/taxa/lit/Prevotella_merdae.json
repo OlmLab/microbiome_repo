@@ -1,0 +1,63 @@
+{
+ "slug": "Prevotella_merdae",
+ "taxon": "s__Prevotella merdae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Prevotella merdae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Prevotella merdae is an anaerobic, Gram-negative, rod-shaped, non-motile bacterium that does not produce spores, proposed as a novel species from strain Marseille-P4119.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its type strain was isolated from a faecal sample of a healthy 32-year-old faecal transplant donor.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its genome assembly was 3,912,650 base pairs with 44.4 mol percent G+C content, 3,094 protein-coding genes and 74 RNA genes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Prevotella stercorea was reported as the phylogenetically closest species with standing in nomenclature, sharing 97.10 percent 16S rRNA sequence identity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a trial of faecal microbiota transplantation with an anti-PD-1 inhibitor, a strain called Prevotella merdae Immunoactis was isolated from a responder and stimulated T cell activity in mice.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Maaloum M, Afouda P, Lo CI, et al.",
+   "title": "Prevotella merdae sp. nov., a new bacterial species isolated from human faeces.",
+   "journal": "FEMS microbiology letters",
+   "year": 2022,
+   "pmid": "36029281",
+   "n": 1,
+   "doi": "10.1093/femsle/fnac066"
+  },
+  {
+   "authors": "Kim Y, Kim G, Kim S, et al.",
+   "title": "Fecal microbiota transplantation improves anti-PD-1 inhibitor efficacy in unresectable or metastatic solid cancers refractory to anti-PD-1 inhibitor.",
+   "journal": "Cell host & microbe",
+   "year": 2024,
+   "pmid": "39059396",
+   "n": 2,
+   "doi": "10.1016/j.chom.2024.06.010"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

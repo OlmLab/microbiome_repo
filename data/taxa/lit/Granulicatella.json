@@ -1,0 +1,66 @@
+{
+ "slug": "Granulicatella",
+ "taxon": "g__Granulicatella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Granulicatella",
+ "name_note": "The GTDB genus g__Granulicatella also holds genomes that NCBI names Streptococcus or Carnobacterium, so it is broader than Granulicatella as used in papers.",
+ "sentences": [
+  {
+   "text": "Granulicatella species, previously classified as nutritionally variant streptococci, are fastidious Gram-positive cocci typically part of the normal oral, gastrointestinal and genitourinary flora.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A narrative review consolidating over 100 case reports and clinical studies describes them as organisms that can cause serious infections in both immunocompetent and immunocompromised individuals.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Among 483 patients whose bronchoalveolar lavage fluid was sequenced, those with bacterial pneumonia showed higher colonization rates of Granulicatella adiacens than those without.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A cross-sectional study of 39 children reported that recurrent protracted bacterial bronchitis patients had a distinct lung microbiota with a reduction in genera including Granulicatella.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Bokhari SFH, Bakht D, Amir M, Haris HM, Ain NU, Qureshi MS, Yousaf F, Yousaf R, Ali K, Javed MA, Awais MN, Zahid M, Shaukat M, Usman S, Hassan A, Ejaz M.",
+   "title": "Granulicatella infections: Comprehensive review of an elusive opportunistic pathogen.",
+   "journal": "World journal of clinical cases",
+   "year": 2025,
+   "pmid": "40933943",
+   "n": 1,
+   "doi": "10.12998/wjcc.v13.i29.110965"
+  },
+  {
+   "authors": "Hu CY, Yao SF, Li YF, Wang QZ, Li YJ, Sun C, Liu J, Zhao ZX.",
+   "title": "Differences in Non-Pathogenic Lung-Colonizing Bacteria Among Patients with Different Types of Pneumonia: A Retrospective Study.",
+   "journal": "Microorganisms",
+   "year": 2025,
+   "pmid": "41011430",
+   "n": 2,
+   "doi": "10.3390/microorganisms13092099"
+  },
+  {
+   "authors": "Xu L, Ji X, Lin M, Chen X, Su C.",
+   "title": "Respiratory microbiota diversity and composition in recurrent protracted bacterial bronchitis: a cross-sectional study.",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2025,
+   "pmid": "40792104",
+   "n": 3,
+   "doi": "10.3389/fcimb.2025.1524116"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "Haemophilus_influenzae_I",
+ "taxon": "s__Haemophilus influenzae_I",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Haemophilus influenzae",
+ "name_note": "Haemophilus influenzae_I is one of several GTDB species split from Haemophilus influenzae, and the genomes placed here carry the NCBI name Haemophilus influenzae.",
+ "sentences": [
+  {
+   "text": "Nontypeable Haemophilus influenzae is described as a common colonizer of the human upper respiratory tract and a major pathogen in pediatric respiratory tract infections.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes H. influenzae as a key model organism for mucosal pathobionts, associated with both asymptomatic colonization and a variety of disease states.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A systematic review and meta-analysis of 22 studies pooled carriage at 24.3 percent before Hib vaccination and 21.8 percent afterwards, with Hib carriage declining to 0.67 percent.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wen Z, Kong Y, et al.",
+   "title": "Multidrug resistance and genomic characteristics of nontypeable <i>Haemophilus influenzae</i> isolates from the respiratory tract of pediatric patients",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "42599079",
+   "n": 1,
+   "doi": "10.1128/spectrum.00498-26"
+  },
+  {
+   "authors": "Amero K, St Geme JW.",
+   "title": "<i>Haemophilus influenzae:</i> imposter, mucosal pathobiont, and model organism",
+   "journal": "Journal of bacteriology",
+   "year": 2026,
+   "pmid": "42017798",
+   "n": 2,
+   "doi": "10.1128/jb.00083-26"
+  },
+  {
+   "authors": "Taha S, Belkacem N, et al.",
+   "title": "Carriage of <i>Haemophilus influenzae</i> in the Pre- and Post-Hib Vaccine Eras Revisited: A Systematic Review and Meta-Analysis",
+   "journal": "Vaccines",
+   "year": 2026,
+   "pmid": "42347663",
+   "n": 3,
+   "doi": "10.3390/vaccines14060542"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

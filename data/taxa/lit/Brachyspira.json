@@ -1,0 +1,83 @@
+{
+ "slug": "Brachyspira",
+ "taxon": "g__Brachyspira",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Brachyspira",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Brachyspira is a genus of anaerobic spirochetes that includes nine officially recognised species, several of which are pathogenic to mammals and birds.",
+   "refs": [
+    3,
+    4
+   ]
+  },
+  {
+   "text": "In humans the bacteria attach intimately to the colonic mucosa, and a decade-long pathology study diagnosed intestinal spirochetosis from a basophilic band on the colonic epithelial surface.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "That study reports intestinal spirochetosis in about 1% of human colonic biopsy specimens and attributes it to Brachyspira pilosicoli and Brachyspira aalborgi.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A profile article describes Brachyspira colonisation of humans as common in populations from developing countries and in HIV-positive patients, and rarely investigated as a human pathogen.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A pooled analysis of 113 patients reported that those infected with Brachyspira pilosicoli more often had diarrhea, fever, HIV and immunocompromised conditions.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Dhorajiya P, Singal M, Mannan R.",
+   "title": "Intestinal spirochetosis in the modern era: a decade-long clinicopathologic study.",
+   "journal": "American journal of clinical pathology",
+   "year": 2026,
+   "pmid": "42289886",
+   "n": 1,
+   "doi": "10.1093/ajcp/aqag069"
+  },
+  {
+   "authors": "Eslick GD, Fan K, et al.",
+   "title": "Clinical and Pathologic Factors Associated With Colonic Spirochete (Brachyspira pilosicoli and Brachyspira aalborgi) Infection: A Comprehensive Systematic Review and Pooled Analysis.",
+   "journal": "American journal of clinical pathology",
+   "year": 2023,
+   "pmid": "37289435",
+   "n": 2,
+   "doi": "10.1093/ajcp/aqad063"
+  },
+  {
+   "authors": "Passey JL, La Ragione RM.",
+   "title": "JMM Profile: Brachyspira species: the causative agent of Avian Intestinal Spirochaetosis.",
+   "journal": "Journal of medical microbiology",
+   "year": 2022,
+   "pmid": "36155133",
+   "n": 3,
+   "doi": "10.1099/jmm.0.001495"
+  },
+  {
+   "authors": "Rajan A, Gallego P, et al.",
+   "title": "BPP43_05035 is a Brachyspira pilosicoli cell surface adhesin that weakens the integrity of the epithelial barrier during infection.",
+   "journal": "Gut microbes",
+   "year": 2024,
+   "pmid": "39349383",
+   "n": 4,
+   "doi": "10.1080/19490976.2024.2409247"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

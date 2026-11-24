@@ -1,0 +1,66 @@
+{
+ "slug": "Vescimonas",
+ "taxon": "g__Vescimonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Vescimonas",
+ "name_note": "Vescimonas is a recently named genus; most genomes GTDB places here carry the NCBI name Oscillibacter, from which Vescimonas was separated.",
+ "sentences": [
+  {
+   "text": "Vescimonas is a genus of Gram-stain-negative, obligately anaerobic, non-spore-forming, non-motile rods isolated from human faeces, with the species Vescimonas coprocola and Vescimonas fastidiosa.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its isolates were placed in the family Ruminococcaceae and showed 16S rRNA gene sequence similarity values lower than 96.2 % to the closely related species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of gut microbiome diversity reported that, within the family Oscillospiraceae, the abundance of Vescimonas was negatively correlated with body mass index.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a study of peninsular Malaysian populations, Vescimonas was among genera reported as more prevalent among urban individuals, while Prevotella and Cryptobacteroides were enriched in rural populations.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kitahara M, Shigeno Y, et al.",
+   "title": "Vescimonas gen. nov., Vescimonas coprocola sp. nov., Vescimonas fastidiosa sp. nov., Pusillimonas gen. nov. and Pusillimonas faecalis sp. nov. isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2021,
+   "pmid": "34726590",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.005066"
+  },
+  {
+   "authors": "Salazar-Jaramillo L, de la Cuesta-Zuluaga J, Chica LA, Cadavid M, Ley RE, Reyes A, Escobar JS.",
+   "title": "Gut microbiome diversity within <i>Clostridia</i> is negatively associated with human obesity.",
+   "journal": "",
+   "year": 2024,
+   "pmid": "39012154",
+   "n": 2,
+   "doi": "10.1128/msystems.00627-24"
+  },
+  {
+   "authors": "Jamaluddin NF, Brovkina O, Nor Rashid N, Al-Maleki AR, Lim YA, Tan MP, Lee SC, Duvallet C, Corzett CH, Alm E, Groussin M, Poyet M, Ibrahim F.",
+   "title": "Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle.",
+   "journal": "",
+   "year": 2025,
+   "pmid": "40617918",
+   "n": 3,
+   "doi": "10.1038/s41598-025-07117-z"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

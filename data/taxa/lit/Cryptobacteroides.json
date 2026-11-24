@@ -1,0 +1,75 @@
+{
+ "slug": "Cryptobacteroides",
+ "taxon": "g__Cryptobacteroides",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Cryptobacteroides",
+ "name_note": "Published sources write this genus as Cryptobacteroides or Candidatus Cryptobacteroides.",
+ "sentences": [
+  {
+   "text": "Cryptobacteroides is counted among anaerobic gut bacterial genera; in faecal metagenomes of wild and domestic equids, genomes co-carrying resistance genes and mobile elements were assigned to it.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A cross-sectional gut microbiome study of 1,801 women from Burkina Faso, Ghana, Kenya and South Africa reported loss of Cryptobacteroides species in urban populations.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of three peninsular Malaysian populations reported the genus Cryptobacteroides enriched in rural individuals, while other genera were more prevalent among urban individuals.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a mouse model of colitis, a study reported that lacto-N-biose treatment decreased Cryptobacteroides while promoting Akkermansia.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Maghini DG, Oduaran OH, et al.",
+   "title": "Expanding the human gut microbiome atlas of Africa.",
+   "journal": "Nature",
+   "year": 2025,
+   "pmid": "39880958",
+   "n": 1,
+   "doi": "10.1038/s41586-024-08485-8"
+  },
+  {
+   "authors": "Jamaluddin NF, Brovkina O, et al.",
+   "title": "Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle.",
+   "journal": "Scientific reports",
+   "year": 2025,
+   "pmid": "40617918",
+   "n": 2,
+   "doi": "10.1038/s41598-025-07117-z"
+  },
+  {
+   "authors": "Cao Y, Peng K, et al.",
+   "title": "Alterations in the gut resistomes of endangered wild equids associated with anthropogenic activities: Insights for One Health surveillance.",
+   "journal": "Environmental pollution",
+   "year": 2026,
+   "pmid": "42767353",
+   "n": 3,
+   "doi": "10.1016/j.envpol.2026.129195"
+  },
+  {
+   "authors": "Fan Z, Xie W, et al.",
+   "title": "Lacto-N-biose Improves Acute Colitis in Mice by Modulating Gut Microbiota and Metabolites.",
+   "journal": "Journal of agricultural and food chemistry",
+   "year": 2026,
+   "pmid": "42233329",
+   "n": 4,
+   "doi": "10.1021/acs.jafc.6c00114"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "Parabacteroides",
+ "taxon": "g__Parabacteroides",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Parabacteroides",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Parabacteroides species are core members of the human gut microbiota, with an average abundance near 1.27 percent across twelve populations.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "They metabolise carbohydrates and secrete short-chain fatty acids, and resistance to antibiotics such as clindamycin, moxifloxacin and cefoxitin has been described.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In mice, live Parabacteroides distasonis altered the bile acid profile, raising lithocholic and ursodeoxycholic acid.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Reviews report close relationships between this genus and host health, including metabolic syndrome, inflammatory bowel disease and obesity.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Cui Y, Zhang L, et al.",
+   "title": "Roles of intestinal Parabacteroides in human health and diseases",
+   "journal": "FEMS microbiology letters",
+   "year": 2022,
+   "pmid": "35945336",
+   "n": 1,
+   "doi": "10.1093/femsle/fnac072"
+  },
+  {
+   "authors": "Wang K, Liao M, et al.",
+   "title": "Parabacteroides distasonis Alleviates Obesity and Metabolic Dysfunctions via Production of Succinate and Secondary Bile Acids",
+   "journal": "Cell reports",
+   "year": 2019,
+   "pmid": "30605678",
+   "n": 2,
+   "doi": "10.1016/j.celrep.2018.12.028"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

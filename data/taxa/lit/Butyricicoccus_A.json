@@ -1,0 +1,66 @@
+{
+ "slug": "Butyricicoccus_A",
+ "taxon": "g__Butyricicoccus_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Butyricicoccus",
+ "name_note": "GTDB splits the classical genus Butyricicoccus into several genera, of which Butyricicoccus_A is one, so the cited findings are about Butyricicoccus in the broad sense.",
+ "sentences": [
+  {
+   "text": "The genus Butyricicoccus was named for five isolates obtained from the caecal content of a broiler chicken during a study of butyrate-producing microbiota.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genome-scale reassessment noted that the genera Butyricicoccus and Agathobaculum were established largely on 16S rRNA gene phylogeny, and proposed transfers plus a new genus Parabutyricicoccus.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That reassessment places the genus in the family Oscillospiraceae, whose members are described as prominent anaerobic bacteria of the gut microbiota with numerous taxa capable of butyrate production.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study quantified Butyricicoccus in stools of patients with ulcerative colitis or Crohn's disease and reported lower numbers in inflammatory bowel disease than in healthy subjects.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Eeckhaut V, Van Immerseel F, et al.",
+   "title": "Butyricicoccus pullicaecorum gen. nov., sp. nov., an anaerobic, butyrate-producing bacterium isolated from the caecal content of a broiler chicken",
+   "journal": "Research Square (preprint)",
+   "year": 2008,
+   "pmid": "19060061",
+   "n": 1,
+   "doi": "10.1099/ijs.0.65730-0"
+  },
+  {
+   "authors": "Menasria T, Zaatout N, et al.",
+   "title": "Genomic insights into <i>Agathobaculum</i> and <i>Butyricicoccus</i> highlight taxonomic refinements and synonymization with proposal of a new genus within the family <i>Oscillospiraceae, Parabutyricicoccus</i> gen. nov",
+   "journal": "Research Square (preprint)",
+   "year": 2026,
+   "pmid": "42975923",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.007343"
+  },
+  {
+   "authors": "Eeckhaut V, Machiels K, et al.",
+   "title": "Butyricicoccus pullicaecorum in inflammatory bowel disease",
+   "journal": "Research Square (preprint)",
+   "year": 2013,
+   "pmid": "23263527",
+   "n": 3,
+   "doi": "10.1136/gutjnl-2012-303611"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

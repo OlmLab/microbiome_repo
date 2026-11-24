@@ -1,0 +1,76 @@
+{
+ "slug": "Clostridium_AQ",
+ "taxon": "g__Clostridium_AQ",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Clostridium innocuum",
+ "name_note": "GTDB places Clostridium innocuum and a few unnamed relatives in the genus Clostridium_AQ, a split from the classical genus Clostridium, so the literature name used here is Clostridium innocuum.",
+ "sentences": [
+  {
+   "text": "Clostridium innocuum is an anaerobic, gram-positive, spore-forming bacterium and a commensal member of the human gut microbiome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that it is increasingly detected in patients with Clostridioides difficile infection, particularly following vancomycin treatment, with delayed clinical recovery and poor outcomes.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Reports have also associated the organism with extra-intestinal infections, antibiotic-associated diarrhea and inflammatory bowel disease.",
+   "refs": [
+    4,
+    3
+   ]
+  },
+  {
+   "text": "Bacteremia has been described, including a case complicating a foot ulcer, and a systematic review of previously reported bacteremia cases found their number limited.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "de Matos-Konrad C, Chima N, et al.",
+   "title": "Clostridium innocuum Bacteremia: Case Report and Systematic Review",
+   "journal": "South Dakota medicine : the journal of the South Dakota State Medical Association",
+   "year": 2026,
+   "pmid": "42527363",
+   "n": 1,
+   "doi": ""
+  },
+  {
+   "authors": "Kuo CJ, Hsu TS, et al.",
+   "title": "Vancomycin-resistant gut commensal Clostridium innocuum emerges as a pathobiont through synergy with toxigenic Clostridioides difficile",
+   "journal": "Microbial pathogenesis",
+   "year": 2026,
+   "pmid": "42082086",
+   "n": 2,
+   "doi": "10.1016/j.micpath.2026.108531"
+  },
+  {
+   "authors": "Chen YM, Chien KY, et al.",
+   "title": "Impact of vancomycin and Clostridioides difficile on the secretome and pathogenicity of Clostridium innocuum",
+   "journal": "Medical microbiology and immunology",
+   "year": 2025,
+   "pmid": "40338351",
+   "n": 3,
+   "doi": "10.1007/s00430-025-00831-5"
+  },
+  {
+   "authors": "Chiang-Ni C, Huang JY, et al.",
+   "title": "Genetic diversity, biofilm formation, and Vancomycin resistance of clinical Clostridium innocuum isolates",
+   "journal": "BMC microbiology",
+   "year": 2024,
+   "pmid": "39294587",
+   "n": 4,
+   "doi": "10.1186/s12866-024-03503-1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "Megasphaera",
+ "taxon": "g__Megasphaera",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Megasphaera",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Megasphaera elsdenii is a prominent lactate consumer in the rumen of livestock, and in humans it can be isolated from faeces of healthy donors and of patients with inflammatory conditions.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparison of 86 M. elsdenii genomes from human faeces with animal gut isolates reported that human and animal lineages intermingle without host-specific clustering.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Another study identified Megasphaera as an infrequent, low-abundance taxon contributing to lactose- and lactate-driven production of the short-chain acid valerate in overweight and obese women.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In the vagina, two taxa grouped within the genus Megasphaera, phylotypes 1 and 2, have been previously associated with bacterial vaginosis and pregnancy complications.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sabirova D, Rayko M, et al.",
+   "title": "Genomic insights into the human gut commensal Megasphaera elsdenii: relatedness and metabolic potential compared to animal isolates",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "42961048",
+   "n": 1,
+   "doi": "10.1128/spectrum.01637-26"
+  },
+  {
+   "authors": "Huertas-Díaz L, Gezer ME, et al.",
+   "title": "Megasphaera contributes to lactate-driven valerate production in the human gut",
+   "journal": "Microbiome",
+   "year": 2025,
+   "pmid": "41121394",
+   "n": 2,
+   "doi": "10.1186/s40168-025-02207-6"
+  },
+  {
+   "authors": "Glascock AL, Jimenez NR, et al.",
+   "title": "Unique roles of vaginal Megasphaera phylotypes in reproductive health",
+   "journal": "Microbial genomics",
+   "year": 2021,
+   "pmid": "34898422",
+   "n": 3,
+   "doi": "10.1099/mgen.0.000526"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

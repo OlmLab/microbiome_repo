@@ -1,0 +1,51 @@
+{
+ "slug": "Fimenecus",
+ "taxon": "g__Fimenecus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Fimenecus",
+ "name_note": "GTDB g__Fimenecus corresponds to Candidatus Fimenecus; its species are mostly uncultured placeholders such as Fimenecus sp000432435, the name used in the cited human study.",
+ "sentences": [
+  {
+   "text": "That study reported Fimenecus sp000432435 as a robust biomarker for psoriasis, achieving an area under the curve of 0.84.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Genomic functional prediction in that study indicated this species encodes pathways with the potential for B-vitamin and secondary bile acid biosynthesis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of faecal microbiota in lactating sows reported that the Fimenecus genus was less abundant on one enzyme-supplemented diet than on two others.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Deng J, Qiu Q, Ye S, Yu J, Yao D, Deng H, Wang C, Han L, Deng Y, Chen Y, Liu Y, Liu C, Shang X, Fang X, Lu C.",
+   "title": "Disentangling environmental and disease-specific signatures in the gut microbiome of psoriasis: discovery of Fimenecus sp. as a novel biomarker and characterization of the gut virome.",
+   "journal": "Journal of translational medicine",
+   "year": 2026,
+   "pmid": "41882673",
+   "n": 1,
+   "doi": "10.1186/s12967-026-08013-4"
+  },
+  {
+   "authors": "Lima JPS, Engelsing EFR, Genova JL, Martinelli GL, Trenkel ALG, Bickel AG, Tillmann AC, Azevedo LB, Careli PS, Carvalho ST, Kipper M, Eyng C, Carvalho PLO.",
+   "title": "β-mannanase-supplemented diets reduced by 85 kcal of metabolizable energy/kg containing xylanase promotes benefits in fecal alpha diversity in lactating sows",
+   "journal": "",
+   "year": 2024,
+   "pmid": null,
+   "n": 2,
+   "doi": "10.21203/rs.3.rs-4449417/v1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

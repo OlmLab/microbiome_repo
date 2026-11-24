@@ -1,0 +1,147 @@
+{
+ "generated": "2026-11-23T22:16:36",
+ "package_version": "1.34.0",
+ "release_id": "R2026.41",
+ "s1": {
+  "cohorts_ni": 16,
+  "cohorts_ref": 477,
+  "max_samples_ref": 2463,
+  "med_cohorts_ref": 200.0,
+  "med_samples_ni": 56.0,
+  "med_samples_ref": 542.0,
+  "min_samples_ni": 4,
+  "min_samples_ref": 3,
+  "n_blossum": 37,
+  "n_blossum_absent_from_ni": 0,
+  "n_ni": 781,
+  "n_ref": 27662,
+  "n_vanish": 69,
+  "n_vanish_absent_from_ref": 0,
+  "n_vanish_detected_in_ref": 69,
+  "variant": "none_absent"
+ },
+ "s2": {
+  "cohorts_total": 490,
+  "permutations": 200
+ },
+ "s3": {
+  "c3_cohorts_ni": 10,
+  "c3_estimable": true,
+  "c3_n_ni": 464,
+  "cohorts_ni": 16,
+  "cohorts_ni_external": 7,
+  "cohorts_ni_stated": 10,
+  "countries_ni": 13,
+  "lifestyles": [
+   {
+    "cohorts": 4,
+    "label": "indigenous community",
+    "n": 288
+   },
+   {
+    "cohorts": 3,
+    "label": "rural non-industrialized",
+    "n": 183
+   },
+   {
+    "cohorts": 3,
+    "label": "no value recorded (external label only)",
+    "n": 120
+   },
+   {
+    "cohorts": 2,
+    "label": "traditional agriculturalist",
+    "n": 82
+   },
+   {
+    "cohorts": 4,
+    "label": "hunter-gatherer",
+    "n": 80
+   },
+   {
+    "cohorts": 1,
+    "label": "other lifestyle",
+    "n": 14
+   },
+   {
+    "cohorts": 1,
+    "label": "pastoralist",
+    "n": 14
+   }
+  ],
+  "n_lifestyle_values": 7,
+  "n_ni": 781,
+  "n_ni_external_only": 317,
+  "n_ni_stated": 408
+ },
+ "s4": {
+  "floors": [
+   {
+    "level": "species",
+    "min_relabund": 0.0010000000474974513,
+    "min_relabund_pct": 0.10000000474974513
+   },
+   {
+    "level": "genus",
+    "min_relabund": 9.000000318337698e-06,
+    "min_relabund_pct": 0.0009000000318337698
+   },
+   {
+    "level": "family",
+    "min_relabund": 9.999999747378752e-06,
+    "min_relabund_pct": 0.0009999999747378752
+   }
+  ],
+  "rule": "relabund > 0",
+  "threshold_sweep_done": false
+ },
+ "s5": {
+  "cohorts_ref": 477,
+  "n_condition": 12787,
+  "n_condition_values": 28,
+  "n_healthy": 7999,
+  "n_matched": 27662,
+  "n_no_value": 6876,
+  "n_ref": 27662,
+  "pct_condition": 46.2,
+  "pct_healthy": 28.9,
+  "top_conditions": [
+   {
+    "condition": "other cancer",
+    "n": 1871
+   },
+   {
+    "condition": "other infection",
+    "n": 1533
+   },
+   {
+    "condition": "other disease",
+    "n": 1377
+   },
+   {
+    "condition": "neurological psychiatric",
+    "n": 1369
+   },
+   {
+    "condition": "transplant or immunocompromised",
+    "n": 787
+   }
+  ],
+  "variant": "measured"
+ },
+ "s6": {
+  "n_species_profiled": 24324,
+  "n_species_tested_model": 464,
+  "n_species_tested_simple": 12693,
+  "sandpiper_version": "2.0.1",
+  "taxonomy_db": "GTDB",
+  "taxonomy_version": "R232"
+ },
+ "scope": {
+  "contrast": "C1",
+  "level": "species",
+  "stratum": "adult"
+ },
+ "stage": "sentences",
+ "vanish_out": "vanish_out"
+}

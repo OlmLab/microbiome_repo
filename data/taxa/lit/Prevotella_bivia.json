@@ -1,0 +1,73 @@
+{
+ "slug": "Prevotella_bivia",
+ "taxon": "s__Prevotella bivia",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Prevotella bivia",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Prevotella bivia is a vaginal bacterium that is listed among the species associated with bacterial vaginosis and is cultured under anaerobic conditions.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Bacterial vaginosis is described as the most common vaginal infection in women of reproductive age and is strongly associated with polymicrobial biofilms that contribute to antimicrobial tolerance and high recurrence rates.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Among 35 isolates from 30 vaginal samples from South African women, resistance to metronidazole and clindamycin was low, at 11.4% and 8.6% respectively.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that study the tetQ and cfxA genes were the most frequently detected resistance determinants, and South African isolates clustered separately from most publicly available isolates originating from the United States.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In an ex vivo vaginal tissue model with tenofovir, tissue TFVdp decreased as Prevotella bivia concentrations increased, although not statistically, while tenofovir efficacy unexpectedly increased.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Welp K, Paul L, et al.",
+   "title": "Antimicrobial resistance profiles and genomic diversity of vaginal Prevotella bivia isolates from South African women, including the first report of nimK in South African vaginal P. bivia isolates",
+   "journal": "Anaerobe",
+   "year": 2026,
+   "pmid": "42822660",
+   "n": 1,
+   "doi": "10.1016/j.anaerobe.2026.103086"
+  },
+  {
+   "authors": "Castro FO, Mulinde T, et al.",
+   "title": "Enhanced activity of octiset® versus octenidine against polymicrobial bacterial vaginosis biofilms in vitro and ex vivo",
+   "journal": "Biofilm",
+   "year": 2026,
+   "pmid": "42529212",
+   "n": 2,
+   "doi": "10.1016/j.bioflm.2026.100386"
+  },
+  {
+   "authors": "Lantz AM, Collins LB, et al.",
+   "title": "Prevotella bivia Influences Antiretroviral Pharmacokinetics and Viral Replication in an Ex Vivo Vaginal Tissue Model",
+   "journal": "Clinical and translational science",
+   "year": 2026,
+   "pmid": "42148717",
+   "n": 3,
+   "doi": "10.1111/cts.70597"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

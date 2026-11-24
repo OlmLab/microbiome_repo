@@ -1,0 +1,72 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN10688591,PRJNA494824,1,A1,adult,19358.25,female,US,other_cancer,Adenocarcinoma of Lung,,,,2013,primary,1.0,10.13
+SAMN10688592,PRJNA494824,1,A2,adult,19358.25,female,US,other_cancer,Adenocarcinoma of Lung,,,,2013,primary,1.0,10.801
+SAMN10688593,PRJNA494824,1,B,adult,19358.25,female,US,other_cancer,Adenocarcinoma of Lung,,,,2013,primary,1.0,9.678
+SAMN10688613,PRJNA494824,12,A1,adult,23376.0,male,US,other_cancer,Adenocarcinoma of Lung,,,,2014,primary,1.0,10.853
+SAMN10688614,PRJNA494824,12,B,adult,23376.0,male,US,other_cancer,Adenocarcinoma of Lung,,,,2014,primary,1.0,10.316
+SAMN10688615,PRJNA494824,12,C,adult,23376.0,male,US,other_cancer,Adenocarcinoma of Lung,,,,2014,primary,1.0,10.58
+SAMN10688616,PRJNA494824,14,A1,adult,21184.5,female,US,other_cancer,Breast Neoplasms,,,,2014,primary,1.0,6.519
+SAMN10688617,PRJNA494824,14,B,adult,21184.5,female,US,other_cancer,Breast Neoplasms,,,,2014,primary,1.0,5.836
+SAMN10688618,PRJNA494824,14,C,adult,21184.5,female,US,other_cancer,Breast Neoplasms,,,,2015,primary,1.0,5.708
+SAMN10688619,PRJNA494824,15,A1,adult,23376.0,male,US,other_cancer,Prostatic Neoplasms,drug_therapy,,,2014,primary,1.0,5.435
+SAMN10688620,PRJNA494824,15,A2,adult,23376.0,male,US,other_cancer,Prostatic Neoplasms,drug_therapy,,,2015,primary,1.0,6.826
+SAMN10688621,PRJNA494824,15,B,adult,23376.0,male,US,other_cancer,Prostatic Neoplasms,drug_therapy,,,2015,primary,1.0,6.348
+SAMN10688622,PRJNA494824,15,C,adult,23376.0,male,US,other_cancer,Prostatic Neoplasms,drug_therapy,,,2015,primary,1.0,6.231
+SAMN10688623,PRJNA494824,16,A1,adult,23376.0,male,US,other_cancer,Prostatic Neoplasms,drug_therapy,,,2015,primary,1.0,5.799
+SAMN10688624,PRJNA494824,16,B,adult,23376.0,male,US,other_cancer,Prostatic Neoplasms,drug_therapy,,,2015,primary,1.0,5.666
+SAMN10688625,PRJNA494824,17,A1,adult,22280.25,female,US,colorectal_cancer,Rectal Neoplasms,,,,2015,primary,1.0,7.019
+SAMN10688626,PRJNA494824,17,B,adult,22280.25,female,US,colorectal_cancer,Rectal Neoplasms,,,,2015,primary,1.0,6.954
+SAMN10688627,PRJNA494824,17,C,adult,22280.25,female,US,colorectal_cancer,Rectal Neoplasms,,,,2015,primary,1.0,5.732
+SAMN10688628,PRJNA494824,19,A1,adult,20088.75,male,US,colorectal_cancer,Rectal Neoplasms,,,,2015,primary,1.0,6.483
+SAMN10688629,PRJNA494824,19,B,adult,20088.75,male,US,colorectal_cancer,Rectal Neoplasms,,,,2015,primary,1.0,6.875
+SAMN10688630,PRJNA494824,19,C,adult,20088.75,male,US,colorectal_cancer,Rectal Neoplasms,,,,2015,primary,1.0,7.138
+SAMN10688594,PRJNA494824,2,A1,adult,21915.0,female,US,other_cancer,Breast Neoplasms,,,,2013,primary,1.0,10.809
+SAMN10688595,PRJNA494824,2,A2,adult,21915.0,female,US,other_cancer,Breast Neoplasms,,,,2013,primary,1.0,10.482
+SAMN10688596,PRJNA494824,2,B,adult,21915.0,female,US,other_cancer,Breast Neoplasms,,,,2013,primary,1.0,10.231
+SAMN10688597,PRJNA494824,2,C,adult,21915.0,female,US,other_cancer,Breast Neoplasms,,,,2013,primary,1.0,10.502
+SAMN10688631,PRJNA494824,21,A1,adult,12783.75,male,US,other_cancer,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",,,,2015,primary,1.0,7.101
+SAMN10688632,PRJNA494824,21,B,adult,12783.75,male,US,other_cancer,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",,,,2015,primary,1.0,6.992
+SAMN10688633,PRJNA494824,21,C,adult,12783.75,male,US,other_cancer,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",,,,2015,primary,1.0,6.555
+SAMN10688634,PRJNA494824,22,A1,adult,23376.0,female,US,other_cancer,Breast Neoplasms,,,,2015,primary,1.0,7.064
+SAMN10688635,PRJNA494824,22,B,adult,23376.0,female,US,other_cancer,Breast Neoplasms,,,,2015,primary,1.0,7.704
+SAMN10688636,PRJNA494824,22,C,adult,23376.0,female,US,other_cancer,Breast Neoplasms,,,,2015,primary,1.0,7.016
+SAMN10688637,PRJNA494824,25,A1,adult,21915.0,male,US,other_cancer,Small Cell Lung Carcinoma,drug_therapy,,,2015,primary,1.0,6.945
+SAMN10688638,PRJNA494824,25,B,adult,21915.0,male,US,other_cancer,Small Cell Lung Carcinoma,drug_therapy,,,2015,primary,1.0,6.8
+SAMN10688639,PRJNA494824,25,C,adult,21915.0,male,US,other_cancer,Small Cell Lung Carcinoma,drug_therapy,,,2015,primary,1.0,7.025
+SAMN10688640,PRJNA494824,27,A1,elderly,26298.0,male,US,colorectal_cancer,Colonic Neoplasms,,,,2015,primary,1.0,7.158
+SAMN10688641,PRJNA494824,27,B,elderly,26298.0,male,US,colorectal_cancer,Colonic Neoplasms,,,,2015,primary,1.0,7.215
+SAMN10688642,PRJNA494824,27,C,elderly,26298.0,male,US,colorectal_cancer,Colonic Neoplasms,,,,2015,primary,1.0,6.804
+SAMN10688643,PRJNA494824,28,A1,adult,21184.5,female,US,other_cancer,Breast Neoplasms,,,,2015,primary,1.0,7.408
+SAMN10688644,PRJNA494824,28,B,adult,21184.5,female,US,other_cancer,Breast Neoplasms,,,,2015,primary,1.0,6.956
+SAMN10688645,PRJNA494824,28,C,adult,21184.5,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,7.002
+SAMN10688646,PRJNA494824,30,A1,adult,15705.75,female,US,other_cancer,Ovarian Neoplasms,drug_therapy,,,2015,primary,1.0,7.464
+SAMN10688647,PRJNA494824,30,B,adult,15705.75,female,US,other_cancer,Ovarian Neoplasms,drug_therapy,,,2015,primary,1.0,7.367
+SAMN10688648,PRJNA494824,30,C,adult,15705.75,female,US,other_cancer,Ovarian Neoplasms,drug_therapy,,,2016,primary,1.0,6.997
+SAMN10688649,PRJNA494824,32,A1,adult,18627.75,male,US,colorectal_cancer,Colonic Neoplasms,,,,2015,primary,1.0,7.133
+SAMN10688650,PRJNA494824,32,B,adult,18627.75,male,US,colorectal_cancer,Colonic Neoplasms,,,,2015,primary,1.0,6.995
+SAMN10688651,PRJNA494824,32,C,adult,18627.75,male,US,colorectal_cancer,Colonic Neoplasms,,,,2016,primary,1.0,7.137
+SAMN10688652,PRJNA494824,36,A1,adult,16801.5,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,7.401
+SAMN10688653,PRJNA494824,36,B,adult,16801.5,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,6.87
+SAMN10688654,PRJNA494824,38,A1,adult,15340.5,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,7.138
+SAMN10688655,PRJNA494824,38,B,adult,15340.5,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,7.203
+SAMN10688656,PRJNA494824,38,C,adult,15340.5,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,6.831
+SAMN10688657,PRJNA494824,39,A1,adult,19723.5,male,US,other_cancer,Pancreatic Neoplasms,,,,2016,primary,1.0,7.38
+SAMN10688658,PRJNA494824,39,B,adult,19723.5,male,US,other_cancer,Pancreatic Neoplasms,,,,2016,primary,1.0,6.346
+SAMN10688598,PRJNA494824,4,A1,adult,14975.25,male,US,other_cancer,Adenocarcinoma of Lung,,,,2013,primary,1.0,11.48
+SAMN10688599,PRJNA494824,4,B,adult,14975.25,male,US,other_cancer,Adenocarcinoma of Lung,,,,2013,primary,1.0,9.542
+SAMN10688600,PRJNA494824,4,C,adult,14975.25,male,US,other_cancer,Adenocarcinoma of Lung,,,,2014,primary,1.0,9.882
+SAMN10688659,PRJNA494824,40,A1,adult,19723.5,female,US,other_cancer,Pancreatic Neoplasms,,,,2016,primary,1.0,7.044
+SAMN10688660,PRJNA494824,44,A1,adult,13149.0,female,US,other_cancer,Breast Neoplasms,,,,2016,primary,1.0,6.689
+SAMN10688661,PRJNA494824,45,A1,adult,13879.5,female,US,other_cancer,Ovarian Neoplasms,drug_therapy,,,2016,primary,1.0,7.083
+SAMN10688601,PRJNA494824,5,A1,adult,19723.5,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2013,primary,1.0,9.035
+SAMN10688602,PRJNA494824,5,A2,adult,19723.5,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2013,primary,1.0,10.186
+SAMN10688603,PRJNA494824,5,B,adult,19723.5,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2013,primary,1.0,10.623
+SAMN10688604,PRJNA494824,5,C,adult,19723.5,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2013,primary,1.0,10.853
+SAMN10688605,PRJNA494824,7,A,adult,19358.25,male,US,other_cancer,Adenocarcinoma of Lung,,,,2013,primary,1.0,9.693
+SAMN10688606,PRJNA494824,7,B,adult,19358.25,male,US,other_cancer,Adenocarcinoma of Lung,,,,2014,primary,1.0,10.192
+SAMN10688607,PRJNA494824,8,A1,adult,18627.75,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2014,primary,1.0,9.813
+SAMN10688608,PRJNA494824,8,A2,adult,18627.75,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2014,primary,1.0,10.596
+SAMN10688609,PRJNA494824,8,B,adult,18627.75,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2014,primary,1.0,10.056
+SAMN10688610,PRJNA494824,9,A1,adult,18993.0,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2014,primary,1.0,10.373
+SAMN10688611,PRJNA494824,9,B,adult,18993.0,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2014,primary,1.0,10.495
+SAMN10688612,PRJNA494824,9,C,adult,18993.0,female,US,other_cancer,Adenocarcinoma of Lung,drug_therapy,,,2014,primary,1.0,9.788

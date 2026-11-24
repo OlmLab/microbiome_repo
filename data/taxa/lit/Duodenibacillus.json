@@ -1,0 +1,75 @@
+{
+ "slug": "Duodenibacillus",
+ "taxon": "g__Duodenibacillus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Duodenibacillus",
+ "name_note": "Genomes GTDB places in Duodenibacillus are deposited in NCBI partly under Sutterella names, and published findings use the species name Duodenibacillus massiliensis.",
+ "sentences": [
+  {
+   "text": "Duodenibacillus massiliensis was described from a human duodenum liquid sample taken from a 60-year-old man.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of children with Pediatric Inflammatory Multisystem Syndrome, a post-infectious inflammatory condition associated with SARS-CoV-2, reported increased relative abundance of Duodenibacillus massiliensis.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported examination stress to be associated with lower relative abundance of Duodenibacillus massiliensis.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A review describes evidence linking microbial signatures including Duodenibacillus massiliensis to chemoradiotherapy efficacy and resistance in rectal cancer.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Mailhe M, Ricaboni D, et al.",
+   "title": "' Duodenibacillus massiliensis ' gen. nov., sp. nov., a new species identified in human duodenum.",
+   "journal": "New microbes and new infections",
+   "year": 2017,
+   "pmid": "28275442",
+   "n": 1,
+   "doi": "10.1016/j.nmni.2016.11.024"
+  },
+  {
+   "authors": "Agrimbau Vázquez J, Boggio Marzet C, et al.",
+   "title": "Altered gut microbial functional landscape in children with pediatric inflammatory multisystem syndrome following SARS-CoV-2 infection: an exploratory metagenomic study.",
+   "journal": "Frontiers in pediatrics",
+   "year": 2026,
+   "pmid": "42836017",
+   "n": 2,
+   "doi": "10.3389/fped.2026.1881538"
+  },
+  {
+   "authors": "O'Reilly CB, Giesbrecht T, et al.",
+   "title": "Not all stress is equal: Examination stress and cortisol reactivity are associated with exploratory species-level variation but not broad restructuring of the gut microbiome.",
+   "journal": "Neurobiology of stress",
+   "year": 2026,
+   "pmid": "42871005",
+   "n": 3,
+   "doi": "10.1016/j.ynstr.2026.100855"
+  },
+  {
+   "authors": "Taoum C, Devaux A, et al.",
+   "title": "Gut microbiota and chemoradiotherapy response in rectal cancer: Biomarker opportunities.",
+   "journal": "Critical reviews in oncology/hematology",
+   "year": 2025,
+   "pmid": "41038411",
+   "n": 4,
+   "doi": "10.1016/j.critrevonc.2025.104974"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

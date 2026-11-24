@@ -1,0 +1,63 @@
+{
+ "slug": "Akkermansia_muciniphila_A",
+ "taxon": "s__Akkermansia muciniphila_A",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Akkermansia muciniphila",
+ "name_note": "GTDB divides Akkermansia muciniphila into several species-level lineages and marks this one _A; the papers and NCBI use the undivided name Akkermansia muciniphila.",
+ "sentences": [
+  {
+   "text": "Akkermansia muciniphila is a commensal bacterium that represents 1 to 4 percent of the fecal microbiota in healthy adults and can use mucin as a sole source of carbon and nitrogen.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review discusses evidence that Akkermansia muciniphila and specific bacterial proteins stimulate the proliferation and differentiation of intestinal stem cells, as part of tissue homeostasis and repair after injury.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Large phylogenetic and functional diversity within the Akkermansia genus has prompted comparisons of different strains for their individual health profiles.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Longitudinal metagenomic data from 7 healthy individuals showed significant fluctuations in its relative abundance, including short-term blooms.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In the same analysis, closely related strains were shared between cohabiting subjects and across China, South Korea and the United States.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Stein RA, Ganesh A, Rianom NA, Paratore AW.",
+   "title": "<i>Akkermansia muciniphila</i>: a member of the gut microbiota that modulates intestinal stem cell function.",
+   "journal": "Physiological genomics",
+   "year": 2026,
+   "pmid": "42267971",
+   "n": 1,
+   "doi": "10.1152/physiolgenomics.00230.2025"
+  },
+  {
+   "authors": "Han N, Peng X, Zhang T, Qiang Y, Li X, Zhang W.",
+   "title": "Strain-level dynamics of Akkermansia muciniphila in the human gut microbiota.",
+   "journal": "AMB Express",
+   "year": 2025,
+   "pmid": "41364398",
+   "n": 2,
+   "doi": "10.1186/s13568-025-01982-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

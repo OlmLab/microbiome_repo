@@ -1,0 +1,60 @@
+{
+ "slug": "Faecalibacterium_butyricigenerans",
+ "taxon": "s__Faecalibacterium butyricigenerans",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium butyricigenerans",
+ "name_note": "A few genomes GTDB assigns to this species are deposited in NCBI under the name Faecalibacterium prausnitzii.",
+ "sentences": [
+  {
+   "text": "The two strains were gram-negative, non-motile and rod-shaped, grew optimally at 37 degrees Celsius and pH 7.0, and clustered with species of the genus Faecalibacterium.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that its interventions increased the abundance of Faecalibacterium butyricigenerans, which the authors state promotes butyrate production and enhances barrier function.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported decreased levels of Faecalibacterium butyricigenerans in relapsing multiple sclerosis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zou Y, Lin X, et al.",
+   "title": "Characterization and description of Faecalibacterium butyricigenerans sp. nov. and F. longum sp. nov., isolated from human faeces.",
+   "journal": "Scientific reports",
+   "year": 2021,
+   "pmid": "34059761",
+   "n": 1,
+   "doi": "10.1038/s41598-021-90786-3"
+  },
+  {
+   "authors": "Chen Y, Long B, et al.",
+   "title": "Blautia wexlerae ameliorates ulcerative colitis via metabolic remodeling of the gut microbiota.",
+   "journal": "Cell reports",
+   "year": 2026,
+   "pmid": "42715096",
+   "n": 2,
+   "doi": "10.1016/j.celrep.2026.117977"
+  },
+  {
+   "authors": "Alshinnawy AS, Badiea EA, et al.",
+   "title": "Decoding the Gut Microbiota in Multiple Sclerosis Using Nanopore Long-Read Sequencing: Insights into Disease Severity and Subtypes.",
+   "journal": "Molecular neurobiology",
+   "year": 2025,
+   "pmid": "40679698",
+   "n": 3,
+   "doi": "10.1007/s12035-025-05194-9"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

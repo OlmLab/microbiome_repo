@@ -1,0 +1,57 @@
+{
+ "slug": "Evtepia_gabavorous",
+ "taxon": "s__Evtepia gabavorous",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Evtepia gabavorous",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Evtepia gabavorous is reported as a GABA-consuming species of the human gut microbiome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A meta-analysis consolidating five case-control studies covering 1007 fecal samples reported elevated levels of GABA-consuming species, particularly Evtepia gabavorous, in Parkinson's disease.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The authors of that meta-analysis suggest this contributes to neuronal excitability.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A shotgun metagenomics study of patients with idiopathic normal pressure hydrocephalus reported enrichment of Evtepia gabavorous specifically associated with clinical traits of that condition.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Marzouk NH, Rashwan HH, et al.",
+   "title": "Proinflammatory and GABA eating bacteria in Parkinson's disease gut microbiome from a meta-analysis prospective.",
+   "journal": "NPJ Parkinson's disease",
+   "year": 2025,
+   "pmid": "40461531",
+   "n": 1,
+   "doi": "10.1038/s41531-025-00950-z"
+  },
+  {
+   "authors": "Park R, Chevalier C, et al.",
+   "title": "Gut microbiome signatures in iNPH: Insights from a shotgun metagenomics study.",
+   "journal": "PloS one",
+   "year": 2025,
+   "pmid": "40953029",
+   "n": 2,
+   "doi": "10.1371/journal.pone.0330251"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

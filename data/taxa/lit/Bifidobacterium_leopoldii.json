@@ -1,0 +1,66 @@
+{
+ "slug": "Bifidobacterium_leopoldii",
+ "taxon": "s__Bifidobacterium leopoldii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Gardnerella leopoldii",
+ "name_note": "GTDB places the genus Gardnerella inside Bifidobacterium, so s__Bifidobacterium leopoldii is the species published and listed by NCBI as Gardnerella leopoldii.",
+ "sentences": [
+  {
+   "text": "Gardnerella leopoldii was described as a novel species after whole genome sequence analysis of 81 genomes of the genus Gardnerella indicated the existence of 13 genomic species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Matrix-assisted laser desorption ionization time-of-flight MS analysis of protein signatures identified specific peaks that can be used to differentiate it from Gardnerella vaginalis, Gardnerella piotii and Gardnerella swidsinskii.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In the same comparative proteomic work, immune evasion proteins were more abundant in Gardnerella leopoldii biofilms.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It was among the vaginal species best able to degrade resistant alpha-1,4-glucan in vitro, and vaginal swabs with high degradation activity were associated with bacterial vaginosis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Vaneechoutte M, Guschin A, Van Simaey L, Gansemans Y, Van Nieuwerburgh F, Cools P.",
+   "title": "Emended description of Gardnerella vaginalis and description of Gardnerella leopoldii sp. nov., Gardnerella piotii sp. nov. and Gardnerella swidsinskii sp. nov., with delineation of 13 genomic species within the genus Gardnerella.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2019,
+   "pmid": "30648938",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003200"
+  },
+  {
+   "authors": "Shvartsman E, Grant C, McQueen P, McCorrister S, Westmacott G, Sandstrom P, MacDonald KS.",
+   "title": "Comparative proteomics reveal striking differences in biofilm formation and virulence potential of Gardnerella leopoldii , G. piotii , and G. vaginalis isolates.",
+   "journal": "Journal of bacteriology",
+   "year": 2026,
+   "pmid": "42474312",
+   "n": 2,
+   "doi": "10.1128/jb.00416-25"
+  },
+  {
+   "authors": "Hertzberger R, Morselli S, Botschuijver S, Himschoot L, Steenbergen L, Bruisten S, Lewis W, Cools P, Kort R.",
+   "title": "Degradation of Resistant α-1,4-glucan by Vaginal Gardnerella Species is Associated with Bacterial Vaginosis.",
+   "journal": "Current microbiology",
+   "year": 2025,
+   "pmid": "40892095",
+   "n": 3,
+   "doi": "10.1007/s00284-025-04459-9"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

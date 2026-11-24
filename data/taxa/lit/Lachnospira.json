@@ -1,0 +1,81 @@
+{
+ "slug": "Lachnospira",
+ "taxon": "g__Lachnospira",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Lachnospira",
+ "name_note": "GTDB R232 g__Lachnospira is broader than the classical genus Lachnospira: its genomes also carry the NCBI names Lachnospira eligens (formerly Eubacterium eligens) and Lactobacillus rogosae, while the sentences here describe Lachnospira multiparus and the genus-level taxon Lachnospira as the cited studies report them.",
+ "sentences": [
+  {
+   "text": "Lachnospira multiparus is described as one of the main rumen pectinolytic bacteria, and its type strain grew on pectin and glucose at a similar rate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In Lachnospira multiparus, an extracellular exopectate lyase was the principal enzyme degrading pectin, and pectin-grown cultures produced significantly more acetate and less formate than glucose-grown cultures.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of children enrolled in a Canadian birth cohort reported that shifts in the relative abundance of Lachnospira in the first 3 months of life were associated with preschool age asthma.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A survey of healthy adults reported that participants with higher stress scores had a lower abundance of Lachnospira, and that natto, tomatoes and green peppers were consumed less by that group.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study using faecal sequencing in 105 children reported decreases in Lachnospira spp. in metabolic dysfunction-associated fatty liver disease, and negative correlation of Lachnospira spp. with insulin resistance.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Dusková D, Marounek M.",
+   "title": "Fermentation of pectin and glucose, and activity of pectin-degrading enzymes in the rumen bacterium Lachnospira multiparus",
+   "journal": "Letters in applied microbiology",
+   "year": 2001,
+   "pmid": "11472526",
+   "n": 1,
+   "doi": "10.1046/j.1472-765x.2001.00970.x"
+  },
+  {
+   "authors": "Stiemsma LT, Arrieta MC, et al.",
+   "title": "Shifts in Lachnospira and Clostridium sp. in the 3-month stool microbiome are associated with preschool age asthma",
+   "journal": "Clinical science (London, England : 1979)",
+   "year": 2016,
+   "pmid": "27634868",
+   "n": 2,
+   "doi": "10.1042/cs20160349"
+  },
+  {
+   "authors": "Sasaki H, Masutomi H, et al.",
+   "title": "The intake of pulses and vegetables is associated with an increase in the Lachnospira abundance and a decrease in stress: Analysis of the 'Sukoyaka Health Survey'",
+   "journal": "Clinical nutrition ESPEN",
+   "year": 2025,
+   "pmid": "40472895",
+   "n": 3,
+   "doi": "10.1016/j.clnesp.2025.05.048"
+  },
+  {
+   "authors": "Tsai CC, Chiu MH, et al.",
+   "title": "The Reduced Gut Lachnospira Species Is Linked to Liver Enzyme Elevation and Insulin Resistance in Pediatric Fatty Liver Disease",
+   "journal": "International journal of molecular sciences",
+   "year": 2024,
+   "pmid": "38612453",
+   "n": 4,
+   "doi": "10.3390/ijms25073640"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

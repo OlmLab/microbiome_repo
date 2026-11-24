@@ -1,0 +1,12 @@
+label,claims,testable,replicated,rate,lo,hi,opposite
+Primary analysis,6933,1918,515,0.2685,0.2492,0.2888,31
+Only claims from 16S studies,5298,1460,346,0.2370,0.2159,0.2595,20
+Only claims from shotgun studies,1533,417,144,0.3453,0.3013,0.3922,7
+Condition labels: either of the two readings is enough,7245,2095,531,0.2535,0.2353,0.2725,34
+Taxon rule: the exact GTDB taxon only,6933,1686,438,0.2598,0.2394,0.2812,32
+Taxon rule: broad,6933,1980,515,0.2601,0.2413,0.2799,33
+"Adjusted for age, sex and BMI",6933,676,191,0.2825,0.2499,0.3176,12
+Only projects with person identifiers for at least 90 % of persons,6933,1342,250,0.1863,0.1664,0.2080,12
+Without removing the claim's own cohort,6933,1970,573,0.2909,0.2712,0.3113,31
+Colorectal adenoma left out,6891,1896,514,0.2711,0.2516,0.2916,31
+Colorectal cancer (set aside before the run; not part of the headline),672,363,200,0.5510,0.4995,0.6013,12

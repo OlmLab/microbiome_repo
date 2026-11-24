@@ -1,0 +1,84 @@
+{
+ "slug": "Moraxella_catarrhalis",
+ "taxon": "s__Moraxella catarrhalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Moraxella catarrhalis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Moraxella catarrhalis, formerly called Branhamella catarrhalis, is an exclusively human commensal and mucosal pathogen of the respiratory tract.",
+   "refs": [
+    1,
+    3,
+    2
+   ]
+  },
+  {
+   "text": "Colonisation of the upper respiratory tract is common in infants and children and falls substantially in adulthood.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Reviews describe mechanisms of adherence to and invasion of host cells, modulation of the host immune response, and competition with the commensal flora.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "Most strains produce beta-lactamase and are therefore resistant to ampicillin, and the proportion of beta-lactamase-positive isolates has been reported to exceed ninety per cent.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Reported figures include fifteen to twenty per cent of acute otitis media episodes in infants and children, and two to four million chronic obstructive pulmonary disease exacerbations yearly among United States adults.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Murphy TF, Parameswaran GI",
+   "title": "Moraxella catarrhalis, a human respiratory tract pathogen",
+   "journal": "Clinical Infectious Diseases",
+   "year": 2009,
+   "pmid": "19480579",
+   "n": 1,
+   "doi": "10.1086/599375"
+  },
+  {
+   "authors": "Verduin CM, Hol C, et al.",
+   "title": "Moraxella catarrhalis: from emerging to established pathogen",
+   "journal": "Clinical Microbiology Reviews",
+   "year": 2002,
+   "pmid": "11781271",
+   "n": 2,
+   "doi": "10.1128/cmr.15.1.125-144.2002"
+  },
+  {
+   "authors": "Aebi C",
+   "title": "Moraxella catarrhalis - pathogen or commensal?",
+   "journal": "Advances in Experimental Medicine and Biology",
+   "year": 2011,
+   "pmid": "21120723",
+   "n": 3,
+   "doi": "10.1007/978-1-4419-7185-2_9"
+  },
+  {
+   "authors": "de Vries SP, Bootsma HJ, et al.",
+   "title": "Molecular aspects of Moraxella catarrhalis pathogenesis",
+   "journal": "Microbiology and Molecular Biology Reviews",
+   "year": 2009,
+   "pmid": "19721084",
+   "n": 4,
+   "doi": "10.1128/mmbr.00007-09"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

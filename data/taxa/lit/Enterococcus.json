@@ -1,0 +1,81 @@
+{
+ "slug": "Enterococcus",
+ "taxon": "g__Enterococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Enterococcus",
+ "name_note": "The GTDB genus Enterococcus corresponds to the classical genus; most sentences here describe Enterococcus faecalis, the species named in the cited sources.",
+ "sentences": [
+  {
+   "text": "Enterococcus faecalis is a human gut commensal and a major opportunistic pathogen.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes it as frequently found within polymicrobial communities at biofilm-associated infection sites, including the catheterized urinary tract, surgical and chronic wounds, the gut and mucosal niches.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "E. faecalis has been identified as a member of the vaginal community of healthy females, in addition to its association with vaginitis and urinary tract infections.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Vancomycin-resistant enterococci have been described as multidrug-resistant bacteria that as of 2021 continued to pervade the US healthcare system, behind Escherichia coli among healthcare-acquired infections.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A matched cohort study of 4006 febrile infants aged 90 days or younger reported Enterococcus species in 77 urine cultures, with abnormal dipstick findings less frequent than with E. coli.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Anderson CM, Kline KA.",
+   "title": "Recurring principles of metabolic interactions in Enterococcus faecalis polymicrobial communities",
+   "journal": "Current opinion in microbiology",
+   "year": 2026,
+   "pmid": "42468361",
+   "n": 1,
+   "doi": "10.1016/j.mib.2026.102796"
+  },
+  {
+   "authors": "Kolar O, Appleberry H, et al.",
+   "title": "Complete genome sequence of vaginal swab isolate Enterococcus faecalis UMB6935B, including two complete plasmids",
+   "journal": "Microbiology resource announcements",
+   "year": 2025,
+   "pmid": "40621936",
+   "n": 2,
+   "doi": "10.1128/mra.00368-25"
+  },
+  {
+   "authors": "Abutaleb NS, Holly KJ, et al.",
+   "title": "Bacterial Carbonic Anhydrase Inhibitor CAI0019 Demonstrates Efficacy in Enterococcus faecium Septicemic Peritonitis Mouse Model While Sparing the Microbiome",
+   "journal": "ACS infectious diseases",
+   "year": 2026,
+   "pmid": "41381410",
+   "n": 3,
+   "doi": "10.1021/acsinfecdis.5c00736"
+  },
+  {
+   "authors": "Suárez-Bustamante Huélamo M, Alonso-Cadenas JA, et al.",
+   "title": "Positive Urine Cultures for Enterococcus spp. vs. Escherichia coli in Febrile Infants Younger Than 90 Days: A Matched Cohort Study",
+   "journal": "Acta paediatrica (Oslo, Norway : 1992)",
+   "year": 2026,
+   "pmid": "42961004",
+   "n": 4,
+   "doi": "10.1111/apa.70816"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,90 @@
+{
+ "slug": "Bifidobacterium_dentium",
+ "taxon": "s__Bifidobacterium dentium",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bifidobacterium dentium",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bifidobacterium dentium is a bifidobacterium of the mammalian gastrointestinal tract that shows acid resistance, adheres to human mucus and is concluded to be well adapted for commensalism in the gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is also found in the mouth: a strain isolated from dental caries was sequenced, and the genus Bifidobacterium is reported to include Bifidobacterium dentium as an opportunistic cariogenic pathogen.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In germ-free mice monoassociated with live Bifidobacterium dentium, colonic expression of goblet cell markers and acidic mucin-filled goblet cells increased compared with heat-killed bacteria and germ-free controls.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Bifidobacterium dentium strains isolated from infant faeces metabolised the human milk oligosaccharides lacto-N-tetraose and lacto-N-neotetraose, consuming the galactose moiety and excreting lacto-N-triose.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "A study reported Bifidobacterium dentium as enriched in faecal samples from patients with melanoma and colorectal cancer, with high intratumoral abundance correlating with poorer survival in colorectal cancer patients.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Engevik MA, Danhof HA, Hall A, Engevik KA, Horvath TD, Haidacher SJ, Hoch KM, Endres BT, Bajaj M, Garey KW, Britton RA, Spinler JK, Haag AM, Versalovic J.",
+   "title": "The metabolic profile of Bifidobacterium dentium reflects its status as a human gut commensal",
+   "journal": "BMC microbiology",
+   "year": 2021,
+   "pmid": "34030655",
+   "n": 1,
+   "doi": "10.1186/s12866-021-02166-6"
+  },
+  {
+   "authors": "Ventura M, Turroni F, Zomer A, Foroni E, Giubellini V, Bottacini F, Canchaya C, Claesson MJ, He F, Mantzourani M, Mulas L, Ferrarini A, Gao B, Delledonne M, Henrissat B, Coutinho P, Oggioni M, Gupta RS, Zhang Z, Beighton D, Fitzgerald GF, O'Toole PW, van Sinderen D.",
+   "title": "The Bifidobacterium dentium Bd1 genome sequence reflects its genetic adaptation to the human oral cavity",
+   "journal": "PLoS genetics",
+   "year": 2009,
+   "pmid": "20041198",
+   "n": 2,
+   "doi": "10.1371/journal.pgen.1000785"
+  },
+  {
+   "authors": "Engevik MA, Luk B, Chang-Graham AL, Hall A, Herrmann B, Ruan W, Endres BT, Shi Z, Garey KW, Hyser JM, Versalovic J.",
+   "title": "Bifidobacterium dentium Fortifies the Intestinal Mucus Layer via Autophagy and Calcium Signaling Pathways",
+   "journal": "mBio",
+   "year": 2019,
+   "pmid": "31213556",
+   "n": 3,
+   "doi": "10.1128/mbio.01087-19"
+  },
+  {
+   "authors": "Moya-Gonzálvez EM, Rubio-Del-Campo A, Rodríguez-Díaz J, Yebra MJ.",
+   "title": "Infant-gut associated Bifidobacterium dentium strains utilize the galactose moiety and release lacto-N-triose from the human milk oligosaccharides lacto-N-tetraose and lacto-N-neotetraose",
+   "journal": "Scientific reports",
+   "year": 2021,
+   "pmid": "34857830",
+   "n": 4,
+   "doi": "10.1038/s41598-021-02741-x"
+  },
+  {
+   "authors": "Pan X, Luo S, Dou S, Li Y, Qiu C, Pan Q, Zhang X, Zhang G, Guo S.",
+   "title": "Tumor-colonizing Bifidobacterium dentium promotes tumor progression and chemotherapy resistance via MMP3 and GABA-FOXA2-P-gp axis",
+   "journal": "Cell reports. Medicine",
+   "year": 2026,
+   "pmid": "43003090",
+   "n": 5,
+   "doi": "10.1016/j.xcrm.2026.103142"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

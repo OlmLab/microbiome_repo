@@ -1,0 +1,82 @@
+{
+ "slug": "Roseburia",
+ "taxon": "g__Roseburia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Roseburia (the GTDB genus also holds genomes NCBI names Agathobacter, i.e. Eubacterium rectale)",
+ "name_note": "The input row shows most genomes in this GTDB genus carry the NCBI names Agathobacter or Roseburia, so GTDB g__Roseburia is broader than the classical genus Roseburia and takes in Agathobacter rectalis (formerly Eubacterium rectale).",
+ "sentences": [
+  {
+   "text": "Roseburia are obligately anaerobic, Gram-positive, slightly curved rods that move with several subterminal flagella; named species include R. intestinalis, R. hominis, R. inulinivorans, R. faecis and R. cecicola.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "They are gut commensals that ferment dietary components and produce short-chain fatty acids, mainly butyrate, which affects colonic motility and immune maintenance.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In faeces from healthy volunteers, probes for Roseburia and Eubacterium rectale relatives each detected about seven per cent of all bacteria counted.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Roseburia and Eubacterium members can grow on human milk oligosaccharides and cross-feed on mucin glycans, pathways linked to their colonisation of the early-life gut.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Studies have associated shifts in Roseburia abundance with several diseases; Eubacterium rectale was transferred to the related new genus Agathobacter as Agathobacter rectalis.",
+   "refs": [
+    1,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tamanai-Shacoori Z, Smida I, et al.",
+   "title": "Roseburia spp.: a marker of health?",
+   "journal": "Future microbiology",
+   "year": 2017,
+   "pmid": "28139139",
+   "n": 1,
+   "doi": "10.2217/fmb-2016-0130"
+  },
+  {
+   "authors": "Aminov RI, Walker AW, et al.",
+   "title": "Molecular diversity, cultivation, and improved detection by fluorescent in situ hybridization of a dominant group of human gut bacteria related to Roseburia spp. or Eubacterium rectale",
+   "journal": "Applied and environmental microbiology",
+   "year": 2006,
+   "pmid": "16957265",
+   "n": 2,
+   "doi": "10.1128/aem.00701-06"
+  },
+  {
+   "authors": "Pichler MJ, Yamada C, et al.",
+   "title": "Butyrate producing colonic Clostridiales metabolise human milk oligosaccharides and cross feed on mucin via conserved pathways",
+   "journal": "Nature communications",
+   "year": 2020,
+   "pmid": "32620774",
+   "n": 3,
+   "doi": "10.1038/s41467-020-17075-x"
+  },
+  {
+   "authors": "Rosero JA, Killer J, et al.",
+   "title": "Reclassification of Eubacterium rectale (Hauduroy et al. 1937) Prévot 1938 in a new genus Agathobacter gen. nov. as Agathobacter rectalis comb. nov., and description of Agathobacter ruminis sp. nov., isolated from the rumen contents of sheep and cows",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2016,
+   "pmid": "26619944",
+   "n": 4,
+   "doi": "10.1099/ijsem.0.000788"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

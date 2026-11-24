@@ -1,0 +1,51 @@
+{
+ "slug": "Acutalibacter",
+ "taxon": "g__Acutalibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Acutalibacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Acutalibacter is a genus in the family Oscillospiraceae; the species Acutalibacter caecimuris and Acutalibacter intestini were described from anaerobic strains isolated from mouse caecal contents.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a pilot study of 44 school-age children in the Lazio district of Italy, Acutalibacter was among the taxa associated with living near highly trafficked roads.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The authors of that study described Acutalibacter and Anaerotruncus as linked to chronic diseases for their pro-inflammatory activities.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "He JH, Wang CY, et al.",
+   "title": "Acutalibacter caecimuris sp. nov., Acutalibacter intestini sp. nov. and Neglectibacter caecimuris sp. nov. , three novel species of the family Oscillospiraceae isolated from caecal contents of C57BL/6J mice.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "38995185",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006449"
+  },
+  {
+   "authors": "Filardo S, Di Pietro M, et al.",
+   "title": "Exploring the impact of traffic-related air pollution on the gut microbiota of school-age children: A pilot study.",
+   "journal": "Ecotoxicology and environmental safety",
+   "year": 2025,
+   "pmid": "40779846",
+   "n": 2,
+   "doi": "10.1016/j.ecoenv.2025.118801"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

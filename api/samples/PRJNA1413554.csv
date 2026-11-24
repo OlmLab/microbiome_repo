@@ -1,0 +1,16 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN54883603,PRJNA1413554,,,,,,CN,healthy_control,H,,,,2023-06-23,primary,1.0,10.435
+SAMN54883604,PRJNA1413554,,,,,,CN,healthy_control,H,,,,2023-07-08,primary,1.0,12.228
+SAMN54883605,PRJNA1413554,,,,,,CN,healthy_control,H,,,,2023-07-09,primary,1.0,16.705
+SAMN54883606,PRJNA1413554,,,,,,CN,healthy_control,H,,,,2023-07-11,primary,1.0,9.697
+SAMN54883607,PRJNA1413554,,,,,,CN,healthy_control,H,,,,2023-07-13,primary,1.0,9.732
+SAMN54883608,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-06-13,primary,1.0,15.777
+SAMN54883609,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-07-12,primary,1.0,11.417
+SAMN54883610,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-06-24,primary,1.0,10.272
+SAMN54883611,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-07-23,primary,1.0,10.236
+SAMN54883612,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-07-12,primary,1.0,10.811
+SAMN54883613,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-06-06,primary,1.0,10.883
+SAMN54883614,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-06-27,primary,1.0,10.325
+SAMN54883615,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-07-05,primary,1.0,10.663
+SAMN54883616,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-07-09,primary,1.0,9.697
+SAMN54883617,PRJNA1413554,,,,,,CN,other_infection,HFMD,,,,2023-07-08,primary,1.0,15.369

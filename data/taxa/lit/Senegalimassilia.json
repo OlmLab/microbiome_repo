@@ -1,0 +1,51 @@
+{
+ "slug": "Senegalimassilia",
+ "taxon": "g__Senegalimassilia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Senegalimassilia",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Senegalimassilia faecalis was described from strain KGMB04484, a novel actinobacterial strain isolated from healthy human faeces sampled in the Republic of Korea.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Cells of that strain were strictly anaerobic, Gram-stain-positive, catalase-positive, oxidase-negative, non-motile coccobacilli, and it was affiliated with the genus Senegalimassilia in the family Coriobacteriaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In 30 patients with advanced gastric cancer stratified by treatment response, baseline faecal Senegalimassilia was overrepresented in those with a partial response to chemoimmunotherapy.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Han KI, Kim JS, et al.",
+   "title": "Senegalimassilia faecalis sp. nov., an anaerobic actinobacterium isolated from human faeces, and emended description of the genus Senegalimassilia.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "31913113",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003958"
+  },
+  {
+   "authors": "Gao W, Wang X, et al.",
+   "title": "Association of gut microbiota composition and microbe-host interactions with response to chemoimmunotherapy in gastric cancer.",
+   "journal": "Genes and immunity",
+   "year": 2026,
+   "pmid": "42811155",
+   "n": 2,
+   "doi": "10.1038/s41435-026-00413-2"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "Fannyhessea",
+ "taxon": "g__Fannyhessea",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Fannyhessea vaginae (formerly Atopobium vaginae)",
+ "name_note": "The GTDB genus Fannyhessea covers genomes that NCBI still labels Atopobium; the vaginal species appears in older papers as Atopobium vaginae.",
+ "sentences": [
+  {
+   "text": "Fannyhessea vaginae, previously named Atopobium vaginae, is an anaerobic Gram-positive organism commonly associated with the female genital flora.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Rare invasive infections have been reported, including bacteraemia with vertebral osteomyelitis in an older male who had signs of urinary tract infection.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a clinical study it was highly sensitive for bacterial vaginosis and more specific for the condition than Gardnerella vaginalis.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In culture it triggers an innate immune response, raising interleukin-6, interleukin-8 and beta-defensin 4 transcripts in vaginal epithelial cells.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sousa LGV, Castro J, França A, Almeida C, Muzny CA, Cerca N.",
+   "title": "A New PNA-FISH Probe Targeting Fannyhessea vaginae.",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2021,
+   "pmid": "34869078",
+   "n": 1,
+   "doi": "10.3389/fcimb.2021.779376"
+  },
+  {
+   "authors": "Jordan V, Akram A, Pickles R, Arnold A, Naqvi S.",
+   "title": "Fannyhessea vaginae causing bacteraemia and vertebral osteomyelitis: first report of invasive disease in a male.",
+   "journal": "Access microbiology",
+   "year": 2024,
+   "pmid": "38737801",
+   "n": 2,
+   "doi": "10.1099/acmi.0.000785.v3"
+  },
+  {
+   "authors": "Bradshaw CS, Tabrizi SN, Fairley CK, Morton AN, Rudland E, Garland SM.",
+   "title": "The association of Atopobium vaginae and Gardnerella vaginalis with bacterial vaginosis and recurrence after oral metronidazole therapy.",
+   "journal": "The Journal of infectious diseases",
+   "year": 2006,
+   "pmid": "16941351",
+   "n": 3,
+   "doi": "10.1086/506621"
+  },
+  {
+   "authors": "Libby EK, Pascal KE, Mordechai E, Adelson ME, Trama JP.",
+   "title": "Atopobium vaginae triggers an innate immune response in an in vitro model of bacterial vaginosis.",
+   "journal": "Microbes and infection",
+   "year": 2008,
+   "pmid": "18403235",
+   "n": 4,
+   "doi": "10.1016/j.micinf.2008.01.004"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

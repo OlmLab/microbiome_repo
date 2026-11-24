@@ -1,0 +1,66 @@
+{
+ "slug": "Blautia_A_luti_A",
+ "taxon": "s__Blautia_A luti_A",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Blautia luti",
+ "name_note": "GTDB labels this species Blautia_A luti_A, a genome-based split of the classical Blautia luti.",
+ "sentences": [
+  {
+   "text": "Blautia luti is described as a gut acetogen, and a study identified acetate, succinate, lactate, formate and hydrogen as end products of its sugar fermentation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It notes that species of the genus Blautia are commonly found in the human gut, while little is known about their physiology and specific role there.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a rat model, a study gave Blautia luti as a daily probiotic and reported reduced grade 3 diarrhoea in one schedule group compared with neratinib alone.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The complete genome of the type strain JCM 17040 is a circular chromosome of 3,741,599 base pairs with a G+C content of 42.9 percent.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Trischler R, Müller V.",
+   "title": "Formate as electron carrier in the gut acetogen <i>Blautia luti</i>: a model for electron transfer in the gut microbiome.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "41482665",
+   "n": 1,
+   "doi": "10.1080/19490976.2025.2609406"
+  },
+  {
+   "authors": "Vieyra CP, Quinn MJ, Bateman EH, Wardill HR, Bowen JM.",
+   "title": "Blautia luti reduces neratinib-induced diarrhea in a rat model.",
+   "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+   "year": 2025,
+   "pmid": "41087741",
+   "n": 2,
+   "doi": "10.1007/s00520-025-09990-w"
+  },
+  {
+   "authors": "Fukuoka H, Tourlousse DM, Hamajima M, Koike K, Endo I, Sekiguchi Y.",
+   "title": "Complete genome sequence of Blautia luti JCM 17040 T .",
+   "journal": "Microbiology resource announcements",
+   "year": 2023,
+   "pmid": "37650615",
+   "n": 3,
+   "doi": "10.1128/mra.00513-23"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,7 @@
+level,contrast,stratum,setting,Q,S_min,D_min,P_loco,n_candidates,n_vanish,n_blossum,n_vanish_in_carter,share_vanish_in_carter,n_carter_vanish_recovered,n_carter_vanish_mapped,n_blossum_in_carter,share_blossum_in_carter,n_carter_blossum_recovered,n_carter_blossum_mapped
+species,C1,adult,default,0.05,2.0,0.1,0.01,120,69,37,24,0.3478,24,58,21,0.5676,21,63
+species,C1,adult,S_min=1.585,0.05,1.585,0.1,0.01,137,76,49,25,0.3289,25,58,25,0.5102,25,63
+species,C1,adult,S_min=1.0,0.05,1.0,0.1,0.01,155,85,64,25,0.2941,25,58,28,0.4375,28,63
+species,C1,adult,D_min=0.05,0.05,2.0,0.05,0.01,212,119,69,33,0.2773,33,58,30,0.4348,30,63
+species,C1,adult,P_loco=0.05,0.05,2.0,0.1,0.05,120,69,37,24,0.3478,24,58,21,0.5676,21,63
+species,C1,adult,Q=0.10,0.1,2.0,0.1,0.01,120,69,37,24,0.3478,24,58,21,0.5676,21,63

@@ -1,0 +1,67 @@
+{
+ "slug": "Faecalimonas",
+ "taxon": "g__Faecalimonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Faecalimonas",
+ "name_note": "Genomes GTDB places in Faecalimonas are also deposited under the names Coprococcus and Tyzzerella, reflecting recent reclassifications.",
+ "sentences": [
+  {
+   "text": "Faecalimonas was proposed as a new genus for obligately anaerobic, Gram-positive cocco-bacilli of the family Lachnospiraceae isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Faecalimonas umbilicata, the species for which the genus was named, is described as an acetate-producing bacterium whose genome carries genes for acetate and vitamin B12 synthesis.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "A later study concluded that Clostridium nexile belongs in Faecalimonas, proposing the name Faecalimonas nexilis, and reclassified Coprococcus mobilis as Faecalimonas mobilis.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A later study proposing reclassifications added further species to the genus: Faecalimonas mobilis, and Faecalimonas hominis for strain OB7656T, isolated from faecal samples of healthy Japanese volunteers.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Iino T, et al.",
+   "title": "Faecalimonas umbilicata gen. nov., sp. nov., isolated from human faeces, and reclassification of Eubacterium contortum, Eubacterium fissicatena and Clostridium oroticum as Faecalicatena contorta gen. nov., comb. nov., Faecalicatena fissicatena comb. nov. and Faecalicatena orotica comb. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2017,
+   "pmid": "28556772",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.001790"
+  },
+  {
+   "authors": "Sakamoto M, Ikeyama N, et al.",
+   "title": "Draft Genome Sequence of Faecalimonas umbilicata JCM 30896 T , an Acetate-Producing Bacterium Isolated from Human Feces.",
+   "journal": "Microbiology resource announcements",
+   "year": 2018,
+   "pmid": "30533935",
+   "n": 2,
+   "doi": "10.1128/mra.01091-18"
+  },
+  {
+   "authors": "Yamamoto E, Hisatomi A, et al.",
+   "title": "Proposal of two novel species, Allocoprococcus similis gen. nov., sp. nov. and Faecalimonas hominis sp. nov., isolated from human faeces and genome-based reorganization of the genus Coprococcus .",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "41498776",
+   "n": 3,
+   "doi": "10.1099/ijsem.0.007011"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

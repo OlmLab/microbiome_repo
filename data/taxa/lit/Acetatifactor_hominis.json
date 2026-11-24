@@ -1,0 +1,51 @@
+{
+ "slug": "Acetatifactor_hominis",
+ "taxon": "s__Acetatifactor hominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Waltera",
+ "name_note": "The genomes GTDB places in s__Acetatifactor hominis carry the NCBI name Waltera hominis; no retrieved paper describes that species itself, so these sentences describe the genus Waltera.",
+ "sentences": [
+  {
+   "text": "Three strains isolated from faecal samples of healthy Japanese people were obligately anaerobic, Gram-stain-negative wavy rods assigned to the genus Waltera.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Brotolimicola acetigignens was transferred to the genus Waltera as Waltera acetigignens because the genus Waltera has priority.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Waltera species were among difficult-to-culture organisms obtained from several faecal samples using a co-culture method.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Hisatomi A, Ohkuma M.",
+   "title": "Isolation and characterization of a novel Waltera species and reclassification of Brotolimicola acetigignens Hitch et al . 2022 as Waltera acetigignens comb. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "38722771",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006381"
+  },
+  {
+   "authors": "Hisatomi A, Yoshida T, Hasunuma T, Ohkuma M, Sakamoto M.",
+   "title": "Difficult-to-culture micro-organisms specifically isolated using the liquid-liquid co-culture method - towards the identification of bacterial species and metabolites supporting their growth.",
+   "journal": "Microbiology (Reading, England)",
+   "year": 2025,
+   "pmid": "40627541",
+   "n": 2,
+   "doi": "10.1099/mic.0.001581"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

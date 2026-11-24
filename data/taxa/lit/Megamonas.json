@@ -1,0 +1,81 @@
+{
+ "slug": "Megamonas",
+ "taxon": "g__Megamonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Megamonas",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Megamonas funiformis was proposed as a new species for an isolate of non-spore-forming, Gram-negative, very large rods most closely related to Megamonas hypermegale.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Megamonas species have been detected by metagenomic sequencing of stool from children and adolescents enrolled at a children's hospital.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study reported that oral Megamonas funiformis CML154 improved fatty liver disease in hens and mice and raised intestinal propionate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported a 16S sequence feature assigned to Megamonas hypermegale depleted in hepatic fibrosis, and indole-3-lactic acid as a metabolite of that species.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "The same metagenomic study reported the genus Megamonas enriched in children and adolescents with non-alcoholic fatty liver disease compared with healthy children.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakon H, Nagai F, Morotomi M, Tanaka R.",
+   "title": "Sutterella parvirubra sp. nov. and Megamonas funiformis sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18398204",
+   "n": 1,
+   "doi": "10.1099/ijs.0.65456-0"
+  },
+  {
+   "authors": "Yang X, Zhang M, Liu Y, et al.",
+   "title": "Inulin-enriched Megamonas funiformis ameliorates metabolic dysfunction-associated fatty liver disease by producing propionic acid.",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2023,
+   "pmid": "37925493",
+   "n": 2,
+   "doi": "10.1038/s41522-023-00451-y"
+  },
+  {
+   "authors": "Zhou J, Zhang Q, Zhao Y, et al.",
+   "title": "The relationship of Megamonas species with nonalcoholic fatty liver disease in children and adolescents revealed by metagenomics of gut microbiota.",
+   "journal": "Scientific reports",
+   "year": 2022,
+   "pmid": "36539432",
+   "n": 3,
+   "doi": "10.1038/s41598-022-25140-2"
+  },
+  {
+   "authors": "Zhang L, Chen J, Huang W, et al.",
+   "title": "Megamonas hypermegale with indole-3-lactic acid-producing capacity ameliorates hepatic fibrosis.",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2026,
+   "pmid": "42844289",
+   "n": 4,
+   "doi": "10.1038/s41522-026-01141-1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

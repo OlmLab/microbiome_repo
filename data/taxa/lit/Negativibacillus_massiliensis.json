@@ -1,0 +1,60 @@
+{
+ "slug": "Negativibacillus_massiliensis",
+ "taxon": "s__Negativibacillus massiliensis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Negativibacillus massiliensis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A 16S sequencing study of 32 children with cow's milk allergy and 36 age-matched healthy controls reported Negativibacillus massiliensis enriched in the allergic children relative to healthy cow's milk consumers.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study profiling faecal microbiota of 88 chronic kidney disease patients and 26 healthy controls reported a higher abundance of Negativibacillus massiliensis among haemodialysis patients compared with controls.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In a shotgun metagenomic study of 30 adults with B-cell lymphoma receiving CAR-T therapy, Negativibacillus massiliensis was one of six species used by machine-learning models to identify non-responders.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Moriki D, León ED, et al.",
+   "title": "Specific Gut Microbiome Signatures in Children with Cow's Milk Allergy.",
+   "journal": "Nutrients",
+   "year": 2024,
+   "pmid": "39203888",
+   "n": 1,
+   "doi": "10.3390/nu16162752"
+  },
+  {
+   "authors": "Hernani R, Albert E, et al.",
+   "title": "Microbiome-Based Modeling of CAR-T Therapy Response in Lymphoma: Insights From Shotgun Metagenomics Sequencing.",
+   "journal": "European journal of haematology",
+   "year": 2026,
+   "pmid": "41582602",
+   "n": 2,
+   "doi": "10.1111/ejh.70121"
+  },
+  {
+   "authors": "Garcia-Martinez Y, Alexandrova E, et al.",
+   "title": "Does gut microbiota dysbiosis impact the metabolic alterations of hydrogen sulfide and lanthionine in patients with chronic kidney disease?",
+   "journal": "BMC microbiology",
+   "year": 2024,
+   "pmid": "39462312",
+   "n": 3,
+   "doi": "10.1186/s12866-024-03590-0"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

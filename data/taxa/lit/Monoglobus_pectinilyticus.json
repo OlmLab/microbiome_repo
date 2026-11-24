@@ -1,0 +1,60 @@
+{
+ "slug": "Monoglobus_pectinilyticus",
+ "taxon": "s__Monoglobus pectinilyticus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Monoglobus pectinilyticus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Monoglobus pectinilyticus is an anaerobic pectinolytic bacterium isolated from human faeces, whose cells are Gram-stain-positive, non-motile cocci about 0.6 micrometres in diameter.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A case-control study reported significant depletion of commensal species including Monoglobus pectinilyticus in multiple sclerosis.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study identified Monoglobus pectinilyticus among bacteria significantly enriched in participants with obesity.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kim CC, Kelly WJ, et al.",
+   "title": "Monoglobus pectinilyticus gen. nov., sp. nov., a pectinolytic bacterium isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2017,
+   "pmid": "29039307",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.002395"
+  },
+  {
+   "authors": "Kaur G, Kumari P, et al.",
+   "title": "Gut dysbiosis influences the pathophysiology of multiple sclerosis: A case-control study from North India.",
+   "journal": "Journal of neuroimmunology",
+   "year": 2025,
+   "pmid": "40720918",
+   "n": 2,
+   "doi": "10.1016/j.jneuroim.2025.578696"
+  },
+  {
+   "authors": "Cherwin CH, Hoang J, et al.",
+   "title": "Gut Microbiome and Symptom Burden in Obese and Non-Obese Women Receiving Chemotherapy for Breast Cancer.",
+   "journal": "Biological research for nursing",
+   "year": 2025,
+   "pmid": "39928757",
+   "n": 3,
+   "doi": "10.1177/10998004251318397"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

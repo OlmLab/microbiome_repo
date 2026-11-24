@@ -1,0 +1,66 @@
+{
+ "slug": "Hominisplanchenecus",
+ "taxon": "g__Hominisplanchenecus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Hominisplanchenecus",
+ "name_note": "GTDB places in this genus genomes that NCBI labels Hominisplanchenecus, Faecalicatena or Ruminococcus, so the GTDB genus is broader than the literature genus Hominisplanchenecus.",
+ "sentences": [
+  {
+   "text": "Hominisplanchenecus is a bacterial genus detected in human faecal samples by sequencing-based gut microbiota profiling.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In older Korean adults, a study reported that Hominisplanchenecus was found only in the Alzheimer's disease group among the cognitive groups compared.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of stool samples reported Hominisplanchenecus among five dominant genera identified as potential biomarkers for predicting aneurysmal subarachnoid haemorrhage outcomes.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported that increased abundance of Hominisplanchenecus was positively associated with lupus disease severity, alongside gut dysbiosis findings.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Son SJ, Wu X, et al.",
+   "title": "Distinct gut microbiota profiles and network properties in older Korean individuals with subjective cognitive decline, mild cognitive impairment, and Alzheimer's disease.",
+   "journal": "Alzheimer's research & therapy",
+   "year": 2025,
+   "pmid": "40783766",
+   "n": 1,
+   "doi": "10.1186/s13195-025-01820-9"
+  },
+  {
+   "authors": "Zhang P, Liu Y, et al.",
+   "title": "Gut microbiota characteristics and prognostic value in patients with aneurysmal subarachnoid hemorrhage: A clinical study.",
+   "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+   "year": 2025,
+   "pmid": "40179570",
+   "n": 2,
+   "doi": "10.1016/j.jocn.2025.111200"
+  },
+  {
+   "authors": "Shepard DM, Hahn S, et al.",
+   "title": "SCARF1 Deficiency Exacerbates Gut Inflammation and Autoimmune Pathology",
+   "journal": "",
+   "year": 2025,
+   "pmid": null,
+   "n": 3,
+   "doi": "10.21203/rs.3.rs-7023221/v1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

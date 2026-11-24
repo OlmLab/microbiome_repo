@@ -1,0 +1,66 @@
+{
+ "slug": "Roseburia_rectalis",
+ "taxon": "s__Roseburia rectalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Eubacterium rectale (NCBI: Agathobacter rectalis)",
+ "name_note": "GTDB calls this species Roseburia rectalis; its genomes carry the NCBI name Agathobacter rectalis and most papers call it Eubacterium rectale.",
+ "sentences": [
+  {
+   "text": "Eubacterium rectale, as the species is usually called in the literature, is one of the most prevalent bacteria of the human gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "More than 1300 genomes reconstructed from over 6500 metagenomes show geographic stratification, including a subspecies found predominantly in African individuals.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is an acetate-converting butyrate producer and cross-feeds with Bifidobacterium longum growing on arabinoxylan oligosaccharides.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "With Roseburia relatives it forms a dominant group of butyrate producers, averaging about seven percent of faecal bacteria detected in ten healthy volunteers.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Karcher N, Pasolli E, et al.",
+   "title": "Analysis of 1321 Eubacterium rectale genomes from metagenomes uncovers complex phylogeographic population structure and subspecies functional adaptations",
+   "journal": "Genome biology",
+   "year": 2020,
+   "pmid": "32513234",
+   "n": 1,
+   "doi": "10.1186/s13059-020-02042-y"
+  },
+  {
+   "authors": "Rivière A, Gagnon M, et al.",
+   "title": "Mutual Cross-Feeding Interactions between Bifidobacterium longum subsp. longum NCC2705 and Eubacterium rectale ATCC 33656 Explain the Bifidogenic and Butyrogenic Effects of Arabinoxylan Oligosaccharides",
+   "journal": "Applied and environmental microbiology",
+   "year": 2015,
+   "pmid": "26319874",
+   "n": 2,
+   "doi": "10.1128/aem.02089-15"
+  },
+  {
+   "authors": "Aminov RI, Walker AW, et al.",
+   "title": "Molecular diversity, cultivation, and improved detection by fluorescent in situ hybridization of a dominant group of human gut bacteria related to Roseburia spp. or Eubacterium rectale",
+   "journal": "Applied and environmental microbiology",
+   "year": 2006,
+   "pmid": "16957265",
+   "n": 3,
+   "doi": "10.1128/aem.00701-06"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

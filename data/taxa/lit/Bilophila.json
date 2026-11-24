@@ -1,0 +1,72 @@
+{
+ "slug": "Bilophila",
+ "taxon": "g__Bilophila",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Bilophila",
+ "name_note": "The GTDB genus Bilophila matches the genus of the same name in the literature; the work cited here concerns its species Bilophila wadsworthia.",
+ "sentences": [
+  {
+   "text": "Bilophila wadsworthia is a Gram-negative anaerobic rod that is strongly catalase-positive, is stimulated by bile, and does not reduce sulphate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It was isolated from intra-abdominal specimens of patients with gangrenous and perforated appendicitis, and subsequently also from normal faecal specimens.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that in germ-free mice fed a high-fat diet, colonisation relied on microcompartment and anaerobic energy-metabolism genes that metabolise taurine and isethionate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study describes Bilophila wadsworthia as a sulfidogenic bacterium linked to inflammation and gut barrier dysfunction, whose expansion is promoted by high-fat diets.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In two population-based cohorts, higher Bilophila abundance was reported to be associated with reduced basal ganglia volumes and with elevated liver enzymes and triglycerides.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Baron EJ, Summanen P, et al.",
+   "title": "Bilophila wadsworthia, gen. nov. and sp. nov., a unique gram-negative anaerobic rod recovered from appendicitis specimens and human faeces",
+   "journal": "Journal of general microbiology",
+   "year": 1989,
+   "pmid": "2636263",
+   "n": 1,
+   "doi": "10.1099/00221287-135-12-3405"
+  },
+  {
+   "authors": "Sayavedra L, Yasir M, et al.",
+   "title": "Bacterial microcompartments and energy metabolism drive gut colonization by Bilophila wadsworthia",
+   "journal": "Nature communications",
+   "year": 2025,
+   "pmid": "40447622",
+   "n": 2,
+   "doi": "10.1038/s41467-025-60180-y"
+  },
+  {
+   "authors": "Fässler D, Wittfeld K, et al.",
+   "title": "Bilophila wadsworthia is linked to basal ganglia atrophy in the general population",
+   "journal": "Brain, behavior, and immunity",
+   "year": 2026,
+   "pmid": "41951111",
+   "n": 3,
+   "doi": "10.1016/j.bbi.2026.106587"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

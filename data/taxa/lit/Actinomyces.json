@@ -1,0 +1,67 @@
+{
+ "slug": "Actinomyces",
+ "taxon": "g__Actinomyces",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Actinomyces",
+ "name_note": "GTDB g__Actinomyces is narrower than the classical genus: species once called Actinomyces now sit in Schaalia, Winkia, Gleimia, Pauljensenia or Bowdeniella.",
+ "sentences": [
+  {
+   "text": "Actinomyces species are Gram-positive, non-spore-forming rods that live as commensals of the human mouth, gut, female genital tract and skin.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In the mouth they belong to the dental biofilm, and oral species are among those most often recovered from people.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Plaque Actinomyces act as partners for coaggregation on the tooth surface; Porphyromonas gingivalis fimbriae mediate adhesion to Actinomyces viscosus.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "The classical genus has been split, with several former Actinomyces species moved to Bowdeniella, Gleimia, Pauljensenia, Schaalia and Winkia.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Könönen E.",
+   "title": "Polymicrobial infections with specific Actinomyces and related organisms, using the current taxonomy",
+   "journal": "Journal of oral microbiology",
+   "year": 2024,
+   "pmid": "38766462",
+   "n": 1,
+   "doi": "10.1080/20002297.2024.2354148"
+  },
+  {
+   "authors": "Kövér Z, Johansen Nordskag V, et al.",
+   "title": "The role of Actinomyces spp. and related organisms in cervicofacial infections: Pathomechanism, diagnosis and therapeutic aspects",
+   "journal": "Anaerobe",
+   "year": 2023,
+   "pmid": "37482285",
+   "n": 2,
+   "doi": "10.1016/j.anaerobe.2023.102767"
+  },
+  {
+   "authors": "Goulbourne PA, Ellen RP.",
+   "title": "Evidence that Porphyromonas (Bacteroides) gingivalis fimbriae function in adhesion to Actinomyces viscosus",
+   "journal": "Journal of bacteriology",
+   "year": 1991,
+   "pmid": "1679428",
+   "n": 3,
+   "doi": "10.1128/jb.173.17.5266-5274.1991"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

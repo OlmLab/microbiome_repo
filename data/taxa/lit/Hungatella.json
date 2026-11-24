@@ -1,0 +1,76 @@
+{
+ "slug": "Hungatella",
+ "taxon": "g__Hungatella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Hungatella",
+ "name_note": "The literature mostly uses the genus Hungatella and the species Hungatella hathewayi, formerly classified in Clostridium.",
+ "sentences": [
+  {
+   "text": "Hungatella hathewayi is described as a human gut commensal.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study experimentally demonstrated that predicted broad host range mobile genetic elements, which carry antibiotic resistance genes, can mobilise from Hungatella hathewayi to the pathogen Klebsiella oxytoca.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study reported a significantly increased proportion of Hungatella hathewayi in multiple sclerosis patients, while Hungatella was among taxa examined in fecal microbiome analyses of depressive symptoms.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "By contrast, a study reported H. hathewayi abundance markedly decreased and positively correlated with circulating taurine in humans and mice, with gavage protecting mice against intracranial aneurysm formation and rupture.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Radjabzadeh D, Bosch JA, et al.",
+   "title": "Gut microbiome-wide association study of depressive symptoms.",
+   "journal": "Nature communications",
+   "year": 2022,
+   "pmid": "36473852",
+   "n": 1,
+   "doi": "10.1038/s41467-022-34502-3"
+  },
+  {
+   "authors": "iMSMS Consortium. Electronic address: sergio.baranzini@ucsf.edu, iMSMS Consortium",
+   "title": "Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course.",
+   "journal": "Cell",
+   "year": 2022,
+   "pmid": "36113426",
+   "n": 2,
+   "doi": "10.1016/j.cell.2022.08.021"
+  },
+  {
+   "authors": "Forster SC, Liu J, et al.",
+   "title": "Strain-level characterization of broad host range mobile genetic elements transferring antibiotic resistance from the human microbiome.",
+   "journal": "Nature communications",
+   "year": 2022,
+   "pmid": "35301310",
+   "n": 3,
+   "doi": "10.1038/s41467-022-29096-9"
+  },
+  {
+   "authors": "Li H, Xu H, et al.",
+   "title": "Alterations of gut microbiota contribute to the progression of unruptured intracranial aneurysms.",
+   "journal": "Nature communications",
+   "year": 2020,
+   "pmid": "32587239",
+   "n": 4,
+   "doi": "10.1038/s41467-020-16990-3"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

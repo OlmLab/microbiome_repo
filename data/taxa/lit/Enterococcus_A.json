@@ -1,0 +1,75 @@
+{
+ "slug": "Enterococcus_A",
+ "taxon": "g__Enterococcus_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Enterococcus avium group",
+ "name_note": "In GTDB, Enterococcus_A is a split of the classical genus Enterococcus that holds the Enterococcus avium group, including E. avium, E. raffinosus, E. gilvus and E. malodoratus, and not E. faecalis or E. faecium.",
+ "sentences": [
+  {
+   "text": "A strain isolated from human gut microbiota and identified as Enterococcus avium was reported to cleave C-glycosidic bonds, converting flavonoid 8-C-glycosides such as orientin and vitexin to their aglycones.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genome announcement reported Enterococcus raffinosus strain MEBT1 isolated from the feces of children with diarrhea in Bangladesh.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A case series describes Enterococcus avium as an extremely rare cause of brain abscess, with only a limited number of cases reported to date.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Whole-genome sequencing of four multidrug-resistant Enterococcus avium strains from milk, feces and farm soil of mastitic dairy cows has also been reported.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wang S, Liu S, et al.",
+   "title": "A newly isolated human intestinal strain deglycosylating flavonoid C-glycosides",
+   "journal": "Archives of microbiology",
+   "year": 2022,
+   "pmid": "35536516",
+   "n": 1,
+   "doi": "10.1007/s00203-022-02881-2"
+  },
+  {
+   "authors": "Antor MA, Reza A, et al.",
+   "title": "Draft genome sequence of Enterococcus raffinosus strain MEBT1 isolated from the feces of children with diarrhea",
+   "journal": "Microbiology resource announcements",
+   "year": 2026,
+   "pmid": "41837623",
+   "n": 2,
+   "doi": "10.1128/mra.01415-25"
+  },
+  {
+   "authors": "Shaji V R, Thirumalaisamy V, et al.",
+   "title": "A decade-long silence: unveiling a case series of Enterococcus avium brain abscess",
+   "journal": "Infectious diseases (London, England)",
+   "year": 2026,
+   "pmid": "42805774",
+   "n": 3,
+   "doi": "10.1080/23744235.2026.2736023"
+  },
+  {
+   "authors": "Rahaman M, Sultana T, et al.",
+   "title": "Draft genome sequencing of Enterococcus avium strains isolated from bovine mastitis",
+   "journal": "Microbiology resource announcements",
+   "year": 2024,
+   "pmid": "38700341",
+   "n": 4,
+   "doi": "10.1128/mra.00236-24"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

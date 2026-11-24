@@ -1,0 +1,57 @@
+{
+ "slug": "Adlercreutzia",
+ "taxon": "g__Adlercreutzia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Adlercreutzia",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Adlercreutzia was proposed as a new genus with the single species Adlercreutzia equolifaciens, for strains that metabolise isoflavones to equol and were isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The characterised strains were asaccharolytic, obligately anaerobic, non-spore-forming, non-motile, Gram-positive coccobacilli related to Eggerthella sinensis by about 93 percent 16S ribosomal RNA gene sequence similarity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a 60-day randomised probiotic trial, shotgun metagenomics showed Adlercreutzia equolifaciens among beneficial commensal bacteria that increased in participants with a lower baseline Gut Microbiome Wellness Index.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study also reported that Adlercreutzia equolifaciens promoted production of palmitoyl serinol, a metabolite the authors associated with improved wellness index and preventive benefits in blood glucose.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Maruo T, Sakamoto M, et al.",
+   "title": "Adlercreutzia equolifaciens gen. nov., sp. nov., an equol-producing bacterium isolated from human faeces, and emended description of the genus Eggerthella.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18450717",
+   "n": 1,
+   "doi": "10.1099/ijs.0.65404-0"
+  },
+  {
+   "authors": "Zhang Z, Yang Z, et al.",
+   "title": "Probiotic-induced enrichment of Adlercreutzia equolifaciens increases gut microbiome wellness index and maps to lower host blood glucose levels.",
+   "journal": "Gut microbes",
+   "year": 2025,
+   "pmid": "40515809",
+   "n": 2,
+   "doi": "10.1080/19490976.2025.2520407"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

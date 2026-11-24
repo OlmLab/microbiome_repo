@@ -1,0 +1,81 @@
+{
+ "slug": "Cutibacterium",
+ "taxon": "g__Cutibacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Cutibacterium (formerly Propionibacterium)",
+ "name_note": "The literature uses both the current name Cutibacterium and the older name Propionibacterium for these skin bacteria.",
+ "sentences": [
+  {
+   "text": "Cutibacterium is a genus of Gram-positive skin bacteria whose best-known member, Cutibacterium acnes, was formerly named Propionibacterium acnes.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "On facial skin, C. acnes and Staphylococcus epidermidis are the most prominent bacteria, and their relative abundance shifts with skin site, age and health status.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species grows on skin lipids: an artificial sebum system enhances its growth, and it secretes the lipid-responsive lipase GehA.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Published work recognises C. acnes as a factor in acne vulgaris and in infections of prosthetic medical devices.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Other members matter clinically too; Cutibacterium avidum is described as an emerging opportunistic pathogen of prosthetic joint and breast implant infections.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ernst S, Dirschka T.",
+   "title": "The Bacterial Landscape of Facial Skin: From Homeostasis to Skin Conditions",
+   "journal": "Dermatology and therapy",
+   "year": 2026,
+   "pmid": "42348069",
+   "n": 1,
+   "doi": "10.1007/s13555-026-01830-x"
+  },
+  {
+   "authors": "Lai Y, Fan M, et al.",
+   "title": "Lipase GehA functions as a positive-feedback amplifier of Cutibacterium acnes-sebum interactions in acne pathogenesis",
+   "journal": "The Journal of investigative dermatology",
+   "year": 2026,
+   "pmid": "42526582",
+   "n": 2,
+   "doi": "10.1016/j.jid.2026.07.015"
+  },
+  {
+   "authors": "Nguyen PD, Nakanishi K, et al.",
+   "title": "Characterization of the novel Cutibacterium acnes phage KIT08 and its associated pseudolysogenic bacterial isolate",
+   "journal": "Archives of microbiology",
+   "year": 2025,
+   "pmid": "40932609",
+   "n": 3,
+   "doi": "10.1007/s00203-025-04451-8"
+  },
+  {
+   "authors": "Braunstein R, Rimon A, et al.",
+   "title": "Isolation and Characterization of ΦCA1NRNZ, a Lytic Bacteriophage Targeting the Emerging Device-Associated Pathogen Cutibacterium avidum",
+   "journal": "Antibiotics (Basel, Switzerland)",
+   "year": 2026,
+   "pmid": "42505622",
+   "n": 4,
+   "doi": "10.3390/antibiotics15070659"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

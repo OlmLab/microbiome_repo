@@ -1,0 +1,57 @@
+{
+ "slug": "Saccharimonas",
+ "taxon": "g__Saccharimonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Candidatus Saccharimonas",
+ "name_note": "The literature name for GTDB R232 g__Saccharimonas is Candidatus Saccharimonas, a genus of the Candidatus Saccharibacteria (formerly TM7) whose only named species here is Candidatus Saccharimonas aalborgensis; the oral TM7 strain TM7x (Candidatus Nanosynbacter lyticus) belongs to a different GTDB genus and is not covered.",
+ "sentences": [
+  {
+   "text": "Candidatus Saccharimonas aalborgensis is an uncultivated bacterium of the Candidate Phyla Radiation, a group described as having reduced genomes and limited metabolic capacities.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that a predicted glutamate racemase from Candidatus Saccharimonas aalborgensis restored the growth of a Salmonella d-glutamate auxotroph lacking its endogenous racemase.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study concluded that Candidatus Saccharimonas aalborgensis may couple glutamate racemization to incorporation of serine and d-glutamate into the stem peptide of peptidoglycan.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a feasibility study of saliva from 10 orthodontic patients, quantitative analysis showed a positive correlation between changes in bleeding on probing and Candidatus Saccharimonas aalborgensis.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Peñalver M, Paradela A, et al.",
+   "title": "Experimental evidence of d-glutamate racemase activity in the uncultivated bacterium Candidatus Saccharimonas aalborgensis",
+   "journal": "Environmental microbiology",
+   "year": 2024,
+   "pmid": "38558504",
+   "n": 1,
+   "doi": "10.1111/1462-2920.16621"
+  },
+  {
+   "authors": "Yokogawa T, Nagano K, et al.",
+   "title": "Broad-range 16S rDNA sequencing and quantitative bacteriome profiling: a small-cohort feasibility study in orthodontic patients with early gingivitis",
+   "journal": "Journal of oral biosciences",
+   "year": 2026,
+   "pmid": "41714031",
+   "n": 2,
+   "doi": "10.1016/j.job.2025.100732"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

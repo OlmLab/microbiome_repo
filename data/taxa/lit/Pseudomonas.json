@@ -1,0 +1,81 @@
+{
+ "slug": "Pseudomonas",
+ "taxon": "g__Pseudomonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Pseudomonas",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bacteria of the genus Pseudomonas are described as omnipresent in air, soil and water, and have been widely studied for their broad metabolic versatility.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative genomic study of 3,274 genomes from strains isolated in diverse environments detected functional divergence of Pseudomonas that depended on the niche occupied.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Those niches include living hosts such as animals and plants, according to the same study.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Pseudomonas aeruginosa is considered one of the most important lung pathogens in people with cystic fibrosis, a disease marked by recurring bacterial infections.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A systematic review reported chronic P. aeruginosa detection falling from 51.4 percent at baseline to 24.8 percent after elexacaftor/tezacaftor/ivacaftor, with persistent molecular detection despite negative cultures.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Focil-Espinosa C, Dalldorf C, et al.",
+   "title": "Predicting Strain-Specific Metabolic Capabilities in the Genus <i>Pseudomonas</i> with a Flux-to-AI Approach Reveals Hidden Cell Envelope Properties",
+   "journal": "Computational and structural biotechnology journal",
+   "year": 2026,
+   "pmid": "42597399",
+   "n": 1,
+   "doi": "10.34133/csbj.0190"
+  },
+  {
+   "authors": "Saati-Santamaría Z, Baroncelli R, et al.",
+   "title": "Comparative Genomics of the Genus Pseudomonas Reveals Host- and Environment-Specific Evolution",
+   "journal": "Microbiology spectrum",
+   "year": 2022,
+   "pmid": "36354324",
+   "n": 2,
+   "doi": "10.1128/spectrum.02370-22"
+  },
+  {
+   "authors": "Reyne N, McCarron A, et al.",
+   "title": "To bead or not to bead: A review of  Pseudomonas aeruginosa  lung infection models for cystic fibrosis",
+   "journal": "Frontiers in physiology",
+   "year": 2023,
+   "pmid": "36824474",
+   "n": 3,
+   "doi": "10.3389/fphys.2023.1104856"
+  },
+  {
+   "authors": "Terlizzi V, Timitilli E, et al.",
+   "title": "Detection of Pseudomonas aeruginosa in cystic fibrosis after initiation of CFTR modulators: a systematic review",
+   "journal": "Paediatric respiratory reviews",
+   "year": 2026,
+   "pmid": "41638998",
+   "n": 4,
+   "doi": "10.1016/j.prrv.2026.01.004"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

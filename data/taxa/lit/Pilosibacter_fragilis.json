@@ -1,0 +1,51 @@
+{
+ "slug": "Pilosibacter_fragilis",
+ "taxon": "s__Pilosibacter fragilis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Pilosibacter fragilis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Pilosibacter fragilis is the name given to strain CSJ-4, one of three Gram-positive, obligately anaerobic strains isolated from faeces of healthy persons.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Pilosibacter fragilis was placed in the family Clostridiaceae, but a later analysis proposed moving the genus Pilosibacter into the family Lachnospiraceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A related gut isolate sharing 97.0% 16S rRNA gene sequence identity with Pilosibacter fragilis CSJ-4 has been reported to be a potent butyrate producer.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gloanec N, Huré M, et al.",
+   "title": "Pilosibacter rotomagensis sp. nov., a Butyrate-Producing Bacterium Isolated from Human Faeces.",
+   "journal": "Current microbiology",
+   "year": 2026,
+   "pmid": "42047869",
+   "n": 1,
+   "doi": "10.1007/s00284-026-04906-1"
+  },
+  {
+   "authors": "Yan Y, Zhao QH, et al.",
+   "title": "Anaerolentibacter hominis gen. nov. sp. nov., Diplocloster hominis sp. nov. and Pilosibacter fragilis gen. nov. sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "38687183",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.006359"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

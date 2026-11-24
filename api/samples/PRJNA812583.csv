@@ -1,0 +1,13 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN26419854,PRJNA812583,Donor,,,,,DK,healthy_control,Donor,,,,2018-07-03,primary,1.0,7.611
+SAMN26419865,PRJNA812583,Donor_unrelated,,,,,DK,healthy_control,Donor_unrelated,,,,2018-07-03,primary,1.0,11.962
+SAMN26419861,PRJNA812583,Infant,,infant,,,DK,,,,,,2019-02-02,primary,1.0,9.385
+SAMN26419862,PRJNA812583,Infant,,infant,,,DK,,,,,,2019-05-03,primary,1.0,3.574
+SAMN26419864,PRJNA812583,Infant,,infant,,,DK,,,,,,2019-08-01,primary,1.0,5.571
+SAMN26419855,PRJNA812583,Patient,,,,,DK,,,fmt,,,2018-08-01,primary,1.0,19.963
+SAMN26419856,PRJNA812583,Patient,,,,,DK,,,fmt,,,2018-08-09,primary,1.0,10.34
+SAMN26419857,PRJNA812583,Patient,,,,,DK,,,fmt,,,2018-09-27,primary,1.0,5.115
+SAMN26419858,PRJNA812583,Patient,,,,,DK,,,fmt,,,2018-11-15,primary,1.0,8.203
+SAMN26419859,PRJNA812583,Patient,,,,,DK,,,fmt,,,2019-01-03,primary,1.0,8.359
+SAMN26419860,PRJNA812583,Patient,,,,,DK,,,fmt,,,2019-01-31,primary,1.0,5.703
+SAMN26419863,PRJNA812583,Patient,,,,,DK,,,fmt,,,2019-07-18,primary,1.0,12.172

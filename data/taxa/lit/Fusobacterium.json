@@ -1,0 +1,63 @@
+{
+ "slug": "Fusobacterium",
+ "taxon": "g__Fusobacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Fusobacterium",
+ "name_note": "The GTDB genus Fusobacterium carries the same name in the literature; the work cited here concerns its species Fusobacterium nucleatum.",
+ "sentences": [
+  {
+   "text": "Fusobacterium nucleatum is a Gram-negative anaerobic bacterium of the normal human microbiota, originally identified in the oral cavity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review describes it as a ubiquitous oral commensal and a key intermediate colonizer with well-documented interspecies coaggregation activity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That review attributes to the surface adhesins FadA and Fap2 interspecies coaggregation, support for colonization by Porphyromonas gingivalis, and epithelial barrier invasion.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Another review reports its DNA in the intratumoural microbiome of many human malignancies, and links intratumoural F. nucleatum in colorectal cancer to shorter survival across independent cohorts.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The same review notes that in oral squamous cell carcinoma F. nucleatum positivity has been linked to improved outcomes.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sima J, Ji S, et al.",
+   "title": "Fusobacterium nucleatum: a keystone bridging pathogen in polymicrobial biofilms and host immune dysregulation",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42889432",
+   "n": 1,
+   "doi": "10.3389/fcimb.2026.1981479"
+  },
+  {
+   "authors": "Lehr K, Thon C, et al.",
+   "title": "Fusobacterium nucleatum in cancer: prognostic relevance and clinical implications",
+   "journal": "Best practice & research. Clinical gastroenterology",
+   "year": 2026,
+   "pmid": "42971660",
+   "n": 2,
+   "doi": "10.1016/j.bpg.2026.102124"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

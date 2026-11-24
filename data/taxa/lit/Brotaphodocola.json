@@ -1,0 +1,51 @@
+{
+ "slug": "Brotaphodocola",
+ "taxon": "g__Brotaphodocola",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Brotaphodocola",
+ "name_note": "The genomes GTDB places in Brotaphodocola carry older NCBI names such as Clostridium and Ventrimonas, so papers may use those names.",
+ "sentences": [
+  {
+   "text": "Brotaphodocola is a bacterial taxon detected by 16S rRNA gene sequencing of human faecal samples.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of women living in Puerto Rico reported Brotaphodocola among taxa preferentially associated with controls rather than with polycystic ovary syndrome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Brotaphodocola has also been measured in studies of the intestinal flora of broiler chickens.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gonzalez-Rodriguez LA, Jimenez-Ortega KM, Vargas-Robles D, Martínez-Hernández CI, Meléndez-Vázquez NM, Romaguera J, Godoy-Vitorino F.",
+   "title": "Gut microbiota variation in admixed Hispanic populations with polyendocrine metabolic ovarian syndrome.",
+   "journal": "Frontiers in endocrinology",
+   "year": 2026,
+   "pmid": "42745765",
+   "n": 1,
+   "doi": "10.3389/fendo.2026.1890094"
+  },
+  {
+   "authors": "Xue Y, Yao M, Peng X, Wang F, Nan S, Jing W, Zhang F, Liu X, Liu Z, Nie C, Zhang W.",
+   "title": "Chondroitin sulfate modulates gut microbiota to improve bone metabolism and reduce locomotion problems in yellow-feathered broilers.",
+   "journal": "Animal nutrition (Zhongguo xu mu shou yi xue hui)",
+   "year": 2026,
+   "pmid": "42701456",
+   "n": 2,
+   "doi": "10.1016/j.aninu.2026.03.008"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

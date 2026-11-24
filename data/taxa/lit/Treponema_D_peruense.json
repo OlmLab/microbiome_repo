@@ -1,0 +1,57 @@
+{
+ "slug": "Treponema_D_peruense",
+ "taxon": "s__Treponema_D peruense",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Treponema peruense",
+ "name_note": "GTDB assigns this species to the genus Treponema_D, a split of the classical genus Treponema; sentences naming the genus Treponema therefore refer to a broader group than the GTDB genus.",
+ "sentences": [
+  {
+   "text": "Treponema peruense is a Gram-stain-negative, obligately anaerobic spirochaete isolated from a faecal sample from an individual residing in a remote Amazonian community in Peru.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its closest relative by 16S rRNA gene sequence was the pig intestinal spirochaete Treponema succinifaciens, from which it was differentiated by alkaline phosphatase and alpha-glucosidase activities.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of faecal samples from hunter-gatherer and traditional agriculturalist communities in Peru and an urban-industrialized community reported that Treponema are characteristic of traditional gut microbiomes.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study reported that these gut Treponema fall outside pathogenic clades, and suggested they are symbionts lost in urban-industrialized societies.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Belkhou C, Tadeo RT, et al.",
+   "title": "Treponema peruense sp. nov., a commensal spirochaete isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2021,
+   "pmid": "34672919",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.005050"
+  },
+  {
+   "authors": "Obregon-Tito AJ, Tito RY, et al.",
+   "title": "Subsistence strategies in traditional societies distinguish gut microbiomes.",
+   "journal": "Nature communications",
+   "year": 2015,
+   "pmid": "25807110",
+   "n": 2,
+   "doi": "10.1038/ncomms7505"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

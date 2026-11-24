@@ -1,0 +1,82 @@
+{
+ "slug": "Blautia_A",
+ "taxon": "g__Blautia_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Blautia",
+ "name_note": "GTDB splits the classical genus Blautia; g__Blautia_A is one of those parts and also holds genomes that NCBI labels Ruminococcus or Mediterraneibacter.",
+ "sentences": [
+  {
+   "text": "Blautia is a genus of anaerobic bacteria found widely in the faeces and intestines of mammals, including humans.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Several species once placed in Clostridium or Ruminococcus were reclassified into Blautia, so the limits of the genus have shifted as species were renamed.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Blautia wexlerae, a member of the genus, accumulates amylopectin and produces succinate, lactate and acetate, with distinctive amino-acid metabolism.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Studies have associated more intestinal Blautia with reduced death from graft-versus-host disease, and less Blautia with obesity and type 2 diabetes.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "Depletion of Blautia species, in particular Blautia luti and B. wexlerae, has been reported in the gut microbiota of children with obesity.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Liu X, Mao B, et al.",
+   "title": "Blautia-a new functional genus with potential probiotic properties?",
+   "journal": "Gut microbes",
+   "year": 2021,
+   "pmid": "33525961",
+   "n": 1,
+   "doi": "10.1080/19490976.2021.1875796"
+  },
+  {
+   "authors": "Jenq RR, Taur Y, et al.",
+   "title": "Intestinal Blautia Is Associated with Reduced Death from Graft-versus-Host Disease",
+   "journal": "Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation",
+   "year": 2015,
+   "pmid": "25977230",
+   "n": 2,
+   "doi": "10.1016/j.bbmt.2015.04.016"
+  },
+  {
+   "authors": "Hosomi K, Saito M, et al.",
+   "title": "Oral administration of Blautia wexlerae ameliorates obesity and type 2 diabetes via metabolic remodeling of the gut microbiota",
+   "journal": "Nature communications",
+   "year": 2022,
+   "pmid": "35982037",
+   "n": 3,
+   "doi": "10.1038/s41467-022-32015-7"
+  },
+  {
+   "authors": "Benítez-Páez A, Gómez Del Pugar EM, et al.",
+   "title": "Depletion of Blautia Species in the Microbiota of Obese Children Relates to Intestinal Inflammation and Metabolic Phenotype Worsening",
+   "journal": "mSystems",
+   "year": 2020,
+   "pmid": "32209719",
+   "n": 4,
+   "doi": "10.1128/msystems.00857-19"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

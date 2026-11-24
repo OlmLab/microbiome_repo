@@ -1,0 +1,61 @@
+{
+ "slug": "Faecalibacterium_prausnitzii_E",
+ "taxon": "s__Faecalibacterium prausnitzii_E",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium prausnitzii",
+ "name_note": "GTDB splits the classical species Faecalibacterium prausnitzii into several species-level lineages, of which F. prausnitzii_E is one, so published work on F. prausnitzii covers a broader group.",
+ "sentences": [
+  {
+   "text": "It is described as a member of clostridial cluster IV that produces butyrate, a metabolite reported to be the preferred energy source of colon epithelial cells.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes butyrate production by this species as arising partly from cross-feeding interactions with bifidobacteria stimulated by prebiotics such as inulin-type fructans and arabinoxylan-oligosaccharides.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported it to be underrepresented in patients with COVID-19, and an inverse correlation has been reported between its abundance and disease severity.",
+   "refs": [
+    2,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Rivière A, Selak M, et al.",
+   "title": "Bifidobacteria and Butyrate-Producing Colon Bacteria: Importance and Strategies for Their Stimulation in the Human Gut.",
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "pmid": "27446020",
+   "n": 1,
+   "doi": "10.3389/fmicb.2016.00979"
+  },
+  {
+   "authors": "Zuo T, Zhang F, et al.",
+   "title": "Alterations in Gut Microbiota of Patients With COVID-19 During Time of Hospitalization.",
+   "journal": "Gastroenterology",
+   "year": 2020,
+   "pmid": "32442562",
+   "n": 2,
+   "doi": "10.1053/j.gastro.2020.05.048"
+  },
+  {
+   "authors": "Yeoh YK, Zuo T, et al.",
+   "title": "Gut microbiota composition reflects disease severity and dysfunctional immune responses in patients with COVID-19.",
+   "journal": "Gut",
+   "year": 2021,
+   "pmid": "33431578",
+   "n": 3,
+   "doi": "10.1136/gutjnl-2020-323020"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

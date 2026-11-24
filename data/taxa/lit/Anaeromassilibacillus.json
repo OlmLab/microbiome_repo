@@ -1,0 +1,60 @@
+{
+ "slug": "Anaeromassilibacillus",
+ "taxon": "g__Anaeromassilibacillus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaeromassilibacillus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Anaeromassilibacillus senegalensis was described from the stool of a one-year-old kwashiorkor patient in Senegal.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A later study of human faecal isolates referred to Anaeromassilibacillus senegalensis strain mt9 as a non-validly published genus name.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A 16S amplicon study of faecal samples reported that Anaeromassilibacillus decreased in Alzheimer disease compared with idiopathic normal pressure hydrocephalus.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Guilhot E, Tidjani Alou M, Diallo A, Raoult D, Khelaifia S.",
+   "title": "Anaeromassilibacillus senegalensis gen. nov., sp. nov., isolated from the gut of a child with kwashiorkor",
+   "journal": "New microbes and new infections",
+   "year": 2016,
+   "pmid": "27330815",
+   "n": 1,
+   "doi": "10.1016/j.nmni.2016.04.007"
+  },
+  {
+   "authors": "Zhao AQ, Jiang H, Yan Y, Chen C, Wang YL, Liu SJ.",
+   "title": "Identification and characterization of four novel gut bacterial taxa: Alvibacillus kangbaii gen. nov., sp. nov., Jutongia huiwenae sp. nov., Flintibacter aciditolerans sp. nov., and Dizhoua hominis gen. nov., sp. nov. isolated from human feces",
+   "journal": "Systematic and applied microbiology",
+   "year": 2026,
+   "pmid": "42822183",
+   "n": 2,
+   "doi": "10.1016/j.syapm.2026.126773"
+  },
+  {
+   "authors": "Brandt E, Koivisto A, Pereira P, Mustanoja E, Auvinen P, Saari T, Rusanen M, Leinonen V, Scheperjans F, Kärkkäinen V.",
+   "title": "Gut Microbiome Differences Between Early Alzheimer Disease and Idiopathic Normal Pressure Hydrocephalus",
+   "journal": "Alzheimer disease and associated disorders",
+   "year": 2026,
+   "pmid": "42206504",
+   "n": 3,
+   "doi": "10.1097/wad.0000000000000726"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

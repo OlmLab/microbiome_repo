@@ -1,0 +1,75 @@
+{
+ "slug": "Anaerotignum",
+ "taxon": "g__Anaerotignum",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaerotignum",
+ "name_note": "GTDB's Anaerotignum is narrower than the published genus: among named species it holds Anaerotignum lactatifermentans and Anaerotignum merdipullorum, while Anaerotignum propionicum, A. neopropionicum and A. aminivorans are placed outside it, and most of its species are unnamed genomes.",
+ "sentences": [
+  {
+   "text": "The genus Anaerotignum was proposed on the basis of a strictly anaerobic strain, and Clostridium lactatifermentans, a close relative in clostridial cluster XIVb, was reclassified as Anaerotignum lactatifermentans.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Under its earlier name Clostridium lactatifermentans, that species was isolated from the caeca of chickens and, grown with Lactobacillus crispatus in vitro, fermented lactose to acetate and propionate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In bioreactors enriched for lactate-consuming communities, a high relative abundance of Anaerotignum was found in the D-lactate enrichments, with acetate, propionate and CO2 dominating the fermentation products.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Metabolic modelling of lactate utilizers in the human gut reported that strains including Anaerotignum are key symbionts in maximizing the metabolic capabilities of the gut microbial community.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ueki A, Goto K, Ohtaki Y, Kaku N, Ueki K.",
+   "title": "Description of Anaerotignum aminivorans gen. nov., sp. nov., a strictly anaerobic, amino-acid-decomposing bacterium isolated from a methanogenic reactor, and reclassification of Clostridium propionicum, Clostridium neopropionicum and Clostridium lactatifermentans as species of the genus Anaerotignum",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2017,
+   "pmid": "28905695",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.002268"
+  },
+  {
+   "authors": "van der Wielen PW, van Knapen F, Biesterveld S.",
+   "title": "Effect of administration of Lactobacillus crispatus, Clostridium lactatifermentans and dietary lactose on the development of the normal microflora and volatile fatty acids in the caeca of broiler chicks",
+   "journal": "British poultry science",
+   "year": 2002,
+   "pmid": "12365511",
+   "n": 2,
+   "doi": "10.1080/0007166022000004453"
+  },
+  {
+   "authors": "Allaart MT, Tyakht AV, Ley RE, Pabst M, Stouten GR, Angenent LT.",
+   "title": "D- and L-lactate consumers are taxonomically, biochemically, and energetically different",
+   "journal": "ISME communications",
+   "year": 2026,
+   "pmid": "42524415",
+   "n": 3,
+   "doi": "10.1093/ismeco/ycag180"
+  },
+  {
+   "authors": "Sabater C, Vázquez X, Duncan SH.",
+   "title": "The role of lactate metabolism in shaping intestinal microbiota and health",
+   "journal": "AIMS microbiology",
+   "year": 2026,
+   "pmid": "42859530",
+   "n": 4,
+   "doi": "10.3934/microbiol.2026020"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

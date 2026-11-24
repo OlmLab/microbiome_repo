@@ -1,0 +1,75 @@
+{
+ "slug": "Alistipes_A_indistinctus",
+ "taxon": "s__Alistipes_A indistinctus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Alistipes indistinctus",
+ "name_note": "GTDB places this species in the split genus Alistipes_A, so its GTDB genus is narrower than the classical genus Alistipes used in the literature cited here.",
+ "sentences": [
+  {
+   "text": "Alistipes indistinctus is an anaerobic, non-spore-forming, non-motile, Gram-negative-staining bacterium of the family Rikenellaceae, named from strains isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review states that Alistipes species are typically isolated from the human gut microbiome and that evidence on their effects is contrasting, with both protective and harmful associations reported.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported that the abundance and centrality of Alistipes indistinctus are depleted in subjects with hyperuricemia, and identified hippuric acid as the microbial effector lowering uric acid.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A dietary intervention study reported increased relative abundance of Alistipes indistinctus after restriction of advanced glycation end products.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Nagai F, Morotomi M, Watanabe Y, Sakon H, Tanaka R.",
+   "title": "Alistipes indistinctus sp. nov. and Odoribacter laneus sp. nov., common members of the human intestinal microbiota isolated from faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2010,
+   "pmid": "19667375",
+   "n": 1,
+   "doi": "10.1099/ijs.0.014571-0"
+  },
+  {
+   "authors": "Parker BJ, Wearsch PA, Veloo ACM, Rodriguez-Palacios A.",
+   "title": "The Genus Alistipes : Gut Bacteria With Emerging Implications to Inflammation, Cancer, and Mental Health",
+   "journal": "Frontiers in immunology",
+   "year": 2020,
+   "pmid": "32582143",
+   "n": 2,
+   "doi": "10.3389/fimmu.2020.00906"
+  },
+  {
+   "authors": "Xu YX, Liu LD, Zhu JY, Zhu SS, Ye BQ, Yang JL, Huang JY, Huang ZH, You Y, Li WK, He JL, Xia M, Liu Y.",
+   "title": "Alistipes indistinctus-derived hippuric acid promotes intestinal urate excretion to alleviate hyperuricemia",
+   "journal": "Cell host & microbe",
+   "year": 2024,
+   "pmid": "38412863",
+   "n": 3,
+   "doi": "10.1016/j.chom.2024.02.001"
+  },
+  {
+   "authors": "Yacoub R, Nugent M, Cai W, Nadkarni GN, Chaves LD, Abyad S, Honan AM, Thomas SA, Zheng W, Valiyaparambil SA, Bryniarski MA, Sun Y, Buck M, Genco RJ, Quigg RJ, He JC, Uribarri J.",
+   "title": "Advanced glycation end products dietary restriction effects on bacterial gut microbiota in peritoneal dialysis patients; a randomized open label controlled trial",
+   "journal": "PloS one",
+   "year": 2017,
+   "pmid": "28931089",
+   "n": 4,
+   "doi": "10.1371/journal.pone.0184789"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

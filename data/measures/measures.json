@@ -1,0 +1,1545 @@
+{
+ "package_version": "1.34.1",
+ "release_id": "R2026.42",
+ "build_date": "2026-11-23",
+ "sandpiper_version": "2.0.1",
+ "zenodo_record": "21287531",
+ "cutoff": "2026-03-03",
+ "coverage": {
+  "n_current": 813356,
+  "n_profiled": 415757,
+  "reasons": {
+   "profiled_clean": 379851,
+   "profiled_flagged": 35906,
+   "below_depth": 98189,
+   "after_cutoff": 110727,
+   "not_yet": 159012,
+   "no_dna": 29671
+  },
+  "reason_labels": {
+   "profiled_clean": "Profiled, passes QC",
+   "profiled_flagged": "Profiled, QC-flagged",
+   "below_depth": "Not profiled: every DNA run < 0.1 Gbp",
+   "after_cutoff": "Not profiled: public after Sandpiper's cut-off",
+   "not_yet": "Not profiled: reason not known",
+   "no_dna": "No DNA run (RNA only)"
+  },
+  "top_unprofiled": [
+   {
+    "study_accession": "PRJNA400115",
+    "below_depth": 1,
+    "after_cutoff": 0,
+    "not_yet": 12265,
+    "no_dna": 0,
+    "n_unprofiled": 12266,
+    "n_samples": 12266,
+    "title": "TEDDY Microbiome"
+   },
+   {
+    "study_accession": "PRJNA1460779",
+    "below_depth": 0,
+    "after_cutoff": 10003,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 10003,
+    "n_samples": 10003,
+    "title": "The Vaginal Microbiome as a Reservoir for Uropathogens: A Population-Scale Metagenomic Study of Women Recently Experiencing BV & UTI"
+   },
+   {
+    "study_accession": "PRJNA416160",
+    "below_depth": 6723,
+    "after_cutoff": 0,
+    "not_yet": 2024,
+    "no_dna": 0,
+    "n_unprofiled": 8747,
+    "n_samples": 8747,
+    "title": "The Environmental Determinants of Diabetes in the Young (TEDDY) Parent Study"
+   },
+   {
+    "study_accession": "PRJEB11419",
+    "below_depth": 3007,
+    "after_cutoff": 1005,
+    "not_yet": 2450,
+    "no_dna": 0,
+    "n_unprofiled": 6462,
+    "n_samples": 7353,
+    "title": "American Gut Project"
+   },
+   {
+    "study_accession": "PRJNA1468137",
+    "below_depth": 0,
+    "after_cutoff": 4749,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 4749,
+    "n_samples": 4749,
+    "title": "Maternal influences on infant gut microbiome and health"
+   },
+   {
+    "study_accession": "PRJEB23147",
+    "below_depth": 3196,
+    "after_cutoff": 0,
+    "not_yet": 1334,
+    "no_dna": 0,
+    "n_unprofiled": 4530,
+    "n_samples": 4737,
+    "title": "Human_colon_16S"
+   },
+   {
+    "study_accession": "PRJEB32762",
+    "below_depth": 805,
+    "after_cutoff": 0,
+    "not_yet": 2951,
+    "no_dna": 0,
+    "n_unprofiled": 3756,
+    "n_samples": 3765,
+    "title": "iMSMS Baranzini data"
+   },
+   {
+    "study_accession": "PRJEB60398",
+    "below_depth": 156,
+    "after_cutoff": 0,
+    "not_yet": 3325,
+    "no_dna": 0,
+    "n_unprofiled": 3481,
+    "n_samples": 3564,
+    "title": "Data-driven prediction of colonization outcomes for complex microbial communities"
+   },
+   {
+    "study_accession": "PRJEB60095",
+    "below_depth": 3,
+    "after_cutoff": 0,
+    "not_yet": 2857,
+    "no_dna": 0,
+    "n_unprofiled": 2860,
+    "n_samples": 2860,
+    "title": "Cardamom"
+   },
+   {
+    "study_accession": "PRJEB70237",
+    "below_depth": 0,
+    "after_cutoff": 0,
+    "not_yet": 2664,
+    "no_dna": 0,
+    "n_unprofiled": 2664,
+    "n_samples": 2664,
+    "title": "HELMi infant and parental stool WGS metagenomes"
+   },
+   {
+    "study_accession": "PRJEB97686",
+    "below_depth": 0,
+    "after_cutoff": 2631,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 2631,
+    "n_samples": 2631,
+    "title": "BMT CTN 1801 microbiome data"
+   },
+   {
+    "study_accession": "PRJDB45174",
+    "below_depth": 0,
+    "after_cutoff": 2485,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 2485,
+    "n_samples": 2485,
+    "title": "MARM: A Framework for Malignancy Risk Prediction from Host-Derived CNV in Bronchoalveolar Lavage Fluid mNGS Data with Microbial Admixture (PRJCA061513)"
+   },
+   {
+    "study_accession": "PRJEB110772",
+    "below_depth": 0,
+    "after_cutoff": 2398,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 2398,
+    "n_samples": 2398,
+    "title": "Gut microbiota associates with frailty in older women"
+   },
+   {
+    "study_accession": "PRJEB80544",
+    "below_depth": 17,
+    "after_cutoff": 0,
+    "not_yet": 2369,
+    "no_dna": 0,
+    "n_unprofiled": 2386,
+    "n_samples": 2386,
+    "title": "Fecal metagenomes to predict incident cancers in a screening population (FOCUS cohort)"
+   },
+   {
+    "study_accession": "PRJNA799247",
+    "below_depth": 0,
+    "after_cutoff": 0,
+    "not_yet": 239,
+    "no_dna": 1971,
+    "n_unprofiled": 2210,
+    "n_samples": 4142,
+    "title": "Metagenomics of preterm infant stool"
+   },
+   {
+    "study_accession": "PRJNA48479",
+    "below_depth": 19,
+    "after_cutoff": 0,
+    "not_yet": 2077,
+    "no_dna": 0,
+    "n_unprofiled": 2096,
+    "n_samples": 2096,
+    "title": "Human Microbiome Project (HMP) Metagenomic WGS Projects, deeper sequencing of the human microbiome samples: Production Phase"
+   },
+   {
+    "study_accession": "PRJEB98467",
+    "below_depth": 0,
+    "after_cutoff": 2071,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 2071,
+    "n_samples": 2071,
+    "title": "Whole shotgun metagenomic sequencing for 1,679 individuals (2,075 samples) from the TwinsUK cohort. Supporting data for: Pope et al, Faecal metabolites as a readout of habitual diet capture dietary interactions with the gut microbiome."
+   },
+   {
+    "study_accession": "PRJEB91658",
+    "below_depth": 0,
+    "after_cutoff": 1970,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 1970,
+    "n_samples": 1970,
+    "title": "COLO-COHORT: Exploring Gut Microbiome Associations of Colorectal Health and Early Colorectal Cancer Detection"
+   },
+   {
+    "study_accession": "PRJDB43543",
+    "below_depth": 0,
+    "after_cutoff": 1895,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 1895,
+    "n_samples": 1895,
+    "title": "Westlake Precision Birth Cohort (PRJCA025041)"
+   },
+   {
+    "study_accession": "PRJNA1084017",
+    "below_depth": 1107,
+    "after_cutoff": 0,
+    "not_yet": 742,
+    "no_dna": 0,
+    "n_unprofiled": 1849,
+    "n_samples": 1876,
+    "title": "Laboratory validation of a respiratory metagenomic sequencing assay"
+   },
+   {
+    "study_accession": "PRJEB100670",
+    "below_depth": 0,
+    "after_cutoff": 1825,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 1825,
+    "n_samples": 1826,
+    "title": "The gut microbiota in pre-diabetes and type-2 diabetes"
+   },
+   {
+    "study_accession": "PRJEB115010",
+    "below_depth": 0,
+    "after_cutoff": 1792,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 1792,
+    "n_samples": 1792,
+    "title": "NCRAD ADRC Samples - Aug 2022, Aug 2023 (Native American samples removed)"
+   },
+   {
+    "study_accession": "PRJEB37731",
+    "below_depth": 211,
+    "after_cutoff": 318,
+    "not_yet": 1198,
+    "no_dna": 0,
+    "n_unprofiled": 1727,
+    "n_samples": 2825,
+    "title": "Effects of the menstrual cycle and hormonal contraceptives on the human microbiome"
+   },
+   {
+    "study_accession": "PRJNA398089",
+    "below_depth": 274,
+    "after_cutoff": 0,
+    "not_yet": 546,
+    "no_dna": 762,
+    "n_unprofiled": 1582,
+    "n_samples": 2803,
+    "title": "Longitudinal Multi\u2019omics of the Human Microbiome in Inflammatory Bowel Disease"
+   },
+   {
+    "study_accession": "PRJNA1454017",
+    "below_depth": 1558,
+    "after_cutoff": 0,
+    "not_yet": 0,
+    "no_dna": 0,
+    "n_unprofiled": 1558,
+    "n_samples": 1558,
+    "title": "Gut metagenomes of persons with Parkinson disease and neurologically healthy elderly controls."
+   }
+  ],
+  "by_country_top": [
+   {
+    "country": "US",
+    "not_profiled": 85939,
+    "profiled": 116594,
+    "n": 202533,
+    "share": 0.5757
+   },
+   {
+    "country": "CN",
+    "not_profiled": 59082,
+    "profiled": 47154,
+    "n": 106236,
+    "share": 0.4439
+   },
+   {
+    "country": "not recorded",
+    "not_profiled": 64130,
+    "profiled": 26830,
+    "n": 90960,
+    "share": 0.295
+   },
+   {
+    "country": "GB",
+    "not_profiled": 18531,
+    "profiled": 31913,
+    "n": 50444,
+    "share": 0.6326
+   },
+   {
+    "country": "HK",
+    "not_profiled": 4787,
+    "profiled": 23005,
+    "n": 27792,
+    "share": 0.8278
+   },
+   {
+    "country": "SE",
+    "not_profiled": 13507,
+    "profiled": 11223,
+    "n": 24730,
+    "share": 0.4538
+   },
+   {
+    "country": "FI",
+    "not_profiled": 18704,
+    "profiled": 4061,
+    "n": 22765,
+    "share": 0.1784
+   },
+   {
+    "country": "DE",
+    "not_profiled": 8829,
+    "profiled": 11931,
+    "n": 20760,
+    "share": 0.5747
+   },
+   {
+    "country": "NL",
+    "not_profiled": 13113,
+    "profiled": 6481,
+    "n": 19594,
+    "share": 0.3308
+   },
+   {
+    "country": "DK",
+    "not_profiled": 7212,
+    "profiled": 8113,
+    "n": 15325,
+    "share": 0.5294
+   },
+   {
+    "country": "CA",
+    "not_profiled": 4931,
+    "profiled": 9936,
+    "n": 14867,
+    "share": 0.6683
+   },
+   {
+    "country": "ES",
+    "not_profiled": 6082,
+    "profiled": 7910,
+    "n": 13992,
+    "share": 0.5653
+   },
+   {
+    "country": "FR",
+    "not_profiled": 9123,
+    "profiled": 3929,
+    "n": 13052,
+    "share": 0.301
+   },
+   {
+    "country": "JP",
+    "not_profiled": 5128,
+    "profiled": 6873,
+    "n": 12001,
+    "share": 0.5727
+   },
+   {
+    "country": "BD",
+    "not_profiled": 2847,
+    "profiled": 9154,
+    "n": 12001,
+    "share": 0.7628
+   },
+   {
+    "country": "IT",
+    "not_profiled": 4671,
+    "profiled": 6660,
+    "n": 11331,
+    "share": 0.5878
+   },
+   {
+    "country": "SG",
+    "not_profiled": 4516,
+    "profiled": 6798,
+    "n": 11314,
+    "share": 0.6008
+   },
+   {
+    "country": "AU",
+    "not_profiled": 3871,
+    "profiled": 6647,
+    "n": 10518,
+    "share": 0.632
+   },
+   {
+    "country": "KR",
+    "not_profiled": 4126,
+    "profiled": 4377,
+    "n": 8503,
+    "share": 0.5148
+   },
+   {
+    "country": "IL",
+    "not_profiled": 3933,
+    "profiled": 3591,
+    "n": 7524,
+    "share": 0.4773
+   },
+   {
+    "country": "IE",
+    "not_profiled": 2111,
+    "profiled": 4869,
+    "n": 6980,
+    "share": 0.6976
+   },
+   {
+    "country": "MW",
+    "not_profiled": 2529,
+    "profiled": 3217,
+    "n": 5746,
+    "share": 0.5599
+   },
+   {
+    "country": "CH",
+    "not_profiled": 2684,
+    "profiled": 2757,
+    "n": 5441,
+    "share": 0.5067
+   },
+   {
+    "country": "ZA",
+    "not_profiled": 1841,
+    "profiled": 2993,
+    "n": 4834,
+    "share": 0.6192
+   },
+   {
+    "country": "IN",
+    "not_profiled": 2914,
+    "profiled": 1822,
+    "n": 4736,
+    "share": 0.3847
+   }
+  ],
+  "by_package_added": [
+   {
+    "package_added": "1.13.0",
+    "n": 2342,
+    "profiled": 853
+   },
+   {
+    "package_added": "1.16.0",
+    "n": 24,
+    "profiled": 21
+   },
+   {
+    "package_added": "1.18.0",
+    "n": 14836,
+    "profiled": 9966
+   },
+   {
+    "package_added": "1.18.1",
+    "n": 1395,
+    "profiled": 38
+   },
+   {
+    "package_added": "1.20.0",
+    "n": 1520,
+    "profiled": 843
+   },
+   {
+    "package_added": "1.22.0",
+    "n": 660,
+    "profiled": 380
+   },
+   {
+    "package_added": "1.25.0",
+    "n": 213344,
+    "profiled": 69520
+   },
+   {
+    "package_added": "1.26.0",
+    "n": 44732,
+    "profiled": 9479
+   },
+   {
+    "package_added": "1.29.0",
+    "n": 687,
+    "profiled": 0
+   },
+   {
+    "package_added": "1.34.0",
+    "n": 8348,
+    "profiled": 364
+   },
+   {
+    "package_added": "1.8.0",
+    "n": 525468,
+    "profiled": 324293
+   }
+  ],
+  "runs_not_yet_profiled_ge1gbp": 90327
+ },
+ "agreement": {
+  "n_evaluated": 345438,
+  "agreement": 0.8709,
+  "balanced_agreement": 0.6385,
+  "per_site": {
+   "gut_stool": 0.897,
+   "oral": 0.753,
+   "skin": 0.6515,
+   "vaginal_urogenital": 0.8805,
+   "nasal_nasopharyngeal": 0.4844,
+   "respiratory_lower": 0.5008,
+   "blood_tissue": 0.4671,
+   "eye_ear": 0.474
+  },
+  "n_discordant_site": 8499,
+  "n_discordant_life": 2871,
+  "life_n_evaluated": 72812,
+  "life_agreement": 0.9237,
+  "life_table": [
+   {
+    "age_category": "neonate",
+    "label": "Neonate",
+    "n": 7791,
+    "infant_like": 0.9447
+   },
+   {
+    "age_category": "infant",
+    "label": "Infant",
+    "n": 32141,
+    "infant_like": 0.8294
+   },
+   {
+    "age_category": "child",
+    "label": "Child",
+    "n": 13801,
+    "infant_like": 0.2093
+   },
+   {
+    "age_category": "adolescent",
+    "label": "Adolescent",
+    "n": 3480,
+    "infant_like": 0.127
+   },
+   {
+    "age_category": "adult",
+    "label": "Adult",
+    "n": 129827,
+    "infant_like": 0.0627
+   },
+   {
+    "age_category": "elderly",
+    "label": "Older adult",
+    "n": 19642,
+    "infant_like": 0.0407
+   }
+  ],
+  "n_unlabelled_site_suggestions": 5725,
+  "projects": [
+   {
+    "study_accession": "PRJNA553191",
+    "body_site": 57,
+    "life_stage": 0,
+    "n_profiled_clean": 59,
+    "share": 0.966,
+    "main_suggestion": "gut_stool",
+    "title": "Shotgun metagenomics of human gut microbiota up to extreme longevity and the increasing role of xenobiotics degradation"
+   },
+   {
+    "study_accession": "PRJEB45799",
+    "body_site": 904,
+    "life_stage": 1054,
+    "n_profiled_clean": 2168,
+    "share": 0.903,
+    "main_suggestion": "infant-like",
+    "title": "The person-to-person transmission landscape of the gut and oral microbiomes"
+   },
+   {
+    "study_accession": "PRJNA915128",
+    "body_site": 39,
+    "life_stage": 0,
+    "n_profiled_clean": 44,
+    "share": 0.886,
+    "main_suggestion": "gut_stool",
+    "title": "Vaginal microbiota of pregnant women with IBD"
+   },
+   {
+    "study_accession": "PRJNA928311",
+    "body_site": 0,
+    "life_stage": 41,
+    "n_profiled_clean": 51,
+    "share": 0.804,
+    "main_suggestion": "infant-like",
+    "title": "Probiotics supplementation to ileostoma bacterial community cause dynamic increase in their resistance to perturbations and metabolic utilization"
+   },
+   {
+    "study_accession": "PRJNA983093",
+    "body_site": 5,
+    "life_stage": 103,
+    "n_profiled_clean": 177,
+    "share": 0.61,
+    "main_suggestion": "infant-like",
+    "title": "Bifidobacterium lactis Probio-M8 treated and prevented acute RTI via regulating gut microbiota and metabolites."
+   },
+   {
+    "study_accession": "PRJEB74248",
+    "body_site": 28,
+    "life_stage": 0,
+    "n_profiled_clean": 46,
+    "share": 0.609,
+    "main_suggestion": "gut_stool",
+    "title": "The OSM and Tear Proteome in Glaucoma Patients"
+   },
+   {
+    "study_accession": "PRJNA1099236",
+    "body_site": 101,
+    "life_stage": 25,
+    "n_profiled_clean": 209,
+    "share": 0.603,
+    "main_suggestion": "vaginal_urogenital",
+    "title": "Gut Microbiome and Pregnancy Complications"
+   },
+   {
+    "study_accession": "PRJNA898682",
+    "body_site": 23,
+    "life_stage": 43,
+    "n_profiled_clean": 131,
+    "share": 0.504,
+    "main_suggestion": "infant-like",
+    "title": "Study of gut virome in allogeneic hematopoietic stem cell transplantation"
+   },
+   {
+    "study_accession": "PRJNA1173329",
+    "body_site": 21,
+    "life_stage": 0,
+    "n_profiled_clean": 49,
+    "share": 0.429,
+    "main_suggestion": "gut_stool",
+    "title": "Mechanistic Study of Head and Neck Squamous Cell Carcinoma Based on Microbiomics"
+   },
+   {
+    "study_accession": "PRJNA531921",
+    "body_site": 16,
+    "life_stage": 11,
+    "n_profiled_clean": 71,
+    "share": 0.38,
+    "main_suggestion": "vaginal_urogenital",
+    "title": "Human Gut Metagenome Raw sequence reads"
+   },
+   {
+    "study_accession": "PRJNA1148144",
+    "body_site": 0,
+    "life_stage": 41,
+    "n_profiled_clean": 109,
+    "share": 0.376,
+    "main_suggestion": "infant-like",
+    "title": "Biosignatures of late-onset extraintestinal bacterial infections"
+   },
+   {
+    "study_accession": "PRJNA862314",
+    "body_site": 18,
+    "life_stage": 2,
+    "n_profiled_clean": 55,
+    "share": 0.364,
+    "main_suggestion": "skin",
+    "title": "A One Health analysis of potential viral sharing between humans and great apes"
+   },
+   {
+    "study_accession": "PRJNA1306676",
+    "body_site": 29,
+    "life_stage": 3,
+    "n_profiled_clean": 98,
+    "share": 0.327,
+    "main_suggestion": "vaginal_urogenital",
+    "title": "Multiple body sites microbiome in women with Preeclampsia and their infants"
+   },
+   {
+    "study_accession": "PRJNA1067625",
+    "body_site": 27,
+    "life_stage": 11,
+    "n_profiled_clean": 120,
+    "share": 0.317,
+    "main_suggestion": "vaginal_urogenital",
+    "title": "Gut microbiome of children in Haiti"
+   },
+   {
+    "study_accession": "PRJNA637365",
+    "body_site": 3,
+    "life_stage": 24,
+    "n_profiled_clean": 87,
+    "share": 0.31,
+    "main_suggestion": "infant-like",
+    "title": "Dysbiosis in metabolic genes of the gut microbiomes of patients with a Pouch"
+   },
+   {
+    "study_accession": "PRJNA891875",
+    "body_site": 27,
+    "life_stage": 9,
+    "n_profiled_clean": 118,
+    "share": 0.305,
+    "main_suggestion": "blood_tissue",
+    "title": "Human gut Metagenome"
+   },
+   {
+    "study_accession": "PRJNA530252",
+    "body_site": 44,
+    "life_stage": 0,
+    "n_profiled_clean": 145,
+    "share": 0.303,
+    "main_suggestion": "respiratory_lower",
+    "title": "Effect of cycled, inhaled tobramycin on the sputum microbiome in cystic fibrosis"
+   },
+   {
+    "study_accession": "PRJNA1005411",
+    "body_site": 45,
+    "life_stage": 0,
+    "n_profiled_clean": 154,
+    "share": 0.292,
+    "main_suggestion": "respiratory_lower",
+    "title": "Viral metagenomic sequencing raw data of Chinese human gut"
+   },
+   {
+    "study_accession": "PRJNA1004560",
+    "body_site": 22,
+    "life_stage": 0,
+    "n_profiled_clean": 83,
+    "share": 0.265,
+    "main_suggestion": "blood_tissue",
+    "title": "The colonic virome in inflammatory bowel disease"
+   },
+   {
+    "study_accession": "PRJNA993161",
+    "body_site": 12,
+    "life_stage": 51,
+    "n_profiled_clean": 274,
+    "share": 0.23,
+    "main_suggestion": "infant-like",
+    "title": "Impact of complex oligosaccharides and a probiotic on the antibiotic-treated human microbiome"
+   },
+   {
+    "study_accession": "PRJEB58436",
+    "body_site": 37,
+    "life_stage": 54,
+    "n_profiled_clean": 398,
+    "share": 0.229,
+    "main_suggestion": "infant-like",
+    "title": "Obesity, and not cardiometabolic health status, drives altered gut microbiome functions in the metabolically unhealthy"
+   },
+   {
+    "study_accession": "PRJEB6921",
+    "body_site": 31,
+    "life_stage": 0,
+    "n_profiled_clean": 139,
+    "share": 0.223,
+    "main_suggestion": "blood_tissue",
+    "title": "Role_of_early_life_gut_microbiota_in_colonisation_resistance_development"
+   },
+   {
+    "study_accession": "PRJNA524170",
+    "body_site": 6,
+    "life_stage": 14,
+    "n_profiled_clean": 99,
+    "share": 0.202,
+    "main_suggestion": "infant-like",
+    "title": "Resistant microbiome underlies antibiotic therapy in pouchitis"
+   },
+   {
+    "study_accession": "PRJNA916952",
+    "body_site": 44,
+    "life_stage": 0,
+    "n_profiled_clean": 221,
+    "share": 0.199,
+    "main_suggestion": "blood_tissue",
+    "title": "Stanford's Outcomes Research in Kids (STORK) Virome"
+   },
+   {
+    "study_accession": "PRJNA745329",
+    "body_site": 33,
+    "life_stage": 6,
+    "n_profiled_clean": 197,
+    "share": 0.198,
+    "main_suggestion": "blood_tissue",
+    "title": "Fecal and colon mucosa sequencing of tubular adenoma, serrated, and polyp-free individuals"
+   },
+   {
+    "study_accession": "PRJDB18646",
+    "body_site": 24,
+    "life_stage": 0,
+    "n_profiled_clean": 121,
+    "share": 0.198,
+    "main_suggestion": "blood_tissue",
+    "title": "The Virome analysis in Japanese healthy cohort and patients with HIV or SARS-CoV-2 infection"
+   },
+   {
+    "study_accession": "PRJNA1402308",
+    "body_site": 19,
+    "life_stage": 12,
+    "n_profiled_clean": 164,
+    "share": 0.189,
+    "main_suggestion": "infant-like",
+    "title": "BALANCE gut microbiome"
+   },
+   {
+    "study_accession": "PRJNA848838",
+    "body_site": 17,
+    "life_stage": 12,
+    "n_profiled_clean": 155,
+    "share": 0.187,
+    "main_suggestion": "blood_tissue",
+    "title": "WGS blood culture isolates from critically ill patients"
+   },
+   {
+    "study_accession": "PRJNA835720",
+    "body_site": 26,
+    "life_stage": 0,
+    "n_profiled_clean": 139,
+    "share": 0.187,
+    "main_suggestion": "blood_tissue",
+    "title": "Human feces Viral/Bacterial Metagenome"
+   },
+   {
+    "study_accession": "PRJNA984221",
+    "body_site": 48,
+    "life_stage": 0,
+    "n_profiled_clean": 275,
+    "share": 0.175,
+    "main_suggestion": "blood_tissue",
+    "title": "Fecal microbiota transplant in ulcerative colitis patients: what is the role of the human gut virome and can it be used as a biomarker for predicting treatment success"
+   }
+  ],
+  "n_projects_flagged": 111
+ },
+ "known": {
+  "n_gut": 305816,
+  "n_countries": 70,
+  "lowest": [
+   {
+    "country": "NE",
+    "n": 1128,
+    "n_projects": 3,
+    "median_known": 53.31,
+    "min_project": 21.42,
+    "max_project": 78.81,
+    "name": "Niger"
+   },
+   {
+    "country": "GA",
+    "n": 621,
+    "n_projects": 2,
+    "median_known": 55.68,
+    "min_project": 52.32,
+    "max_project": 59.05,
+    "name": "Gabon"
+   },
+   {
+    "country": "HT",
+    "n": 440,
+    "n_projects": 3,
+    "median_known": 64.13,
+    "min_project": 50.2,
+    "max_project": 74.79,
+    "name": "Haiti"
+   },
+   {
+    "country": "CM",
+    "n": 516,
+    "n_projects": 5,
+    "median_known": 69.77,
+    "min_project": 35.71,
+    "max_project": 75.61,
+    "name": "Cameroon"
+   },
+   {
+    "country": "BF",
+    "n": 1097,
+    "n_projects": 3,
+    "median_known": 70.32,
+    "min_project": 70.1,
+    "max_project": 78.28,
+    "name": "Burkina Faso"
+   },
+   {
+    "country": "FJ",
+    "n": 249,
+    "n_projects": 2,
+    "median_known": 71.87,
+    "min_project": 59.34,
+    "max_project": 84.4,
+    "name": "Fiji"
+   },
+   {
+    "country": "MG",
+    "n": 150,
+    "n_projects": 2,
+    "median_known": 72.0,
+    "min_project": 66.96,
+    "max_project": 77.04,
+    "name": "Madagascar"
+   },
+   {
+    "country": "GH",
+    "n": 244,
+    "n_projects": 2,
+    "median_known": 73.4,
+    "min_project": 71.32,
+    "max_project": 75.47,
+    "name": "Ghana"
+   }
+  ],
+  "highest": [
+   {
+    "country": "HU",
+    "n": 214,
+    "n_projects": 4,
+    "median_known": 88.38,
+    "min_project": 84.3,
+    "max_project": 88.96,
+    "name": "Hungary"
+   },
+   {
+    "country": "NO",
+    "n": 1063,
+    "n_projects": 10,
+    "median_known": 89.04,
+    "min_project": 84.32,
+    "max_project": 97.69,
+    "name": "Norway"
+   },
+   {
+    "country": "AT",
+    "n": 710,
+    "n_projects": 10,
+    "median_known": 89.13,
+    "min_project": 81.98,
+    "max_project": 96.42,
+    "name": "Austria"
+   },
+   {
+    "country": "TH",
+    "n": 141,
+    "n_projects": 3,
+    "median_known": 89.65,
+    "min_project": 77.11,
+    "max_project": 90.74,
+    "name": "Thailand"
+   },
+   {
+    "country": "CN",
+    "n": 31965,
+    "n_projects": 349,
+    "median_known": 89.67,
+    "min_project": 23.33,
+    "max_project": 97.78,
+    "name": "China"
+   },
+   {
+    "country": "JP",
+    "n": 5310,
+    "n_projects": 37,
+    "median_known": 90.07,
+    "min_project": 62.46,
+    "max_project": 94.65,
+    "name": "Japan"
+   },
+   {
+    "country": "SG",
+    "n": 2537,
+    "n_projects": 13,
+    "median_known": 90.17,
+    "min_project": 60.01,
+    "max_project": 96.95,
+    "name": "Singapore"
+   },
+   {
+    "country": "HK",
+    "n": 21953,
+    "n_projects": 46,
+    "median_known": 90.38,
+    "min_project": 27.96,
+    "max_project": 96.7,
+    "name": "Hong Kong"
+   }
+  ],
+  "largest": [
+   {
+    "country": "US",
+    "n": 90616,
+    "n_projects": 436,
+    "median_known": 86.91,
+    "min_project": 35.67,
+    "max_project": 98.25,
+    "name": "United States"
+   },
+   {
+    "country": "CN",
+    "n": 31965,
+    "n_projects": 349,
+    "median_known": 89.67,
+    "min_project": 23.33,
+    "max_project": 97.78,
+    "name": "China"
+   },
+   {
+    "country": "GB",
+    "n": 27493,
+    "n_projects": 63,
+    "median_known": 86.33,
+    "min_project": 37.25,
+    "max_project": 97.39,
+    "name": "United Kingdom"
+   },
+   {
+    "country": "HK",
+    "n": 21953,
+    "n_projects": 46,
+    "median_known": 90.38,
+    "min_project": 27.96,
+    "max_project": 96.7,
+    "name": "Hong Kong"
+   },
+   {
+    "country": "SE",
+    "n": 10874,
+    "n_projects": 24,
+    "median_known": 87.37,
+    "min_project": 43.22,
+    "max_project": 91.7,
+    "name": "Sweden"
+   },
+   {
+    "country": "CA",
+    "n": 9160,
+    "n_projects": 44,
+    "median_known": 85.0,
+    "min_project": 57.47,
+    "max_project": 96.06,
+    "name": "Canada"
+   },
+   {
+    "country": "DE",
+    "n": 6946,
+    "n_projects": 55,
+    "median_known": 86.79,
+    "min_project": 27.55,
+    "max_project": 95.56,
+    "name": "Germany"
+   },
+   {
+    "country": "ES",
+    "n": 6791,
+    "n_projects": 47,
+    "median_known": 84.53,
+    "min_project": 25.84,
+    "max_project": 94.37,
+    "name": "Spain"
+   },
+   {
+    "country": "BD",
+    "n": 6469,
+    "n_projects": 20,
+    "median_known": 87.09,
+    "min_project": 56.33,
+    "max_project": 91.93,
+    "name": "Bangladesh"
+   },
+   {
+    "country": "DK",
+    "n": 5592,
+    "n_projects": 37,
+    "median_known": 84.85,
+    "min_project": 43.76,
+    "max_project": 93.03,
+    "name": "Denmark"
+   }
+  ],
+  "by_site": [
+   {
+    "body_site_code": "blood_tissue",
+    "n": 2466,
+    "median": 26.82
+   },
+   {
+    "body_site_code": "eye_ear",
+    "n": 650,
+    "median": 44.42
+   },
+   {
+    "body_site_code": "gut_stool",
+    "n": 305816,
+    "median": 86.68
+   },
+   {
+    "body_site_code": "nasal_nasopharyngeal",
+    "n": 4052,
+    "median": 76.12
+   },
+   {
+    "body_site_code": "oral",
+    "n": 13329,
+    "median": 63.8
+   },
+   {
+    "body_site_code": "respiratory_lower",
+    "n": 4269,
+    "median": 55.63
+   },
+   {
+    "body_site_code": "skin",
+    "n": 10697,
+    "median": 69.66
+   },
+   {
+    "body_site_code": "vaginal_urogenital",
+    "n": 5120,
+    "median": 91.82
+   }
+  ],
+  "by_lifestyle_gut": [
+   {
+    "lifestyle": "athlete",
+    "n": 494,
+    "median": 80.81
+   },
+   {
+    "lifestyle": "extreme_environment",
+    "n": 72,
+    "median": 89.66
+   },
+   {
+    "lifestyle": "hunter_gatherer",
+    "n": 404,
+    "median": 80.62
+   },
+   {
+    "lifestyle": "indigenous_community",
+    "n": 746,
+    "median": 82.16
+   },
+   {
+    "lifestyle": "institutionalized",
+    "n": 1138,
+    "median": 81.9
+   },
+   {
+    "lifestyle": "military",
+    "n": 563,
+    "median": 83.91
+   },
+   {
+    "lifestyle": "not recorded",
+    "n": 294235,
+    "median": 86.81
+   },
+   {
+    "lifestyle": "other_lifestyle",
+    "n": 47,
+    "median": 73.97
+   },
+   {
+    "lifestyle": "pastoralist",
+    "n": 26,
+    "median": 84.05
+   },
+   {
+    "lifestyle": "rural_non_industrialized",
+    "n": 5644,
+    "median": 82.96
+   },
+   {
+    "lifestyle": "spaceflight_or_analog",
+    "n": 4,
+    "median": 90.22
+   },
+   {
+    "lifestyle": "traditional_agriculturalist",
+    "n": 110,
+    "median": 70.86
+   },
+   {
+    "lifestyle": "transitional_or_migrant",
+    "n": 259,
+    "median": 76.64
+   },
+   {
+    "lifestyle": "urban_industrialized",
+    "n": 1834,
+    "median": 85.02
+   },
+   {
+    "lifestyle": "vegetarian_or_vegan",
+    "n": 240,
+    "median": 87.52
+   }
+  ]
+ },
+ "depth": {
+  "n": 415378,
+  "share_ge2": 0.9847,
+  "share_ge10": 0.9647,
+  "median_gbp": 4.34,
+  "median_coverage": 984.5,
+  "spearman_gbp_coverage": 0.821,
+  "spf_by_site": [
+   {
+    "body_site_code": "blood_tissue",
+    "n": 6434,
+    "median": 0.84
+   },
+   {
+    "body_site_code": "eye_ear",
+    "n": 1049,
+    "median": 1.07
+   },
+   {
+    "body_site_code": "gut_stool",
+    "n": 320348,
+    "median": 86.38
+   },
+   {
+    "body_site_code": "nasal_nasopharyngeal",
+    "n": 7418,
+    "median": 76.6
+   },
+   {
+    "body_site_code": "oral",
+    "n": 13790,
+    "median": 66.99
+   },
+   {
+    "body_site_code": "respiratory_lower",
+    "n": 6456,
+    "median": 11.42
+   },
+   {
+    "body_site_code": "skin",
+    "n": 13321,
+    "median": 49.5
+   },
+   {
+    "body_site_code": "vaginal_urogenital",
+    "n": 9103,
+    "median": 62.74
+   }
+  ],
+  "flag_rates": {
+   "qc_low_depth": 0.0153,
+   "qc_low_complexity": 0.0586,
+   "qc_non_metagenome": 0.0091,
+   "qc_readfraction_warning": 0.0158,
+   "qc_partial": 0.0271,
+   "qc_any_flag": 0.1609
+  },
+  "worst_projects": [
+   {
+    "study_accession": "PRJNA1195696",
+    "n_profiled": 71,
+    "median_coverage": 3250.22,
+    "low_depth": 0.0,
+    "low_complexity": 0.014,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 12.18,
+    "title": "Homo sapiens Raw sequence reads"
+   },
+   {
+    "study_accession": "PRJNA961698",
+    "n_profiled": 658,
+    "median_coverage": 1176.13,
+    "low_depth": 0.0,
+    "low_complexity": 0.017,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 6.062,
+    "title": "Very Early Life Microbiome and Metabolome Correlates with Primary Vaccination Variability in Children"
+   },
+   {
+    "study_accession": "PRJNA991269",
+    "n_profiled": 114,
+    "median_coverage": 526.545,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 1.977,
+    "title": "Comparative characterization of the infant gut microbiome and their maternal lineage by a multi-omics approach"
+   },
+   {
+    "study_accession": "PRJEB65418",
+    "n_profiled": 62,
+    "median_coverage": 299.23,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 1.271,
+    "title": "Fecal microbiota transplantation in irritable bowel syndrome patients"
+   },
+   {
+    "study_accession": "PRJNA615628",
+    "n_profiled": 56,
+    "median_coverage": 684.61,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 1.505,
+    "title": "Cystic fibrosis airway respiratory microbiome Raw sequence reads"
+   },
+   {
+    "study_accession": "PRJEB103845",
+    "n_profiled": 617,
+    "median_coverage": 467.18,
+    "low_depth": 0.003,
+    "low_complexity": 0.136,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 2.641,
+    "title": "HairLess and Microbiome"
+   },
+   {
+    "study_accession": "PRJEB64861",
+    "n_profiled": 285,
+    "median_coverage": 373.56,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 1.285,
+    "title": "Impact of dietary interventions on pre-diabetic oral and gut microbiome, metabolites and cytokines"
+   },
+   {
+    "study_accession": "PRJEB23052",
+    "n_profiled": 67,
+    "median_coverage": 1184.98,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 5.912,
+    "title": "gut metagenome of ASD"
+   },
+   {
+    "study_accession": "PRJEB96399",
+    "n_profiled": 210,
+    "median_coverage": 2055.215,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 6.508,
+    "title": "Symptom Generation in Functional Bowel Disorders (SYMBOWL)"
+   },
+   {
+    "study_accession": "PRJEB87348",
+    "n_profiled": 53,
+    "median_coverage": 45.23,
+    "low_depth": 0.019,
+    "low_complexity": 0.038,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 4.348,
+    "title": "VLP metagenome of Korean gut"
+   },
+   {
+    "study_accession": "PRJEB62463",
+    "n_profiled": 78,
+    "median_coverage": 4245.455,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 13.463,
+    "title": "Synergy and oxygen adaptation for development of next generation probiotics"
+   },
+   {
+    "study_accession": "PRJNA755357",
+    "n_profiled": 324,
+    "median_coverage": 311.705,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 1.097,
+    "title": "Cholesterol Metabolism by Uncultured Human Gut Bacteria Influences Host Cholesterol Level"
+   },
+   {
+    "study_accession": "PRJNA898682",
+    "n_profiled": 140,
+    "median_coverage": 130.17,
+    "low_depth": 0.007,
+    "low_complexity": 0.036,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 13.752,
+    "title": "Study of gut virome in allogeneic hematopoietic stem cell transplantation"
+   },
+   {
+    "study_accession": "PRJEB74426",
+    "n_profiled": 78,
+    "median_coverage": 2736.775,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 10.986,
+    "title": "Estimate the effect of FMT that treat AD"
+   },
+   {
+    "study_accession": "PRJNA902178",
+    "n_profiled": 140,
+    "median_coverage": 1837.865,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 1.0,
+    "any_flag": 1.0,
+    "median_gbp": 6.656,
+    "title": "Effects of Lacticaseibacillus paracasei PC-01 on gut microbes in people with allergies"
+   },
+   {
+    "study_accession": "PRJNA993161",
+    "n_profiled": 284,
+    "median_coverage": 377.145,
+    "low_depth": 0.0,
+    "low_complexity": 0.035,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 2.253,
+    "title": "Impact of complex oligosaccharides and a probiotic on the antibiotic-treated human microbiome"
+   },
+   {
+    "study_accession": "PRJNA606075",
+    "n_profiled": 368,
+    "median_coverage": 265.77,
+    "low_depth": 0.0,
+    "low_complexity": 0.008,
+    "non_metagenome": 1.0,
+    "any_flag": 1.0,
+    "median_gbp": 1.493,
+    "title": "Metagenome sequencing of fecal specimens from the patients before and after the administration of study drugs of RBX2660 and placebo"
+   },
+   {
+    "study_accession": "PRJEB34569",
+    "n_profiled": 114,
+    "median_coverage": 76.84,
+    "low_depth": 0.018,
+    "low_complexity": 0.035,
+    "non_metagenome": 0.623,
+    "any_flag": 1.0,
+    "median_gbp": 1.318,
+    "title": "The evolution and changing ecology of the African hominid oral microbiome"
+   },
+   {
+    "study_accession": "PRJNA957107",
+    "n_profiled": 665,
+    "median_coverage": 1886.93,
+    "low_depth": 0.0,
+    "low_complexity": 0.002,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 8.058,
+    "title": "Imrabiome - Rheumatoid project"
+   },
+   {
+    "study_accession": "PRJEB63120",
+    "n_profiled": 52,
+    "median_coverage": 184.585,
+    "low_depth": 0.0,
+    "low_complexity": 0.75,
+    "non_metagenome": 1.0,
+    "any_flag": 1.0,
+    "median_gbp": 2.797,
+    "title": "Treponema_pallidum_strain_diversity_in_Africa_and_Asia___MAGUS"
+   },
+   {
+    "study_accession": "PRJEB37312",
+    "n_profiled": 142,
+    "median_coverage": 482.655,
+    "low_depth": 0.0,
+    "low_complexity": 0.81,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 0.931,
+    "title": "The utility of shotgun metagenomics to investigate the carriage of, and longitudinal changes in antimicrobial resistant Streptococcus pneumoniae, in the nasopharynx of South African infants."
+   },
+   {
+    "study_accession": "PRJNA1464738",
+    "n_profiled": 74,
+    "median_coverage": 1424.825,
+    "low_depth": 0.0,
+    "low_complexity": 0.23,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 5.602,
+    "title": "Metabiosis underlies a microbiota permissive to Pseudomonadota and increases the risk of gut-borne bloodstream infection"
+   },
+   {
+    "study_accession": "PRJNA1421112",
+    "n_profiled": 194,
+    "median_coverage": 1714.93,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 1.0,
+    "any_flag": 1.0,
+    "median_gbp": 7.793,
+    "title": "Gut Microbiota in Hypertension Research"
+   },
+   {
+    "study_accession": "PRJEB9524",
+    "n_profiled": 57,
+    "median_coverage": 36.59,
+    "low_depth": 0.088,
+    "low_complexity": 0.088,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 0.537,
+    "title": "Expanded Enteric Virome and Altered Bacterial Microbiome in Acquired Immunodeficiency Syndrome"
+   },
+   {
+    "study_accession": "PRJEB61276",
+    "n_profiled": 68,
+    "median_coverage": 1641.07,
+    "low_depth": 0.0,
+    "low_complexity": 0.0,
+    "non_metagenome": 0.0,
+    "any_flag": 1.0,
+    "median_gbp": 7.021,
+    "title": "COVit - Nicotinamide Placebo Study - 16S and shotgun metagenomics"
+   }
+  ]
+ },
+ "seconds": 484.8
+}

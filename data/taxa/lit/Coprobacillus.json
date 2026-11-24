@@ -1,0 +1,66 @@
+{
+ "slug": "Coprobacillus",
+ "taxon": "g__Coprobacillus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Coprobacillus (Coprobacillus catenaformis, also written Coprobacillus cateniformis)",
+ "name_note": "The genus holds a single species, written Coprobacillus cateniformis in GTDB and NCBI and Coprobacillus catenaformis in its original description.",
+ "sentences": [
+  {
+   "text": "The genus Coprobacillus was proposed for three Eubacterium-like, non-spore-forming rods isolated from human faeces, with the single species Coprobacillus catenaformis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Those strains showed a specific phylogenetic association with Clostridium ramosum and Clostridium spiroforme and had G+C contents of 32.1 to 33.1 mol%.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that intestinal abundance of Coprobacillus cateniformis decreased in patients with irritable bowel syndrome after faecal microbiota transplantation, correlating with symptom and fatigue severity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review lists Coprobacillus cateniformis among bacteria reported to be closely associated with resistance to anti-tumour immunotherapy.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kageyama A, Benno Y..",
+   "title": "Coprobacillus catenaformis gen. nov., sp. nov., a new genus and species isolated from human feces.",
+   "journal": "Microbiology and immunology",
+   "year": 2000,
+   "pmid": "10711596",
+   "n": 1,
+   "doi": "10.1111/j.1348-0421.2000.tb01242.x"
+  },
+  {
+   "authors": "El-Salhy M..",
+   "title": "Intestinal bacteria associated with irritable bowel syndrome and chronic fatigue.",
+   "journal": "Neurogastroenterology and motility",
+   "year": 2023,
+   "pmid": "37246923",
+   "n": 2,
+   "doi": "10.1111/nmo.14621"
+  },
+  {
+   "authors": "Cao L, Wang X, et al.",
+   "title": "Potential of natural products and gut microbiome in tumor immunotherapy.",
+   "journal": "Chinese medicine",
+   "year": 2024,
+   "pmid": "39567970",
+   "n": 3,
+   "doi": "10.1186/s13020-024-01032-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Blautia_stercoris",
+ "taxon": "s__Blautia stercoris",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Blautia stercoris",
+ "name_note": "The GTDB representative genome of this species is deposited in NCBI under the name Firmicutes bacterium OM04-13BH.",
+ "sentences": [
+  {
+   "text": "Blautia stercoris was described from a strictly anaerobic, non-spore-forming, Gram-stain-positive strain isolated from the faeces of a healthy individual.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It was most closely related to Blautia producta in the family Lachnospiraceae, and its glucose fermentation produced acetic acid as the major short-chain fatty acid.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A probiotic supplementation study reported an increased relative abundance of Faecalibacterium prausnitzii and Blautia stercoris.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of dance classes reported an increase in Blautia stercoris and a decrease in Ruminococcus torques within the experimental group.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Another study investigated the live biotherapeutic strain Blautia stercoris MRx0006 for attenuating behavioural deficits relevant to autism spectrum disorder.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Park SK, Kim MS, et al.",
+   "title": "Blautia stercoris sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2012,
+   "pmid": "21571940",
+   "n": 1,
+   "doi": "10.1099/ijs.0.031625-0"
+  },
+  {
+   "authors": "Bang WY, Moon JS, et al.",
+   "title": "Therapeutic Modulation of the Gut Microbiome by Supplementation with Probiotics (SCI Microbiome Mix) in Adults with Functional Bowel Disorders: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+   "journal": "Microorganisms",
+   "year": 2025,
+   "pmid": "41156743",
+   "n": 2,
+   "doi": "10.3390/microorganisms13102283"
+  },
+  {
+   "authors": "Adamová LM, Slezáková D, et al.",
+   "title": "Impact of dance classes on motor and cognitive functions and gut microbiota composition in multiple sclerosis patients: Randomized controlled trial.",
+   "journal": "European journal of sport science",
+   "year": 2024,
+   "pmid": "38967986",
+   "n": 3,
+   "doi": "10.1002/ejsc.12166"
+  },
+  {
+   "authors": "Sen P, Sherwin E, et al.",
+   "title": "The live biotherapeutic Blautia stercoris MRx0006 attenuates social deficits, repetitive behaviour, and anxiety-like behaviour in a mouse model relevant to autism.",
+   "journal": "Brain, behavior, and immunity",
+   "year": 2022,
+   "pmid": "35995237",
+   "n": 4,
+   "doi": "10.1016/j.bbi.2022.08.007"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

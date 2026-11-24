@@ -1,0 +1,75 @@
+{
+ "slug": "Ligilactobacillus_ruminis",
+ "taxon": "s__Ligilactobacillus ruminis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Ligilactobacillus ruminis",
+ "name_note": "Older papers call this species Lactobacillus ruminis; the name Ligilactobacillus ruminis follows the 2020 reclassification of the genus Lactobacillus.",
+ "sentences": [
+  {
+   "text": "Ligilactobacillus ruminis is a flagellated lactic acid bacterium found in the intestines of various mammals, including humans.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It has been described as an autochthonous gut commensal that relies on sortase-dependent LrpCBA pili for host adherence and persistence.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A genome report described a strain of this species isolated from the human colon as a prospective probiotic candidate.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Among Lactobacillus strains cultured from faecal samples of healthy young people in Tibet, Xinjiang and Inner Mongolia, Lactobacillus ruminis was a dominant species, making up 54.4 percent of isolates.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Misaki A, Suzuki S, et al.",
+   "title": "The response regulator FpsR controls the flagella-pili transition and mucosal colonization in Ligilactobacillus ruminis",
+   "journal": "Gut microbes",
+   "year": 2025,
+   "pmid": "41342220",
+   "n": 1,
+   "doi": "10.1080/19490976.2025.2596807"
+  },
+  {
+   "authors": "Prajapati A, Palva A, et al.",
+   "title": "The crystal structure of the N-terminal domain of the backbone pilin LrpA reveals a new closure-and-twist motion for assembling dynamic pili in Ligilactobacillus ruminis",
+   "journal": "Acta crystallographica. Section D, Structural biology",
+   "year": 2024,
+   "pmid": "38935340",
+   "n": 2,
+   "doi": "10.1107/s2059798324005114"
+  },
+  {
+   "authors": "Ivanova EV, Bekpergenova AV, et al.",
+   "title": "Genome Sequence Data of Lactobacillus ruminis ICIS-540, Isolated from the Intestine of a Healthy Woman",
+   "journal": "Microbiology resource announcements",
+   "year": 2020,
+   "pmid": "33272985",
+   "n": 3,
+   "doi": "10.1128/mra.00900-20"
+  },
+  {
+   "authors": "Liu C, Han F, et al.",
+   "title": "Evaluation of tolerance to artificial gastroenteric juice and fermentation characteristics of Lactobacillus strains isolated from human",
+   "journal": "Food science & nutrition",
+   "year": 2022,
+   "pmid": "35035924",
+   "n": 4,
+   "doi": "10.1002/fsn3.2662"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

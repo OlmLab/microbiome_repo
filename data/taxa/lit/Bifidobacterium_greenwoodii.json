@@ -1,0 +1,57 @@
+{
+ "slug": "Bifidobacterium_greenwoodii",
+ "taxon": "s__Bifidobacterium greenwoodii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Gardnerella greenwoodii",
+ "name_note": "GTDB places Gardnerella inside the genus Bifidobacterium, so this taxon appears as s__Bifidobacterium greenwoodii, while the literature name is Gardnerella greenwoodii.",
+ "sentences": [
+  {
+   "text": "Gardnerella greenwoodii was proposed as a novel species of the genus Gardnerella, based on a strain isolated during a female urinary microbiome study from the urine of a healthy postmenopausal woman.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its 16S rRNA gene sequence placed it in the genus Gardnerella, and its highest average nucleotide identity was with Gardnerella swidsinskii.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Gardnerella species have been described as key drivers of bacterial vaginosis, a condition reported to affect nearly one in three women of reproductive age.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A genomic analysis of Gardnerella isolates resolved 21 genomic lineages encompassing 11 species and 15 subspecies, with lineage-specific repertoires of virulence and metabolic genes.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sousa M, Ksiezarek M, et al.",
+   "title": "Gardnerella pickettii sp. nov. (formerly Gardnerella genomic species 3) and Gardnerella greenwoodii sp. nov. (formerly Gardnerella genomic species 8) isolated from female urinary microbiome",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2023,
+   "pmid": "37921436",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006140"
+  },
+  {
+   "authors": "Bouzek HK, Zepeda-Rivera MA, et al.",
+   "title": "A syntenic pangenome of Gardnerella reveals novel plasmids and phage, taxonomic boundaries, and species-level stratification of metabolic and virulence potential",
+   "journal": "Nature communications",
+   "year": 2026,
+   "pmid": "42323284",
+   "n": 2,
+   "doi": "10.1038/s41467-026-74458-2"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

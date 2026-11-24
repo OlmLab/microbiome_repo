@@ -1,0 +1,75 @@
+{
+ "slug": "Limivicinus",
+ "taxon": "g__Limivicinus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Candidatus Limivicinus",
+ "name_note": "GTDB g__Limivicinus corresponds to Candidatus Limivicinus; its species are uncultured placeholders, and the retrieved literature describes it in animal gut and rumen communities rather than in humans.",
+ "sentences": [
+  {
+   "text": "In that study, members of Candidatus Limivicinus transcribed the isethionate-producing sulfo-transketolase pathway.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of gastrointestinal nitrogen metabolism reported that a soybean meal diet selectively enriched protein degraders including Limivicinus in the rumen.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A strain-resolved comparison of cattle rumen microbiomes reported enrichment of the Limivicinus genus in Angus rumen.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In faecal metagenomes from wild and domestic equids, genomes co-carrying antibiotic resistance genes were predominantly assigned to anaerobic gut genera including Limivicinus.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Krasenbrink J, Chen SC, Tanabe TS, Sarikeçe H, Meurs P, Borusak S, Samrat R, Guan G, Priemer C, Osvatic J, Séneca J, Hausmann B, Speth DR, Selberherr E, Wanek W, Schleheck D, Mussmann M, Loy A.",
+   "title": "Sulfoquinovose degradation by cow rumen microbiota.",
+   "journal": "The ISME journal",
+   "year": 2026,
+   "pmid": "41892593",
+   "n": 1,
+   "doi": "10.1093/ismejo/wrag069"
+  },
+  {
+   "authors": "Zhao Y, Tan Z, He Z, Wu J, Jiao J.",
+   "title": "Gastrointestinal microbial nitrogen metabolic landscape underlies nitrogen utilization efficiency of goats fed distinct dietary protein sources.",
+   "journal": "Microbiome",
+   "year": 2026,
+   "pmid": "42010701",
+   "n": 2,
+   "doi": "10.1186/s40168-026-02398-6"
+  },
+  {
+   "authors": "Guan F, Liu J, Zhou L, Tong Q, Wu N, Tu T, Wang Y, Yao B, Luo H, Tian J, Huang H.",
+   "title": "Strain-resolved comparison of beef and draft cattle rumen microbiomes using single-microbe genomics.",
+   "journal": "Animal microbiome",
+   "year": 2025,
+   "pmid": "40713906",
+   "n": 3,
+   "doi": "10.1186/s42523-025-00442-8"
+  },
+  {
+   "authors": "Cao Y, Peng K, Zhou Z, Shang J, Liu Z, Gao Y, Wang Z, Zhang D, Li R.",
+   "title": "Alterations in the gut resistomes of endangered wild equids associated with anthropogenic activities: Insights for One Health surveillance.",
+   "journal": "Environmental pollution (Barking, Essex : 1987)",
+   "year": 2026,
+   "pmid": "42767353",
+   "n": 4,
+   "doi": "10.1016/j.envpol.2026.129195"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

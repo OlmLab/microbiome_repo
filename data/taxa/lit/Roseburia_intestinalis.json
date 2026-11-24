@@ -1,0 +1,66 @@
+{
+ "slug": "Roseburia_intestinalis",
+ "taxon": "s__Roseburia intestinalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Roseburia intestinalis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Roseburia intestinalis was proposed as a novel species for butyrate-producing, anaerobic, Gram-positive strains isolated from human faecal material, described as slightly curved rods motile by multiple subterminal flagella.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The description reports that the species shows net acetate utilization during growth on media containing carbohydrates and short-chain fatty acids.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that Roseburia intestinalis expresses two gene loci conferring metabolism of beta-mannans, plant cell wall polysaccharides commonly found in human diets, calling it a primary degrader of this fibre.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported that Roseburia intestinalis was significantly depleted in stools of 444 patients with colorectal cancer compared with 575 healthy controls.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Duncan SH, Hold GL, Barcenilla A, Stewart CS, Flint HJ.",
+   "title": "Roseburia intestinalis sp. nov., a novel saccharolytic, butyrate-producing bacterium from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "12361264",
+   "n": 1,
+   "doi": "10.1099/00207713-52-5-1615"
+  },
+  {
+   "authors": "La Rosa SL, Leth ML, Michalak L, Hansen ME, Pudlo NA, Glowacki R, Pereira G, Workman CT, Arntzen MØ, Pope PB, Martens EC, Hachem MA, Westereng B.",
+   "title": "The human gut Firmicute Roseburia intestinalis is a primary degrader of dietary β-mannans.",
+   "journal": "Nature communications",
+   "year": 2019,
+   "pmid": "30796211",
+   "n": 2,
+   "doi": "10.1038/s41467-019-08812-y"
+  },
+  {
+   "authors": "Kang X, Liu C, Ding Y, Ni Y, Ji F, Lau HCH, Jiang L, Sung JJ, Wong SH, Yu J.",
+   "title": "Roseburia intestinalis generated butyrate boosts anti-PD-1 efficacy in colorectal cancer by activating cytotoxic CD8 + T cells.",
+   "journal": "Gut",
+   "year": 2023,
+   "pmid": "37491158",
+   "n": 3,
+   "doi": "10.1136/gutjnl-2023-330291"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

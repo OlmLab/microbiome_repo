@@ -1,0 +1,122 @@
+{
+ "slug": "Veillonella",
+ "taxon": "g__Veillonella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Veillonella",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Veillonella are anaerobic, non-motile, small spherical Gram-negative cocci that do not ferment glucose or other carbohydrates.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "They grow on organic acids, producing propionic and acetic acids, carbon dioxide and hydrogen from lactate, and consume lactic acid in oral biofilms.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "In the mouth they are early colonisers of dental plaque and partner metabolically with streptococci, whose lactic acid serves as their carbon source.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "Veillonella also occur in the human small intestine and, with Prevotella, among the predominant commensal genera of healthy lungs, which often harbour organisms from the mouth.",
+   "refs": [
+    6,
+    4,
+    5
+   ]
+  },
+  {
+   "text": "Studies have reported Veillonella parvula increasing in the intestine in inflammatory bowel disease and enrichment of lower airways with this species in lung cancer progression.",
+   "refs": [
+    7,
+    8
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "ROGOSA M.",
+   "title": "THE GENUS VEILLONELLA. I. GENERAL CULTURAL, ECOLOGICAL, AND BIOCHEMICAL CONSIDERATIONS.",
+   "journal": "Journal of bacteriology",
+   "year": 1964,
+   "pmid": "14102850",
+   "n": 1,
+   "doi": "10.1128/jb.87.1.162-170.1964"
+  },
+  {
+   "authors": "Periasamy S, Kolenbrander PE.",
+   "title": "Central role of the early colonizer Veillonella sp. in establishing multispecies biofilm communities with initial, middle, and late colonizers of enamel.",
+   "journal": "Journal of bacteriology",
+   "year": 2010,
+   "pmid": "20154130",
+   "n": 2,
+   "doi": "10.1128/jb.01631-09"
+  },
+  {
+   "authors": "Chalmers NI, Palmer RJ, Cisar JO, Kolenbrander PE.",
+   "title": "Characterization of a Streptococcus sp.-Veillonella sp. community micromanipulated from dental plaque.",
+   "journal": "Journal of bacteriology",
+   "year": 2008,
+   "pmid": "18805978",
+   "n": 3,
+   "doi": "10.1128/jb.00983-08"
+  },
+  {
+   "authors": "Paudel KR, Dharwal V, Patel VK, Galvao I, Wadhwa R, Malyla V, Shen SS, Budden KF, Hansbro NG, Vaughan A, Yang IA, Kohonen-Corish MRJ, Bebawy M, Dua K, Hansbro PM.",
+   "title": "Role of Lung Microbiome in Innate Immune Response Associated With Chronic Lung Diseases.",
+   "journal": "Frontiers in medicine",
+   "year": 2020,
+   "pmid": "33043031",
+   "n": 4,
+   "doi": "10.3389/fmed.2020.00554"
+  },
+  {
+   "authors": "Segal LN, Alekseyenko AV, Clemente JC, Kulkarni R, Wu B, Gao Z, Chen H, Berger KI, Goldring RM, Rom WN, Blaser MJ, Weiden MD.",
+   "title": "Enrichment of lung microbiome with supraglottic taxa is associated with increased pulmonary inflammation.",
+   "journal": "Microbiome",
+   "year": 2013,
+   "pmid": "24450871",
+   "n": 5,
+   "doi": "10.1186/2049-2618-1-19"
+  },
+  {
+   "authors": "van den Bogert B, Erkus O, Boekhorst J, de Goffau M, Smid EJ, Zoetendal EG, Kleerebezem M.",
+   "title": "Diversity of human small intestinal Streptococcus and Veillonella populations.",
+   "journal": "FEMS microbiology ecology",
+   "year": 2013,
+   "pmid": "23614882",
+   "n": 6,
+   "doi": "10.1111/1574-6941.12127"
+  },
+  {
+   "authors": "Rojas-Tapias DF, Brown EM, Temple ER, Onyekaba MA, Mohamed AMT, Duncan K, Schirmer M, Walker RL, Mayassi T, Pierce KA, Ávila-Pacheco J, Clish CB, Vlamakis H, Xavier RJ.",
+   "title": "Inflammation-associated nitrate facilitates ectopic colonization of oral bacterium Veillonella parvula in the intestine.",
+   "journal": "Nature microbiology",
+   "year": 2022,
+   "pmid": "36138166",
+   "n": 7,
+   "doi": "10.1038/s41564-022-01224-7"
+  },
+  {
+   "authors": "Tsay JJ, Wu BG, Sulaiman I, Gershner K, Schluger R, Li Y, Yie TA, Meyn P, Olsen E, Perez L, Franca B, Carpenito J, Iizumi T, El-Ashmawy M, Badri M, Morton JT, Shen N, He L, Michaud G, Rafeq S, Bessich JL, Smith RL, Sauthoff H, Felner K, Pillai R, Zavitsanou AM, Koralov SB, Mezzano V, Loomis CA, Moreira AL, Moore W, Tsirigos A, Heguy A, Rom WN, Sterman DH, Sterman DH, Pass HI, Clemente JC, Li H, Bonneau R, Wong KK, Papagiannakopoulos T, Segal LN.",
+   "title": "Lower Airway Dysbiosis Affects Lung Cancer Progression.",
+   "journal": "Cancer discovery",
+   "year": 2021,
+   "pmid": "33177060",
+   "n": 8,
+   "doi": "10.1158/2159-8290.cd-20-0263"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

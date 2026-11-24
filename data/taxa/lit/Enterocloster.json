@@ -1,0 +1,72 @@
+{
+ "slug": "Enterocloster",
+ "taxon": "g__Enterocloster",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Enterocloster",
+ "name_note": "Enterocloster was proposed in 2020 for species previously named Clostridium, so most genomes in this GTDB genus appear in older papers as Clostridium bolteae, C. clostridioforme and relatives.",
+ "sentences": [
+  {
+   "text": "Enterocloster is a genus proposed for a clade of misclassified Clostridium species that sits phylogenetically inside the family Lachnospiraceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The clade renamed Enterocloster includes the former Clostridium clostridioforme, Clostridium bolteae, Clostridium citroniae and Clostridium lavalense.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its family, Lachnospiraceae, is described as made up of benign gut microbiome members with plant-degrading capabilities.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Antibiotics are reported to compromise PD-1 blockade in cancer patients, and regrowth of Enterocloster species after antibiotics drove immunosuppressive T cells towards tumours.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported Enterocloster bolteae enriched in patients with non-alcoholic steatohepatitis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Haas KN, Blanchard JL",
+   "title": "Reclassification of the Clostridium clostridioforme and Clostridium sphenoides clades as Enterocloster gen. nov. and Lacrimispora gen. nov., including reclassification of 15 taxa",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "31782700",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003698"
+  },
+  {
+   "authors": "Fidelle M, Rauber C, et al.",
+   "title": "A microbiota-modulated checkpoint directs immunosuppressive intestinal T cells into cancers",
+   "journal": "Science (New York, N.Y.)",
+   "year": 2023,
+   "pmid": "37289890",
+   "n": 2,
+   "doi": "10.1126/science.abo2296"
+  },
+  {
+   "authors": "Mbaye B, Magdy Wasfy R, et al.",
+   "title": "Increased fecal ethanol and enriched ethanol-producing gut bacteria Limosilactobacillus fermentum, Enterocloster bolteae, Mediterraneibacter gnavus and Streptococcus mutans in nonalcoholic steatohepatitis",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2023,
+   "pmid": "38035329",
+   "n": 3,
+   "doi": "10.3389/fcimb.2023.1279354"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

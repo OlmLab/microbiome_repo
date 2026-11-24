@@ -1,0 +1,76 @@
+{
+ "slug": "Nanosynbacter",
+ "taxon": "g__Nanosynbacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Nanosynbacter (Candidatus Nanosynbacter), Saccharibacteria/TM7",
+ "name_note": "NCBI labels these genomes Candidatus Nanosynbacter; the genus was validly published as Nanosynbacter, whose described species Nanosynbacter lyticus is the long-studied strain TM7x.",
+ "sentences": [
+  {
+   "text": "It replicates as an obligate epibiont on the surface of another oral species and was obtained by directed cultivation from human oral samples.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The organism belongs to the Saccharibacteria phylum within the Candidate Phyla Radiation, whose members are described as ubiquitous in the human oral microbiome.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "Lacking the ability to make its own amino acids, vitamins or cell wall precursors, it must parasitize other oral bacteria and can kill its bacterial host.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study of saliva and plaque from children in a South China population reported Saccharibacteria as a caries-associated phylum in children.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Hendrickson EL, Bor B, He X, McLean JS.",
+   "title": "Nanosynbacter lyticus gen. nov., sp. nov., an ultrasmall, obligate epibiont bacterium and the proposal of Nanosynbacteraceae fam. nov., Nanosynbacterales ord. nov. and Nanosynbacteria class nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "42101953",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.007162"
+  },
+  {
+   "authors": "Rodriguez Coyago ML, Berrezueta Reyes IN, Vega García MM, Lima Tola EF, Bravo Torres WD, Alvarado Cordero JJ.",
+   "title": "Ecological Dynamics and Functional Classification of Nanosynbacter lyticus Strain TM7x in the Human Oral Microbiome: A Literature Review.",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42513953",
+   "n": 2,
+   "doi": "10.3390/microorganisms14071447"
+  },
+  {
+   "authors": "Bor B, Bedree JK, Shi W, McLean JS, He X.",
+   "title": "Saccharibacteria (TM7) in the Human Oral Microbiome.",
+   "journal": "Journal of dental research",
+   "year": 2019,
+   "pmid": "30894042",
+   "n": 3,
+   "doi": "10.1177/0022034519831671"
+  },
+  {
+   "authors": "You Y, Yin M, Zheng X, Liang Q, Zhang H, Wu BL, Xu W.",
+   "title": "Saccharibacteria (TM7) , but not other bacterial taxa, are associated with childhood caries regardless of age in a South China population.",
+   "journal": "PeerJ",
+   "year": 2023,
+   "pmid": "37397017",
+   "n": 4,
+   "doi": "10.7717/peerj.15605"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

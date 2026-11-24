@@ -1,0 +1,85 @@
+{
+ "slug": "Aquipseudomonas",
+ "taxon": "g__Aquipseudomonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Aquipseudomonas",
+ "name_note": "GTDB g__Aquipseudomonas is a recently separated Pseudomonadaceae genus whose members, including Pseudomonas viridiflava and Pseudomonas monteilii, still carry Pseudomonas names in NCBI.",
+ "sentences": [
+  {
+   "text": "Aquipseudomonas is one of several genera recently separated from the broad genus Pseudomonas, which phylogenomic work showed to be a diverse assemblage without a single common evolutionary history.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Members such as Aquipseudomonas alcaligenes have been recovered from aquatic environments, for example the filter and gravel of a home aquarium.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Pseudomonas viridiflava was identified, with Pseudomonas mediterranea, as a causal agent of tomato pith necrosis in Al Taif, Saudi Arabia, and pathogenicity assays showed it caused severe necrosis.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "A case report described Pseudomonas monteilii sepsis in a 55-year-old man immediately after insertable cardiac monitor implantation, with the organism identified in blood culture.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Rudra B, Gupta RS",
+   "title": "Phylogenomics studies and molecular markers reliably demarcate genus Pseudomonas sensu stricto and twelve other Pseudomonadaceae species clades representing novel and emended genera",
+   "journal": "Frontiers in Microbiology",
+   "year": 2023,
+   "pmid": "38249459",
+   "n": 1,
+   "doi": "10.3389/fmicb.2023.1273665"
+  },
+  {
+   "authors": "Rudra B, Gupta RS",
+   "title": "Molecular Markers Specific for the Pseudomonadaceae Genera Provide Novel and Reliable Means for the Identification of Other Pseudomonas Strains/spp. Related to These Genera",
+   "journal": "Genes",
+   "year": 2025,
+   "pmid": "40004512",
+   "n": 2,
+   "doi": "10.3390/genes16020183"
+  },
+  {
+   "authors": "Ciliberti I, De Luca L, et al.",
+   "title": "Ornamental fish aquaria as a reservoir of unusual predatory bacteria",
+   "journal": "Microbiological Research",
+   "year": 2026,
+   "pmid": "42349218",
+   "n": 3,
+   "doi": "10.1016/j.micres.2026.128594"
+  },
+  {
+   "authors": "Ibrahim YE, Widyawan A, et al.",
+   "title": "Characterization of Pseudomonas mediterranea and Pseudomonas viridiflava strains associated with tomato pith necrosis in the Al Taif region, Saudi Arabia",
+   "journal": "",
+   "year": 2026,
+   "pmid": "41507304",
+   "n": 4,
+   "doi": "10.1038/s41598-025-33480-y"
+  },
+  {
+   "authors": "Lee D, Jung KH, et al.",
+   "title": "Pseudomonas monteilii bacteremia and sepsis following insertable cardiac monitor implantation: a case report",
+   "journal": "",
+   "year": 2024,
+   "pmid": "39420403",
+   "n": 5,
+   "doi": "10.1186/s13256-024-04832-5"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

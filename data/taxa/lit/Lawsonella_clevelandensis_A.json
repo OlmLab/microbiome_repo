@@ -1,0 +1,52 @@
+{
+ "slug": "Lawsonella_clevelandensis_A",
+ "taxon": "s__Lawsonella clevelandensis_A",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Lawsonella clevelandensis",
+ "name_note": "The _A suffix marks a GTDB split within Lawsonella clevelandensis; published work uses the unsuffixed species name.",
+ "sentences": [
+  {
+   "text": "Lawsonella clevelandensis is a strictly anaerobic, partially acid-fast Gram-positive bacillus that was formally described in 2016.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "It is increasingly reported as a cause of deep-seated abscesses, and its fastidious growth and absence from routine diagnostic databases lead to underdiagnosis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A narrative review of documented cases notes risk factors such as diabetes, immunosuppression and prior surgery, and a predilection for fat-rich tissues.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Jin Y, Zhou M, et al.",
+   "title": "Lawsonella clevelandensis: a normal flora that bites deep",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42682910",
+   "n": 1,
+   "doi": "10.3389/fcimb.2026.1914466"
+  },
+  {
+   "authors": "Chen W, Su N, et al.",
+   "title": "Lawsonella clevelandensis breast abscess in a young woman with uncontrolled type 1 diabetes: a case report",
+   "journal": "Frontiers in global women's health",
+   "year": 2026,
+   "pmid": "42780656",
+   "n": 2,
+   "doi": "10.3389/fgwh.2026.1945144"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "Parvimonas",
+ "taxon": "g__Parvimonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Parvimonas",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Parvimonas micra is a Gram-positive anaerobic coccus of the oral cavity that also colonises the gastrointestinal tract.",
+   "refs": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "text": "A study reported one phylotype of Parvimonas micra strongly associated with colorectal cancer, more abundant in faeces and tumour tissue than in normal colonic mucosa.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that work the phylotype altered DNA methylation at promoters of tumour-suppressor genes, oncogenes and epithelial-mesenchymal transition genes in co-cultured human primary colonic cells.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Parvimonas micra is often isolated from periodontitis and abscesses within complex infections, and a systematic review of 26 bacteraemia patients found spinal discitis most frequent.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A narrative review describes Parvimonas micra as increasingly recognised in pyogenic central nervous system infections, brain abscess accounting for about 80 per cent of manifestations.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Bergsten E, Mestivier D, Donnadieu F, Pedron T, Barau C, Meda LT, Mettouchi A, Lemichez E, Gorgette O, Chamaillard M, Vaysse A, Volant S, Doukani A, Sansonetti PJ, Sobhani I, Nigro G",
+   "title": "Parvimonas micra, an oral pathobiont associated with colorectal cancer, epigenetically reprograms human colonocytes",
+   "journal": "Gut microbes",
+   "year": 2023,
+   "pmid": "37842920",
+   "n": 1,
+   "doi": "10.1080/19490976.2023.2265138"
+  },
+  {
+   "authors": "Shimizu K, Horinishi Y, Sano C, Ohta R",
+   "title": "Infection Route of Parvimonas micra: A Case Report and Systematic Review",
+   "journal": "Healthcare (Basel, Switzerland)",
+   "year": 2022,
+   "pmid": "36141340",
+   "n": 2,
+   "doi": "10.3390/healthcare10091727"
+  },
+  {
+   "authors": "Gong C, Jing X, Jiang S, Yu C",
+   "title": "<i>Parvimonas micra</i> and central nervous system infections: mechanisms of transformation from oral commensal to intracranial pathogen and clinical evidence",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42898979",
+   "n": 3,
+   "doi": "10.3389/fcimb.2026.1971569"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

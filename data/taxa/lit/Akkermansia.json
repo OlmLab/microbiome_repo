@@ -1,0 +1,77 @@
+{
+ "slug": "Akkermansia",
+ "taxon": "g__Akkermansia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Akkermansia (Akkermansia muciniphila)",
+ "name_note": "Nearly all genomes placed here by GTDB correspond to NCBI Akkermansia, the genus of the classical literature species Akkermansia muciniphila.",
+ "sentences": [
+  {
+   "text": "Akkermansia muciniphila is a Gram-negative, strictly anaerobic, oval-shaped bacterium of the division Verrucomicrobia.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "It was isolated from faeces, and is described as a mucin-degrading bacterium that resides in the mucus layer.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "It grows on mucin as sole carbon and nitrogen source and on a few sugars such as N-acetylglucosamine and glucose when protein is supplied.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Studies have reported a negative correlation between Akkermansia muciniphila abundance and overweight, obesity or untreated type 2 diabetes, and Akkermansia has been reported negatively associated with T2D.",
+   "refs": [
+    2,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Everard A, Belzer C, et al.",
+   "title": "Cross-talk between Akkermansia muciniphila and intestinal epithelium controls diet-induced obesity.",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2013,
+   "pmid": "23671105",
+   "n": 1,
+   "doi": "10.1073/pnas.1219451110"
+  },
+  {
+   "authors": "Depommier C, Everard A, et al.",
+   "title": "Supplementation with Akkermansia muciniphila in overweight and obese human volunteers: a proof-of-concept exploratory study.",
+   "journal": "Nature medicine",
+   "year": 2019,
+   "pmid": "31263284",
+   "n": 2,
+   "doi": "10.1038/s41591-019-0495-2"
+  },
+  {
+   "authors": "Derrien M, Vaughan EE, et al.",
+   "title": "Akkermansia muciniphila gen. nov., sp. nov., a human intestinal mucin-degrading bacterium.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2004,
+   "pmid": "15388697",
+   "n": 3,
+   "doi": "10.1099/ijs.0.02873-0"
+  },
+  {
+   "authors": "Gurung M, Li Z, et al.",
+   "title": "Role of gut microbiota in type 2 diabetes pathophysiology.",
+   "journal": "EBioMedicine",
+   "year": 2020,
+   "pmid": "31901868",
+   "n": 4,
+   "doi": "10.1016/j.ebiom.2019.11.051"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "Corynebacterium_jeddahense",
+ "taxon": "s__Corynebacterium jeddahense",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Corynebacterium jeddahense",
+ "name_note": "Corynebacterium jeddahense is a rarely reported species; the retrieved literature describes its type strain and the genus, not its distribution on human skin.",
+ "sentences": [
+  {
+   "text": "Corynebacterium jeddahense is a Gram-positive, facultative anaerobic, nonsporulating bacillus, described as a new species within the genus Corynebacterium.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its type strain was isolated from the faecal flora of a 24-year-old Saudi male suffering from morbid obesity, and has a 2,472,125 base pair genome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Species of the genus Corynebacterium carry mycolic acids in their cell envelopes, which form the basis of a protective outer membrane called the mycomembrane.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a genomic survey of 140 corynebacterial strains, more than half came from clinical material from humans or animals, which the authors took to show the pathogenic potential within the genus.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That survey also found that many corynebacteria lack the FAS-I system and must obtain fatty acids from their habitat, which it offers as an explanation of the lipophilic phenotype of some species.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Edouard S, Bibi F, et al.",
+   "title": "Non-contiguous finished genome sequence and description of Corynebacterium jeddahense sp. nov",
+   "journal": "Standards in genomic sciences",
+   "year": 2014,
+   "pmid": "25197478",
+   "n": 1,
+   "doi": "10.4056/sigs.5561028"
+  },
+  {
+   "authors": "Dover LG, Thompson AR, et al.",
+   "title": "Phylogenomic Reappraisal of Fatty Acid Biosynthesis, Mycolic Acid Biosynthesis and Clinical Relevance Among Members of the Genus Corynebacterium ",
+   "journal": "Frontiers in microbiology",
+   "year": 2021,
+   "pmid": "35003033",
+   "n": 2,
+   "doi": "10.3389/fmicb.2021.802532"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

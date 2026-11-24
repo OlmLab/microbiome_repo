@@ -1,0 +1,66 @@
+{
+ "slug": "Dorea_formicigenerans",
+ "taxon": "s__Dorea formicigenerans",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Dorea formicigenerans",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Dorea formicigenerans is the species formed when Eubacterium formicigenerans was reclassified into the new genus Dorea, alongside Dorea longicatena from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The organisms are Gram-positive, obligately anaerobic, non-spore-forming rods of the Clostridium coccoides ribosomal RNA group.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A feruloyl esterase from this gut species was expressed and characterised; such enzymes release hydroxycinnamic acids such as ferulic acid from dietary fibre.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Its complete genome is one circular chromosome of 3,090,452 base pairs with 40.8 percent GC content and 3,061 predicted genes.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Taras D, Simmering R, et al.",
+   "title": "Reclassification of Eubacterium formicigenerans Holdeman and Moore 1974 as Dorea formicigenerans gen. nov., comb. nov., and description of Dorea longicatena sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "11931151",
+   "n": 1,
+   "doi": "10.1099/00207713-52-2-423"
+  },
+  {
+   "authors": "Shen Y, Wang Y, et al.",
+   "title": "Engineering the Active Site Pocket to Enhance the Catalytic Efficiency of a Novel Feruloyl Esterase Derived From Human Intestinal Bacteria Dorea formicigenerans",
+   "journal": "Frontiers in bioengineering and biotechnology",
+   "year": 2022,
+   "pmid": "35795165",
+   "n": 2,
+   "doi": "10.3389/fbioe.2022.936914"
+  },
+  {
+   "authors": "Tourlousse DM, Murotomi K, et al.",
+   "title": "Complete genome sequence of Dorea formicigenerans JCM 31256",
+   "journal": "Microbiology resource announcements",
+   "year": 2025,
+   "pmid": "39727387",
+   "n": 3,
+   "doi": "10.1128/mra.01254-24"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

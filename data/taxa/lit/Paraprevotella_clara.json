@@ -1,0 +1,60 @@
+{
+ "slug": "Paraprevotella_clara",
+ "taxon": "s__Paraprevotella clara",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Paraprevotella clara",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A small study reported it among eight gut microorganisms with diagnostic significance when comparing healthy people, people with type 2 diabetes mellitus and people with type 2 diabetes and coronary atherosclerotic heart disease.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "An in vitro study of disaccharides reported that beta-disaccharides enhanced Paraprevotella clara proliferation.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Cell-free supernatant from a Paraprevotella clara strain was among those that reduced the swine pathogen Brachyspira hyodysenteriae in vitro.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Huang L, Zhang X, Wu Y, Li H, Li M, Shao C, Yang Q, Jin G, Hu X.",
+   "title": "The gut microbiota and metabolomics in the pathogenesis of type 2 diabetes mellitus combined with coronary atherosclerotic heart disease.",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "pmid": "42120930",
+   "n": 1,
+   "doi": "10.1038/s41598-026-51805-3"
+  },
+  {
+   "authors": "Lu X, Zou J, Feng X, Han G, Zhu L, Chen Y, Yang Y, Jin J, Ji X, Zhao L.",
+   "title": "Oligosaccharides with different glycosidic bonds regulate gut microbiota: differential modulation of bacterial and fungal communities and their metabolism in vitro.",
+   "journal": "Food research international (Ottawa, Ont.)",
+   "year": 2025,
+   "pmid": "41214979",
+   "n": 2,
+   "doi": "10.1016/j.foodres.2025.117481"
+  },
+  {
+   "authors": "Gómez-Martínez S, Pérez-Pérez L, Ucero-Carrretón A, López-García Á, Galisteo C, Carvajal A, Argüello H.",
+   "title": "Exploring the potential for competitive exclusion of commensal probiotic candidates against the insidious swine pathogen Brachyspira hyodysenteriae.",
+   "journal": "Animal microbiome",
+   "year": 2026,
+   "pmid": "41559772",
+   "n": 3,
+   "doi": "10.1186/s42523-025-00511-y"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

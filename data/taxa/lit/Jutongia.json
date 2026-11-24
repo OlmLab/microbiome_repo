@@ -1,0 +1,51 @@
+{
+ "slug": "Jutongia",
+ "taxon": "g__Jutongia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Jutongia",
+ "name_note": "Most GTDB species of Jutongia are uncultured genomes without published names; the published species of the genus include Jutongia huaianensis.",
+ "sentences": [
+  {
+   "text": "A study of anaerobic strains isolated from healthy Chinese adults proposed the new species Jutongia huiwenae, whose closest named relative was Jutongia huaianensis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that study the four isolated strains, one of them the new Jutongia species, produced short-chain fatty acids and showed distinct carbon utilisation and enzymatic profiles.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In stool of 39 breast cancer patients before neoadjuvant chemotherapy, a study reported Jutongia enriched in those who later achieved a pathological complete response.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zhao AQ, Jiang H, Yan Y, Chen C, Wang YL, Liu SJ",
+   "title": "Identification and characterization of four novel gut bacterial taxa: Alvibacillus kangbaii gen. nov., sp. nov., Jutongia huiwenae sp. nov., Flintibacter aciditolerans sp. nov., and Dizhoua hominis gen. nov., sp. nov. isolated from human feces",
+   "journal": "Systematic and applied microbiology",
+   "year": 2026,
+   "pmid": "42822183",
+   "n": 1,
+   "doi": "10.1016/j.syapm.2026.126773"
+  },
+  {
+   "authors": "Liepina EE, Sivina E, Jurkane L, Daneberga Z",
+   "title": "Baseline Gut Microbiome and Metabolite Profiles Associate with Treatment Response in Breast Cancer Patients Undergoing Neoadjuvant Chemotherapy",
+   "journal": "Diagnostics (Basel, Switzerland)",
+   "year": 2026,
+   "pmid": "41681750",
+   "n": 2,
+   "doi": "10.3390/diagnostics16030433"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

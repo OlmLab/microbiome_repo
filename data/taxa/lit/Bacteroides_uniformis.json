@@ -1,0 +1,60 @@
+{
+ "slug": "Bacteroides_uniformis",
+ "taxon": "s__Bacteroides uniformis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides uniformis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bacteroides uniformis is a common commensal bacterium of the human gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In mice, giving Bacteroides uniformis alleviated atherosclerosis by raising hepatic low-density lipoprotein receptor expression.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Infection is rare but reported: one case describes paediatric meningitis caused by Bacteroides uniformis following rotavirus gastroenteritis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Arnolds KL, Yamada E, et al.",
+   "title": "Disruption of Genes Encoding Putative Zwitterionic Capsular Polysaccharides of Diverse Intestinal Bacteroides Reduces the Induction of Host Anti-Inflammatory Factors",
+   "journal": "Microbial ecology",
+   "year": 2023,
+   "pmid": "35596750",
+   "n": 1,
+   "doi": "10.1007/s00248-022-02037-1"
+  },
+  {
+   "authors": "Yin C, Chen Y, et al.",
+   "title": "A gut microbial odd-chain fatty acid alleviates atherosclerosis in mice",
+   "journal": "Nature",
+   "year": 2026,
+   "pmid": "42844473",
+   "n": 2,
+   "doi": "10.1038/s41586-026-11142-x"
+  },
+  {
+   "authors": "Cai ZZ, Zeng DM, et al.",
+   "title": "Rotavirus gastroenteritis complicating meningitis caused by Bacteroides uniformis detected using mNGS: a case report and literature review",
+   "journal": "Frontiers in medicine",
+   "year": 2025,
+   "pmid": "41058622",
+   "n": 3,
+   "doi": "10.3389/fmed.2025.1601953"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

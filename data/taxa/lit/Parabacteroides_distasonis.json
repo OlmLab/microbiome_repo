@@ -1,0 +1,77 @@
+{
+ "slug": "Parabacteroides_distasonis",
+ "taxon": "s__Parabacteroides distasonis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Parabacteroides distasonis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Parabacteroides distasonis is an anaerobic bacterium and a commensal of the human gut.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "It can convert primary bile acids into secondary bile acids and is studied as a potential probiotic.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In mouse experiments it showed anti-inflammatory properties, attenuating tumorigenesis and promoting intestinal barrier integrity in a colorectal cancer model.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Studies have reported depletion of this species in patients with psoriasis and reduced abundance in overweight individuals.",
+   "refs": [
+    2,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zhao M, Wen B, et al.",
+   "title": "Parabacteroides distasonis alleviates Clostridioides difficile infection in mice while modulating secondary bile acids",
+   "journal": "Virulence",
+   "year": 2026,
+   "pmid": "42402046",
+   "n": 1,
+   "doi": "10.1080/21505594.2026.2697574"
+  },
+  {
+   "authors": "Le D, Heidari MH, et al.",
+   "title": "Gut-derived genistein from Parabacteroides distasonis alleviates psoriatic inflammation via CD200-mediated NF-κB inhibition in mice",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42461117",
+   "n": 2,
+   "doi": "10.1080/19490976.2026.2701386"
+  },
+  {
+   "authors": "Shnayder S, Do V, et al.",
+   "title": "Lifelong Consumption of Freeze-Dried Parabacteroides Distasonis Improves Gut Barrier Integrity and Extends Lifespan and Health Span in Drosophila Melanogaster",
+   "journal": "Aging and disease",
+   "year": 2026,
+   "pmid": "42372240",
+   "n": 3,
+   "doi": "10.14336/ad.2025.1584"
+  },
+  {
+   "authors": "Zhao Z, Wang X, et al.",
+   "title": "Integrated Metagenomic and Metabolomic Profiling Identifies Predictive Biomarkers for Overweight Status in a Mongolian Population",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42197333",
+   "n": 4,
+   "doi": "10.3390/microorganisms14050946"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

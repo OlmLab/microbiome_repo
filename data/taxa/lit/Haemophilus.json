@@ -1,0 +1,91 @@
+{
+ "slug": "Haemophilus",
+ "taxon": "g__Haemophilus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Haemophilus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Haemophilus influenzae has served as a model organism in numerous ways over the last century and is famously associated with both asymptomatic colonization and a variety of disease states.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Nontypeable strains are commensals isolated from the upper and lower respiratory tract and are described as a predominant organism of the nasopharyngeal microbiota.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "The organism depends nutritionally on haem and iron at every stage of infection, a dependency proposed as a therapeutic target.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "A systematic review and meta-analysis reassessed age-specific nasopharyngeal and oropharyngeal carriage in childhood before and after Hib vaccination.",
+   "refs": [
+    5
+   ]
+  },
+  {
+   "text": "Reported disease associations include sinusitis, acute otitis media in preschool children, and exacerbations of chronic obstructive pulmonary disease.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Amero K, St Geme JW.",
+   "title": "Haemophilus influenzae: imposter, mucosal pathobiont, and model organism",
+   "journal": "Journal of bacteriology",
+   "year": 2026,
+   "pmid": "42017798",
+   "n": 1,
+   "doi": "10.1128/jb.00083-26"
+  },
+  {
+   "authors": "Duell BL, Su YC, et al.",
+   "title": "Host-pathogen interactions of nontypeable Haemophilus influenzae: from commensal to pathogen",
+   "journal": "FEBS letters",
+   "year": 2016,
+   "pmid": "27508518",
+   "n": 2,
+   "doi": "10.1002/1873-3468.12351"
+  },
+  {
+   "authors": "Khan MN, Ren D, et al.",
+   "title": "Developing a vaccine to prevent otitis media caused by nontypeable Haemophilus influenzae",
+   "journal": "Expert review of vaccines",
+   "year": 2016,
+   "pmid": "26894630",
+   "n": 3,
+   "doi": "10.1586/14760584.2016.1156539"
+  },
+  {
+   "authors": "Atto B, Gell DA, et al.",
+   "title": "Exploiting haem-iron dependence of nontypeable Haemophilus influenzae: an avenue for future therapeutic development",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2025,
+   "pmid": "40444152",
+   "n": 4,
+   "doi": "10.3389/fcimb.2025.1548048"
+  },
+  {
+   "authors": "Taha S, Belkacem N, et al.",
+   "title": "Carriage of Haemophilus influenzae in the Pre- and Post-Hib Vaccine Eras Revisited: A Systematic Review and Meta-Analysis",
+   "journal": "Vaccines",
+   "year": 2026,
+   "pmid": "42347663",
+   "n": 5,
+   "doi": "10.3390/vaccines14060542"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

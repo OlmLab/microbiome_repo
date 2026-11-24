@@ -1,0 +1,81 @@
+{
+ "slug": "Ruminococcus",
+ "taxon": "g__Ruminococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Ruminococcus",
+ "name_note": "GTDB R232 g__Ruminococcus is narrower than the classical genus Ruminococcus: Ruminococcus bromii and Ruminococcus gnavus are placed in other GTDB genera, while this genus keeps Ruminococcus flavefaciens and related uncultured human and rumen Ruminococcus species.",
+ "sentences": [
+  {
+   "text": "Ruminococcus flavefaciens is described as one of the three predominant cellulolytic bacterial species found in the rumen.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Ruminococcus flavefaciens is a major plant cell wall degrading bacterium that assembles its catalytic apparatus into a large multienzyme complex, the cellulosome.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "High throughput screening of protein modules of unknown function identified six previously unidentified carbohydrate binding module families in R. flavefaciens targeting b-glucans, b-mannans and the pectic polysaccharide homogalacturonan.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study identified ruminococcal species in the gut microbiota of human populations that assemble functional cellulosome structures, and reported them abundant among hunter-gatherers and rural populations but rare in industrialized societies.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study in mice reported that supplementation with R. flavefaciens diminished a duloxetine-induced decrease in depressive-like behaviour.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Yeoman CJ, Fields CJ, et al.",
+   "title": "In Vivo Competitions between Fibrobacter succinogenes, Ruminococcus flavefaciens, and Ruminoccus albus in a Gnotobiotic Sheep Model Revealed by Multi-Omic Analyses",
+   "journal": "mBio",
+   "year": 2021,
+   "pmid": "33658330",
+   "n": 1,
+   "doi": "10.1128/mbio.03533-20"
+  },
+  {
+   "authors": "Venditto I, Luis AS, et al.",
+   "title": "Complexity of the Ruminococcus flavefaciens cellulosome reflects an expansion in glycan recognition",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2016,
+   "pmid": "27298375",
+   "n": 2,
+   "doi": "10.1073/pnas.1601558113"
+  },
+  {
+   "authors": "Moraïs S, Winkler S, et al.",
+   "title": "Cryptic diversity of cellulose-degrading gut bacteria in industrialized humans",
+   "journal": "Science (New York, N.Y.)",
+   "year": 2024,
+   "pmid": "38484069",
+   "n": 3,
+   "doi": "10.1126/science.adj9223"
+  },
+  {
+   "authors": "Lukić I, Getselter D, et al.",
+   "title": "Antidepressants affect gut microbiota and Ruminococcus flavefaciens is able to abolish their effects on depressive-like behavior",
+   "journal": "Translational psychiatry",
+   "year": 2019,
+   "pmid": "30967529",
+   "n": 4,
+   "doi": "10.1038/s41398-019-0466-x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

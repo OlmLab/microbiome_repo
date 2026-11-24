@@ -1,0 +1,66 @@
+{
+ "slug": "Roseburia_hominis",
+ "taxon": "s__Roseburia hominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Roseburia hominis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Roseburia hominis is a gut microbial taxon reported to decrease consistently in metabolic disorders and to increase after dietary interventions across five human cohorts.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that work, strain-level genetic variation in Roseburia hominis distinguished metabolic disorder status, and ohyA, encoding an oleate hydratase, was prioritised as a candidate functional determinant.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a randomized crossover trial of two Mediterranean diets in Parkinson's disease, both interventions increased the relative abundance of Roseburia hominis.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A systematic review of 18 studies reported reduced beneficial bacteria, such as Faecalibacterium prausnitzii and Roseburia hominis, in patients with Alzheimer's disease compared with controls.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zhang J, Zhang C, Hsu C, Hu M, Hu L, Tan S, Kasahara K, Ge Y, Zhang S, Wong S, Dalan R, Tan NS, Ali Y, Zheng J, Wang C, Shen X.",
+   "title": "Gut Roseburia hominis -derived 10-hydroxystearic acid alleviates metabolic disorder by restoring hepatic fatty acid metabolism",
+   "journal": "",
+   "year": 2026,
+   "pmid": null,
+   "n": 1,
+   "doi": "10.64898/2026.11.04.764162"
+  },
+  {
+   "authors": "Tosefsky K, Schaffner SL, Lam JST, Wang YN, Keymanesh S, Kuan AJ, Metcalfe-Roach A, Cirstea MS, Sacheli MA, Morelli TF, Yap M, Brigden O, Gill M, Cohen TR, Stukas S, Finlay BB, Appel-Cresswell S.",
+   "title": "Mediterranean-ketogenic vs. medium-chain triglyceride supplemented Mediterranean diet: Effects on the gut-brain-immune axis in Parkinson's disease.",
+   "journal": "iScience",
+   "year": 2026,
+   "pmid": "42992162",
+   "n": 2,
+   "doi": "10.1016/j.isci.2026.117981"
+  },
+  {
+   "authors": "Katsigianni S, Koutsouraki E.",
+   "title": "Gut Microbiota Dysbiosis and Neuroinflammation in Alzheimer's Disease: a Systematic Review of Mechanistic Insights.",
+   "journal": "Molecular neurobiology",
+   "year": 2026,
+   "pmid": "42118364",
+   "n": 3,
+   "doi": "10.1007/s12035-026-05914-9"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

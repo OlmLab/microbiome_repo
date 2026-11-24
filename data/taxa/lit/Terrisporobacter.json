@@ -1,0 +1,70 @@
+{
+ "slug": "Terrisporobacter",
+ "taxon": "g__Terrisporobacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Terrisporobacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Genome analysis of the type strains of three Terrisporobacter species described them as acetogenic bacteria and identified a gene cluster for a reductive proline-dependent Stickland reaction found only in this genus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Case reports describe Terrisporobacter glycolicus as the sole cause of gas gangrene of the upper limb in a young man, and Terrisporobacter muris in the blood of a critically ill elderly man.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "A Mendelian randomization study reported a causal association between a genetically predicted higher abundance of the gut genus Terrisporobacter and an increased risk of papillary thyroid carcinoma.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Böer T, Bengelsdorf FR, Bömeke M, Daniel R, Poehlein A.",
+   "title": "Genome-based metabolic and phylogenomic analysis of three Terrisporobacter species",
+   "journal": "PloS one",
+   "year": 2023,
+   "pmid": "37816002",
+   "n": 1,
+   "doi": "10.1371/journal.pone.0290128"
+  },
+  {
+   "authors": "Vashist T, Kansal S, Rana N, Tandup C, Bala K, Taneja N, Angrup A.",
+   "title": "Genomic characterization of Terrisporobacter glycolicus from a case of monomicrobial gas gangrene",
+   "journal": "Indian journal of medical microbiology",
+   "year": 2026,
+   "pmid": "41999920",
+   "n": 2,
+   "doi": "10.1016/j.ijmmb.2026.101123"
+  },
+  {
+   "authors": "Kang I, Youm DJ, Kim I, Choi J, Yoon J, Yoon SY, Lim CS, Cho MC.",
+   "title": "Identification of Terrisporobacter muris isolated from human blood using whole-genome sequencing: A case report",
+   "journal": "Heliyon",
+   "year": 2024,
+   "pmid": "39386860",
+   "n": 3,
+   "doi": "10.1016/j.heliyon.2024.e38284"
+  },
+  {
+   "authors": "Li J, Shen J, Lu D, Ding E, Wei L.",
+   "title": "Gut microbe Terrisporobacter promotes papillary thyroid carcinoma progression by upregulating the NTRK1 oncogene and fostering an immunosuppressive tumor microenvironment",
+   "journal": "Frontiers in immunology",
+   "year": 2026,
+   "pmid": "41958678",
+   "n": 4,
+   "doi": "10.3389/fimmu.2026.1740257"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

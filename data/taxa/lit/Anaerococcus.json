@@ -1,0 +1,66 @@
+{
+ "slug": "Anaerococcus",
+ "taxon": "g__Anaerococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaerococcus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "The genus Anaerococcus was proposed in a reclassification of species of Peptostreptococcus found by 16S rDNA sequence similarity to be distantly related to that genus's type species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its species are saccharolytic and butyrate-producing, and include the type species Anaerococcus prevotii together with A. tetradius, A. lactolyticus, A. hydrogenalis, A. vaginalis and A. octavius.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a survey of anaerobic bacteria from clinical specimens in three Warsaw hospitals, skin and soft tissue specimens yielded the most isolates, with Anaerococcus vaginalis among the predominant species.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study that profiled diabetes-related foot ulcers by shotgun metagenomic sequencing reported that infection onset was accompanied by increases in obligate anaerobes including Anaerococcus species.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ezaki T, Kawamura Y, et al.",
+   "title": "Proposal of the genera Anaerococcus gen. nov., Peptoniphilus gen. nov. and Gallicola gen. nov. for members of the genus Peptostreptococcus",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2001,
+   "pmid": "11491354",
+   "n": 1,
+   "doi": "10.1099/00207713-51-4-1521"
+  },
+  {
+   "authors": "Kierzkowska M, Lachowicz D, et al.",
+   "title": "Species Distribution and Antimicrobial Susceptibility of Anaerobic Bacteria Recovered from Clinical Specimens in Warsaw University Hospitals",
+   "journal": "Anaerobe",
+   "year": 2026,
+   "pmid": "42551654",
+   "n": 2,
+   "doi": "10.1016/j.anaerobe.2026.103073"
+  },
+  {
+   "authors": "Radzieta M, Malone M, et al.",
+   "title": "Anaerobe-associated microbial shifts at infection onset in diabetes-related foot ulcers revealed by longitudinal metagenomics",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42312035",
+   "n": 3,
+   "doi": "10.3389/fcimb.2026.1812721"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

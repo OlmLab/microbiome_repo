@@ -1,0 +1,77 @@
+{
+ "slug": "Lachnospira_rogosae",
+ "taxon": "s__Lachnospira rogosae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Lactobacillus rogosae",
+ "name_note": "GTDB places this species in Lachnospira, while the genomes carry the NCBI names [Lactobacillus] rogosae and Lachnospira pectinoschiza; the brackets mark a name whose placement in Lactobacillus is not accepted.",
+ "sentences": [
+  {
+   "text": "Lactobacillus rogosae, named by Holdeman and Moore in 1974, is not currently represented by an extant type strain, and existing strains are not available in any established culture collection.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "The matter was referred to the Judicial Commission, which stated that further work is needed to find a derivative of the original type or to designate a neotype.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "A study that sequenced 66 stool samples from Angolan children with sickle cell anaemia reported higher proportions of short-chain fatty acid producing species, including Lactobacillus rogosae, after six months of hydroxyurea.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Genomes placed in this species are also deposited as Lachnospira pectinoschiza, which an in vitro fermentation study with pig colonic digesta described as a pectinolytic microbe stimulated by citrus pectin.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tindall BJ",
+   "title": "The status of the name Lactobacillus rogosae Holdeman and Moore 1974. Opinion 88. Judicial Commission of the International Committee on Systematics of Prokaryotes.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2014,
+   "pmid": "25288658",
+   "n": 1,
+   "doi": "10.1099/ijs.0.069146-0"
+  },
+  {
+   "authors": "Felis GE, Torriani S, et al.",
+   "title": "The status of the species Lactobacillus rogosae Holdeman and Moore 1974. Request for an opinion.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2004,
+   "pmid": "15388761",
+   "n": 2,
+   "doi": "10.1099/ijs.0.63099-0"
+  },
+  {
+   "authors": "Delgadinho M, Ginete C, et al.",
+   "title": "How Hydroxyurea Alters the Gut Microbiome: A Longitudinal Study Involving Angolan Children with Sickle Cell Anemia.",
+   "journal": "International journal of molecular sciences",
+   "year": 2022,
+   "pmid": "36012325",
+   "n": 3,
+   "doi": "10.3390/ijms23169061"
+  },
+  {
+   "authors": "Zhang Y, Mu C, et al.",
+   "title": "Fructo-oligosaccharides promote butyrate production over citrus pectin during in vitro fermentation by colonic inoculum from pig.",
+   "journal": "Anaerobe",
+   "year": 2024,
+   "pmid": "39393609",
+   "n": 4,
+   "doi": "10.1016/j.anaerobe.2024.102919"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

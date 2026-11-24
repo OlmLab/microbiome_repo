@@ -1,0 +1,60 @@
+{
+ "slug": "Dialister_hominis",
+ "taxon": "s__Dialister hominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Dialister hominis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Dialister hominis was described from an obligately anaerobic, Gram-stain-negative rod or coccobacillus isolated from a faecal sample of a healthy Japanese woman.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In co-culture it grew noticeably better with the gut commensal Bacteroides thetaiotaomicron, and adding one percent succinate improved its growth in broth.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "An exploratory longitudinal study of sport participation reported study-group differences in Dialister hominis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Ikeyama N, et al.",
+   "title": "Dialister hominis sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "31661048",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003797"
+  },
+  {
+   "authors": "Sakamoto M, Ikeyama N, et al.",
+   "title": "Growth of succinate consumer Dialister hominis is supported by Bacteroides thetaiotaomicron.",
+   "journal": "Anaerobe",
+   "year": 2022,
+   "pmid": "36113733",
+   "n": 2,
+   "doi": "10.1016/j.anaerobe.2022.102642"
+  },
+  {
+   "authors": "Biazzo M, De Jaegher S, et al.",
+   "title": "Hybrid-sport participation is associated with gut microbiota composition: an exploratory longitudinal study.",
+   "journal": "Frontiers in sports and active living",
+   "year": 2026,
+   "pmid": "42625862",
+   "n": 3,
+   "doi": "10.3389/fspor.2026.1868776"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

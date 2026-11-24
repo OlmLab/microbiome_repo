@@ -1,0 +1,66 @@
+{
+ "slug": "Lancefieldella",
+ "taxon": "g__Lancefieldella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Lancefieldella (formerly Atopobium)",
+ "name_note": "Species of this genus were formerly placed in Atopobium; Lancefieldella parvula was previously known as Atopobium parvulum.",
+ "sentences": [
+  {
+   "text": "Lancefieldella parvula is an anaerobic Gram-positive coccus found in human oral mucosa.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study states that Lancefieldella parvula was previously known as Atopobium parvulum and has been associated with inflammatory bowel disease.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A case report described cultures positive for Lancefieldella parvula from a skin and soft tissue infection following a human bite.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of endodontic infections reported that Lancefieldella was enriched at genus level in root canals with secondary or persistent endodontic infection.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Jiménez Rayas S, Cervantes Hernández MI, Vanegas Rodríguez ÉS, Colin Castro CA, Martínez Zavaleta MG, Franco Cendejas R, López Jácome LE.",
+   "title": "Isolation of Lancefieldella parvula in Secondary Infection from Human Bite: A Rare Occurrence",
+   "journal": "Diagnostic microbiology and infectious disease",
+   "year": 2025,
+   "pmid": "40245570",
+   "n": 1,
+   "doi": "10.1016/j.diagmicrobio.2025.116842"
+  },
+  {
+   "authors": "Weerasingha S, Yan A, Butcher J, Mack DR, Stintzi A.",
+   "title": "Relative abundance of a gut-derived Lancefieldella parvula strain is associated with severe inflammation in IBD",
+   "journal": "Gut pathogens",
+   "year": 2026,
+   "pmid": "43015910",
+   "n": 2,
+   "doi": "10.1186/s13099-026-00865-x"
+  },
+  {
+   "authors": "Park DH, Park OJ, Yoo YJ, Perinpanayagam H, Cho EB, Kim K, Park J, Noblett WC, Kum KY, Han SH.",
+   "title": "Microbiota Association and Profiling of Gingival Sulci and Root Canals of Teeth with Primary or Secondary/Persistent Endodontic Infections",
+   "journal": "Journal of endodontics",
+   "year": 2024,
+   "pmid": "38768706",
+   "n": 3,
+   "doi": "10.1016/j.joen.2024.04.016"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

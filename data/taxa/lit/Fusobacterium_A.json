@@ -1,0 +1,66 @@
+{
+ "slug": "Fusobacterium_A",
+ "taxon": "g__Fusobacterium_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Fusobacterium (Fusobacterium varium and relatives)",
+ "name_note": "Fusobacterium_A is a GTDB split of the classical genus Fusobacterium that holds species such as Fusobacterium varium, F. mortiferum and F. ulcerans, but not F. nucleatum.",
+ "sentences": [
+  {
+   "text": "Fusobacterium varium is described as a Gram-negative, invasive, obligate anaerobe of the gastrointestinal tract microbiota, associated with various clinical conditions including colorectal cancer.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A metagenomic study of faecal samples from 37 patients with ulcerative colitis and 30 healthy controls reported that Fusobacterium varium was significantly enriched in the patients.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The same study reported that germ-free mice colonised with Fusobacterium varium developed more severe dextran sulfate sodium-induced colitis with enhanced mucosal inflammation.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study described Fusobacterium varium as a pathobiont whose interaction with Faecalibacterium prausnitzii is driven by metabolites and direct cell-to-cell contact.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kurentay B, Gusmaulemova A, Utupov T, Auganova D, Tarlykov P, Daniyarov A, Khamzina S, Mamlin M, Kozhakhmetov A, Shalekenov S, Kulmambetova G.",
+   "title": "Draft genome sequence of two <i>Fusobacterium varium</i> strains isolated from patients in Kazakhstan with colorectal cancer",
+   "journal": "Microbiology resource announcements",
+   "year": 2024,
+   "pmid": "39162460",
+   "n": 1,
+   "doi": "10.1128/mra.00205-24"
+  },
+  {
+   "authors": "Wang Q, Xiao H, Liu W, Dang X, Bai Y, Xiao R, Tong L, Wang Y, Li M, Wang S, Pu S, Pei D, Zhang D, Wang X, Hu G, Guo J, Jin X, Qin L, Zhang C, Li Y, Zhang T, Yang J, Wang Q, Sun H.",
+   "title": "Fusobacterium varium Exacerbates Neutrophil-driven Intestinal Inflammation Associated with Succinate-SUCNR1-NF-κB Signaling",
+   "journal": "Inflammation",
+   "year": 2026,
+   "pmid": "42319554",
+   "n": 2,
+   "doi": "10.1007/s10753-026-02547-x"
+  },
+  {
+   "authors": "Hosomi K, Maruyama S, Matsuoka T, Furuta M, Tojima Y, Uchiyama K, Morita M, Kawashima H, Kobayashi T, Kunisawa J.",
+   "title": "Metabolite-mediated interactions and direct contact between Fusobacterium varium and Faecalibacterium prausnitzii",
+   "journal": "Microbiome",
+   "year": 2025,
+   "pmid": "40721806",
+   "n": 3,
+   "doi": "10.1186/s40168-025-02168-w"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

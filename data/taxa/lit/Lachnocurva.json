@@ -1,0 +1,63 @@
+{
+ "slug": "Lachnocurva",
+ "taxon": "g__Lachnocurva",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Candidatus Lachnocurva vaginae (formerly BVAB1)",
+ "name_note": "NCBI names these genomes Candidatus Lachnocurva; the literature calls the single known species Candidatus Lachnocurva vaginae, previously bacterial vaginosis-associated bacterium 1 (BVAB1).",
+ "sentences": [
+  {
+   "text": "Bacterial vaginosis-associated bacterium 1 (BVAB1) is an as-yet uncultured bacterial species found in the human vagina that belongs to the family Lachnospiraceae, renamed Candidatus Lachnocurva vaginae on phylogenetic grounds.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It was one of three unclassified species designated in 2005 that were highly preponderant in the vagina of females with bacterial vaginosis, and can be identified only through metagenomics.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The bacterium is often associated with bacterial vaginosis, a common vaginal disorder that has been shown to increase risk for HIV, Chlamydia trachomatis and Neisseria gonorrhoeae infections and preterm birth.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It has been further associated with the persistence of bacterial vaginosis following metronidazole treatment, increased vaginal inflammation, and adverse obstetrics outcomes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Genomic and metabolomic evidence suggests this candidate species may metabolize D-lactate, produce trimethylamine, one of the chemicals responsible for BV-associated odor, and be motile.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Holm JB, France MT, Ma B, McComb E, Robinson CK, Mehta A, Tallon LJ, Brotman RM, Ravel J.",
+   "title": "Comparative Metagenome-Assembled Genome Analysis of \" Candidatus Lachnocurva vaginae\", Formerly Known as Bacterial Vaginosis-Associated Bacterium-1 (BVAB1).",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2020,
+   "pmid": "32296647",
+   "n": 1,
+   "doi": "10.3389/fcimb.2020.00117"
+  },
+  {
+   "authors": "Osei Sekyere J, Oyenihi AB, Trama J, Adelson ME.",
+   "title": "Species-Specific Analysis of Bacterial Vaginosis-Associated Bacteria.",
+   "journal": "Microbiology spectrum",
+   "year": 2023,
+   "pmid": "37347202",
+   "n": 2,
+   "doi": "10.1128/spectrum.04676-22"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

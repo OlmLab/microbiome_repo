@@ -1,0 +1,51 @@
+{
+ "slug": "Actinomyces_naeslundii",
+ "taxon": "s__Actinomyces naeslundii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Actinomyces naeslundii",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A genomic study set out to clarify the ambiguous taxonomy of A. naeslundii, whose strains were grouped as genospecies I and II and then classified as A. oris and A. naeslundii.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of supragingival plaque from 21 patients with metabolic dysfunction-associated fatty liver disease and 20 healthy individuals reported A. naeslundii enriched in patients and correlated with clinical indices.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The same study reported that oral administration of A. naeslundii aggravated fatty liver phenotypes and induced gut dysbiosis in mice fed a high-fat diet.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Mughal SR, Niazi SA, Do T, Gilbert SC, Didelot X, Radford DR, Beighton D.",
+   "title": "Genomic Diversity among Actinomyces naeslundii Strains and Closely Related Species",
+   "journal": "Microorganisms",
+   "year": 2023,
+   "pmid": "36838222",
+   "n": 1,
+   "doi": "10.3390/microorganisms11020254"
+  },
+  {
+   "authors": "Tu Y, Chen Z, Jing M, Tan W, Huang D, Xu J, Wang M, Li H, Yang Y, Liu X, Hu X, Pan Y, Niu C, Huang Z.",
+   "title": "Supragingival Actinomyces naeslundii aggravates metabolic dysfunction-associated fatty liver disease via the oral-gut axis",
+   "journal": "Journal of oral microbiology",
+   "year": 2026,
+   "pmid": "41816706",
+   "n": 2,
+   "doi": "10.1080/20002297.2026.2639208"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

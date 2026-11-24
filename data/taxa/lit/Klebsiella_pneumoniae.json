@@ -1,0 +1,63 @@
+{
+ "slug": "Klebsiella_pneumoniae",
+ "taxon": "s__Klebsiella pneumoniae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Klebsiella pneumoniae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A review describes Klebsiella pneumoniae as a ubiquitous gut commensal that has become an opportunistic pathogen able to transition to a hypervirulent, multidrug-resistant form.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is listed by the World Health Organization as a critical-priority pathogen.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review reports that hypervirulent Klebsiella pneumoniae causes severe community-acquired infections including pyogenic liver abscess, meningitis, septic endophthalmitis and necrotising fasciitis.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That review states that since the first reports from Taiwan in the 1980s hypervirulent strains have spread globally, with convergent multidrug-resistant strains documented in Asia, North America and Europe.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Hypervirulence is attributed there largely to plasmid-encoded factors, including the hypermucoid regulators rmpA and rmpA2 and siderophores such as aerobactin and salmochelin.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Harini AC, Sundaresan AK, et al.",
+   "title": "Klebsiella pneumoniae in the global AMR: resistance mechanisms and genomic adaptation",
+   "journal": "World journal of microbiology & biotechnology",
+   "year": 2026,
+   "pmid": "41998453",
+   "n": 1,
+   "doi": "10.1007/s11274-026-04951-9"
+  },
+  {
+   "authors": "Roy S, Choudhury K, et al.",
+   "title": "The dual threat of hypervirulent and multidrug-resistant Klebsiella pneumoniae : pathogenesis and prospects for intervention",
+   "journal": "Frontiers in microbiology",
+   "year": 2026,
+   "pmid": "42416023",
+   "n": 2,
+   "doi": "10.3389/fmicb.2026.1837929"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}
