@@ -1,0 +1,81 @@
+{
+ "slug": "Corynebacterium_propinquum",
+ "taxon": "s__Corynebacterium propinquum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Corynebacterium propinquum",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Corynebacterium propinquum is a Gram-positive species that frequently colonises the upper respiratory tract and has been reported to associate strongly with a reduced incidence of respiratory tract infections.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Among 183 Corynebacterium strains isolated from patients undergoing preoperative examinations for cataract surgery, Corynebacterium accolens and Corynebacterium propinquum were the two major species of the nasal cavity, at 44% and 31%.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In synthetic nasal communities, consortia dominated by specific Corynebacterium propinquum strains excluded most other members including Staphylococcus aureus, and the species outcompeted S. aureus in nasal-like conditions.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In nasopharyngeal samples from 96 young children, the genus Corynebacterium showed a consistent inverse relationship with Streptococcus pneumoniae colonisation, and isolated Corynebacterium propinquum inhibited growth of a pneumococcal strain in vitro.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "In mice, nasal priming with Corynebacterium propinquum or Corynebacterium pseudodiphtheriticum was associated with a modulated inflammatory response and a reduced pneumococcal burden in the respiratory tract.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Bergenfelz C, Do P, et al.",
+   "title": "Corynebacteria from the respiratory microbiota modulate inflammatory responses and associate with a reduced pneumococcal burden in the lungs",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2024,
+   "pmid": "39935537",
+   "n": 1,
+   "doi": "10.3389/fcimb.2024.1530178"
+  },
+  {
+   "authors": "Hoshi S, Todokoro D, et al.",
+   "title": "Corynebacterium Species of the Conjunctiva and Nose: Dominant Species and Species-Related Differences of Antibiotic Susceptibility Profiles",
+   "journal": "Cornea",
+   "year": 2020,
+   "pmid": "32773445",
+   "n": 2,
+   "doi": "10.1097/ico.0000000000002445"
+  },
+  {
+   "authors": "Navarro-Diaz M, Bertram K, et al.",
+   "title": "Community composition drives metabolic competition and Staphylococcus aureus colonization resistance in synthetic nasal communities",
+   "journal": "The ISME journal",
+   "year": 2026,
+   "pmid": "42873131",
+   "n": 3,
+   "doi": "10.1093/ismejo/wrag268"
+  },
+  {
+   "authors": "Xu L, Earl J, et al.",
+   "title": "Nasopharyngeal microbiome composition associated with Streptococcus pneumoniae colonization suggests a protective role of Corynebacterium in young children",
+   "journal": "PloS one",
+   "year": 2021,
+   "pmid": "34529731",
+   "n": 4,
+   "doi": "10.1371/journal.pone.0257207"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

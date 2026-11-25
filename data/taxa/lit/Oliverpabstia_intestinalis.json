@@ -1,0 +1,60 @@
+{
+ "slug": "Oliverpabstia_intestinalis",
+ "taxon": "s__Oliverpabstia intestinalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Oliverpabstia intestinalis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A study of galacto-oligosaccharides reported that this prebiotic enriched specific Lachnospiraceae species, among them Oliverpabstia intestinalis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a dietary intervention study, Oliverpabstia was reported among taxa within the family Lachnospiraceae that were depleted after the intervention.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A lifestyle intervention study reported increased levels of several genera described as butyrate-producing and anti-inflammatory, including Oliverpabstia.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Harthoorn LF, Heyse J, et al.",
+   "title": "Galacto-Oligosaccharides Exert Bifidogenic Effects at Capsule-Compatible Ultra-Low Doses.",
+   "journal": "Metabolites",
+   "year": 2025,
+   "pmid": "40863149",
+   "n": 1,
+   "doi": "10.3390/metabo15080530"
+  },
+  {
+   "authors": "Sala-Climent M, Bu K, et al.",
+   "title": "Targeted Microbial Shifts and Metabolite Profiles Were Associated with Clinical Response to an Anti-Inflammatory Diet in Osteoarthritis.",
+   "journal": "Nutrients",
+   "year": 2025,
+   "pmid": "40944120",
+   "n": 2,
+   "doi": "10.3390/nu17172729"
+  },
+  {
+   "authors": "Shehata F, Dwyer KM, et al.",
+   "title": "Impact of a Lifestyle Intervention on Gut Microbiome Composition: A Quasi-Controlled Before-and-After Analysis.",
+   "journal": "Metabolites",
+   "year": 2025,
+   "pmid": "41295278",
+   "n": 3,
+   "doi": "10.3390/metabo15110692"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

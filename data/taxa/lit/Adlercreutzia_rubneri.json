@@ -1,0 +1,57 @@
+{
+ "slug": "Adlercreutzia_rubneri",
+ "taxon": "s__Adlercreutzia rubneri",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Adlercreutzia rubneri",
+ "name_note": "Most genomes GTDB places in this species carry the NCBI name Adlercreutzia equolifaciens, a closely related named species, so papers may use either name.",
+ "sentences": [
+  {
+   "text": "Adlercreutzia rubneri was proposed as a novel species for strain ResAG-91, an anaerobic, Gram-positive, rod-shaped bacterium isolated from a faecal sample of a male human volunteer.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Strain ResAG-91 was able to metabolize the stilbene resveratrol into dihydroresveratrol, and its genome size is 2.8 Mbp with a G+C content of 63.3 mol%.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The closely related species Adlercreutzia equolifaciens was reported, in shotgun metagenomic analyses, to be depleted in patients with liver diseases such as non-alcoholic fatty liver disease compared with healthy controls.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The same study reported that Adlercreutzia equolifaciens possesses anti-inflammatory properties in vitro and in vivo in a humanized mouse model.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Stoll DA, Danylec N, Soukup ST, Hetzer B, Kulling SE, Huch M.",
+   "title": "Adlercreutzia rubneri sp. nov., a resveratrol-metabolizing bacterium isolated from human faeces and emended description of the genus Adlercreutzia.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2021,
+   "pmid": "34495823",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.004987"
+  },
+  {
+   "authors": "Oñate FP, Chamignon C, Burz SD, Lapaque N, Monnoye M, Philippe C, Bredel M, Chêne L, Farin W, Paillarse JM, Boursier J, Ratziu V, Mousset PY, Doré J, Gérard P, Blottière HM.",
+   "title": "Adlercreutzia equolifaciens Is an Anti-Inflammatory Commensal Bacterium with Decreased Abundance in Gut Microbiota of Patients with Metabolic Liver Disease.",
+   "journal": "International journal of molecular sciences",
+   "year": 2023,
+   "pmid": "37569608",
+   "n": 2,
+   "doi": "10.3390/ijms241512232"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

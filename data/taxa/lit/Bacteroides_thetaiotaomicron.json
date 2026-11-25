@@ -1,0 +1,73 @@
+{
+ "slug": "Bacteroides_thetaiotaomicron",
+ "taxon": "s__Bacteroides thetaiotaomicron",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides thetaiotaomicron",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bacteroides thetaiotaomicron is a symbiont of the human gut; gut Bacteroides are metabolic generalists that deploy dozens of polysaccharide utilization loci to forage dietary and host-derived glycans.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "A study identified more than 100 genes expressed by Bacteroides thetaiotaomicron during growth on different O-glycan substrates and characterised 33 glycoside hydrolases, of which 13 were sufficient for mucin degradation.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In the same work, competition experiments in vivo showed that several enzymes targeting mucin capping structures are central to gut colonization.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A genome-scale CRISPR interference screen of mucin utilization in this species identified 1,256 genes whose fitness contribution depended on the growth condition.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Deleting the RNA-binding protein RbpB compromised colonization of the mouse gut in a diet-dependent manner.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Rüttiger AS, Ryan D, et al.",
+   "title": "The global RNA-binding protein RbpB is a regulator of polysaccharide utilization in Bacteroides thetaiotaomicron.",
+   "journal": "Nature communications",
+   "year": 2025,
+   "pmid": "39747016",
+   "n": 1,
+   "doi": "10.1038/s41467-024-55383-8"
+  },
+  {
+   "authors": "Schaus SR, Jin C, et al.",
+   "title": "Degradation of mucin O-glycans by a human gut symbiont requires a complex enzyme repertoire and promotes colonization.",
+   "journal": "Cell host & microbe",
+   "year": 2026,
+   "pmid": "43020071",
+   "n": 2,
+   "doi": "10.1016/j.chom.2026.10.008"
+  },
+  {
+   "authors": "Kim K, Lee J, et al.",
+   "title": "Determination of Gene-Level Fitness Contributions Across the Mucin-Utilization Network of Bacteroides thetaiotaomicron.",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "year": 2026,
+   "pmid": "42829948",
+   "n": 3,
+   "doi": "10.1002/advs.78118"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

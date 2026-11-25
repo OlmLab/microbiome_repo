@@ -1,0 +1,82 @@
+{
+ "slug": "Gemmiger_formicilis",
+ "taxon": "s__Gemmiger formicilis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Gemmiger formicilis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Gemmiger formicilis is a strictly anaerobic bacterium whose morphology and physiology were studied in isolates from chicken caeca.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its cells are highly pleomorphic, have a trilaminar cell wall like Gram-negative bacteria, and grow by polar swelling that resembles budding.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species also lives in the human gut, where studies count it among the butyrate-producing commensals.",
+   "refs": [
+    2,
+    4
+   ]
+  },
+  {
+   "text": "In an integrated analysis, higher fruit fibre intake was associated with more Gemmiger formicilis and with butyric-acid-producing enzymes.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In adults, its abundance increased together with other commensals after consumption of water kefir.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Salanitro JP, Muirhead PA, et al.",
+   "title": "Morphological and physiological characteristics of Gemmiger formicilis isolated from chicken ceca",
+   "journal": "Applied and environmental microbiology",
+   "year": 1976,
+   "pmid": "984834",
+   "n": 1,
+   "doi": "10.1128/aem.32.4.623-632.1976"
+  },
+  {
+   "authors": "Rashwan HH, Rashwan HH, et al.",
+   "title": "Unravelling novel microbial players in the breast tissue of TNBC patients: a meta-analytic perspective",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2025,
+   "pmid": "40925904",
+   "n": 2,
+   "doi": "10.1038/s41522-025-00816-5"
+  },
+  {
+   "authors": "Wan Y, Alessa HB, et al.",
+   "title": "Intake of Fiber From Different Food Sources and Type 2 Diabetes Risk: An Integrated Analysis of Epidemiological and Multiomic Data",
+   "journal": "Diabetes care",
+   "year": 2026,
+   "pmid": "41920710",
+   "n": 3,
+   "doi": "10.2337/dc25-2957"
+  },
+  {
+   "authors": "de Mel R, Al Khafaji AH, et al.",
+   "title": "Changes in gut microbiota composition following water kefir consumption in healthy adults",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "pmid": "42174008",
+   "n": 4,
+   "doi": "10.1038/s41598-026-53645-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

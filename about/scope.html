@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scope — Microbiome Repo</title>
+<meta name="description" content="What the catalog holds — human-associated microbial communities sequenced by shotgun DNA or RNA sequencing, every body site and age — how projects are admitted, and which human projects of the registry are left out and why.">
+<meta name="repo-release" content="data-v1.34.2">
+<meta name="repo-release-id" content="R2026.43">
+<link rel="canonical" href="https://microbiome-repo.colorado.edu/about/scope.html">
+<meta name="repo-package-version" content="1.34.2">
+<meta name="repo-build-date" content="2026-11-24">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="../static/icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../static/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../static/icons/apple-touch-icon.png">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Insights <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../atlas/taxa/index.html">Taxon explorer</a><a role="menuitem" href="../atlas/vanish.html">VANISH / BloSSUM</a><a role="menuitem" href="../atlas/replication.html">Replication of published findings</a><a role="menuitem" href="../atlas/index.html">Taxon map</a><a role="menuitem" href="../atlas/pca.html">PCA of community profiles</a><a role="menuitem" href="../atlas/measures.html">Profile coverage and quality</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html" class="active">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a><span class="navhead">Browse</span><a role="menuitem" href="../registry/index.html">Registry</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, cohorts, authors…" aria-label="Search projects, cohorts, authors and accessions" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="index.html">About</a> › Scope</div>
+
+<h1>Scope: from the registry to the catalog</h1>
+<p class="lead">The <b>registry</b> is every study we screened in the public archives (64,369). The <b>catalog</b> is the part of it we curated: 5,086 projects with per-sample metadata. The catalog holds human-associated microbial communities sequenced by <b>shotgun DNA or RNA sequencing</b>, from every body site and at every age, plus sequenced mock and standard communities used as benchmarks. DNA and RNA data sets are kept apart: each run is labelled DNA or RNA, and each project carries the nucleic acid of its data sets.</p>
+<p class="small">A project is admitted when a classification of its archive record, sample attributes, read check and linked paper finds human-associated communities sequenced by shotgun. Out of scope are non-human hosts, environmental samples, amplicon sequencing of any gene (even when filed as WGS or RNA-Seq), human genome or human tissue transcriptome sequencing, single-cell libraries, cultured isolates and virus genome surveillance. Within an admitted project, amplicon and single-cell data sets are left out run by run, and a sample without any in-scope data set is left out.</p>
+<details class="about-page"><summary>About this page</summary><p>Every sample of a catalog project is kept with its own body-site code (<span class="mono">body_site_code</span>; <span class="mono">body_site_class</span> = primary when a human site is stated, unknown when none is). A sample without a site attribute in a project that sampled one body site takes that site, with the basis recorded (<span class="mono">body_site_basis = study_single_site</span>).</p></details>
+<h2 id="funnel">Funnel</h2>
+<table class="tbl small" style="max-width:720px"><tbody>
+<tr><td>studies screened in ENA, NCBI SRA and DDBJ</td><td class="num">64,369</td></tr><tr><td>host human = yes or mixed</td><td class="num">7,385</td></tr><tr><td>… of them in the catalog</td><td class="num">4,653</td></tr><tr><td>catalog projects (4,653 from the screen above, 433 added outside the screened set)</td><td class="num">5,086</td></tr><tr><td>catalog samples</td><td class="num">813,356</td></tr>
+</tbody></table>
+<h2 id="ages">Age categories</h2>
+<p class="small">Age at collection in days → category: <span class="mono">neonate</span> 0–28 d · <span class="mono">infant</span> 29–1100 d · <span class="mono">child</span> 1101–4382 d · <span class="mono">adolescent</span> 4383–6574 d · <span class="mono">adult</span> 6575–23741 d · <span class="mono">elderly</span> 23742–∞ d. Without a numeric age the category falls back to the sample's stated life stage, then to a cohort-wide statement from the paper text or abstract, then to the project's primary life stage; the basis is recorded per sample.</p>
+<h2>Human projects of the registry not in the catalog (2,732)</h2>
+<p class="small">Registry projects with a human host (yes or mixed) that are not in the catalog. They stay in the registry with their evidence and enter the catalog when a later cycle admits them; the table counts why each one is out.</p>
+<table class="tbl small" style="max-width:640px"><thead><tr><th>why it is not in the catalog</th><th class="num">studies</th><th class="num">runs</th></tr></thead><tbody>
+<tr><td>not shotgun DNA or RNA sequencing</td><td class="num">1,379</td><td class="num">132,547</td></tr><tr><td>not classified yet</td><td class="num">1,345</td><td class="num">113,650</td></tr><tr><td>no catalog samples in this release</td><td class="num">8</td><td class="num">366</td></tr>
+</tbody></table>
+<p class="small"><a href="../registry/index.html?catalog=out&amp;host=yes,mixed#explorer">Browse these projects in the registry explorer</a>, where you can filter, sort and open each one for its reason.</p>
+<p class="small">The registry is divided into 12 scopes — see <a href="../registry/index.html#scopes">Registry › Scopes</a>.</p>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.43"><span class="mono">R2026.43</span></a> · package <span class="mono">1.34.2</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.43.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to the text it was read from, with its source and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.34.2',release:'data-v1.34.2',releaseId:'R2026.43',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

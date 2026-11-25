@@ -1,0 +1,57 @@
+{
+ "slug": "Corynebacterium_kefirresidentii",
+ "taxon": "s__Corynebacterium kefirresidentii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Corynebacterium kefirresidentii",
+ "name_note": "GTDB also places in this species single genomes deposited at NCBI as Corynebacterium aurimucosum and Corynebacterium tuberculostearicum; published work treats C. kefirresidentii and C. tuberculostearicum as members of one species complex.",
+ "sentences": [
+  {
+   "text": "Corynebacterium kefirresidentii was reported as a novel Corynebacterium species from a strain, SB, isolated from kefir grains collected in Germany.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative genomics study describes Corynebacterium as a dominant member of the human skin microbiome and places this species, with Corynebacterium tuberculostearicum, in a narrow species complex.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study reported through metagenomics that individual species of the complex can associate with specific body sites.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It also reported that Corynebacterium kefirresidentii increases in relative abundance during atopic dermatitis flares, and that most genomes of the species encode a colocalized set of putative virulence genes.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Blasche S, Kim Y, Patil KR",
+   "title": "Draft Genome Sequence of  Corynebacterium kefirresidentii  SB, Isolated from Kefir",
+   "journal": "Genome announcements",
+   "year": 2017,
+   "pmid": "28912312",
+   "n": 1,
+   "doi": "10.1128/genomea.00877-17"
+  },
+  {
+   "authors": "Salamzade R, Swaney MH, Kalan LR",
+   "title": "Comparative Genomic and Metagenomic Investigations of the Corynebacterium tuberculostearicum Species Complex Reveals Potential Mechanisms Underlying Associations To Skin Health and Disease",
+   "journal": "Microbiology spectrum",
+   "year": 2023,
+   "pmid": "36541755",
+   "n": 2,
+   "doi": "10.1128/spectrum.03578-22"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

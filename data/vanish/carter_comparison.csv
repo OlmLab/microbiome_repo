@@ -1,0 +1,15 @@
+source,level,contrast,stratum,list,n_ours,n_carter_mapped,n_carter_tested_here,n_overlap,share_ours_in_carter
+model,species,C1,adult,VANISH,69,58,39,24,0.3478
+model,species,C1,adult,BloSSUM,37,63,58,21,0.5676
+model,species,C2,adult,VANISH,50,58,42,21,0.42
+model,species,C2,adult,BloSSUM,22,63,52,11,0.5
+model,species,C3,adult,VANISH,66,58,41,24,0.3636
+model,species,C3,adult,BloSSUM,29,63,58,17,0.5862
+model,species,C4,adult,VANISH,60,58,36,22,0.3667
+model,species,C4,adult,BloSSUM,7,63,58,5,0.7143
+model,species,C4,infant,VANISH,11,58,17,1,0.0909
+model,species,C4,infant,BloSSUM,2,63,32,1,0.5
+simple,species,hdi_band,adult,VANISH,22,58,58,14,0.6364
+simple,species,hdi_band,adult,BloSSUM,5,63,63,4,0.8
+simple,species,hdi_band,infant,VANISH,18,58,58,2,0.1111
+simple,species,hdi_band,infant,BloSSUM,0,63,63,0,

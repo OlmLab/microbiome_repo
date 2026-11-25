@@ -1,0 +1,57 @@
+{
+ "slug": "Faecalibacterium_prausnitzii_I",
+ "taxon": "s__Faecalibacterium prausnitzii_I",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium prausnitzii",
+ "name_note": "GTDB splits Faecalibacterium prausnitzii into several species and s__Faecalibacterium prausnitzii_I is one of them; the cited papers and the NCBI names of these genomes use the undivided name Faecalibacterium prausnitzii.",
+ "sentences": [
+  {
+   "text": "Faecalibacterium prausnitzii is described as a core commensal of the healthy human gut that exhibits potent anti-inflammatory properties and supports intestinal barrier integrity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported marked depletion of Faecalibacterium prausnitzii in the gut microbiota of influenza patients, with its abundance negatively correlated with disease severity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a murine influenza model, oral administration of Faecalibacterium prausnitzii alleviated lung injury, and butyrate was identified as the principal metabolite mediating that protection.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study gave Faecalibacterium prausnitzii by daily oral gavage to mice fed an ethanol liquid diet, to test preventive effects against chronic alcoholic liver injury.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Guo R, Zhang T, Li F.",
+   "title": "Preventive effects of Faecalibacterium prausnitzii on chronic alcoholic liver injury and associated alterations in gut microbiota and host phenotypes in mice.",
+   "journal": "Journal of applied microbiology",
+   "year": 2026,
+   "pmid": "42622353",
+   "n": 1,
+   "doi": "10.1093/jambio/lxag208"
+  },
+  {
+   "authors": "Mao Z, Wang L, Zhuo C, Huang M, Ni J, Liu C, Chen W, Bao J, Lou B, Yu H, Zheng S, Chen Y.",
+   "title": "Faecalibacterium prausnitzii in the gut protects against acute lung injury in influenza through butyrate educated reparative CD4<sup>+</sup>T cells.",
+   "journal": "Microbiome",
+   "year": 2026,
+   "pmid": "42934798",
+   "n": 2,
+   "doi": "10.1186/s40168-026-02486-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

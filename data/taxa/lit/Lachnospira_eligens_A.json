@@ -1,0 +1,81 @@
+{
+ "slug": "Lachnospira_eligens_A",
+ "taxon": "s__Lachnospira eligens_A",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Lachnospira eligens",
+ "name_note": "GTDB splits the classical species into parts; s__Lachnospira eligens_A holds genomes that carry the NCBI name Lachnospira eligens.",
+ "sentences": [
+  {
+   "text": "Lachnospira eligens is a member of the family Lachnospiraceae detected in shotgun metagenomic data from Chinese adults.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In 684 Chinese adults, abundance of Lachnospira eligens was positively associated with lumbar bone mass density, independent of age, diet habits and lifestyles.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Regular runners were reported to have increased relative abundance of carbohydrate-fermenting, short-chain fatty acid-producing species including Lachnospira eligens.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In a cobalt wire-induced rat epilepsy model, daily oral gavage of Lachnospira eligens reduced grade 4-5 seizure frequency, prolonged seizure latency and increased serum butyrate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In one cohort analysis, Lachnospira eligens was among species replicated as associated with dyslipidemia in an external validation cohort.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Li H, Niu R, He W, Lai H, Zou S, Zou Q, Gui Y, Zhang T, Feng G, Xing Y, Gou D, Yang X.",
+   "title": "<i>Lachnospira eligens</i> attenuates epileptogenesis via gut-brain axis regulation of blood-brain barrier integrity and neuroinflammation.",
+   "journal": "Theranostics",
+   "year": 2026,
+   "pmid": "41356796",
+   "n": 1,
+   "doi": "10.7150/thno.116959"
+  },
+  {
+   "authors": "Li Y, Shi Z, Zhang X, Ren H, Ji H, Yang F, Fu Z, Kong X, Cheng X, Li J, Wu K, Zhong Y, Zhong H, Ji L.",
+   "title": "Metagenomic analysis revealing links between age, gut microbiota and bone loss in Chinese adults.",
+   "journal": "npj metabolic health and disease",
+   "year": 2025,
+   "pmid": "40604305",
+   "n": 2,
+   "doi": "10.1038/s44324-025-00060-7"
+  },
+  {
+   "authors": "Ai X, Liu R, Lv Y, Chen L, Duan R, Ma X, Li L, Ding H, Shen H, Hu Y, Zhu X, Zhang Y.",
+   "title": "Functional signatures of the gut microbiome in middle-aged regular runners: insights from a metagenomic study.",
+   "journal": "Frontiers in physiology",
+   "year": 2026,
+   "pmid": "42500599",
+   "n": 3,
+   "doi": "10.3389/fphys.2026.1826138"
+  },
+  {
+   "authors": "Zeng L, Yu B, Zeng P, Duoji Z, Zuo H, Lian J, Yang T, Dai Y, Feng Y, Yu P, Yang J, Yang S, Dou Q.",
+   "title": "Mediation effect and metabolic pathways of gut microbiota in the associations between lifestyles and dyslipidemia.",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2025,
+   "pmid": "40436871",
+   "n": 4,
+   "doi": "10.1038/s41522-025-00721-x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

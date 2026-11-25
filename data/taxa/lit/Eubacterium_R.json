@@ -1,0 +1,63 @@
+{
+ "slug": "Eubacterium_R",
+ "taxon": "g__Eubacterium_R",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Eubacterium",
+ "name_note": "GTDB divides the classical genus Eubacterium into several genera, of which g__Eubacterium_R is one, so literature on Eubacterium covers a broader group than this GTDB genus.",
+ "sentences": [
+  {
+   "text": "Eubacterium is a phylogenetically and phenotypically diverse genus of gut bacteria whose members form part of the core human gut microbiome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes several members of the genus as butyrate producers, and butyrate as important for energy homeostasis, colonic motility, immunomodulation and suppression of inflammation in the gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same review reports that Eubacterium species carry out bile acid and cholesterol transformations in the gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That review also states that gut dysbiosis and a modified representation of Eubacterium species have been linked with various human disease states.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of human primary gastrointestinal B cell lymphomas reported a microbiota profile with decreased symbiotic microbes, particularly the genus Eubacterium.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Mukherjee A, Lordan C, Ross RP, Cotter PD.",
+   "title": "Gut microbes from the phylogenetically diverse genus Eubacterium and their various contributions to gut health",
+   "journal": "Gut microbes",
+   "year": 2020,
+   "pmid": "32835590",
+   "n": 1,
+   "doi": "10.1080/19490976.2020.1802866"
+  },
+  {
+   "authors": "Lu H, Xu X, Fu D, Gu Y, Fan R, Yi H, He X, Wang C, Ouyang B, Zhao P, Wang L, Xu P, Cheng S, Wang Z, Zou D, Han L, Zhao W.",
+   "title": "Butyrate-producing Eubacterium rectale suppresses lymphomagenesis by alleviating the TNF-induced TLR4/MyD88/NF-κB axis",
+   "journal": "Cell host & microbe",
+   "year": 2022,
+   "pmid": "35952646",
+   "n": 2,
+   "doi": "10.1016/j.chom.2022.07.003"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

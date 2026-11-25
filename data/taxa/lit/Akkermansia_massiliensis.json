@@ -1,0 +1,66 @@
+{
+ "slug": "Akkermansia_massiliensis",
+ "taxon": "s__Akkermansia massiliensis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Akkermansia massiliensis",
+ "name_note": "Many catalog genomes GTDB assigns to this species carry the NCBI name Akkermansia muciniphila, reflecting the recent separation of Akkermansia massiliensis from that species.",
+ "sentences": [
+  {
+   "text": "Akkermansia massiliensis is a recently described species of the genus Akkermansia, which belongs to the phylum Verrucomicrobiota and whose best-studied member is the human gut commensal Akkermansia muciniphila.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review reports that Akkermansia massiliensis has emerged as the second most prevalent Akkermansia species in the human gut, and notes indications that more than one Akkermansia phylotype can co-exist in a subject.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A strain of Akkermansia massiliensis isolated from the faeces of a healthy human donor was reported to be tolerant to bile, to show no aspects of virulence, and to engraft the rat gastrointestinal tract.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A genome-wide association comparison reported a coincident association of multiple sclerosis with Akkermansia massiliensis at the FcRL3 gene, supporting that lower abundance may contribute to predisposition.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kumar R, Hasselwander O, et al.",
+   "title": "Akkermansia beyond muciniphila - emergence of new species Akkermansia massiliensis sp. nov.",
+   "journal": "Microbiome research reports",
+   "year": 2024,
+   "pmid": "39421258",
+   "n": 1,
+   "doi": "10.20517/mrr.2024.28"
+  },
+  {
+   "authors": "Pitt J, Bauter MR, et al.",
+   "title": "Safety evaluation of Akkermansia massiliensis sp. nov. DSM 33459.",
+   "journal": "Toxicology reports",
+   "year": 2025,
+   "pmid": "40491581",
+   "n": 2,
+   "doi": "10.1016/j.toxrep.2025.102042"
+  },
+  {
+   "authors": "Orrù V, Marongiu M, et al.",
+   "title": "Potential role of Akkermansia massiliensis in multiple sclerosis protection by the FcRL3 gene.",
+   "journal": "Genes and immunity",
+   "year": 2026,
+   "pmid": "42436285",
+   "n": 3,
+   "doi": "10.1038/s41435-026-00404-3"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

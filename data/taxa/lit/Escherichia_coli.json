@@ -1,0 +1,81 @@
+{
+ "slug": "Escherichia_coli",
+ "taxon": "s__Escherichia coli",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Escherichia coli",
+ "name_note": "The GTDB species s__Escherichia coli is broader than the NCBI species: it also contains genomes that NCBI labels Shigella sonnei and Shigella flexneri.",
+ "sentences": [
+  {
+   "text": "Escherichia coli is described as the most predominant facultative anaerobic commensal bacterium of the vertebrate intestinal microbiota.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review states that E. coli accompanies humans from birth as a commensal of the gut microbiota, while some strains cause intestinal and extraintestinal diseases.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same review calls it the best-studied single-celled organism in the world and a model organism for the molecular mechanisms of key life processes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A narrative review reports that particular pathotypes, among them adherent-invasive and diffusely adherent E. coli, contribute to the development and progression of inflammatory bowel disease.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In a Southeast Asian cohort, intestinal carriage of E. coli sequence-type 131 was associated with compositional shifts in the faecal microbiome without a reduction in species alpha-diversity.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sokołowska B.",
+   "title": "140 years of the model organism Escherichia coli as the \"workhorse of molecular biology and biomedicine\"",
+   "journal": "Postepy biochemii",
+   "year": 2026,
+   "pmid": "41979642",
+   "n": 1,
+   "doi": "10.18388/k2p7j927"
+  },
+  {
+   "authors": "Vaittinada Ayar P, Bridier-Nahmias A, et al.",
+   "title": "Effects of septic shock vasopressors on the fitness of Escherichia coli",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "pmid": "42203850",
+   "n": 2,
+   "doi": "10.1038/s41598-026-52743-w"
+  },
+  {
+   "authors": "Aceto GM, Falasca K, et al.",
+   "title": "Deciphering the Implications of Escherichia coli in Inflammatory Bowel Disease: From Symbiont to Pathogen",
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2026,
+   "pmid": "42198674",
+   "n": 3,
+   "doi": "10.3390/pathogens15050548"
+  },
+  {
+   "authors": "Low A, Yang Z, et al.",
+   "title": "Microbiome features associated with persistent intestinal carriages of Escherichia coli ST131 in a Southeast Asian cohort study",
+   "journal": "Nature communications",
+   "year": 2026,
+   "pmid": "42680742",
+   "n": 4,
+   "doi": "10.1038/s41467-026-75524-5"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

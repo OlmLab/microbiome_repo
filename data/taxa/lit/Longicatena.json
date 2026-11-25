@@ -1,0 +1,51 @@
+{
+ "slug": "Longicatena",
+ "taxon": "g__Longicatena",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Longicatena",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Longicatena caecimuris has been isolated from a healthy human Japanese faecal sample, and the complete genome sequence of that strain was reported.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That genome was described as a circular chromosome of 3,103,757 base pairs with a GC content of 38.3 per cent.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of 1134 children aged three to six years reported lower Longicatena caecimuris in stool linked to obesity, using shotgun metagenomic sequencing.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ogata Y, Sakamoto M, Ohkuma M, Hattori M, Suda W",
+   "title": "Complete Genome Sequence of Longicatena caecimuris Strain 3BBH23, Isolated from Healthy Japanese Feces",
+   "journal": "Microbiology resource announcements",
+   "year": 2021,
+   "pmid": "34016676",
+   "n": 1,
+   "doi": "10.1128/mra.00282-21"
+  },
+  {
+   "authors": "Vázquez-Bolea N, Mora-Martínez C, Cuervo M, Martinez JA, Gil-Campos M, Leis R, Babio N, Moreno LA, Corella D, Moreira Echeverria A, Aguilera CM, Castro-Collado C, Picáns-Leis R, Hernández-Cacho A, Miguel-Berges ML, Martin-Climent P, Jurado-Castro JM, Vázquez-Cobela R, Plaza-Diaz J, Rueda-De Torre I, Pastor-Villaescusa B, de la Torre-Aguilar MJ, Salas-Salvadó J, Sanz Y, Navas-Carretero S",
+   "title": "Gut microbiota composition and derived enterotypes are associated with ponderal status in preschool children. Childhood obesity risk assessment longitudinal study (CORALS) cohort",
+   "journal": "Clinical nutrition (Edinburgh, Scotland)",
+   "year": 2026,
+   "pmid": "41499920",
+   "n": 2,
+   "doi": "10.1016/j.clnu.2025.106558"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

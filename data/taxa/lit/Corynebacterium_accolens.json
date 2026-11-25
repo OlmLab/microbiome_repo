@@ -1,0 +1,82 @@
+{
+ "slug": "Corynebacterium_accolens",
+ "taxon": "s__Corynebacterium accolens",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Corynebacterium accolens",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Corynebacterium accolens is a lipid-requiring species described as benign and as a common colonizer of the human nose.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "It is listed among the most common human nasal Corynebacterium species, a genus reported to be globally ubiquitous in human nasal microbiota across the lifespan.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported that it hydrolyses human skin surface triacylglycerols using the lipase LipS1 and releases oleic acid, which inhibits pneumococcus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same study observed that Corynebacterium species were overrepresented in children free of Streptococcus pneumoniae, a common pediatric nasal colonizer.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Another study described it as the predominant species of the healthy human nasal microbiota, with its relative abundance decreased in the context of chronic rhinosinusitis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Bomar L, Brugger SD, et al.",
+   "title": "Corynebacterium accolens Releases Antipneumococcal Free Fatty Acids from Human Nostril and Skin Surface Triacylglycerols",
+   "journal": "mBio",
+   "year": 2016,
+   "pmid": "26733066",
+   "n": 1,
+   "doi": "10.1128/mbio.01725-15"
+  },
+  {
+   "authors": "Tran TH, F Escapa I, et al.",
+   "title": "Metabolic capabilities are highly conserved among human nasal-associated Corynebacterium species in pangenomic analyses",
+   "journal": "mSystems",
+   "year": 2024,
+   "pmid": "39508593",
+   "n": 2,
+   "doi": "10.1128/msystems.01132-24"
+  },
+  {
+   "authors": "Menberu MA, Liu S, et al.",
+   "title": "Corynebacterium accolens Has Antimicrobial Activity against Staphylococcus aureus and Methicillin-Resistant S. aureus Pathogens Isolated from the Sinonasal Niche of Chronic Rhinosinusitis Patients",
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2021,
+   "pmid": "33672855",
+   "n": 3,
+   "doi": "10.3390/pathogens10020207"
+  },
+  {
+   "authors": "Huang S, Hon K, et al.",
+   "title": "Corynebacterium accolens inhibits Staphylococcus aureus induced mucosal barrier disruption",
+   "journal": "Frontiers in microbiology",
+   "year": 2022,
+   "pmid": "36187946",
+   "n": 4,
+   "doi": "10.3389/fmicb.2022.984741"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

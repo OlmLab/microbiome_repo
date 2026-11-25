@@ -1,0 +1,51 @@
+{
+ "slug": "Lentihominibacter",
+ "taxon": "g__Lentihominibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Lentihominibacter",
+ "name_note": "Many genomes GTDB places in Lentihominibacter carry the older NCBI names Eubacterium or Candidatus Allocopromorpha.",
+ "sentences": [
+  {
+   "text": "Lentihominibacter is a bacterial genus detected in human faecal microbiota.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Among 346 older Korean adults grouped by cognitive status, the Alzheimer's disease group uniquely harboured Lentihominibacter.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A 12-week randomised placebo-controlled trial in healthy adults reported enrichment of Lentihominibacter hominis in gut microbiota profiling.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Son SJ, Wu X, Roh HW, Cho YH, Hong S, Nam YJ, Hong CH, Park S.",
+   "title": "Distinct gut microbiota profiles and network properties in older Korean individuals with subjective cognitive decline, mild cognitive impairment, and Alzheimer's disease.",
+   "journal": "Alzheimer's research & therapy",
+   "year": 2025,
+   "pmid": "40783766",
+   "n": 1,
+   "doi": "10.1186/s13195-025-01820-9"
+  },
+  {
+   "authors": "Jung SH, Hwang S, Seo KH, Park Y, Kim MJ, Kim H.",
+   "title": "Bioconversion-Based Postbiotics Enhance Muscle Strength and Modulate Gut Microbiota in Healthy Individuals: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+   "journal": "Nutrients",
+   "year": 2025,
+   "pmid": "41470885",
+   "n": 2,
+   "doi": "10.3390/nu17243937"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

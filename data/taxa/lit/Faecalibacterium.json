@@ -1,0 +1,67 @@
+{
+ "slug": "Faecalibacterium",
+ "taxon": "g__Faecalibacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Faecalibacterium (Faecalibacterium prausnitzii)",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Faecalibacterium prausnitzii is the most abundant bacterium of the human intestinal microbiota in healthy adults, representing over five percent of the bacterial population.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species contains at least two phylogroups whose distribution differs between healthy subjects and patients with gut disorders.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Anti-inflammatory effects of the bacterium were shown in cell models and in chemically induced colitis in mice.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A reduced abundance has been reported in Crohn disease, where it was associated with higher risk of postoperative recurrence, and in other intestinal disorders.",
+   "refs": [
+    3,
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Miquel S, Martín R, et al.",
+   "title": "Faecalibacterium prausnitzii and human intestinal health",
+   "journal": "Current opinion in microbiology",
+   "year": 2013,
+   "pmid": "23831042",
+   "n": 1,
+   "doi": "10.1016/j.mib.2013.06.003"
+  },
+  {
+   "authors": "Lopez-Siles M, Duncan SH, et al.",
+   "title": "Faecalibacterium prausnitzii: from microbiology to diagnostics and prognostics",
+   "journal": "The ISME journal",
+   "year": 2017,
+   "pmid": "28045459",
+   "n": 2,
+   "doi": "10.1038/ismej.2016.176"
+  },
+  {
+   "authors": "Sokol H, Pigneur B, et al.",
+   "title": "Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium identified by gut microbiota analysis of Crohn disease patients",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2008,
+   "pmid": "18936492",
+   "n": 3,
+   "doi": "10.1073/pnas.0804812105"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "Ruminococcus_F",
+ "taxon": "g__Ruminococcus_F",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Ruminococcus",
+ "name_note": "GTDB splits the classical genus Ruminococcus into several genera, of which Ruminococcus_F is one; the cited findings are about Ruminococcus in the broad sense.",
+ "sentences": [
+  {
+   "text": "Ruminococcus is a bacterial genus that is dominant in the human gut and whose species fall in the families Lachnospiraceae and Oscillospiraceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "An analysis of more than 9,000 Ruminococcus metagenome-assembled genomes from over 5,000 subjects reported significant links between prevalence of species and subspecies and geographic origin, age, lifestyle and disease.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study reported that Ruminococcus species from Lachnospiraceae encode carbohydrate-active enzymes potentially involved in metabolism of human N- and O-glycans, while those from Oscillospiraceae appeared more adapted to fiber metabolism.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A structural-proteomics study reported an expanded set of putative cellulosome-producing Ruminococcus species, including six previously unrecognized human symbionts; cellulosomes let anaerobic bacteria degrade recalcitrant plant polysaccharides.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Valentino V, De Filippis F, et al.",
+   "title": "Genomic features and prevalence of Ruminococcus species in humans are associated with age, lifestyle, and disease.",
+   "journal": "Cell reports",
+   "year": 2024,
+   "pmid": "39615045",
+   "n": 1,
+   "doi": "10.1016/j.celrep.2024.115018"
+  },
+  {
+   "authors": "Minor C, Takayesu A, et al.",
+   "title": "AlphaFold-driven structural proteomics reveals extensive cellulosome machinery in human ruminococcal symbionts.",
+   "journal": "mBio",
+   "year": 2026,
+   "pmid": "42489485",
+   "n": 2,
+   "doi": "10.1128/mbio.01295-26"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

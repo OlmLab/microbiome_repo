@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Downloads & releases — Microbiome Repo</title>
+<meta name="description" content="Microbiome Repo: a curated, evidence-linked catalog of human-associated shotgun metagenomes and metatranscriptomes — every body site, all ages — with per-sample metadata, and a registry of every screened public study.">
+<meta name="repo-release" content="data-v1.34.2">
+<meta name="repo-release-id" content="R2026.43">
+<link rel="canonical" href="https://microbiome-repo.colorado.edu/downloads/index.html">
+<meta name="repo-package-version" content="1.34.2">
+<meta name="repo-build-date" content="2026-11-24">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="../static/icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../static/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../static/icons/apple-touch-icon.png">
+<link rel="stylesheet" href="../static/site.css">
+
+
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Insights <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../atlas/taxa/index.html">Taxon explorer</a><a role="menuitem" href="../atlas/vanish.html">VANISH / BloSSUM</a><a role="menuitem" href="../atlas/replication.html">Replication of published findings</a><a role="menuitem" href="../atlas/index.html">Taxon map</a><a role="menuitem" href="../atlas/pca.html">PCA of community profiles</a><a role="menuitem" href="../atlas/measures.html">Profile coverage and quality</a></div></div>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html" class="active">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a><span class="navhead">Browse</span><a role="menuitem" href="../registry/index.html">Registry</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, cohorts, authors…" aria-label="Search projects, cohorts, authors and accessions" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › Downloads &amp; releases</div>
+
+<h1>Downloads &amp; releases</h1>
+<p class="lead">Data package <b>1.34.2</b> (release R2026.43, built 2026-11-24).</p>
+<details class="about-page"><summary>About this page</summary><p>Start with <span class="mono">catalog_studies.parquet</span> (one row per catalog project) and <span class="mono">catalog_sample_metadata_wide.parquet</span> (one row per sample); the evidence behind every value is in <span class="mono">catalog_sample_determinations.parquet</span>; the registry of every screened public study is <span class="mono">registry_studies.parquet</span>. Row counts are table rows: the catalog tables keep the rows retired in earlier releases (<span class="mono">release_retired</span> set) next to the current ones. Column definitions: <a href="../docs/DATA_DICTIONARY.html">data dictionary</a>.</p></details>
+<div class="btns"><a class="btn" href="https://github.com/OlmLab/microbiome_repo-data/releases/download/data-v1.34.2/data_package_v1.34.2.zip">Whole package: data_package_v1.34.2.zip (203.3 MB)</a> <a class="btn sec" href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">GitHub Release data-v1.34.2</a></div>
+
+
+<h2>Catalog tables</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows (incl. retired)</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/package/CATALOG_SANDPIPER_REPORT.md" download>CATALOG_SANDPIPER_REPORT.md</a></td><td class="num"></td><td class="num">5.4 KB</td><td class="small">How the Sandpiper profiles of the catalog samples were assembled and filtered. <a href="../docs/CATALOG_SANDPIPER_REPORT.html">Read it as a page.</a></td></tr><tr><td><a class="mono" href="../data/package/catalog_exposure_items.parquet" download>catalog_exposure_items.parquet</a></td><td class="num">883</td><td class="num">127.7 KB</td><td class="small">Routine exposure items read from the papers (concept, scale person / group / cohort / place, summary and a verbatim quote).</td></tr><tr><td><a class="mono" href="../data/package/catalog_metadata_contradictions.parquet" download>catalog_metadata_contradictions.parquet</a></td><td class="num">8,840</td><td class="num">113.4 KB</td><td class="small">Samples whose sources disagree; neither value is published.</td></tr><tr><td><a class="mono" href="../data/package/catalog_pass_coverage.csv" download>catalog_pass_coverage.csv</a></td><td class="num">5,086</td><td class="num">337.2 KB</td><td class="small">Per project: which metadata sources were searched (archive record, supplementary table, paper text, abstract) and which did not apply.</td></tr><tr><td><a class="mono" href="../data/package/catalog_rejected_values.parquet" download>catalog_rejected_values.parquet</a></td><td class="num">3,081</td><td class="num">67.3 KB</td><td class="small">Values taken out by the plausibility checks: the original row with the rule and the reason it was rejected.</td></tr><tr><td><a class="mono" href="../data/package/catalog_relatedness.parquet" download>catalog_relatedness.parquet</a></td><td class="num">6,540</td><td class="num">344.6 KB</td><td class="small">One row per family or shared-setting unit with two or more sampled people.</td></tr><tr><td><a class="mono" href="../data/package/catalog_relations.parquet" download>catalog_relations.parquet</a></td><td class="num">1,122</td><td class="num">34.1 KB</td><td class="small">Explicit relations between sampled people (mother–child, twins, partners, donor–recipient) with evidence.</td></tr><tr><td><a class="mono" href="../data/package/catalog_runs.parquet" download>catalog_runs.parquet</a></td><td class="num">997,068</td><td class="num">41.3 MB</td><td class="small">One row per sequencing run of a catalog sample: library strategy / source / layout, platform, reads and bases, nucleic_acid (dna / rna) and the measured rRNA read share where a read check ran.</td></tr><tr><td><a class="mono" href="../data/catalog_sample_determinations.parquet" download>catalog_sample_determinations.parquet</a></td><td class="num">5,326,776</td><td class="num">54.6 MB</td><td class="small">Long form: one row per sample × field with route, scope, confidence, evidence_source, evidence_locator and a verbatim evidence quote (≤ 12 words).</td></tr><tr><td><a class="mono" href="../data/package/catalog_sample_determinations_conflicts.parquet" download>catalog_sample_determinations_conflicts.parquet</a></td><td class="num">184,012</td><td class="num">3.6 MB</td><td class="small">Values that lost a precedence decision against the published value (kept for audit).</td></tr><tr><td><a class="mono" href="../data/catalog_sample_metadata_wide.parquet" download>catalog_sample_metadata_wide.parquet</a></td><td class="num">873,877</td><td class="num">29.7 MB</td><td class="small">Start here (samples). One row per sample: identifiers, body-site code/class, DNA / RNA data sets (has_dna, has_rna), age_category (+ basis), and every field with its source and confidence.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_gap_by_cause.csv" download>catalog_sandpiper_gap_by_cause.csv</a></td><td class="num">10</td><td class="num">795 B</td><td class="small">Why current samples have no community profile, counted per reason (summary of catalog_sandpiper_unprofiled).</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_pca_loadings.parquet" download>catalog_sandpiper_pca_loadings.parquet</a></td><td class="num">386</td><td class="num">37.5 KB</td><td class="small">Genus loadings of the CLR-PCA.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_pca_scores.parquet" download>catalog_sandpiper_pca_scores.parquet</a></td><td class="num">404,318</td><td class="num">14.3 MB</td><td class="small">CLR-PCA scores of the Sandpiper genus profiles (Insights › PCA of community profiles).</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_pca_variance.csv" download>catalog_sandpiper_pca_variance.csv</a></td><td class="num">5</td><td class="num">532 B</td><td class="small">Variance explained per principal component.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_sample_summary.parquet" download>catalog_sandpiper_sample_summary.parquet</a></td><td class="num">415,757</td><td class="num">28.1 MB</td><td class="small">Per profiled sample: Sandpiper QC flags, richness and the metadata used by the Insights pages.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_study_coverage.csv" download>catalog_sandpiper_study_coverage.csv</a></td><td class="num">5,086</td><td class="num">911.9 KB</td><td class="small">Per project: samples with a Sandpiper profile.</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_study_panels.parquet" download>catalog_sandpiper_study_panels.parquet</a></td><td class="num">37,267</td><td class="num">467.3 KB</td><td class="small">Per-project mean top-12 genera over profiled samples (project-page composition bar).</td></tr><tr><td><a class="mono" href="../data/package/catalog_sandpiper_unprofiled.parquet" download>catalog_sandpiper_unprofiled.parquet</a></td><td class="num">397,599</td><td class="num">3.5 MB</td><td class="small">One row per current catalog sample without a Sandpiper community profile, with the reason where it can be known.</td></tr><tr><td><a class="mono" href="../data/catalog_studies.parquet" download>catalog_studies.parquet</a></td><td class="num">5,389</td><td class="num">6.1 MB</td><td class="small">Start here (projects). One row per catalog project: body sites, nucleic acid (DNA / RNA) of its data sets, registry classification, linked papers, methods and setting read from the paper, per-field coverage (cov_*), age-category and health-condition distributions, curated depth and source.</td></tr><tr><td><a class="mono" href="../data/package/catalog_study_papers.parquet" download>catalog_study_papers.parquet</a></td><td class="num">7,826</td><td class="num">722.6 KB</td><td class="small">Papers judged by the link audit to have generated (own_data) or reused (reuse) a project&#39;s data.</td></tr>
+</tbody></table>
+<p class="small">Row counts include rows retired in earlier releases. This release has 5,086 projects and 813,356 samples: add <span class="mono">WHERE release_retired IS NULL</span> to a query to get them.</p>
+
+<h2>Registry tables</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows (incl. retired)</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/registry_authors.parquet" download>registry_authors.parquet</a></td><td class="num">52,110</td><td class="num">3.2 MB</td><td class="small">Study × author × paper rows for the registry studies (Europe PMC author lists).</td></tr><tr><td><a class="mono" href="../data/package/registry_bioproject_records.parquet" download>registry_bioproject_records.parquet</a></td><td class="num">4,217</td><td class="num">911.4 KB</td><td class="small">NCBI BioProject records (title, description, umbrella, organisation) for the registry studies.</td></tr><tr><td><a class="mono" href="../data/registry_biosamples.parquet" download>registry_biosamples.parquet</a></td><td class="num">637,397</td><td class="num">4.2 MB</td><td class="small">Registry sample tier: one row per harvested BioSample with normalised body site, life stage / age, sex, country.</td></tr><tr><td><a class="mono" href="../data/registry_studies.parquet" download>registry_studies.parquet</a></td><td class="num">64,369</td><td class="num">8.9 MB</td><td class="small">Registry tier: one row per screened ENA study with a human-associated metagenome signal — host, body sites (UBERON-anchored codes), life stages, assay, access, classification stage, scope memberships, harvested-sample roll-ups.</td></tr><tr><td><a class="mono" href="../data/registry_study_papers.parquet" download>registry_study_papers.parquet</a></td><td class="num">6,998</td><td class="num">649.9 KB</td><td class="small">Study ↔ paper links of the registry studies (PMID/PMCID/DOI, relation own_data/unsure, method, confidence).</td></tr><tr><td><a class="mono" href="../data/package/registry_universe_audit.csv" download>registry_universe_audit.csv</a></td><td class="num">35</td><td class="num">9.2 KB</td><td class="small">Completeness check of the screening: per archive query, how many studies the archive reports and how many were pulled.</td></tr>
+</tbody></table>
+
+
+<h2>Release documents</h2>
+<table class="tbl small"><thead><tr><th>file</th><th class="num">rows (incl. retired)</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td><a class="mono" href="../data/package/CHANGELOG.md" download>CHANGELOG.md</a></td><td class="num"></td><td class="num">61.3 KB</td><td class="small">Version history. <a href="../docs/CHANGELOG.html">Read it as a page.</a></td></tr><tr><td><a class="mono" href="../data/package/DATA_DICTIONARY.md" download>DATA_DICTIONARY.md</a></td><td class="num"></td><td class="num">119.3 KB</td><td class="small">Columns and vocabularies of every table; a full generated schema for the wide tables. <a href="../docs/DATA_DICTIONARY.html">Read it as a page.</a></td></tr><tr><td><a class="mono" href="../data/package/README.md" download>README.md</a></td><td class="num"></td><td class="num">18.9 KB</td><td class="small">Package overview and how to read a value. <a href="../docs/README.html">Read it as a page.</a></td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.31.md" download>RELEASE_NOTES_R2026.31.md</a></td><td class="num"></td><td class="num">7.4 KB</td><td class="small">Per-field diff of release R2026.31 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.32.md" download>RELEASE_NOTES_R2026.32.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.32 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.33.md" download>RELEASE_NOTES_R2026.33.md</a></td><td class="num"></td><td class="num">6.2 KB</td><td class="small">Per-field diff of release R2026.33 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.34.md" download>RELEASE_NOTES_R2026.34.md</a></td><td class="num"></td><td class="num">6.0 KB</td><td class="small">Per-field diff of release R2026.34 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.35.md" download>RELEASE_NOTES_R2026.35.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.35 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.36.md" download>RELEASE_NOTES_R2026.36.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.36 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.37.md" download>RELEASE_NOTES_R2026.37.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.37 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.38.md" download>RELEASE_NOTES_R2026.38.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.38 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.39.md" download>RELEASE_NOTES_R2026.39.md</a></td><td class="num"></td><td class="num">6.0 KB</td><td class="small">Per-field diff of release R2026.39 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.40.md" download>RELEASE_NOTES_R2026.40.md</a></td><td class="num"></td><td class="num">6.7 KB</td><td class="small">Per-field diff of release R2026.40 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.41.md" download>RELEASE_NOTES_R2026.41.md</a></td><td class="num"></td><td class="num">6.4 KB</td><td class="small">Per-field diff of release R2026.41 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.42.md" download>RELEASE_NOTES_R2026.42.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.42 against the one before it (generated).</td></tr><tr><td><a class="mono" href="../data/package/RELEASE_NOTES_R2026.43.md" download>RELEASE_NOTES_R2026.43.md</a></td><td class="num"></td><td class="num">5.9 KB</td><td class="small">Per-field diff of release R2026.43 against the one before it (generated). The notes of this release are rendered below.</td></tr><tr><td><a class="mono" href="../data/package/VERSION.json" download>VERSION.json</a></td><td class="num"></td><td class="num">16.3 KB</td><td class="small">Package version, release id, release tag, build date, sha256 + rows per table.</td></tr><tr><td><a class="mono" href="../data/package/getting_started.ipynb" download>getting_started.ipynb</a></td><td class="num"></td><td class="num">49.3 KB</td><td class="small">Notebook: load, filter, join, plot.</td></tr><tr><td><a class="mono" href="../data/package/releases.csv" download>releases.csv</a></td><td class="num">47</td><td class="num">4.2 KB</td><td class="small">Release registry: one row per release id (release date, package version, tags, DOI, headline counts).</td></tr>
+</tbody></table>
+
+
+<p class="small">The package holds 55 further files (88.5 MB): the tables of this resource's earlier birth-cohort curation, and records of the build. They are not listed here, because their content is also in the catalog tables; they are in the whole-package zip above (<a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">GitHub release</a>) and on Zenodo, and the package README describes them.</p>
+<h2>Release assets not on this site</h2>
+<table class="tbl small"><thead><tr><th>file</th><th>description</th></tr></thead><tbody>
+<tr><td class="mono">registry_runs_v1.34.2.parquet</td><td class="small">Registry run tier: one row per sequencing run of every registry study (≈ 2 M rows, ≈ 80 MB) — GitHub Release asset data-v1.34.2. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">release page</a></td></tr><tr><td class="mono">microbiome_repo_v1.34.2.sqlite</td><td class="small">All package tables as one SQLite database — Release asset. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">release page</a></td></tr><tr><td class="mono">catalog_sandpiper_sample_genus_v1.34.2_part*.parquet</td><td class="small">Genus-level Sandpiper relative abundances for every profiled catalog sample (long table: sample_key, genus, relabund, coverage; ≈ 185 MB in &lt; 90 MB parts, concatenate the parts) — Release asset. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">release page</a></td></tr><tr><td class="mono">catalog_sandpiper_sample_species_v1.34.2_part*.parquet</td><td class="small">Species-level Sandpiper relative abundances (relabund ≥ 0.001; ≈ 200 MB in parts) — Release asset. — <a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">release page</a></td></tr>
+</tbody></table>
+<h2>Site data files</h2>
+<table class="tbl small"><thead><tr><th>path</th><th class="num">files</th><th class="num">size</th><th>description</th></tr></thead><tbody>
+<tr><td class="mono">data/catalog_sample_metadata_wide.parquet</td><td class="num">1</td><td class="num">29.7 MB</td><td class="small">Sample table loaded by the explorer (one row per catalog sample)</td></tr><tr><td class="mono">data/catalog_studies.parquet</td><td class="num">1</td><td class="num">6.1 MB</td><td class="small">Project table loaded by the explorer</td></tr><tr><td class="mono">data/catalog_sample_determinations.parquet</td><td class="num">1</td><td class="num">54.6 MB</td><td class="small">Evidence rows (sample × field with verbatim quote)</td></tr><tr><td class="mono">data/registry_studies.parquet</td><td class="num">1</td><td class="num">8.9 MB</td><td class="small">Registry tier, loaded by the registry explorer</td></tr><tr><td class="mono">data/studies/&lt;PRJ&gt;.csv.gz|.parquet</td><td class="num">5086</td><td class="num">25.3 MB</td><td class="small">Per-project sample tables (gzip CSV + parquet)</td></tr><tr><td class="mono">data/studies/&lt;PRJ&gt;_determinations.csv.gz</td><td class="num">5086</td><td class="num">35.3 MB</td><td class="small">Per-study evidence rows (gzip CSV, mtime 0)</td></tr><tr><td class="mono">data/cohorts/&lt;COH&gt;.csv.gz|.parquet</td><td class="num">240</td><td class="num">16.7 MB</td><td class="small">Per-cohort sample tables (cohorts of several projects)</td></tr><tr><td class="mono">data/catalog_cohorts.csv</td><td class="num">1</td><td class="num">23.2 KB</td><td class="small">Cohort list (id, name, studies, papers)</td></tr><tr><td class="mono">data/studies_index.json</td><td class="num">1</td><td class="num">2.6 MB</td><td class="small">Project index used by the project table</td></tr><tr><td class="mono">data/contribute_worklist.json</td><td class="num">1</td><td class="num">775.5 KB</td><td class="small">Contribution worklist (one object per open project)</td></tr><tr><td class="mono">data/package/</td><td class="num">39</td><td class="num">95.1 MB</td><td class="small">The catalog, registry and release files of the package, file by file</td></tr><tr><td class="mono">authors/idx/&lt;letter&gt;.json</td><td class="num">27</td><td class="num">1.5 MB</td><td class="small">Author index shards</td></tr>
+</tbody></table>
+<p class="small">Integrity: <a href="../data/manifest.json">manifest.json</a> (SHA-256 of every file under <span class="mono">/data/</span>) · <a href="../data/VERSION.json">VERSION.json</a> (package tables with row counts and SHA-256). Licence: curated tables (<span class="mono">catalog_*</span> and <span class="mono">registry_*</span>) are released under CC-BY-4.0; archive metadata remains under INSDC terms; Sandpiper community profiles under CC-BY.</p>
+
+<div class="cite note" id="cite-text">
+<b>Cite this release.</b> <i>Microbiome Repo, release R2026.43 (data package 1.34.2), Olm Lab, University of Colorado Boulder, 2026-11-24. DOI 10.5281/zenodo.23087712</i>
+<div class="small" style="margin-top:.3rem">
+<a href="https://zenodo.org/badge/latestdoi/1389758854"><img src="https://zenodo.org/badge/1389758854.svg" alt="Zenodo DOI badge (latest release of OlmLab/microbiome_repo-data)" height="20"></a>
+ Concept DOI (all versions, resolves to the latest archived release): <a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a>.
+</div>
+<div class="small" style="margin-top:.3rem">Please also cite the archives, papers and external resources the values come from: <a href="../about/sources.html">Sources &amp; acknowledgements</a>.</div>
+</div>
+<h2 id="releases">Releases</h2>
+<p class="small">Every release is frozen and archived as a GitHub Release of the data repository (tag <span class="mono">data-v&lt;package&gt;</span>), with a matching site tag (<span class="mono">site-v&lt;package&gt;</span>) and a Zenodo version DOI. Every fact row carries <span class="mono">release_added</span> / <span class="mono">release_retired</span>; the <a href="../changes/index.html">Changes</a> page lists what changed in each release.</p>
+<table class="tbl compact" id="release-table"><thead><tr><th>Release</th><th>Date</th><th>Package</th><th>Data tag</th><th>Site tag</th><th>DOI</th><th class="num">Projects</th><th class="num">Samples</th><th class="num">Sample × field values</th><th>Sandpiper</th><th>Changes</th></tr></thead><tbody>
+<tr class="final" id="rel-R2026.43"><td class="mono">R2026.43 <b>current</b></td><td>2026-11-24</td><td class="mono">1.34.2</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.2">data-v1.34.2</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.34.2">site-v1.34.2</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.23087712">10.5281/zenodo.23087712</a> <span class="small">(concept DOI)</span></td>
+<td class="num">5086</td><td class="num">813356</td><td class="num">4814518</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.43.html">changes</a></td></tr><tr id="rel-R2026.42"><td class="mono">R2026.42</td><td>2026-11-23</td><td class="mono">1.34.1</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.1">data-v1.34.1</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.34.1">site-v1.34.1</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24508002">10.5281/zenodo.24508002</a></td>
+<td class="num">5086</td><td class="num">813356</td><td class="num">4814518</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.42.html">changes</a></td></tr><tr id="rel-R2026.41"><td class="mono">R2026.41</td><td>2026-11-14</td><td class="mono">1.34.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.34.0">data-v1.34.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.34.0">site-v1.34.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24241062">10.5281/zenodo.24241062</a></td>
+<td class="num">5086</td><td class="num">813356</td><td class="num">4814518</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.41.html">changes</a></td></tr><tr id="rel-R2026.40"><td class="mono">R2026.40</td><td>2026-11-14</td><td class="mono">1.33.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.33.0">data-v1.33.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.33.0">site-v1.33.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24224449">10.5281/zenodo.24224449</a></td>
+<td class="num">5050</td><td class="num">805008</td><td class="num">4774077</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.40.html">changes</a></td></tr><tr id="rel-R2026.39"><td class="mono">R2026.39</td><td>2026-11-13</td><td class="mono">1.32.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.32.0">data-v1.32.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.32.0">site-v1.32.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24209247">10.5281/zenodo.24209247</a></td>
+<td class="num">5051</td><td class="num">806037</td><td class="num">4726562</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.39.html">changes</a></td></tr><tr id="rel-R2026.38"><td class="mono">R2026.38</td><td>2026-11-13</td><td class="mono">1.31.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.31.0">data-v1.31.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.31.0">site-v1.31.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24202832">10.5281/zenodo.24202832</a></td>
+<td class="num">5051</td><td class="num">806037</td><td class="num">4726562</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.38.html">changes</a></td></tr><tr id="rel-R2026.37"><td class="mono">R2026.37</td><td>2026-11-11</td><td class="mono">1.30.1</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.30.1">data-v1.30.1</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.30.1">site-v1.30.1</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24145188">10.5281/zenodo.24145188</a></td>
+<td class="num">5052</td><td class="num">806054</td><td class="num">4766769</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.37.html">changes</a></td></tr><tr id="rel-R2026.36"><td class="mono">R2026.36</td><td>2026-11-06</td><td class="mono">1.30.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.30.0">data-v1.30.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.30.0">site-v1.30.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.24023463">10.5281/zenodo.24023463</a></td>
+<td class="num">5052</td><td class="num">806054</td><td class="num">4766769</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.36.html">changes</a></td></tr><tr id="rel-R2026.35"><td class="mono">R2026.35</td><td>2026-11-03</td><td class="mono">1.29.1</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.29.1">data-v1.29.1</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.29.1">site-v1.29.1</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.23938350">10.5281/zenodo.23938350</a></td>
+<td class="num">5053</td><td class="num">810820</td><td class="num">4789060</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.35.html">changes</a></td></tr><tr id="rel-R2026.34"><td class="mono">R2026.34</td><td>2026-11-02</td><td class="mono">1.29.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.29.0">data-v1.29.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.29.0">site-v1.29.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.23921440">10.5281/zenodo.23921440</a></td>
+<td class="num">5053</td><td class="num">810820</td><td class="num">4789110</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.34.html">changes</a></td></tr><tr id="rel-R2026.33"><td class="mono">R2026.33</td><td>2026-11-01</td><td class="mono">1.28.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.28.0">data-v1.28.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.28.0">site-v1.28.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.23867237">10.5281/zenodo.23867237</a></td>
+<td class="num">5048</td><td class="num">810133</td><td class="num">4767709</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.33.html">changes</a></td></tr><tr id="rel-R2026.32"><td class="mono">R2026.32</td><td>2026-10-31</td><td class="mono">1.27.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.27.0">data-v1.27.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.27.0">site-v1.27.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.23862733">10.5281/zenodo.23862733</a></td>
+<td class="num">5048</td><td class="num">810133</td><td class="num">4699901</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.32.html">changes</a></td></tr><tr id="rel-R2026.31"><td class="mono">R2026.31</td><td>2026-10-30</td><td class="mono">1.26.0</td>
+<td class="mono"><a href="https://github.com/OlmLab/microbiome_repo-data/releases/tag/data-v1.26.0">data-v1.26.0</a></td><td class="mono"><a href="https://github.com/OlmLab/microbiome_repo/releases/tag/site-v1.26.0">site-v1.26.0</a></td>
+<td><a href="https://doi.org/10.5281/zenodo.23836670">10.5281/zenodo.23836670</a></td>
+<td class="num">5048</td><td class="num">810133</td><td class="num">4528857</td><td class="mono">2.0.0</td>
+<td><a href="../changes/R2026.31.html">changes</a></td></tr>
+</tbody></table>
+<p class="small">Earlier package versions stay archived as GitHub Releases of the data repository and on Zenodo (the concept DOI resolves to the newest version). A version DOI is minted when Zenodo archives the release tag.</p>
+<h2 id="release-notes">Release notes</h2>
+
+<details open id="notes-R2026.43"><summary><b>R2026.43</b> — package 1.34.2, 2026-11-24 (<a href="../releases/RELEASE_NOTES_R2026.43.md">markdown</a>)</summary>
+<div class="doc"><h2 id="nR2026-43-release-notes-r202643-data-package-1342-2026-11-24">Release notes — R2026.43 (data package 1.34.2, 2026-11-24)</h2>
+<p>Generated by <code>catalog.release.release_notes</code> from package 1.34.1 (R2026.42, 2026-11-23) → 1.34.2. Every number below is computed from the two packages; dates come from VERSION.json.</p>
+<h3 id="nR2026-43-catalog-catalog_-tables">Catalog (<code>catalog_*</code> tables)</h3>
+<table>
+<thead>
+<tr>
+<th>entity</th>
+<th>1.34.1</th>
+<th>1.34.2</th>
+<th>added</th>
+<th>removed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>catalog studies</td>
+<td>5,086</td>
+<td>5,086</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>catalog samples</td>
+<td>813,356</td>
+<td>813,356</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>sample × field values (current)</td>
+<td>4,814,518</td>
+<td>4,814,518</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>catalog runs (<code>catalog_runs</code>)</td>
+<td>997,068</td>
+<td>997,068</td>
+<td>+0</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Per-field coverage over all catalog samples (<code>catalog_sample_metadata_wide</code>):</p>
+<table>
+<thead>
+<tr>
+<th>field</th>
+<th>n 1.34.1</th>
+<th>cov</th>
+<th>n 1.34.2</th>
+<th>cov</th>
+<th>Δ n</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>body_site_code</code></td>
+<td>744,034</td>
+<td>91.5%</td>
+<td>744,034</td>
+<td>91.5%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>age_category</code></td>
+<td>462,157</td>
+<td>56.8%</td>
+<td>462,157</td>
+<td>56.8%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>country</code></td>
+<td>722,396</td>
+<td>88.8%</td>
+<td>722,396</td>
+<td>88.8%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>health_condition</code></td>
+<td>365,683</td>
+<td>45.0%</td>
+<td>365,683</td>
+<td>45.0%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>subject_id</code></td>
+<td>496,928</td>
+<td>61.1%</td>
+<td>496,928</td>
+<td>61.1%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>age_at_collection_days</code></td>
+<td>193,615</td>
+<td>23.8%</td>
+<td>193,615</td>
+<td>23.8%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>sex</code></td>
+<td>250,653</td>
+<td>30.8%</td>
+<td>250,653</td>
+<td>30.8%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>detailed_location</code></td>
+<td>355,590</td>
+<td>43.7%</td>
+<td>355,590</td>
+<td>43.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>lifestyle</code></td>
+<td>22,415</td>
+<td>2.8%</td>
+<td>22,415</td>
+<td>2.8%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>collection_date</code></td>
+<td>639,297</td>
+<td>78.6%</td>
+<td>639,297</td>
+<td>78.6%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>intervention</code></td>
+<td>52,221</td>
+<td>6.4%</td>
+<td>52,221</td>
+<td>6.4%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>antibiotic_exposure</code></td>
+<td>116,959</td>
+<td>14.4%</td>
+<td>116,959</td>
+<td>14.4%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>bmi</code></td>
+<td>59,701</td>
+<td>7.3%</td>
+<td>59,701</td>
+<td>7.3%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>timepoint_label</code></td>
+<td>201,109</td>
+<td>24.7%</td>
+<td>201,109</td>
+<td>24.7%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>comparison_group</code></td>
+<td>61,674</td>
+<td>7.6%</td>
+<td>61,674</td>
+<td>7.6%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>diet</code></td>
+<td>20,863</td>
+<td>2.6%</td>
+<td>20,863</td>
+<td>2.6%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>smoking_status</code></td>
+<td>16,983</td>
+<td>2.1%</td>
+<td>16,983</td>
+<td>2.1%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>medication</code></td>
+<td>12,110</td>
+<td>1.5%</td>
+<td>12,110</td>
+<td>1.5%</td>
+<td>+0</td>
+</tr>
+<tr>
+<td><code>stool_consistency_bristol</code></td>
+<td>3,038</td>
+<td>0.4%</td>
+<td>3,038</td>
+<td>0.4%</td>
+<td>+0</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-43-registry-registry_studies">Registry (<code>registry_studies</code>)</h3>
+<table>
+<thead>
+<tr>
+<th>entity</th>
+<th>1.34.1</th>
+<th>1.34.2</th>
+<th>added</th>
+<th>removed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>registry studies</td>
+<td>64,369</td>
+<td>64,369</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<h3 id="nR2026-43-findings-applied-in-this-release-value_history-rows-new-since-the-previous-package">Findings applied in this release (<code>value_history</code> rows new since the previous package)</h3>
+<p>value_history 46,587 → 46,587 rows; <strong>0 new rows</strong>.</p>
+<p><code>APPLY_FINDINGS_DIFF.md</code> is shipped in the package.</p>
+<h3 id="nR2026-43-schema-changes">Schema changes</h3>
+<p>New files: none
+Removed files: none</p>
+<p>No column changes in tables present in both packages.</p>
+<p>VERSION.json: <code>package_version</code>=1.34.2, <code>previous_release_id</code>=R2026.42, <code>release_id</code>=R2026.43, <code>release_tag</code>=data-v1.34.2</p>
+<h3 id="nR2026-43-which-release-each-value-came-from">Which release each value came from</h3>
+<p><code>sample_determinations_all.parquet</code>: 619,647 current + 1,316 retired rows (0 retired in R2026.43). Rule for retired rows: value_history.status in ['superseded', 'moved_to_parent_biosamples', 'recommitted_out_of_scope_host', 'recommitted_out_of_scope_isolate'].</p>
+<table>
+<thead>
+<tr>
+<th>release_added (current values)</th>
+<th>rows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0.0</td>
+<td>605,707</td>
+</tr>
+<tr>
+<td>1.1.0</td>
+<td>3,632</td>
+</tr>
+<tr>
+<td>1.2.0</td>
+<td>9,559</td>
+</tr>
+<tr>
+<td>R2026.3</td>
+<td>749</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>release_retired (retired values)</th>
+<th>rows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.1.0</td>
+<td>75</td>
+</tr>
+<tr>
+<td>1.2.0</td>
+<td>245</td>
+</tr>
+<tr>
+<td>1.2.1</td>
+<td>295</td>
+</tr>
+<tr>
+<td>1.2.2</td>
+<td>701</td>
+</tr>
+</tbody>
+</table>
+<p>Pre-1.3.0 values of <code>release_added</code> are reconstructed from the recorded change stages; they are exact only for the rows those stages touched.</p></div></details>
+
+<p class="small">Notes of the earlier releases, each a per-field diff against the release before it:</p>
+<ul class="small">
+<li><b>R2026.42</b> — package 1.34.1, 2026-11-23: <a href="../releases/RELEASE_NOTES_R2026.42.md">notes (markdown)</a> · <a href="../changes/R2026.42.html">what changed</a></li><li><b>R2026.41</b> — package 1.34.0, 2026-11-14: <a href="../releases/RELEASE_NOTES_R2026.41.md">notes (markdown)</a> · <a href="../changes/R2026.41.html">what changed</a></li><li><b>R2026.40</b> — package 1.33.0, 2026-11-14: <a href="../releases/RELEASE_NOTES_R2026.40.md">notes (markdown)</a> · <a href="../changes/R2026.40.html">what changed</a></li><li><b>R2026.39</b> — package 1.32.0, 2026-11-13: <a href="../releases/RELEASE_NOTES_R2026.39.md">notes (markdown)</a> · <a href="../changes/R2026.39.html">what changed</a></li><li><b>R2026.38</b> — package 1.31.0, 2026-11-13: <a href="../releases/RELEASE_NOTES_R2026.38.md">notes (markdown)</a> · <a href="../changes/R2026.38.html">what changed</a></li><li><b>R2026.37</b> — package 1.30.1, 2026-11-11: <a href="../releases/RELEASE_NOTES_R2026.37.md">notes (markdown)</a> · <a href="../changes/R2026.37.html">what changed</a></li><li><b>R2026.36</b> — package 1.30.0, 2026-11-06: <a href="../releases/RELEASE_NOTES_R2026.36.md">notes (markdown)</a> · <a href="../changes/R2026.36.html">what changed</a></li><li><b>R2026.35</b> — package 1.29.1, 2026-11-03: <a href="../releases/RELEASE_NOTES_R2026.35.md">notes (markdown)</a> · <a href="../changes/R2026.35.html">what changed</a></li><li><b>R2026.34</b> — package 1.29.0, 2026-11-02: <a href="../releases/RELEASE_NOTES_R2026.34.md">notes (markdown)</a> · <a href="../changes/R2026.34.html">what changed</a></li><li><b>R2026.33</b> — package 1.28.0, 2026-11-01: <a href="../releases/RELEASE_NOTES_R2026.33.md">notes (markdown)</a> · <a href="../changes/R2026.33.html">what changed</a></li><li><b>R2026.32</b> — package 1.27.0, 2026-10-31: <a href="../releases/RELEASE_NOTES_R2026.32.md">notes (markdown)</a> · <a href="../changes/R2026.32.html">what changed</a></li><li><b>R2026.31</b> — package 1.26.0, 2026-10-30: <a href="../releases/RELEASE_NOTES_R2026.31.md">notes (markdown)</a> · <a href="../changes/R2026.31.html">what changed</a></li>
+</ul>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.43"><span class="mono">R2026.43</span></a> · package <span class="mono">1.34.2</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.43.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to the text it was read from, with its source and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.34.2',release:'data-v1.34.2',releaseId:'R2026.43',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+</body>
+</html>

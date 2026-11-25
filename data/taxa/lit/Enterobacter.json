@@ -1,0 +1,51 @@
+{
+ "slug": "Enterobacter",
+ "taxon": "g__Enterobacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Enterobacter",
+ "name_note": "GTDB R232 g__Enterobacter also contains a minority of genomes labelled Escherichia or Leclercia in NCBI, so it is slightly broader than the classical genus.",
+ "sentences": [
+  {
+   "text": "A systematic review of ESKAPE pathogens in Africa, a group that includes Enterobacter spp., found stool samples had the highest pooled prevalence, followed by urine, nasal and blood samples.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That same review estimated a pooled prevalence of 20% for Enterobacter spp. among the ESKAPE pathogens it covered.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of 67 infants reported that stool collected at birth, six weeks and fourteen weeks yielded Enterobacter species alongside Escherichia coli and Klebsiella pneumoniae.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Khasapane NG, Nkhebenyane SJ, et al.",
+   "title": "\"One Health\" Perspective on Prevalence of ESKAPE Pathogens in Africa: A Systematic Review and Meta-Analysis",
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2024,
+   "pmid": "39338978",
+   "n": 1,
+   "doi": "10.3390/pathogens13090787"
+  },
+  {
+   "authors": "Mahesh S, Rajesh V, et al.",
+   "title": "Temporal burden of WHO Critical-priority Enterobacteriaceae in the infant gut during early life influenced by maternal postpartum antibiotic exposure",
+   "journal": "Indian journal of medical microbiology",
+   "year": 2025,
+   "pmid": "41067705",
+   "n": 2,
+   "doi": "10.1016/j.ijmmb.2025.100999"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Senimuribacter",
+ "taxon": "g__Senimuribacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Senimuribacter",
+ "name_note": "GTDB's Senimuribacter holds the species named Senimuribacter intestinalis and the species described in the literature as Emergencia timonensis, which GTDB calls Senimuribacter timonensis.",
+ "sentences": [
+  {
+   "text": "Senimuribacter is a bacterial genus that phylogenomic analysis placed in the family Anaerovoracaceae, reassigned together with several related taxa from the family Eubacteriaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of two butyrate-producing strains from mouse faeces reported high 16S rRNA gene similarity to Senimuribacter intestinalis, a named species of this genus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species GTDB calls Senimuribacter timonensis was isolated from human stools by culturomics and proposed as the new genus and species Emergencia timonensis.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported that the human gut bacterium Emergencia timonensis converts the L-carnitine-derived metabolite gamma-butyrobetaine to trimethylamine using an induced gene cluster.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Another study reported that adding Emergencia timonensis to gnotobiotic mice completed the carnitine to trimethylamine route, raised TMAO and enhanced thrombosis potential after arterial injury.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kim B, Joe HI, Yang AI, Lee JY, Kim HS, Bae JW, Shin NR",
+   "title": "Senimuribacter muris sp. nov., a butyrate-producing bacterium isolated from mouse feces, and reclassification of members of the family Eubacteriaceae into the family Anaerovoracaceae",
+   "journal": "Systematic and applied microbiology",
+   "year": 2026,
+   "pmid": "42966027",
+   "n": 1,
+   "doi": "10.1016/j.syapm.2026.126782"
+  },
+  {
+   "authors": "Hamame A, Magdy Wasfy R, Lo CI, Fenollar F, Raoult D, Fournier PE, Houhamdi L",
+   "title": "Taxonogenomics of Culturomica massiliensis gen. nov., sp. nov., and Emergencia timonensis gen. nov., sp. nov. new bacteria isolated from human stool microbiota",
+   "journal": "Scientific reports",
+   "year": 2023,
+   "pmid": "37231091",
+   "n": 2,
+   "doi": "10.1038/s41598-023-35443-7"
+  },
+  {
+   "authors": "Rajakovich LJ, Fu B, Bollenbach M, Balskus EP",
+   "title": "Elucidation of an anaerobic pathway for metabolism of l-carnitine-derived γ-butyrobetaine to trimethylamine in human gut bacteria",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2021,
+   "pmid": "34362844",
+   "n": 3,
+   "doi": "10.1073/pnas.2101498118"
+  },
+  {
+   "authors": "Buffa JA, Romano KA, Copeland MF, Cody DB, Zhu W, Galvez R, Fu X, Ward K, Ferrell M, Dai HJ, Skye S, Hu P, Li L, Parlov M, McMillan A, Wei X, Nemet I, Koeth RA, Li XS, Wang Z, Sangwan N, Hajjar AM, Dwidar M, Weeks TL, Bergeron N, Krauss RM, Tang WHW, Rey FE, DiDonato JA, Gogonea V, Gerberick GF, Garcia-Garcia JC, Hazen SL",
+   "title": "The microbial gbu gene cluster links cardiovascular disease risk associated with red meat consumption to microbiota L-carnitine catabolism",
+   "journal": "Nature microbiology",
+   "year": 2022,
+   "pmid": "34949826",
+   "n": 4,
+   "doi": "10.1038/s41564-021-01010-x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

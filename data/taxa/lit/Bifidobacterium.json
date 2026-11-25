@@ -1,0 +1,101 @@
+{
+ "slug": "Bifidobacterium",
+ "taxon": "g__Bifidobacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Bifidobacterium",
+ "name_note": "In GTDB R232 this genus also holds genomes that NCBI names Gardnerella, so it is broader than the classical genus Bifidobacterium.",
+ "sentences": [
+  {
+   "text": "Bifidobacterium is a genus of anaerobic bacteria that are among the first microbes to colonise the human gastrointestinal tract.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "They occupy niches connected directly or indirectly to the animal gut, including the human oral cavity, and specialise in carbohydrates that escape digestion higher in the intestine.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Bifidobacterium longum subspecies infantis is described as unusually able to consume human milk oligosaccharides, which shape the breastfed infant's intestinal community.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Reported functions include degrading non-digestible carbohydrates, producing B vitamins and protecting against infectious disease, a protection studied in mice colonised with bifidobacterial strains.",
+   "refs": [
+    4,
+    5
+   ]
+  },
+  {
+   "text": "One study reports these milk-adapted bacteria are now rare in modern societies and that their absence early in life has been associated with systemic inflammation and immune dysregulation.",
+   "refs": [
+    6
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "O'Callaghan A, van Sinderen D",
+   "title": "Bifidobacteria and Their Role as Members of the Human Gut Microbiota",
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "pmid": "27379055",
+   "n": 1,
+   "doi": "10.3389/fmicb.2016.00925"
+  },
+  {
+   "authors": "Pokusaeva K, Fitzgerald GF, et al.",
+   "title": "Carbohydrate metabolism in Bifidobacteria",
+   "journal": "Genes & nutrition",
+   "year": 2011,
+   "pmid": "21484167",
+   "n": 2,
+   "doi": "10.1007/s12263-010-0206-6"
+  },
+  {
+   "authors": "Underwood MA, German JB, et al.",
+   "title": "Bifidobacterium longum subspecies infantis: champion colonizer of the infant gut",
+   "journal": "Pediatric research",
+   "year": 2015,
+   "pmid": "25303277",
+   "n": 3,
+   "doi": "10.1038/pr.2014.156"
+  },
+  {
+   "authors": "Rivière A, Selak M, et al.",
+   "title": "Bifidobacteria and Butyrate-Producing Colon Bacteria: Importance and Strategies for Their Stimulation in the Human Gut",
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "pmid": "27446020",
+   "n": 4,
+   "doi": "10.3389/fmicb.2016.00979"
+  },
+  {
+   "authors": "Fukuda S, Toh H, et al.",
+   "title": "Bifidobacteria can protect from enteropathogenic infection through production of acetate",
+   "journal": "Nature",
+   "year": 2011,
+   "pmid": "21270894",
+   "n": 5,
+   "doi": "10.1038/nature09646"
+  },
+  {
+   "authors": "Henrick BM, Rodriguez L, et al.",
+   "title": "Bifidobacteria-mediated immune system imprinting early in life",
+   "journal": "Cell",
+   "year": 2021,
+   "pmid": "34143954",
+   "n": 6,
+   "doi": "10.1016/j.cell.2021.05.030"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

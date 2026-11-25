@@ -1,0 +1,75 @@
+{
+ "slug": "Enterococcus_B_faecium",
+ "taxon": "s__Enterococcus_B faecium",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Enterococcus faecium",
+ "name_note": "GTDB places Enterococcus faecium in the split genus Enterococcus_B; the organism is the same species that the literature calls Enterococcus faecium.",
+ "sentences": [
+  {
+   "text": "Enterococcus faecium is described as a commensal of the human gut microbiota that can become an opportunistic pathogen, particularly in immunocompromised individuals.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes Enterococcus faecium as a commensal organism that has become a leading multidrug-resistant hospital-acquired pathogen, aided by genomic plasticity and horizontal gene transfer.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A meta-analysis of 349 studies estimated a pooled prevalence of vancomycin-resistant Enterococcus faecium of 25%, and reported that this prevalence increased significantly over the last two decades.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study reported that an Enterococcus faecium strain metabolised leucine to leucic acid and that colonisation with it improved obesity-associated metabolic phenotypes in obese mice.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Dejoies L, Bordeau V, Neindre KL, Reissier S, Arnould K, Felden B, Chabelskaya S, Guérin F, Michaux C, Cattoir V.",
+   "title": "Regulatory RNA Ern0160 controls Enterococcus faecium virulence through direct modulation of expression of LysM domain-containing proteins",
+   "journal": "BMC genomics",
+   "year": 2026,
+   "pmid": "41491928",
+   "n": 1,
+   "doi": "10.1186/s12864-025-12464-2"
+  },
+  {
+   "authors": "Patel K, Chavan M, Shah J, Chatterjee S.",
+   "title": "Clade-specific evolution and genome plasticity underlying antimicrobial resistance in Enterococcus faecium",
+   "journal": "Archives of microbiology",
+   "year": 2026,
+   "pmid": "42579153",
+   "n": 2,
+   "doi": "10.1007/s00203-026-05077-0"
+  },
+  {
+   "authors": "Narimisa N, Navidifar T, Hameed TT, Mohammadzadeh R, Abdoli F, Ghamari M, Nourollahi D, Ansari F, Ansari A, Bostanghadiri N.",
+   "title": "Global Prevalence of Vancomycin-Resistant Enterococcus faecium and Enterococcus faecalis Isolated From Clinical and Environmental Sources: A Systematic Review and Meta-Analysis",
+   "journal": "MicrobiologyOpen",
+   "year": 2026,
+   "pmid": "42870516",
+   "n": 3,
+   "doi": "10.1002/mbo3.70434"
+  },
+  {
+   "authors": "Hu B, Gao Q, Hui J, Wang M, Gao H, Li K, Zheng J, Dai Z, Liu S, Liu H.",
+   "title": "Gut &lt;i&gt;Enterococcus faecium&lt;/i&gt; derived leucic acid mediates the antiobesity effect of dietary fiber",
+   "journal": "iMeta",
+   "year": 2026,
+   "pmid": "42769757",
+   "n": 4,
+   "doi": "10.1002/imt2.70173"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

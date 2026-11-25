@@ -1,0 +1,51 @@
+{
+ "slug": "Fusicatenibacter_saccharivorans",
+ "taxon": "s__Fusicatenibacter saccharivorans",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Fusicatenibacter saccharivorans",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Fusicatenibacter saccharivorans is a Gram-positive, obligately anaerobic, non-motile, non-spore-forming, spindle-shaped bacterium isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It forms a separate line within the Blautia coccoides rRNA group and produces lactic, formic, acetic and succinic acids.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A meta-analysis of fourteen observational datasets covering 1272 participants reported that this genus and Parasutterella fall together in patients with severe disease.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Takada T, Kurakawa T, et al.",
+   "title": "Fusicatenibacter saccharivorans gen. nov., sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2013,
+   "pmid": "23625266",
+   "n": 1,
+   "doi": "10.1099/ijs.0.045823-0"
+  },
+  {
+   "authors": "Le QR, Li GZ, et al.",
+   "title": "Functional and clinical significance of Fusicatenibacter spp.-Parasutterella spp. co-occurrence in gut dysbiosis-associated diseases: An ecological unit perspective",
+   "journal": "Pharmacological research",
+   "year": 2026,
+   "pmid": "42288319",
+   "n": 2,
+   "doi": "10.1016/j.phrs.2026.108293"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

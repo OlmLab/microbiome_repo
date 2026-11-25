@@ -1,0 +1,81 @@
+{
+ "slug": "Blautia_A_faecis",
+ "taxon": "s__Blautia_A faecis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Blautia faecis",
+ "name_note": "GTDB places this species in the split genus Blautia_A; the literature and NCBI name is Blautia faecis.",
+ "sentences": [
+  {
+   "text": "Blautia faecis is a strictly anoxic, Gram-positive, non-motile bacterium of the family Lachnospiraceae, isolated from a human faecal sample.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It uses carbohydrates as fermentable substrates and produces lactate and acetate as the major end products of glucose fermentation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Another strain was isolated from the ascending colon of a French patient, and its 4.45-megabase genome was sequenced.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A newly isolated strain was selected as an acetate-producing commensal for use in the context of respiratory infections and tested in mice.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In one mouse experiment gavage with this species impaired cognitive performance, whereas Blautia massiliensis improved it.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Park SK, Kim MS, et al.",
+   "title": "Blautia faecis sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2013,
+   "pmid": "22544782",
+   "n": 1,
+   "doi": "10.1099/ijs.0.036541-0"
+  },
+  {
+   "authors": "Ricaboni D, Mailhe M, et al.",
+   "title": "Draft Genome Sequence of Blautia faecis Strain Marseille-P328, Isolated from the Human Ascending Colon",
+   "journal": "Genome announcements",
+   "year": 2016,
+   "pmid": "27979939",
+   "n": 2,
+   "doi": "10.1128/genomea.01383-16"
+  },
+  {
+   "authors": "Verstraeten S, Sencio V, et al.",
+   "title": "Description of a Newly Isolated Blautia faecis Strain and Its Benefit in Mouse Models of Post-Influenza Secondary Enteric and Pulmonary Infections",
+   "journal": "Nutrients",
+   "year": 2022,
+   "pmid": "35406091",
+   "n": 3,
+   "doi": "10.3390/nu14071478"
+  },
+  {
+   "authors": "Li M, Wu N, et al.",
+   "title": "Opposite regulatory effects of &lt;i&gt;Blautia massiliensis&lt;/i&gt; and &lt;i&gt;Blautia faecis&lt;/i&gt; on cognitive function, microglia and metabolite acetic acid in mice",
+   "journal": "Frontiers in neurology",
+   "year": 2026,
+   "pmid": "42422212",
+   "n": 4,
+   "doi": "10.3389/fneur.2026.1854107"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

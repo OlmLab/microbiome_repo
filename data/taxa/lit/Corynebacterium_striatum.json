@@ -1,0 +1,85 @@
+{
+ "slug": "Corynebacterium_striatum",
+ "taxon": "s__Corynebacterium striatum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Corynebacterium striatum",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Corynebacterium striatum is part of the normal microbiota of human skin and nasal mucosa, and was long regarded as a cutaneous saprophyte.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "It has been increasingly reported as the agent of community-acquired and nosocomial disease, helped by easier and more accurate identification from clinical cultures.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Biofilm formation on abiotic surfaces contributes to the persistence of virulent strains and to the spread of antimicrobial resistance in the hospital environment.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Multidrug-resistant strains have been associated with nosocomial outbreaks; one hospital investigation found a cluster in lower respiratory specimens from intensive care patients.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "Reported infections have mostly involved the respiratory tract and the bloodstream, and reviews describe invasive infections in immunosuppressed and immunocompetent patients.",
+   "refs": [
+    4,
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Silva-Santana G, Silva CMF, Olivella JGB, et al.",
+   "title": "Worldwide survey of Corynebacterium striatum increasingly associated with human invasive infections, nosocomial outbreak, and antimicrobial multidrug-resistance, 1976-2020.",
+   "journal": "Archives of Microbiology",
+   "year": 2021,
+   "pmid": "33625540",
+   "n": 1,
+   "doi": "10.1007/s00203-021-02246-1"
+  },
+  {
+   "authors": "McMullen AR, Anderson N, Wallace MA, Shupe A, Burnham CA.",
+   "title": "When Good Bugs Go Bad: Epidemiology and Antimicrobial Resistance Profiles of Corynebacterium striatum, an Emerging Multidrug-Resistant, Opportunistic Pathogen.",
+   "journal": "Antimicrobial Agents and Chemotherapy",
+   "year": 2017,
+   "pmid": "28848008",
+   "n": 2,
+   "doi": "10.1128/aac.01111-17"
+  },
+  {
+   "authors": "Verroken A, Bauraing C, Deplano A, et al.",
+   "title": "Epidemiological investigation of a nosocomial outbreak of multidrug-resistant Corynebacterium striatum at one Belgian university hospital.",
+   "journal": "Clinical Microbiology and Infection",
+   "year": 2014,
+   "pmid": "23586637",
+   "n": 3,
+   "doi": "10.1111/1469-0691.12197"
+  },
+  {
+   "authors": "Weiss K, Labbe AC, Laverdiere M.",
+   "title": "Corynebacterium striatum meningitis: case report and review of an increasingly important Corynebacterium species.",
+   "journal": "Clinical Infectious Diseases",
+   "year": 1996,
+   "pmid": "8953066",
+   "n": 4,
+   "doi": "10.1093/clinids/23.6.1246"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "Treponema_D_succinifaciens",
+ "taxon": "s__Treponema_D succinifaciens",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Treponema succinifaciens",
+ "name_note": "GTDB places this species in the split genus Treponema_D; the genomes it contains and the published literature use the name Treponema succinifaciens.",
+ "sentences": [
+  {
+   "text": "A cross-sectional gut microbiome study of 1,801 women in Burkina Faso, Ghana, Kenya and South Africa reported loss of Treponema species in urban populations.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study identified antibiotic susceptibility as a factor that might drive the absence of Treponema succinifaciens in urban populations.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Treponema succinifaciens was among gut taxa recovered from metagenomic analysis of the Iceman's internal tissues, carrying ancient DNA damage profiles.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Those taxa were reported to show high similarity to ancestral, non-Westernized human gut communities, providing a baseline for Copper Age intestinal ecosystems.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Trichuris trichiura and Strongyloides stercoralis infections have been reported to be associated with the expansion of Treponema succinifaciens.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Maghini DG, Oduaran OH, Olubayo LAI, et al.",
+   "title": "Expanding the human gut microbiome atlas of Africa.",
+   "journal": "Nature",
+   "year": 2025,
+   "pmid": "39880958",
+   "n": 1,
+   "doi": "10.1038/s41586-024-08485-8"
+  },
+  {
+   "authors": "Sarhan MS, Samadelli M, Zink A, Maixner F.",
+   "title": "The Iceman's microbiome: unveiling millennia of microbial diversity and continuity.",
+   "journal": "Microbiome",
+   "year": 2026,
+   "pmid": "42231509",
+   "n": 2,
+   "doi": "10.1186/s40168-026-02417-6"
+  },
+  {
+   "authors": "Shemfe DP, Mvubu NE, Naidoo P, et al.",
+   "title": "The Hidden Link Between Intestinal Helminthiasis, Gut Microbiome Alterations, and Colorectal Cancer Risk: A Systematic Review.",
+   "journal": "International journal of molecular sciences",
+   "year": 2026,
+   "pmid": "42278484",
+   "n": 3,
+   "doi": "10.3390/ijms27114957"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Corynebacterium",
+ "taxon": "g__Corynebacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Corynebacterium",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Corynebacterium is a genus of Gram-positive, catalase-positive rod-shaped bacteria with high genomic G+C content, historically grouped with the coryneform bacteria or diphtheroids.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Several species are dominant members of the human skin microbiota, and others are common residents of the normal nasal cavity.",
+   "refs": [
+    3,
+    5
+   ]
+  },
+  {
+   "text": "Coryneform bacteria have increasingly been implicated as causes of significant infections, and Corynebacterium jeikeium is reported as a multidrug-resistant nosocomial pathogen of human skin.",
+   "refs": [
+    2,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tauch A, Fernández-Natal I, Soriano F.",
+   "title": "A microbiological and clinical review on Corynebacterium kroppenstedtii.",
+   "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+   "year": 2016,
+   "pmid": "27155209",
+   "n": 1,
+   "doi": "10.1016/j.ijid.2016.04.023"
+  },
+  {
+   "authors": "Bernard K.",
+   "title": "The genus corynebacterium and other medically relevant coryneform-like bacteria.",
+   "journal": "Journal of clinical microbiology",
+   "year": 2012,
+   "pmid": "22837327",
+   "n": 2,
+   "doi": "10.1128/jcm.00796-12"
+  },
+  {
+   "authors": "Ridaura VK, Bouladoux N, Claesen J, Chen YE, Byrd AL, Constantinides MG, Merrill ED, Tamoutounour S, Fischbach MA, Belkaid Y.",
+   "title": "Contextual control of skin immunity and inflammation by Corynebacterium.",
+   "journal": "The Journal of experimental medicine",
+   "year": 2018,
+   "pmid": "29382696",
+   "n": 3,
+   "doi": "10.1084/jem.20171079"
+  },
+  {
+   "authors": "Tauch A, Kaiser O, Hain T, Goesmann A, Weisshaar B, Albersmeier A, Bekel T, Bischoff N, Brune I, Chakraborty T, Kalinowski J, Meyer F, Rupp O, Schneiker S, Viehoever P, Pühler A.",
+   "title": "Complete genome sequence and analysis of the multiresistant nosocomial pathogen Corynebacterium jeikeium K411, a lipid-requiring bacterium of the human skin flora.",
+   "journal": "Journal of bacteriology",
+   "year": 2005,
+   "pmid": "15968079",
+   "n": 4,
+   "doi": "10.1128/jb.187.13.4671-4682.2005"
+  },
+  {
+   "authors": "Hardy BL, Dickey SW, Plaut RD, Riggins DP, Stibitz S, Otto M, Merrell DS.",
+   "title": "Corynebacterium pseudodiphtheriticum Exploits Staphylococcus aureus Virulence Components in a Novel Polymicrobial Defense Strategy.",
+   "journal": "mBio",
+   "year": 2019,
+   "pmid": "30622190",
+   "n": 5,
+   "doi": "10.1128/mbio.02491-18"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

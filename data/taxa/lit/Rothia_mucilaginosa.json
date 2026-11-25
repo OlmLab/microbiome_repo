@@ -1,0 +1,66 @@
+{
+ "slug": "Rothia_mucilaginosa",
+ "taxon": "s__Rothia mucilaginosa",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Rothia mucilaginosa",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Rothia mucilaginosa is described as an oral commensal that is relatively abundant in the lungs of patients with cystic fibrosis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Studies have reported anti-inflammatory properties for it in three-dimensional lung epithelial cell cultures and mouse models relevant to chronic lung diseases, and it has also been associated with severe infections.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In bronchoalveolar lavage fluid from patients with pulmonary infections, R. mucilaginosa was enriched in patients without acute respiratory distress syndrome, and its culture supernatant protected mice in a model.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Draft metagenome-assembled genomes of six R. mucilaginosa strains have been recovered from the oral microbiome of distinct human subjects.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Leonidou N, Ostyn L, Coenye T, Crabbé A, Dräger A.",
+   "title": "Genome-scale model of Rothia mucilaginosa predicts gene essentialities and reveals metabolic capabilities",
+   "journal": "Microbiology spectrum",
+   "year": 2024,
+   "pmid": "38652457",
+   "n": 1,
+   "doi": "10.1128/spectrum.04006-23"
+  },
+  {
+   "authors": "Fan W, Tan T, Yang C, Cao Y, Jin C, Liu X, Shang K, Wang J, Xu J, Li Y.",
+   "title": "Indole-acetaldehyde from Rothia mucilaginosa activates the PXR/NRF2 axis to enhance alveolar macrophage phagocytosis and protect against ARDS",
+   "journal": "Respiratory research",
+   "year": 2026,
+   "pmid": "41715099",
+   "n": 2,
+   "doi": "10.1186/s12931-026-03551-3"
+  },
+  {
+   "authors": "Saito D, Saito CPB, Cannavan FDS, Tsai SM.",
+   "title": "Draft genome sequences of six Rothia mucilaginosa strains assembled from the human oral microbiome",
+   "journal": "Microbiology resource announcements",
+   "year": 2025,
+   "pmid": "41025644",
+   "n": 3,
+   "doi": "10.1128/mra.00508-25"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "Catenibacterium_mitsuoka",
+ "taxon": "s__Catenibacterium mitsuoka",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Catenibacterium mitsuokai",
+ "name_note": "GTDB writes the epithet as mitsuoka, while the literature and the genomes in this taxon use Catenibacterium mitsuokai.",
+ "sentences": [
+  {
+   "text": "The genus Catenibacterium was proposed with the single species Catenibacterium mitsuokai for six Eubacterium-like strains from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A metagenomic survey reported an unknown clade within Catenibacterium mitsuokai to be significantly more prevalent in non-urbanized populations than in urbanized ones.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported that the absence or abundance of Catenibacterium mitsuokai was involved in body weight family associations.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kageyama A, Benno Y.",
+   "title": "Catenibacterium mitsuokai gen. nov., sp. nov., a gram-positive anaerobic bacterium isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2000,
+   "pmid": "10939666",
+   "n": 1,
+   "doi": "10.1099/00207713-50-4-1595"
+  },
+  {
+   "authors": "Ricci L, Selma-Royo M, et al.",
+   "title": "Description of Catenibacterium mitsuokai subsp. tridentinum subsp. nov., an anaerobic bacterium isolated from human faeces, and emended description of C. mitsuokai .",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2025,
+   "pmid": "40445840",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.006798"
+  },
+  {
+   "authors": "de Cuevillas B, Riezu-Boj JI, et al.",
+   "title": "Parent-child microbiota relationships involved in childhood obesity: A CORALS ancillary study.",
+   "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+   "year": 2025,
+   "pmid": "39550838",
+   "n": 3,
+   "doi": "10.1016/j.nut.2024.112603"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

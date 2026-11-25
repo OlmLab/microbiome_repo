@@ -1,0 +1,14 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN06241979,PRJNA362284,ES,biological replicate 1,adolescent,6209.0,female,JP,,,,,,,primary,15.0,24.73
+SAMN06241980,PRJNA362284,ES,biological replicate 2,adolescent,6209.0,female,JP,,,,,,,primary,13.0,20.325
+SAMN06241982,PRJNA362284,FA,,adult,16071.0,male,JP,,,,,,,primary,15.0,22.429
+SAMN06241975,PRJNA362284,FAKO02,,adult,17167.0,male,JP,,,,,,,primary,16.0,15.404
+SAMN06241976,PRJNA362284,FAKO03,,adult,18262.0,male,JP,,,,,,,primary,12.0,10.167
+SAMN06241977,PRJNA362284,FAKO05,,adult,18262.0,male,JP,,,,,,,primary,16.0,12.8
+SAMN06241978,PRJNA362284,FAKO27,,,,,JP,,,,,,,primary,65.0,69.176
+SAMN06241984,PRJNA362284,GF,,elderly,28124.0,male,JP,,,,,,,primary,13.0,26.502
+SAMN06241985,PRJNA362284,GM,,elderly,28490.0,female,JP,,,,,,,primary,11.0,20.007
+SAMN06241983,PRJNA362284,MO,,adult,16071.0,female,JP,,,,,,,primary,11.0,30.284
+SAMN06241981,PRJNA362284,YS,,child,1826.0,female,JP,,,,,,,primary,21.0,31.248
+SAMN06241973,PRJNA362284,apr34,,adult,7305.0,female,JP,,,,,,,primary,24.0,16.78
+SAMN06241974,PRJNA362284,apr38,,adult,6940.0,male,JP,,,,,,,primary,24.0,12.861

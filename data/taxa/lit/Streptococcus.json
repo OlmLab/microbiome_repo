@@ -1,0 +1,66 @@
+{
+ "slug": "Streptococcus",
+ "taxon": "g__Streptococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Streptococcus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Streptococcus is a large bacterial genus spanning dozens of described species; it includes important pathogens of humans and is reported to cause substantial economic losses to agriculture.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Streptococci are among the first bacteria to colonise the mouth, can be acquired soon after birth, and the genus is divided into eight groups, six containing oral species.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Different oral surfaces carry characteristic streptococcal communities, with early dental plaque associated with Streptococcus sanguis, Streptococcus mitis biovar 1 and Streptococcus oralis.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Studies have associated excessive acidification of the mouth by aciduric species such as Streptococcus mutans with the development of dental caries.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Richards VP, Palmer SR, et al.",
+   "title": "Phylogenomics and the dynamic genome evolution of the genus Streptococcus",
+   "journal": "Genome Biology and Evolution",
+   "year": 2014,
+   "pmid": "24625962",
+   "n": 1,
+   "doi": "10.1093/gbe/evu048"
+  },
+  {
+   "authors": "Abranches J, Zeng L, et al.",
+   "title": "Biology of Oral Streptococci",
+   "journal": "Microbiology Spectrum",
+   "year": 2018,
+   "pmid": "30338752",
+   "n": 2,
+   "doi": "10.1128/microbiolspec.gpp3-0042-2018"
+  },
+  {
+   "authors": "Frandsen EV, Pedrazzoli V, et al.",
+   "title": "Ecology of viridans streptococci in the oral cavity and pharynx",
+   "journal": "Oral Microbiology and Immunology",
+   "year": 1991,
+   "pmid": "1945494",
+   "n": 3,
+   "doi": "10.1111/j.1399-302x.1991.tb00466.x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

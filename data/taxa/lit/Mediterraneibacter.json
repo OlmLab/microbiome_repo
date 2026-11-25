@@ -1,0 +1,67 @@
+{
+ "slug": "Mediterraneibacter",
+ "taxon": "g__Mediterraneibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Mediterraneibacter (species formerly placed in Ruminococcus, e.g. Ruminococcus gnavus and R. torques)",
+ "name_note": "The genus was erected in 2018 and most of its literature appears under the older Ruminococcus names, so papers on Ruminococcus gnavus and R. torques describe members of this GTDB genus.",
+ "sentences": [
+  {
+   "text": "Its best-studied member, Mediterraneibacter gnavus, was first identified in 1974 as a strict anaerobe in healthy people and occurs in both infant and adult gut microbiota.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Strains forage on intestinal mucus; they release the mucin sugar sialic acid as the unusual product 2,7-anhydro-N-acetylneuraminic acid, and this capacity differs between strains.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Capsular polysaccharide production supports competitive colonisation of the germ-free mouse intestine and was more common in strains from healthy people than from Crohn's disease patients.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Studies have associated this group both positively and negatively with intestinal and extraintestinal disease, and abundance has been reported to rise in active inflammatory bowel disease.",
+   "refs": [
+    1,
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Crost EH, Coletto E, et al.",
+   "title": "Ruminococcus gnavus: friend or foe for human health",
+   "journal": "FEMS microbiology reviews",
+   "year": 2023,
+   "pmid": "37015876",
+   "n": 1,
+   "doi": "10.1093/femsre/fuad014"
+  },
+  {
+   "authors": "Obana N, Nakato G, et al.",
+   "title": "A genetic toolkit for the human gut bacterium Mediterraneibacter gnavus identifies capsular polysaccharides as a competitive colonization factor",
+   "journal": "Nature communications",
+   "year": 2026,
+   "pmid": "41820342",
+   "n": 2,
+   "doi": "10.1038/s41467-026-69022-x"
+  },
+  {
+   "authors": "Sokolovskaya OM, Uzunovic J, et al.",
+   "title": "Dysbiosis-associated gut bacterium Ruminococcus gnavus varies at the strain level in its ability to utilize key mucin component sialic acid",
+   "journal": "Microbiology spectrum",
+   "year": 2025,
+   "pmid": "40642981",
+   "n": 3,
+   "doi": "10.1128/spectrum.03090-24"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

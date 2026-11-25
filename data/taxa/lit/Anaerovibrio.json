@@ -1,0 +1,81 @@
+{
+ "slug": "Anaerovibrio",
+ "taxon": "g__Anaerovibrio",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaerovibrio",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A taxonomic re-evaluation restricted the genus Anaerovibrio to the single species Anaerovibrio lipolyticus, placing two other former species in the new genera Anaerosinus and Anaeroarcus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Anaerovibrio lipolyticus is a rumen bacterium that has been recognised as one of the major species involved in lipid hydrolysis in ruminant animals.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of its draft genome identified three putative lipase genes, and the expressed enzymes showed higher hydrolytic activity against caprylate, laurate and myristate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In pigs, a study reported Anaerovibrio among taxa with significantly higher relative abundance in mucosa than in digesta of the cecum and ileum.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A field study of piglets reported that Anaerovibrio was among the groups that increased after weaning in animals with postweaning diarrhea.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Strömpl C, Tindall BJ, et al.",
+   "title": "A re-evaluation of the taxonomy of the genus Anaerovibrio, with the reclassification of Anaerovibrio glycerini as Anaerosinus glycerini gen. nov., comb. nov., and Anaerovibrio burkinabensis as Anaeroarcus burkinensis [corrig.] gen. nov., comb. nov",
+   "journal": "Research Square (preprint)",
+   "year": 1999,
+   "pmid": "10555370",
+   "n": 1,
+   "doi": "10.1099/00207713-49-4-1861"
+  },
+  {
+   "authors": "Privé F, Kaderbhai NN, et al.",
+   "title": "Identification and characterization of three novel lipases belonging to families II and V from Anaerovibrio lipolyticus 5ST",
+   "journal": "Research Square (preprint)",
+   "year": 2013,
+   "pmid": "23950883",
+   "n": 2,
+   "doi": "10.1371/journal.pone.0069076"
+  },
+  {
+   "authors": "De Rodas B, Youmans BP, et al.",
+   "title": "Microbiome profiling of commercial pigs from farrow to finish",
+   "journal": "Research Square (preprint)",
+   "year": 2018,
+   "pmid": "29635455",
+   "n": 3,
+   "doi": "10.1093/jas/sky109"
+  },
+  {
+   "authors": "Karasova D, Crhanova M, et al.",
+   "title": "Development of piglet gut microbiota at the time of weaning influences development of postweaning diarrhea - A field study",
+   "journal": "Research Square (preprint)",
+   "year": 2021,
+   "pmid": "33444908",
+   "n": 4,
+   "doi": "10.1016/j.rvsc.2020.12.022"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

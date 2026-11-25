@@ -1,0 +1,66 @@
+{
+ "slug": "Butyricimonas_faecihominis",
+ "taxon": "s__Butyricimonas faecihominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Butyricimonas faecihominis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Butyricimonas faecihominis was described from strain 180-3, one of two strains isolated from human faeces that were obligately anaerobic, non-pigmented, non-spore-forming, non-motile, Gram-stain-negative rods.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Those strains produced butyric and isobutyric acids as end products from glucose, and their growth was inhibited on medium containing 20 percent bile.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A strain of Butyricimonas faecihominis, described as a butyrate-producing bacterium, was isolated from feces of a Japanese Alzheimer's disease patient.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A case report identified Butyricimonas faecihominis, described as a rarely reported pathogen, from blood cultures of a 50-year-old man whose perianal abscess progressed to septic shock.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Tanaka Y, et al.",
+   "title": "Butyricimonas faecihominis sp. nov. and Butyricimonas paravirosa sp. nov., isolated from human faeces, and emended description of the genus Butyricimonas.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2014,
+   "pmid": "24903545",
+   "n": 1,
+   "doi": "10.1099/ijs.0.065318-0"
+  },
+  {
+   "authors": "Nguyen TTT, Oshima K, et al.",
+   "title": "Draft Genome Sequence of Butyricimonas faecihominis 30A1, Isolated from Feces of a Japanese Alzheimer's Disease Patient.",
+   "journal": "Microbiology resource announcements",
+   "year": 2019,
+   "pmid": "31171624",
+   "n": 2,
+   "doi": "10.1128/mra.00462-19"
+  },
+  {
+   "authors": "Wessendorf L, Brezina T, et al.",
+   "title": "Butyricimonas faecihominis: an atypically resistant bacterium implicated in abscess formation - a case report.",
+   "journal": "BMC infectious diseases",
+   "year": 2024,
+   "pmid": "39004725",
+   "n": 3,
+   "doi": "10.1186/s12879-024-09604-6"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

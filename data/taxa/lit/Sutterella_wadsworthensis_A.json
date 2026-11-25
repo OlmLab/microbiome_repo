@@ -1,0 +1,77 @@
+{
+ "slug": "Sutterella_wadsworthensis_A",
+ "taxon": "s__Sutterella wadsworthensis_A",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Sutterella wadsworthensis",
+ "name_note": "GTDB splits the classical Sutterella wadsworthensis into several species-level lineages, of which s__Sutterella wadsworthensis_A is one; published work refers simply to Sutterella wadsworthensis.",
+ "sentences": [
+  {
+   "text": "S. wadsworthensis has been recovered from human feces both in clinical cases of gastrointestinal disorders and from a healthy individual.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "A study reported that S. wadsworthensis preferentially bound mucus and human extracellular matrix proteins and induced interleukin-8 in enterocytes, though its pro-inflammatory activity was modest.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The same work described members of the genus Sutterella as widely prevalent commensals, with no difference detected in prevalence between pediatric IBD or celiac patients and healthy controls.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Reported associations are mixed: one fecal transplant trial found S. wadsworthensis enriched in ulcerative colitis patients not achieving remission, while a metagenomic study reported it depleted in adults with asthma.",
+   "refs": [
+    1,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Paramsothy S, Nielsen S, et al.",
+   "title": "Specific Bacteria and Metabolites Associated With Response to Fecal Microbiota Transplantation in Patients With Ulcerative Colitis.",
+   "journal": "Gastroenterology",
+   "year": 2019,
+   "pmid": "30529583",
+   "n": 1,
+   "doi": "10.1053/j.gastro.2018.12.001"
+  },
+  {
+   "authors": "Hiippala K, Kainulainen V, et al.",
+   "title": "Mucosal Prevalence and Interactions with the Epithelium Indicate Commensalism of Sutterella spp.",
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "pmid": "27833600",
+   "n": 2,
+   "doi": "10.3389/fmicb.2016.01706"
+  },
+  {
+   "authors": "Engberg J, On SL, et al.",
+   "title": "Prevalence of Campylobacter, Arcobacter, Helicobacter, and Sutterella spp. in human fecal samples as estimated by a reevaluation of isolation methods for Campylobacters.",
+   "journal": "Journal of clinical microbiology",
+   "year": 2000,
+   "pmid": "10618103",
+   "n": 3,
+   "doi": "10.1128/jcm.38.1.286-291.2000"
+  },
+  {
+   "authors": "Wang Q, Li F, et al.",
+   "title": "A metagenome-wide association study of gut microbiota in asthma in UK adults.",
+   "journal": "BMC microbiology",
+   "year": 2018,
+   "pmid": "30208875",
+   "n": 4,
+   "doi": "10.1186/s12866-018-1257-x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

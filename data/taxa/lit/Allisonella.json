@@ -1,0 +1,96 @@
+{
+ "slug": "Allisonella",
+ "taxon": "g__Allisonella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Allisonella (Allisonella histaminiformans; Dialister pneumosintes)",
+ "name_note": "GTDB's Allisonella is broader than the classical genus: besides Allisonella histaminiformans it contains Allisonella pneumosinta, whose genomes are deposited in NCBI as Dialister pneumosintes.",
+ "sentences": [
+  {
+   "text": "Allisonella histaminiformans is an ovoid, Gram-negative-staining bacterium isolated from the faeces of grain-fed cattle and from the caecum of a horse.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It appears to use histidine decarboxylation as its sole mechanism of energy derivation, producing histamine, with lysine the only other amino acid used.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that its growth was stimulated by yeast extract, protein hydrolysates and water-soluble extracts of alfalfa or corn silage, indicating a peptide requirement.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a randomized placebo-controlled trial of faecal microbiota transplantation in hypertensive patients, increased abundance of Allisonella histaminiformans was reported to correlate with office systolic blood pressure.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Another study reported that Allisonella histaminiformans, with Streptococcus mutans, could serve as a potential biomarker for NAFLD-associated mild cognitive impairment.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "Dialister pneumosintes, placed in this genus by GTDB, has been described as a slow-growing obligate anaerobe commonly found in the oral cavity, nasopharynx, gastrointestinal tract and vaginal microbiota.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Garner MR, Flint JF, et al.",
+   "title": "Allisonella histaminiformans gen. nov., sp. nov. A novel bacterium that produces histamine, utilizes histidine as its sole energy source, and could play a role in bovine and equine laminitis.",
+   "journal": "Systematic and applied microbiology",
+   "year": 2002,
+   "pmid": "12583709",
+   "n": 1,
+   "doi": "10.1078/07232020260517625"
+  },
+  {
+   "authors": "Garner MR, Gronquist MR, et al.",
+   "title": "Nutritional requirements of Allisonella histaminiformans, a ruminal bacterium that decarboxylates histidine and produces histamine.",
+   "journal": "Current microbiology",
+   "year": 2004,
+   "pmid": "15386119",
+   "n": 2,
+   "doi": "10.1007/s00284-004-4336-1"
+  },
+  {
+   "authors": "Fan L, Chen J, et al.",
+   "title": "Fecal microbiota transplantation for hypertension: an exploratory, multicenter, randomized, blinded, placebo-controlled trial.",
+   "journal": "Microbiome",
+   "year": 2025,
+   "pmid": "40410854",
+   "n": 3,
+   "doi": "10.1186/s40168-025-02118-6"
+  },
+  {
+   "authors": "Giner-Pérez L, Gallego JJ, et al.",
+   "title": "The analysis of the gut microbiome during liver disease progression led to the identification of biomarkers for related mild cognitive impairment.",
+   "journal": "Frontiers in microbiology",
+   "year": 2025,
+   "pmid": "41035890",
+   "n": 4,
+   "doi": "10.3389/fmicb.2025.1670512"
+  },
+  {
+   "authors": "Yamamoto M, Ozeki T, et al.",
+   "title": "Dialister pneumosintes bacteremia associated with sinusitis and suspected meningitis: a case report and literature review.",
+   "journal": "BMC infectious diseases",
+   "year": 2026,
+   "pmid": "42143246",
+   "n": 5,
+   "doi": "10.1186/s12879-026-13555-5"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

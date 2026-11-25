@@ -1,0 +1,77 @@
+{
+ "slug": "Lawsonella",
+ "taxon": "g__Lawsonella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Lawsonella (Lawsonella clevelandensis)",
+ "name_note": "The GTDB genus matches the literature genus Lawsonella, in which Lawsonella clevelandensis is the only validly named species.",
+ "sentences": [
+  {
+   "text": "Lawsonella is a genus of strictly anaerobic, partially acid-fast bacteria; Lawsonella clevelandensis, formally described in 2016, is its only currently recognised species.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "It is a skin-associated organism: species-level reanalysis of Human Microbiome Project data found it common in adult nostrils, and a skin survey found sebaceous scalp sites rich in it.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "The organism is fastidious and missing from routine diagnostic databases, so 16S rRNA gene amplification and metagenomic sequencing are used to identify it.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A narrative review describes it as increasingly recognised as a cause of deep-seated abscesses, with a potential association with diabetes, immunosuppression and prior surgery, and a predilection for fat-rich tissues.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Jin Y, Zhou M, Gao Y, Zhou X, Tao X.",
+   "title": "Lawsonella clevelandensis: a normal flora that bites deep.",
+   "journal": "Frontiers in Cellular and Infection Microbiology",
+   "year": 2026,
+   "pmid": "42682910",
+   "n": 1,
+   "doi": "10.3389/fcimb.2026.1914466"
+  },
+  {
+   "authors": "Escapa IF, Chen T, Huang Y, Gajare P, Dewhirst FE, Lemon KP.",
+   "title": "New Insights into Human Nostril Microbiome from the Expanded Human Oral Microbiome Database (eHOMD).",
+   "journal": "mSystems",
+   "year": 2018,
+   "pmid": "30534599",
+   "n": 2,
+   "doi": "10.1128/msystems.00187-18"
+  },
+  {
+   "authors": "Kim SY, Tran TQT, Nam KH, Yun SK, Park J.",
+   "title": "Distinct site-specific bacterial microbiota within and between skin physiologic types in healthy Koreans: a pilot study.",
+   "journal": "Scientific Reports",
+   "year": 2026,
+   "pmid": "42463922",
+   "n": 3,
+   "doi": "10.1038/s41598-026-62903-7"
+  },
+  {
+   "authors": "Zhao H, Han Z, Liu S, Qi X, Li H, Wang S.",
+   "title": "A proposed Lawsonella species with distinct functional features from L. clevelandensis revealed by metagenomics.",
+   "journal": "Genomics",
+   "year": 2025,
+   "pmid": "40684816",
+   "n": 4,
+   "doi": "10.1016/j.ygeno.2025.111089"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

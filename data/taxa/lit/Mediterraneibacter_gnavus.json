@@ -1,0 +1,81 @@
+{
+ "slug": "Mediterraneibacter_gnavus",
+ "taxon": "s__Mediterraneibacter gnavus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Mediterraneibacter gnavus (formerly Ruminococcus gnavus)",
+ "name_note": "The GTDB name Mediterraneibacter gnavus corresponds to the classical Ruminococcus gnavus, reclassified into the genus Mediterraneibacter.",
+ "sentences": [
+  {
+   "text": "Mediterraneibacter gnavus, also called Ruminococcus gnavus, is a Gram-positive anaerobic bacterium of the human gut microbiota.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "The species was formally transferred to Mediterraneibacter as M. gnavus comb. nov., with type strain ATCC 29149.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "One report describes the bacterium as playing dual roles in health and disease, supporting nutrient metabolism essential for bodily functions while also contributing to the development of inflammatory bowel disease.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "A study of fecal samples from NASH patients and controls reported enrichment of ethanol-producing bacteria including M. gnavus.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a gut microbiome study of hypertension patients, Mediterraneibacter gnavus was reported to act as a key node in co-occurrence network analysis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Togo AH, Diop A, et al.",
+   "title": "Description of Mediterraneibacter massiliensis, gen. nov., sp. nov., a new genus isolated from the gut microbiota of an obese patient and reclassification of Ruminococcus faecis, Ruminococcus lactaris, Ruminococcus torques, Ruminococcus gnavus and Clostridium glycyrrhizinilyticum as Mediterraneibacter faecis comb. nov., Mediterraneibacter lactaris comb. nov., Mediterraneibacter torques comb. nov., Mediterraneibacter gnavus comb. nov. and Mediterraneibacter glycyrrhizinilyticus comb. nov.",
+   "journal": "Antonie van Leeuwenhoek",
+   "year": 2018,
+   "pmid": "29855844",
+   "n": 1,
+   "doi": "10.1007/s10482-018-1104-y"
+  },
+  {
+   "authors": "Mbaye B, Magdy Wasfy R, et al.",
+   "title": "Increased fecal ethanol and enriched ethanol-producing gut bacteria Limosilactobacillus fermentum , Enterocloster bolteae , Mediterraneibacter gnavus and Streptococcus mutans in nonalcoholic steatohepatitis.",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2023,
+   "pmid": "38035329",
+   "n": 2,
+   "doi": "10.3389/fcimb.2023.1279354"
+  },
+  {
+   "authors": "Ding H, Xu Y, et al.",
+   "title": "Gut microbiome profile of Chinese hypertension patients with and without type 2 diabetes mellitus.",
+   "journal": "BMC microbiology",
+   "year": 2023,
+   "pmid": "37689641",
+   "n": 3,
+   "doi": "10.1186/s12866-023-02967-x"
+  },
+  {
+   "authors": "Dingding H, Muhammad S, et al.",
+   "title": "Subtractive proteomics and reverse-vaccinology approaches for novel drug targets and designing a chimeric vaccine against Ruminococcus gnavus strain RJX1120.",
+   "journal": "Frontiers in immunology",
+   "year": 2025,
+   "pmid": "40297578",
+   "n": 4,
+   "doi": "10.3389/fimmu.2025.1555741"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

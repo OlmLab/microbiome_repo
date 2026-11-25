@@ -1,0 +1,81 @@
+{
+ "slug": "Staphylococcus_capitis",
+ "taxon": "s__Staphylococcus capitis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Staphylococcus capitis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Staphylococcus capitis is a coagulase-negative staphylococcus described as a commensal bacterium of human skin that must also be considered an opportunistic pathogen.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species is divided into two subspecies, Staphylococcus capitis subsp. ureolyticus and Staphylococcus capitis subsp. capitis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative genomic study called it primarily a human skin commensal now emergent as an opportunistic pathogen of the bloodstream, prosthetic joints and neonatal intensive care units.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A virulent clone designated NRCS-A has been reported to be responsible for outbreaks of neonatal sepsis, primarily in Europe.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In 42 extremely preterm neonates, S. capitis made up 13 percent of coagulase-negative staphylococci on skin or mucous membranes, and septicemia isolates belonged to the NRCS-A clone.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Crepin DM, Chavignon M, et al.",
+   "title": "<i>Staphylococcus capitis</i>: insights into epidemiology, virulence, and antimicrobial resistance of a clinically relevant bacterial species",
+   "journal": "Clinical microbiology reviews",
+   "year": 2024,
+   "pmid": "38899876",
+   "n": 1,
+   "doi": "10.1128/cmr.00118-23"
+  },
+  {
+   "authors": "Chong CE, Bengtsson RJ, et al.",
+   "title": "Comparative genomics of  Staphylococcus capitis  reveals species determinants",
+   "journal": "Frontiers in microbiology",
+   "year": 2022,
+   "pmid": "36246238",
+   "n": 2,
+   "doi": "10.3389/fmicb.2022.1005949"
+  },
+  {
+   "authors": "Hirose M, Aung MS, et al.",
+   "title": "Prevalence and genetic characteristics of Staphylococcus capitis proto-NRCS-A clone among colonizing isolates from healthy individuals in Japan",
+   "journal": "Journal of infection and public health",
+   "year": 2026,
+   "pmid": "41338042",
+   "n": 3,
+   "doi": "10.1016/j.jiph.2025.103071"
+  },
+  {
+   "authors": "Nowrouzian FL, Lumingkit K, et al.",
+   "title": "Tracing <i>Staphylococcus capitis</i> and <i>Staphylococcus epidermidis</i> strains causing septicemia in extremely preterm infants to the skin, mouth, and gut microbiota",
+   "journal": "Applied and environmental microbiology",
+   "year": 2025,
+   "pmid": "39692500",
+   "n": 4,
+   "doi": "10.1128/aem.00980-24"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

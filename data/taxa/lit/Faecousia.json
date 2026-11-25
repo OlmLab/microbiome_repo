@@ -1,0 +1,51 @@
+{
+ "slug": "Faecousia",
+ "taxon": "g__Faecousia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Faecousia",
+ "name_note": "Faecousia is a recently created genus name; most genomes GTDB places here already carry the NCBI name Faecousia.",
+ "sentences": [
+  {
+   "text": "Faecousia is a bacterial genus reported in faecal microbiota surveyed by 16S rRNA gene sequencing.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A case-control study of post-weaning dairy calves reported Faecousia enriched in diarrheic calves after FDR correction.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study that sequenced lung tumour and adjacent tissues from patients reported Faecousia among genera more abundant in multiple primary lung cancer.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zhang J, Zhu J, Li Y, Hao X, Dong Z, Gao Z, Li X.",
+   "title": "Fecal Microbiota Dysbiosis and Diarrhea-Associated Bacterial Taxa in Post-Weaning Dairy Calves.",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42943411",
+   "n": 1,
+   "doi": "10.3390/microorganisms14102171"
+  },
+  {
+   "authors": "Chen Y, Wang Y, Shen S, Lu J, Peng Q, Yan X, Peng H, Xu Z.",
+   "title": "Comparative microbiome profiling reveals unique signatures in multiple primary lung cancers.",
+   "journal": "Translational cancer research",
+   "year": 2025,
+   "pmid": "41234847",
+   "n": 2,
+   "doi": "10.21037/tcr-2025-926"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

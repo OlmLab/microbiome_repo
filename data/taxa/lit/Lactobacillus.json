@@ -1,0 +1,81 @@
+{
+ "slug": "Lactobacillus",
+ "taxon": "g__Lactobacillus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Lactobacillus",
+ "name_note": "GTDB g__Lactobacillus follows the 2020 emended, narrow genus; many species in older papers now belong to other genera such as Lactiplantibacillus or Limosilactobacillus.",
+ "sentences": [
+  {
+   "text": "Lactobacillus is a genus of lactic acid bacteria; in 2020 the broad genus of 261 species was split into 25 genera, leaving an emended, host-adapted Lactobacillus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Members ferment sugars to lactic acid; the dairy starter Lactobacillus delbrueckii is noted for efficient lactose use and rapid acidification.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The genus is long recognised for roles in food fermentation and as a mainstay of probiotic preparations.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "In the female genital tract, protective Lactobacillus strains dominate a balanced vaginal microecology.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Reviews have associated depletion of lactobacilli, with overgrowth of anaerobes, with persistence of high-risk papillomavirus infection and cervical malignant transformation.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zheng J, Wittouck S, et al.",
+   "title": "A taxonomic note on the genus Lactobacillus: Description of 23 novel genera, emended description of the genus Lactobacillus Beijerinck 1901, and union of Lactobacillaceae and Leuconostocaceae",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "32293557",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.004107"
+  },
+  {
+   "authors": "Nami Y, Barghi A, et al.",
+   "title": "Lactobacillus delbrueckii: A Functional Powerhouse in Dairy Fermentation and Emerging Probiotic Applications",
+   "journal": "Food science & nutrition",
+   "year": 2026,
+   "pmid": "41710811",
+   "n": 2,
+   "doi": "10.1002/fsn3.71546"
+  },
+  {
+   "authors": "Zhou X, Hu J, et al.",
+   "title": "The Vaginal Microbiome Across the Continuum from HPV Infection to Cervical Cancer: A Narrative Review",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42943398",
+   "n": 3,
+   "doi": "10.3390/microorganisms14102158"
+  },
+  {
+   "authors": "Chaichana N, Singkhamanan K, et al.",
+   "title": "From Fermentation to Function: Genomic Diversity and Probiotic Potential in the Reclassified Lactobacillus Lineage",
+   "journal": "Computational and structural biotechnology journal",
+   "year": 2026,
+   "pmid": "41971946",
+   "n": 4,
+   "doi": "10.34133/csbj.0004"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

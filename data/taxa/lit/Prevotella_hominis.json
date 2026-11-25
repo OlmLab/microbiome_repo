@@ -1,0 +1,51 @@
+{
+ "slug": "Prevotella_hominis",
+ "taxon": "s__Prevotella hominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Prevotella hominis (NCBI: Segatella hominis)",
+ "name_note": "GTDB's s__Prevotella hominis is the species described as Prevotella hominis; the genomes in this taxon carry the NCBI name Segatella hominis after the reclassification of Prevotella into several genera.",
+ "sentences": [
+  {
+   "text": "Genomic comparison placed the strain as an independent lineage from Prevotella copri, its closest relative, with similarity values clearly below species delineation thresholds.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Acetate and succinate were produced from glucose as metabolic end products, and the predominant menaquinones were MK-11 and MK-12.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Species previously assigned to the genus Prevotella were later reclassified into seven genera, including four novel genera named Segatella, Hoylesella, Leyella and Palleniella.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Liou JS, Huang CH, et al.",
+   "title": "Prevotella hominis sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "32697186",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.004342"
+  },
+  {
+   "authors": "Hitch TCA, Bisdorf K, et al.",
+   "title": "A taxonomic note on the genus Prevotella: Description of four novel genera and emended description of the genera Hallella and Xylanibacter.",
+   "journal": "Systematic and applied microbiology",
+   "year": 2022,
+   "pmid": "36067550",
+   "n": 2,
+   "doi": "10.1016/j.syapm.2022.126354"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

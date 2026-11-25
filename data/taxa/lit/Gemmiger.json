@@ -1,0 +1,75 @@
+{
+ "slug": "Gemmiger",
+ "taxon": "g__Gemmiger",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Gemmiger (literature also uses Subdoligranulum)",
+ "name_note": "Most genomes GTDB places in g__Gemmiger carry the NCBI names Gemmiger or Subdoligranulum, so papers on Subdoligranulum variabile describe members of this GTDB genus.",
+ "sentences": [
+  {
+   "text": "It ferments a variety of sugars, producing formic, butyric and lactic acids.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Subdoligranulum variabile, a close relative, was isolated from human faeces and its nearest named relative is Faecalibacterium prausnitzii.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In metagenomes from overweight and obese adults, Subdoligranulum stood out among species whose abundance tracked that of Akkermansia muciniphila.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study reported that antibodies from people at risk of rheumatoid arthritis cross-react with gut taxa, and that a Subdoligranulum isolate bound antibodies and activated T cells from patients.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Salanitro JP, Muirhead PA, et al.",
+   "title": "Morphological and physiological characteristics of Gemmiger formicilis isolated from chicken ceca",
+   "journal": "Applied and environmental microbiology",
+   "year": 1976,
+   "pmid": "984834",
+   "n": 1,
+   "doi": "10.1128/aem.32.4.623-632.1976"
+  },
+  {
+   "authors": "Holmstrøm K, Collins MD, et al.",
+   "title": "Subdoligranulum variabile gen. nov., sp. nov. from human feces",
+   "journal": "Anaerobe",
+   "year": 2004,
+   "pmid": "16701519",
+   "n": 2,
+   "doi": "10.1016/j.anaerobe.2004.01.004"
+  },
+  {
+   "authors": "Van Hul M, Le Roy T, et al.",
+   "title": "From correlation to causality: the case of Subdoligranulum",
+   "journal": "Gut microbes",
+   "year": 2020,
+   "pmid": "33323004",
+   "n": 3,
+   "doi": "10.1080/19490976.2020.1849998"
+  },
+  {
+   "authors": "Chriswell ME, Lefferts AR, et al.",
+   "title": "Clonal IgA and IgG autoantibodies from individuals at risk for rheumatoid arthritis identify an arthritogenic strain of Subdoligranulum",
+   "journal": "Science translational medicine",
+   "year": 2022,
+   "pmid": "36288282",
+   "n": 4,
+   "doi": "10.1126/scitranslmed.abn5166"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

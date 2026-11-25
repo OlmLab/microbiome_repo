@@ -1,0 +1,66 @@
+{
+ "slug": "Otoolea_symbiosa",
+ "taxon": "s__Otoolea symbiosa",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Clostridium symbiosum",
+ "name_note": "GTDB places genomes named [Clostridium] symbiosum (and one Clostridium fessum) in Otoolea symbiosa; the literature uses the name Clostridium symbiosum.",
+ "sentences": [
+  {
+   "text": "Clostridium symbiosum has been described as a short-chain fatty acid producer, and gut microbiome composition has been reported to influence stroke outcomes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study measured the relative abundance of fecal Clostridium symbiosum by qPCR in controls, colorectal adenoma patients, and early and advanced colorectal cancer patients.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study reported a stepwise increase of C. symbiosum abundance across adenoma, early and advanced colorectal cancer, and proposed it as a noninvasive detection biomarker.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Its NAD+-linked glutamate dehydrogenase has been studied structurally, with reports describing a hexameric enzyme whose subunits form two domains separated by a deep cleft.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lee J, d'Aigle J, et al.",
+   "title": "Gut Microbiota-Derived Short-Chain Fatty Acids Promote Poststroke Recovery in Aged Mice.",
+   "journal": "Circulation research",
+   "year": 2020,
+   "pmid": "32354259",
+   "n": 1,
+   "doi": "10.1161/circresaha.119.316448"
+  },
+  {
+   "authors": "Baker PJ, Britton KL, et al.",
+   "title": "Subunit assembly and active site location in the structure of glutamate dehydrogenase.",
+   "journal": "Proteins",
+   "year": 1992,
+   "pmid": "1553382",
+   "n": 2,
+   "doi": "10.1002/prot.340120109"
+  },
+  {
+   "authors": "Xie YH, Gao QY, et al.",
+   "title": "Fecal Clostridium symbiosum for Noninvasive Detection of Early and Advanced Colorectal Cancer: Test and Validation Studies.",
+   "journal": "EBioMedicine",
+   "year": 2017,
+   "pmid": "29033369",
+   "n": 3,
+   "doi": "10.1016/j.ebiom.2017.10.005"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

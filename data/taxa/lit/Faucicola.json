@@ -1,0 +1,93 @@
+{
+ "slug": "Faucicola",
+ "taxon": "g__Faucicola",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Faucicola",
+ "name_note": "The GTDB genus Faucicola holds genomes that NCBI labels Moraxella or Enhydrobacter, matching a published reclassification of several Moraxella species into Faucicola.",
+ "sentences": [
+  {
+   "text": "Faucicola is a genus of Gram-negative bacteria in the family Moraxellaceae; a taxogenomic study reassigned Moraxella boevrei, Moraxella osloensis and Moraxella atlantae to this genus.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Faucicola mancuniensis has been isolated from the human respiratory tract, and a genomic study of one isolate reported a 2,740,046 bp genome that was susceptible to all 29 antibiotics tested.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Moraxella osloensis, one of the species reassigned to Faucicola, has been isolated from human skin and was described as an abundant skin bacterium in a single-cell sequencing study.",
+   "refs": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "text": "A skin metagenomic study identified Moraxella osloensis as a species specific for Chinese skin and as the signature species of one of two microbial network patterns, or cutotypes.",
+   "refs": [
+    5
+   ]
+  },
+  {
+   "text": "The wider genus Moraxella, from which these species come, has been described as inhabiting human and animal mucosa as well as water, soil and food.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sbissi I, Kammoun I, et al.",
+   "title": "Reclassification of Moraxella boevrei , M. osloensis and M. atlantae , into the genus Faucicola , and proposal of a new genus within the family Moraxellaceae , Lwoffella lincolnii gen. nov., comb. nov., to accommodate the divergent species Moraxella lincolnii ",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2025,
+   "pmid": "40540407",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006820"
+  },
+  {
+   "authors": "Gu T, Zhou J, et al.",
+   "title": "Faucicola mancuniensis isolated from human respiratory tract and its genomic characteristicstics",
+   "journal": "BMC microbiology",
+   "year": 2025,
+   "pmid": "40999358",
+   "n": 2,
+   "doi": "10.1186/s12866-025-04253-4"
+  },
+  {
+   "authors": "Lim JY, Hwang I, et al.",
+   "title": "Complete Genome Sequences of Three Moraxella osloensis Strains Isolated from Human Skin",
+   "journal": "Genome announcements",
+   "year": 2018,
+   "pmid": "29348360",
+   "n": 3,
+   "doi": "10.1128/genomea.01509-17"
+  },
+  {
+   "authors": "Ide K, Saeki T, et al.",
+   "title": "Exploring strain diversity of dominant human skin bacterial species using single-cell genome sequencing",
+   "journal": "Frontiers in microbiology",
+   "year": 2022,
+   "pmid": "35992707",
+   "n": 4,
+   "doi": "10.3389/fmicb.2022.955404"
+  },
+  {
+   "authors": "Li Z, Xia J, et al.",
+   "title": "Characterization of the human skin resistome and identification of two microbiota cutotypes",
+   "journal": "Microbiome",
+   "year": 2021,
+   "pmid": "33597039",
+   "n": 5,
+   "doi": "10.1186/s40168-020-00995-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

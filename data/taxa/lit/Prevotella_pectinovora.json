@@ -1,0 +1,63 @@
+{
+ "slug": "Prevotella_pectinovora",
+ "taxon": "s__Prevotella pectinovora",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Prevotella pectinovora",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Prevotella pectinovora was described from five strictly anaerobic Gram-negative strains isolated from pig fecal samples, which formed a novel and discrete lineage distinct from other known Prevotella species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The isolates are rod-shaped with rounded ends, non-motile and non-spore-forming.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Their main fermentation products were succinate and acetate, with minor amounts of isovalerate, propionate and isobutyrate, and hydrogen was also produced.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A substantial portion of the genes involved in carbohydrate utilization was reported to be devoted to pectin degradation and utilization.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparison of gut microbiome profiles of 76 urban and 81 rural female residents of Vietnam reported Prevotella pectinovora among 17 taxa differing in abundance.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Nograšek B, Accetto T, et al.",
+   "title": "Description of a novel pectin-degrading bacterial species Prevotella pectinovora sp. nov., based on its phenotypic and genomic traits.",
+   "journal": "Journal of microbiology (Seoul, Korea)",
+   "year": 2015,
+   "pmid": "26224452",
+   "n": 1,
+   "doi": "10.1007/s12275-015-5142-0"
+  },
+  {
+   "authors": "Guo J, Tran HT, et al.",
+   "title": "Rural-urban differences in gut microbiome among Vietnamese women",
+   "journal": "medRxiv (preprint)",
+   "year": 2026,
+   "pmid": null,
+   "n": 2,
+   "doi": "10.64898/2026.10.04.26364707"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

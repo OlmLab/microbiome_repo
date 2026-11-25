@@ -1,0 +1,63 @@
+{
+ "slug": "Phocaeicola_coprocola",
+ "taxon": "s__Phocaeicola coprocola",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Phocaeicola coprocola",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Phocaeicola coprocola is a commensal bacterium whose therapeutic potential was investigated in murine models of Western diet-induced steatotic liver disease and of induced liver fibrosis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In the Western diet model, administration of this species attenuated hepatic steatosis, reduced lipogenic gene expression and improved metabolic and histological parameters.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In the advanced fibrosis model it significantly reduced cholestatic markers and fibrosis severity, with effects associated with selective downregulation of extracellular matrix-related fibrogenic programs.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Those effects were reported even in the absence of detectable gut colonization, which the authors took to suggest that stable engraftment is not required for therapeutic activity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In faecal samples from lung cancer patients treated with immune checkpoint inhibitors, Phocaeicola coprocola was enriched in the group that did not develop immune-related adverse events.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lee KJ, Park JH, Park H, Kim MJ, Yoon H, Kim JM, Han SH, Suk KT.",
+   "title": "<i>Phocaeicola coprocola</i> attenuates liver fibrosis by modulating extracellular matrix remodeling.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42606819",
+   "n": 1,
+   "doi": "10.1080/19490976.2026.2718623"
+  },
+  {
+   "authors": "Han X, Zang D, Lin M, Yin Y, Liu D, Sun Q, Chen J.",
+   "title": "Dynamic changes in gut microbiota and metabolites in advanced lung cancer patients with immune-related adverse events.",
+   "journal": "Frontiers in immunology",
+   "year": 2026,
+   "pmid": "42079638",
+   "n": 2,
+   "doi": "10.3389/fimmu.2026.1731931"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

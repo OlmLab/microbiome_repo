@@ -1,0 +1,66 @@
+{
+ "slug": "Ruminiclostridium_E",
+ "taxon": "g__Ruminiclostridium_E",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Eubacterium siraeum",
+ "name_note": "GTDB names this genus Ruminiclostridium_E and places in it the species it calls Ruminiclostridium_E siraeum, which papers call Eubacterium siraeum or [Eubacterium] siraeum; its other species are uncultured placeholders.",
+ "sentences": [
+  {
+   "text": "Eubacterium siraeum is a bacterium detected in faecal samples from a general-population cohort of 913 adults analysed by 16S ribosomal RNA amplicon sequencing.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that cohort, Eubacterium siraeum was associated with higher sensation seeking and also with more frequent alcohol consumption.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that the Eubacterium siraeum strain DSM15702 extensively degraded uric acid in vitro, and examined its effects in hyperuricaemic rats.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a dextran sulfate sodium-induced murine model of ulcerative colitis, Eubacterium siraeum was named among butyrate-producing bacteria enriched after treatment with dihydroartemisinin.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Konstanti P, Ahrens KF, Neumann RJ, Plichta MM, Schiweck C, Ruf A, Fiebach CJ, Kalisch R, Basten U, Wessa M, Tuescher O, Kollmann B, Lieb K, Arias-Vasquez A, Smidt H, Reif A, Matura S, Belzer C.",
+   "title": "Impulsivity among healthy adults is associated with diet and fecal microbiota composition.",
+   "journal": "Translational psychiatry",
+   "year": 2025,
+   "pmid": "40753077",
+   "n": 1,
+   "doi": "10.1038/s41398-025-03483-4"
+  },
+  {
+   "authors": "Wang H, Xu J, Liang K, Tian Y, Cui Z, Zhang J.",
+   "title": "Paecilomyces cicadae-fermented Radix astragali modulates short-chain fatty acids metabolism in the intestine through gut microbiota and ameliorates hyperuricaemia.",
+   "journal": "British journal of pharmacology",
+   "year": 2026,
+   "pmid": "42484510",
+   "n": 2,
+   "doi": "10.1111/bph.70565"
+  },
+  {
+   "authors": "Fan Q, Lu H, Chi X, Liu G, Dong Y, Zhang P, Shen X, Fan G.",
+   "title": "Dihydroartemisinin alleviates ulcerative colitis by modulating gut microbiota and butyrate to restore Treg/Th17 balance and intestinal barrier function.",
+   "journal": "International immunopharmacology",
+   "year": 2026,
+   "pmid": "41785599",
+   "n": 3,
+   "doi": "10.1016/j.intimp.2026.116455"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

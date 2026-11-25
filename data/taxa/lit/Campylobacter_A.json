@@ -1,0 +1,66 @@
+{
+ "slug": "Campylobacter_A",
+ "taxon": "g__Campylobacter_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Campylobacter concisus and related oral campylobacters",
+ "name_note": "In GTDB, Campylobacter_A is a split of the classical genus Campylobacter that contains the oral and intestinal species such as Campylobacter concisus, C. curvus, C. rectus and C. showae, not C. jejuni or C. coli.",
+ "sentences": [
+  {
+   "text": "Campylobacter concisus is described as a bacterium that inhabits human oral cavities and is found in dental plaque, and as a biofilm producer.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of children and adolescents with inflammatory bowel disease described C. concisus as an oral commensal and suspected intestinal pathogen, and cultured it from stool and saliva samples.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A report states that metagenome sequencing has linked strains including Campylobacter concisus to Crohn's disease and ulcerative colitis, and that the role in disease progression remains to be investigated.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "The same work identified nineteen indole-containing metabolites produced by C. concisus and assessed their contribution to inflammation.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Huq M, Wahid SUH, et al.",
+   "title": "Biofilm Formation in Campylobacter concisus: The Role of the luxS Gene",
+   "journal": "Microorganisms",
+   "year": 2023,
+   "pmid": "38257873",
+   "n": 1,
+   "doi": "10.3390/microorganisms12010046"
+  },
+  {
+   "authors": "Neuenschwander S, Casanova C, et al.",
+   "title": "Genomic association of Campylobacter concisus for colonization advantages and virulence in children and adolescents with inflammatory bowel disease",
+   "journal": "BMC microbiology",
+   "year": 2026,
+   "pmid": "41845227",
+   "n": 2,
+   "doi": "10.1186/s12866-026-04937-5"
+  },
+  {
+   "authors": "Park JD, Lee SR, et al.",
+   "title": "Elucidating the role of Campylobacter concisus-derived indole metabolites in gut inflammation and immune modulation",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2025,
+   "pmid": "40825123",
+   "n": 3,
+   "doi": "10.1073/pnas.2514071122"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

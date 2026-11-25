@@ -1,0 +1,73 @@
+{
+ "slug": "Cutibacterium_granulosum",
+ "taxon": "s__Cutibacterium granulosum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Cutibacterium granulosum",
+ "name_note": "The species was formerly named Propionibacterium granulosum, and one cited study uses that earlier name.",
+ "sentences": [
+  {
+   "text": "Cutibacterium granulosum, formerly known as Propionibacterium granulosum, is a commensal bacterium found on human skin.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is grouped with Cutibacterium avidum and Cutibacterium acnes as commensal skin bacteria, and is described as rarely causing infections and generally considered non-pathogenic.",
+   "refs": [
+    2,
+    1
+   ]
+  },
+  {
+   "text": "Research has revealed that the multidrug-resistant plasmid pTZC1 can transfer between C. granulosum and C. acnes, the latter an opportunistic pathogen in surgical site infections.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative genomic study of 30 metagenome-assembled and isolate genomes identified a pan-genome of 6,077 genes for the species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Another study reported an extracellular nuclease, BmdE, secreted by this species that degraded Propionibacterium acnes biofilm in vitro and in vivo, suggesting competition between the two species.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Chen P, Wang S, et al.",
+   "title": "Comparative genomic analyses of Cutibacterium granulosum provide insights into genomic diversity",
+   "journal": "Frontiers in microbiology",
+   "year": 2024,
+   "pmid": "38304712",
+   "n": 1,
+   "doi": "10.3389/fmicb.2024.1343227"
+  },
+  {
+   "authors": "Koizumi J, Otake R, et al.",
+   "title": "Functional analysis of a novel macrolide-lincosamide resistance gene erm(57) in Cutibacterium avidum",
+   "journal": "The Journal of antimicrobial chemotherapy",
+   "year": 2026,
+   "pmid": "41793740",
+   "n": 2,
+   "doi": "10.1093/jac/dkag029"
+  },
+  {
+   "authors": "Bronnec V, Eilers H, et al.",
+   "title": "Propionibacterium (Cutibacterium) granulosum Extracellular DNase BmdE Targeting Propionibacterium (Cutibacterium) acnes Biofilm Matrix, a Novel Inter-Species Competition Mechanism",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2021,
+   "pmid": "35155271",
+   "n": 3,
+   "doi": "10.3389/fcimb.2021.809792"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

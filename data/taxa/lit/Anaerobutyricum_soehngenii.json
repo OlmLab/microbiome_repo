@@ -1,0 +1,63 @@
+{
+ "slug": "Anaerobutyricum_soehngenii",
+ "taxon": "s__Anaerobutyricum soehngenii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Anaerobutyricum soehngenii",
+ "name_note": "Papers state that Anaerobutyricum soehngenii was previously called Eubacterium hallii; the NCBI organism name of the GTDB representative genome is Anaerobutyricum hallii, the other species of the same genus.",
+ "sentences": [
+  {
+   "text": "Anaerobutyricum soehngenii belongs to the genus Anaerobutyricum, which is prevalent in the human gut microbiota and produces short-chain fatty acids that influence host metabolism and inflammation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genomic analysis of 84 Anaerobutyricum genomes reported that Anaerobutyricum hallii and Anaerobutyricum soehngenii are specific to human hosts, with longer genomes and lower GC content.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Anaerobutyricum soehngenii, previously called Eubacterium hallii, is described as a butyrate-producing next-generation beneficial microbe generally recognized as safe.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a 3-month double-blind randomized placebo-controlled intervention in 98 prediabetic insulin-resistant adults, treated subjects showed significantly reduced glycemic variability and improved glycemic control.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Several short-term intervention trials with strain L2-7 were reported to show improvement of insulin sensitivity in prediabetic subjects and type 2 diabetes patients.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gu C, Wang D, Han K, Li J, Chen L, Zhuang Q, Yao T, Wei H, Yue J, Hua M, Chen C.",
+   "title": "Genomic mechanisms underlying the adaptation of Anaerobutyricum species to the human host.",
+   "journal": "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+   "year": 2025,
+   "pmid": "41109491",
+   "n": 1,
+   "doi": "10.1016/j.meegid.2025.105844"
+  },
+  {
+   "authors": "Attaye I, Bird JK, Nieuwdorp M, Gül S, Seegers JFML, Morrison S, Hofkens S, Herrema H, Bui N, Puhlmann ML, de Vos WM.",
+   "title": "<i>Anaerobutyricum soehngenii</i> improves glycemic control and other markers of cardio-metabolic health in adults at risk of type 2 diabetes.",
+   "journal": "Gut microbes",
+   "year": 2025,
+   "pmid": "40371708",
+   "n": 2,
+   "doi": "10.1080/19490976.2025.2504115"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

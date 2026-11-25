@@ -1,0 +1,57 @@
+{
+ "slug": "Ruminococcoides_bromii",
+ "taxon": "s__Ruminococcoides bromii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Ruminococcus bromii",
+ "name_note": "GTDB R232 places this species in the genus Ruminococcoides as s__Ruminococcoides bromii; the genomes and the published literature use the name Ruminococcus bromii.",
+ "sentences": [
+  {
+   "text": "Ruminococcus bromii is the primary resistant starch degrader in humans and relies on the amylosome, a specialised cell-bound enzymatic complex.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Cryo-electron tomography showed that this amylosome comprises a constitutive extracellular layer extending toward the resistant starch substrate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In constipated mice, four Ruminococcus species were tested and R. bromii was most effective, with its pullulanase enzyme key to degrading resistant starch.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study reported this degradation boosted short-chain fatty acid production and fostered bacteria such as Akkermansia and Bifidobacterium.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wimmer BH, Moraïs S, et al.",
+   "title": "Spatial constraints drive amylosome-mediated resistant starch degradation by Ruminococcus bromii in the human colon",
+   "journal": "Nature communications",
+   "year": 2025,
+   "pmid": "41298524",
+   "n": 1,
+   "doi": "10.1038/s41467-025-65800-1"
+  },
+  {
+   "authors": "Li R, Yang Q, et al.",
+   "title": "Ruminococcus bromii alleviates constipation by pullulanase-driven resistant starch degradation and microbiota modulation",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2025,
+   "pmid": "41390334",
+   "n": 2,
+   "doi": "10.1038/s41522-025-00877-6"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

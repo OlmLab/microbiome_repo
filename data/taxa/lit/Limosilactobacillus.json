@@ -1,0 +1,66 @@
+{
+ "slug": "Limosilactobacillus",
+ "taxon": "g__Limosilactobacillus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Limosilactobacillus",
+ "name_note": "The GTDB genus matches the published genus Limosilactobacillus, but GTDB divides the published species Limosilactobacillus reuteri into several separate species with letter suffixes.",
+ "sentences": [
+  {
+   "text": "A core-genome phylogenomic analysis of Limosilactobacillus reuteri identified eight lineages, four of them represented by isolates from intestinal digesta or faeces of rodents and primates.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "On that basis one new species, Limosilactobacillus secundus, and three new subspecies of L. reuteri were proposed.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genome-wide association study reported that Limosilactobacillus reuteri was among the Lactobacillaceae species showing the highest degrees of host specialization.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A systematic review and meta-analysis of six randomized trials evaluated Limosilactobacillus reuteri DSM 17938 for treating acute gastroenteritis in children, with duration of diarrhoea as primary outcome.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Guo X, Yang Y, et al.",
+   "title": "Proposal of Limosilactobacillus secundus sp. nov., Limosilactobacillus reuteri subsp. pararodentium subsp. nov., Limosilactobacillus reuteri subsp. peregrinus subsp. nov. and Limosilactobacillus reuteri subsp. simiae subsp. nov., isolated from the gastrointestinal tract of vertebrate hosts.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "41790565",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.007099"
+  },
+  {
+   "authors": "Bujdoš D, Walter J, et al.",
+   "title": "Genome-wide association analysis reveals specialization to hosts and niches in multiple species of the Lactobacillaceae.",
+   "journal": "The ISME journal",
+   "year": 2026,
+   "pmid": "42535690",
+   "n": 2,
+   "doi": "10.1093/ismejo/wrag198"
+  },
+  {
+   "authors": "Dinleyici EC, Indrio F, et al.",
+   "title": "Efficacy and safety of Limosilactobacillus reuteri DSM 17938 for the treatment of acute gastroenteritis in children: a systematic review and meta-analysis of randomized controlled trials.",
+   "journal": "Frontiers in pediatrics",
+   "year": 2026,
+   "pmid": "42964348",
+   "n": 3,
+   "doi": "10.3389/fped.2026.1941872"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

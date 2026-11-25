@@ -1,0 +1,63 @@
+{
+ "slug": "Citrobacter",
+ "taxon": "g__Citrobacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Citrobacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Citrobacter is a genus of Gram-negative, facultatively anaerobic, non-spore-forming rods belonging to the family Enterobacteriaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review reports that Citrobacter species are widely distributed in soil, water and sewage, and are also part of the intestinal flora of humans and animals.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review reports that Citrobacter species are associated with a range of infections, including urinary tract infections, gastrointestinal diseases, neonatal meningitis and sepsis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Another review describes Citrobacter strains spreading from carriers or other hospital sources and causing nosocomial infections in hospital settings.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That review also describes the recent emergence and spread of resistance to beta-lactams, carbapenems, fluoroquinolones, aminoglycosides and colistin in Citrobacter species.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Purkayastha A, Saikia S, Gogoi I, Chetia P.",
+   "title": "From environmental reservoirs to clinical threats: the expanding resistome and genetic plasticity of Citrobacter spp",
+   "journal": "Infection",
+   "year": 2026,
+   "pmid": "41801637",
+   "n": 1,
+   "doi": "10.1007/s15010-026-02758-2"
+  },
+  {
+   "authors": "Jabeen I, Islam S, Hassan AKMI, Tasnim Z, Shuvo SR.",
+   "title": "A brief insight into <i>Citrobacter</i> species - a growing threat to public health",
+   "journal": "Frontiers in antibiotics",
+   "year": 2023,
+   "pmid": "39816660",
+   "n": 2,
+   "doi": "10.3389/frabi.2023.1276982"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

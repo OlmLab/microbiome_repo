@@ -1,0 +1,74 @@
+{
+ "slug": "Bilophila_wadsworthia",
+ "taxon": "s__Bilophila wadsworthia",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bilophila wadsworthia",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bilophila wadsworthia is an obligately anaerobic, sulfite-reducing, Gram-negative bacterium described as a common human pathobiont inhabiting the distal intestinal tract.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "It is reported to use a diverse range of food- and host-derived sulfonates to generate sulfite as a terminal electron acceptor for anaerobic respiration, converting sulfonate sulfur to H2S.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that it colonises the gut of germ-free male mice fed a high-fat diet using microcompartment and anaerobic energy genes, metabolising taurine and isethionate to H2S, acetate and ethanol.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "High-fat diets have been reported to reshape gut microbiota composition and promote expansion of this sulfidogenic bacterium, which has been linked to inflammation and gut barrier dysfunction.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Published work describes it as often isolated from patients diagnosed with appendicitis and inflammatory bowel disease, with the H2S it forms implicated in inflammatory conditions and colon cancer.",
+   "refs": [
+    1,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Liu X, Wei Y, Zhang J, Zhou Y, Du Y, Zhang Y",
+   "title": "Isethionate is an intermediate in the degradation of sulfoacetate by the human gut pathobiont Bilophila wadsworthia.",
+   "journal": "The Journal of biological chemistry",
+   "year": 2023,
+   "pmid": "37414148",
+   "n": 1,
+   "doi": "10.1016/j.jbc.2023.105010"
+  },
+  {
+   "authors": "Sayavedra L, Yasir M, Goldson A, Brion A, Le Gall G, Moreno-Gonzalez M, Altera A, Paxhia MD, Warren M, Savva GM, Turner AK, Beraza N, Narbad A",
+   "title": "Bacterial microcompartments and energy metabolism drive gut colonization by Bilophila wadsworthia.",
+   "journal": "Nature communications",
+   "year": 2025,
+   "pmid": "40447622",
+   "n": 2,
+   "doi": "10.1038/s41467-025-60180-y"
+  },
+  {
+   "authors": "Yoshida C, Hagihara M, Azuma R, Iwasaki K, Nakamura A, Suematsu H, Tanaka K, Ariyoshi T, Oka K, Takahashi M, Yamagishi Y, Mikamo H",
+   "title": "Lipoproteins from Bilophila wadsworthia cell wall induce innate immune responses through Toll-like receptor 2.",
+   "journal": "Anaerobe",
+   "year": 2025,
+   "pmid": "41022182",
+   "n": 3,
+   "doi": "10.1016/j.anaerobe.2025.103001"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

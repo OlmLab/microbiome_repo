@@ -1,0 +1,51 @@
+{
+ "slug": "Huintestinicola",
+ "taxon": "g__Huintestinicola",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Huintestinicola",
+ "name_note": "The NCBI labels on the genomes GTDB places in this genus are mostly unnamed or Ruminococcus, a different genus; only sources that use the name Huintestinicola are cited here.",
+ "sentences": [
+  {
+   "text": "Huintestinicola butyrica was among the anaerobic gut taxa reported from metagenomic analysis of internal tissues of a 5300-year-old alpine glacier mummy.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The authors of that study reported that these taxa showed high similarity to ancestral, non-Westernized human gut communities.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of faecal samples from Holstein cows reported Huintestinicola among eight genus-level bacteria identified as specific to both groups of cows that did not become pregnant.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sarhan MS, Samadelli M, Zink A, Maixner F.",
+   "title": "The Iceman's microbiome: unveiling millennia of microbial diversity and continuity.",
+   "journal": "Microbiome",
+   "year": 2026,
+   "pmid": "42231509",
+   "n": 1,
+   "doi": "10.1186/s40168-026-02417-6"
+  },
+  {
+   "authors": "Kitagawa Y, Oishi S, Koshimizu K, Miura R, Hamano S, Iwata H, Shirasuna K.",
+   "title": "Differences in the Gut Microbiota in Long-Term Infertile Holstein Repeat Breeder Cows and Healthy Fertile Holstein Cows.",
+   "journal": "Animals : an open access journal from MDPI",
+   "year": 2025,
+   "pmid": "41007883",
+   "n": 2,
+   "doi": "10.3390/ani15182637"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

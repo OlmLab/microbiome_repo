@@ -1,0 +1,85 @@
+{
+ "slug": "Escherichia",
+ "taxon": "g__Escherichia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Escherichia (chiefly Escherichia coli)",
+ "name_note": "GTDB g__Escherichia also contains the genomes named Shigella in NCBI, because Shigella sits phylogenetically inside Escherichia coli.",
+ "sentences": [
+  {
+   "text": "Escherichia coli is a facultatively anaerobic Gram-negative rod whose primary habitat is the vertebrate gut, where it is the predominant aerobic organism.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "In healthy human adults the gut carries a mixture of long-lived resident Escherichia coli strains and short-lived transient strains.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The pathogen genus Shigella is genomically part of Escherichia coli, and the species as a whole is highly diverse in genome structure.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Published work associates particular lineages with disease: enterotoxigenic Escherichia coli has been reported as a major cause of diarrhoea in children and travellers in developing countries.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tenaillon O, Skurnik D, Picard B, Denamur E.",
+   "title": "The population genetics of commensal Escherichia coli.",
+   "journal": "Nature Reviews Microbiology",
+   "year": 2010,
+   "pmid": "20157339",
+   "n": 1,
+   "doi": "10.1038/nrmicro2298"
+  },
+  {
+   "authors": "Martinson JNV, Walk ST.",
+   "title": "Escherichia coli Residency in the Gut of Healthy Human Adults.",
+   "journal": "EcoSal Plus",
+   "year": 2020,
+   "pmid": "32978935",
+   "n": 2,
+   "doi": "10.1128/ecosalplus.esp-0003-2020"
+  },
+  {
+   "authors": "Fukiya S, Mizoguchi H, Tobe T, Mori H.",
+   "title": "Extensive genomic diversity in pathogenic Escherichia coli and Shigella strains revealed by comparative genomic hybridization microarray.",
+   "journal": "Journal of Bacteriology",
+   "year": 2004,
+   "pmid": "15175305",
+   "n": 3,
+   "doi": "10.1128/jb.186.12.3911-3921.2004"
+  },
+  {
+   "authors": "Ramos S, Silva V, Dapkevicius MLE, et al.",
+   "title": "Escherichia coli as Commensal and Pathogenic Bacteria Among Food-Producing Animals.",
+   "journal": "Animals",
+   "year": 2020,
+   "pmid": "33260303",
+   "n": 4,
+   "doi": "10.3390/ani10122239"
+  },
+  {
+   "authors": "Zhang Y, Tan P, Zhao Y, Ma X.",
+   "title": "Enterotoxigenic Escherichia coli: intestinal pathogenesis mechanisms and colonization resistance by gut microbiota.",
+   "journal": "Gut Microbes",
+   "year": 2022,
+   "pmid": "35358002",
+   "n": 5,
+   "doi": "10.1080/19490976.2022.2055943"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

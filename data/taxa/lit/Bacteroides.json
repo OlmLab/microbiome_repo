@@ -1,0 +1,91 @@
+{
+ "slug": "Bacteroides",
+ "taxon": "g__Bacteroides",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Bacteroides",
+ "name_note": "GTDB g__Bacteroides is narrower than the classical genus: part of the NCBI Bacteroides genomes, including the vulgatus and dorei group, are placed in Phocaeicola instead.",
+ "sentences": [
+  {
+   "text": "Bacteroides are anaerobic, non-spore-forming Gram-negative bacteria that are resistant to bile acids and are major members of the human gastrointestinal tract.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "They metabolise dietary polysaccharides and oligosaccharides, supplying nutrition and vitamins to the host and to other microbes living in the intestine.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The genome of Bacteroides thetaiotaomicron, a dominant gut member, encodes an extensive apparatus for taking up and breaking down polysaccharides the host cannot digest.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A century of study of this readily cultured, genetically tractable group has given insight into the biochemistry, genomics and ecology of gut bacteria.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "Although usually commensal, some species have been reported as opportunistic pathogens in GI disease, trauma, cancer or surgery, and studies have associated lower gut Bacteroides levels with inflammatory bowel disease.",
+   "refs": [
+    1,
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Shin JH, Tillotson G, et al.",
+   "title": "Bacteroides and related species: The keystone taxa of the human gut microbiota",
+   "journal": "Anaerobe",
+   "year": 2024,
+   "pmid": "38215933",
+   "n": 1,
+   "doi": "10.1016/j.anaerobe.2024.102819"
+  },
+  {
+   "authors": "Zafar H, Saier MH",
+   "title": "Gut <i>Bacteroides</i> species in health and disease",
+   "journal": "Gut microbes",
+   "year": 2021,
+   "pmid": "33535896",
+   "n": 2,
+   "doi": "10.1080/19490976.2020.1848158"
+  },
+  {
+   "authors": "Xu J, Bjursell MK, et al.",
+   "title": "A genomic view of the human-Bacteroides thetaiotaomicron symbiosis",
+   "journal": "Science (New York, N.Y.)",
+   "year": 2003,
+   "pmid": "12663928",
+   "n": 3,
+   "doi": "10.1126/science.1080029"
+  },
+  {
+   "authors": "Wexler AG, Goodman AL",
+   "title": "An insider's perspective: Bacteroides as a window into the microbiome",
+   "journal": "Nature microbiology",
+   "year": 2017,
+   "pmid": "28440278",
+   "n": 4,
+   "doi": "10.1038/nmicrobiol.2017.26"
+  },
+  {
+   "authors": "Zhou Y, Zhi F",
+   "title": "Lower Level of <i>Bacteroides</i> in the Gut Microbiota Is Associated with Inflammatory Bowel Disease: A Meta-Analysis",
+   "journal": "BioMed research international",
+   "year": 2016,
+   "pmid": "27999802",
+   "n": 5,
+   "doi": "10.1155/2016/5828959"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

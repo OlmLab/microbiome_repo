@@ -1,0 +1,66 @@
+{
+ "slug": "Fannyhessea_vaginae",
+ "taxon": "s__Fannyhessea vaginae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Fannyhessea vaginae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Few cases of F. vaginae bacteremia have been reported, primarily in the context of pregnancy or gynecological procedures.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Bacterial vaginosis is described as depletion of Lactobacillus species with overgrowth of facultative anaerobic bacteria, particularly Gardnerella spp. and Fannyhessea vaginae.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of 152 women reported higher F. vaginae loads in bacterial vaginosis than in normal and intermediate microbiota, with a selective increase in interleukin-1 beta.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Among 100 women undergoing in vitro fertilization in Taiwan, higher levels of bacteria associated with bacterial vaginosis, particularly Fannyhessea vaginae, correlated with implantation failure and early embryonic loss.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Okawa N, Kurihara M, et al.",
+   "title": "Fannyhessea vaginae bacteremia following transvaginal procedures: A rare complication in assisted reproductive technology",
+   "journal": "Diagnostic microbiology and infectious disease",
+   "year": 2025,
+   "pmid": "40513134",
+   "n": 1,
+   "doi": "10.1016/j.diagmicrobio.2025.116947"
+  },
+  {
+   "authors": "Yonezawa LE, Sena Baptista Ferreira J, et al.",
+   "title": "Bacterial Load of <i>Gardnerella</i> spp. and <i>Fannyhessea vaginae</i> and Its Association with Cervicovaginal Inflammatory Cytokine Responses Across Vaginal Microbiota Patterns",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "41900410",
+   "n": 2,
+   "doi": "10.3390/microorganisms14030651"
+  },
+  {
+   "authors": "Paramita L, Teng CH, et al.",
+   "title": "Elevated Level of <i>Fannyhessea vaginae</i> Correlated with Implantation Outcomes in Women undergoing <i>in vitro</i> <i>fertilization</i> Treatment",
+   "journal": "Journal of microbiology and biotechnology",
+   "year": 2026,
+   "pmid": "42958637",
+   "n": 3,
+   "doi": "10.4014/jmb.2606.06022"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Clostridium",
+ "taxon": "g__Clostridium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Clostridium",
+ "name_note": "GTDB restricts the genus Clostridium to the Clostridium sensu stricto group, so many species historically named Clostridium are classified in other genera.",
+ "sentences": [
+  {
+   "text": "Clostridium sensu stricto is regarded as the true Clostridium genus and contains important human and animal pathogens as well as industrially relevant bacteria.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus as classically defined is phenotypically and genotypically diverse, and many species carrying the name Clostridium fall outside Clostridium sensu stricto.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Clostridium butyricum is described as a butyrate-producing human gut symbiont that has been used as a probiotic for decades.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A review reports that C. butyricum strains have been investigated for potential protective effects across human diseases including inflammatory bowel disease and colorectal cancer.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Clostridium neonatale, a species of Clostridium sensu stricto, was isolated during an outbreak of neonatal necrotizing enterocolitis, and clinical strains came from stools of preterm neonates.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Li CJ, Zhang Z, et al.",
+   "title": "Comparative genomic analysis and proposal of Clostridium yunnanense sp. nov., Clostridium rhizosphaerae sp. nov., and Clostridium paridis sp. nov., three novel Clostridium sensu stricto endophytes with diverse capabilities of acetic acid and ethanol production",
+   "journal": "Anaerobe",
+   "year": 2023,
+   "pmid": "36535584",
+   "n": 1,
+   "doi": "10.1016/j.anaerobe.2022.102686"
+  },
+  {
+   "authors": "Lawson PA, Saavedra Perez L, et al.",
+   "title": "Reclassification of  Clostridium cocleatum, Clostridium ramosum, Clostridium spiroforme  and  Clostridium saccharogumia  as  Thomasclavelia cocleata  gen. nov., comb. nov.,  Thomasclavelia ramosa  comb. nov., gen. nov.,  Thomasclavelia spiroformis  comb. nov. and  Thomasclavelia saccharogumia  comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2023,
+   "pmid": "36748617",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.005694"
+  },
+  {
+   "authors": "Stoeva MK, Garcia-So J, et al.",
+   "title": "Butyrate-producing human gut symbiont,  Clostridium butyricum , and its role in health and disease",
+   "journal": "Gut microbes",
+   "year": 2021,
+   "pmid": "33874858",
+   "n": 3,
+   "doi": "10.1080/19490976.2021.1907272"
+  },
+  {
+   "authors": "Ferraris L, Delannoy J, et al.",
+   "title": "Clostridium neonatale antimicrobial susceptibility, genetic resistance determinants, and genotyping: a multicentre spatiotemporal retrospective analysis",
+   "journal": "The Journal of antimicrobial chemotherapy",
+   "year": 2024,
+   "pmid": "38084883",
+   "n": 4,
+   "doi": "10.1093/jac/dkad369"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

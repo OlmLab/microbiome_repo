@@ -1,0 +1,66 @@
+{
+ "slug": "Holdemania",
+ "taxon": "g__Holdemania",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Holdemania",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Holdemania filiformis is a gut bacterium that has been isolated and grown in culture.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A screen of over 3000 bacterial isolates reported that Holdemania filiformis produces the neurosteroid isopregnanolone, and two of its enzymes were characterised after expression in Escherichia coli.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of patients with ulcerative colitis on a low-FODMAP diet reported increased presence of Holdemania.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A Mendelian randomisation analysis reported Holdemania inversely associated with the risk of atrial fibrillation.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gicana RG, Wang PH, Wu TY, Huang YH, Huang MH, Lai YL, Brandon-Mong GJ, Wei Y, Yeo WWZ, Ng IS, Chiang YR.",
+   "title": "Multigram-scale stereoselective synthesis of neurosteroid isomers by gut microbial isolates using plant biomass-derived medium.",
+   "journal": "Trends in biotechnology",
+   "year": 2026,
+   "pmid": "41927443",
+   "n": 1,
+   "doi": "10.1016/j.tibtech.2026.02.013"
+  },
+  {
+   "authors": "Mendoza-Martínez VM, de León-Barrera KL, Meléndez-Mier G, Esquivel-Velázquez M, Piña-Escobedo A, García-Mena J, Vélez-Ixta JM, Santoyo-Chávez MA, De-León-Rendón JL, González-Tapia A, Bueno-Hernández N.",
+   "title": "Microbiota and Nutritional Changes Following a Low-FODMAP Diet in Patients with Ulcerative Colitis and Irritable Bowel Syndrome: A Randomized Controlled Trial.",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42654989",
+   "n": 2,
+   "doi": "10.3390/microorganisms14081643"
+  },
+  {
+   "authors": "Chen Z, Lin Z, Chen P, Zhang Q, Xu B, Chen H.",
+   "title": "Bidirectional Mendelian randomization study on the association between gut microbiota and atrial fibrillation.",
+   "journal": "Medicine",
+   "year": 2026,
+   "pmid": "42469980",
+   "n": 3,
+   "doi": "10.1097/md.0000000000049812"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "Butyribacter",
+ "taxon": "g__Butyribacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Butyribacter",
+ "name_note": "Many genomes that GTDB places in Butyribacter carry Lachnoclostridium or Clostridium names in NCBI, so the literature name follows the genomes labelled Butyribacter.",
+ "sentences": [
+  {
+   "text": "It is a member of the family Lachnospiraceae, and its end products of glucose fermentation were butyric acid and a small amount of acetic acid.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported the relative abundance of Butyribacter intestini to be inversely associated with pneumonia risk.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported that carriage of the protist Blastocystis, found in 48 percent of participants, was associated with enrichment of butyrate-producing bacteria including Butyribacter.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zou Y, Xue W, et al.",
+   "title": "Butyribacter intestini gen. nov., sp. nov., a butyric acid-producing bacterium of the family Lachnospiraceae isolated from human faeces, and reclassification of Acetivibrio ethanolgignens as Acetanaerobacter ethanolgignens gen. nov., comb. nov.",
+   "journal": "Systematic and applied microbiology",
+   "year": 2021,
+   "pmid": "33892267",
+   "n": 1,
+   "doi": "10.1016/j.syapm.2021.126201"
+  },
+  {
+   "authors": "Wikki I, Palmu J, et al.",
+   "title": "Prospective association between the gut microbiota and incident pneumonia: a cohort study of 6419 individuals.",
+   "journal": "Respiratory research",
+   "year": 2025,
+   "pmid": "41430301",
+   "n": 2,
+   "doi": "10.1186/s12931-025-03453-w"
+  },
+  {
+   "authors": "El-Badry AA, Al-Quorain AA, et al.",
+   "title": "Bacterial and fungal biomarkers in irritable bowel syndrome (IBS) and inflammatory bowel disease (IBD): trans-kingdom interactions, Blastocystis carriage, and enterotype-succinotype stratification.",
+   "journal": "Gut pathogens",
+   "year": 2026,
+   "pmid": "41965848",
+   "n": 3,
+   "doi": "10.1186/s13099-026-00819-3"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

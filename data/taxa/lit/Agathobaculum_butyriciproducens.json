@@ -1,0 +1,66 @@
+{
+ "slug": "Agathobaculum_butyriciproducens",
+ "taxon": "s__Agathobaculum butyriciproducens",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Agathobaculum butyriciproducens",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Agathobaculum butyriciproducens was described from strain SR79, isolated from a Korean faecal sample.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is a strictly anaerobic, Gram-stain-positive, non-spore-forming, non-motile short rod that produces butyric acid as a major end product.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus Agathobaculum is one of the Oscillospiraceae lineages, a family of prominent anaerobic gut bacteria that includes many butyrate producers.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In mouse experiments, strain SR79 improved cognition and reduced Alzheimer's disease pathology and showed neuroprotective effects in a Parkinson's disease model.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ahn S, Jin TE, et al.",
+   "title": "Agathobaculum butyriciproducens gen. nov. sp. nov., a strict anaerobic, butyrate-producing gut bacterium isolated from human faeces and reclassification of Eubacterium desmolans as Agathobaculum desmolans comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2016,
+   "pmid": "27334534",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.001195"
+  },
+  {
+   "authors": "Menasria T, Zaatout N, et al.",
+   "title": "Genomic insights into Agathobaculum and Butyricicoccus highlight taxonomic refinements and synonymization with proposal of a new genus within the family Oscillospiraceae, Parabutyricicoccus gen. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "42975923",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.007343"
+  },
+  {
+   "authors": "Lee DW, Ryu YK, et al.",
+   "title": "Agathobaculum butyriciproducens Shows Neuroprotective Effects in a 6-OHDA-Induced Mouse Model of Parkinson's Disease",
+   "journal": "Journal of microbiology and biotechnology",
+   "year": 2022,
+   "pmid": "36168204",
+   "n": 3,
+   "doi": "10.4014/jmb.2205.05032"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

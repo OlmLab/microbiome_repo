@@ -1,0 +1,73 @@
+{
+ "slug": "Prevotella_melaninogenica",
+ "taxon": "s__Prevotella melaninogenica",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Prevotella melaninogenica",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Prevotella melaninogenica is a Gram-negative anaerobic commensal bacterium of the human oral cavity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is recovered from several oral sites in young children, with isolates reported from children of about four and thirty-two months, and from maternal saliva.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Ribotyping of 248 isolates found extensive genetic heterogeneity, with 101 distinct ribotypes.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The species carries orthologues of the type IX secretion system, and loss of its porK gene reduced haemagglutination and biofilm formation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It has been reported as a pathogen of suppurative disease inside and outside the mouth, and studies group it with periodontopathic Prevotella species in children's supragingival plaque.",
+   "refs": [
+    1,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kondo Y, Sato K, et al.",
+   "title": "Involvement of PorK, a component of the type IX secretion system, in Prevotella melaninogenica pathogenicity",
+   "journal": "Microbiology and Immunology",
+   "year": 2018,
+   "pmid": "30028034",
+   "n": 1,
+   "doi": "10.1111/1348-0421.12638"
+  },
+  {
+   "authors": "Kononen E, Saarela M, et al.",
+   "title": "Transmission of oral Prevotella melaninogenica between a mother and her young child",
+   "journal": "Oral Microbiology and Immunology",
+   "year": 1994,
+   "pmid": "7808775",
+   "n": 2,
+   "doi": "10.1111/j.1399-302x.1994.tb00077.x"
+  },
+  {
+   "authors": "Tanaka S, Yoshida M, et al.",
+   "title": "The relationship of Prevotella intermedia, Prevotella nigrescens and Prevotella melaninogenica in the supragingival plaque of children, caries and oral malodor",
+   "journal": "Journal of Clinical Pediatric Dentistry",
+   "year": 2008,
+   "pmid": "18524268",
+   "n": 3,
+   "doi": "10.17796/jcpd.32.3.vp657177815618l1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

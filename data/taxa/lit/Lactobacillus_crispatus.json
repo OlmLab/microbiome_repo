@@ -1,0 +1,76 @@
+{
+ "slug": "Lactobacillus_crispatus",
+ "taxon": "s__Lactobacillus crispatus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Lactobacillus crispatus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Lactobacillus crispatus is prevalent and beneficial in the healthy human cervicovaginal microbiota, where vaginal lactobacilli are described as the first line of defence of the urogenital tract.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It produces copious amounts of lactic acid, which acts as a broad spectrum bactericide, virucide and immunomodulator.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a citizen-science survey of 3,345 Belgian women, the taxon module containing it was positively linked to oestrogen levels and contraceptive use, and negatively to childbirth and breastfeeding.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "Reviews report that dominance by this species in pregnancy is associated with lower risk of preterm delivery, and a strain has been trialled as a vaginal probiotic in bacterial vaginosis.",
+   "refs": [
+    2,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lepargneur JP.",
+   "title": "Lactobacillus crispatus as biomarker of the healthy vaginal tract.",
+   "journal": "Annales de Biologie Clinique",
+   "year": 2016,
+   "pmid": "27492695",
+   "n": 1,
+   "doi": "10.1684/abc.2016.1169"
+  },
+  {
+   "authors": "Vescicik P, Kacerovska Musilova I, Stranik J, Stepan M, Kacerovsky M.",
+   "title": "Lactobacillus crispatus dominant vaginal microbiota in pregnancy.",
+   "journal": "Ceska Gynekologie",
+   "year": 2020,
+   "pmid": "32414287",
+   "n": 2,
+   "doi": ""
+  },
+  {
+   "authors": "Hemmerling A, Harrison W, Schroeder A, et al.",
+   "title": "Phase 2a study assessing colonization efficiency, safety, and acceptability of Lactobacillus crispatus CTV-05 in women with bacterial vaginosis.",
+   "journal": "Sexually Transmitted Diseases",
+   "year": 2010,
+   "pmid": "20644497",
+   "n": 3,
+   "doi": "10.1097/olq.0b013e3181e50026"
+  },
+  {
+   "authors": "Lebeer S, Ahannach S, Gehrmann T, et al.",
+   "title": "A citizen-science-enabled catalogue of the vaginal microbiome and associated factors.",
+   "journal": "Nature Microbiology",
+   "year": 2023,
+   "pmid": "37884815",
+   "n": 4,
+   "doi": "10.1038/s41564-023-01500-0"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "Pseudoruminococcus_massiliensis",
+ "taxon": "s__Pseudoruminococcus massiliensis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Pseudoruminococcus massiliensis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Pseudoruminococcus massiliensis was described as a new genus of the family Ruminococcaceae, isolated from the gut microbiota of a healthy Senegalese man.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A second strain, E10-96H, was isolated from a healthy faecal donor; the species is strictly anaerobic and had previously been represented only by its type strain.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That strain carries 20 glycoside hydrolase genes and degrades starch in vitro, which the authors suggest may contribute to fibre degradation, cross-feeding and butyrate production.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The strain also carries pilus-like structures, harbours pilin genes and adheres to enterocytes in vitro.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In stool metagenomes from 1762 participants undergoing colonoscopy, this species was among a small number of species modestly linked to colorectal neoplasia, particularly early lesions.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Afouda P, Dubourg G, et al.",
+   "title": "Pseudoruminococcus massiliensis gen. nov., sp. nov., a new bacterium isolated from the human gut microbiota",
+   "journal": "New microbes and new infections",
+   "year": 2020,
+   "pmid": "32071725",
+   "n": 1,
+   "doi": "10.1016/j.nmni.2019.100645"
+  },
+  {
+   "authors": "Hiippala K, Khan I, et al.",
+   "title": "Novel strain of Pseudoruminococcus massiliensis possesses traits important in gut adaptation and host-microbe interactions",
+   "journal": "Gut microbes",
+   "year": 2022,
+   "pmid": "34965174",
+   "n": 2,
+   "doi": "10.1080/19490976.2021.2013761"
+  },
+  {
+   "authors": "Louca P, Manning S, et al.",
+   "title": "Gut microbiome signatures in colorectal neoplasia: a cross-sectional study across neoplasia stages and subtypes",
+   "journal": "Gut",
+   "year": 2026,
+   "pmid": "41791848",
+   "n": 3,
+   "doi": "10.1136/gutjnl-2025-337478"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

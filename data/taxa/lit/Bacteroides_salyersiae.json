@@ -1,0 +1,52 @@
+{
+ "slug": "Bacteroides_salyersiae",
+ "taxon": "s__Bacteroides salyersiae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides salyersiae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bacteroides salyersiae is a commensal species of the human gut microbiota and a human gut symbiont.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "It carries Bs164, the founding member of glycoside hydrolase family GH164, which was shown to cleave only beta-mannose linkages.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In mice, oral administration of a B. salyersiae strain isolated from the faeces of a healthy individual was reported to protect against chemically induced colitis.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Dai W, Lv Y, et al.",
+   "title": "Bacteroides salyersiae Is a Candidate Probiotic Species with Potential Anti-Colitis Properties in the Human Colon: First Evidence from an In Vivo Mouse Model",
+   "journal": "Nutrients",
+   "year": 2024,
+   "pmid": "39275234",
+   "n": 1,
+   "doi": "10.3390/nu16172918"
+  },
+  {
+   "authors": "Armstrong Z, Davies GJ.",
+   "title": "Structure and function of Bs164 β-mannosidase from Bacteroides salyersiae the founding member of glycoside hydrolase family GH164",
+   "journal": "The Journal of biological chemistry",
+   "year": 2020,
+   "pmid": "31871050",
+   "n": 2,
+   "doi": "10.1074/jbc.ra119.011591"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

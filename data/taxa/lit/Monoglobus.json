@@ -1,0 +1,63 @@
+{
+ "slug": "Monoglobus",
+ "taxon": "g__Monoglobus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Monoglobus",
+ "name_note": "GTDB places Monoglobus in its own family Monoglobaceae, whereas the genus was originally described in the family Ruminococcaceae, and most GTDB species of the genus are unnamed genomes from uncultured bacteria.",
+ "sentences": [
+  {
+   "text": "Monoglobus pectinilyticus is an anaerobic pectinolytic bacterium isolated from human faeces, and phenotypic and phylogenetic analysis supported describing it as a novel genus in the family Ruminococcaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its cells were Gram-stain-positive, non-motile cocci, and its 16S rRNA gene sequence was about 99 % similar to cloned sequences from uncultured bacteria of the human gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The type strain fermented pectins from citrus peel, apple and kiwifruit, as well as constituent carbohydrates such as galacturonic acid, xylose and arabinose.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genomic study reported that the genome of Monoglobus pectinilyticus holds a highly specialised set of pectin-degrading enzymes, describing the strain as a primary degrader of this plant glycan.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study reported it degrades various pectins, RG-I and galactan into degradation products presumably shared with other inhabitants of the human gut microbiome.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kim CC, Kelly WJ, Patchett ML, Tannock GW, Jordens Z, Stoklosinski HM, Taylor JW, Sims IM, Bell TJ, Rosendale DI.",
+   "title": "Monoglobus pectinilyticus gen. nov., sp. nov., a pectinolytic bacterium isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2017,
+   "pmid": "29039307",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.002395"
+  },
+  {
+   "authors": "Kim CC, Lunken GR, Kelly WJ, Patchett ML, Jordens Z, Tannock GW, Sims IM, Bell TJ, Hedderley D, Henrissat B, Rosendale DI.",
+   "title": "Genomic insights from Monoglobus pectinilyticus: a pectin-degrading specialist bacterium in the human colon",
+   "journal": "The ISME journal",
+   "year": 2019,
+   "pmid": "30728469",
+   "n": 2,
+   "doi": "10.1038/s41396-019-0363-6"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

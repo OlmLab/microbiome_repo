@@ -1,0 +1,74 @@
+{
+ "slug": "Acinetobacter_baumannii",
+ "taxon": "s__Acinetobacter baumannii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Acinetobacter baumannii",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Reviews describe Acinetobacter baumannii as a Gram-negative opportunistic bacterium of the ESKAPE group and a leading cause of healthcare-associated infections.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "Reviews describe it as having moved from a relatively obscure environmental bacterium to a globally recognised multidrug-resistant pathogen, prominent in intensive care units.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "It forms robust biofilms and survives in a desiccated state for months, which drives its persistence in the hospital-built environment.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Reported infections include ventilator-associated pneumonia, bloodstream infections, urinary tract infections and wound infections.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "It is listed as a critical priority pathogen, with carbapenem-resistant strains endemic on several continents.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "de Dios R, McCarthy RR.",
+   "title": "Microbe Profile: Acinetobacter baumannii: persist and resist",
+   "journal": "Microbiology (Reading, England)",
+   "year": 2026,
+   "pmid": "42867894",
+   "n": 1,
+   "doi": "10.1099/mic.0.001787"
+  },
+  {
+   "authors": "Rajendran P, Marimuthu Ragavan R, et al.",
+   "title": "Virulence and Resistance Mechanisms in Multidrug-Resistant Acinetobacter baumannii",
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2026,
+   "pmid": "42654736",
+   "n": 2,
+   "doi": "10.3390/pathogens15080798"
+  },
+  {
+   "authors": "Morena R, Morrone HL, et al.",
+   "title": "New Insights into Acinetobacter baumannii Pathogenesis and Therapeutic Implications",
+   "journal": "Pathogens (Basel, Switzerland)",
+   "year": 2026,
+   "pmid": "42075718",
+   "n": 3,
+   "doi": "10.3390/pathogens15040391"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

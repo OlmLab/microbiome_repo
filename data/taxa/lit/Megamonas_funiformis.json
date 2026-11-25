@@ -1,0 +1,66 @@
+{
+ "slug": "Megamonas_funiformis",
+ "taxon": "s__Megamonas funiformis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Megamonas funiformis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A complete genome sequence of Megamonas funiformis was reported for a strain isolated from the faeces of a healthy Japanese person, with a 2,310,709 base pair circular chromosome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a study of 22 women with inactive systemic lupus erythematosus and 20 healthy volunteers, the genus Megamonas was significantly enriched in the lupus group.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The authors suggested that increased Megamonas funiformis abundance, elevated plasma zonulin and higher sodium intake may contribute to reduced C3 complement levels in those women.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "An in silico profiling study of bacteria associated with osteoporosis or low bone mineral density reported that Megamonas funiformis showed one of the strongest predicted gut-bone axis signals.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ogata Y, Sakamoto M, et al.",
+   "title": "Complete Genome Sequence of Megamonas funiformis Strain 1CBH44, Isolated from Human Feces.",
+   "journal": "Microbiology resource announcements",
+   "year": 2021,
+   "pmid": "34854722",
+   "n": 1,
+   "doi": "10.1128/mra.00785-21"
+  },
+  {
+   "authors": "Balmant BD, Fonseca DC, et al.",
+   "title": "Megamonas funiformis, Plasma Zonulin, and Sodium Intake Affect C3 Complement Levels in Inactive Systemic Lupus Erythematosus.",
+   "journal": "Nutrients",
+   "year": 2023,
+   "pmid": "37111218",
+   "n": 2,
+   "doi": "10.3390/nu15081999"
+  },
+  {
+   "authors": "Jiménez-Ortega RF, Ortega-Meléndez AI, et al.",
+   "title": "Genome-Resolved Functional Profiling of Osteoporosis-Associated Gut Bacteria Highlights Putative Metabolic and Immunogenic Signatures of the Gut-Bone Axis.",
+   "journal": "Cells",
+   "year": 2026,
+   "pmid": "42738866",
+   "n": 3,
+   "doi": "10.3390/cells15171573"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

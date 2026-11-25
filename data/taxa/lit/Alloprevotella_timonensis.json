@@ -1,0 +1,75 @@
+{
+ "slug": "Alloprevotella_timonensis",
+ "taxon": "s__Alloprevotella timonensis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Prevotellamassilia timonensis",
+ "name_note": "GTDB places this organism in the genus Alloprevotella, while the genomes assigned to it carry the NCBI and literature name Prevotellamassilia timonensis.",
+ "sentences": [
+  {
+   "text": "Prevotellamassilia timonensis is a bacterium of the family Prevotellaceae, described from a strain isolated from stool samples of a 45-year-old patient.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In women with gestational diabetes mellitus, a study reported that the abundance of Prevotellamassilia species changed after a diet and exercise intervention.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A Mendelian randomization study using genome-wide association data reported the genus Prevotellamassilia among taxa causally linked to a higher risk of heart failure.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In mice exposed to chronic restraint stress, a study reported Prevotellamassilia timonensis as positively associated with myelin integrity and behavioural improvement under intermittent fasting.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ndongo S, Lagier JC, et al.",
+   "title": "\"Prevotellamassilia timonensis,\" a new bacterial species isolated from the human gut.",
+   "journal": "New microbes and new infections",
+   "year": 2016,
+   "pmid": "27570628",
+   "n": 1,
+   "doi": "10.1016/j.nmni.2016.06.014"
+  },
+  {
+   "authors": "Cheng M, Pan C, et al.",
+   "title": "Gut microbiome and serum metabolome changes in gestational diabetes mellitus after diet-exercise intervention.",
+   "journal": "Journal of pharmaceutical and biomedical analysis",
+   "year": 2026,
+   "pmid": "41072356",
+   "n": 2,
+   "doi": "10.1016/j.jpba.2025.117172"
+  },
+  {
+   "authors": "Wei Y, Ji X, et al.",
+   "title": "Gut Microbiome, Immune Cells, and Heart Failure: A Multi-Omics Mendelian Randomization Study.",
+   "journal": "Cardiology",
+   "year": 2026,
+   "pmid": "41915616",
+   "n": 3,
+   "doi": "10.1159/000550655"
+  },
+  {
+   "authors": "Ding X, Murayama R, et al.",
+   "title": "Intermittent fasting protects against stress-induced depression and demyelination via the gut microbiota-brain axis.",
+   "journal": "Translational psychiatry",
+   "year": 2026,
+   "pmid": "42252286",
+   "n": 4,
+   "doi": "10.1038/s41398-026-04117-z"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

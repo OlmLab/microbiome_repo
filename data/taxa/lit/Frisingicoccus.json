@@ -1,0 +1,51 @@
+{
+ "slug": "Frisingicoccus",
+ "taxon": "g__Frisingicoccus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Frisingicoccus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Frisingicoccus is a bacterial genus detected in human faecal microbiome studies.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In an exploratory study of patients with epilepsy and autoimmune encephalitis at a tertiary hospital in Brazil, dietary fibre intake was negatively associated with Frisingicoccus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In Chinese patients with Prader-Willi syndrome, Frisingicoccus was reported to be significantly negatively correlated with the homeostatic model assessment of insulin resistance.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Mejía-Granados DM, Kawasaki de Araújo T, Malan-Müller S, Oliveira Ribeiro de Aguiar Araújo PA, Braz Dos Santos LH, Yasuda CL, Koutsodontis Machado Alvim M, Carvalho BS, Cendes F, Lopes-Cendes I.",
+   "title": "Intestinal microbial community assessment in patients with different forms of epilepsy and autoimmune encephalitis: An exploratory study",
+   "journal": "Gut microbes reports",
+   "year": 2026,
+   "pmid": "42231929",
+   "n": 1,
+   "doi": "10.1080/29933935.2026.2679348"
+  },
+  {
+   "authors": "Zhong ML, Cai YQ, Tang YF, Dai YL, Jiang YH, Ni Y, Zou CC.",
+   "title": "Gut microbiota, a potential cause of higher insulin sensitivity in children with Prader-Willi syndrome",
+   "journal": "Journal of endocrinological investigation",
+   "year": 2024,
+   "pmid": "37728722",
+   "n": 2,
+   "doi": "10.1007/s40618-023-02194-1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

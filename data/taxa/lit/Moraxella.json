@@ -1,0 +1,59 @@
+{
+ "slug": "Moraxella",
+ "taxon": "g__Moraxella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Moraxella (chiefly Moraxella catarrhalis)",
+ "name_note": "The GTDB genus matches the literature genus Moraxella; almost all human upper-airway literature concerns the single species Moraxella catarrhalis.",
+ "sentences": [
+  {
+   "text": "The best-studied member of this genus, Moraxella catarrhalis, is an exclusively human organism of the respiratory tract mucosa, formerly called Branhamella catarrhalis.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Colonisation of the upper respiratory tract is highly prevalent in infants and children but decreases substantially in adulthood.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In culture it resembles commensal Neisseria species and can therefore be overlooked in samples taken from the human respiratory tract.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Published studies associate it with sinusitis, otitis media, bronchitis, pneumonia and ocular infection, and report it causing 15 to 20 percent of acute otitis media episodes.",
+   "refs": [
+    1,
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Murphy TF, Parameswaran GI.",
+   "title": "Moraxella catarrhalis, a human respiratory tract pathogen.",
+   "journal": "Clinical Infectious Diseases",
+   "year": 2009,
+   "pmid": "19480579",
+   "n": 1,
+   "doi": "10.1086/599375"
+  },
+  {
+   "authors": "Verduin CM, Hol C, Fleer A, van Dijk H, van Belkum A.",
+   "title": "Moraxella catarrhalis: from emerging to established pathogen.",
+   "journal": "Clinical Microbiology Reviews",
+   "year": 2002,
+   "pmid": "11781271",
+   "n": 2,
+   "doi": "10.1128/cmr.15.1.125-144.2002"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

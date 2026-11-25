@@ -1,0 +1,82 @@
+{
+ "slug": "Staphylococcus_hominis",
+ "taxon": "s__Staphylococcus hominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Staphylococcus hominis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Staphylococcus hominis is a bacterium frequently isolated from human skin.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It makes six distinct autoinducing peptide signals that inhibit the accessory gene regulator quorum sensing system of Staphylococcus aureus and of Staphylococcus epidermidis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Surveys of healthy human skin found the agr-I and agr-II types of this species highly represented across subjects.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "One strain produces hominicin, a heat-stable antimicrobial peptide active against Staphylococcus aureus, including methicillin-resistant and vancomycin-intermediate isolates.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Studies have reported methicillin-resistant Staphylococcus hominis as a pathogen in immunocompromised patients, and one report describes a subspecies as a nosocomial pathogen in neonates, with thirteen late-onset sepsis cases.",
+   "refs": [
+    4,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Severn MM, Williams MR, et al.",
+   "title": "The Ubiquitous Human Skin Commensal Staphylococcus hominis Protects against Opportunistic Pathogens",
+   "journal": "mBio",
+   "year": 2022,
+   "pmid": "35608301",
+   "n": 1,
+   "doi": "10.1128/mbio.00930-22"
+  },
+  {
+   "authors": "Kim PI, Sohng JK, et al.",
+   "title": "Characterization and structure identification of an antimicrobial peptide, hominicin, produced by Staphylococcus hominis MBBL 2-9",
+   "journal": "Biochemical and Biophysical Research Communications",
+   "year": 2010,
+   "pmid": "20654578",
+   "n": 2,
+   "doi": "10.1016/j.bbrc.2010.07.024"
+  },
+  {
+   "authors": "Chaves F, Garcia-Alvarez M, et al.",
+   "title": "Nosocomial spread of a Staphylococcus hominis subsp. novobiosepticus strain causing sepsis in a neonatal intensive care unit",
+   "journal": "Journal of Clinical Microbiology",
+   "year": 2005,
+   "pmid": "16145165",
+   "n": 3,
+   "doi": "10.1128/jcm.43.9.4877-4879.2005"
+  },
+  {
+   "authors": "Bouchami O, Ben Hassen A, et al.",
+   "title": "Molecular epidemiology of methicillin-resistant Staphylococcus hominis (MRSHo): low clonality and reservoirs of SCCmec structural elements",
+   "journal": "PLoS One",
+   "year": 2011,
+   "pmid": "21760926",
+   "n": 4,
+   "doi": "10.1371/journal.pone.0021940"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

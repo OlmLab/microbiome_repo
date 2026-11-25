@@ -1,0 +1,90 @@
+{
+ "slug": "Roseburia_faecis",
+ "taxon": "s__Roseburia faecis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Roseburia faecis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Roseburia faecis is a butyrate-producing, Gram-positive anaerobic bacterium found in the human gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A complete genome sequence is available for its type strain M72/1.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "That strain metabolises plant beta-mannans, including carob galactomannan, konjac glucomannan and acetylated spruce galactoglucomannan.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In adults, its abundance rose together with other commensals after consumption of water kefir.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "One study reported a substantial decline in Roseburia faecis after Helicobacter pylori eradication, interpreted as disruption of butyrate-producing bacteria.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Choi SI, Kim N, et al.",
+   "title": "The Protective Effect of Roseburia faecis Against Repeated Water Avoidance Stress-induced Irritable Bowel Syndrome in a Wister Rat Model",
+   "journal": "Journal of cancer prevention",
+   "year": 2023,
+   "pmid": "37830115",
+   "n": 1,
+   "doi": "10.15430/jcp.2023.28.3.93"
+  },
+  {
+   "authors": "Lo G, La Rosa SL, et al.",
+   "title": "Metabolism of β-mannans by representative, understudied Bacillota species from the human colon",
+   "journal": "FEMS microbiology ecology",
+   "year": 2026,
+   "pmid": "42283799",
+   "n": 2,
+   "doi": "10.1093/femsec/fiag063"
+  },
+  {
+   "authors": "Murotomi K, Tourlousse DM, et al.",
+   "title": "Complete genome sequence of Roseburia faecis M72/1T",
+   "journal": "Microbiology resource announcements",
+   "year": 2025,
+   "pmid": "39772859",
+   "n": 3,
+   "doi": "10.1128/mra.01253-24"
+  },
+  {
+   "authors": "de Mel R, Al Khafaji AH, et al.",
+   "title": "Changes in gut microbiota composition following water kefir consumption in healthy adults",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "pmid": "42174008",
+   "n": 4,
+   "doi": "10.1038/s41598-026-53645-7"
+  },
+  {
+   "authors": "Abdulkhakov SR, Safina DD, et al.",
+   "title": "Metagenomic and Metabolomic Signatures of Gut Microbiota After Helicobacter pylori Eradication Therapy Supplemented with Butyric Acid and Inulin: Observational Study",
+   "journal": "International journal of molecular sciences",
+   "year": 2026,
+   "pmid": "42883733",
+   "n": 5,
+   "doi": "10.3390/ijms27198485"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

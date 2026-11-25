@@ -1,0 +1,51 @@
+{
+ "slug": "Coprococcus_A_intestinihominis",
+ "taxon": "s__Coprococcus_A intestinihominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Coprococcus catus",
+ "name_note": "The GTDB species s__Coprococcus_A intestinihominis holds genomes that carry the NCBI names Coprococcus catus and Coprococcus intestinihominis; the literature cited here uses Coprococcus catus.",
+ "sentences": [
+  {
+   "text": "Coprococcus catus is described as an intestinal lactate-utilizing bacterium that converts lactate to short-chain fatty acids, including butyrate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genome-mining and modelling study annotated a propanediol utilization compartment in C. catus and found the butyryl-CoA:acetate CoA-transferase route dominant for butyrate formation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In the Swedish SIMPLER cohort of 4,685 participants followed for a median 5.3 years, Coprococcus catus was among three species reported as protective for incident type 2 diabetes.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sabater C, Vázquez X, Duncan SH.",
+   "title": "The role of lactate metabolism in shaping intestinal microbiota and health.",
+   "journal": "AIMS microbiology",
+   "year": 2026,
+   "pmid": "42859530",
+   "n": 1,
+   "doi": "10.3934/microbiol.2026020"
+  },
+  {
+   "authors": "Toubon G, Boulund F, Escobedo CM, Brunius C, Engstrand L, Larsson SC, Nordin E, Schuppe-Koistinen I, Wolk A, Wittenbecher C, Landberg R.",
+   "title": "Gut microbiome composition and functional potential associate with incident type 2 diabetes in 4,685 adults from a Swedish prospective cohort.",
+   "journal": "Cell reports. Medicine",
+   "year": 2026,
+   "pmid": "42202790",
+   "n": 2,
+   "doi": "10.1016/j.xcrm.2026.102835"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

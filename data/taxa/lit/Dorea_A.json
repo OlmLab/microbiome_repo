@@ -1,0 +1,66 @@
+{
+ "slug": "Dorea_A",
+ "taxon": "g__Dorea_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Dorea",
+ "name_note": "GTDB splits the classical genus Dorea; g__Dorea_A is one of those parts and its genomes are labelled Dorea in NCBI.",
+ "sentences": [
+  {
+   "text": "Dorea members are Gram-positive, obligately anaerobic, non-spore-forming rods isolated from human faeces and belonging to the Clostridium coccoides rRNA group.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus was established when Eubacterium formicigenerans was reclassified, with Dorea longicatena described at the same time.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "One gut Dorea strain transforms primary bile acids in two steps into 3-alpha and 3-beta secondary bile acids.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another human faecal Dorea strain cleaves carbon-linked glycosides, converting the isoflavone puerarin to daidzein.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Taras D, Simmering R, et al.",
+   "title": "Reclassification of Eubacterium formicigenerans Holdeman and Moore 1974 as Dorea formicigenerans gen. nov., comb. nov., and description of Dorea longicatena sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "11931151",
+   "n": 1,
+   "doi": "10.1099/00207713-52-2-423"
+  },
+  {
+   "authors": "Bai Y, Zhao T, et al.",
+   "title": "A Novel Gene Alignment in Dorea sp. AM58-8 Produces 7-Dehydroxy-3β Bile Acids from Primary Bile Acids",
+   "journal": "Biochemistry",
+   "year": 2022,
+   "pmid": "36130198",
+   "n": 2,
+   "doi": "10.1021/acs.biochem.2c00264"
+  },
+  {
+   "authors": "Mi HTN, Chaiyasarn S, et al.",
+   "title": "C-Glycoside-Metabolizing Human Gut Bacterium, Dorea sp. MRG-IFC3",
+   "journal": "Journal of microbiology and biotechnology",
+   "year": 2023,
+   "pmid": "37789701",
+   "n": 3,
+   "doi": "10.4014/jmb.2308.08021"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

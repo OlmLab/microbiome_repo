@@ -1,0 +1,66 @@
+{
+ "slug": "Actinomyces_dentalis",
+ "taxon": "s__Actinomyces dentalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Actinomyces dentalis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Actinomyces dentalis was described from a filamentous, beaded, Gram-positive, rod-shaped bacterium isolated from pus of a human dental abscess.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Comparative 16S rRNA gene sequencing showed the bacterium represents a distinct subline within the genus Actinomyces, clustering within a group of species that includes Actinomyces bovis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In supra- and subgingival plaque from twenty patients with chronic periodontitis and fifteen healthy subjects, Actinomyces dentalis was found in a higher percentage in the periodontitis group.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In plaque biofilms from Thai children aged 6 to 15 years, Actinomyces dentalis was one of five health-associated species enriched in caries-free controls rather than in severe dental fluorosis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Hall V, Collins MD, Lawson PA, Falsen E, Duerden BI.",
+   "title": "Actinomyces dentalis sp. nov., from a human dental abscess.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2005,
+   "pmid": "15653913",
+   "n": 1,
+   "doi": "10.1099/ijs.0.63376-0"
+  },
+  {
+   "authors": "Vielkind P, Jentsch H, Eschrich K, Rodloff AC, Stingu CS.",
+   "title": "Prevalence of Actinomyces spp. in patients with chronic periodontitis.",
+   "journal": "International journal of medical microbiology : IJMM",
+   "year": 2015,
+   "pmid": "26324012",
+   "n": 2,
+   "doi": "10.1016/j.ijmm.2015.08.018"
+  },
+  {
+   "authors": "Ajrithirong P, Krasaesin A, Sriarj W, Gavila P, Chetruengchai W, Sriwattanapong K, Manaspon C, Samaranayake L, Porntaveetus T.",
+   "title": "The metagenome and metabolome signatures of dental biofilms associated with severe dental fluorosis.",
+   "journal": "Journal of oral microbiology",
+   "year": 2025,
+   "pmid": "41000239",
+   "n": 3,
+   "doi": "10.1080/20002297.2025.2560591"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "Pararoseburia",
+ "taxon": "g__Pararoseburia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Pararoseburia (Pararoseburia lenta)",
+ "name_note": "The genus is named for its only cultured species, Pararoseburia lenta; most other genomes GTDB places here are uncultured and carry NCBI labels such as Roseburia or Pseudobutyrivibrio.",
+ "sentences": [
+  {
+   "text": "Pararoseburia lenta is a strictly anaerobic, motile bacterium that was isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its cells are Gram-negative, non-spore-forming, non-pigmented and spiral-shaped or slightly curved rods carrying flagella.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species was proposed as the type of a new genus forming a distinct lineage in the family Lachnospiraceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The reported end products of glucose fermentation are acetate, propionate, iso-butyrate, butyrate and valerate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Pararoseburia lenta was later reported as the closest relative, at 92.2% 16S rRNA gene similarity, of anaerobic strains isolated from pig faeces.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Abdugheni R, Wang YJ, et al.",
+   "title": "Pararoseburia lenta gen. nov., sp. nov. isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2022,
+   "pmid": "35559790",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.005371"
+  },
+  {
+   "authors": "Paek J, Bai L, et al.",
+   "title": "Description of Porcibacter vitabionis gen. nov., sp. nov., an anaerobe isolated from pig faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "42405947",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.007214"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

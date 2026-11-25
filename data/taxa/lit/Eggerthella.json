@@ -1,0 +1,57 @@
+{
+ "slug": "Eggerthella",
+ "taxon": "g__Eggerthella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Eggerthella lenta",
+ "name_note": "Most published work on this genus concerns Eggerthella lenta, the species that dominates the NCBI names of genomes GTDB places in g__Eggerthella.",
+ "sentences": [
+  {
+   "text": "Eggerthella lenta is an asaccharolytic obligate anaerobe of the human gut that grows on amino acids and short-chain fatty acids.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes its versatile anaerobic respiration and extensive biotransformation of endogenous, diet-derived and pharmaceutical small molecules.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "One study reported that Eggerthella lenta strains convert procyanidins, oligomers of flavan-3-ols, by opening the C-ring of the terminal unit.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The same review reports that it is associated with a wide range of chronic diseases in humans and exacerbates disease in preclinical models.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Rock R, Zhang S, et al.",
+   "title": "Eggerthella lenta: metabolism, pathogenesis and therapeutic implications",
+   "journal": "Nature reviews. Microbiology",
+   "year": 2026,
+   "pmid": "42493633",
+   "n": 1,
+   "doi": "10.1038/s41579-026-01344-5"
+  },
+  {
+   "authors": "Halifa R, Dufour C, et al.",
+   "title": "Metabolization of Flavan-3-ol Oligomers by Eggerthella lenta, a Human Gut Bacterium",
+   "journal": "Molecular nutrition & food research",
+   "year": 2026,
+   "pmid": "42806762",
+   "n": 2,
+   "doi": "10.1002/mnfr.70615"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

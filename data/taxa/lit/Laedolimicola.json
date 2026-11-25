@@ -1,0 +1,51 @@
+{
+ "slug": "Laedolimicola",
+ "taxon": "g__Laedolimicola",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Laedolimicola",
+ "name_note": "Laedolimicola is a recent genus name; genomes GTDB places here often carry the NCBI names Lachnoclostridium, Candidatus Merdisoma or Anaerosacchariphilus.",
+ "sentences": [
+  {
+   "text": "Laedolimicola ammoniilytica is a gut bacterial species detected in faecal samples from healthy young adults in Beijing, China.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A panel study reported that this species was among gut microbiota species that may mediate pro-inflammatory and pro-atherosclerotic effects of short-term air pollution exposure.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study in mice given a high-fat diet and streptozotocin reported decreased Laedolimicola after treatment with a fructan from Achyranthes bidentata.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "He X, Zhao E, Song X, Zhao Q, Liu J, Zhang B, Xu H, Fang Y, Wei X, Zhu Y, Xu H, Wang T, Huang W.",
+   "title": "Short-term exposure to ambient air pollution, gut microbiota, and pro-atherosclerotic responses in healthy adults: A prospective panel study.",
+   "journal": "Environmental research",
+   "year": 2026,
+   "pmid": "42000106",
+   "n": 1,
+   "doi": "10.1016/j.envres.2026.124532"
+  },
+  {
+   "authors": "Si H, Chen Y, Hu D, Yao S, Yang J, Wen X.",
+   "title": "A graminan type fructan from Achyranthes bidentata prevents the kidney injury in diabetic mice by regulating gut microbiota.",
+   "journal": "Carbohydrate polymers",
+   "year": 2024,
+   "pmid": "38823933",
+   "n": 2,
+   "doi": "10.1016/j.carbpol.2024.122275"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

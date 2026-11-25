@@ -1,0 +1,81 @@
+{
+ "slug": "Faecalibacillus",
+ "taxon": "g__Faecalibacillus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Faecalibacillus",
+ "name_note": "Genomes GTDB places in g__Faecalibacillus were deposited in NCBI mostly as Faecalibacillus but also as Coprobacillus and Clostridium, names used for the same organisms before the genus was proposed.",
+ "sentences": [
+  {
+   "text": "Faecalibacillus is a genus of long-rod-shaped, Gram-stain-positive, obligately anaerobic, non-spore-forming bacteria described within the family Erysipelotrichaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Faecalibacillus intestinalis and Faecalibacillus faecis were proposed for strains isolated from faecal samples of healthy Korean subjects.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of patients with seven cancer types reported that Faecalibacillus intestinalis was under-represented in every patient group compared with sex- and age-matched healthy controls.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A twin-registry study reported that the abundance of Faecalibacillus intestinalis was positively associated with impaired fasting glucose.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study of traumatic brain injury patients reported Faecalibacillus intestinalis among short-chain fatty acid-producing taxa depleted relative to healthy controls.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Seo B, Jeon K, Baek I, Lee YM, Baek K, Ko G.",
+   "title": "Faecalibacillus intestinalis gen. nov., sp. nov. and Faecalibacillus faecis sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2019,
+   "pmid": "31099736",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003443"
+  },
+  {
+   "authors": "Kulecka M, Czarnowski P, Bałabas A, Turkot M, Kruczkowska-Tarantowicz K, Żeber-Lubecka N, Dąbrowska M, Paszkiewicz-Kozik E, Walewski J, Ługowska I, Koseła-Paterczyk H, Rutkowski P, Kluska A, Piątkowska M, Jagiełło-Gruszfeld A, Tenderenda M, Gawiński C, Wyrwicz L, Borucka M, Krzakowski M, Zając L, Kamiński M, Mikula M, Ostrowski J.",
+   "title": "Microbial and Metabolic Gut Profiling across Seven Malignancies Identifies Fecal Faecalibacillus intestinalis and Formic Acid as Commonly Altered in Cancer Patients",
+   "journal": "International journal of molecular sciences",
+   "year": 2024,
+   "pmid": "39125593",
+   "n": 2,
+   "doi": "10.3390/ijms25158026"
+  },
+  {
+   "authors": "Nogal A, Tettamanzi F, Dong Q, Louca P, Visconti A, Christiansen C, Breuninger T, Linseisen J, Grallert H, Wawro N, Asnicar F, Wong K, Baleanu AF, Michelotti GA, Segata N, Falchi M, Peters A, Franks PW, Bagnardi V, Spector TD, Bell JT, Gieger C, Valdes AM, Menni C.",
+   "title": "A Fecal Metabolite Signature of Impaired Fasting Glucose: Results From Two Independent Population-Based Cohorts",
+   "journal": "Diabetes",
+   "year": 2023,
+   "pmid": "37699401",
+   "n": 3,
+   "doi": "10.2337/db23-0170"
+  },
+  {
+   "authors": "Wu H, Huo Y, Fang W, Guo J, Wang X, Su L, Cheng G.",
+   "title": "Gut microbiota and traumatic brain injury: insights from an antibiotic-free cohort",
+   "journal": "Frontiers in microbiology",
+   "year": 2025,
+   "pmid": "41551652",
+   "n": 4,
+   "doi": "10.3389/fmicb.2025.1697206"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

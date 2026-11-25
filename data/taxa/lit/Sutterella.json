@@ -1,0 +1,72 @@
+{
+ "slug": "Sutterella",
+ "taxon": "g__Sutterella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Sutterella",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Sutterella is a genus of bile-resistant, microaerophilic, Gram-negative bacteria.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus was proposed for unusual bile-resistant clinical isolates obtained primarily from appendiceal and peritoneal fluid specimens, which 16S rRNA data showed were not Campylobacter.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review describes Sutterella as showing pro-inflammatory properties, inducing cytokines such as IL-6 and TNF, and degrading immunoglobulin A, while also inducing anti-inflammatory IL-10.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same review reports that in Alzheimer's disease and Parkinson's disease its abundance correlates with disease severity and markers such as amyloid burden and oxidative stress.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Sutterella wadsworthensis has been reported to encode an immunoglobulin A protease digesting human IgA1 and IgA2 but not mouse IgA, detectable in individuals globally.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Davoody S, Halimi H, Zali A, Houri H, Brand S.",
+   "title": "Double-edged sword effect of Sutterella in neurological disorders: implications for the gut-brain axis and neuroimmune interactions.",
+   "journal": "Neurobiology of disease",
+   "year": 2025,
+   "pmid": "40681117",
+   "n": 1,
+   "doi": "10.1016/j.nbd.2025.107032"
+  },
+  {
+   "authors": "Wexler HM, Reeves D, Summanen PH, Molitoris E, McTeague M, Duncan J, Wilson KH, Finegold SM.",
+   "title": "Sutterella wadsworthensis gen. nov., sp. nov., bile-resistant microaerophilic Campylobacter gracilis-like clinical isolates.",
+   "journal": "International journal of systematic bacteriology",
+   "year": 1996,
+   "pmid": "8573504",
+   "n": 2,
+   "doi": "10.1099/00207713-46-1-252"
+  },
+  {
+   "authors": "Majzoub ME, Santiago FS, Raich SS, Sirigeri P, Simovic I, Tedla N, Kaakoush NO.",
+   "title": "Immunoglobulin A protease from <i>Sutterella wadsworthensis</i> modifies outcome of infection with <i>Campylobacter jejuni</i> and is associated with microbiome diversity.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "41496502",
+   "n": 3,
+   "doi": "10.1080/19490976.2025.2611543"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

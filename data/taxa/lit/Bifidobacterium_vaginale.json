@@ -1,0 +1,81 @@
+{
+ "slug": "Bifidobacterium_vaginale",
+ "taxon": "s__Bifidobacterium vaginale",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Gardnerella vaginalis",
+ "name_note": "GTDB R232 names this species Bifidobacterium vaginale, while the genomes it contains are labelled Gardnerella vaginalis in NCBI, which is the name used in the literature.",
+ "sentences": [
+  {
+   "text": "The species known in the literature as Gardnerella vaginalis is a bacterium of the human vagina that is associated with bacterial vaginosis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported it as the predominant species found in most cases of bacterial vaginosis, and noted that asymptomatic women are sometimes colonised with low numbers.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It forms dense adherent biofilms on the vaginal mucosa, which were seen to return once oral metronidazole treatment stopped.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "It secretes vaginolysin, a cholesterol-dependent cytolysin that lyses target cells in a species-specific way through the human complement regulatory molecule CD59.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A published conceptual model proposes that bacterial vaginosis begins with sexual transmission of this organism, and the condition has been associated with preterm birth.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gelber SE, Aguilar JL, et al.",
+   "title": "Functional and phylogenetic characterization of Vaginolysin, the human-specific cytolysin from Gardnerella vaginalis",
+   "journal": "Journal of Bacteriology",
+   "year": 2008,
+   "pmid": "18390664",
+   "n": 1,
+   "doi": "10.1128/jb.01965-07"
+  },
+  {
+   "authors": "Patterson JL, Stull-Lane A, et al.",
+   "title": "Analysis of adherence, biofilm formation and cytotoxicity suggests a greater virulence potential of Gardnerella vaginalis relative to other bacterial-vaginosis-associated anaerobes",
+   "journal": "Microbiology (Reading)",
+   "year": 2010,
+   "pmid": "19910411",
+   "n": 2,
+   "doi": "10.1099/mic.0.034280-0"
+  },
+  {
+   "authors": "Swidsinski A, Mendling W, et al.",
+   "title": "An adherent Gardnerella vaginalis biofilm persists on the vaginal epithelium after standard therapy with oral metronidazole",
+   "journal": "American Journal of Obstetrics and Gynecology",
+   "year": 2008,
+   "pmid": "18005928",
+   "n": 3,
+   "doi": "10.1016/j.ajog.2007.06.039"
+  },
+  {
+   "authors": "Schwebke JR, Muzny CA, et al.",
+   "title": "Role of Gardnerella vaginalis in the pathogenesis of bacterial vaginosis: a conceptual model",
+   "journal": "The Journal of Infectious Diseases",
+   "year": 2014,
+   "pmid": "24511102",
+   "n": 4,
+   "doi": "10.1093/infdis/jiu089"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

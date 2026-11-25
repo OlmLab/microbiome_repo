@@ -1,0 +1,66 @@
+{
+ "slug": "Otoolea_fessa",
+ "taxon": "s__Otoolea fessa",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Clostridium fessum",
+ "name_note": "GTDB names this species Otoolea fessa; its genomes carry the NCBI name Clostridium fessum, the name under which it was described.",
+ "sentences": [
+  {
+   "text": "Clostridium fessum is an obligately anaerobic, Gram-positive, spore-forming bacterium isolated from the faeces of a healthy Korean subject.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its cells are chained rods with tapered ends and it belongs to the family Lachnospiraceae, with Clostridium symbiosum the closest named species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A later faecal isolate from a different study shared 94.7 percent 16S ribosomal RNA identity with it, among Lachnospiraceae relatives of Enterocloster.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A metagenomic study of newborn stool reported it as the predominant Clostridium species in both diseased and healthy specimens.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Seo B, Jeon K, et al.",
+   "title": "Clostridium fessum sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2021,
+   "pmid": "33253079",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.004579"
+  },
+  {
+   "authors": "Oikawa D, Fukui K, et al.",
+   "title": "Enterocloster alcoholdehydrogenati sp. nov., a Novel Bacterial Species Isolated from the Feces of a Patient with Alcoholism",
+   "journal": "Current microbiology",
+   "year": 2023,
+   "pmid": "37074467",
+   "n": 2,
+   "doi": "10.1007/s00284-023-03285-1"
+  },
+  {
+   "authors": "Karaca C, Takcı HAM.",
+   "title": "Role of gut microbiome in developing necrotizing enterocolitis",
+   "journal": "Folia microbiologica",
+   "year": 2025,
+   "pmid": "39550746",
+   "n": 3,
+   "doi": "10.1007/s12223-024-01217-5"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "Faecalibacterium_longum",
+ "taxon": "s__Faecalibacterium longum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium longum",
+ "name_note": "The representative genome is labelled Faecalibacterium prausnitzii in NCBI; F. longum is one of the species recognised when the classical F. prausnitzii was split.",
+ "sentences": [
+  {
+   "text": "Faecalibacterium prausnitzii has long been counted among the predominant bacteria of the healthy adult gut, and the genus has recently been split into several species including Faecalibacterium longum.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a cohort of 1120 Han Chinese individuals, a Faecalibacterium longum strain showed the strongest inverse correlation with body mass index among the genus strains examined.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Given to mice, that strain prevented high-fat-diet obesity, improved glucose tolerance and lowered pro-inflammatory cytokines.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A reanalysis of inflammatory bowel disease metagenomes reported that strain's genome more abundant in healthy people than in ulcerative colitis or Crohn's disease patients.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Hirasaki M, Kadowaki R, et al.",
+   "title": "Species-level quantification of &lt;i&gt;Faecalibacterium&lt;/i&gt; spp. in faeces of healthy Japanese adults",
+   "journal": "Journal of medical microbiology",
+   "year": 2025,
+   "pmid": "40408134",
+   "n": 1,
+   "doi": "10.1099/jmm.0.002019"
+  },
+  {
+   "authors": "Wang H, Yu S, et al.",
+   "title": "&lt;i&gt;Faecalibacterium longum&lt;/i&gt; alleviates high-fat diet-induced obesity and protects the intestinal epithelial barrier in mice",
+   "journal": "Gut microbes reports",
+   "year": 2025,
+   "pmid": "41909909",
+   "n": 2,
+   "doi": "10.1080/29933935.2025.2459599"
+  },
+  {
+   "authors": "Li X, He N, et al.",
+   "title": "Therapeutic effect of Faecalibacterium longum CM04-06 on DSS-induced ulcerative colitis in mice",
+   "journal": "Journal of applied microbiology",
+   "year": 2025,
+   "pmid": "40372371",
+   "n": 3,
+   "doi": "10.1093/jambio/lxaf119"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

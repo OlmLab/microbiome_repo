@@ -1,0 +1,81 @@
+{
+ "slug": "Dialister",
+ "taxon": "g__Dialister",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Dialister",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Dialister succinatiphilus, a Dialister species isolated from human faeces, was described as an anaerobic coccobacillus that stains Gram-negative and is asaccharolytic, producing only traces of lactate and propionate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same description reports that this strain was able to decarboxylate succinate to propionate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A large population cohort study, the Flemish Gut Flora Project, reported that Dialister, together with Coprococcus species, was depleted in depression even after correcting for antidepressant effects.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In patients with spondyloarthritis, a study reported that Dialister may represent a potential microbial marker of disease activity.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Dialister invisus was proposed as a novel species for strains isolated from root canals of patients with endodontic infections and from a deep periodontal pocket.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Morotomi M, Nagai F, Sakon H, Tanaka R.",
+   "title": "Dialister succinatiphilus sp. nov. and Barnesiella intestinihominis sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "19060046",
+   "n": 1,
+   "doi": "10.1099/ijs.0.2008/000810-0"
+  },
+  {
+   "authors": "Valles-Colomer M, Falony G, Darzi Y, Tigchelaar EF, Wang J, Tito RY, Schiweck C, Kurilshikov A, Joossens M, Wijmenga C, Claes S, Van Oudenhove L, Zhernakova A, Vieira-Silva S, Raes J.",
+   "title": "The neuroactive potential of the human gut microbiota in quality of life and depression.",
+   "journal": "Nature microbiology",
+   "year": 2019,
+   "pmid": "30718848",
+   "n": 2,
+   "doi": "10.1038/s41564-018-0337-x"
+  },
+  {
+   "authors": "Tito RY, Cypers H, Joossens M, Varkas G, Van Praet L, Glorieus E, Van den Bosch F, De Vos M, Raes J, Elewaut D.",
+   "title": "Brief Report: Dialister as a Microbial Marker of Disease Activity in Spondyloarthritis.",
+   "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+   "year": 2017,
+   "pmid": "27390077",
+   "n": 3,
+   "doi": "10.1002/art.39802"
+  },
+  {
+   "authors": "Downes J, Munson M, Wade WG.",
+   "title": "Dialister invisus sp. nov., isolated from the human oral cavity.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2003,
+   "pmid": "14657126",
+   "n": 4,
+   "doi": "10.1099/ijs.0.02640-0"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

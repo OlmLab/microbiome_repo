@@ -1,0 +1,86 @@
+{
+ "slug": "Cutibacterium_modestum",
+ "taxon": "s__Cutibacterium modestum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Cutibacterium modestum",
+ "name_note": "The GTDB name matches the literature name; the species is only recently described and most of its literature consists of case reports and identification methods.",
+ "sentences": [
+  {
+   "text": "Cutibacterium modestum belongs to Cutibacterium, a genus that has been described as skin commensals involved in acne inflammation and occasionally causing healthcare-associated infections.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is easily missed in the laboratory: mass spectrometry can misidentify it as Cutibacterium acnes, and earlier multiplex PCR assays could not detect it at all.",
+   "refs": [
+    2,
+    1
+   ]
+  },
+  {
+   "text": "Published cases include prosthetic valve infective endocarditis and identification in culture-negative pyogenic spondylitis by shotgun metagenomic sequencing.",
+   "refs": [
+    3,
+    4
+   ]
+  },
+  {
+   "text": "Finding low-virulence skin commensals of this genus in deep specimens is a diagnostic challenge, because contamination must be distinguished from true infection.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Yoshihara K, Seyama S, Hirai Y, Uwamino Y, Inose R, Nakaminami H.",
+   "title": "A novel multiplex PCR for the accurate identification of four clinically relevant Cutibacterium species.",
+   "journal": "Journal of Infection and Chemotherapy",
+   "year": 2026,
+   "pmid": "42119807",
+   "n": 1,
+   "doi": "10.1016/j.jiac.2026.102994"
+  },
+  {
+   "authors": "McLaughlin J, Burnham CD, McDowell A.",
+   "title": "MALDI-TOF mass spectrometry misidentification of Cutibacterium namnetense and Cutibacterium modestum: Implications for multiplex PCR phylotyping of Cutibacterium acnes.",
+   "journal": "Anaerobe",
+   "year": 2024,
+   "pmid": "38848934",
+   "n": 2,
+   "doi": "10.1016/j.anaerobe.2024.102874"
+  },
+  {
+   "authors": "Shikama N, Takiguchi Y, Takeda M, Mori N, Ishio N.",
+   "title": "Prosthetic valve infective endocarditis caused by Cutibacterium modestum: a case report.",
+   "journal": "European Heart Journal Case Reports",
+   "year": 2024,
+   "pmid": "39021358",
+   "n": 3,
+   "doi": "10.1093/ehjcr/ytae313"
+  },
+  {
+   "authors": "Huang YT, Yang MY, Mao YC, et al.",
+   "title": "Identification of Cutibacterium modestum in Spondylitis by Metagenomics Analysis.",
+   "journal": "In Vivo",
+   "year": 2023,
+   "pmid": "37103117",
+   "n": 4,
+   "doi": "10.21873/invivo.13221"
+  },
+  {
+   "authors": "Wu L, Bao Y, Pu J, Zhang L, Huang J, Xi X, Luo L.",
+   "title": "Post-vertebroplasty lumbar spondylodiscitis due to Cutibacterium modestum.",
+   "journal": "Frontiers in Medicine",
+   "year": 2026,
+   "pmid": "42819200",
+   "n": 5,
+   "doi": "10.3389/fmed.2026.1905143"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

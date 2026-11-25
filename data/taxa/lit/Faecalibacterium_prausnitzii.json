@@ -1,0 +1,81 @@
+{
+ "slug": "Faecalibacterium_prausnitzii",
+ "taxon": "s__Faecalibacterium prausnitzii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium prausnitzii",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Faecalibacterium prausnitzii is an obligately anaerobic, non-motile bacterium of the human gut, regarded as one of the most abundant colonizers of the human colon.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Strains isolated from human faeces produce butyrate, formate and lactate as fermentation products and require acetate in the growth medium; the species was moved from Fusobacterium to the new genus Faecalibacterium.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of ulcerative colitis reported a reduction of Faecalibacterium prausnitzii, described as a well-known butyrate-producing bacterium, in the faecal microbiota of patients compared with healthy individuals.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Work on inflammatory bowel disease describes its associated dysbiosis as characterised by a loss of Faecalibacterium prausnitzii, whose supernatant exerts an anti-inflammatory effect.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A gnotobiotic study describes Faecalibacterium prausnitzii as a commensal that can be considered a sensor and a marker of human health.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Duncan SH, Hold GL, Harmsen HJM, Stewart CS, Flint HJ.",
+   "title": "Growth requirements and fermentation products of Fusobacterium prausnitzii, and a proposal to reclassify it as Faecalibacterium prausnitzii gen. nov., comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "12508881",
+   "n": 1,
+   "doi": "10.1099/00207713-52-6-2141"
+  },
+  {
+   "authors": "Machiels K, Joossens M, Sabino J, De Preter V, Arijs I, Eeckhaut V, Ballet V, Claes K, Van Immerseel F, Verbeke K, Ferrante M, Verhaegen J, Rutgeerts P, Vermeire S.",
+   "title": "A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium prausnitzii defines dysbiosis in patients with ulcerative colitis",
+   "journal": "Gut",
+   "year": 2014,
+   "pmid": "24021287",
+   "n": 2,
+   "doi": "10.1136/gutjnl-2013-304833"
+  },
+  {
+   "authors": "Zhou L, Zhang M, Wang Y, Dorfman RG, Liu H, Yu T, Chen X, Tang D, Xu L, Yin Y, Pan Y, Zhou Q, Zhou Y, Yu C.",
+   "title": "Faecalibacterium prausnitzii Produces Butyrate to Maintain Th17/Treg Balance and to Ameliorate Colorectal Colitis by Inhibiting Histone Deacetylase 1",
+   "journal": "Inflammatory bowel diseases",
+   "year": 2018,
+   "pmid": "29796620",
+   "n": 3,
+   "doi": "10.1093/ibd/izy182"
+  },
+  {
+   "authors": "Wrzosek L, Miquel S, Noordine ML, Bouet S, Joncquel Chevalier-Curt M, Robert V, Philippe C, Bridonneau C, Cherbuy C, Robbe-Masselot C, Langella P, Thomas M.",
+   "title": "Bacteroides thetaiotaomicron and Faecalibacterium prausnitzii influence the production of mucus glycans and the development of goblet cells in the colonic epithelium of a gnotobiotic model rodent",
+   "journal": "BMC biology",
+   "year": 2013,
+   "pmid": "23692866",
+   "n": 4,
+   "doi": "10.1186/1741-7007-11-61"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

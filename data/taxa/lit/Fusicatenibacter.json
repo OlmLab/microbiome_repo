@@ -1,0 +1,59 @@
+{
+ "slug": "Fusicatenibacter",
+ "taxon": "g__Fusicatenibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Fusicatenibacter saccharivorans",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Fusicatenibacter saccharivorans is a Gram-positive, obligately anaerobic, non-spore-forming, spindle-shaped bacterium first isolated from human faeces and described in 2013.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "It forms a previously unknown line within the Blautia coccoides rRNA group, also called Clostridium subcluster XIVa.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Cultures ferment glucose and release lactic, formic, acetic and succinic acids as end products.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported the species decreased in patients with active ulcerative colitis and increased in quiescent disease, and that it induced interleukin 10 from intestinal immune cells.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Takada T, Kurakawa T, et al.",
+   "title": "Fusicatenibacter saccharivorans gen. nov., sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2013,
+   "pmid": "23625266",
+   "n": 1,
+   "doi": "10.1099/ijs.0.045823-0"
+  },
+  {
+   "authors": "Takeshita K, Mizuno S, et al.",
+   "title": "A Single Species of Clostridium Subcluster XIVa Decreased in Ulcerative Colitis Patients",
+   "journal": "Inflammatory bowel diseases",
+   "year": 2016,
+   "pmid": "27824645",
+   "n": 2,
+   "doi": "10.1097/mib.0000000000000972"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

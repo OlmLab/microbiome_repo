@@ -1,0 +1,66 @@
+{
+ "slug": "Haemophilus_D",
+ "taxon": "g__Haemophilus_D",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Haemophilus",
+ "name_note": "The genomes GTDB places in g__Haemophilus_D are labelled Haemophilus in NCBI; the GTDB suffix _D marks a split of the classical genus, so this taxon is narrower than Haemophilus in the literature.",
+ "sentences": [
+  {
+   "text": "Haemophilus is a bacterial genus of the human mouth; a 16S rRNA survey of 59 healthy, non-smoking women in their twenties listed it among the dominant oral genera at 10.1 percent.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that survey Haemophilus was also among the taxa discriminating tongue coating from the other sampled oral sites.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A harmonized re-analysis of five longitudinal paediatric cohorts reported oral succession from Streptococcus and Staphylococcus to Haemophilus, Neisseria and Veillonella.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A perspective on chronic airway diseases describes neutrophilic airways as predominated by the phylum Proteobacteria and the genus Haemophilus, with neutrophil elastase impairing mucociliary clearance.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Cho MY, Eom JH, Kim JW, Kim YW, Hwang J, Lee D, Kim YY, Kim HS, Hwang I.",
+   "title": "Site-specific oral microbiome profiles in healthy young Korean women",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "pmid": "42533020",
+   "n": 1,
+   "doi": "10.1038/s41598-026-60927-7"
+  },
+  {
+   "authors": "Won DY, Kim SY, Kim SM, Shin H, Na HS, Chung J.",
+   "title": "Harmonized multi-cohort analysis of oral microbiome development during early lifetime",
+   "journal": "Journal of oral microbiology",
+   "year": 2026,
+   "pmid": "42741665",
+   "n": 2,
+   "doi": "10.1080/20002297.2026.2728748"
+  },
+  {
+   "authors": "Tanabe N, Matsumoto H.",
+   "title": "From mucus plugging to airway dilatation in chronic airway diseases: A perspective on the contribution of the airway microbiome and inflammation",
+   "journal": "Allergology international : official journal of the Japanese Society of Allergology",
+   "year": 2026,
+   "pmid": "40849229",
+   "n": 3,
+   "doi": "10.1016/j.alit.2025.07.003"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

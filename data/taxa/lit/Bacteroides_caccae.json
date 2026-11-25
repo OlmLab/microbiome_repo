@@ -1,0 +1,76 @@
+{
+ "slug": "Bacteroides_caccae",
+ "taxon": "s__Bacteroides caccae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides caccae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bacteroides caccae is a ubiquitous anaerobic bacterium and a member of the human gut microbiota.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "A polysaccharide utilisation locus gives it a pathway for depolymerising chondroitin sulfate, a common glycosaminoglycan.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Comparative faecal metagenomics found this commensal more abundant in children from Atlanta than in children from Mozambique.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "It is not a common cause of bloodstream infection, although single cases have been reported.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Pluvinage B, Bourdon K, et al.",
+   "title": "Substrate recognition and cleavage by mucin degrading O-glycopeptidases from the gut microbe Bacteroides caccae",
+   "journal": "The Journal of biological chemistry",
+   "year": 2026,
+   "pmid": "42248462",
+   "n": 1,
+   "doi": "10.1016/j.jbc.2026.113222"
+  },
+  {
+   "authors": "Alvarez B, Canil OF, et al.",
+   "title": "Analysis of chondroitin degradation by components of a Bacteroides caccae polysaccharide utilization locus",
+   "journal": "The Journal of biological chemistry",
+   "year": 2025,
+   "pmid": "40490139",
+   "n": 2,
+   "doi": "10.1016/j.jbc.2025.110354"
+  },
+  {
+   "authors": "Cheng Z, Huang Y, et al.",
+   "title": "Bloodstream Infection Caused by Bacteroides caccae in a Diabetic Patient: a Case Report and Review of the Literature",
+   "journal": "Clinical laboratory",
+   "year": 2019,
+   "pmid": "31850719",
+   "n": 3,
+   "doi": "10.7754/clin.lab.2019.190534"
+  },
+  {
+   "authors": "Kim M, Rodriguez-R LM, et al.",
+   "title": "Higher pathogen load in children from Mozambique vs. USA revealed by comparative fecal microbiome profiling",
+   "journal": "ISME communications",
+   "year": 2022,
+   "pmid": "37938667",
+   "n": 4,
+   "doi": "10.1038/s43705-022-00154-z"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

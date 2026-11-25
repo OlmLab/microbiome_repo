@@ -1,0 +1,66 @@
+{
+ "slug": "Gemella",
+ "taxon": "g__Gemella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Gemella",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Gemella species are fastidious gram-positive cocci that are typically commensal organisms but can become opportunistic pathogens.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A systematic review of 52 case reports of endocarditis due to Gemella species found G. morbillorum and G. haemolysans most prevalent, with a male predominance of 79.6 percent.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In bronchoalveolar lavage fluid from 72 intensive care patients, Gemella was detected in 9 patients with aspiration pneumonia, including 8 of 26 non-survivors and 1 of 23 survivors.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Gemella morbillorum has been described as an oropharyngeal commensal and reported as a rare cause of pleural empyema, a severe complication of pneumonia.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gonzalez GN, Franco CD, Sinha T, Ramos EI, Bokhari SFH, Bakht D, Amir M, Javed MA, Ali K, Pineda Renté N.",
+   "title": "An Emerging Threat: A Systematic Review of Endocarditis Caused by Gemella Species",
+   "journal": "Cureus",
+   "year": 2024,
+   "pmid": "38784359",
+   "n": 1,
+   "doi": "10.7759/cureus.58802"
+  },
+  {
+   "authors": "Wang R, Shao Y, Zhang L, Zhang C, Shen M, Mo W, Zhang F, Shen J.",
+   "title": "Bronchoalveolar Lavage Microbiota in Critically Ill Patients with Aspiration Pneumonia: An Exploratory Comparison with Community-Acquired Pneumonia and Analysis of Gemella Detection and Mortality",
+   "journal": "Infection and drug resistance",
+   "year": 2026,
+   "pmid": "42775290",
+   "n": 2,
+   "doi": "10.2147/idr.s640842"
+  },
+  {
+   "authors": "Chaucayanqui DP, Castellanos López L, Raboso Moreno B.",
+   "title": "Pleural Empyema Due to Gemella morbillorum: A Rare Etiology in a High-risk Patient",
+   "journal": "Open respiratory archives",
+   "year": 2026,
+   "pmid": "41541894",
+   "n": 3,
+   "doi": "10.1016/j.opresp.2025.100526"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

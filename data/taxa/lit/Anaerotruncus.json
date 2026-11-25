@@ -1,0 +1,66 @@
+{
+ "slug": "Anaerotruncus",
+ "taxon": "g__Anaerotruncus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaerotruncus",
+ "name_note": "Some sources abbreviate the species name as A colihominis; nearly all genomes GTDB places here carry the NCBI name Anaerotruncus.",
+ "sentences": [
+  {
+   "text": "The genus Anaerotruncus was created for Anaerotruncus colihominis, a Gram-positive, anaerobic, non-spore-forming, rod-shaped bacterium isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Those isolates were catalase-negative and produced acetic and butyric acids as end products of metabolism.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A clinical report described a case of Anaerotruncus colihominis bacteraemia in a 78-year-old woman, and proposed spore formation as an emended description of the species.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A multi-omic study reported enrichment of Anaerotruncus colihominis in patients with obesity-related depression compared with healthy individuals.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lawson PA, Song Y, et al.",
+   "title": "Anaerotruncus colihominis gen. nov., sp. nov., from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2004,
+   "pmid": "15023953",
+   "n": 1,
+   "doi": "10.1099/ijs.0.02653-0"
+  },
+  {
+   "authors": "Lau SK, Woo PC, et al.",
+   "title": "Bacteraemia caused by Anaerotruncus colihominis and emended description of the species.",
+   "journal": "Journal of clinical pathology",
+   "year": 2006,
+   "pmid": "16467163",
+   "n": 2,
+   "doi": "10.1136/jcp.2005.031773"
+  },
+  {
+   "authors": "Chang Z, Zhu Y, et al.",
+   "title": "Multi-omic analyses of the development of obesity-related depression linked to the gut microbe Anaerotruncus colihominis and its metabolite glutamate.",
+   "journal": "Science bulletin",
+   "year": 2025,
+   "pmid": "40274437",
+   "n": 3,
+   "doi": "10.1016/j.scib.2025.04.010"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

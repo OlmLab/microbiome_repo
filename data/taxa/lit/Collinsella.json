@@ -1,0 +1,82 @@
+{
+ "slug": "Collinsella",
+ "taxon": "g__Collinsella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Collinsella",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Collinsella was created when Eubacterium aerofaciens, isolated in large numbers from human faeces, was transferred to the new genus as Collinsella aerofaciens.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Strains of this group are separated by their fermentation of sugars such as sucrose, cellobiose, aesculin, salicin and amygdalin.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Collinsella aerofaciens is an actinomycete that appears prominently in human gut microbiome association studies.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported that low dietary fibre intake raised Collinsella abundance in overweight and obese pregnant women, with genus abundance positively correlated with circulating insulin.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Studies have reported higher Collinsella abundance in biopsy-proven non-alcoholic steatohepatitis, and the genus usually correlates with pro-inflammatory responses, with favourable cancer immunotherapy response a noted exception.",
+   "refs": [
+    4,
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kageyama A, Benno Y, et al.",
+   "title": "Phylogenetic and phenotypic evidence for the transfer of Eubacterium aerofaciens to the genus Collinsella as Collinsella aerofaciens gen. nov., comb. nov",
+   "journal": "International journal of systematic bacteriology",
+   "year": 1999,
+   "pmid": "10319476",
+   "n": 1,
+   "doi": "10.1099/00207713-49-2-557"
+  },
+  {
+   "authors": "Kwon J, Bae M, et al.",
+   "title": "Collinsella aerofaciens Produces a pH-Responsive Lipid Immunogen",
+   "journal": "Journal of the American Chemical Society",
+   "year": 2023,
+   "pmid": "36952265",
+   "n": 2,
+   "doi": "10.1021/jacs.3c00250"
+  },
+  {
+   "authors": "Gomez-Arango LF, Barrett HL, et al.",
+   "title": "Low dietary fiber intake increases Collinsella abundance in the gut microbiota of overweight and obese pregnant women",
+   "journal": "Gut microbes",
+   "year": 2018,
+   "pmid": "29144833",
+   "n": 3,
+   "doi": "10.1080/19490976.2017.1406584"
+  },
+  {
+   "authors": "Astbury S, Atallah E, et al.",
+   "title": "Lower gut microbiome diversity and higher abundance of proinflammatory genus Collinsella are associated with biopsy-proven nonalcoholic steatohepatitis",
+   "journal": "Gut microbes",
+   "year": 2020,
+   "pmid": "31696774",
+   "n": 4,
+   "doi": "10.1080/19490976.2019.1681861"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}
