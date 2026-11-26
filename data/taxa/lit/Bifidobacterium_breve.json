@@ -1,0 +1,60 @@
+{
+ "slug": "Bifidobacterium_breve",
+ "taxon": "s__Bifidobacterium breve",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bifidobacterium breve",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bifidobacterium breve is a species commonly isolated from the intestines of healthy breastfed infants and from human milk.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Bifidobacterium breve strain UCC2003 was shown to utilize plant, diet and host-derived carbohydrates including cellodextrin, starch, galactan and the mucin-derived monosaccharide sialic acid.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A randomised controlled trial in very preterm infants tested the probiotic Bifidobacterium breve BBG-001 for reducing necrotising enterocolitis, late-onset sepsis and death.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Cukrowska B, Bierła JB, Zakrzewska M, Klukowski M, Maciorkowska E.",
+   "title": "The Relationship between the Infant Gut Microbiota and Allergy. The Role of Bifidobacterium breve and Prebiotic Oligosaccharides in the Activation of Anti-Allergic Mechanisms in Early Life",
+   "journal": "Nutrients",
+   "year": 2020,
+   "pmid": "32235348",
+   "n": 1,
+   "doi": "10.3390/nu12040946"
+  },
+  {
+   "authors": "Egan M, Motherway MO, Kilcoyne M, Kane M, Joshi L, Ventura M, van Sinderen D.",
+   "title": "Cross-feeding by Bifidobacterium breve UCC2003 during co-cultivation with Bifidobacterium bifidum PRL2010 in a mucin-based medium",
+   "journal": "BMC microbiology",
+   "year": 2014,
+   "pmid": "25420416",
+   "n": 2,
+   "doi": "10.1186/s12866-014-0282-7"
+  },
+  {
+   "authors": "Costeloe K, Hardy P, Juszczak E, Wilks M, Millar MR, Probiotics in Preterm Infants Study Collaborative Group.",
+   "title": "Bifidobacterium breve BBG-001 in very preterm infants: a randomised controlled phase 3 trial",
+   "journal": "Lancet (London, England)",
+   "year": 2016,
+   "pmid": "26628328",
+   "n": 3,
+   "doi": "10.1016/s0140-6736(15)01027-2"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

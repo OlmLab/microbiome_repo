@@ -1,0 +1,57 @@
+{
+ "slug": "Brachyspira_aalborgi",
+ "taxon": "s__Brachyspira aalborgi",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Brachyspira aalborgi",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "In a randomized population-based study in Stockholm, 745 healthy individuals underwent colonoscopy with biopsy sampling and 17 of them, 2.3 percent, had colonic spirochetosis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study reported colonic spirochetosis was associated with eosinophilic infiltration and a three-fold increased risk for irritable bowel syndrome, with all but one isolate being Brachyspira aalborgi.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same study reported that the isolates harboured mucin-degrading enzymes and virulence-associated genes, and that standard 16S primers for human microbiota studies failed to detect Brachyspira.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A pooled analysis of 21 studies with individual patient information reported that patients infected with Brachyspira aalborgi were more likely to have lamina propria inflammation.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Thorell K, Inganäs L, Backhans A, et al.",
+   "title": "Isolates from Colonic Spirochetosis in Humans Show High Genomic Divergence and Potential Pathogenic Features but Are Not Detected Using Standard Primers for the Human Microbiota.",
+   "journal": "Journal of bacteriology",
+   "year": 2019,
+   "pmid": "31405919",
+   "n": 1,
+   "doi": "10.1128/jb.00272-19"
+  },
+  {
+   "authors": "Eslick GD, Fan K, Nair PM, et al.",
+   "title": "Clinical and Pathologic Factors Associated With Colonic Spirochete (Brachyspira pilosicoli and Brachyspira aalborgi) Infection: A Comprehensive Systematic Review and Pooled Analysis.",
+   "journal": "American journal of clinical pathology",
+   "year": 2023,
+   "pmid": "37289435",
+   "n": 2,
+   "doi": "10.1093/ajcp/aqad063"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

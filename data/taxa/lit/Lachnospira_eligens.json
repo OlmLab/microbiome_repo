@@ -1,0 +1,76 @@
+{
+ "slug": "Lachnospira_eligens",
+ "taxon": "s__Lachnospira eligens",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Lachnospira eligens",
+ "name_note": "The species is published both as Lachnospira eligens and, earlier, as Eubacterium eligens; GTDB uses the Lachnospira name.",
+ "sentences": [
+  {
+   "text": "Lachnospira eligens, also published as Eubacterium eligens, is a gut bacterial species of the human colon.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "A systematic review of in vitro fermentation reports that stimulation of Lachnospira and L. eligens is unique to pectic substrates among the fibres considered.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In synthetic co-cultures of human colonic bacteria grown on pectin, Lachnospira eligens DSM 3376 outcompeted Phocaeicola vulgatus and Segatella copri.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In faecal cultures from adults, production of indole-3-propionate was associated with this pectin-utilising species, which produced the precursor indole-3-lactate in vitro.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ahn WC, Park KH, et al.",
+   "title": "In vivo genome editing using the Cpf1 ortholog derived from Eubacterium eligens",
+   "journal": "Scientific reports",
+   "year": 2019,
+   "pmid": "31558757",
+   "n": 1,
+   "doi": "10.1038/s41598-019-50423-6"
+  },
+  {
+   "authors": "Pascale N, Gu F, et al.",
+   "title": "The Potential of Pectins to Modulate the Human Gut Microbiota Evaluated by In Vitro Fermentation: A Systematic Review",
+   "journal": "Nutrients",
+   "year": 2022,
+   "pmid": "36079886",
+   "n": 2,
+   "doi": "10.3390/nu14173629"
+  },
+  {
+   "authors": "Solvang M, Farquharson FM, et al.",
+   "title": "Roles of human colonic bacteria in pectin utilization and associated cross-feeding networks revealed using synthetic co-cultures",
+   "journal": "Microbiology (Reading, England)",
+   "year": 2025,
+   "pmid": "40439696",
+   "n": 3,
+   "doi": "10.1099/mic.0.001559"
+  },
+  {
+   "authors": "Zünd JN, Mujezinovic D, et al.",
+   "title": "Novel cross-feeding human gut microbes metabolizing tryptophan to indole-3-propionate",
+   "journal": "Gut microbes",
+   "year": 2025,
+   "pmid": "40336187",
+   "n": 4,
+   "doi": "10.1080/19490976.2025.2501195"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

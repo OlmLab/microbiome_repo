@@ -1,0 +1,14 @@
+sample_key,study_accession,subject_id,timepoint_label,age_category,age_at_collection_days,sex,country,health_condition,health_condition_detail,intervention,intervention_detail,antibiotic_exposure,collection_date,body_site_class,n_runs,seq_gbp
+SAMN11352968,PRJNA518922,RP-201,,,,,,other_infection,Lyme disease,,,,,primary,1.0,2.35
+SAMN11352969,PRJNA518922,RP-202,,,,,,other_infection,Malaria,,,,,primary,1.0,0.328
+SAMN11352970,PRJNA518922,RP-203,,,,,,other_infection,Babesiosis,,,,,primary,1.0,0.8
+SAMN11352971,PRJNA518922,RP-204,,,,,,healthy_control,Control sample 1,,,,,primary,1.0,11.712
+SAMN11352972,PRJNA518922,RP-205,,,,,,healthy_control,Control sample 2,,,,,primary,1.0,10.696
+SAMN11352973,PRJNA518922,RP-VB-01,,,,,,other_infection,Filariasis,,,,,primary,1.0,0.82
+SAMN11352974,PRJNA518922,RP-VB-02,,,,,,other_infection,Malaria,,,,,primary,1.0,0.375
+SAMN11352975,PRJNA518922,RP-VB-03,,,,,,other_infection,Human monocytic ehrlichiosis,,,,,primary,1.0,0.155
+SAMN11352976,PRJNA518922,RP-VB-05,,,,,,other_infection,Human granulocytic anaplasmosis,,,,,primary,1.0,0.159
+SAMN11352977,PRJNA518922,RP-VB-06,,,,,,other_infection,Toxoplasmosis,,,,,primary,1.0,1.265
+SAMN11352978,PRJNA518922,RP-VB-07,,,,,,other_infection,Human granulocytic anaplasmosis,,,,,primary,1.0,0.189
+SAMN11352979,PRJNA518922,RP-VB-NC,,,,,,healthy_control,Control sample 3,,,,,primary,1.0,7.004
+SAMN11352980,PRJNA518922,RP-VB-PC,,,,,,healthy_control,Control sample 4,,,,,primary,1.0,6.079

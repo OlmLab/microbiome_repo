@@ -1,0 +1,76 @@
+{
+ "slug": "Parasutterella_excrementihominis",
+ "taxon": "s__Parasutterella excrementihominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Parasutterella excrementihominis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Parasutterella excrementihominis is a strictly anaerobic, non-spore-forming, Gram-negative coccobacillus of the family Alcaligenaceae that was isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The type strain is asaccharolytic and largely unreactive biochemically, with a trace amount of propionate detected as an end product of metabolism.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus Parasutterella has been defined as a core component of the human and mouse gut microbiota, and mouse, rat and human isolates were all asaccharolytic producers of succinate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study reported Parasutterella abundance differing in irritable bowel syndrome and related to chronic intestinal inflammation, and a systematic review listed the genus among those higher in major depression.",
+   "refs": [
+    3,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Nagai F, Morotomi M, Sakon H, Tanaka R.",
+   "title": "Parasutterella excrementihominis gen. nov., sp. nov., a member of the family Alcaligenaceae isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2009,
+   "pmid": "19542131",
+   "n": 1,
+   "doi": "10.1099/ijs.0.002519-0"
+  },
+  {
+   "authors": "Ju T, Kong JY, Stothard P, Willing BP.",
+   "title": "Defining the role of Parasutterella, a previously uncharacterized member of the core gut microbiota",
+   "journal": "The ISME journal",
+   "year": 2019,
+   "pmid": "30742017",
+   "n": 2,
+   "doi": "10.1038/s41396-019-0364-5"
+  },
+  {
+   "authors": "Chen YJ, Wu H, Wu SD, Lu N, Wang YT, Liu HN, Dong L, Liu TT, Shen XZ.",
+   "title": "Parasutterella, in association with irritable bowel syndrome and intestinal chronic inflammation",
+   "journal": "Journal of gastroenterology and hepatology",
+   "year": 2018,
+   "pmid": "29744928",
+   "n": 3,
+   "doi": "10.1111/jgh.14281"
+  },
+  {
+   "authors": "Cheung SG, Goldenthal AR, Uhlemann AC, Mann JJ, Miller JM, Sublette ME.",
+   "title": "Systematic Review of Gut Microbiota and Major Depression",
+   "journal": "Frontiers in psychiatry",
+   "year": 2019,
+   "pmid": "30804820",
+   "n": 4,
+   "doi": "10.3389/fpsyt.2019.00034"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

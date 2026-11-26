@@ -1,0 +1,75 @@
+{
+ "slug": "Streptococcus_salivarius_F",
+ "taxon": "s__Streptococcus salivarius_F",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Streptococcus salivarius",
+ "name_note": "GTDB R232 splits classical Streptococcus salivarius into several species; the genomes in s__Streptococcus salivarius_F are labelled Streptococcus salivarius in NCBI, so published work does not separate this lineage.",
+ "sentences": [
+  {
+   "text": "Streptococcus salivarius has been described as a prominent oral commensal bacterium with probiotic potential and relevance to both oral and systemic health.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes Streptococcus salivarius as a lactic acid bacterium and a well established synthesiser of both broad- and narrow-spectrum antimicrobials.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The oral probiotic strain K12 produces at least three antimicrobials, salivaricin A, salivaricin B and salivabactin, the last controlled by environmental acidification.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study of pneumonia reported that alterations of the intestinal microbiota during pneumonia featured a reduction in the relative levels of Streptococcus salivarius.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Al-Akel FC, Chiperi LE, et al.",
+   "title": "Low-Cost Protocol for Quantitative Measurement of Streptococcus salivarius in Human Saliva",
+   "journal": "Life (Basel, Switzerland)",
+   "year": 2025,
+   "pmid": "41302119",
+   "n": 1,
+   "doi": "10.3390/life15111695"
+  },
+  {
+   "authors": "Williams MD, Smith L",
+   "title": "Streptococcus salivarius and Ligilactobacillus salivarius : Paragons of Probiotic Potential and Reservoirs of Novel Antimicrobials",
+   "journal": "Microorganisms",
+   "year": 2025,
+   "pmid": "40142448",
+   "n": 2,
+   "doi": "10.3390/microorganisms13030555"
+  },
+  {
+   "authors": "Nguyen DL, Saha S, et al.",
+   "title": "Environmental pH controls antimicrobial production by human probiotic Streptococcus salivarius ",
+   "journal": "Journal of bacteriology",
+   "year": 2025,
+   "pmid": "40454994",
+   "n": 3,
+   "doi": "10.1128/jb.00059-25"
+  },
+  {
+   "authors": "Huang X, Wu R, et al.",
+   "title": "Streptococcus salivarius -derived ilexgenin A alleviates pneumonia through the gut-lung axis",
+   "journal": "mSystems",
+   "year": 2025,
+   "pmid": "40736248",
+   "n": 4,
+   "doi": "10.1128/msystems.00731-25"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

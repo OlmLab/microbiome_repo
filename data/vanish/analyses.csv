@@ -1,0 +1,25 @@
+level,contrast,ni_def,reference,stratum,n_ni,n_ref,cohorts_ni,cohorts_ref,cohorts_distinct,estimable,n_tested,n_perm,Q,S_min,D_min,P_loco,n_candidates,n_vanish,n_blossum,n_stil,stil_min_prev,stil_max_score,note
+species,C1,ext,hdi,adult,781,27662,16,477,490,True,464.0,200.0,0.05,2.0,0.1,0.01,120.0,69.0,37.0,7.0,0.2,1.0,
+species,C1,ext,hdi,infant,62,6543,1,113,114,False,,,,,,,,,,,,,not estimable
+species,C2,ext,stated,adult,843,309,17,6,21,True,491.0,200.0,0.05,2.0,0.1,0.01,111.0,50.0,22.0,2.0,0.2,1.0,
+species,C2,ext,stated,infant,99,184,2,4,6,False,,,,,,,,,,,,,not estimable
+species,C3,strict,hdi,adult,464,27674,10,477,486,True,471.0,100.0,0.05,2.0,0.1,0.01,122.0,66.0,29.0,4.0,0.2,1.0,
+species,C3,strict,hdi,infant,14,6543,1,113,114,False,,,,,,,,,,,,,not estimable
+species,C4,broad,hdi,adult,912,27662,17,477,490,True,439.0,100.0,0.05,2.0,0.1,0.01,76.0,60.0,7.0,15.0,0.2,1.0,
+species,C4,broad,hdi,infant,286,6543,4,113,117,True,262.0,100.0,0.05,2.0,0.1,0.01,69.0,11.0,2.0,0.0,0.2,1.0,
+genus,C1,ext,hdi,adult,781,27662,16,477,490,True,420.0,200.0,0.05,2.0,0.1,0.01,180.0,114.0,48.0,13.0,0.2,1.0,
+genus,C1,ext,hdi,infant,62,6543,1,113,114,False,,,,,,,,,,,,,not estimable
+genus,C2,ext,stated,adult,843,309,17,6,21,True,472.0,200.0,0.05,2.0,0.1,0.01,158.0,54.0,18.0,4.0,0.2,1.0,
+genus,C2,ext,stated,infant,99,184,2,4,6,False,,,,,,,,,,,,,not estimable
+genus,C3,strict,hdi,adult,464,27674,10,477,486,True,436.0,100.0,0.05,2.0,0.1,0.01,192.0,114.0,40.0,6.0,0.2,1.0,
+genus,C3,strict,hdi,infant,14,6543,1,113,114,False,,,,,,,,,,,,,not estimable
+genus,C4,broad,hdi,adult,912,27662,17,477,490,True,402.0,100.0,0.05,2.0,0.1,0.01,117.0,86.0,16.0,25.0,0.2,1.0,
+genus,C4,broad,hdi,infant,286,6543,4,113,117,True,289.0,100.0,0.05,2.0,0.1,0.01,133.0,16.0,1.0,0.0,0.2,1.0,
+family,C1,ext,hdi,adult,781,27662,16,477,490,True,105.0,200.0,0.05,2.0,0.1,0.01,37.0,28.0,7.0,1.0,0.2,1.0,
+family,C1,ext,hdi,infant,62,6543,1,113,114,False,,,,,,,,,,,,,not estimable
+family,C2,ext,stated,adult,843,309,17,6,21,True,105.0,200.0,0.05,2.0,0.1,0.01,36.0,16.0,0.0,0.0,0.2,1.0,
+family,C2,ext,stated,infant,99,184,2,4,6,False,,,,,,,,,,,,,not estimable
+family,C3,strict,hdi,adult,464,27674,10,477,486,True,105.0,100.0,0.05,2.0,0.1,0.01,40.0,22.0,5.0,2.0,0.2,1.0,
+family,C3,strict,hdi,infant,14,6543,1,113,114,False,,,,,,,,,,,,,not estimable
+family,C4,broad,hdi,adult,912,27662,17,477,490,True,103.0,100.0,0.05,2.0,0.1,0.01,25.0,21.0,3.0,7.0,0.2,1.0,
+family,C4,broad,hdi,infant,286,6543,4,113,117,True,86.0,100.0,0.05,2.0,0.1,0.01,36.0,3.0,0.0,0.0,0.2,1.0,

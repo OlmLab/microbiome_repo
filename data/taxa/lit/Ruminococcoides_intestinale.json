@@ -1,0 +1,81 @@
+{
+ "slug": "Ruminococcoides_intestinale",
+ "taxon": "s__Ruminococcoides intestinale",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Ruminococcoides intestinale (most genomes carry the NCBI name Ruminococcus bromii)",
+ "name_note": "Ruminococcoides intestinale is a recently named species; most genomes GTDB places here carry the NCBI name Ruminococcus bromii, so work on that species describes close relatives.",
+ "sentences": [
+  {
+   "text": "Ruminococcoides intestinale was named from a public collection of cultured human gut strains as a previously unknown dominant species, reported there as associated with health.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Ruminococcus bromii, the name carried by most genomes placed here, is a dominant gut member that releases energy from dietary starches escaping host digestion.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Its amylase activity is expressed constitutively and its enzymes are organised into an extracellular complex, the amylosome, built on dockerin-bearing proteins.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Amylosome components are conserved between human colonic strains from three continents and a strain from cattle rumen, reflecting extreme specialisation on starch.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In 46 healthy adults, bands attributed to uncultivated bacteria closely related to this species rose on diets high in resistant starch.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Hitch TCA, Masson JM, et al.",
+   "title": "HiBC: a publicly available collection of bacterial strains isolated from the human gut",
+   "journal": "Nature communications",
+   "year": 2025,
+   "pmid": "40328737",
+   "n": 1,
+   "doi": "10.1038/s41467-025-59229-9"
+  },
+  {
+   "authors": "Ze X, Ben David Y, et al.",
+   "title": "Unique Organization of Extracellular Amylases into Amylosomes in the Resistant Starch-Utilizing Human Colonic Firmicutes Bacterium Ruminococcus bromii",
+   "journal": "mBio",
+   "year": 2015,
+   "pmid": "26419877",
+   "n": 2,
+   "doi": "10.1128/mbio.01058-15"
+  },
+  {
+   "authors": "Mukhopadhya I, Moraïs S, et al.",
+   "title": "Sporulation capability and amylosome conservation among diverse human colonic and rumen isolates of the keystone starch-degrader Ruminococcus bromii",
+   "journal": "Environmental microbiology",
+   "year": 2018,
+   "pmid": "29159997",
+   "n": 3,
+   "doi": "10.1111/1462-2920.14000"
+  },
+  {
+   "authors": "Abell GC, Cooke CM, et al.",
+   "title": "Phylotypes related to Ruminococcus bromii are abundant in the large bowel of humans and increase in response to a diet high in resistant starch",
+   "journal": "FEMS microbiology ecology",
+   "year": 2008,
+   "pmid": "18616586",
+   "n": 4,
+   "doi": "10.1111/j.1574-6941.2008.00527.x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

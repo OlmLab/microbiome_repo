@@ -1,0 +1,66 @@
+{
+ "slug": "Eshraghiella_crossota",
+ "taxon": "s__Eshraghiella crossota",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Eshraghiella crossota (published as Butyrivibrio crossotus)",
+ "name_note": "The name is recent: the species was published as Butyrivibrio crossotus and reclassified as Eshraghiella crossota, so most literature uses the older name.",
+ "sentences": [
+  {
+   "text": "Eshraghiella crossota is the name proposed when Butyrivibrio crossotus was reclassified into a new genus within the family Lachnospiraceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The reclassification rests on analysis of 16S rRNA, groEL, recA and rpoB genes and genome sequences, with DNA-DNA hybridization and nucleotide identity values below the species thresholds for other Butyrivibrio species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A cross-cohort analysis of type 2 diabetes reported Butyrivibrio crossotus depleted in individuals with the disease.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A nutrition intervention study reported an increased relative abundance of Eshraghiella crossota among species selected as potentially preventive against type 2 diabetes.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Fatahi-Bafghi M.",
+   "title": "Reclassification of Butyrivibrio crossotus Moore et al . 1976 (Approved Lists 1980) into a novel genus as Eshraghiella crossota gen. nov., comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "39226088",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006509"
+  },
+  {
+   "authors": "Mei Z, Wang F, Bhosle A, Dong D, Mehta R, Ghazi A, Zhang Y, Liu Y, Rinott E, Ma S, Rimm EB, Daviglus M, Willett WC, Knight R, Hu FB, Qi Q, Chan AT, Burk RD, Stampfer MJ, Shai I, Kaplan RC, Huttenhower C, Wang DD.",
+   "title": "Strain-specific gut microbial signatures in type 2 diabetes identified in a cross-cohort analysis of 8,117 metagenomes",
+   "journal": "Nature medicine",
+   "year": 2024,
+   "pmid": "38918632",
+   "n": 2,
+   "doi": "10.1038/s41591-024-03067-7"
+  },
+  {
+   "authors": "González A, Fullaondo A, Odriozola A.",
+   "title": "In Search of Healthy Ageing: A Microbiome-Based Precision Nutrition Approach for Type 2 Diabetes Prevention",
+   "journal": "Nutrients",
+   "year": 2025,
+   "pmid": "40507144",
+   "n": 3,
+   "doi": "10.3390/nu17111877"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

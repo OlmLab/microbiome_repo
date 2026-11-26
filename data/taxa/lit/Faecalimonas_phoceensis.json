@@ -1,0 +1,60 @@
+{
+ "slug": "Faecalimonas_phoceensis",
+ "taxon": "s__Faecalimonas phoceensis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Clostridium nexile",
+ "name_note": "Most genomes GTDB places in s__Faecalimonas phoceensis carry the NCBI name [Clostridium] nexile, the name used in the literature cited here; others carry the name Coprococcus phoceensis.",
+ "sentences": [
+  {
+   "text": "A systematic review of the multiple sclerosis gut microbiome reported higher abundance of Clostridium nexile associated with worse outcomes, such as higher MRI lesion volumes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a pilot study of erectile dysfunction, Clostridium nexile was among species more abundant in the patient group than in the control group.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Comparing colorectal cancer patients with healthy controls, Clostridium nexile was among seven species found to be significantly differently distributed between the groups.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Jette S, de Schaetzen C, Tsai CC, Tremlett H.",
+   "title": "The multiple sclerosis gut microbiome and disease activity: A systematic review.",
+   "journal": "Multiple sclerosis and related disorders",
+   "year": 2024,
+   "pmid": "39586156",
+   "n": 1,
+   "doi": "10.1016/j.msard.2024.106151"
+  },
+  {
+   "authors": "Su Q, Wang K, Luo Y, Tang Q.",
+   "title": "Altered gut microbiota in erectile dysfunction patients: a pilot study.",
+   "journal": "Frontiers in microbiology",
+   "year": 2025,
+   "pmid": "40539109",
+   "n": 2,
+   "doi": "10.3389/fmicb.2025.1530014"
+  },
+  {
+   "authors": "Li J, Zhu Y, Chang Q, Gong Y, Wan J, Xu S.",
+   "title": "Comparative Analysis of Microbiological Profiles and Antibiotic Resistance Genes in Subjects with Colorectal Cancer and Healthy Individuals.",
+   "journal": "Polish journal of microbiology",
+   "year": 2025,
+   "pmid": "40146796",
+   "n": 3,
+   "doi": "10.33073/pjm-2025-006"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "Lactobacillus_gasseri",
+ "taxon": "s__Lactobacillus gasseri",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Lactobacillus gasseri",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A study describes the healthy vaginal microbiota as typically dominated by Lactobacillus species, with dominance of other taxa often signalling dysbiosis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study examined Lactobacillus gasseri among strains isolated from the vaginal environment of fertile and menopausal women, using genomic screening and comparative genomics.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It reports that vaginal Lactobacillus strains are genomically adapted to this niche, and that Lactobacillus gasseri showed genetic traits equivalent and complementary to the most vaginally specialized species, Lactobacillus crispatus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of 216 postmenopausal women given local estradiol vaginal tablets reported that after twelve weeks the abundance of Lactobacillus gasseri, L. crispatus and L. jensenii increased.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Calvanese CM, Valentino V, et al.",
+   "title": "Women's health is a team effort: probiogenomics supports the development of a multi-species vaginal probiotic",
+   "journal": "Cellular and molecular life sciences : CMLS",
+   "year": 2026,
+   "pmid": "41746338",
+   "n": 1,
+   "doi": "10.1007/s00018-026-06107-2"
+  },
+  {
+   "authors": "Han X, Sun B, et al.",
+   "title": "Vaginal Lactobacillus iners Abundance Predicts Response to Local Estrogen Therapy in Postmenopausal Women with Genitourinary Syndrome of Menopause",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42655105",
+   "n": 2,
+   "doi": "10.3390/microorganisms14081760"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

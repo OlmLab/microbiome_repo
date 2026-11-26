@@ -1,0 +1,61 @@
+{
+ "slug": "Faecalibacillus_intestinalis",
+ "taxon": "s__Faecalibacillus intestinalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacillus intestinalis",
+ "name_note": "Some genomes GTDB places in this species are deposited under the names [Clostridium] innocuum or Clostridium sporogenes.",
+ "sentences": [
+  {
+   "text": "It is the type species of the genus Faecalibacillus and belongs to the family Erysipelotrichaceae.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "A complete genome sequence was reported for a strain isolated from faeces of a healthy Japanese woman, comprising 2,869,982 base pairs with a G+C content of 29.8 percent.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study combining metagenomic and metabolomic profiling across seven malignancies reported Faecalibacillus intestinalis under-represented in each of the seven patient groups compared with matched healthy controls.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Seo B, Jeon K, et al.",
+   "title": "Faecalibacillus intestinalis gen. nov., sp. nov. and Faecalibacillus faecis sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2019,
+   "pmid": "31099736",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003443"
+  },
+  {
+   "authors": "Sakamoto M, Ikeyama N, et al.",
+   "title": "Complete Genome Sequence of Faecalibacillus intestinalis JCM 34082, Isolated from Feces from a Healthy Japanese Female.",
+   "journal": "Microbiology resource announcements",
+   "year": 2020,
+   "pmid": "33303667",
+   "n": 2,
+   "doi": "10.1128/mra.01160-20"
+  },
+  {
+   "authors": "Kulecka M, Czarnowski P, et al.",
+   "title": "Microbial and Metabolic Gut Profiling across Seven Malignancies Identifies Fecal Faecalibacillus intestinalis and Formic Acid as Commonly Altered in Cancer Patients.",
+   "journal": "International journal of molecular sciences",
+   "year": 2024,
+   "pmid": "39125593",
+   "n": 3,
+   "doi": "10.3390/ijms25158026"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

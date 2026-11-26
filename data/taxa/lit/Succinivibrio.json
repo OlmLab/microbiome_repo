@@ -1,0 +1,75 @@
+{
+ "slug": "Succinivibrio",
+ "taxon": "g__Succinivibrio",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Succinivibrio",
+ "name_note": "Part of the genomes GTDB places in this genus carry the NCBI label Succinatimonas, a different genus, so only sources that use the name Succinivibrio are cited here.",
+ "sentences": [
+  {
+   "text": "A strain isolated from cow faeces and assigned to the genus Succinivibrio was described as Gram-stain-negative, obligately anaerobic, non-motile, non-spore-forming and helical rod-shaped.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of the Juǀ'hoansi, a hunter-gatherer community in northeastern Namibia, reported that their bacterial intestinal microbiome was enriched for genera including Succinivibrio.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of Indigenous communities in Sarawak reported Succinivibrio among VANISH microbes that were dominant genera in their gut microbiota, contrasting with a Kuala Lumpur urban cohort.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Among 143 healthy rural and urban Tanzanians in a yellow fever vaccine trial, rural-associated microbiota showed higher diversity and enrichment of taxa like Succinivibrio, which were linked to dietary intake patterns.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Choi JY, Park JE, Choi SH, Kim JS, Lee JS, Lee JH, Kim HB, Lee JH, Kim JK, Kang SW, Park SH.",
+   "title": "Succinivibrio faecicola sp. nov., isolated from cow faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2022,
+   "pmid": "36748461",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.005631"
+  },
+  {
+   "authors": "Truter M, Koopman JE, Jordaan K, Tsamkxao LO, Cowan DA, Underdown SJ, Ramond JB, Rifkin RF.",
+   "title": "Documenting the diversity of the Namibian Ju|'hoansi intestinal microbiome.",
+   "journal": "Cell reports",
+   "year": 2024,
+   "pmid": "38244196",
+   "n": 2,
+   "doi": "10.1016/j.celrep.2024.113690"
+  },
+  {
+   "authors": "Abjani F, Er YX, Lee SC, Madhavan P, Rhodes A, Lim YAL, Chong PP, Chinna K.",
+   "title": "Gut Microbiota of Sarawak's \"Orang Ulu\" Indigenous Community in East Malaysia Reveals Vanish Microbes: A Comparison With Urban Communities.",
+   "journal": "British journal of biomedical science",
+   "year": 2025,
+   "pmid": "41646503",
+   "n": 3,
+   "doi": "10.3389/bjbs.2025.15378"
+  },
+  {
+   "authors": "Pyuza JJ, van Dorst MMAR, Barnett D, Stam K, Manurung M, Wammes L, König M, Kruize Y, Andongolile N, Ngowi A, Shao ER, Kullaya VI, Mremi A, Hogendoorn PCW, Msuya SE, Jochems SP, Penders J, Yazdanbakhsh M, de Steenhuijsen Piters WAA.",
+   "title": "Tanzanian gut microbiota profiles linked to high but rapidly waning yellow fever antibody titers.",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2025,
+   "pmid": "40537463",
+   "n": 4,
+   "doi": "10.1038/s41522-025-00687-w"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

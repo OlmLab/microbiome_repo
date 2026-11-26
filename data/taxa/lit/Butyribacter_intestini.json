@@ -1,0 +1,66 @@
+{
+ "slug": "Butyribacter_intestini",
+ "taxon": "s__Butyribacter intestini",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Butyribacter intestini",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Butyribacter intestini was described from strain TF01-11, a non-motile, Gram-stain-positive, obligate anaerobic bacterium isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The end products of glucose fermentation by that strain were butyric acid and a small amount of acetic acid, and it is a member of the family Lachnospiraceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a cohort of 6419 participants followed for incident pneumonia, the relative abundance of Butyribacter intestini was inversely associated with pneumonia risk.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A metagenomic study reported that a group of patients with post-stroke cognitive impairment and type 2 diabetes showed depletion of butyrate-producing taxa including Butyribacter intestini.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zou Y, Xue W, Lin X, Lv M, Luo G, Dai Y, Sun H, Liu SW, Sun CH, Hu T, Xiao L.",
+   "title": "Butyribacter intestini gen. nov., sp. nov., a butyric acid-producing bacterium of the family Lachnospiraceae isolated from human faeces, and reclassification of Acetivibrio ethanolgignens as Acetanaerobacter ethanolgignens gen. nov., comb. nov.",
+   "journal": "Systematic and applied microbiology",
+   "year": 2021,
+   "pmid": "33892267",
+   "n": 1,
+   "doi": "10.1016/j.syapm.2021.126201"
+  },
+  {
+   "authors": "Wikki I, Palmu J, Kauko A, Havulinna A, Jousilahti P, Lahti L, Knight R, Salomaa V, Niiranen T.",
+   "title": "Prospective association between the gut microbiota and incident pneumonia: a cohort study of 6419 individuals.",
+   "journal": "Respiratory research",
+   "year": 2025,
+   "pmid": "41430301",
+   "n": 2,
+   "doi": "10.1186/s12931-025-03453-w"
+  },
+  {
+   "authors": "Liu X, Kwok L-Y, Zhang W.",
+   "title": "Integrated gut microbiota and metabolome signatures revealed by deep metagenomic sequencing in post-stroke cognitive impairment with type 2 diabetes.",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "42187250",
+   "n": 3,
+   "doi": "10.1128/spectrum.00244-26"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

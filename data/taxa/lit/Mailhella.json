@@ -1,0 +1,75 @@
+{
+ "slug": "Mailhella",
+ "taxon": "g__Mailhella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Mailhella",
+ "name_note": "The GTDB genus Mailhella is much broader than the single cultured species Mailhella massiliensis, most of its species being named only from metagenome-assembled genomes.",
+ "sentences": [
+  {
+   "text": "The name Mailhella massiliensis was reported for a strain isolated from fresh stool samples of healthy French patients.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study described a Candidatus Mailhella bacterium of the family Desulfovibrionaceae as likely respiring isethionate.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A 16S rDNA study of stool from 13 skeletal tuberculosis patients and 13 healthy individuals reported a higher abundance of Mailhella in the patients.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study in mice fed a high-fat diet reported that low-dose ellagic acid inhibited the abundance of Mailhella massiliensis.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ndongo S, Cadoret F, Dubourg G, Delerce J, Fournier PE, Raoult D, Lagier JC.",
+   "title": "'<i>Collinsella phocaeensis</i>' sp. nov., '<i>Clostridium merdae</i>' sp. nov., '<i>Sutterella massiliensis</i>' sp. nov., '<i>Sutturella timonensis</i>' sp. nov., '<i>Enorma phocaeensis</i>' sp. nov., '<i>Mailhella massiliensis</i>' gen. nov., sp. nov., '<i>Mordavella massiliensis</i>' gen. nov., sp. nov. and '<i>Massiliprevotella massiliensis</i>' gen. nov., sp. nov., 9 new species isolated from fresh stool samples of healthy French patients",
+   "journal": "New microbes and new infections",
+   "year": 2017,
+   "pmid": "28409003",
+   "n": 1,
+   "doi": "10.1016/j.nmni.2017.02.005"
+  },
+  {
+   "authors": "Jiang Y, Chai Y, Dong C, Chen J, Wang B, Jia J, Gong L, Zhou N, Li K, Lei H, Feng H.",
+   "title": "Gut microbiota interactions are implicated in skeletal tuberculosis",
+   "journal": "",
+   "year": 2025,
+   "pmid": null,
+   "n": 2,
+   "doi": "10.21203/rs.3.rs-7323638/v1"
+  },
+  {
+   "authors": "Krasenbrink J, Chen SC, Tanabe TS, Sarikeçe H, Meurs P, Borusak S, Samrat R, Guan G, Priemer C, Osvatic J, Séneca J, Hausmann B, Speth DR, Selberherr E, Wanek W, Schleheck D, Mussmann M, Loy A.",
+   "title": "Sulfoquinovose degradation by cow rumen microbiota",
+   "journal": "The ISME journal",
+   "year": 2026,
+   "pmid": "41892593",
+   "n": 3,
+   "doi": "10.1093/ismejo/wrag069"
+  },
+  {
+   "authors": "Geng X, Li Q, Zhou F, Pang X, Sun J, Qi C.",
+   "title": "Ellagic Acid Promotes Lipid Reduction in High-Fat Diet-Induced Obese Mice by Remodeling the Gut Microbiota and Activating PPAR Pathways and Retinol Metabolism in Adipose Tissue",
+   "journal": "Molecular nutrition & food research",
+   "year": 2025,
+   "pmid": "40913546",
+   "n": 4,
+   "doi": "10.1002/mnfr.70246"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

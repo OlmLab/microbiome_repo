@@ -1,0 +1,63 @@
+{
+ "slug": "Clostridium_AQ_innocuum",
+ "taxon": "s__Clostridium_AQ innocuum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Clostridium innocuum",
+ "name_note": "GTDB places this species in the genus Clostridium_AQ; its genomes are named [Clostridium] innocuum in NCBI and the organism is called Clostridium innocuum in the literature.",
+ "sentences": [
+  {
+   "text": "Clostridium innocuum is an anaerobic gram-positive spore-forming bacterium and a commensal member of the human gut microbiome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A case report with systematic review described bacteraemia with this organism complicating a foot ulcer, and reviewed associations from diarrhoea and local infections to inflammatory bowel disease and kidney disease.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "C. innocuum is increasingly detected in patients with Clostridioides difficile infection, particularly following vancomycin treatment, and has been reported as associated with delayed clinical recovery and poor outcomes.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In co-infection models in human intestinal epithelial cells, C. innocuum alone showed minimal cytotoxicity but enhanced cell death and barrier disruption alongside toxigenic C. difficile.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study described the organism's intrinsic vancomycin resistance as enabling survival and expansion during treatment of C. difficile infection.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "de Matos-Konrad C, Chima N, Huntington MK.",
+   "title": "Clostridium innocuum Bacteremia: Case Report and Systematic Review",
+   "journal": "South Dakota medicine : the journal of the South Dakota State Medical Association",
+   "year": 2026,
+   "pmid": "42527363",
+   "n": 1,
+   "doi": ""
+  },
+  {
+   "authors": "Kuo CJ, Hsu TS, Hsu CM, Wu HY, Chen CL, Le PH, Chiang-Ni C, Chen YM, Chiu CH, Lai CH.",
+   "title": "Vancomycin-resistant gut commensal Clostridium innocuum emerges as a pathobiont through synergy with toxigenic Clostridioides difficile",
+   "journal": "Microbial pathogenesis",
+   "year": 2026,
+   "pmid": "42082086",
+   "n": 2,
+   "doi": "10.1016/j.micpath.2026.108531"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

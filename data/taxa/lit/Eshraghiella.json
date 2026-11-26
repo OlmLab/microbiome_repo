@@ -1,0 +1,57 @@
+{
+ "slug": "Eshraghiella",
+ "taxon": "g__Eshraghiella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Eshraghiella",
+ "name_note": "Eshraghiella was proposed for Butyrivibrio crossotus, which is why many genomes placed here carry the NCBI deposit name Butyrivibrio.",
+ "sentences": [
+  {
+   "text": "Eshraghiella was proposed within the family Lachnospiraceae when Butyrivibrio crossotus was reclassified as Eshraghiella crossota.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The reclassification rested on differences in 16S rRNA, groEL, recA and rpoB genes and in genome sequences that distinguish it from other Butyrivibrio species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Comparative analysis reported digital DNA-DNA hybridization values of 19.40-27.20% and ANIb values of 67.06-67.64% against other Butyrivibrio species, below the species delineation thresholds.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Eshraghiella crossota was reported among species whose faecal relative abundance rose in Spanish participants over 62 after a three-month precision nutrition intervention.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Fatahi-Bafghi M.",
+   "title": "Reclassification of Butyrivibrio crossotus Moore et al . 1976 (Approved Lists 1980) into a novel genus as Eshraghiella crossota gen. nov., comb. nov",
+   "journal": "Research Square (preprint)",
+   "year": 2024,
+   "pmid": "39226088",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006509"
+  },
+  {
+   "authors": "González A, Fullaondo A, et al.",
+   "title": "In Search of Healthy Ageing: A Microbiome-Based Precision Nutrition Approach for Type 2 Diabetes Prevention",
+   "journal": "Research Square (preprint)",
+   "year": 2025,
+   "pmid": "40507144",
+   "n": 2,
+   "doi": "10.3390/nu17111877"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

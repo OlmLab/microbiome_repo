@@ -1,0 +1,63 @@
+{
+ "slug": "Dolosigranulum_pigrum",
+ "taxon": "s__Dolosigranulum pigrum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Dolosigranulum pigrum",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Dolosigranulum pigrum is a commensal bacterium of the human nasopharynx that has been put forward as potentially protective.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Among 140 children sampled by nasopharyngeal aspirate, it was detected in 79 of them, including 44 of 65 healthy children.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study reported it more often in healthy children than in invasive pneumococcal disease cases, and more often in boys than girls.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a longitudinal nasopharyngeal cohort, it and Corynebacterium species were less abundant in patients who went on to develop post-acute sequelae of SARS-CoV-2.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In the same cohort, antibiotic use was associated with lower levels of these commensal taxa.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Cisneros M, Henares D, et al.",
+   "title": "Presence of Dolosigranulum pigrum in the nasopharynx and its relationship with respiratory health status in paediatric population",
+   "journal": "PloS one",
+   "year": 2026,
+   "pmid": "42685020",
+   "n": 1,
+   "doi": "10.1371/journal.pone.0345189"
+  },
+  {
+   "authors": "Ward B, Bindels LB, et al.",
+   "title": "Association of nasopharyngeal Dolosigranulum pigrum and Corynebacterium species with post-acute sequelae of SARS-CoV-2 in a longitudinal cohort",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "41841761",
+   "n": 2,
+   "doi": "10.1128/spectrum.02313-25"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "Alistipes_A",
+ "taxon": "g__Alistipes_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Alistipes",
+ "name_note": "GTDB divides the classical genus Alistipes into several genera and Alistipes_A is one of them, so the literature cited here, which uses the name Alistipes, covers a broader group than this GTDB genus.",
+ "sentences": [
+  {
+   "text": "Alistipes is a bacterial genus of the phylum Bacteroidetes that widely colonizes the gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Since the first report of Alistipes in 2003, thirteen species and three subspecies have been isolated and identified from human faeces, urine, appendiceal lesions and rectal abscesses.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A narrative review reported that Alistipes enhances the efficacy of immunotherapies in cancer treatment, and summarised its roles in inflammatory bowel diseases, digestive cancer and lung cancer.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In 85 overweight individuals with metabolic syndrome and 66 with systemic lupus erythematosus, Alistipes was a discriminant taxon whose abundance was associated with small LDL particle concentrations.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zhang Y, Xie J, et al.",
+   "title": "The role of the Alistipes genus in intestinal inflammation, cancer, and aging: a narrative review.",
+   "journal": "Frontiers in microbiology",
+   "year": 2026,
+   "pmid": "42254502",
+   "n": 1,
+   "doi": "10.3389/fmicb.2026.1822008"
+  },
+  {
+   "authors": "Cuevas-Sierra A, Higuera-Gómez A, et al.",
+   "title": "Disease-specific crosstalk of Alistipes with lipoprotein profiles in overweight individuals at high cardiometabolic risk.",
+   "journal": "Scientific reports",
+   "year": 2026,
+   "pmid": "41688554",
+   "n": 2,
+   "doi": "10.1038/s41598-026-36024-0"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

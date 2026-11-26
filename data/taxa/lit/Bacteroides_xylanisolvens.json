@@ -1,0 +1,66 @@
+{
+ "slug": "Bacteroides_xylanisolvens",
+ "taxon": "s__Bacteroides xylanisolvens",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides xylanisolvens",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Bacteroides xylanisolvens was described from xylanolytic, Gram-negative, anaerobic rods isolated from human faecal samples during a study of the xylan-degrading community of the gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The isolates degraded different types of xylan and grew on a variety of carbohydrates but, unlike most other Bacteroides species from the human gut, could not degrade starch.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A culturomics study reported that this species, together with Bacteroides zhangwenhongii and Bacteroides difficilis, can degrade the food additive carrageenan.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In cell-culture work, human gut isolates of Bacteroides xylanisolvens and Bacteroides cellulosilyticus were reported to reduce inflammation in Caco-2 intestinal epithelial cells.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Chassard C, Delmas E, et al.",
+   "title": "Bacteroides xylanisolvens sp. nov., a xylan-degrading bacterium isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18398210",
+   "n": 1,
+   "doi": "10.1099/ijs.0.65504-0"
+  },
+  {
+   "authors": "Dinić M, Đokić J, et al.",
+   "title": "Insight into immunoregulatory and neuromodulatory capability of Bacteroides cellulosilyticus and Bacteroides xylanisolvens human gut microbiota isolates",
+   "journal": "Scientific reports",
+   "year": 2025,
+   "pmid": "41168250",
+   "n": 2,
+   "doi": "10.1038/s41598-025-21839-0"
+  },
+  {
+   "authors": "Zhong H, Ma M, et al.",
+   "title": "How proinflammatory oligosaccharides are produced from carrageenan in mammalian gut? Key roles of Bacteroides xylanisolvens, Bacteroides zhangwenhongii, and Bacteroides difficilis",
+   "journal": "International journal of biological macromolecules",
+   "year": 2025,
+   "pmid": "40967545",
+   "n": 3,
+   "doi": "10.1016/j.ijbiomac.2025.147694"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

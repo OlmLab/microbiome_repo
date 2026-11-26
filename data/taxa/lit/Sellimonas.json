@@ -1,0 +1,66 @@
+{
+ "slug": "Sellimonas",
+ "taxon": "g__Sellimonas",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Sellimonas (Sellimonas intestinalis)",
+ "name_note": "Most genomes GTDB places in g__Sellimonas are deposited in NCBI as Sellimonas, and the published literature concerns the species Sellimonas intestinalis rather than the genus as a whole.",
+ "sentences": [
+  {
+   "text": "Sellimonas intestinalis is a Gram-positive, anaerobic member of the family Lachnospiraceae that was previously considered uncultivable.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It was isolated from faecal samples using a culture protocol for extremely oxygen-sensitive species, and whole genome analysis of eleven genomes found a highly conserved genome.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A microbiome-wide association study reported the genus Sellimonas among taxa associated with depressive symptoms.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of patients with ulcerative colitis reported more Sellimonas in those with depression or anxiety than in those without.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Muñoz M, Guerrero-Araya E, Cortés-Tapia C, Plaza-Garrido A, Lawley TD, Paredes-Sabja D.",
+   "title": "Comprehensive genome analyses of Sellimonas intestinalis , a potential biomarker of homeostasis gut recovery",
+   "journal": "Microbial genomics",
+   "year": 2020,
+   "pmid": "33206037",
+   "n": 1,
+   "doi": "10.1099/mgen.0.000476"
+  },
+  {
+   "authors": "Radjabzadeh D, Bosch JA, Uitterlinden AG, Zwinderman AH, Ikram MA, van Meurs JBJ, Luik AI, Nieuwdorp M, Lok A, van Duijn CM, Kraaij R, Amin N.",
+   "title": "Gut microbiome-wide association study of depressive symptoms",
+   "journal": "Nature communications",
+   "year": 2022,
+   "pmid": "36473852",
+   "n": 2,
+   "doi": "10.1038/s41467-022-34502-3"
+  },
+  {
+   "authors": "Yuan X, Chen B, Duan Z, Xia Z, Ding Y, Chen T, Liu H, Wang B, Yang B, Wang X, Liu S, Zhou JY, Liu Y, Wang Q, Shen Z, Xiao J, Shang H, Liu W, Shi G, Zhu L, Chen Y.",
+   "title": "Depression and anxiety in patients with active ulcerative colitis: crosstalk of gut microbiota, metabolomics and proteomics",
+   "journal": "Gut microbes",
+   "year": 2021,
+   "pmid": "34806521",
+   "n": 3,
+   "doi": "10.1080/19490976.2021.1987779"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

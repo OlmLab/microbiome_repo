@@ -1,0 +1,61 @@
+{
+ "slug": "Ruminococcoides",
+ "taxon": "g__Ruminococcoides",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Ruminococcoides",
+ "name_note": "Most genomes GTDB places in this genus carry the NCBI name Ruminococcus, so much of the relevant literature uses Ruminococcus species names rather than Ruminococcoides.",
+ "sentences": [
+  {
+   "text": "Ruminococcoides is a bacterial genus abundant in the human colon that plays a key role in carbohydrate metabolism and can use a variety of growth substrates.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Ruminococcoides bili, isolated from human faeces, degrades resistant starch strongly using glycoside hydrolases, carbohydrate-binding modules and amylosome-like multienzyme complexes.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "In resistant-starch-rich conditions the bacterium strongly upregulates distinctive scaffoldin proteins that organise these starch-degrading complexes.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lee JW, Kim YJ, et al.",
+   "title": "Identification and characterization of an isomaltooligosaccharide utilizing α-glucosidase from the resistant-starch degrading gut bacterium Ruminococcoides bili FMB-J6",
+   "journal": "Food science and biotechnology",
+   "year": 2026,
+   "pmid": "41909854",
+   "n": 1,
+   "doi": "10.1007/s10068-026-02109-9"
+  },
+  {
+   "authors": "Kim YJ, Jung DH, et al.",
+   "title": "Genomic and functional characterization of carbohydrate-active enzymes from Ruminococcoides bili FMB-CY1 reveals modular strategy for resistant starch degradation in the human gut",
+   "journal": "International journal of biological macromolecules",
+   "year": 2025,
+   "pmid": "41033533",
+   "n": 2,
+   "doi": "10.1016/j.ijbiomac.2025.147957"
+  },
+  {
+   "authors": "Kim YJ, Jung JH, et al.",
+   "title": "Distinctive scaffoldin proteins in Ruminococcoides bili FMB-CY1 and their roles in amylosome",
+   "journal": "International journal of biological macromolecules",
+   "year": 2026,
+   "pmid": "41692198",
+   "n": 3,
+   "doi": "10.1016/j.ijbiomac.2026.150889"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

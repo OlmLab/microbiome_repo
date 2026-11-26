@@ -1,0 +1,75 @@
+{
+ "slug": "Anaerobutyricum",
+ "taxon": "g__Anaerobutyricum",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaerobutyricum (formerly Eubacterium hallii)",
+ "name_note": "Anaerobutyricum was created by reclassifying Eubacterium hallii, so most of this genus appears in older papers under the name Eubacterium hallii.",
+ "sentences": [
+  {
+   "text": "Anaerobutyricum was proposed when Eubacterium hallii was reclassified, together with the new species Anaerobutyricum soehngenii, whose type strain came from infant faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus is one of the butyrate-producing groups of the human colon within the Clostridium cluster of Firmicutes.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A phase I/II study gave oral Anaerobutyricum soehngenii to people with metabolic syndrome and reported it safe, with fecal abundance correlating with peripheral insulin sensitivity.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Reviews list Anaerobutyricum hallii among candidate next-generation probiotics that have shown promise in preclinical models of obesity.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Shetty SA, Zuffa S, et al.",
+   "title": "Reclassification of Eubacterium hallii as Anaerobutyricum hallii gen. nov., comb. nov., and description of Anaerobutyricum soehngenii sp. nov., a butyrate and propionate-producing bacterium from infant faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2018,
+   "pmid": "30351260",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003041"
+  },
+  {
+   "authors": "Singh V, Lee G, et al.",
+   "title": "Butyrate producers, \"The Sentinel of Gut\": Their intestinal significance with and beyond butyrate, and prospective use as microbial therapeutics",
+   "journal": "Frontiers in microbiology",
+   "year": 2022,
+   "pmid": "36713166",
+   "n": 2,
+   "doi": "10.3389/fmicb.2022.1103836"
+  },
+  {
+   "authors": "Gilijamse PW, Hartstra AV, et al.",
+   "title": "Treatment with Anaerobutyricum soehngenii: a pilot study of safety and dose-response effects on glucose metabolism in human subjects with metabolic syndrome",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2020,
+   "pmid": "32221294",
+   "n": 3,
+   "doi": "10.1038/s41522-020-0127-0"
+  },
+  {
+   "authors": "Vallianou NG, Kounatidis D, et al.",
+   "title": "The Role of Next-Generation Probiotics in Obesity and Obesity-Associated Disorders: Current Knowledge and Future Perspectives",
+   "journal": "International journal of molecular sciences",
+   "year": 2023,
+   "pmid": "37047729",
+   "n": 4,
+   "doi": "10.3390/ijms24076755"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

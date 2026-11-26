@@ -1,0 +1,82 @@
+{
+ "slug": "Phocaeicola_vulgatus",
+ "taxon": "s__Phocaeicola vulgatus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Phocaeicola vulgatus (formerly Bacteroides vulgatus)",
+ "name_note": "The species was moved out of Bacteroides, so most papers before about 2020 call it Bacteroides vulgatus.",
+ "sentences": [
+  {
+   "text": "Phocaeicola vulgatus, originally classified as a Bacteroides species, is one of the most abundant and widespread bacteria of the human gut microbiota.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "It is noted for its ability to degrade many plant-derived heteropolysaccharides.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is closely related to, and often confused with, Phocaeicola dorei, and both are reported as important members of the infant gut microbiome.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Strains carry a mobile plasmid encoding an antibacterial toxin, BcpT, largely restricted to this species and Phocaeicola dorei.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "An engineered strain carrying an oxalate degradation pathway has been tested as a live therapeutic candidate against hyperoxaluria.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lück R, Deppenmeier U",
+   "title": "Genetic tools for the redirection of the central carbon flow towards the production of lactate in the human gut bacterium Phocaeicola (Bacteroides) vulgatus",
+   "journal": "Applied microbiology and biotechnology",
+   "year": 2022,
+   "pmid": "35080666",
+   "n": 1,
+   "doi": "10.1007/s00253-022-11777-6"
+  },
+  {
+   "authors": "Evans JC, McEneany VL, et al.",
+   "title": "A proteolytically activated antimicrobial toxin encoded on a mobile plasmid of Bacteroidales induces a protective response",
+   "journal": "Nature communications",
+   "year": 2022,
+   "pmid": "35871068",
+   "n": 2,
+   "doi": "10.1038/s41467-022-31925-w"
+  },
+  {
+   "authors": "Da Silva Morais E, Grimaud GM, et al.",
+   "title": "Genome plasticity shapes the ecology and evolution of Phocaeicola dorei and Phocaeicola vulgatus",
+   "journal": "Scientific reports",
+   "year": 2024,
+   "pmid": "38698002",
+   "n": 3,
+   "doi": "10.1038/s41598-024-59148-7"
+  },
+  {
+   "authors": "Whitaker WR, Russ ZN, et al.",
+   "title": "Controlled colonization of the human gut with a genetically engineered microbial therapeutic",
+   "journal": "Science (New York, N.Y.)",
+   "year": 2025,
+   "pmid": "40674481",
+   "n": 4,
+   "doi": "10.1126/science.adu8000"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

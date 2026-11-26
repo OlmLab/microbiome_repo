@@ -1,0 +1,66 @@
+{
+ "slug": "Oliverpabstia_faecicola",
+ "taxon": "s__Oliverpabstia faecicola",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Blautia faecicola",
+ "name_note": "GTDB places this species in the genus Oliverpabstia, while the literature and the NCBI records of its genomes use the name Blautia faecicola.",
+ "sentences": [
+  {
+   "text": "Blautia faecicola was proposed as a novel species for strain KGMB01111, an obligately anaerobic, Gram-stain-positive, non-motile, coccoid- or oval-shaped bacterium isolated from faeces of a healthy Korean.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The description places the strain within the family Lachnospiraceae and reports acetic acid as the predominant end product of its fermentation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a study of gut mucosal biopsies, participants with low-grade dysplasia polyps in the distal colon showed more amplicons from Blautia faecicola.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A randomized placebo-controlled trial in people with Parkinson's disease and constipation reported enrichment of Blautia faecicola in the probiotic group compared with placebo.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kim JS, Park JE, Lee KC, Choi SH, Oh BS, Yu SY, Eom MK, Kang SW, Han KI, Suh MK, Lee DH, Yoon H, Kim BY, Yang SJ, Lee JH, Lee JS, Park SH.",
+   "title": "Blautia faecicola sp. nov., isolated from faeces from a healthy human.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "32100703",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.004015"
+  },
+  {
+   "authors": "Welham Z, Li J, Tse B, Engel A, Molloy MP.",
+   "title": "Gut Mucosal Microbiome of Patients With Low-Grade Adenomatous Bowel Polyps.",
+   "journal": "Gastro hep advances",
+   "year": 2025,
+   "pmid": "40530238",
+   "n": 2,
+   "doi": "10.1016/j.gastha.2025.100687"
+  },
+  {
+   "authors": "Leta V, Zinzalias P, Batzu L, Mandal G, Staunton J, Jernstedt F, Rosqvist K, Timpka J, van Vliet T, Trivedi D, Podlewska A, Parry M, van Wamelen DJ, Rizos A, Sportelli C, Bonder AL, Chung-Faye G, Falup-Pecurariu C, Gaisford S, Moretto E, Le Gall G, Vauzour D, Rodriguez-Mateos A, Sauerbier A, Rodriguez Blazquez C, Ghyselinck J, Marsaux B, Pariante CM, Borsini A, Odin P, Ray Chaudhuri K.",
+   "title": "Effects of a Four-Strain Probiotic on Gut Microbiota, Inflammation, and Symptoms in Parkinson's Disease: A Randomized Clinical Trial.",
+   "journal": "Movement disorders : official journal of the Movement Disorder Society",
+   "year": 2025,
+   "pmid": "41126787",
+   "n": 3,
+   "doi": "10.1002/mds.70047"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

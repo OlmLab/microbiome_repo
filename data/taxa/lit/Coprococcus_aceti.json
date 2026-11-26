@@ -1,0 +1,66 @@
+{
+ "slug": "Coprococcus_aceti",
+ "taxon": "s__Coprococcus aceti",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Coprococcus eutactus",
+ "name_note": "The GTDB species s__Coprococcus aceti holds genomes carrying the NCBI names Coprococcus eutactus and Coprococcus aceti; the literature cited here concerns Coprococcus eutactus.",
+ "sentences": [
+  {
+   "text": "Coprococcus eutactus is a butyrate-producing bacterium of the phylum Bacillota, formerly Firmicutes, found in the human colon.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Strain ART55/1 of Coprococcus eutactus was able to metabolise carob galactomannan, konjac glucomannan and acetylated galactoglucomannan from softwood spruce.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a metagenomic study of dyslipidemia, Coprococcus eutactus was described as a producer of short-chain fatty acids involved in lipid regulation and was more prevalent in controls.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A metagenomic meta-analysis of frailty identified Coprococcus eutactus among core symbionts showing progressive attrition.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lo G, La Rosa SL, Westereng B, Pope PB, Louis P, Sabater C, Duncan SH.",
+   "title": "Metabolism of β-mannans by representative, understudied Bacillota species from the human colon.",
+   "journal": "FEMS microbiology ecology",
+   "year": 2026,
+   "pmid": "42283799",
+   "n": 1,
+   "doi": "10.1093/femsec/fiag063"
+  },
+  {
+   "authors": "Lee S, Kim H-L, Raza S, Lee E-J, Chang Y, Ryu S, Cho J, Kim H-N.",
+   "title": "Gut microbial community structure, metabolic signature, and resistome in dyslipidemia: implications for cardiovascular disease management.",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "41778788",
+   "n": 2,
+   "doi": "10.1128/spectrum.00971-25"
+  },
+  {
+   "authors": "Kwon CY, Choi YH, Kim H, Han K, Jang D, Hwangbo H.",
+   "title": "Gut microbial signature for frailty discrimination: a metagenomic meta-analysis of 28 independent cohorts.",
+   "journal": "Experimental gerontology",
+   "year": 2026,
+   "pmid": "42372926",
+   "n": 3,
+   "doi": "10.1016/j.exger.2026.113223"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

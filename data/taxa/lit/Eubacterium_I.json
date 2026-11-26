@@ -1,0 +1,75 @@
+{
+ "slug": "Eubacterium_I",
+ "taxon": "g__Eubacterium_I",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Eubacterium ramulus",
+ "name_note": "GTDB places Eubacterium ramulus in g__Eubacterium_I, one of several genera split from the classical genus Eubacterium, so this group is narrower than Eubacterium as used in most papers.",
+ "sentences": [
+  {
+   "text": "Eubacterium ramulus is a human intestinal anaerobe known for its ability to degrade various dietary flavonoids.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "It degrades quercetin, one of the most commonly consumed flavonoids, and a study reported that cross-feeding of sugars from starch by Bacteroides thetaiotaomicron stimulates its butyrate production.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported that it hydrogenates xanthohumol, a prenylated flavonoid found in hops and beer, and converts 8-prenylnaringenin into chalcones.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In stool metagenomes from 6419 FINRISK 2002 participants, the relative abundance of Eubacterium_I ramulus was inversely associated with incident pneumonia.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wikki I, Palmu J, et al.",
+   "title": "Prospective association between the gut microbiota and incident pneumonia: a cohort study of 6419 individuals",
+   "journal": "Respiratory research",
+   "year": 2025,
+   "pmid": "41430301",
+   "n": 1,
+   "doi": "10.1186/s12931-025-03453-w"
+  },
+  {
+   "authors": "Rodriguez-Castaño GP, Dorris MR, et al.",
+   "title": "Bacteroides thetaiotaomicron Starch Utilization Promotes Quercetin Degradation and Butyrate Production by Eubacterium ramulus",
+   "journal": "Frontiers in microbiology",
+   "year": 2019,
+   "pmid": "31191482",
+   "n": 2,
+   "doi": "10.3389/fmicb.2019.01145"
+  },
+  {
+   "authors": "Paraiso IL, Plagmann LS, et al.",
+   "title": "Reductive Metabolism of Xanthohumol and 8-Prenylnaringenin by the Intestinal Bacterium Eubacterium ramulus",
+   "journal": "Molecular nutrition & food research",
+   "year": 2019,
+   "pmid": "30471194",
+   "n": 3,
+   "doi": "10.1002/mnfr.201800923"
+  },
+  {
+   "authors": "Braune A, Gütschow M, et al.",
+   "title": "An NADH-Dependent Reductase from Eubacterium ramulus Catalyzes the Stereospecific Heteroring Cleavage of Flavanones and Flavanonols",
+   "journal": "Applied and environmental microbiology",
+   "year": 2019,
+   "pmid": "31375488",
+   "n": 4,
+   "doi": "10.1128/aem.01233-19"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

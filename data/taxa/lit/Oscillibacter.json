@@ -1,0 +1,75 @@
+{
+ "slug": "Oscillibacter",
+ "taxon": "g__Oscillibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Oscillibacter (and Dysosmobacter)",
+ "name_note": "Genomes GTDB places in g__Oscillibacter carry the NCBI names Oscillibacter or Dysosmobacter, so literature on Dysosmobacter welbionis describes members of this GTDB genus.",
+ "sentences": [
+  {
+   "text": "That type species forms n-valeric acid as its major end product from glucose.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A second species was isolated from the rumen of cattle and produces butyric acid as its major end product.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Dysosmobacter welbionis, described from human faeces together with an emended description of Oscillibacter, forms butyric acid from myo-inositol.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Across four human cohorts that species was detected in 62.7 to 69.8 percent of the healthy population, and was given to obese mice by gavage.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Iino T, Mori K, et al.",
+   "title": "Oscillibacter valericigenes gen. nov., sp. nov., a valerate-producing anaerobic bacterium isolated from the alimentary canal of a Japanese corbicula clam",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2007,
+   "pmid": "17684268",
+   "n": 1,
+   "doi": "10.1099/ijs.0.64717-0"
+  },
+  {
+   "authors": "Lee GH, Rhee MS, et al.",
+   "title": "Oscillibacter ruminantium sp. nov., isolated from the rumen of Korean native cattle",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2013,
+   "pmid": "23024142",
+   "n": 2,
+   "doi": "10.1099/ijs.0.041749-0"
+  },
+  {
+   "authors": "Le Roy T, Van der Smissen P, et al.",
+   "title": "Dysosmobacter welbionis gen. nov., sp. nov., isolated from human faeces and emended description of the genus Oscillibacter",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "31232680",
+   "n": 3,
+   "doi": "10.1099/ijsem.0.003547"
+  },
+  {
+   "authors": "Le Roy T, Moens de Hase E, et al.",
+   "title": "Dysosmobacter welbionis is a newly isolated human commensal bacterium preventing diet-induced obesity and metabolic disorders in mice",
+   "journal": "Gut",
+   "year": 2022,
+   "pmid": "34108237",
+   "n": 4,
+   "doi": "10.1136/gutjnl-2020-323778"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

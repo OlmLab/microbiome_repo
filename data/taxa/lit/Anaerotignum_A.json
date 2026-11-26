@@ -1,0 +1,60 @@
+{
+ "slug": "Anaerotignum_A",
+ "taxon": "g__Anaerotignum_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Anaerotignum",
+ "name_note": "GTDB splits the classical genus Anaerotignum, and the _A suffix marks one of those split lineages, so papers using the name Anaerotignum may cover a broader group.",
+ "sentences": [
+  {
+   "text": "A review of lactate metabolism reports metabolic modelling in which Anaerotignum is among lactate-utilizing strains acting as key symbionts in the gut community.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A seven-day trial in 56 healthy men reported that oral prednisolone decreased Anaerotignum faecicola.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Work on picobirnaviruses identified a bacterium named 'Candidatus Anaerotignum faecalis' as the host of a virus propagated from human faeces.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sabater C, Vázquez X, Duncan SH.",
+   "title": "The role of lactate metabolism in shaping intestinal microbiota and health.",
+   "journal": "AIMS microbiology",
+   "year": 2026,
+   "pmid": "42859530",
+   "n": 1,
+   "doi": "10.3934/microbiol.2026020"
+  },
+  {
+   "authors": "Lyu L, Fan Y, Bryrup T, Clos-Garcia M, Brix S, Eiken M, Stankevic E, Lund AB, Knop FK, Jørgensen NR, Vestergaard H, Hansen T, Hansen T, Nielsen T, Pedersen O.",
+   "title": "Glucocorticoid-induced changes of the gut microbiota and metabolic markers in healthy young men: Outcome of a randomized controlled trial.",
+   "journal": "Cell reports. Medicine",
+   "year": 2025,
+   "pmid": "41218604",
+   "n": 2,
+   "doi": "10.1016/j.xcrm.2025.102426"
+  },
+  {
+   "authors": "Gan T, Rosen AL, Wang L, Vernon S, Droit L, Pinski AN, Wu G, Chica Cardenas LA, Mihindukulasuriya KA, Paredes A, Pios Z, Baldridge MT, Rimmer JE, Parkes M, Dinsdale EA, Edwards RA, Segall AM, Handley SA, Kau AL, Wang D.",
+   "title": "A human gut-associated picobirnavirus establishes the Picobirnaviridae as the third clade of RNA bacteriophages.",
+   "journal": "Nature microbiology",
+   "year": 2026,
+   "pmid": "42957852",
+   "n": 3,
+   "doi": "10.1038/s41564-026-02523-z"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

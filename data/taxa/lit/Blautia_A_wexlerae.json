@@ -1,0 +1,75 @@
+{
+ "slug": "Blautia_A_wexlerae",
+ "taxon": "s__Blautia_A wexlerae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Blautia wexlerae",
+ "name_note": "GTDB places this species in the split genus Blautia_A; the literature and NCBI name is Blautia wexlerae.",
+ "sentences": [
+  {
+   "text": "Blautia wexlerae was described from human faeces as a Gram-positive, anaerobic, non-sporulating coccobacillus that produces acetate and succinate.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Species of Blautia are typical inhabitants of the human gut, and this one carries most Wood-Ljungdahl pathway genes yet does not grow on hydrogen plus carbon dioxide.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It was counted in faeces of twelve healthy Japanese subjects using real-time PCR primers specific for this species and Blautia luti.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A review describes it as a strong candidate next-generation probiotic and collects the food factors reported to change its abundance.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Liu C, Finegold SM, et al.",
+   "title": "Reclassification of Clostridium coccoides, Ruminococcus hansenii, Ruminococcus hydrogenotrophicus, Ruminococcus luti, Ruminococcus productus and Ruminococcus schinkii as Blautia coccoides gen. nov., comb. nov., Blautia hansenii comb. nov., Blautia hydrogenotrophica comb. nov., Blautia luti comb. nov., Blautia producta comb. nov., Blautia schinkii comb. nov. and description of Blautia wexlerae sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18676476",
+   "n": 1,
+   "doi": "10.1099/ijs.0.65208-0"
+  },
+  {
+   "authors": "Trischler R, Roth J, et al.",
+   "title": "A functional Wood-Ljungdahl pathway devoid of a formate dehydrogenase in the gut acetogens Blautia wexlerae, Blautia luti and beyond",
+   "journal": "Environmental microbiology",
+   "year": 2022,
+   "pmid": "35466558",
+   "n": 2,
+   "doi": "10.1111/1462-2920.16029"
+  },
+  {
+   "authors": "Touyama M, Jin JS, et al.",
+   "title": "Quantification of Blautia wexlerae and Blautia luti in human faeces by real-time PCR using specific primers",
+   "journal": "Beneficial microbes",
+   "year": 2015,
+   "pmid": "25691104",
+   "n": 3,
+   "doi": "10.3920/bm2014.0133"
+  },
+  {
+   "authors": "Rui W, Li X, et al.",
+   "title": "Potential Applications of Blautia wexlerae in the Regulation of Host Metabolism",
+   "journal": "Probiotics and antimicrobial proteins",
+   "year": 2024,
+   "pmid": "38703323",
+   "n": 4,
+   "doi": "10.1007/s12602-024-10274-8"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Allocoprococcus_comes",
+ "taxon": "s__Allocoprococcus comes",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Allocoprococcus comes (formerly Coprococcus comes)",
+ "name_note": "Almost all published work uses the older name Coprococcus comes; the species was moved to the new genus Allocoprococcus in 2026.",
+ "sentences": [
+  {
+   "text": "Allocoprococcus comes, long known as Coprococcus comes, was moved in 2026 into the new genus Allocoprococcus after genomic analysis separated it from Coprococcus sensu stricto.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is a member of the Lachnospiraceae in the human gut that takes up acetate, propionate and butyrate and incorporates them into valerate and caproate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In one survey of gut isolates it was the only tested species that produced caproate, and it encodes a second thiolase with increased activity on butyryl-CoA.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It has been described as an acetate-producing species, and its relative abundance rose in older adults with frailty given low-methoxy pectin.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A comparison of Dutch and South-Asian Surinamese residents reported this species enriched in the Dutch gut.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Yamamoto E, Hisatomi A, et al.",
+   "title": "Proposal of two novel species, Allocoprococcus similis gen. nov., sp. nov. and Faecalimonas hominis sp. nov., isolated from human faeces and genome-based reorganization of the genus Coprococcus",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "41498776",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.007011"
+  },
+  {
+   "authors": "Fitzgerald BG, Govind M, et al.",
+   "title": "Members of Lachnospiraceae produce valerate and caproate in response to short-chain fatty acids",
+   "journal": "Microbiome",
+   "year": 2025,
+   "pmid": "41057964",
+   "n": 2,
+   "doi": "10.1186/s40168-025-02220-9"
+  },
+  {
+   "authors": "Al-Tameemi NK, Kouraki A, et al.",
+   "title": "The effect of pectin supplementation on geriatric individuals with frailty: a randomised placebo-controlled dietary intervention study",
+   "journal": "GeroScience",
+   "year": 2026,
+   "pmid": "42803883",
+   "n": 3,
+   "doi": "10.1007/s11357-026-02562-8"
+  },
+  {
+   "authors": "Nayman EI, Schwartz BA, et al.",
+   "title": "Differences in gut microbiota between Dutch and South-Asian Surinamese: potential implications for type 2 diabetes mellitus",
+   "journal": "Scientific reports",
+   "year": 2024,
+   "pmid": "38403716",
+   "n": 4,
+   "doi": "10.1038/s41598-024-54769-4"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

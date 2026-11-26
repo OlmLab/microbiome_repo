@@ -1,0 +1,66 @@
+{
+ "slug": "Ruthenibacterium",
+ "taxon": "g__Ruthenibacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Ruthenibacterium",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Ruthenibacterium lactatiformans, the species for which this genus was named, was isolated from the faeces of healthy human subjects as a Gram-stain-negative, rod-shaped, obligately anaerobic bacterium.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It ferments glucose with d-lactic acid, succinic acid and acetic acid as end products, and was placed in a new genus within the family Ruminococcaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A case report described bacteraemia and potential vertebral osteomyelitis caused by Ruthenibacterium lactatiformans, reported as the first documented human infection with this organism.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of adolescents reported the genus Ruthenibacterium to be more abundant in controls with normal weight than in participants with overweight.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Shkoporov AN, Chaplin AV, et al.",
+   "title": "Ruthenibacterium lactatiformans gen. nov., sp. nov., an anaerobic, lactate-producing member of the family Ruminococcaceae isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2016,
+   "pmid": "27154556",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.001143"
+  },
+  {
+   "authors": "Sumiyoshi S, Hamaguchi S, et al.",
+   "title": "Ruthenibacterium lactatiformans isolated from a human blood culture: a first report.",
+   "journal": "BMC infectious diseases",
+   "year": 2024,
+   "pmid": "39009969",
+   "n": 2,
+   "doi": "10.1186/s12879-024-09606-4"
+  },
+  {
+   "authors": "Caldú X, Jurado MÁ, et al.",
+   "title": "The Relationship Between the Gut Microbiome and Executive Function in Adolescents With Overweight and Obesity.",
+   "journal": "Journal of paediatrics and child health",
+   "year": 2026,
+   "pmid": "42747142",
+   "n": 3,
+   "doi": "10.1111/jpc.70596"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

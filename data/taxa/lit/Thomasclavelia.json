@@ -1,0 +1,66 @@
+{
+ "slug": "Thomasclavelia",
+ "taxon": "g__Thomasclavelia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Thomasclavelia",
+ "name_note": "Genomes GTDB places in Thomasclavelia are also deposited under the older names Coprobacillus and Clostridium.",
+ "sentences": [
+  {
+   "text": "Thomasclavelia is a genus proposed for four species formerly classified in Clostridium: Clostridium cocleatum, Clostridium ramosum, Clostridium spiroforme and Clostridium saccharogumia.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "These species form a cluster in the family Coprobacillaceae within the order Erysipelotrichales, and Thomasclavelia ramosa is the type species of the genus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A case-control study using 16S rRNA sequencing and culturomics for gut microbiome profiling reported Thomasclavelia ramosa significantly increased in alcohol-related liver disease with hepatocellular carcinoma.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Thomasclavelia ramosa makes an immunoglobulin A protease, one of a group of enzymes secreted by bacteria that inhabit human mucosal tissues.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lawson PA, Saavedra Perez L, et al.",
+   "title": "Reclassification of Clostridium cocleatum, Clostridium ramosum, Clostridium spiroforme and Clostridium saccharogumia as Thomasclavelia cocleata gen. nov., comb. nov., Thomasclavelia ramosa comb. nov., gen. nov., Thomasclavelia spiroformis comb. nov. and Thomasclavelia saccharogumia comb. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2023,
+   "pmid": "36748617",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.005694"
+  },
+  {
+   "authors": "Magdy Wasfy R, Abdoulaye A, et al.",
+   "title": "Thomasclavelia ramosa and alcohol-related hepatocellular carcinoma: a microbial culturomics study.",
+   "journal": "Gut pathogens",
+   "year": 2025,
+   "pmid": "40336003",
+   "n": 2,
+   "doi": "10.1186/s13099-025-00703-6"
+  },
+  {
+   "authors": "Tran N, Frenette A, et al.",
+   "title": "Structure of the Thomasclavelia ramosa immunoglobulin A protease reveals a modular and minimizable architecture distinct from other immunoglobulin A proteases.",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "year": 2025,
+   "pmid": "40854123",
+   "n": 3,
+   "doi": "10.1073/pnas.2503549122"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

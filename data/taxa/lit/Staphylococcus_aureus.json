@@ -1,0 +1,90 @@
+{
+ "slug": "Staphylococcus_aureus",
+ "taxon": "s__Staphylococcus aureus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Staphylococcus aureus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Staphylococcus aureus is a frequent cause of infection in both community and hospital settings, and the nose is the main ecological niche where it resides in people.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Carriage in the anterior nares follows three patterns: roughly twenty per cent of healthy people are persistent carriers, sixty per cent intermittent, and twenty per cent almost never carry it.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a multicentre study of bacteraemia, blood isolates were identical to the patient's own nasal isolates in 180 of 219 patients.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Commensal neighbours can limit it: a serine protease secreted by some Staphylococcus epidermidis strains inhibited its biofilm formation and nasal colonisation.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "A randomised trial reported that treating nasal carriers with mupirocin ointment and chlorhexidine soap lowered hospital-associated Staphylococcus aureus infection from 7.7 to 3.4 per cent.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wertheim HF, Melles DC, et al.",
+   "title": "The role of nasal carriage in Staphylococcus aureus infections",
+   "journal": "The Lancet Infectious Diseases",
+   "year": 2005,
+   "pmid": "16310147",
+   "n": 1,
+   "doi": "10.1016/s1473-3099(05)70295-4"
+  },
+  {
+   "authors": "Kluytmans J, van Belkum A, et al.",
+   "title": "Nasal carriage of Staphylococcus aureus: epidemiology, underlying mechanisms, and associated risks",
+   "journal": "Clinical Microbiology Reviews",
+   "year": 1997,
+   "pmid": "9227864",
+   "n": 2,
+   "doi": "10.1128/cmr.10.3.505"
+  },
+  {
+   "authors": "von Eiff C, Becker K, et al.",
+   "title": "Nasal carriage as a source of Staphylococcus aureus bacteremia",
+   "journal": "The New England Journal of Medicine",
+   "year": 2001,
+   "pmid": "11136954",
+   "n": 3,
+   "doi": "10.1056/nejm200101043440102"
+  },
+  {
+   "authors": "Iwase T, Uehara Y, et al.",
+   "title": "Staphylococcus epidermidis Esp inhibits Staphylococcus aureus biofilm formation and nasal colonization",
+   "journal": "Nature",
+   "year": 2010,
+   "pmid": "20485435",
+   "n": 4,
+   "doi": "10.1038/nature09074"
+  },
+  {
+   "authors": "Bode LG, Kluytmans JA, et al.",
+   "title": "Preventing surgical-site infections in nasal carriers of Staphylococcus aureus",
+   "journal": "The New England Journal of Medicine",
+   "year": 2010,
+   "pmid": "20054045",
+   "n": 5,
+   "doi": "10.1056/nejmoa0808939"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

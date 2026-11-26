@@ -1,0 +1,9 @@
+contrast,ni_def,reference,stratum,n_ni,n_ref,cohorts_ni,cohorts_ref,cohorts_distinct,n_conflict_dropped,estimable,n_ni_stated,cohorts_ni_stated,n_ni_external,cohorts_ni_external,n_ni_both,cohorts_ni_both
+C1,ext,hdi,adult,781,27662,16,477,490,0,True,408,10,317,7,56,3
+C1,ext,hdi,infant,62,6543,1,113,114,0,False,14,1,48,1,0,0
+C2,ext,stated,adult,843,309,17,6,21,0,True,422,10,336,8,85,3
+C2,ext,stated,infant,99,184,2,4,6,0,False,32,1,65,2,2,1
+C3,strict,hdi,adult,464,27674,10,477,486,0,True,408,10,0,0,56,3
+C3,strict,hdi,infant,14,6543,1,113,114,0,False,14,1,0,0,0,0
+C4,broad,hdi,adult,912,27662,17,477,490,0,True,547,14,134,4,231,6
+C4,broad,hdi,infant,286,6543,4,113,117,0,True,238,4,48,1,0,0

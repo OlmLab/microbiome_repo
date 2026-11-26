@@ -1,0 +1,60 @@
+{
+ "slug": "Streptococcus_pneumoniae",
+ "taxon": "s__Streptococcus pneumoniae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Streptococcus pneumoniae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Streptococcus pneumoniae is a highly adapted commensal of its obligate human host, whose main reservoir is the mucosal surface of the upper airways of carriers.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In low and lower-middle income countries nasopharyngeal carriage is frequent, especially in children, and the range of serotypes carried is wide.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It is described as the most common cause of community-acquired pneumonia, meningitis and bacteraemia, with invasive disease mainly affecting young children, older adults and immunocompromised people.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Weiser JN, Ferreira DM, Paton JC.",
+   "title": "Streptococcus pneumoniae: transmission, colonization and invasion.",
+   "journal": "Nature reviews. Microbiology",
+   "year": 2018,
+   "pmid": "29599457",
+   "n": 1,
+   "doi": "10.1038/s41579-018-0001-8"
+  },
+  {
+   "authors": "Adegbola RA, DeAntonio R, Hill PC, Roca A, Usuf E, Hoet B, Greenwood BM.",
+   "title": "Carriage of Streptococcus pneumoniae and other respiratory bacterial pathogens in low and lower-middle income countries: a systematic review and meta-analysis.",
+   "journal": "PloS one",
+   "year": 2014,
+   "pmid": "25084351",
+   "n": 2,
+   "doi": "10.1371/journal.pone.0103293"
+  },
+  {
+   "authors": "Lynch JP, Zhanel GG.",
+   "title": "Streptococcus pneumoniae: epidemiology, risk factors, and strategies for prevention.",
+   "journal": "Seminars in respiratory and critical care medicine",
+   "year": 2009,
+   "pmid": "19296419",
+   "n": 3,
+   "doi": "10.1055/s-0029-1202938"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

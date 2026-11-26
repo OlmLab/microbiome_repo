@@ -1,0 +1,77 @@
+{
+ "slug": "Cutibacterium_acnes",
+ "taxon": "s__Cutibacterium acnes",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Cutibacterium acnes (formerly Propionibacterium acnes)",
+ "name_note": "The GTDB name matches the current literature name; older papers call the same species Propionibacterium acnes.",
+ "sentences": [
+  {
+   "text": "Cutibacterium acnes, renamed from Propionibacterium acnes, is a Gram-positive commensal and a major inhabitant of adult human skin, where it lives inside sebaceous follicles.",
+   "refs": [
+    2,
+    4
+   ]
+  },
+  {
+   "text": "It is the most abundant bacterium of healthy sebum-rich skin sites such as the face and the back, and contributes actively to normal skin homeostasis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its genome encodes many products that degrade host molecules, including sialidases, neuraminidases, endoglycoceramidases, lipases and pore-forming factors.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Reviews report that loss of its relative abundance or clonal diversity accompanies acne, atopic dermatitis, rosacea and psoriasis, and that it causes implant-associated infections, notably of shoulder prostheses.",
+   "refs": [
+    1,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Rozas M, Hart de Ruijter A, Fabrega MJ, et al.",
+   "title": "From Dysbiosis to Healthy Skin: Major Contributions of Cutibacterium acnes to Skin Homeostasis.",
+   "journal": "Microorganisms",
+   "year": 2021,
+   "pmid": "33803499",
+   "n": 1,
+   "doi": "10.3390/microorganisms9030628"
+  },
+  {
+   "authors": "Bruggemann H, Henne A, Hoster F, et al.",
+   "title": "The complete genome sequence of Propionibacterium acnes, a commensal of human skin.",
+   "journal": "Science",
+   "year": 2004,
+   "pmid": "15286373",
+   "n": 2,
+   "doi": "10.1126/science.1100330"
+  },
+  {
+   "authors": "Achermann Y, Goldstein EJ, Coenye T, Shirtliff ME.",
+   "title": "Propionibacterium acnes: from commensal to opportunistic biofilm-associated implant pathogen.",
+   "journal": "Clinical Microbiology Reviews",
+   "year": 2014,
+   "pmid": "24982315",
+   "n": 3,
+   "doi": "10.1128/cmr.00092-13"
+  },
+  {
+   "authors": "Dreno B, Pecastaings S, Corvec S, Veraldi S, Khammari A, Roques C.",
+   "title": "Cutibacterium acnes (Propionibacterium acnes) and acne vulgaris: a brief look at the latest updates.",
+   "journal": "Journal of the European Academy of Dermatology and Venereology",
+   "year": 2018,
+   "pmid": "29894579",
+   "n": 4,
+   "doi": "10.1111/jdv.15043"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

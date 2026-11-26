@@ -1,0 +1,75 @@
+{
+ "slug": "Acidaminococcus",
+ "taxon": "g__Acidaminococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Acidaminococcus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Acidaminococcus is a genus of strictly anaerobic, Gram-negative cocci that forms part of the normal flora of the gastrointestinal tract.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A strain isolated from the feces of an adult in the Republic of Korea, matching the genus Acidaminococcus, used glutamic acid as its primary energy source and produced acetic and butyric acid.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of 26 patients with solid tumours reported that the proportion of Acidaminococcus was significantly higher in patients who developed immune-related adverse events than in those who did not.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A cross-sectional analysis of 114 women reported that visceral adipose tissue was correlated with the abundance of the Acidaminococcus genus.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Fakhfakh A, Ferjani S, Kanzari L, Ferjani A, Hamzaoui Z, Rehaiem A, Ben Dhaou A, Aloui M, Karoui Y, Syala N, Bouaani H, Ben Moussa M, Ben Boubaker IB.",
+   "title": "Case report of an abdominal wet gangrene caused by Acidaminococcus.",
+   "journal": "Acta microbiologica et immunologica Hungarica",
+   "year": 2024,
+   "pmid": "39186383",
+   "n": 1,
+   "doi": "10.1556/030.2024.02332"
+  },
+  {
+   "authors": "Jang BC, Yang H, Kim S, Park CH, Kim DY, Kim KH, Cho G, Na Y, Park JE, Hong Y, Park DS.",
+   "title": "Acidaminococcus faecalis sp. nov., an indole-producing bacterium isolated from the feces of an adult.",
+   "journal": "Antonie van Leeuwenhoek",
+   "year": 2026,
+   "pmid": "41857405",
+   "n": 2,
+   "doi": "10.1007/s10482-026-02283-0"
+  },
+  {
+   "authors": "Hamada K, Isobe J, Hattori K, Hosonuma M, Baba Y, Murayama M, Narikawa Y, Toyoda H, Funayama E, Tajima K, Shida M, Hirasawa Y, Tsurui T, Ariizumi H, Ishiguro T, Suzuki R, Ohkuma R, Kubota Y, Sambe T, Tsuji M, Wada S, Kiuchi Y, Kobayashi S, Kuramasu A, Horiike A, Kim YG, Tsunoda T, Yoshimura K.",
+   "title": "Turicibacter and Acidaminococcus predict immune-related adverse events and efficacy of immune checkpoint inhibitor.",
+   "journal": "Frontiers in immunology",
+   "year": 2023,
+   "pmid": "37207204",
+   "n": 3,
+   "doi": "10.3389/fimmu.2023.1164724"
+  },
+  {
+   "authors": "Freitas RGBON, Vasques ACJ, Fernandes GR, Ribeiro FB, Solar I, Barbosa MG, Almeida-Pititto B, Geloneze B, Ferreira SRG.",
+   "title": "Gestational weight gain and visceral adiposity in adult offspring: Is there a link with the fecal abundance of Acidaminococcus genus?",
+   "journal": "European journal of clinical nutrition",
+   "year": 2022,
+   "pmid": "35906333",
+   "n": 4,
+   "doi": "10.1038/s41430-022-01182-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

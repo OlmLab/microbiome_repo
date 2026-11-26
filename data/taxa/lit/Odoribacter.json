@@ -1,0 +1,82 @@
+{
+ "slug": "Odoribacter",
+ "taxon": "g__Odoribacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Odoribacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Odoribacter was proposed as a new genus in the family 'Porphyromonadaceae' when Bacteroides splanchnicus was reclassified as Odoribacter splanchnicus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Odoribacter laneus was described from a strain isolated from human faeces, and Odoribacter splanchnicus is described as an anaerobe that normally inhabits the human intestine.",
+   "refs": [
+    2,
+    4
+   ]
+  },
+  {
+   "text": "A review describes Odoribacter splanchnicus as widely present in the mammalian gut and able to synthesise metabolites, especially short-chain fatty acids.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "That review reports that changes in its abundance have been correlated, positively or negatively, with obesity, metabolic syndrome, diabetes and intestinal inflammation.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Bloodstream infection with this species is reported to be rare; one report detected five cases of Odoribacter splanchnicus bacteraemia in a single laboratory over 2014-2024.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Hardham JM, King KW, et al.",
+   "title": "Transfer of Bacteroides splanchnicus to Odoribacter gen. nov. as Odoribacter splanchnicus comb. nov., and description of Odoribacter denticanis sp. nov., isolated from the crevicular spaces of canine periodontitis patients",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18175692",
+   "n": 1,
+   "doi": "10.1099/ijs.0.63458-0"
+  },
+  {
+   "authors": "Nagai F, Morotomi M, et al.",
+   "title": "Alistipes indistinctus sp. nov. and Odoribacter laneus sp. nov., common members of the human intestinal microbiota isolated from faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2010,
+   "pmid": "19667375",
+   "n": 2,
+   "doi": "10.1099/ijs.0.014571-0"
+  },
+  {
+   "authors": "Li J, Xu J, et al.",
+   "title": "Odoribacter splanchnicus-A Next-Generation Probiotic Candidate",
+   "journal": "Microorganisms",
+   "year": 2025,
+   "pmid": "40284651",
+   "n": 3,
+   "doi": "10.3390/microorganisms13040815"
+  },
+  {
+   "authors": "Umemura H, Kobayashi H, et al.",
+   "title": "Odoribacter splanchnicus bacteremia: a rare condition associated with intestinal disease",
+   "journal": "Anaerobe",
+   "year": 2025,
+   "pmid": "40914224",
+   "n": 4,
+   "doi": "10.1016/j.anaerobe.2025.102994"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

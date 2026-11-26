@@ -1,0 +1,66 @@
+{
+ "slug": "Pauljensenia",
+ "taxon": "g__Pauljensenia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Pauljensenia",
+ "name_note": "Most genomes GTDB places in Pauljensenia are deposited under the earlier names Actinomyces or Schaalia.",
+ "sentences": [
+  {
+   "text": "Pauljensenia is one of several genera created when a group of species was transferred out of the genus Actinomyces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Actinomyces organisms, the group from which Pauljensenia was separated, live on mucosal surfaces of the oropharynx and the genitourinary tract.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Shotgun metagenomic sequencing of tongue-coating samples from 92 systemically healthy adults found Pauljensenia among the dominant genera.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study comparing saliva from 28 patients with cleft lip and palate and 30 healthy controls reported significantly reduced Pauljensenia in the patients.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Könönen E",
+   "title": "Polymicrobial infections with specific Actinomyces and related organisms, using the current taxonomy.",
+   "journal": "Journal of oral microbiology",
+   "year": 2024,
+   "pmid": "38766462",
+   "n": 1,
+   "doi": "10.1080/20002297.2024.2354148"
+  },
+  {
+   "authors": "Al-Maweri SA, Ba-Hattab R, et al.",
+   "title": "Metagenomic analysis of tongue samples from healthy subjects identifies distinct microbiome orotypes.",
+   "journal": "Journal of oral microbiology",
+   "year": 2026,
+   "pmid": "42445283",
+   "n": 2,
+   "doi": "10.1080/20002297.2026.2687934"
+  },
+  {
+   "authors": "Jiang W, Yan Z, et al.",
+   "title": "Investigating oral microbiome profiles in patients with cleft lip and palate compared with the healthy control.",
+   "journal": "BMC oral health",
+   "year": 2024,
+   "pmid": "38807164",
+   "n": 3,
+   "doi": "10.1186/s12903-024-04387-3"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

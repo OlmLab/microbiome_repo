@@ -1,0 +1,58 @@
+{
+ "slug": "Paratractidigestivibacter",
+ "taxon": "g__Paratractidigestivibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Paratractidigestivibacter",
+ "name_note": "Genomes that GTDB places in this genus are often labelled Olsenella in NCBI, the genus from which Paratractidigestivibacter faecalis was reclassified.",
+ "sentences": [
+  {
+   "text": "Paratractidigestivibacter is a bacterial genus proposed together with Parafannyhessea and Tractidigestivibacter in a study of strains isolated from various human specimens.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same study reclassified Olsenella faecalis as Paratractidigestivibacter faecalis, after finding that the studied strains were closest to members of the paraphyletic genus Olsenella.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Paratractidigestivibacter faecalis was reclassified from Olsenella faecalis, a species described for a strictly anaerobic, Gram-stain-positive, short-rod-shaped strain isolated from the faeces of a healthy Korean.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "In that description the major end product of the strain was lactic acid and its DNA G+C content was 65.5 mol percent.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Zgheib R, Anani H, et al.",
+   "title": "New human-associated species of the family Atopobiaceae and proposal to reclassify members of the genus Olsenella.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2021,
+   "pmid": "34047688",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.004819"
+  },
+  {
+   "authors": "Han KI, Lee KC, et al.",
+   "title": "Olsenella faecalis sp. nov., an anaerobic actinobacterium isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2019,
+   "pmid": "31135332",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.003469"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

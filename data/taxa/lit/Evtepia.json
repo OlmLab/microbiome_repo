@@ -1,0 +1,66 @@
+{
+ "slug": "Evtepia",
+ "taxon": "g__Evtepia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Evtepia (Evtepia gabavorous)",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Evtepia gabavorous is a human gut bacterium described as a consumer of the neurotransmitter gamma-aminobutyric acid, or GABA.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "GABA is both produced and consumed inside the gut community, and a co-cultured gut isolate grew on GABA as its only supporting nutrient.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The species has been detected in stool metagenomes of young adults in China in a study of microplastic exposure.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A meta-analysis of five case-control studies covering 1007 faecal samples reported elevated GABA-consuming species, particularly this one, in Parkinson disease.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Marzouk NH, Rashwan HH, et al.",
+   "title": "Proinflammatory and GABA eating bacteria in Parkinson's disease gut microbiome from a meta-analysis prospective",
+   "journal": "NPJ Parkinson's disease",
+   "year": 2025,
+   "pmid": "40461531",
+   "n": 1,
+   "doi": "10.1038/s41531-025-00950-z"
+  },
+  {
+   "authors": "Strandwitz P, Kim KH, et al.",
+   "title": "GABA-modulating bacteria of the human gut microbiota",
+   "journal": "Nature microbiology",
+   "year": 2019,
+   "pmid": "30531975",
+   "n": 2,
+   "doi": "10.1038/s41564-018-0307-3"
+  },
+  {
+   "authors": "Song Y, Zhang J, et al.",
+   "title": "Study on the association between microplastic exposure and gut microbiota based on metagenomics: A pilot study on 66 young college students in China",
+   "journal": "Environmental research",
+   "year": 2026,
+   "pmid": "41130504",
+   "n": 3,
+   "doi": "10.1016/j.envres.2025.122995"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

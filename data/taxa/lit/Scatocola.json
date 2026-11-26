@@ -1,0 +1,51 @@
+{
+ "slug": "Scatocola",
+ "taxon": "g__Scatocola",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Scatocola",
+ "name_note": "The genus is also written Candidatus Scatocola, and most of its GTDB species are uncultured genomes without published names.",
+ "sentences": [
+  {
+   "text": "Scatocola faecipullorum was among the top species detected in models of faecal samples donated by 6242 participants of the Finnish FINRISK cohort.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that cohort the association of Scatocola faecipullorum with incident autoimmune rheumatic disease did not reach statistical significance after correction for multiple testing.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a bullous pemphigoid-like mouse model, a gut taxon belonging to Scatocola was identified as a candidate negative predictor of disease severity.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Diab H, Yeo LF, Salomaa V, Havulinna A, Lahti L, Pärnänen K, Knight R, Palmu J, Niiranen T",
+   "title": "Prospective analysis on the gut microbiome and the risk of autoimmune rheumatic diseases in the population-based FINRISK 2002 cohort",
+   "journal": "Rheumatology (Oxford, England)",
+   "year": 2026,
+   "pmid": "42462122",
+   "n": 1,
+   "doi": "10.1093/rheumatology/keag371"
+  },
+  {
+   "authors": "Liu X, Patzelt S, Ma Y, Cepic A, Dikmen HO, Bieber K, Groussin M, Poyet M, Ibrahim S, Schmidt E, Baines JF",
+   "title": "Co-housing Alters Gut Microbiota and Disease Severity in Experimental Pemphigoid Disease",
+   "journal": "The Journal of investigative dermatology",
+   "year": 2026,
+   "pmid": "42918489",
+   "n": 2,
+   "doi": "10.1016/j.jid.2026.10.011"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

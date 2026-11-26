@@ -1,0 +1,66 @@
+{
+ "slug": "Faecalibacterium_prausnitzii_N",
+ "taxon": "s__Faecalibacterium prausnitzii_N",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium prausnitzii",
+ "name_note": "GTDB divides Faecalibacterium prausnitzii into several species, of which prausnitzii_N is one, so published findings on F. prausnitzii may concern other lineages as well.",
+ "sentences": [
+  {
+   "text": "Faecalibacterium prausnitzii is described as a core commensal of the healthy human gut that exhibits potent anti-inflammatory properties and supports intestinal barrier integrity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of influenza patients reported marked depletion of Faecalibacterium prausnitzii, with its abundance negatively correlated with disease severity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a murine model of influenza infection, the same study reported that oral administration of Faecalibacterium prausnitzii and its culture supernatant markedly alleviated lung injury.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another study reported Faecalibacterium prausnitzii to be significantly negatively associated with a high-gas-producing phenotype.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Guo R, Zhang T, et al.",
+   "title": "Preventive effects of Faecalibacterium prausnitzii on chronic alcoholic liver injury and associated alterations in gut microbiota and host phenotypes in mice.",
+   "journal": "Journal of applied microbiology",
+   "year": 2026,
+   "pmid": "42622353",
+   "n": 1,
+   "doi": "10.1093/jambio/lxag208"
+  },
+  {
+   "authors": "Mao Z, Wang L, et al.",
+   "title": "Faecalibacterium prausnitzii in the gut protects against acute lung injury in influenza through butyrate educated reparative CD4 + T cells.",
+   "journal": "Microbiome",
+   "year": 2026,
+   "pmid": "42934798",
+   "n": 2,
+   "doi": "10.1186/s40168-026-02486-7"
+  },
+  {
+   "authors": "Chen R, Zhang C, et al.",
+   "title": "Gut microbiota and metabolic alterations in participants with flatulence identify Faecalibacterium prausnitzii as a key microbial target for clinical intervention.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42689867",
+   "n": 3,
+   "doi": "10.1080/19490976.2026.2728332"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

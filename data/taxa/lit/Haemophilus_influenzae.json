@@ -1,0 +1,52 @@
+{
+ "slug": "Haemophilus_influenzae",
+ "taxon": "s__Haemophilus influenzae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Haemophilus influenzae",
+ "name_note": "A small number of genomes that NCBI names Haemophilus aegyptius fall inside this GTDB species, so it is slightly broader than Haemophilus influenzae in papers.",
+ "sentences": [
+  {
+   "text": "Haemophilus influenzae is a colonizer of the nasopharynx whose strains commonly reside as commensals within the human pharynx and can remain as an asymptomatic carrier.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Among 404 healthy children less than 5 years of age in Murcia, Spain, 27.7% had colonization, and younger age and the winter period were reported as facilitating factors.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A cross-sectional study of 902 children in Tehran reported a carriage rate of 29%, with a nasopharyngeal type b carrier rate of 2.6%.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ortiz-Romero MDM, Espejo-García MP, Alfayate-Miguelez S, Ruiz-López FJ, Zapata-Hernandez D, Gonzalez-Pacanowska AJ, Collaborators of Study Group of Infectious Diseases in the Child in Cartagena.",
+   "title": "Epidemiology of Nasopharyngeal Carriage by Haemophilus influenzae in Healthy Children: A Study in the Mediterranean Coast Region.",
+   "journal": "The Pediatric infectious disease journal",
+   "year": 2017,
+   "pmid": "28472007",
+   "n": 1,
+   "doi": "10.1097/inf.0000000000001625"
+  },
+  {
+   "authors": "Tabatabaei SR, Mohammadzadeh S, Zahraei SM, Mahmoudi S, Ghandchi G, Hoseini-Alfatemi SM, Karimi A, Shamshiri A.",
+   "title": "Effect of Haemophilus influenzae Type b Vaccination on Nasopharyngeal Carriage Rate in Children, Tehran, 2019.",
+   "journal": "BioMed research international",
+   "year": 2021,
+   "pmid": "33816612",
+   "n": 2,
+   "doi": "10.1155/2021/4923852"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "Hominenteromicrobium",
+ "taxon": "g__Hominenteromicrobium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Hominenteromicrobium",
+ "name_note": "GTDB's g__Hominenteromicrobium also contains genomes labelled Ruminococcus or Neglectibacter in NCBI.",
+ "sentences": [
+  {
+   "text": "Hominenteromicrobium is a genus of gut bacteria, with strains of Hominenteromicrobium mulieris isolated from human faecal samples.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "The human gut microbiota is described as dominated by obligately anaerobic bacteria, and reported isolates came from a healthy adult volunteer who is a young adult following a vegetarian diet.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "A study reported that Hominenteromicrobium mulieris is prevalent in healthy individuals but depleted in ulcerative colitis.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "A strain, MH27-2, has been reported to improve disease pathology and accelerate gut healing in mouse colitis models, and MAP 315 was reported safe and well-tolerated with no serious adverse events.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "A Hominenteromicrobium strain, YB328, has been reported to be associated with increased dendritic cell infiltration in tumours, and elevated abundance was linked to favourable response to PD-1 blockade therapy.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lin NY, Fukuoka S, et al.",
+   "title": "Microbiota-driven antitumour immunity mediated by dendritic cell migration.",
+   "journal": "Nature",
+   "year": 2025,
+   "pmid": "40659786",
+   "n": 1,
+   "doi": "10.1038/s41586-025-09249-8"
+  },
+  {
+   "authors": "Krause L, Cuív P, et al.",
+   "title": "A human microbiome-derived therapeutic for ulcerative colitis promotes mucosal healing and immune homeostasis: a randomized, controlled Phase 1 trial in healthy volunteers",
+   "journal": "",
+   "year": 2025,
+   "pmid": null,
+   "n": 2,
+   "doi": "10.21203/rs.3.rs-6771039/v1"
+  },
+  {
+   "authors": "Ó Cuív P, Ljungberg JK, et al.",
+   "title": "A human microbiome-derived therapeutic for ulcerative colitis promotes mucosal healing and immune homeostasis",
+   "journal": "",
+   "year": 2025,
+   "pmid": null,
+   "n": 3,
+   "doi": "10.1101/2025.04.18.25325957"
+  },
+  {
+   "authors": "Touak G, Rei D, et al.",
+   "title": "Complete genome sequence of two <i>Hominenteromicrobium mulieris</i> strains CIP 112194 and CIP 112527, isolated from a human fecal sample.",
+   "journal": "Microbiology resource announcements",
+   "year": 2025,
+   "pmid": "40192415",
+   "n": 4,
+   "doi": "10.1128/mra.01229-24"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

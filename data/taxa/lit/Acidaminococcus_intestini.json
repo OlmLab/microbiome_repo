@@ -1,0 +1,57 @@
+{
+ "slug": "Acidaminococcus_intestini",
+ "taxon": "s__Acidaminococcus intestini",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Acidaminococcus intestini",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Acidaminococcus intestini belongs to the family Acidaminococcaceae, order Selenomonadales, class Negativicutes, phylum Firmicutes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Negativicutes show the double-membrane system of Gram-negative bacteria, although their chromosomal backbone is closely related to that of Gram-positive bacteria of the phylum Firmicutes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A complete genome sequence was reported for a clinical strain of this species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A proteome analysis reported that about 7% of the A. intestini proteome is closely related to sequences from the phylum Proteobacteria, and identified key proteins of outer membrane biogenesis.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "D'Auria G, Galán JC, et al.",
+   "title": "Complete genome sequence of Acidaminococcus intestini RYC-MR95, a Gram-negative bacterium from the phylum Firmicutes",
+   "journal": "Journal of bacteriology",
+   "year": 2011,
+   "pmid": "22123762",
+   "n": 1,
+   "doi": "10.1128/jb.06301-11"
+  },
+  {
+   "authors": "Campbell C, Sutcliffe IC, et al.",
+   "title": "Comparative proteome analysis of Acidaminococcus intestini supports a relationship between outer membrane biogenesis in Negativicutes and Proteobacteria",
+   "journal": "Archives of microbiology",
+   "year": 2014,
+   "pmid": "24535491",
+   "n": 2,
+   "doi": "10.1007/s00203-014-0964-4"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

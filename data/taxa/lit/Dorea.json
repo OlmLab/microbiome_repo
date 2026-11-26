@@ -1,0 +1,73 @@
+{
+ "slug": "Dorea",
+ "taxon": "g__Dorea",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Dorea",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Dorea is a genus of Gram-positive, obligately anaerobic, non-spore-forming rod-shaped bacteria first isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "By 16S rRNA sequence the genus sits in the Clostridium coccoides group, now usually treated as the family Lachnospiraceae.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Its nearest named relative at description was Eubacterium formicigenerans, from which the new faecal isolates were biochemically distinct.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of colorectal cancer tissue reported Dorea formicigenerans and other Lachnospiraceae enriched in normal colon tissue rather than in tumour tissue.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A 16S sequencing study of Parkinson's disease patients reported reduced Dorea content compared with healthy volunteers.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Taras D, Simmering R, et al.",
+   "title": "Reclassification of Eubacterium formicigenerans Holdeman and Moore 1974 as Dorea formicigenerans gen. nov., comb. nov., and description of Dorea longicatena sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "11931151",
+   "n": 1,
+   "doi": "10.1099/00207713-52-2-423"
+  },
+  {
+   "authors": "Zhang X, Yu D, et al.",
+   "title": "Tissue-resident Lachnospiraceae family bacteria protect against colorectal carcinogenesis by promoting tumor immune surveillance",
+   "journal": "Cell host & microbe",
+   "year": 2023,
+   "pmid": "36893736",
+   "n": 2,
+   "doi": "10.1016/j.chom.2023.01.013"
+  },
+  {
+   "authors": "Petrov VA, Saltykova IV, et al.",
+   "title": "Analysis of Gut Microbiota in Patients with Parkinson's Disease",
+   "journal": "Bulletin of experimental biology and medicine",
+   "year": 2017,
+   "pmid": "28429209",
+   "n": 3,
+   "doi": "10.1007/s10517-017-3700-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

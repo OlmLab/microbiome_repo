@@ -1,0 +1,57 @@
+{
+ "slug": "Bacteroides_rodentium",
+ "taxon": "s__Bacteroides rodentium",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides rodentium",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A study of gut microbiota control of anti-tumor immunity reported Bacteroides rodentium capable of inducing anti-tumor immunity and limiting melanoma development in mice.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that study, tumours of mice harbouring Bacteroides rodentium showed enhanced CD8 T cell infiltration, and cecal samples of germ-free mice harbouring it had lower tryptophan levels.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Genomic reconstruction in the same work indicated that Bacteroides rodentium carries tryptophanase A and aromatic aminotransferase genes that degrade tryptophan.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In faeces from 34 healthy controls and 52 patients with active ulcerative colitis, five Bacteroidetes species including Bacteroides rodentium were correlated with three metrics of disease activity.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Olea XD, Beede K, Pereira G, Scott D, Petucci C, Martens E, Rodionov D, Shah A, Martinez MP, Kim H, Sharma AK, Martin A, Zhang T, Faries MB, Hamid O, Devkota S, Osterman A, Knott S, Voest EE, Ajami NJ, Wargo J, Ramer-Tait AE, Ronai ZA.",
+   "title": "Tryptophan degradation by intestinal Bacteroides induces anti-tumor immunity and limits melanoma growth.",
+   "journal": "Cell reports. Medicine",
+   "year": 2026,
+   "pmid": "42447866",
+   "n": 1,
+   "doi": "10.1016/j.xcrm.2026.102921"
+  },
+  {
+   "authors": "Nomura K, Ishikawa D, Okahara K, Ito S, Haga K, Takahashi M, Arakawa A, Shibuya T, Osada T, Kuwahara-Arai K, Kirikae T, Nagahara A.",
+   "title": "Bacteroidetes Species Are Correlated with Disease Activity in Ulcerative Colitis.",
+   "journal": "Journal of clinical medicine",
+   "year": 2021,
+   "pmid": "33920646",
+   "n": 2,
+   "doi": "10.3390/jcm10081749"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

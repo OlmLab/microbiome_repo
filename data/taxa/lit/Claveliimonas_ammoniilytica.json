@@ -1,0 +1,57 @@
+{
+ "slug": "Claveliimonas_ammoniilytica",
+ "taxon": "s__Claveliimonas ammoniilytica",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Dorea ammoniilytica",
+ "name_note": "GTDB places this species in the genus Claveliimonas; the genomes and the papers cited here use the NCBI name Dorea ammoniilytica.",
+ "sentences": [
+  {
+   "text": "Dorea ammoniilytica was identified and characterized as a deoxycholic acid-producing species from two strains derived from human feces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Those strains harboured segmented bai gene operons and showed high deoxycholic acid production activity from cholic acid in culture experiments.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species was reported to belong to a distinct lineage from other known deoxycholic acid producers and from Dorea species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus Claveliimonas was proposed for obligately anaerobic, Gram-stain-positive bacilli isolated from faecal samples of healthy Japanese people.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kastawa NWEPG, Gotoh Y, et al.",
+   "title": "Identification and characterization of Dorea ammoniilytica as a novel deoxycholic acid-producing bacterial species in the human gut microbiota.",
+   "journal": "Bioscience, biotechnology, and biochemistry",
+   "year": 2026,
+   "pmid": "41410502",
+   "n": 1,
+   "doi": "10.1093/bbb/zbaf190"
+  },
+  {
+   "authors": "Hisatomi A, Kastawa NWEPG, et al.",
+   "title": "Claveliimonas bilis gen. nov., sp. nov., deoxycholic acid-producing bacteria isolated from human faeces, and reclassification of Sellimonas monacensis Zenner et al. 2021 as Claveliimonas monacensis comb. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2023,
+   "pmid": "37737068",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.006030"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

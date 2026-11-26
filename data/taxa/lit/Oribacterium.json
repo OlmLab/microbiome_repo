@@ -1,0 +1,66 @@
+{
+ "slug": "Oribacterium",
+ "taxon": "g__Oribacterium",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Oribacterium",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Two further Oribacterium species were described from strictly anaerobic, Gram-positive, non-spore-forming, motile rods isolated from human subgingival dental plaque.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Those strains required yeast extract for growth, and acetate was a major fermentation end product.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A case-control study of children aged 6 to 17 years reported Oribacterium among genera discriminating the oral microbiota of children with obesity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a hamster experiment, oral administration of a pair of gut microbes including Oribacterium sp. GMB0313 was reported to provide protection in a COVID-19 model.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sizova MV, Muller PA, Stancyk D, Panikov NS, Mandalakis M, Hazen A, Hohmann T, Doerfert SN, Fowle W, Earl AM, Nelson KE, Epstein SS.",
+   "title": "Oribacterium parvum sp. nov. and Oribacterium asaccharolyticum sp. nov., obligately anaerobic bacteria from the human oral cavity, and emended description of the genus Oribacterium.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2014,
+   "pmid": "24824639",
+   "n": 1,
+   "doi": "10.1099/ijs.0.060988-0"
+  },
+  {
+   "authors": "Qi Q, Gao C, Yan Y.",
+   "title": "The association of oral microbiota and oral-gut microbial co-presence with obesity in Chinese children.",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42712423",
+   "n": 2,
+   "doi": "10.3389/fcimb.2026.1866102"
+  },
+  {
+   "authors": "Wang M, Lkhagva E, Kim S, Zhai C, Islam MM, Kim HJ, Hong ST.",
+   "title": "The gut microbe pair of Oribacterium sp. GMB0313 and Ruminococcus sp. GMB0270 confers complete protection against SARS-CoV-2 infection by activating CD8+ T cell-mediated immunity.",
+   "journal": "Gut microbes",
+   "year": 2024,
+   "pmid": "38635321",
+   "n": 3,
+   "doi": "10.1080/19490976.2024.2342497"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

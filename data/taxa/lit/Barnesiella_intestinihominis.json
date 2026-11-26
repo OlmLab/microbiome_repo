@@ -1,0 +1,66 @@
+{
+ "slug": "Barnesiella_intestinihominis",
+ "taxon": "s__Barnesiella intestinihominis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Barnesiella intestinihominis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Barnesiella intestinihominis is a human intestinal bacterium.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A growth assay showed that it can use complex-type N-glycan, a host-derived glycan, as a carbon source, and RNA-seq identified the enzymes and transporters involved.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of 96 Mongolian participants reported that Barnesiella intestinihominis was significantly reduced in overweight individuals.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A paper reported that a previous metagenomic analysis found a significant deficiency of this species in patients with impaired glucose regulation, a prediabetic state.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Doi K, Mori K, Komatsu M, Shinoda A, Tashiro K, Higuchi Y, Nakayama J, Takegawa K.",
+   "title": "Molecular mechanisms of complex-type N-glycan breakdown and metabolism by the human intestinal bacterium Barnesiella intestinihominis.",
+   "journal": "Journal of bioscience and bioengineering",
+   "year": 2025,
+   "pmid": "39510934",
+   "n": 1,
+   "doi": "10.1016/j.jbiosc.2024.10.006"
+  },
+  {
+   "authors": "Zhao Z, Wang X, Wen F, Zhao F, Zhang M, Menghe B.",
+   "title": "Integrated Metagenomic and Metabolomic Profiling Identifies Predictive Biomarkers for Overweight Status in a Mongolian Population.",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42197333",
+   "n": 2,
+   "doi": "10.3390/microorganisms14050946"
+  },
+  {
+   "authors": "Liu X, Wang L, Huang B, Jiao Y, Guan Y, Nuli R.",
+   "title": "<i>Barnesiella intestinihominis</i> improves gut microbiota disruption and intestinal barrier integrity in mice with impaired glucose regulation.",
+   "journal": "Frontiers in pharmacology",
+   "year": 2025,
+   "pmid": "41132537",
+   "n": 3,
+   "doi": "10.3389/fphar.2025.1635579"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

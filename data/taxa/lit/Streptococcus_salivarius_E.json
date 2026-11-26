@@ -1,0 +1,66 @@
+{
+ "slug": "Streptococcus_salivarius_E",
+ "taxon": "s__Streptococcus salivarius_E",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Streptococcus salivarius",
+ "name_note": "GTDB splits classical Streptococcus salivarius into several species and this is one of them, so published findings about S. salivarius cover a broader group than s__Streptococcus salivarius_E.",
+ "sentences": [
+  {
+   "text": "Streptococcus salivarius is a gram-positive viridans group streptococcus that primarily colonizes the oral cavity and gastrointestinal tract and is generally regarded as a benign commensal organism.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Invasive infections have been reported, but they typically occur in immunocompromised hosts or following invasive gastrointestinal or spinal procedures.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A systematic review that included 15 citations reported that three strains used as probiotics, M18, K-12 and 24SMB, all demonstrated positive benefits in pediatric pathology.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a multicentre randomised placebo-controlled trial in New Zealand that randomised 428 children, doctor-recorded acute otitis media occurred in 39% of placebo and 37% of probiotic recipients.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Al-Akel FC, Chiperi LE, Eszter VK, Bacârea A.",
+   "title": "Streptococcus salivarius Role as a Probiotic in Children's Health and Disease Prophylaxis-A Systematic Review.",
+   "journal": "Life (Basel, Switzerland)",
+   "year": 2024,
+   "pmid": "39768321",
+   "n": 1,
+   "doi": "10.3390/life14121613"
+  },
+  {
+   "authors": "Bravo EJ, Gamal A, Kang J, Maditz K.",
+   "title": "Unpredictable Virulence of a Benign Commensal: Streptococcus salivarius Bacteremia and Infective Endocarditis in an Immunocompetent Patient.",
+   "journal": "Cureus",
+   "year": 2026,
+   "pmid": "42028477",
+   "n": 2,
+   "doi": "10.7759/cureus.105713"
+  },
+  {
+   "authors": "Halley C, Honeywill C, Kang J, Barnes P, Purdie G, Steenson G, Noble-Adams R, Stanley T, Fuge K, McBain L, Hudson B, Crane J.",
+   "title": "Preventing otitis media and respiratory tract infections with the oral probiotic Streptococcus salivarius K12.",
+   "journal": "European journal of pediatrics",
+   "year": 2026,
+   "pmid": "42693329",
+   "n": 3,
+   "doi": "10.1007/s00431-026-07379-3"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

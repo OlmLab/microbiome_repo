@@ -1,0 +1,66 @@
+{
+ "slug": "Phocaeicola_dorei",
+ "taxon": "s__Phocaeicola dorei",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Phocaeicola dorei",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Phocaeicola dorei is a species detected in human stool metagenomes, where it was reported to correlate negatively with its sister species Phocaeicola vulgatus.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In mice on a high-fat diet, a strain called a next-generation probiotic candidate, Phocaeicola dorei YGMCC0564, was reported to attenuate body weight gain, dyslipidemia and hyperglycemia.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study also reported reduced hepatic steatosis and gluconeogenic gene expression and improved insulin resistance in the mice given this strain.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a mouse model of steatotic liver disease, the prebiotic pectic oligosaccharides were reported to enrich a core microbiota dominated by Phocaeicola dorei and reactivate its vitamin B7 biosynthesis.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "He Z, Chen P, Zhao M, Song W, Zhang S, Lei Q, Jie X, Chen J.",
+   "title": "<i>Phocaeicola dorei</i> YGMCC0564 attenuates HFD-induced glycolipid metabolic disorders in association with remodeling of the gut microbiota and bile acid profiles.",
+   "journal": "Frontiers in microbiology",
+   "year": 2026,
+   "pmid": "42835803",
+   "n": 1,
+   "doi": "10.3389/fmicb.2026.1911556"
+  },
+  {
+   "authors": "Yang Z, Fu Y, Liu S, Liu J, Zhang W, Feng C, Man X, Li S, He N, Zhang F.",
+   "title": "Pectic oligosaccharides reshape the gut microbiota-mediated intestinal vitamin B<sub>7</sub> metabolic network to alleviate metabolic dysfunction-associated steatotic liver disease.",
+   "journal": "Food & function",
+   "year": 2026,
+   "pmid": "42609089",
+   "n": 2,
+   "doi": "10.1039/d6fo02576e"
+  },
+  {
+   "authors": "Huang Z, McGrath PM, Ferdinand DC, McCormick BA, Ward DV, Bucci V, Haran JP.",
+   "title": "Gut community-level analysis reveals an altered balance between Phocaeicola vulgatus and Bacteroides fragilis in Alzheimer’s disease",
+   "journal": "",
+   "year": 2026,
+   "pmid": null,
+   "n": 3,
+   "doi": "10.64898/2026.08.12.743985"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

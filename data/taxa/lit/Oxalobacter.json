@@ -1,0 +1,63 @@
+{
+ "slug": "Oxalobacter",
+ "taxon": "g__Oxalobacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Oxalobacter (Oxalobacter formigenes)",
+ "name_note": "Besides Oxalobacter formigenes, GTDB splits closely related genomes into further species such as Oxalobacter aliiformigenes, paeniformigenes and paraformigenes, which the older literature treats as O. formigenes.",
+ "sentences": [
+  {
+   "text": "Oxalobacter formigenes is described as the oxalate-degrading specialist among oxalate-degrading intestinal bacteria.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Such bacteria are reported to have the potential to reduce urinary oxalate excretion in humans and thereby limit the risk of calcium oxalate kidney stone formation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a proof-of-concept study in healthy adults, all 22 participants were colonized after a single dose and 10 remained colonized for at least one year.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Colonization was lost in 11 of those participants, 9 of whom reported antibiotic use.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A systematic review of nine studies examined interventions including Oxalobacter formigenes preparations proposed to reduce urinary oxalate excretion and stone recurrence.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Fargue S, Suryavanshi M, et al.",
+   "title": "Inducing Oxalobacter formigenes Colonization Reduces Urinary Oxalate in Healthy Adults.",
+   "journal": "Kidney international reports",
+   "year": 2025,
+   "pmid": "40485679",
+   "n": 1,
+   "doi": "10.1016/j.ekir.2025.02.004"
+  },
+  {
+   "authors": "Bhardwaj M, Singhal A, et al.",
+   "title": "Probiotic and Synbiotic Interventions Targeting Oxalate-Degrading Gut Bacteria for the Prevention of Kidney Stones: A Systematic Review.",
+   "journal": "Cureus",
+   "year": 2025,
+   "pmid": "41409368",
+   "n": 2,
+   "doi": "10.7759/cureus.98728"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

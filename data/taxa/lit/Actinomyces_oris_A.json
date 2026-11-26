@@ -1,0 +1,66 @@
+{
+ "slug": "Actinomyces_oris_A",
+ "taxon": "s__Actinomyces oris_A",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Actinomyces oris",
+ "name_note": "The GTDB name Actinomyces oris_A marks one part of a split of Actinomyces oris into more than one GTDB species; the cited publications use the single name Actinomyces oris.",
+ "sentences": [
+  {
+   "text": "The name Actinomyces oris was proposed for Actinomyces naeslundii genospecies 2, which sequences of six housekeeping genes separated from the other genospecies and from Actinomyces viscosus of rodents.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Actinomyces naeslundii, which comprised three genospecies including the one renamed Actinomyces oris, is described as an important early colonizer in the oral biofilm.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A metagenomic study of dental plaque from 96 school-aged children grouped by fluorosis severity reported Actinomyces oris significantly enriched in the moderate and severe groups.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Actinomyces oris is used as a component of standardized multi-species oral biofilm models grown in vitro on enamel discs.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Henssge U, Do T, et al.",
+   "title": "Emended description of Actinomyces naeslundii and descriptions of Actinomyces oris sp. nov. and Actinomyces johnsonii sp. nov., previously identified as Actinomyces naeslundii genospecies 1, 2 and WVA 963",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2009,
+   "pmid": "19244431",
+   "n": 1,
+   "doi": "10.1099/ijs.0.000950-0"
+  },
+  {
+   "authors": "Xia Y, Peng S, et al.",
+   "title": "Severity-dependent alterations in oral microbiota and antibiotic resistance in children with dental fluorosis",
+   "journal": "Journal of oral microbiology",
+   "year": 2026,
+   "pmid": "42676837",
+   "n": 2,
+   "doi": "10.1080/20002297.2026.2714622"
+  },
+  {
+   "authors": "Deari S, Gothwal M, et al.",
+   "title": "The Effect of Pellicle on Biofilm Formation in a Supragingival Biofilm Model",
+   "journal": "Clinical and experimental dental research",
+   "year": 2025,
+   "pmid": "41457737",
+   "n": 3,
+   "doi": "10.1002/cre2.70276"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

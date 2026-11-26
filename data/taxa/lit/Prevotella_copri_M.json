@@ -1,0 +1,73 @@
+{
+ "slug": "Prevotella_copri_M",
+ "taxon": "s__Prevotella copri_M",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Segatella copri (formerly Prevotella copri) complex",
+ "name_note": "The GTDB species Prevotella copri_M is one of several narrow species-level clades split out of the classical Prevotella copri, whose genomes carry the NCBI name Segatella copri; published findings below refer to Segatella copri or to the wider complex, not to this clade alone.",
+ "sentences": [
+  {
+   "text": "Segatella copri, formerly named Prevotella copri, is a common human gut microbe that has been both positively and negatively associated with host health.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "A cross-continent meta-analysis of more than 6,500 metagenomes reported that Prevotella copri encompasses four distinct clades, nearly ubiquitous and co-present in non-Westernized populations.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A later study combining targeted isolation with metagenomic analysis defined 13 Segatella copri-related species, nine of which are present in humans and differ in prevalence across populations.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That work reported associations between members of the complex and male sex, and positive correlations with lower visceral fat and favourable markers of cardiometabolic health.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A survey of 76 adults from eight tribal communities in India reported Segatella copri dominant at mean 25 to 47 percent relative abundance.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tett A, Huang KD, Asnicar F, et al.",
+   "title": "The Prevotella copri Complex Comprises Four Distinct Clades Underrepresented in Westernized Populations.",
+   "journal": "Cell host & microbe",
+   "year": 2019,
+   "pmid": "31607556",
+   "n": 1,
+   "doi": "10.1016/j.chom.2019.08.018"
+  },
+  {
+   "authors": "Blanco-Míguez A, Gálvez EJC, Pasolli E, et al.",
+   "title": "Extension of the Segatella copri complex to 13 species with distinct large extrachromosomal elements and associations with host conditions.",
+   "journal": "Cell host & microbe",
+   "year": 2023,
+   "pmid": "37883976",
+   "n": 2,
+   "doi": "10.1016/j.chom.2023.09.013"
+  },
+  {
+   "authors": "Ebel ER, Kulkarni AS, Mongad DS, et al.",
+   "title": "Gut microbiomes of tribal communities in India vary with dairy and grain consumption.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42424147",
+   "n": 3,
+   "doi": "10.1080/19490976.2026.2694242"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

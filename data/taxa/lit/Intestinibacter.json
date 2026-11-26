@@ -1,0 +1,51 @@
+{
+ "slug": "Intestinibacter",
+ "taxon": "g__Intestinibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Intestinibacter bartlettii",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Intestinibacter was proposed as a novel genus when Clostridium bartlettii was reclassified as Intestinibacter bartlettii, the type species of the genus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A screen of 206 human gut bacterial isolates reported that indole-3-acetic acid production is rare, with high-capacity production confined to the acetogens Blautia hydrogenotrophica and Intestinibacter bartlettii.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In gnotobiotic mice mono-colonized with Intestinibacter bartlettii, branched-chain and aromatic organic acids were produced in vivo, with aromatic acids and glycine conjugates appearing in plasma and urine.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gerritsen J, Fuentes S, et al.",
+   "title": "Characterization of Romboutsia ilealis gen. nov., sp. nov., isolated from the gastro-intestinal tract of a rat, and proposal for the reclassification of five closely related members of the genus Clostridium into the genera Romboutsia gen. nov., Intestinibacter gen. nov., Terrisporobacter gen. nov. and Asaccharospora gen. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2014,
+   "pmid": "24480908",
+   "n": 1,
+   "doi": "10.1099/ijs.0.059543-0"
+  },
+  {
+   "authors": "DeFeo ME, Liu Y, et al.",
+   "title": "Indole-3-acetic acid production is rare among gut bacteria and reflects OFOR-driven amino acid oxidation in acetogens.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42324626",
+   "n": 2,
+   "doi": "10.1080/19490976.2026.2689610"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

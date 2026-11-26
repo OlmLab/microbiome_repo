@@ -1,0 +1,67 @@
+{
+ "slug": "Clostridium_A",
+ "taxon": "g__Clostridium_A",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Clostridium",
+ "name_note": "GTDB splits the classical genus Clostridium into several genera, of which Clostridium_A is one, so this page covers published work on Clostridium as a whole rather than on the GTDB subgroup alone.",
+ "sentences": [
+  {
+   "text": "Clostridium is described as the largest genus in the class Clostridia, made up of spore-forming, anaerobic, Gram-positive organisms.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its members are reported to range from human pathogens to free-living nitrogen-fixing bacteria.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review describes the species placed in this genus as very heterogeneous phenotypically and phylogenetically, with several being reclassified into other genera as phylogeny advances.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The class Clostridia that contains this genus is described as a major microbial class of the human gut that ferments undigested carbohydrates and proteins into short-chain fatty acids.",
+   "refs": [
+    1,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sharma A, Gupta S, Paul K",
+   "title": "Codon usage behavior distinguishes pathogenic Clostridium species from the non-pathogenic species",
+   "journal": "Gene",
+   "year": 2023,
+   "pmid": "37137382",
+   "n": 1,
+   "doi": "10.1016/j.gene.2023.147394"
+  },
+  {
+   "authors": "García-Sánchez JE, García-Sánchez E, García-Moro M",
+   "title": "The clinical microbiologist before the taxonomic changes in the genus Clostridium",
+   "journal": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
+   "year": 2016,
+   "pmid": "27628950",
+   "n": 2,
+   "doi": ""
+  },
+  {
+   "authors": "Sola L, Candeliere F, Busi E, Raimondi S, Amaretti A, Rossi M",
+   "title": "A genomic atlas of gut clostridia: phylogeny, butyrate, and propionate production",
+   "journal": "Frontiers in microbiology",
+   "year": 2026,
+   "pmid": "42039832",
+   "n": 3,
+   "doi": "10.3389/fmicb.2026.1761627"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

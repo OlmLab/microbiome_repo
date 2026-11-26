@@ -1,0 +1,57 @@
+{
+ "slug": "Merdibacter",
+ "taxon": "g__Merdibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Merdibacter",
+ "name_note": "The GTDB genus Merdibacter also holds genomes deposited as Solobacterium, and its representative genome is labelled Candidatus Merdibacter merdavium, a different species from the Merdibacter massiliensis described here.",
+ "sentences": [
+  {
+   "text": "The genus Merdibacter was proposed for strain Marseille-P3254, isolated from an ileal sample of a 76-year-old woman who underwent upper and lower digestive tract endoscopy.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It was described as an anaerobic Gram-negative bacterium without catalase and oxidase activities, representing a novel genus within the family Erysipelotrichaceae in the phylum Firmicutes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its genome was reported as 2,468,496 bp with 40.1 percent G+C content, most closely related to Eubacterium dolichum, sharing 90.7 percent 16S rRNA sequence similarity.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A 16S study of patients with autosomal dominant polycystic kidney disease reported higher abundance of Merdibacter in the group without intracranial aneurysms.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Anani H, Abou Abdallah R, Chelkha N, Fontanini A, Ricaboni D, Mailhe M, Raoult D, Fournier PE.",
+   "title": "Draft genome and description of Merdibacter massiliensis gen.nov., sp. nov., a new bacterium genus isolated from the human ileum",
+   "journal": "Scientific reports",
+   "year": 2019,
+   "pmid": "31138831",
+   "n": 1,
+   "doi": "10.1038/s41598-019-44343-8"
+  },
+  {
+   "authors": "Fukuda T, Takagaki M, Kaimori J, Motooka D, Nakamura S, Kawabata S, Nakamura H, Ozaki T, Nakagawa R, Matsumura T, Teranishi K, Yamazaki H, Isaka Y, Kishima H.",
+   "title": "Differences in gut microbiome between autosomal dominant polycystic kidney disease with and without intracranial aneurysms",
+   "journal": "Scientific reports",
+   "year": 2025,
+   "pmid": "40624250",
+   "n": 2,
+   "doi": "10.1038/s41598-025-08942-y"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

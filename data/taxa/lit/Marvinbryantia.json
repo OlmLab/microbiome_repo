@@ -1,0 +1,91 @@
+{
+ "slug": "Marvinbryantia",
+ "taxon": "g__Marvinbryantia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Marvinbryantia",
+ "name_note": "Marvinbryantia replaced the illegitimate genus name Bryantella; GTDB places many uncultured, unnamed species in this genus besides the named type species.",
+ "sentences": [
+  {
+   "text": "Marvinbryantia is a bacterial genus name proposed to replace the illegitimate genus name Bryantella, with Marvinbryantia formatexigens as the type species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Marvinbryantia formatexigens, first named Bryantella formatexigens, came from human faeces and ferments glucose to acetate by the Wood-Ljungdahl pathway when formate is high.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "A study of two human gut acetogens reported that Marvinbryantia formatexigens consumes oligosaccharides, leaves the gut redox state unchanged and raises succinate yield.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Work on the prebiotic fructooligosaccharides reported Marvinbryantia formatexigens among human gut species able to metabolise them, noted there for the first time.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "In faecal microbiota of 295 school-aged children, Marvinbryantia formatexigens was reported among bacterial groups inversely associated with the weight-related outcomes measured.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wolin MJ, Miller TL, Lawson PA",
+   "title": "Proposal to replace the illegitimate genus name Bryantella Wolin et al. 2004VP with the genus name Marvinbryantia gen. nov. and to replace the illegitimate combination Bryantella formatexigens Wolin et al. 2004VP with Marvinbryantia formatexigens comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18319487",
+   "n": 1,
+   "doi": "10.1099/ijs.0.65850-0"
+  },
+  {
+   "authors": "Wolin MJ, Miller TL, Collins MD, Lawson PA",
+   "title": "Formate-dependent growth and homoacetogenic fermentation by a bacterium from human feces: description of Bryantella formatexigens gen. nov., sp. nov",
+   "journal": "Applied and environmental microbiology",
+   "year": 2003,
+   "pmid": "14532100",
+   "n": 2,
+   "doi": "10.1128/aem.69.10.6321-6326.2003"
+  },
+  {
+   "authors": "Rey FE, Faith JJ, Bain J, Muehlbauer MJ, Stevens RD, Newgard CB, Gordon JI",
+   "title": "Dissecting the in vivo metabolic potential of two human gut acetogens",
+   "journal": "The Journal of biological chemistry",
+   "year": 2010,
+   "pmid": "20444704",
+   "n": 3,
+   "doi": "10.1074/jbc.m110.117713"
+  },
+  {
+   "authors": "Mao B, Li D, Zhao J, Liu X, Gu Z, Chen YQ, Zhang H, Chen W",
+   "title": "In vitro fermentation of fructooligosaccharides with human gut bacteria",
+   "journal": "Food & function",
+   "year": 2015,
+   "pmid": "25653214",
+   "n": 4,
+   "doi": "10.1039/c4fo01082e"
+  },
+  {
+   "authors": "Mbakwa CA, Hermes GDA, Penders J, Savelkoul PHM, Thijs C, Dagnelie PC, Mommers M, Zoetendal EG, Smidt H, Arts ICW",
+   "title": "Gut Microbiota and Body Weight in School-Aged Children: The KOALA Birth Cohort Study",
+   "journal": "Obesity (Silver Spring, Md.)",
+   "year": 2018,
+   "pmid": "30296366",
+   "n": 5,
+   "doi": "10.1002/oby.22320"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

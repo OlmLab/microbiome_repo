@@ -1,0 +1,73 @@
+{
+ "slug": "Dolosigranulum",
+ "taxon": "g__Dolosigranulum",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Dolosigranulum",
+ "name_note": "GTDB and the literature use the same genus name; published work on the genus concerns its species Dolosigranulum pigrum.",
+ "sentences": [
+  {
+   "text": "Dolosigranulum is a bacterial genus of the human nose and nasopharynx, and its species Dolosigranulum pigrum is described as a commensal isolated from the nasopharynx of healthy children.",
+   "refs": [
+    2,
+    3
+   ]
+  },
+  {
+   "text": "In a study of anterior nares swabs collected within 24 hours of delivery, maternal samples were dominated by Corynebacterium and Dolosigranulum, described as genera characteristic of stable, healthy adult nares.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In that same study, newborn samples were instead enriched for Lactobacillus, Burkholderia-Caballeronia-Paraburkholderia, Acinetobacter and Streptococcus.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A report states that specific nasal bacterial genera are differentially associated with respiratory syncytial virus severity in infants, with Dolosigranulum linked to healthy controls or milder outcomes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In co-culture experiments with pneumococcal strains, Dolosigranulum pigrum and Corynebacterium pseudodiphtheriticum significantly reduced pneumococcal growth, with a synergistic effect when combined.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Kafer LA, Escapa IF, et al.",
+   "title": "Streptococcus pneumoniae colonization modulates human nasal epithelial responses to respiratory syncytial virus infection",
+   "journal": "",
+   "year": 2026,
+   "pmid": null,
+   "n": 1,
+   "doi": "10.64898/2026.02.05.703985"
+  },
+  {
+   "authors": "Wagner SB, Keen KE, et al.",
+   "title": "The neonatal and maternal nasal microbiomes are compositionally diverse and functionally distinct within 24 hours of birth",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42745753",
+   "n": 2,
+   "doi": "10.3389/fcimb.2026.1922369"
+  },
+  {
+   "authors": "Cisneros M, Blanco-Fuertes M, et al.",
+   "title": "Synergistic inhibition of pneumococcal growth by Dolosigranulum pigrum and Corynebacterium pseudodiphtheriticum: insights into nasopharyngeal microbial interactions",
+   "journal": "Microbiology spectrum",
+   "year": 2025,
+   "pmid": "40445193",
+   "n": 3,
+   "doi": "10.1128/spectrum.00138-25"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

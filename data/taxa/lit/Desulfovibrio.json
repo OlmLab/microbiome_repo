@@ -1,0 +1,85 @@
+{
+ "slug": "Desulfovibrio",
+ "taxon": "g__Desulfovibrio",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Desulfovibrio",
+ "name_note": "GTDB g__Desulfovibrio corresponds to the classical genus Desulfovibrio, which contains nearly all genomes placed here.",
+ "sentences": [
+  {
+   "text": "Desulfovibrio are sulfate-reducing bacteria, a group described as a source of sulfide in sulfide-producing hydrothermal vent environments.",
+   "refs": [
+    5
+   ]
+  },
+  {
+   "text": "Members of the genus carry out hydrogen metabolism: structures of a Ni-Fe hydrogenase from D. gigas and an Fe-only hydrogenase from D. desulfuricans have been solved.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "Desulfovibrio species have been reported at significantly higher numbers in stools of severely autistic children than in controls.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A systematic review of the gut microbiota described anxiety and depressive disorders as possibly characterised by higher abundance of proinflammatory species including Desulfovibrio.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Volbeda A, Charon MH, et al.",
+   "title": "Crystal structure of the nickel-iron hydrogenase from Desulfovibrio gigas.",
+   "journal": "Nature",
+   "year": 1995,
+   "pmid": "7854413",
+   "n": 1,
+   "doi": "10.1038/373580a0"
+  },
+  {
+   "authors": "Finegold SM, Dowd SE, et al.",
+   "title": "Pyrosequencing study of fecal microflora of autistic and control children.",
+   "journal": "Anaerobe",
+   "year": 2010,
+   "pmid": "20603222",
+   "n": 2,
+   "doi": "10.1016/j.anaerobe.2010.06.008"
+  },
+  {
+   "authors": "Simpson CA, Diaz-Arteche C, et al.",
+   "title": "The gut microbiota in anxiety and depression - A systematic review.",
+   "journal": "Clinical psychology review",
+   "year": 2021,
+   "pmid": "33271426",
+   "n": 3,
+   "doi": "10.1016/j.cpr.2020.101943"
+  },
+  {
+   "authors": "Nicolet Y, Piras C, et al.",
+   "title": "Desulfovibrio desulfuricans iron hydrogenase: the structure shows unusual coordination to an active site Fe binuclear center.",
+   "journal": "Structure (London, England : 1993)",
+   "year": 1999,
+   "pmid": "10368269",
+   "n": 4,
+   "doi": "10.1016/s0969-2126(99)80005-7"
+  },
+  {
+   "authors": "Muyzer G, Teske A, et al.",
+   "title": "Phylogenetic relationships of Thiomicrospira species and their identification in deep-sea hydrothermal vent samples by denaturing gradient gel electrophoresis of 16S rDNA fragments.",
+   "journal": "Archives of microbiology",
+   "year": 1995,
+   "pmid": "7545384",
+   "n": 5,
+   "doi": "10.1007/bf02529967"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

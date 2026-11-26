@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Condition explorer — Microbiome Repo</title>
+<meta name="description" content="Every health condition the catalog holds cases for — 785 conditions, 190,922 case samples in 2,051 projects — with the projects behind each one, its healthy controls, countries and age groups, and whether published microbiome associations for it replicated.">
+<meta name="repo-release" content="data-v1.35.0">
+<meta name="repo-release-id" content="R2026.44">
+<link rel="canonical" href="https://microbiome-repo.colorado.edu/atlas/conditions.html">
+<meta name="repo-package-version" content="1.35.0">
+<meta name="repo-build-date" content="2026-11-25">
+<meta http-equiv="Content-Security-Policy" content="object-src 'none'; base-uri 'self'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="../static/icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../static/icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../static/icons/apple-touch-icon.png">
+<link rel="stylesheet" href="../static/site.css">
+
+<link rel="stylesheet" href="../static/side_pages.css">
+<link rel="stylesheet" href="../static/sp_conditions.css">
+<script data-goatcounter="https://microbiome-repo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav class="topnav" aria-label="Main"><div class="in">
+<a class="brand" href="../index.html">Microbiome Repo</a>
+<a href="../index.html" >Home</a>
+<a href="../studies/index.html" >Projects</a>
+<a href="../samples/index.html" >Samples</a>
+<a href="../contribute/index.html" >Contribute</a>
+<div class="navdd active"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">Insights <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../atlas/taxa/index.html">Taxon explorer</a><a role="menuitem" href="../atlas/conditions.html" class="active">Condition explorer</a><a role="menuitem" href="../atlas/vanish.html">VANISH / BloSSUM</a><a role="menuitem" href="../atlas/replication.html">Replication of published findings</a><a role="menuitem" href="../atlas/index.html">Taxon map</a><a role="menuitem" href="../atlas/pca.html">PCA of community profiles</a><a role="menuitem" href="../atlas/measures.html">Profile coverage and quality</a></div></div>
+<div class="navdd"><button type="button" class="navbtn" aria-haspopup="true" aria-expanded="false">About <span aria-hidden="true">▾</span></button><div class="navmenu" role="menu"><a role="menuitem" href="../about/index.html">About this resource</a><a role="menuitem" href="../llms/index.html">For LLMs &amp; API</a><a role="menuitem" href="../downloads/index.html">Downloads &amp; releases</a><a role="menuitem" href="../about/scope.html">Scope</a><a role="menuitem" href="../about/methods.html">Methods</a><a role="menuitem" href="../fields/index.html">Fields &amp; vocabularies</a><a role="menuitem" href="../about/value_sources.html">Where values come from</a><a role="menuitem" href="../about/external.html">External resources</a><a role="menuitem" href="../about/sources.html">Sources &amp; acknowledgements</a><a role="menuitem" href="../about/accessibility.html">Accessibility, privacy &amp; security</a><span class="navhead">Browse</span><a role="menuitem" href="../registry/index.html">Registry</a><a role="menuitem" href="../cohorts/index.html">Cohorts</a><a role="menuitem" href="../collections/index.html">Collections</a><a role="menuitem" href="../authors/index.html">Authors</a></div></div>
+<form class="navsearch" action="../index.html" method="get" role="search"><input name="q" type="search" placeholder="Search projects, cohorts, authors…" aria-label="Search projects, cohorts, authors and accessions" autocomplete="off"></form></div></nav>
+<main id="main" tabindex="-1">
+<div class="crumbs"><a href="../index.html">Home</a> › <a href="taxa/index.html">Insights</a> › Condition explorer</div>
+
+<div class="page-head sp-head">
+<h1>Condition explorer</h1>
+<p class="subnav"><a href="taxa/index.html">Taxon explorer</a> · <a href="conditions.html" class="active">Condition explorer</a> · <a href="vanish.html">VANISH / BloSSUM</a> · <a href="replication.html">Replication of published findings</a> · <a href="index.html">Taxon map</a> · <a href="pca.html">PCA of community profiles</a> · <a href="measures.html">Profile coverage and quality</a></p>
+<p class="sp-lead">Every health condition the catalog holds cases for, and 2 broader terms that carry a replication result but no cases of their own: 785 rows, 190,922 case samples in 2,051 projects, each condition mapped to its ontology term. Search a condition or an id, or open a condition to see its projects, its healthy controls and the published associations that replicated.</p>
+<p class="small">Computed on data package 1.35.0 (release R2026.44).</p>
+</div>
+
+<p class="cn-totals" id="cn-totals"><b>785</b> conditions · <b>190,922</b> case samples · <b>2,051</b> projects · <b>105</b> countries · release R2026.44</p>
+
+<div class="sp-search">
+<label for="cn-q" class="visually-hidden">Search the table: rows that contain every word you type, in the condition name, its ids or its disease area</label>
+<input id="cn-q" class="searchbox big" type="search" autocomplete="off" spellcheck="false"
+       placeholder="Search a condition — e.g. Crohn disease, ulcerative colitis, MONDO:0005011, metabolic disease">
+<p class="small" id="cn-qhelp">Keeps the rows that contain <b>every</b> word you type, in the condition name, its ontology ids (current or retired) or its disease area.</p>
+</div>
+
+<div class="sp-controls cn-bar">
+  <span class="cn-count" id="cn-count" role="status">785 conditions</span>
+  <span style="flex:1"></span>
+  <a class="btn" id="cn-dl" href="../data/conditions/condition_explorer.csv" download>Download the table (CSV)</a>
+  <span class="small" id="cn-dl2">Detail tables: <a href="../data/conditions/condition_explorer_projects.csv" download>projects</a> (2,994 rows) · <a href="../data/conditions/condition_explorer_associations.csv" download>replicated associations</a> (224 rows)</span>
+</div>
+
+<p class="spx-status" id="cn-status" role="status">Loading the conditions…</p>
+<noscript><p class="sp-noscript">This page builds its table in your browser, so it needs JavaScript. The three tables it reads are <a href="../data/conditions/condition_explorer.csv">condition_explorer.csv</a>, <a href="../data/conditions/condition_explorer_projects.csv">condition_explorer_projects.csv</a> and <a href="../data/conditions/condition_explorer_associations.csv">condition_explorer_associations.csv</a>.</p></noscript>
+
+<section class="cn-panel" id="cn-panel" aria-live="polite" hidden></section>
+
+<div class="cn-tablebox">
+<table class="tbl cn-table" id="cn-table">
+<thead><tr>
+<th data-col="condition_name" aria-sort="none">Condition</th>
+<th data-col="ids">Ids</th>
+<th class="num" data-col="projects" aria-sort="none">Projects</th>
+<th class="num" data-col="cases" aria-sort="descending">Cases</th>
+<th class="num" data-col="healthy_controls" aria-sort="none">Healthy controls</th>
+<th class="num" data-col="n_countries" aria-sort="none">Countries</th>
+<th data-col="age" aria-sort="none">Age bands</th>
+<th class="num" data-col="cases_profiled" aria-sort="none">Profiled</th>
+<th class="num" data-col="replicated" aria-sort="none">Replicated associations</th>
+</tr></thead>
+<tbody></tbody>
+</table>
+</div>
+<p class="sp-note" id="cn-legend">Age bands, in order: <span class="cn-key"><i class="cn-b0"></i>neonate</span> <span class="cn-key"><i class="cn-b1"></i>infant</span> <span class="cn-key"><i class="cn-b2"></i>child</span> <span class="cn-key"><i class="cn-b3"></i>adolescent</span> <span class="cn-key"><i class="cn-b4"></i>adult</span> <span class="cn-key"><i class="cn-b5"></i>elderly</span> <span class="cn-key"><i class="cn-b6"></i>not stated</span>. Every bar is drawn to the same linear scale, so its length is the row's case samples. <span class="cn-legacy">†</span> this condition also has a retired EFO id, which the Ids column names on hover.</p>
+
+<section class="sp-details" aria-label="Detail">
+<details class="sp-more"><summary>What these numbers count</summary>
+<p class="small">Counts are of samples whose health-condition label names the condition as the sampled person's main condition; each case sample counts under one condition only. Labels come from the projects' archive records, supplementary tables, paper text and abstracts; the split per source is on <a href="../fields/index.html">Fields &amp; vocabularies</a>. They were mapped to EFO 3.96.0 and MONDO (2026-11-03) by two or three independent readings. Some labels name a symptom or a finding rather than a disease (66 rows); these carry an HP or an Orphanet identifier.</p>
+<p class="small">Healthy controls are the samples labelled healthy in the projects that also hold cases of the condition; they are not matched controls. <b>Cases</b> counts every state of the condition together; the tooltip names the states that are recorded — current, treated or in remission, at risk or before onset, history of the condition — and the rest are not stated. <b>Profiled</b> counts the case samples with a community profile. <b>Projects</b> and <b>Cases</b> count the condition's own term; each condition's section also gives the totals including its narrower terms.</p>
+<p class="small">The three tables are rebuilt on each release from that release's labels and its condition terms; the ontology relations (broader and narrower terms) and every replication column are carried unchanged from the registered replication run, so they do not move with the catalog. The replication numbers are the registered result of the test run on 2026-11-15 (strict mapping, primary analysis): over the 24 conditions tested in their own right, 515 of 1,918 testable claims replicated. A row marked “tested as” a named broader condition shows the result for that broader condition, not for the row's own condition; 220 rows are marked that way. The 224 replicated associations of 19 conditions are listed in each condition's section, and in full on <a href="replication.html">Replication of published findings</a>.</p>
+</details>
+<details class="sp-more"><summary>Limits</summary>
+<p class="small">A condition with no row is not necessarily absent from the catalog. Counted on this release's labels, 215 label strings — distinct pairs of a health-condition code and its detail text on current samples — name a condition for which no ontology term was found, and 32 are unclear or unsettled. Those samples are in the shipped tables under their own label, and on the pages of their projects.</p>
+<p class="small">The catalog is a convenience sample of public data, not a survey: the number of projects and samples for a condition says how much public data exists, not how common the condition is. Countries, age groups and body sites are curated from the projects' own records and are missing for some samples, which is why every row carries a “not stated” band. Healthy controls come from the same projects as the cases, so they are not matched on age, sex or country.</p>
+</details>
+<details class="sp-more"><summary>Downloads</summary>
+<p class="small"><a href="../data/conditions/condition_explorer.csv">condition_explorer.csv</a> (785 rows, one per condition) · <a href="../data/conditions/condition_explorer_projects.csv">condition_explorer_projects.csv</a> (2,994 rows, one per condition and project) · <a href="../data/conditions/condition_explorer_associations.csv">condition_explorer_associations.csv</a> (224 rows) · <a href="../downloads/index.html">all downloads</a>. The samples themselves, with every value's source, are in <a href="../samples/index.html">Samples</a>.</p>
+</details>
+</section>
+
+</main>
+<footer role="contentinfo">
+<div class="site-policies"><a href="../about/accessibility.html">Accessibility</a> · <a href="../about/accessibility.html#privacy">Privacy &amp; analytics</a> · <a href="../about/accessibility.html#security">Security</a> · <a href="../about/accessibility.html#contact">Contact</a></div>
+<div id="release-line"><b>Microbiome Repo</b> · release <a href="../downloads/index.html#rel-R2026.44"><span class="mono">R2026.44</span></a> · package <span class="mono">1.35.0</span> · <a href="https://doi.org/10.5281/zenodo.23087712">DOI</a> · <a href="../changes/R2026.44.html">what changed</a> · <a href="../about/index.html">About &amp; citation</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> · <a href="https://www.colorado.edu/lab/olm/">Olm Lab at the University of Colorado Boulder</a></div>
+<div class="muted">Built with an LLM-assisted pipeline: every value links to the text it was read from, with its source and confidence — treat values as evidence-linked claims; corrections and missing metadata are welcome via <a href="../contribute/index.html">Contribute</a>.</div>
+</footer>
+
+
+<script>window.CATALOG={version:'1.35.0',release:'data-v1.35.0',releaseId:'R2026.44',issueRepo:'https://github.com/OlmLab/microbiome_repo/issues/new',issueTemplate:'simple-finding.yml',issueLabel:'finding'};</script>
+<script src="../static/site.js"></script>
+
+<script>window.SP_PAGE={page:'conditions',root:'../',dataDir:'../data/conditions/',samplesHref:'../samples/index.html',studyPage:'../studies/',taxaHref:'taxa/index.html',replicationHref:'replication.html',olsBase:'https://www.ebi.ac.uk/ols4/ontologies/'};</script>
+<script src="../static/sp_core.js"></script>
+<script src="../static/sp_conditions.js"></script>
+
+</body>
+</html>

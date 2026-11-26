@@ -1,0 +1,57 @@
+{
+ "slug": "Pilosibacter",
+ "taxon": "g__Pilosibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Pilosibacter",
+ "name_note": "The GTDB genus g__Pilosibacter corresponds to the genus Pilosibacter, whose described species include Pilosibacter fragilis and Pilosibacter rotomagensis; many catalog genomes carry older Clostridium names.",
+ "sentences": [
+  {
+   "text": "Pilosibacter is a genus of Gram-positive, obligately anaerobic bacteria proposed for strains isolated from the faeces of healthy people.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Pilosibacter fragilis was initially placed in the family Clostridiaceae, and a later study proposed transferring the genus Pilosibacter to the family Lachnospiraceae.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A strain described as the species Pilosibacter rotomagensis was isolated from the gut microbiota of healthy individuals and reported to be a potent butyrate producer.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That strain is described as anaerobic, Gram-stain-positive, non-motile and non-spore-forming, with optimal growth reported at 37 degrees Celsius and pH between 5.7 and 7.0.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Yan Y, Zhao QH, Xu C, Wei RQ, Jiang H, Liu SJ.",
+   "title": "Anaerolentibacter hominis gen. nov. sp. nov., Diplocloster hominis sp. nov. and Pilosibacter fragilis gen. nov. sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "38687183",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.006359"
+  },
+  {
+   "authors": "Gloanec N, Huré M, Bailly L, Petit É, Loutelier-Bourhis C, Goux D, Coëffier M, Ribet D.",
+   "title": "Pilosibacter rotomagensis sp. nov., a Butyrate-Producing Bacterium Isolated from Human Faeces.",
+   "journal": "Current microbiology",
+   "year": 2026,
+   "pmid": "42047869",
+   "n": 2,
+   "doi": "10.1007/s00284-026-04906-1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

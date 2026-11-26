@@ -1,0 +1,60 @@
+{
+ "slug": "Oliverpabstia_tarda",
+ "taxon": "s__Oliverpabstia tarda",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Oliverpabstia intestinalis",
+ "name_note": "GTDB calls this species Oliverpabstia tarda, while the genomes it holds carry the NCBI names Oliverpabstia intestinalis and Blautia tarda; the cited papers name the genus Oliverpabstia or the species Oliverpabstia intestinalis.",
+ "sentences": [
+  {
+   "text": "A multicentre study of Parkinson disease that linked caffeine metabolites to gut microbiome alterations by shotgun metagenomic sequencing named Oliverpabstia intestinalis among the species examined.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A three-month lifestyle intervention in individuals with metabolic syndrome was reported to increase butyrate-producing and anti-inflammatory genera including Oliverpabstia.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a study where sows received antibiotics or saline during gestation, Oliverpabstia in piglet faeces was positively associated with growth.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Chen CC, Chiu JY, Tan AH, Toh TS, Lim SY, Tan EK, Pettersson S, Hsu CC, Liou JM, Wu MS, Hsu CL, Lin CH.",
+   "title": "Investigating Plasma Metabolomics and Gut Microbiota Changes Associated With Parkinson Disease: A Focus on Caffeine Metabolism.",
+   "journal": "Neurology",
+   "year": 2025,
+   "pmid": "40273394",
+   "n": 1,
+   "doi": "10.1212/wnl.0000000000213592"
+  },
+  {
+   "authors": "Shehata F, Dwyer KM, Axtens M, McGee SL, Rivera LR.",
+   "title": "Impact of a Lifestyle Intervention on Gut Microbiome Composition: A Quasi-Controlled Before-and-After Analysis.",
+   "journal": "Metabolites",
+   "year": 2025,
+   "pmid": "41295278",
+   "n": 2,
+   "doi": "10.3390/metabo15110692"
+  },
+  {
+   "authors": "Mahmud MR, Orro T, Munsterhjelm C, Pessa-Morikawa T, Ahlqvist K, Junnikkala S, König E, Pujolassos M, Calle ML, Kwon HN, Oliviero C, Heinonen M, Niku M.",
+   "title": "Impact of gestational antibiotics on maternal and offspring gut microbiota and growth in pigs",
+   "journal": "",
+   "year": 2025,
+   "pmid": null,
+   "n": 3,
+   "doi": "10.1101/2025.11.08.687112"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

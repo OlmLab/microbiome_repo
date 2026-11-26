@@ -1,0 +1,51 @@
+{
+ "slug": "Faecalibacterium_hattorii",
+ "taxon": "s__Faecalibacterium hattorii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium hattorii",
+ "name_note": "Most genomes GTDB places here carry the NCBI name Faecalibacterium prausnitzii; Faecalibacterium hattorii was separated from F. prausnitzii in a genome-based re-evaluation.",
+ "sentences": [
+  {
+   "text": "Faecalibacterium hattorii was proposed as a novel species of the genus Faecalibacterium, with type strain JCM 39210, in a re-evaluation of strains deposited as Faecalibacterium prausnitzii.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That re-evaluation describes Faecalibacterium prausnitzii as one of the most important butyrate-producing bacteria in the human gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Faecalibacterium hattorii APC922/41-1 was among the closest neighbours of two obligately anaerobic, butyrate-producing strains isolated from faecal samples of healthy Taiwanese adults.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Sakurai N, Tanno H, Iino T, Ohkuma M, Endo A.",
+   "title": "Genome-based, phenotypic and chemotaxonomic classification of Faecalibacterium strains: proposal of three novel species Faecalibacterium duncaniae sp. nov., Faecalibacterium hattorii sp. nov. and Faecalibacterium gallinarum sp. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2022,
+   "pmid": "35416766",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.005379"
+  },
+  {
+   "authors": "Liou JS, Zhang WL, Hsu LW, Chen CC, Wang YT, Mori K, Hidaka K, Hamada M, Huang L, Watanabe K, Huang CH.",
+   "title": "<i>Faecalibacterium taiwanense</i> sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "38848117",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.006413"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

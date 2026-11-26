@@ -1,0 +1,91 @@
+{
+ "slug": "Alistipes_shahii",
+ "taxon": "s__Alistipes shahii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Alistipes shahii",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Alistipes shahii is a commensal bacterium of the human gut and belongs to the genus Alistipes in the family Rikenellaceae, phylum Bacteroidetes.",
+   "refs": [
+    2,
+    5
+   ]
+  },
+  {
+   "text": "It produces indole from tryptophan using tryptophanase, the rate-limiting step of microbial indole production in the intestine.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that lower abundance of this species lowered intestinal indole in irritable bowel syndrome patients and model mice, describing a gut-brain pathway through hippocampal indole-AhR signalling.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a bread trial, Alistipes shahii increased significantly after intake of sourdough bread compared with baker's yeast bread.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In a preclinical mouse model, administration of Alistipes shahii improved the efficacy of oncolytic adenovirus therapy.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wang TT, Luo YJ, et al.",
+   "title": "Gut microbial metabolism via hippocampal indole-AhR signaling regulates emotional symptoms",
+   "journal": "Cell metabolism",
+   "year": 2026,
+   "pmid": "41928504",
+   "n": 1,
+   "doi": "10.1016/j.cmet.2026.03.003"
+  },
+  {
+   "authors": "Kim M, Vuong HE.",
+   "title": "Indole-AhR signaling shapes emotional regulation",
+   "journal": "Cell reports",
+   "year": 2026,
+   "pmid": "42678806",
+   "n": 2,
+   "doi": "10.1016/j.celrep.2026.117747"
+  },
+  {
+   "authors": "Watters SIN, Henriksen C, et al.",
+   "title": "Sourdough Bread and Baker's Yeast Bread Affect Gut Symptoms and Targeted Gut Microbial Taxa Differently: A Randomised Controlled Trial",
+   "journal": "Nutrients",
+   "year": 2026,
+   "pmid": "42739025",
+   "n": 3,
+   "doi": "10.3390/nu18172854"
+  },
+  {
+   "authors": "van der Heijden M, Clubb JHA, et al.",
+   "title": "Alistipes and Eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short-chain fatty acid metabolism",
+   "journal": "Oncoimmunology",
+   "year": 2026,
+   "pmid": "41957950",
+   "n": 4,
+   "doi": "10.1080/2162402x.2026.2656514"
+  },
+  {
+   "authors": "Sakamoto M, Ikeyama N, et al.",
+   "title": "Alistipes communis sp. nov., Alistipes dispar sp. nov. and Alistipes onderdonkii subsp. vulgaris subsp. nov., isolated from human faeces, and creation of Alistipes onderdonkii subsp. onderdonkii subsp. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2020,
+   "pmid": "31633480",
+   "n": 5,
+   "doi": "10.1099/ijsem.0.003778"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

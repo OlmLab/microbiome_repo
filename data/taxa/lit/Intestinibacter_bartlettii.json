@@ -1,0 +1,60 @@
+{
+ "slug": "Intestinibacter_bartlettii",
+ "taxon": "s__Intestinibacter bartlettii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Intestinibacter bartlettii",
+ "name_note": "The species was described as Clostridium bartlettii and later reclassified into the genus Intestinibacter.",
+ "sentences": [
+  {
+   "text": "Intestinibacter bartlettii was created by reclassifying Clostridium bartlettii into a novel genus, of which it is the type species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A real-time PCR analysis of faeces from 18 healthy adults identified predominant colonization of Intestinibacter bartlettii in the human large intestine.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A randomized trial in overweight or obese adults reported that metformin treatment decreased Intestinibacter bartlettii at both 6 and 12 months compared with control.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Gerritsen J, Fuentes S, Grievink W, van Niftrik L, Tindall BJ, Timmerman HM, Rijkers GT, Smidt H.",
+   "title": "Characterization of Romboutsia ilealis gen. nov., sp. nov., isolated from the gastro-intestinal tract of a rat, and proposal for the reclassification of five closely related members of the genus Clostridium into the genera Romboutsia gen. nov., Intestinibacter gen. nov., Terrisporobacter gen. nov. and Asaccharospora gen. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2014,
+   "pmid": "24480908",
+   "n": 1,
+   "doi": "10.1099/ijs.0.059543-0"
+  },
+  {
+   "authors": "Ohashi Y, Fujisawa T.",
+   "title": "Analysis of Clostridium cluster XI bacteria in human feces.",
+   "journal": "Bioscience of microbiota, food and health",
+   "year": 2019,
+   "pmid": "31106109",
+   "n": 2,
+   "doi": "10.12938/bmfh.18-023"
+  },
+  {
+   "authors": "Mueller NT, Differding MK, Zhang M, Maruthur NM, Juraschek SP, Miller ER, Appel LJ, Yeh HC.",
+   "title": "Metformin Affects Gut Microbiome Composition and Function and Circulating Short-Chain Fatty Acids: A Randomized Trial.",
+   "journal": "Diabetes care",
+   "year": 2021,
+   "pmid": "34006565",
+   "n": 3,
+   "doi": "10.2337/dc20-2257"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

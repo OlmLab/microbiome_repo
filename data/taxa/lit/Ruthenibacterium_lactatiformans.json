@@ -1,0 +1,81 @@
+{
+ "slug": "Ruthenibacterium_lactatiformans",
+ "taxon": "s__Ruthenibacterium lactatiformans",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Ruthenibacterium lactatiformans",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Ruthenibacterium lactatiformans is a Gram-stain-negative, rod-shaped, obligately anaerobic, non-spore-forming and non-motile bacterium of the family Ruminococcaceae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The strains on which the species was based were isolated from the faeces of healthy human subjects and produce d-lactic acid, succinic acid and acetic acid from glucose fermentation.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study comparing multiple sclerosis patients with household healthy controls reported a significantly increased proportion of Ruthenibacterium lactatiformans in patients.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of rheumatoid arthritis reported significantly lower abundance of Ruthenibacterium lactatiformans in the patient group.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study of major depressive disorder reported elevated abundance of Ruthenibacterium lactatiformans in the gut microbiota of patients.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Shkoporov AN, Chaplin AV, Shcherbakova VA, Suzina NE, Kafarskaia LI, Bozhenko VK, Efimov BA.",
+   "title": "Ruthenibacterium lactatiformans gen. nov., sp. nov., an anaerobic, lactate-producing member of the family Ruminococcaceae isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2016,
+   "pmid": "27154556",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.001143"
+  },
+  {
+   "authors": "iMSMS Consortium. Electronic address: sergio.baranzini@ucsf.edu, iMSMS Consortium.",
+   "title": "Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course",
+   "journal": "Cell",
+   "year": 2022,
+   "pmid": "36113426",
+   "n": 2,
+   "doi": "10.1016/j.cell.2022.08.021"
+  },
+  {
+   "authors": "Lee JY, Mannaa M, Kim Y, Kim J, Kim GT, Seo YS.",
+   "title": "Comparative Analysis of Fecal Microbiota Composition Between Rheumatoid Arthritis and Osteoarthritis Patients",
+   "journal": "Genes",
+   "year": 2019,
+   "pmid": "31557878",
+   "n": 3,
+   "doi": "10.3390/genes10100748"
+  },
+  {
+   "authors": "Kovtun AS, Averina OV, Angelova IY, Yunes RA, Zorkina YA, Morozova AY, Pavlichenko AV, Syunyakov TS, Karpenko OA, Kostyuk GP, Danilenko VN.",
+   "title": "Alterations of the Composition and Neurometabolic Profile of Human Gut Microbiota in Major Depressive Disorder",
+   "journal": "Biomedicines",
+   "year": 2022,
+   "pmid": "36140263",
+   "n": 4,
+   "doi": "10.3390/biomedicines10092162"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

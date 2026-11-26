@@ -1,0 +1,72 @@
+{
+ "slug": "Enterocloster_bolteae",
+ "taxon": "s__Enterocloster bolteae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Enterocloster bolteae (described as Clostridium bolteae)",
+ "name_note": "Most genomes GTDB places here carry the NCBI name Enterocloster bolteae; the species was originally described under the name Clostridium bolteae, which the older literature uses.",
+ "sentences": [
+  {
+   "text": "The species was described from seven obligately anaerobic, gram-positive, rod-shaped, spore-forming organisms isolated from human sources and named Clostridium bolteae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Strains used carbohydrate as fermentable substrates, producing acetic acid and lactic acid as the major products of glucose metabolism.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "C. bolteae and C. clostridioforme prevail in the human intestinal microbiota and are described as opportunistic pathogens with various drug susceptibility patterns.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Genomes of strains isolated from human infection harboured many coding sequences involved in resistance to beta-lactams, glycopeptides, macrolides, aminoglycosides and tetracyclines.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A report describes C. bolteae as overabundant in the intestinal tract of autistic children with gastrointestinal ailments, and found it produces a capsular polysaccharide immunogenic in rabbits.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Song Y, Liu C, et al.",
+   "title": "Clostridium bolteae sp. nov., isolated from human sources.",
+   "journal": "Systematic and applied microbiology",
+   "year": 2003,
+   "pmid": "12747414",
+   "n": 1,
+   "doi": "10.1078/072320203322337353"
+  },
+  {
+   "authors": "Dehoux P, Marvaud JC, et al.",
+   "title": "Comparative genomics of Clostridium bolteae and Clostridium clostridioforme reveals species-specific genomic properties and numerous putative antibiotic resistance determinants.",
+   "journal": "BMC genomics",
+   "year": 2016,
+   "pmid": "27769168",
+   "n": 2,
+   "doi": "10.1186/s12864-016-3152-x"
+  },
+  {
+   "authors": "Pequegnat B, Sagermann M, et al.",
+   "title": "A vaccine and diagnostic target for Clostridium bolteae, an autism-associated bacterium.",
+   "journal": "Vaccine",
+   "year": 2013,
+   "pmid": "23602537",
+   "n": 3,
+   "doi": "10.1016/j.vaccine.2013.04.018"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

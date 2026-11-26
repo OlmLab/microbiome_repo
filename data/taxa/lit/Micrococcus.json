@@ -1,0 +1,81 @@
+{
+ "slug": "Micrococcus",
+ "taxon": "g__Micrococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Micrococcus luteus",
+ "name_note": "The GTDB genus Micrococcus corresponds to the classical genus of that name; most of its genomes are Micrococcus luteus, the species these sentences describe.",
+ "sentences": [
+  {
+   "text": "Micrococcus luteus is a gram-positive, coagulase-negative coccus commonly regarded as a non-pathogenic commensal organism of human skin.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative genomic study calls it ubiquitously distributed, selecting strains from six different isolation sources, with genome sizes ranging from 2.4 to 2.8 Mb.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It is a high-GC gram-positive species that has been recognized historically for natural transformation, the uptake of extracellular DNA into the genome.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study reported that a skin isolate of M. luteus attenuated Staphylococcus aureus-induced release of IL-33 and TSLP from keratinocytes through a secreted serine protease.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "Although frequently considered a contaminant in blood cultures, it has been reported as an opportunistic pathogen, including a case of septic shock with repeatedly positive cultures.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Alajab J, Sooch MK, et al.",
+   "title": "When a Contaminant Is Not a Contaminant: A Case Report of Micrococcus luteus Causing Septic Shock in the Absence of Traditional Risk Factors",
+   "journal": "Cureus",
+   "year": 2026,
+   "pmid": "42936793",
+   "n": 1,
+   "doi": "10.7759/cureus.118562"
+  },
+  {
+   "authors": "Kabiraj A, Khan D, et al.",
+   "title": "Unveiling the genomic secrets of Micrococcus luteus through a comprehensive comparative genomics approach",
+   "journal": "Frontiers in genetics",
+   "year": 2026,
+   "pmid": "42170010",
+   "n": 2,
+   "doi": "10.3389/fgene.2026.1778782"
+  },
+  {
+   "authors": "Lichev A, Angelov A, et al.",
+   "title": "Cell density and single-cell heterogeneity reveal distinct competence induction dynamics in the high-GC Gram-positive Micrococcus luteus",
+   "journal": "BMC microbiology",
+   "year": 2026,
+   "pmid": "41572162",
+   "n": 3,
+   "doi": "10.1186/s12866-026-04757-7"
+  },
+  {
+   "authors": "Elias AE, Pennock JL, et al.",
+   "title": "A skin isolate of Micrococcus luteus negates the Staphylococcus aureus-induced release of type 2 cytokines from keratinocytes",
+   "journal": "Frontiers in immunology",
+   "year": 2026,
+   "pmid": "41685303",
+   "n": 4,
+   "doi": "10.3389/fimmu.2026.1711723"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

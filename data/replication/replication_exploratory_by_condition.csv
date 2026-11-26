@@ -1,0 +1,79 @@
+analysis,condition,testable,registered_replicated,registered_rate,uncorrected,uncorrected_rate,uncorrected_opposite,mean_share_projects_claimed_direction,chance_mean,chance_q025,chance_q975,chance_max,permutation_p,tested,bh,case_persons,control_persons
+uncorrected (testable claims),Parkinson's disease,562,255,0.453737,338,0.601423,45,0.711742,0.0420979,0.00711744,0.108674,0.220641,0.000999001,,,,
+uncorrected (testable claims),Obesity,223,36,0.161435,53,0.237668,18,0.55766,0.0424978,0.0044843,0.0987668,0.201794,0.000999001,,,,
+uncorrected (testable claims),COVID-19,210,53,0.252381,71,0.338095,17,0.670238,0.0391524,0,0.12381,0.195238,0.000999001,,,,
+uncorrected (testable claims),Gestational diabetes,139,1,0.00719424,10,0.0719424,11,0.486811,0.0407698,0,0.115108,0.215827,0.176823,,,,
+uncorrected (testable claims),Type II diabetes mellitus,116,6,0.0517241,16,0.137931,6,0.54181,0.0440259,0,0.112284,0.232759,0.016983,,,,
+uncorrected (testable claims),Schizophrenia,85,7,0.0823529,12,0.141176,5,0.556863,0.0397412,0,0.129706,0.223529,0.025974,,,,
+uncorrected (testable claims),Autoimmune disease,74,6,0.0810811,14,0.189189,7,0.534221,0.0455811,0,0.135135,0.243243,0.004995,,,,
+uncorrected (testable claims),Irritable bowel syndrome,73,4,0.0547945,4,0.0547945,3,0.543379,0.0380685,0,0.178082,0.315068,0.292707,,,,
+uncorrected (testable claims),Ulcerative colitis,63,33,0.52381,38,0.603175,7,0.704289,0.0436825,0,0.126984,0.222222,0.000999001,,,,
+uncorrected (testable claims),Multiple sclerosis,62,4,0.0645161,14,0.225806,0,0.650538,0.0421935,0,0.129032,0.225806,0.001998,,,,
+uncorrected (testable claims),Chronic fatigue syndrome,52,23,0.442308,28,0.538462,3,0.832692,0.0400769,0,0.135096,0.288462,0.000999001,,,,
+uncorrected (testable claims),Crohn's disease,52,39,0.75,41,0.788462,0,0.832624,0.0438269,0,0.153846,0.288462,0.000999001,,,,
+uncorrected (testable claims),Diabetes mellitus,43,11,0.255814,13,0.302326,9,0.539333,0.0433023,0,0.139535,0.255814,0.000999001,,,,
+uncorrected (testable claims),Inflammatory bowel disease,36,25,0.694444,27,0.75,2,0.7712,0.0352222,0,0.138889,0.277778,0.000999001,,,,
+uncorrected (testable claims),Autism spectrum disorder,26,2,0.0769231,4,0.153846,4,0.474359,0.045,0,0.192308,0.307692,0.0949051,,,,
+uncorrected (testable claims),Rheumatoid arthritis,24,0,0,3,0.125,1,0.588393,0.0482083,0,0.208333,0.333333,0.183816,,,,
+uncorrected (testable claims),Colorectal adenoma,22,1,0.0454545,5,0.227273,1,0.595599,0.0407273,0,0.181818,0.227273,0.00799201,,,,
+uncorrected (testable claims),Cardiovascular disease,20,0,0,2,0.1,1,0.561171,0.0434,0,0.2,0.4,0.257742,,,,
+uncorrected (testable claims),Type I diabetes mellitus,18,4,0.222222,7,0.388889,0,0.768519,0.0406111,0,0.222222,0.444444,0.002997,,,,
+uncorrected (testable claims),Mood disorder,11,4,0.363636,5,0.454545,0,0.787879,0.0404545,0,0.272727,0.454545,0.003996,,,,
+uncorrected (testable claims),Ankylosing spondylitis,3,0,0,0,0,0,0.666667,0.0423333,0,0.333333,0.666667,1,,,,
+uncorrected (testable claims),Hypertension,2,0,0,0,0,0,0.25,0.046,0,0.5,1,1,,,,
+uncorrected (testable claims),Psychiatric disorder,1,1,1,1,1,0,0.75,0.045,0,1,1,0.045954,,,,
+uncorrected (testable claims),Cancer,1,0,0,1,1,0,0.8,0.036,0,1,1,0.036963,,,,
+tested in one cohort,Allergic rhinitis,,,,1,0.166667,0,,,,,,,6,0,26,28
+tested in one cohort,Alzheimer's disease,,,,7,0.12069,3,,,,,,,58,3,48,99
+tested in one cohort,Ankylosing spondylitis,,,,0,0,1,,,,,,,2,0,107,34
+tested in one cohort,Asthma,,,,1,0.5,0,,,,,,,2,0,22,153
+tested in one cohort,Atopic eczema,,,,1,0.0277778,2,,,,,,,36,0,189,94
+tested in one cohort,Atrial fibrillation,,,,1,0.5,1,,,,,,,2,1,41,44
+tested in one cohort,Autism,,,,5,0.227273,4,,,,,,,22,0,16,20
+tested in one cohort,Bipolar disorder,,,,0,0,0,,,,,,,3,0,39,24
+tested in one cohort,Breast cancer,,,,31,0.329787,22,,,,,,,94,25,236,285
+tested in one cohort,Cholestasis,,,,1,1,0,,,,,,,1,1,49,39
+tested in one cohort,Chronic constipation,,,,27,0.3,19,,,,,,,90,18,47,61
+tested in one cohort,Chronic kidney disease,,,,52,0.448276,26,,,,,,,116,43,206,66
+tested in one cohort,Chronic obstructive pulmonary disease,,,,5,0.227273,0,,,,,,,22,1,39,46
+tested in one cohort,Constipation,,,,0,0,1,,,,,,,4,0,47,61
+tested in one cohort,Coronary artery disease,,,,0,0,1,,,,,,,9,0,15,23
+tested in one cohort,Dementia,,,,1,0.25,0,,,,,,,4,0,48,99
+tested in one cohort,Depressive disorder,,,,2,0.181818,0,,,,,,,11,2,36,39
+tested in one cohort,Diarrhea,,,,0,0,0,,,,,,,14,0,46,44
+tested in one cohort,Endometrial cancer,,,,6,1,0,,,,,,,6,6,32,285
+tested in one cohort,Fibromyalgia,,,,6,0.352941,1,,,,,,,17,4,73,62
+tested in one cohort,Food allergy,,,,1,0.0243902,3,,,,,,,41,0,27,28
+tested in one cohort,Gastric cancer,,,,3,1,0,,,,,,,3,2,40,285
+tested in one cohort,HIV infection,,,,36,0.507042,10,,,,,,,71,21,322,257
+tested in one cohort,Intestinal polyp,,,,0,0,0,,,,,,,1,0,27,29
+tested in one cohort,Kidney disease,,,,2,0.333333,1,,,,,,,6,0,22,285
+tested in one cohort,Lung cancer,,,,4,0.571429,2,,,,,,,7,4,91,285
+tested in one cohort,Major depressive disorder,,,,0,0,2,,,,,,,5,0,36,39
+tested in one cohort,Malnutrition,,,,0,0,0,,,,,,,1,0,53,55
+tested in one cohort,Milk allergic reaction,,,,0,0,0,,,,,,,7,0,27,28
+tested in one cohort,Multiple myeloma,,,,4,0.190476,4,,,,,,,21,1,55,285
+tested in one cohort,Nephrolithiasis,,,,1,0.111111,0,,,,,,,9,0,15,16
+tested in one cohort,Non-alcoholic fatty liver disease,,,,1,0.0666667,2,,,,,,,15,0,73,82
+tested in one cohort,Pancreatic carcinoma,,,,18,0.461538,6,,,,,,,39,17,48,285
+tested in one cohort,Preeclampsia,,,,0,0,0,,,,,,,3,0,47,51
+tested in one cohort,Psoriasis,,,,9,0.310345,4,,,,,,,29,6,17,23
+tested in one cohort,Psoriatic arthritis,,,,1,0.2,0,,,,,,,5,1,18,23
+tested in one cohort,Pulmonary tuberculosis,,,,3,0.333333,0,,,,,,,9,2,20,41
+tested in one cohort,REM sleep behavior disorder,,,,0,0,0,,,,,,,3,0,26,47
+tested in one cohort,Relapsing-remitting multiple sclerosis,,,,7,0.259259,2,,,,,,,27,3,52,27
+tested in one cohort,Schizophrenia,,,,0,0,2,,,,,,,10,0,43,43
+tested in one cohort,Sleep Disorder,,,,3,0.5,0,,,,,,,6,0,26,47
+tested in two cohorts,Allergic rhinitis,,,,0,0,0,,,,,,,9,0,42,44
+tested in two cohorts,Ankylosing spondylitis,,,,2,0.1,3,,,,,,,20,0,186,53
+tested in two cohorts,Asthma,,,,3,0.0833333,1,,,,,,,36,0,56,203
+tested in two cohorts,Constipation,,,,11,0.458333,2,,,,,,,24,8,86,81
+tested in two cohorts,Depressive disorder,,,,9,0.346154,0,,,,,,,26,4,65,74
+tested in two cohorts,Gastric cancer,,,,9,0.5,0,,,,,,,18,5,56,397
+tested in two cohorts,HIV infection,,,,27,0.232759,5,,,,,,,116,25,442,282
+tested in two cohorts,Kidney disease,,,,2,0.181818,2,,,,,,,11,0,37,301
+tested in two cohorts,Lung cancer,,,,7,0.304348,7,,,,,,,23,6,121,397
+tested in two cohorts,Major depressive disorder,,,,2,0.0645161,5,,,,,,,31,0,65,74
+tested in two cohorts,Pulmonary tuberculosis,,,,1,0.2,0,,,,,,,5,1,39,59
+tested in two cohorts,Schizophrenia,,,,1,0.2,0,,,,,,,5,0,76,67
+tested in two cohorts,Unipolar depression,,,,2,0.111111,1,,,,,,,18,0,65,74

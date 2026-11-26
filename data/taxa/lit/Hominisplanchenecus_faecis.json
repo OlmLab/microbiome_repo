@@ -1,0 +1,66 @@
+{
+ "slug": "Hominisplanchenecus_faecis",
+ "taxon": "s__Hominisplanchenecus faecis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalicatena fissicatena",
+ "name_note": "GTDB names this species Hominisplanchenecus faecis, while most of its genomes carry the NCBI name Faecalicatena fissicatena, the name used in the papers cited here.",
+ "sentences": [
+  {
+   "text": "Faecalicatena fissicatena belongs to the Lachnospiraceae, described as the most common gram-positive bacteria in the gut.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of anaerobic riboflavin degradation describes Faecalicatena fissicatena as the only other anaerobe reported to degrade riboflavin.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative study reported Faecalicatena fissicatena among short-chain fatty acid-producing bacteria reduced in a Parkinson's disease-associated microbial signature.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In patients with systemic sclerosis, higher ultra-processed food consumption was associated with a negative coefficient for Faecalicatena fissicatena.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Quiles Pérez CJ, Olzak A, Fofana A, Deep K, Carlisle C, Bradley E, Kananen K, Beaver L, Skaggs C, North JA, Bradley PH.",
+   "title": "Anaerobic riboflavin degradation by human gut <i>Lachnospiraceae</i>.",
+   "journal": "Journal of bacteriology",
+   "year": 2026,
+   "pmid": "42474292",
+   "n": 1,
+   "doi": "10.1128/jb.00108-26"
+  },
+  {
+   "authors": "De Jaegher S, Pinzauti D, D'Aguanno M, Parkinson E, Schofield J, Strazzeri F, Skipp P, Penrice-Randal R, Kunicki A, McCausland B, Kipps C, Amin J, Biazzo M.",
+   "title": "Identifying microbial biomarkers of neurodegeneration: a comparative study in Alzheimer's and Parkinson's disease.",
+   "journal": "Frontiers in microbiomes",
+   "year": 2026,
+   "pmid": "42206189",
+   "n": 2,
+   "doi": "10.3389/frmbi.2026.1831956"
+  },
+  {
+   "authors": "Lee JY, Mahurkar-Joshi S, Young A, Labus JS, He B, Aja E, Jacobs JP, Volkmann ER.",
+   "title": "Ultra-processed food intake is associated with increased gastrointestinal tract symptoms and alterations in gut microbiota in patients with systemic sclerosis.",
+   "journal": "Frontiers in immunology",
+   "year": 2025,
+   "pmid": "41142817",
+   "n": 3,
+   "doi": "10.3389/fimmu.2025.1610360"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

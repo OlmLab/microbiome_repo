@@ -1,0 +1,12 @@
+check,label,level,n_ni,n_ref,tested_published,tested_check,VANISH_baseline,VANISH_check,VANISH_kept,VANISH_lost_not_tested,VANISH_lost_tested_no_class,VANISH_lost_other_class,VANISH_new_in_check,VANISH_baseline_same_sign_in_check,BloSSUM_baseline,BloSSUM_check,BloSSUM_kept,BloSSUM_lost_not_tested,BloSSUM_lost_tested_no_class,BloSSUM_lost_other_class,BloSSUM_new_in_check,BloSSUM_baseline_same_sign_in_check,score_rank_correlation
+thr0.001,Detection at 0.1 % relative abundance or more,genus,781,27662,420,265,114,45,45,24,45,0,0,90,48,28,22,7,19,0,6,41,0.9925
+thr0.001,Detection at 0.1 % relative abundance or more,family,781,27662,105,81,28,16,15,4,9,0,1,24,7,4,4,1,2,0,0,6,0.9891
+thr0.005,Detection at 0.5 % relative abundance or more,species,781,27662,464,203,69,19,19,27,23,0,0,42,37,28,21,8,8,0,7,29,0.9757
+thr0.005,Detection at 0.5 % relative abundance or more,genus,781,27662,420,135,114,12,12,75,27,0,0,38,48,13,8,29,11,0,5,19,0.9543
+thr0.005,Detection at 0.5 % relative abundance or more,family,781,27662,105,52,28,10,8,14,5,1,2,13,7,5,3,3,1,0,2,4,0.942
+no_condition,Without samples that have a recorded health condition,species,793,16291,464,478,69,62,62,0,7,0,0,69,37,41,34,0,3,0,7,37,0.9952
+no_condition,Without samples that have a recorded health condition,genus,793,16291,420,426,114,91,89,0,25,0,2,114,48,46,43,0,5,0,3,48,0.9952
+no_condition,Without samples that have a recorded health condition,family,793,16291,105,104,28,20,20,0,8,0,0,28,7,7,7,0,0,0,0,7,0.9888
+hunter_gatherer,Hunter-gatherers only as the non-industrialized group,species,80,27662,464,646,69,64,38,1,30,0,26,68,37,52,29,0,8,0,23,37,0.9175
+hunter_gatherer,Hunter-gatherers only as the non-industrialized group,genus,80,27662,420,575,114,101,77,0,37,0,24,113,48,28,23,0,25,0,5,48,0.9531
+hunter_gatherer,Hunter-gatherers only as the non-industrialized group,family,80,27662,105,122,28,19,15,0,13,0,4,28,7,5,4,0,3,0,1,7,0.9201

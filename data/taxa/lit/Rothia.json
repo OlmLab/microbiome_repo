@@ -1,0 +1,92 @@
+{
+ "slug": "Rothia",
+ "taxon": "g__Rothia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Rothia",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Rothia species are Gram-positive cocco-bacilli placed in the family Micrococcaceae.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "They are regarded as part of the normal microflora of the human mouth and upper respiratory tract.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Oral isolates typed as Rothia mucilaginosa and Rothia aeria showed high gluten-degrading activity, identifying the genus as a natural coloniser of the upper gastro-intestinal tract.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "Rothia mucilaginosa is also often detectable in the lower airways in chronic lung disease, where it inhibited pathogen- and lipopolysaccharide-induced pro-inflammatory responses in laboratory models.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "Reviews describe the genus as an emerging opportunistic pathogen, and bacteraemia has been reported mainly in neutropenic patients with haematological malignancy.",
+   "refs": [
+    5,
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ramanan P, Barreto JN, et al.",
+   "title": "Rothia bacteremia: a 10-year experience at Mayo Clinic, Rochester, Minnesota",
+   "journal": "Journal of Clinical Microbiology",
+   "year": 2014,
+   "pmid": "24951810",
+   "n": 1,
+   "doi": "10.1128/jcm.01270-14"
+  },
+  {
+   "authors": "Maraki S, Papadakis IS",
+   "title": "Rothia mucilaginosa pneumonia: a literature review",
+   "journal": "Infectious Diseases (London)",
+   "year": 2015,
+   "pmid": "25664502",
+   "n": 2,
+   "doi": "10.3109/00365548.2014.980843"
+  },
+  {
+   "authors": "Zamakhchari M, Wei G, et al.",
+   "title": "Identification of Rothia bacteria as gluten-degrading natural colonizers of the upper gastro-intestinal tract",
+   "journal": "PLoS One",
+   "year": 2011,
+   "pmid": "21957450",
+   "n": 3,
+   "doi": "10.1371/journal.pone.0024455"
+  },
+  {
+   "authors": "Rigauts C, Aizawa J, et al.",
+   "title": "Rothia mucilaginosa is an anti-inflammatory bacterium in the respiratory tract of patients with chronic lung disease",
+   "journal": "European Respiratory Journal",
+   "year": 2022,
+   "pmid": "34588194",
+   "n": 4,
+   "doi": "10.1183/13993003.01293-2021"
+  },
+  {
+   "authors": "Fatahi-Bafghi M",
+   "title": "Characterization of the Rothia spp. and their role in human clinical infections",
+   "journal": "Infection, Genetics and Evolution",
+   "year": 2021,
+   "pmid": "33905886",
+   "n": 5,
+   "doi": "10.1016/j.meegid.2021.104877"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

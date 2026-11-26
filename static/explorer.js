@@ -1,0 +1,320 @@
+// Sample explorer — the catalog (every body site, all ages): DuckDB-WASM over data/catalog_sample_metadata_wide.parquet (+ catalog_studies.parquet
+// for titles), fully client-side, one row per sample. Same boot / failure pattern as registry_explorer.js. Values shown with their
+// source (archive record, supplementary table, paper text, abstract) and confidence; the verbatim evidence quotes
+// live in catalog_sample_determinations.parquet (Downloads) and per study in data/studies/<PRJ>_determinations.csv.gz.
+import { bootDuckDB } from './duckdb_boot.js';
+const CFG = window.CATALOG_CFG;
+const PAGE = 50;
+// core + key fields come from the field pack through CATALOG_CFG (item 7); detailed_location is derived from location_site/locality/region
+const FIELDS = [...(CFG.coreFields || ['age_at_collection_days', 'sex', 'country', 'health_condition', 'subject_id']), ...(CFG.keyFields || ['detailed_location', 'lifestyle', 'collection_date', 'antibiotic_exposure', 'bmi', 'timepoint_label'])];
+// R2026.16: depth (seq_gbp, bases summed over the sample's runs) and the sample's intervention arm are shown; BMI / body-site class stay in the detail panel; R2026.32: body site (core field) is a column
+const SHOW = ['sample_key', 'study_accession', 'body_site_code', 'age_category', 'age_at_collection_days', 'sex', 'country', 'health_condition', 'intervention', 'antibiotic_exposure', 'subject_id', 'seq_gbp'];
+const LOC_PARTS = ['location_site', 'location_locality', 'location_region'];
+// R2026.44: the three columns the condition filter needs. The filter matches on the two id columns; the name column is
+// used only as a fallback for a name that is not in the condition list. A package without them hides the filter.
+const COND_COLS = ['health_condition_efo_id', 'health_condition_mondo_id', 'health_condition_name'];
+const HDR = {seq_gbp: 'sequence data (Gbp)', body_site_code: 'body site', age_category: 'age group', age_at_collection_days: 'age (days)', health_condition: 'condition', antibiotic_exposure: 'antibiotics', subject_id: 'person id', intervention: 'intervention', study_accession: 'project', sample_key: 'sample'};
+// R2026.43 (F517): age_category_basis in words (build_gut_scope.py writes these eight values)
+const AGE_BASIS = {age_at_collection_days: 'from an exact age', sample_life_stage: "from the sample's own age attribute", r3_fulltext_life_stage: 'from a statement in the paper text', r4_abstract_life_stage: 'from a statement in the abstract', study_life_stage: "from the project's single life stage", infant_catalog_age_scope: 'from the curated age range of this project', control_sample: 'a control sample, so no age', unknown: 'not stated'};
+let COLS = new Set();   // columns present in the wide table (filled at boot); absent columns are omitted, never rendered as empty
+const archiveUrl = acc => { if (!acc) return null; const a = String(acc); if (/^[SED]RR\d+$/.test(a)) return CFG.archive.RUN + a; return (CFG.archive[a.slice(0, 4)] || CFG.archive.SAME) + a; };
+const archiveLink = (acc, label) => { const u = archiveUrl(acc); return u ? `<a class="small" href="${u}">${h(label || 'archive')}</a>` : ''; };
+const detailedLocation = s => LOC_PARTS.filter(p => COLS.has(p) && s[p] !== null && s[p] !== undefined && s[p] !== '').map(p => s[p]).join(', ');
+const SORTABLE = new Set(['sample_key', 'study_accession', 'age_category', 'age_at_collection_days', 'sex', 'bmi', 'country', 'health_condition', 'n_fields_with_value', 'seq_gbp']);
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/'/g, "''");
+const h = s => String(s === null || s === undefined ? '' : s).replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const fmtV = v => { if (v === null || v === undefined) return ''; if (typeof v === 'bigint') return v.toString(); if (typeof v === 'number') return Number.isInteger(v) ? v.toLocaleString() : v.toFixed(1); return String(v); };
+let duckdb, db, conn, page = 0, total = 0, sortCol = 'study_accession', sortDir = 'ASC', lastFocus = null;
+
+function setBoot(msg) { $('boot-msg').textContent = msg; }
+function bootFail(e) { $('boot').innerHTML = '<b>The sample table could not load in this browser.</b> You can download it instead: <a href="../data/catalog_sample_metadata_wide.parquet">catalog_sample_metadata_wide.parquet</a>.'; console.error(e); }
+
+async function init() {
+  try {
+    setBoot('loading DuckDB-WASM module…');
+    ({ duckdb, db } = await bootDuckDB());
+    setBoot('fetching the sample table…');
+    for (const [name, url] of [['samples.parquet', CFG.samples], ['studies.parquet', CFG.studies]]) {
+      const resp = await fetch(url); if (!resp.ok) throw new Error('fetch of ' + url + ' failed: HTTP ' + resp.status);
+      await db.registerFileBuffer(name, new Uint8Array(await resp.arrayBuffer()));
+    }
+    conn = await db.connect();
+    // current samples only: rows carried with release_retired set (bitemporal history, e.g. PRJNA50637 at R2026.14) are not catalog members
+    const sCols = new Set((await conn.query(`DESCRIBE SELECT * FROM read_parquet('samples.parquet')`)).toArray().map(r => r.toJSON().column_name));
+    await conn.query(`CREATE VIEW s AS SELECT * FROM read_parquet('samples.parquet')${sCols.has('release_retired') ? ' WHERE release_retired IS NULL' : ''}`);
+    // R2026.15: study-level interventions (gut_studies.interventions, ';'-joined codes) join the explorer through `st`
+    const stCols = new Set((await conn.query(`DESCRIBE SELECT * FROM read_parquet('studies.parquet')`)).toArray().map(r => r.toJSON().column_name));
+    await conn.query(`CREATE VIEW st AS SELECT study_accession, study_title${stCols.has('interventions') ? ', interventions AS study_interventions' : ", NULL::VARCHAR AS study_interventions"} FROM read_parquet('studies.parquet')`);
+    COLS = new Set((await conn.query(`DESCRIBE s`)).toArray().map(r => r.toJSON().column_name));
+    for (const el of document.querySelectorAll('[data-field], [data-text], [data-year], [data-cond]')) {   // filters for columns this package does not carry are hidden
+      const col = el.dataset.field || el.dataset.text || (el.dataset.year ? 'collection_date' : null) || (el.dataset.cond ? 'health_condition_efo_id' : null);
+      const present = col === 'detailed_location' ? LOC_PARTS.some(p => COLS.has(p))
+        : el.dataset.cond ? COND_COLS.some(c => COLS.has(c)) : COLS.has(col);
+      if (!present) { el.disabled = true; const lab = el.closest('.row2') || el; lab.style.display = 'none'; const l = document.querySelector(`label[for="${el.id}"]`); if (l) l.style.display = 'none'; }
+    }
+    window.__gutReady = true;
+    $('boot').style.display = 'none'; $('exp').style.display = '';
+    await loadCollection(new URLSearchParams(location.search).get('collection'));   // ?collection=<id>: pre-entered filters from data/collections.json
+    await loadConditions();          // ?condition=<anchor|id|name>: the condition list of the Condition explorer
+    const k = new URLSearchParams(location.search).get('sample');   // read BEFORE run(): writeUrl() would drop the param while the panel is still closed
+    readUrl();
+    if (k && !$('f-q').value.trim()) $('f-q').value = k;   // item 10: ?sample=<key> filters the table to that sample …
+    await run();
+    if (k) { await showDetail(k); $('detail').scrollIntoView({block: 'start'}); }   // … and opens its detail panel
+  } catch (e) { bootFail(e); }
+}
+
+function whereClause() {
+  const w = [];
+  const q = $('f-q').value.trim();
+  if (q) {
+    if (/^PRJ[A-Z]*\d+$/i.test(q)) w.push(`s.study_accession = '${esc(q.toUpperCase())}'`);
+    else if (/^SAM[NED]A?\d+$/i.test(q) || /^[SED]RR\d+$/i.test(q)) w.push(`(s.sample_key = '${esc(q.toUpperCase())}' OR s.biosample_accession = '${esc(q.toUpperCase())}')`);
+    else w.push(`(st.study_title ILIKE '%${esc(q)}%' OR s.study_accession ILIKE '%${esc(q)}%')`);
+  }
+  for (const sel of document.querySelectorAll('select[data-field]')) { const v = sel.value; if (!v || sel.disabled) continue; w.push(v === '__null__' ? `s."${sel.dataset.field}" IS NULL` : `s."${sel.dataset.field}" = '${esc(v)}'`); }
+  for (const inp of document.querySelectorAll('input[data-text]')) {
+    const v = inp.value.trim(); if (!v || inp.disabled) continue;
+    const cols = inp.dataset.text === 'detailed_location' ? LOC_PARTS.filter(p => COLS.has(p)) : [inp.dataset.text];
+    if (cols.length) w.push('(' + cols.map(c => `s."${c}" ILIKE '%${esc(v)}%'`).join(' OR ') + ')');
+  }
+  const cond = $('f-condition');
+  if (cond && !cond.disabled && cond.value.trim()) {
+    const parts = conditionClause(cond.value);
+    if (parts.length) w.push('(' + parts.join(' OR ') + ')');
+  }
+  if (COLS.has('collection_date')) {
+    const y0 = $('f-year_min') && $('f-year_min').value, y1 = $('f-year_max') && $('f-year_max').value;
+    if (y0) w.push(`TRY_CAST(substr(s.collection_date, 1, 4) AS INTEGER) >= ${parseInt(y0)}`);
+    if (y1) w.push(`TRY_CAST(substr(s.collection_date, 1, 4) AS INTEGER) <= ${parseInt(y1)}`);
+  }
+  const iv = $('f-study_intervention') ? $('f-study_intervention').value : '';
+  if (iv === '__none__') w.push(`coalesce(st.study_interventions, '') = ''`);
+  else if (iv === '__any__') w.push(`coalesce(st.study_interventions, '') <> ''`);
+  else if (iv) w.push(`list_contains(string_split(coalesce(st.study_interventions, ''), ';'), '${esc(iv)}')`);
+  const sv = $('f-sample_intervention') ? $('f-sample_intervention').value : '';
+  if (sv && COLS.has('intervention')) w.push(sv === '__null__' ? `s.intervention IS NULL` : `list_contains(string_split(coalesce(s.intervention, ''), ';'), '${esc(sv)}')`);
+  if ($('f-infant').checked) w.push(`s.infant_scope`);
+  if ($('f-has_age').checked) w.push(`s.age_at_collection_days IS NOT NULL`);
+  if ($('f-has_subject').checked) w.push(`s.subject_id IS NOT NULL`);
+  const mn = $('f-min_fields').value; if (mn !== '') w.push(`s.n_fields_with_value >= ${parseInt(mn)}`);
+  for (const c of collectionClauses()) w.push(c);
+  return w.length ? 'WHERE ' + w.join(' AND ') : '';
+}
+// ---- collections (config/collections.yaml → data/collections.json): studies = any-of accessions; filters: list = any-of, {min,max} = range,
+// min_samples_per_subject = subjects with >= n samples in the same study. Same semantics as pages/collections.py, so counts match the collection page.
+let COLLECTION = null;
+async function loadCollection(id) {
+  COLLECTION = null; const bar = $('collection-bar'); if (bar) bar.style.display = 'none';
+  if (!id) return;
+  try {
+    const r = await fetch(CFG.collections); if (!r.ok) return;
+    const all = await r.json(); if (!all[id]) return;
+    COLLECTION = Object.assign({id}, all[id]);
+    if (bar) { bar.style.display = ''; bar.innerHTML = `Collection: <b>${h(COLLECTION.title)}</b> — filters pre-entered (<a href="../collections/${h(id)}.html">about this collection</a> · <a href="index.html">clear</a>)`; }
+  } catch (e) { COLLECTION = null; }
+}
+function collectionClauses() {
+  if (!COLLECTION) return [];
+  const w = [];
+  if (COLLECTION.studies && COLLECTION.studies.length) w.push(`s.study_accession IN (${COLLECTION.studies.map(a => `'${esc(String(a))}'`).join(',')})`);
+  for (const [k, v] of Object.entries(COLLECTION.filters || {})) {
+    if (k === 'min_samples_per_subject') { const mn = (v && typeof v === 'object') ? parseInt(v.min || 1) : parseInt(v); w.push(`(s.study_accession, s.subject_id) IN (SELECT study_accession, subject_id FROM s WHERE subject_id IS NOT NULL GROUP BY 1, 2 HAVING count(*) >= ${mn})`); continue; }
+    const col = k === 'collection_year' ? `TRY_CAST(substr(s.collection_date, 1, 4) AS INTEGER)` : (COLS.has(k) ? `s."${k}"` : null);
+    if (!col) { w.push('FALSE'); continue; }
+    if (v && typeof v === 'object' && !Array.isArray(v)) { if (v.min !== undefined) w.push(`TRY_CAST(${col} AS DOUBLE) >= ${parseFloat(v.min)}`); if (v.max !== undefined) w.push(`TRY_CAST(${col} AS DOUBLE) <= ${parseFloat(v.max)}`); }
+    else { const vals = (Array.isArray(v) ? v : [v]).map(x => `'${esc(String(x))}'`); w.push(`CAST(${col} AS VARCHAR) IN (${vals.join(',')})`); }
+  }
+  return w;
+}
+// ---- conditions (data/conditions/condition_explorer.csv, the table of the Condition explorer): the filter takes a
+// condition name, an EFO / MONDO id, or a condition's anchor (MONDO_0005011 — the address of its section on that
+// page, which is what ?condition= carries), and filters the samples on their own id columns. The list is read once,
+// after the sample table; with no such file the filter hides itself, so an older package simply has no filter.
+let CONDITIONS = null, CONDITION_BY = null;
+function parseCsv(text) {           // RFC 4180: quoted fields, doubled quotes, commas inside quotes
+  const rows = []; let row = [], cur = '', q = false;
+  if (text.charCodeAt(0) === 0xfeff) text = text.slice(1);
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (q) { if (ch === '"') { if (text[i + 1] === '"') { cur += '"'; i++; } else q = false; } else cur += ch; }
+    else if (ch === '"') q = true;
+    else if (ch === ',') { row.push(cur); cur = ''; }
+    else if (ch === '\n') { row.push(cur); rows.push(row); row = []; cur = ''; }
+    else if (ch !== '\r') cur += ch;
+  }
+  if (cur !== '' || row.length) { row.push(cur); rows.push(row); }
+  const head = rows.shift() || [];
+  return rows.filter(r => r.length > 1).map(r => Object.fromEntries(head.map((k, i) => [k, r[i] === undefined ? '' : r[i]])));
+}
+const condKey = s => String(s || '').trim().toLowerCase().replace(/_/g, ':');
+function hideField(el) { el.disabled = true; el.style.display = 'none'; const l = document.querySelector(`label[for="${el.id}"]`); if (l) l.style.display = 'none'; }
+async function loadConditions() {
+  const el = $('f-condition');
+  if (!el || el.disabled) return;
+  if (!CFG.conditions) { hideField(el); return; }   // no condition table in this build → no filter
+  try {
+    const r = await fetch(CFG.conditions); if (!r.ok) throw new Error('HTTP ' + r.status);
+    CONDITIONS = parseCsv(await r.text()).map(c => ({name: c.condition_name, anchor: c.anchor, id: c.condition_id, efo: c.efo_id, mondo: c.mondo_id, cases: Number(c.cases) || 0}));
+    if (!CONDITIONS.length) throw new Error('the condition table is empty');   // no list → no filter (the page says so)
+    CONDITION_BY = new Map();
+    for (const c of CONDITIONS) for (const k of [c.name, c.anchor, c.id, c.efo, c.mondo]) if (k && !CONDITION_BY.has(condKey(k))) CONDITION_BY.set(condKey(k), c);
+    const dl = $('cond-list');
+    if (dl) dl.innerHTML = CONDITIONS.slice().sort((a, b) => b.cases - a.cases).map(c => `<option value="${h(c.name)}">${h([c.efo, c.mondo].filter(Boolean).join(' '))} · ${c.cases.toLocaleString()} cases</option>`).join('');
+  } catch (e) { CONDITIONS = null; CONDITION_BY = null; hideField(el); }
+}
+// One condition = one identifier. The sample's condition id is health_condition_efo_id; health_condition_mondo_id
+// carries the MONDO term of the same condition and is the identifier only for the conditions EFO has no term for
+// (their condition id is a MONDO id and the EFO column is empty). The two columns are therefore never ORed: 14 pairs
+// of conditions share a MONDO id, and matching on both returns the samples of the other condition as well.
+function conditionClause(v) {
+  const c = CONDITION_BY ? CONDITION_BY.get(condKey(v)) : null;
+  const parts = [];
+  if (c) {
+    const col = c.efo ? 'health_condition_efo_id' : 'health_condition_mondo_id';
+    const id = c.efo || c.mondo;
+    if (id && COLS.has(col)) parts.push(`s."${col}" = '${esc(id)}'`);
+    else if (COLS.has('health_condition_name')) parts.push(`s."health_condition_name" = '${esc(c.name)}'`);
+    return parts;
+  }
+  const t = v.trim();
+  if (/^[A-Za-z]+[:_]\d+$/.test(t)) {          // an identifier the list does not know (or no list at all)
+    const id = t.replace('_', ':');             // the identifier as written: Orphanet keeps its case
+    for (const col of ['health_condition_efo_id', 'health_condition_mondo_id']) if (COLS.has(col)) parts.push(`s."${col}" = '${esc(id)}'`);
+  } else if (COLS.has('health_condition_name')) {
+    parts.push(`s."health_condition_name" ILIKE '%${esc(t)}%'`);
+  }
+  return parts;
+}
+const FROM = 'FROM s LEFT JOIN st USING (study_accession)';
+
+function writeUrl() {
+  const p = new URLSearchParams();
+  if ($('f-q').value.trim()) p.set('q', $('f-q').value.trim());
+  for (const sel of document.querySelectorAll('select[data-field], select[data-url], input[data-text], input[data-year], input[data-cond]')) if (sel.value && !sel.disabled) p.set(sel.id.replace(/^f-/, ''), sel.value);
+  if ($('f-infant').checked) p.set('infant', '1'); if ($('f-has_age').checked) p.set('has_age', '1'); if ($('f-has_subject').checked) p.set('has_subject', '1');
+  if ($('f-min_fields').value !== '') p.set('min_fields', $('f-min_fields').value);
+  if (page) p.set('page', page + 1);
+  if (sortCol !== 'study_accession' || sortDir !== 'ASC') p.set('sort', sortCol + ':' + sortDir);
+  if (COLLECTION) p.set('collection', COLLECTION.id);
+  const keep = new URLSearchParams(location.search).get('sample'); if (keep && $('detail').classList.contains('open')) p.set('sample', keep);
+  history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p.toString() : '') + location.hash);
+}
+function readUrl() {
+  const p = new URLSearchParams(location.search);
+  if (p.get('q')) $('f-q').value = p.get('q');
+  if (p.get('study')) $('f-q').value = p.get('study');
+  for (const sel of document.querySelectorAll('select[data-field], select[data-url], input[data-text], input[data-year], input[data-cond]')) { const v = p.get(sel.id.replace(/^f-/, '')); if (v) sel.value = v; }
+  if (p.get('infant')) $('f-infant').checked = true; if (p.get('has_age')) $('f-has_age').checked = true; if (p.get('has_subject')) $('f-has_subject').checked = true;
+  if (p.get('min_fields')) $('f-min_fields').value = p.get('min_fields');
+  if (p.get('page')) page = Math.max(0, parseInt(p.get('page')) - 1);
+  if (p.get('sort')) { const [c, d] = p.get('sort').split(':'); if (SORTABLE.has(c)) { sortCol = c; sortDir = d === 'DESC' ? 'DESC' : 'ASC'; } }
+}
+const SRC_WORD = { R1: 'archive record', R2: 'supplementary table', R3: 'paper text', R4: 'abstract' };
+function routeBadge(r, c) { return r ? `<span class="tag ${h(r)}" title="confidence ${fmtV(c)}">${h(SRC_WORD[r] || r)}</span>` : ''; }
+
+async function run() {
+  const where = whereClause();
+  $('count').textContent = 'counting…';
+  const c = await conn.query(`SELECT COUNT(*) AS n, COUNT(DISTINCT s.study_accession) AS k ${FROM} ${where}`);
+  const c0 = c.toArray()[0].toJSON(); total = Number(c0.n);
+  const maxPage = Math.max(0, Math.ceil(total / PAGE) - 1); if (page > maxPage) page = maxPage;
+  const r = await conn.query(`SELECT s.* ${FROM} ${where} ORDER BY "${sortCol}" ${sortDir} NULLS LAST, sample_key LIMIT ${PAGE} OFFSET ${page * PAGE}`);
+  const rows = r.toArray().map(x => x.toJSON());
+  const thead = $('result-table').querySelector('thead'), tbody = $('result-table').querySelector('tbody');
+  thead.innerHTML = '<tr>' + SHOW.map(col => SORTABLE.has(col)
+    ? `<th data-col="${col}" tabindex="0" role="columnheader button" aria-sort="${col === sortCol ? (sortDir === 'ASC' ? 'ascending' : 'descending') : 'none'}" title="sort by ${col}" style="cursor:pointer">${HDR[col] || col}${col === sortCol ? (sortDir === 'ASC' ? ' ▲' : ' ▼') : ''}</th>`
+    : `<th>${HDR[col] || col}</th>`).join('') + '</tr>';
+  const td = (val, f, cls) => { const s = val === null || val === undefined ? '' : String(val); const rt = f ? row_[f + '__route'] : null, cf = f ? row_[f + '__confidence'] : null;
+    return `<td class="${cls || ''}" title="${h((f || '') + (s ? ': ' + s : '') + (rt ? ' · ' + rt : '') + (cf !== null && cf !== undefined ? ' · confidence ' + fmtV(cf) : ''))}">${h(s)}</td>`; };
+  let row_ = null;
+  tbody.innerHTML = rows.map(row => { row_ = row; return `<tr data-key="${h(row.sample_key)}" tabindex="0" role="button" aria-label="open details for ${h(row.sample_key)}">` +
+    `<td class="mono">${archiveLink(row.sample_key, row.sample_key) || h(row.sample_key)}${row.biosample_accession && row.biosample_accession !== row.sample_key ? ' ' + archiveLink(row.biosample_accession, row.biosample_accession) : ''}</td><td>${studyLink(row)}</td>` +
+    td(row.age_category, 'age_category') + td(row.age_at_collection_days === null || row.age_at_collection_days === undefined ? '' : Math.round(Number(row.age_at_collection_days)), 'age_at_collection_days', 'num') +
+    td(row.sex, 'sex') + td(row.country, 'country') + td(row.health_condition, 'health_condition', 'tclip') + td(row.intervention, 'intervention', 'tclip') + td(row.antibiotic_exposure, 'antibiotic_exposure') +
+    td(row.subject_id, 'subject_id', 'tclip mono') + `<td class="num" title="${h(row.seq_depth_source || '')}">${row.seq_gbp === null || row.seq_gbp === undefined ? '' : ((g_) => g_ >= 1 ? g_.toFixed(1) : g_ >= 0.01 ? g_.toFixed(3) : g_ > 0 ? g_.toPrecision(2) : '0')(Number(row.seq_gbp))}</td></tr>`; }).join('');
+  $('count').textContent = `${total.toLocaleString()} samples match (${Number(c0.k).toLocaleString()} studies)`;
+  $('pageinfo').textContent = total ? `page ${page + 1} / ${maxPage + 1}` : '';
+  $('prev').disabled = page <= 0; $('next').disabled = page >= maxPage;
+  writeUrl();
+}
+function studyLink(row) {
+  const acc = row.study_accession;
+  return `<a href="${CFG.studiesUrl}${h(acc)}.html">${h(acc)}</a>`;
+}
+
+const CSV_ROW_CAP = 100000;   // R2026.43 (F514): above this, building the CSV in browser memory is likely to hang the tab
+async function download() {
+  const where = whereClause(), fname = 'microbiome_repo_samples.csv';
+  if (total > CSV_ROW_CAP && !confirm('This will build a file of about ' + total.toLocaleString() + ' rows in your browser, which may hang the tab. Cancel to download the whole table as parquet instead (link under the table).')) { $('dl-status').innerHTML = 'Cancelled. The whole table: <a href="../data/catalog_sample_metadata_wide.parquet">catalog_sample_metadata_wide.parquet</a>.'; return; }
+  $('dl-status').textContent = `preparing ${fname} (${total.toLocaleString()} rows)…`;
+  try {
+    await conn.query(`COPY (SELECT s.*, st.study_title ${FROM} ${where} ORDER BY s.study_accession, s.sample_key) TO '${fname}' (HEADER, DELIMITER ',')`);
+    const buf = await db.copyFileToBuffer(fname); await db.dropFile(fname);
+    const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([buf], {type: 'text/csv'})); a.download = fname; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+    $('dl-status').textContent = `${fname}: ${(buf.length / 1e6).toFixed(1)} MB`;
+  } catch (e) { $('dl-status').textContent = 'download failed: ' + (e.message || e); console.error(e); }
+}
+
+async function showDetail(key) {
+  const box = $('detail'), body = $('detail-body');
+  if (!box.classList.contains('open')) lastFocus = document.activeElement;
+  box.classList.add('open'); body.innerHTML = '<p class="status">loading…</p>'; box.focus();
+  const r = await conn.query(`SELECT s.*, st.study_title ${FROM} WHERE s.sample_key = '${esc(key)}'`);
+  const rows = r.toArray(); if (!rows.length) { body.innerHTML = `<p>No sample <b>${h(key)}</b>.</p>`; return; }
+  const s = rows[0].toJSON();
+  const p = new URLSearchParams(location.search); p.set('sample', key); history.replaceState(null, '', location.pathname + '?' + p.toString() + location.hash);
+  const SITEL = CFG.siteLabels || {};
+  let html = `<h2 style="margin-top:0">${h(key)}</h2><p>${studyLink(s)} · ${h(s.study_title)} · <a href="sample.html?id=${encodeURIComponent(key)}">sample page</a></p>
+  <p class="small">${archiveLink(s.biosample_accession || key, 'archive record ' + (s.biosample_accession || key))}${/^[SED]RR\d+$/.test(key) ? '' : ' · <a href="' + CFG.enaSampleUrl + h(s.biosample_accession || key) + '">ENA</a>'}${s.body_site_code ? ' · ' + h(SITEL[s.body_site_code] || String(s.body_site_code).replace(/_/g, ' ')) : ''}${s.sample_unit === 'run' ? ' · one sequencing run of a pooled BioSample' : ''}</p>
+  <h3>Age group</h3><p><b>${h(s.age_category)}</b> <span class="small">(${h(AGE_BASIS[s.age_category_basis] || 'not stated')})</span></p>
+  <h3>Fields</h3><table class="tbl kv">`;
+  const LBL = CFG.labels || {};
+  const fname_ = f => `${h(LBL[f] || f.replace(/_/g, ' '))} <span class="mono small muted">${h(f)}</span>`;
+  for (const f of FIELDS) {
+    if (f === 'detailed_location') { if (LOC_PARTS.some(p => COLS.has(p))) html += `<tr><td>${fname_('detailed_location')}</td><td>${h(detailedLocation(s))}</td></tr>`; continue; }
+    if (!COLS.has(f)) continue;   // column absent from this package → omitted
+    html += `<tr><td>${fname_(f)}</td><td>${fmtV(s[f])} ${routeBadge(s[f + '__route'], s[f + '__confidence'])}</td></tr>`;
+    if (f === 'lifestyle' && COLS.has('lifestyle_detail') && s.lifestyle_detail) html += `<tr><td>${fname_('lifestyle_detail')}</td><td class="small">${h(s.lifestyle_detail)}</td></tr>`;
+  }
+  if (s.health_condition_detail) html += `<tr><td>${fname_('health_condition_detail')}</td><td class="small">${h(s.health_condition_detail)}</td></tr>`;
+  if (COLS.has('latitude') && COLS.has('longitude') && s.latitude !== null && s.latitude !== undefined && s.longitude !== null && s.longitude !== undefined) {
+    const la = Number(s.latitude), lo = Number(s.longitude);
+    html += `<tr><td>Latitude, longitude <span class="mono small muted">latitude, longitude</span></td><td>${la.toFixed(4)}, ${lo.toFixed(4)} ${routeBadge(s.latitude__route, s.latitude__confidence)} · <a href="https://www.openstreetmap.org/?mlat=${la}&mlon=${lo}#map=8/${la}/${lo}">OpenStreetMap</a></td></tr>`;
+  }
+  html += '</table>';
+  const inf = ['delivery_mode', 'feeding_mode', 'preterm_status', 'gestational_age_weeks', 'birth_weight_grams', 'maternal_antibiotics', 'probiotic_exposure', 'hmo_supplementation', 'nec_status'].filter(f => COLS.has(f) && s[f] !== null && s[f] !== undefined);
+  if (inf.length) html += '<h3>Birth and feeding fields</h3><table class="tbl kv">' + inf.map(f => `<tr><td>${fname_(f)}</td><td>${fmtV(s[f])}</td></tr>`).join('') + '</table>';
+  html += `<h3>Evidence</h3><p class="small">The quote behind each value is on the <a href="sample.html?id=${encodeURIComponent(key)}">sample page</a>. Statements that describe the whole study are on the <a href="${CFG.studiesUrl}${h(s.study_accession)}.html">project page</a>.</p>`;
+  body.innerHTML = html;
+}
+
+$('apply').addEventListener('click', () => { page = 0; run(); });
+$('reset').addEventListener('click', () => { history.replaceState(null, '', location.pathname + location.hash); for (const el of document.querySelectorAll('.filters select, .filters input')) { if (el.type === 'checkbox') el.checked = false; else el.value = ''; } page = 0; sortCol = 'study_accession'; sortDir = 'ASC'; run(); });
+$('prev').addEventListener('click', () => { page = Math.max(0, page - 1); run(); });
+$('next').addEventListener('click', () => { page++; run(); });
+$('dl-csv').addEventListener('click', download);
+$('detail-close').addEventListener('click', closeDetail);
+function activate(e) {
+  const th = e.target.closest('th[data-col]'); if (th) { const c = th.dataset.col; if (sortCol === c) sortDir = sortDir === 'ASC' ? 'DESC' : 'ASC'; else { sortCol = c; sortDir = 'ASC'; } page = 0; run(); return; }
+  if (e.target.closest('a')) return;
+  const tr = e.target.closest('tr[data-key]'); if (tr) showDetail(tr.dataset.key);
+}
+$('result-table').addEventListener('click', activate);
+$('result-table').addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { if (e.target.closest('th[data-col], tr[data-key]')) { e.preventDefault(); activate(e); } } });
+function closeDetail() { $('detail').classList.remove('open'); const p = new URLSearchParams(location.search); p.delete('sample'); history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p.toString() : '') + location.hash); if (lastFocus) lastFocus.focus(); }
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && $('detail').classList.contains('open')) closeDetail(); });
+for (const el of document.querySelectorAll('.filters input')) el.addEventListener('keydown', e => { if (e.key === 'Enter') { page = 0; run(); } });
+for (const el of document.querySelectorAll('.filters select, .filters input[type=checkbox]')) el.addEventListener('change', () => { page = 0; run(); });
+
+init();
+
+// R2026.18: home-style search box + filters toggle
+(function () {
+  const tq = document.getElementById('top-q'), fq = document.getElementById('f-q'), tg = document.getElementById('toggle-filters'), ex = document.getElementById('exp');
+  if (tq && fq) { let t = null; tq.value = fq.value || new URLSearchParams(location.search).get('q') || '';
+    tq.addEventListener('input', () => { clearTimeout(t); t = setTimeout(() => { fq.value = tq.value; const b = document.getElementById('apply'); if (b) b.click(); }, 300); }); }
+  if (tg && ex) tg.addEventListener('click', () => { const off = ex.classList.toggle('nofilters'); tg.setAttribute('aria-expanded', off ? 'false' : 'true'); tg.textContent = off ? 'Filters' : 'Hide filters'; });
+})();

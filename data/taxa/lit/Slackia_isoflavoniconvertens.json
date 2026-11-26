@@ -1,0 +1,57 @@
+{
+ "slug": "Slackia_isoflavoniconvertens",
+ "taxon": "s__Slackia isoflavoniconvertens",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Slackia isoflavoniconvertens",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Slackia isoflavoniconvertens is a human intestinal bacterium that converts the main soybean isoflavones daidzein and genistein to equol and 5-hydroxy-equol.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Researchers identified a cluster of eight daidzein-induced genes, three of which encode a daidzein reductase, a dihydrodaidzein reductase and a tetrahydrodaidzein reductase.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Gut bacteria play a key role in the metabolism of dietary isoflavones, influencing the availability and bioactivation of these polyphenols in the intestine.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of school-age children that measured urinary equol and sequenced 223 faecal samples reported Slackia isoflavoniconvertens significantly associated with equol production.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Schröder C, Matthies A, et al.",
+   "title": "Identification and expression of genes involved in the conversion of daidzein and genistein by the equol-forming bacterium Slackia isoflavoniconvertens.",
+   "journal": "Applied and environmental microbiology",
+   "year": 2013,
+   "pmid": "23542626",
+   "n": 1,
+   "doi": "10.1128/aem.03693-12"
+  },
+  {
+   "authors": "Wada K, Suda W, et al.",
+   "title": "Gut microbiota associated with equol production in school-age children.",
+   "journal": "European journal of nutrition",
+   "year": 2025,
+   "pmid": "40343529",
+   "n": 2,
+   "doi": "10.1007/s00394-025-03625-w"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

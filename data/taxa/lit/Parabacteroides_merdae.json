@@ -1,0 +1,75 @@
+{
+ "slug": "Parabacteroides_merdae",
+ "taxon": "s__Parabacteroides merdae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Parabacteroides merdae",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Parabacteroides merdae was reclassified out of Bacteroides when 16S ribosomal RNA analysis showed that it did not belong in that genus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its beta-glucuronidase is an abundant enzyme of its type in Human Microbiome Project gut metagenomes; such enzymes can affect drug efficacy and toxicity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A cysteine peptidase of the clostripain family from this gut bacterium provided the first crystal structure for that peptidase family.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In mice, live bacteria degraded branched-chain amino acids through the porA gene and reduced atherosclerotic lesions on a high-fat diet.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Benno Y.",
+   "title": "Reclassification of Bacteroides distasonis, Bacteroides goldsteinii and Bacteroides merdae as Parabacteroides distasonis gen. nov., comb. nov., Parabacteroides goldsteinii comb. nov. and Parabacteroides merdae comb. nov",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2006,
+   "pmid": "16825636",
+   "n": 1,
+   "doi": "10.1099/ijs.0.64192-0"
+  },
+  {
+   "authors": "Little MS, Ervin SM, et al.",
+   "title": "Active site flexibility revealed in crystal structures of Parabacteroides merdae β-glucuronidase from the human gut microbiome",
+   "journal": "Protein science : a publication of the Protein Society",
+   "year": 2018,
+   "pmid": "30230652",
+   "n": 2,
+   "doi": "10.1002/pro.3507"
+  },
+  {
+   "authors": "McLuskey K, Grewal JS, et al.",
+   "title": "Crystal Structure and Activity Studies of the C11 Cysteine Peptidase from Parabacteroides merdae in the Human Gut Microbiome",
+   "journal": "The Journal of biological chemistry",
+   "year": 2016,
+   "pmid": "26940874",
+   "n": 3,
+   "doi": "10.1074/jbc.m115.706143"
+  },
+  {
+   "authors": "Qiao S, Liu C, et al.",
+   "title": "Gut Parabacteroides merdae protects against cardiovascular damage by enhancing branched-chain amino acid catabolism",
+   "journal": "Nature metabolism",
+   "year": 2022,
+   "pmid": "36253620",
+   "n": 4,
+   "doi": "10.1038/s42255-022-00649-y"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

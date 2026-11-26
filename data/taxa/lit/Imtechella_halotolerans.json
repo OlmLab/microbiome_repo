@@ -1,0 +1,51 @@
+{
+ "slug": "Imtechella_halotolerans",
+ "taxon": "s__Imtechella halotolerans",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Imtechella halotolerans",
+ "name_note": "The GTDB name matches the literature name; the publications retrieved mention this species only as a component of sequencing spike-in controls.",
+ "sentences": [
+  {
+   "text": "Imtechella halotolerans is a Gram-negative bacterium used as one of two species in a spike-in control developed for quantifying absolute microbial abundance.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In that study, a spike-in of 100,000 cells each of Imtechella halotolerans and Allobacillus halotolerans was used to quantify microbiota abundance in 100 mg of pig jejunal mucosa.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A preprint describes spiking more than a thousand human faecal microbiome samples with these two strains, which it states are not otherwise present in human faecal samples.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sung JY, Choi H, et al.",
+   "title": "Quantification of the absolute abundance of the jejunal mucosa-associated microbiota of pigs using spike-in control",
+   "journal": "Microbiome research reports",
+   "year": 2026,
+   "pmid": "42007375",
+   "n": 1,
+   "doi": "10.20517/mrr.2025.100"
+  },
+  {
+   "authors": "McPhillips CH, Reilly ET, et al.",
+   "title": "Ultra-High Multiplexing Enables Near-Full-Length 16S rRNA Gene Amplicon Sequencing of Over 1,200 Gut Microbiome Samples on a Single Nanopore Flow Cell",
+   "journal": "bioRxiv preprint",
+   "year": 2026,
+   "pmid": null,
+   "n": 2,
+   "doi": "10.64898/2026.08.29.747698"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

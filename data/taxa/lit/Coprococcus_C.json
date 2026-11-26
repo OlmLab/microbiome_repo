@@ -1,0 +1,57 @@
+{
+ "slug": "Coprococcus_C",
+ "taxon": "g__Coprococcus_C",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Coprococcus",
+ "name_note": "GTDB splits the classical genus Coprococcus into several genera; the genomes placed in Coprococcus_C carry the NCBI names Clostridium, Coprococcus and Wujia.",
+ "sentences": [
+  {
+   "text": "Coprococcus is a butyrate-producing genus in the phylum Firmicutes.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A review reports that its abundance is inversely correlated with several neuropsychological and neurodegenerative disorders, and that case-control studies show decreased abundance of Coprococcus spp. in depressed individuals.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In faecal samples from 213 pregnant women, the abundance of the butyrate-producing Coprococcus genus significantly decreased in those who developed late-onset preeclampsia.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In that study, Coprococcus abundance was significantly and positively correlated with genes encoding the terminal step in bacterial butyrate formation.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Notting F, Pirovano W, et al.",
+   "title": "The butyrate-producing and spore-forming bacterial genus Coprococcus as a potential biomarker for neurological disorders.",
+   "journal": "Gut microbiome (Cambridge, England)",
+   "year": 2023,
+   "pmid": "39295905",
+   "n": 1,
+   "doi": "10.1017/gmb.2023.14"
+  },
+  {
+   "authors": "Altemani F, Barrett HL, et al.",
+   "title": "Pregnant women who develop preeclampsia have lower abundance of the butyrate-producer Coprococcus in their gut microbiota.",
+   "journal": "Pregnancy hypertension",
+   "year": 2021,
+   "pmid": "33530034",
+   "n": 2,
+   "doi": "10.1016/j.preghy.2021.01.002"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

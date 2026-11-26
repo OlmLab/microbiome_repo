@@ -1,0 +1,57 @@
+{
+ "slug": "Acetatifactor",
+ "taxon": "g__Acetatifactor",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Acetatifactor (genomes in this GTDB genus also carry the NCBI name Waltera)",
+ "name_note": "Many genomes in this GTDB genus carry the NCBI names Waltera or Clostridium, so the GTDB genus is broader than the originally described Acetatifactor.",
+ "sentences": [
+  {
+   "text": "The genus Acetatifactor was proposed for strain CT-m2, which was cultured with selective agar media from the caecum of mice fed a high calorie diet.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That strain belongs to the Clostridium cluster XIV and is most closely related to members of the Lachnospiraceae, including Anaerostipes, Blautia, Butyrivibrio and Coprococcus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It is a non-motile Gram-positive rod that does not form spores, grows under strictly anoxic conditions, and produces acetate and butyrate in reduced WCA broth.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Obligately anaerobic, Gram-stain-negative wavy rods assigned to the genus Waltera, a name carried by genomes GTDB places here, were isolated from faeces of healthy Japanese people.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Pfeiffer N, Desmarchelier C, et al.",
+   "title": "Acetatifactor muris gen. nov., sp. nov., a novel bacterium isolated from the intestine of an obese mouse.",
+   "journal": "Archives of microbiology",
+   "year": 2012,
+   "pmid": "22659832",
+   "n": 1,
+   "doi": "10.1007/s00203-012-0822-1"
+  },
+  {
+   "authors": "Sakamoto M, Hisatomi A, et al.",
+   "title": "Isolation and characterization of a novel Waltera species and reclassification of Brotolimicola acetigignens Hitch et al. 2022 as Waltera acetigignens comb. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2024,
+   "pmid": "38722771",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.006381"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

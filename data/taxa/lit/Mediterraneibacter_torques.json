@@ -1,0 +1,66 @@
+{
+ "slug": "Mediterraneibacter_torques",
+ "taxon": "s__Mediterraneibacter torques",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Mediterraneibacter torques (published as Ruminococcus torques)",
+ "name_note": "Most genomes GTDB places in this species are deposited in NCBI as [Ruminococcus] torques; the name Mediterraneibacter torques comes from a reclassification of that species.",
+ "sentences": [
+  {
+   "text": "Mediterraneibacter torques is a gut bacterium whose name comes from the reclassification of Ruminococcus torques into the genus Mediterraneibacter.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Counted as Ruminococcus torques, it belongs to the mucolytic bacteria characterised by the ability to degrade human secretory mucin, which a study reports are present in healthy humans.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study reported Ruminococcus torques increased about 100-fold in macroscopically and histologically normal intestinal epithelium of both Crohn's disease and ulcerative colitis patients.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of alcohol-related liver disease suggested Mediterraneibacter torques among microbes relevant for bile acid metabolism in patients.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Togo AH, Diop A, Bittar F, Maraninchi M, Valero R, Armstrong N, Dubourg G, Labas N, Richez M, Delerce J, Levasseur A, Fournier PE, Raoult D, Million M.",
+   "title": "Description of Mediterraneibacter massiliensis, gen. nov., sp. nov., a new genus isolated from the gut microbiota of an obese patient and reclassification of Ruminococcus faecis, Ruminococcus lactaris, Ruminococcus torques, Ruminococcus gnavus and Clostridium glycyrrhizinilyticum as Mediterraneibacter faecis comb. nov., Mediterraneibacter lactaris comb. nov., Mediterraneibacter torques comb. nov., Mediterraneibacter gnavus comb. nov. and Mediterraneibacter glycyrrhizinilyticus comb. nov",
+   "journal": "Antonie van Leeuwenhoek",
+   "year": 2018,
+   "pmid": "29855844",
+   "n": 1,
+   "doi": "10.1007/s10482-018-1104-y"
+  },
+  {
+   "authors": "Png CW, Lindén SK, Gilshenan KS, Zoetendal EG, McSweeney CS, Sly LI, McGuckin MA, Florin TH.",
+   "title": "Mucolytic bacteria with increased prevalence in IBD mucosa augment in vitro utilization of mucin by other bacteria",
+   "journal": "The American journal of gastroenterology",
+   "year": 2010,
+   "pmid": "20648002",
+   "n": 2,
+   "doi": "10.1038/ajg.2010.281"
+  },
+  {
+   "authors": "Keller MI, de Zawadzki A, Thiele M, Suvitaival T, Sulek K, Kuhn M, Schudoma C, Podlesny D, Nishijima S, Fullam A, Kim CY, Niu L, Wretlind A, Hansen JK, Israelsen M, Johansen S, Akanni W, Hazenbrink D, Juel HB, Mann M, Hansen T, Krag A, Bork P, Legido-Quigley C, GALAXY & MicrobLiver consortia.",
+   "title": "Alcohol-related liver disease disrupts bile acid homeostasis and gut microbial bile acid metabolism",
+   "journal": "JHEP reports : innovation in hepatology",
+   "year": 2026,
+   "pmid": "41935631",
+   "n": 3,
+   "doi": "10.1016/j.jhepr.2026.101848"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

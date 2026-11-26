@@ -1,0 +1,66 @@
+{
+ "slug": "Faecalimonas_umbilicata",
+ "taxon": "s__Faecalimonas umbilicata",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalimonas umbilicata",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Faecalimonas umbilicata is an obligately anaerobic, non-spore-forming, Gram-stain-positive cocco-bacillus of the family Lachnospiraceae, isolated from human faeces and forming characteristic umbilicated colonies on EG agar.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Its DNA G+C content was reported as 46.9 and 45.5 mol% for the two strains, with major cellular fatty acids C18:1ω9c, C16:0 and C18:1ω9c dimethyl acetal.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study reported that Faecalimonas umbilicata was significantly enriched in the gut microbiota of patients with post-stroke cognitive impairment compared with healthy controls, and negatively correlated with MMSE and MoCA scores.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In a randomized, double-blind, placebo-controlled pilot trial in patients with mild to moderate Crohn's disease, Faecalimonas umbilicata was among short chain fatty acid producing bacteria that increased in fecal samples.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Sakamoto M, Iino T, et al.",
+   "title": "Faecalimonas umbilicata gen. nov., sp. nov., isolated from human faeces, and reclassification of Eubacterium contortum, Eubacterium fissicatena and Clostridium oroticum as Faecalicatena contorta gen. nov., comb. nov., Faecalicatena fissicatena comb. nov. and Faecalicatena orotica comb. nov.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2017,
+   "pmid": "28556772",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.001790"
+  },
+  {
+   "authors": "Feng RJ, Yu Q, et al.",
+   "title": "[Dysbiosis of Gut Microbiota in Patients with Post-Stroke Cognitive Impairment].",
+   "journal": "Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition",
+   "year": 2021,
+   "pmid": "34841763",
+   "n": 2,
+   "doi": "10.12182/20211160507"
+  },
+  {
+   "authors": "Leibovitzh H, Fliss Isakov N, et al.",
+   "title": "A Mushroom Based Prebiotic Supplement Pilot Study Among Patients with Crohn's Disease.",
+   "journal": "Journal of dietary supplements",
+   "year": 2025,
+   "pmid": "40313234",
+   "n": 3,
+   "doi": "10.1080/19390211.2025.2498127"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

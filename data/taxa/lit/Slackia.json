@@ -1,0 +1,66 @@
+{
+ "slug": "Slackia",
+ "taxon": "g__Slackia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Slackia",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Slackia equolifaciens, an equol-producing bacterium isolated from human faeces, was described as Gram-positive, obligately anaerobic, non-spore-forming, asaccharolytic and rod-shaped.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Eggerthella and Slackia species are described as gut-associated bacteria suggested to play roles in host lipid and xenobiotic metabolism.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Using quantitative PCR in the faeces of 19 human volunteers, a study measured Slackia species at a mean count of 3.1 times ten to the fifth colony-forming units per gram.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study in gnotobiotic rats reported that Slackia isoflavoniconvertens, isolated from humans, converts the dietary isoflavones daidzein and genistein to equol and 5-hydroxy-equol.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Jin JS, Kitahara M, Sakamoto M, Hattori M, Benno Y.",
+   "title": "Slackia equolifaciens sp. nov., a human intestinal bacterium capable of producing equol.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2010,
+   "pmid": "19734283",
+   "n": 1,
+   "doi": "10.1099/ijs.0.016774-0"
+  },
+  {
+   "authors": "Cho GS, Ritzmann F, Eckstein M, Huch M, Briviba K, Behsnilian D, Neve H, Franz CM.",
+   "title": "Quantification of Slackia and Eggerthella spp. in Human Feces and Adhesion of Representatives Strains to Caco-2 Cells.",
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "pmid": "27242689",
+   "n": 2,
+   "doi": "10.3389/fmicb.2016.00658"
+  },
+  {
+   "authors": "Matthies A, Loh G, Blaut M, Braune A.",
+   "title": "Daidzein and genistein are converted to equol and 5-hydroxy-equol by human intestinal Slackia isoflavoniconvertens in gnotobiotic rats.",
+   "journal": "The Journal of nutrition",
+   "year": 2012,
+   "pmid": "22113864",
+   "n": 3,
+   "doi": "10.3945/jn.111.148247"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Turicibacter",
+ "taxon": "g__Turicibacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Turicibacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Turicibacter sanguinis, described as a new species in a new genus, was isolated as a strictly anaerobic, Gram-positive rod from a blood culture of a febrile patient with acute appendicitis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study describes bacteria of the genus Turicibacter as prominent members of the mammalian gut microbiota that correlate with alterations in dietary fat and body weight.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study characterised mouse- and human-derived Turicibacter isolates, found they group into clades differing in their transformations of specific bile acids, and identified bile salt hydrolases conferring strain-specific differences in bile deconjugation.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of metabolic dysfunction-associated steatohepatitis reported that Turicibacter sanguinis was consistently enriched in all its models and public data sets, with abundance correlating positively with liver injury markers.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A study of gut microbiota composition in Lebanese subjects with autism spectrum disorders reported a lower abundance of Turicibacter in the autism and sibling groups than in controls.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Bosshard PP, Zbinden R, et al.",
+   "title": "Turicibacter sanguinis gen. nov., sp. nov., a novel anaerobic, Gram-positive bacterium.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "12148638",
+   "n": 1,
+   "doi": "10.1099/00207713-52-4-1263"
+  },
+  {
+   "authors": "Lynch JB, Gonzalez EL, et al.",
+   "title": "Gut microbiota Turicibacter strains differentially modify bile acids and host lipids.",
+   "journal": "Nature communications",
+   "year": 2023,
+   "pmid": "37339963",
+   "n": 2,
+   "doi": "10.1038/s41467-023-39403-7"
+  },
+  {
+   "authors": "Guo J, Xiang Z-w, et al.",
+   "title": "<i>Turicibacter sanguinis</i> is a candidate gut microbial pathobiont that promotes metabolic dysfunction-associated steatohepatitis.",
+   "journal": "mSystems",
+   "year": 2026,
+   "pmid": "42148776",
+   "n": 3,
+   "doi": "10.1128/msystems.00292-26"
+  },
+  {
+   "authors": "Gerges P, Bangarusamy DK, et al.",
+   "title": "Turicibacter and Catenibacterium as potential biomarkers in autism spectrum disorders.",
+   "journal": "Scientific reports",
+   "year": 2024,
+   "pmid": "39369020",
+   "n": 4,
+   "doi": "10.1038/s41598-024-73700-5"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

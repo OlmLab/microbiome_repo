@@ -1,0 +1,66 @@
+{
+ "slug": "Bacteroides_cellulosilyticus",
+ "taxon": "s__Bacteroides cellulosilyticus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Bacteroides cellulosilyticus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "A pair of carbohydrate esterases from Bacteroides cellulosilyticus was shown to together deacetylate complex beta-mannans, glycans widespread in the human diet.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In human cohort studies, the relative abundance of Bacteroides cellulosilyticus was significantly decreased in patients with metabolic dysfunction-associated steatotic liver disease.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study reported Bacteroides cellulosilyticus and its metabolite 2-hydroxyphenylacetic acid as key factors regulating the occurrence and development of that liver disease.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In cell culture, isolates of Bacteroides cellulosilyticus and Bacteroides xylanisolvens reduced inflammation in Caco-2 intestinal epithelial cells by lowering IL-8 and NF-kB transcription.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Chen K, Yang Z, Peng J, Liu C, Yu Y, Cai X, Liu B, Li S, Chen T, Jung S, Tian Y, Xu Q, Rao X, Wu Z, Wang H, Di Y, Wang L, Wang J, Lee MS, Zou Y, He N, Li S.",
+   "title": "<i>Bacteroides cellulosilyticus</i>-derived 2-hydroxyphenylacetic acid rectifies hepatic lipid homeostasis in MASLD by targeting the PPARγ-CD36 axis.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42677827",
+   "n": 1,
+   "doi": "10.1080/19490976.2026.2725392"
+  },
+  {
+   "authors": "Lindstad LJ, Mrozek PM, Boehlich GJ, Leivers S, Pope PB, La Rosa SL, Westereng B.",
+   "title": "Deacetylation of β-Mannans by Two Complementary Carbohydrate Esterases from the Human Gut Microbe <i>Bacteroides cellulosilyticus</i>.",
+   "journal": "Biochemistry",
+   "year": 2026,
+   "pmid": "42187162",
+   "n": 2,
+   "doi": "10.1021/acs.biochem.6c00194"
+  },
+  {
+   "authors": "Dinić M, Đokić J, Jakovljević S, Brdarić E, Mitrović H, Bisenić A, Radojević D, Bajić SS, Tomić S, Golić N.",
+   "title": "Insight into immunoregulatory and neuromodulatory capability of Bacteroides cellulosilyticus and Bacteroides xylanisolvens human gut microbiota isolates.",
+   "journal": "Scientific reports",
+   "year": 2025,
+   "pmid": "41168250",
+   "n": 3,
+   "doi": "10.1038/s41598-025-21839-0"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

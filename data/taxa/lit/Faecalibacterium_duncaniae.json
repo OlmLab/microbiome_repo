@@ -1,0 +1,87 @@
+{
+ "slug": "Faecalibacterium_duncaniae",
+ "taxon": "s__Faecalibacterium duncaniae",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Faecalibacterium duncaniae (strain A2-165, formerly named Faecalibacterium prausnitzii)",
+ "name_note": "Most genomes GTDB places here carry the NCBI name Faecalibacterium prausnitzii; the strain A2-165 lineage was renamed F. duncaniae, and Faecalibacterium hominis was shown to be a later synonym of it.",
+ "sentences": [
+  {
+   "text": "Faecalibacterium duncaniae, the species of strain A2-165 and formerly called Faecalibacterium prausnitzii, is a rod-shaped, non-motile bacterium that is extremely sensitive to oxygen.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "It belongs to one of the most abundant genera of the human gut microbiome and produces butyrate.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "text": "The species is developed as a next-generation probiotic and makes a microbial anti-inflammatory molecule that is processed and exported at its cell envelope.",
+   "refs": [
+    2,
+    4
+   ]
+  },
+  {
+   "text": "Faecalibacterium hominis, which shares 99.0 per cent 16S rRNA identity with the type strain, was shown to be a later synonym of Faecalibacterium duncaniae.",
+   "refs": [
+    5
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Ferrary Américo M, Vilela Rodrigues T, et al.",
+   "title": "Insights into the proteome of next-generation probiotic Faecalibacterium duncaniae A2-165 through label-free proteomics approach",
+   "journal": "BMC microbiology",
+   "year": 2026,
+   "pmid": "41709136",
+   "n": 1,
+   "doi": "10.1186/s12866-026-04814-1"
+  },
+  {
+   "authors": "Vilela Rodrigues T, de Jesus LL, et al.",
+   "title": "Recombinant MAM from Faecalibacterium duncaniae exhibits a protective effect in DNBS-induced colitis",
+   "journal": "Microbial cell factories",
+   "year": 2025,
+   "pmid": "41353317",
+   "n": 2,
+   "doi": "10.1186/s12934-025-02877-9"
+  },
+  {
+   "authors": "Chollet L, Heumel S, et al.",
+   "title": "Faecalibacterium duncaniae as a novel next generation probiotic against influenza",
+   "journal": "Frontiers in immunology",
+   "year": 2024,
+   "pmid": "38590519",
+   "n": 3,
+   "doi": "10.3389/fimmu.2024.1347676"
+  },
+  {
+   "authors": "Vilela Rodrigues T, Marthey S, et al.",
+   "title": "The Microbial Anti-Inflammatory Molecule (MAM) is a key protein processed and exported to Faecalibacterium duncaniae envelope",
+   "journal": "Gut microbes",
+   "year": 2025,
+   "pmid": "40530573",
+   "n": 4,
+   "doi": "10.1080/19490976.2025.2519695"
+  },
+  {
+   "authors": "Sakamoto M, Sakurai N, et al.",
+   "title": "Faecalibacterium hominis Liu et al. 2023 is a later heterotypic synonym of Faecalibacterium duncaniae Sakamoto et al. 2022",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2023,
+   "pmid": "37566461",
+   "n": 5,
+   "doi": "10.1099/ijsem.0.005995"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

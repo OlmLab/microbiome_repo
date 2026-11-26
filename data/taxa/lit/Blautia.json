@@ -1,0 +1,75 @@
+{
+ "slug": "Blautia",
+ "taxon": "g__Blautia",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Blautia",
+ "name_note": "The literature genus Blautia is broader than GTDB R232 g__Blautia, which excludes species such as Blautia wexlerae and Blautia luti (placed in the separate GTDB genus Blautia_A), so genus-level statements below describe the genus as the cited sources define it.",
+ "sentences": [
+  {
+   "text": "Blautia is described as a genus of anaerobic bacteria that occur widely in the feces and intestines of mammals.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A taxonomic study proposed Blautia as a new genus and transferred several species, including Ruminococcus hansenii and Ruminococcus productus, into it.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Blautia stercoris was described from a strictly anaerobic, Gram-stain-positive bacterium isolated from the faeces of a healthy individual, whose glucose fermentation produced acetic acid as the major short-chain fatty acid.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A cross-sectional study of Japanese men and women aged 20-76 years reported Blautia as the only gut microbe inversely associated with visceral fat area in both sexes.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Liu X, Mao B, et al.",
+   "title": "Blautia-a new functional genus with potential probiotic properties?",
+   "journal": "Gut microbes",
+   "year": 2021,
+   "pmid": "33525961",
+   "n": 1,
+   "doi": "10.1080/19490976.2021.1875796"
+  },
+  {
+   "authors": "Liu C, Finegold SM, et al.",
+   "title": "Reclassification of Clostridium coccoides, Ruminococcus hansenii, Ruminococcus hydrogenotrophicus, Ruminococcus luti, Ruminococcus productus and Ruminococcus schinkii as Blautia coccoides gen. nov., comb. nov., Blautia hansenii comb. nov., Blautia hydrogenotrophica comb. nov., Blautia luti comb. nov., Blautia producta comb. nov., Blautia schinkii comb. nov. and description of Blautia wexlerae sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2008,
+   "pmid": "18676476",
+   "n": 2,
+   "doi": "10.1099/ijs.0.65208-0"
+  },
+  {
+   "authors": "Park SK, Kim MS, et al.",
+   "title": "Blautia stercoris sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2012,
+   "pmid": "21571940",
+   "n": 3,
+   "doi": "10.1099/ijs.0.031625-0"
+  },
+  {
+   "authors": "Ozato N, Saito S, et al.",
+   "title": "Blautia genus associated with visceral fat accumulation in adults 20-76 years of age",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2019,
+   "pmid": "31602309",
+   "n": 4,
+   "doi": "10.1038/s41522-019-0101-x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,81 @@
+{
+ "slug": "Coprobacter",
+ "taxon": "g__Coprobacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Coprobacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Coprobacter fastidiosus is a Gram-negative obligate anaerobic bacterium of the phylum Bacteroidetes, and its type strain was isolated from human infant faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Coprobacter secundus was described from a culture-based study of the faecal microbiome of two adult female subjects.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Its type strain ferments a rich collection of carbohydrate substrates, produces acetic acid as a terminal product and is resistant to bile.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Coprobacter tertius was later described from an isolate cultured from the faeces of a patient attending a hospital breast care clinic.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A subspecies, Coprobacter secundus subsp. similis, was proposed for a strain isolated from the faecal sample of a healthy Japanese man.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Chaplin AV, Efimov BA, et al.",
+   "title": "Draft Genome Sequence of Coprobacter fastidiosus NSB1T",
+   "journal": "Genome announcements",
+   "year": 2014,
+   "pmid": "24604645",
+   "n": 1,
+   "doi": "10.1128/genomea.00122-14"
+  },
+  {
+   "authors": "Shkoporov AN, Chaplin AV, et al.",
+   "title": "Alistipes inops sp. nov. and Coprobacter secundus sp. nov., isolated from human faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2015,
+   "pmid": "26377180",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.000617"
+  },
+  {
+   "authors": "Teng NMY, Kiu R, et al.",
+   "title": "Allocoprobacillus halotolerans gen. nov., sp. nov and Coprobacter tertius sp. nov., isolated from human gut microbiota",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2023,
+   "pmid": "37417270",
+   "n": 3,
+   "doi": "10.1099/ijsem.0.005950"
+  },
+  {
+   "authors": "Sakamoto M, Ikeyama N, et al.",
+   "title": "Coprobacter secundus subsp. similis subsp. nov. and Solibaculum mannosilyticum gen. nov., sp. nov., isolated from human feces",
+   "journal": "Microbiology and immunology",
+   "year": 2021,
+   "pmid": "33913539",
+   "n": 4,
+   "doi": "10.1111/1348-0421.12886"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

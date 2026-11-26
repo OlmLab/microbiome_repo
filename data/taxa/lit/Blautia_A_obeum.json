@@ -1,0 +1,75 @@
+{
+ "slug": "Blautia_A_obeum",
+ "taxon": "s__Blautia_A obeum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Blautia obeum",
+ "name_note": "GTDB places this species in the split genus Blautia_A; the genomes in it carry the NCBI name Blautia obeum.",
+ "sentences": [
+  {
+   "text": "In a shotgun metagenomic study of 1,384 participants, Blautia obeum was more prevalent in the control group than among individuals with dyslipidemia.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Blautia obeum, Roseburia intestinalis and Akkermansia muciniphila were shown to be sources of antigens for the activation and priming of human DP8alpha regulatory T cells.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In an ancillary study of a rifaximin trial in severe cirrhosis, higher abundance of Blautia obeum at inclusion was associated with a lower incidence of spontaneous bacterial peritonitis.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "In lipopolysaccharide-induced depression-like mice, oral administration of Blautia obeum was linked to antidepressant effects attributed to modulation of specific gut bacteria.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lee S, Kim H-L, Raza S, Lee E-J, Chang Y, Ryu S, Cho J, Kim H-N.",
+   "title": "Gut microbial community structure, metabolic signature, and resistome in dyslipidemia: implications for cardiovascular disease management.",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "41778788",
+   "n": 1,
+   "doi": "10.1128/spectrum.00971-25"
+  },
+  {
+   "authors": "de Seilhac M, Verdon M, Goisnard L, Duquenoy A, Corvaia N, Plantamura E, Lapaque N, Beguet-Crespel F, Laperrousaz B, Doré J, Altare F, Godefroy E.",
+   "title": "Identification of human DP8α regulatory T cell sub-populations reactive to health-associated anti-inflammatory gut commensals.",
+   "journal": "Gut microbes",
+   "year": 2026,
+   "pmid": "42366515",
+   "n": 2,
+   "doi": "10.1080/19490976.2026.2690686"
+  },
+  {
+   "authors": "Ladeira R, Biguenet A, Meunier A, Gonthier M, Di Martino V, Pitta A, Bardou-Jacquet E, Jolivet-Gougeon A, Desmarets M, Thévenot T, Hocquet D, Valot B.",
+   "title": "Gut microbial dynamics and antibiotic resistance during rifaximin therapy in severe cirrhosis: a ProPILA-Rifax ancillary study.",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42871147",
+   "n": 3,
+   "doi": "10.3389/fcimb.2026.1930709"
+  },
+  {
+   "authors": "Li H, Luo X, Li F, Ye X, Yu M, Zou Z.",
+   "title": "Antidepressant effects of supercritical CO<sub>2</sub> extract of Citri Reticulatae Pericarpium through mediating gut microbiota dysbiosis, tryptophan and bile acid metabolisms.",
+   "journal": "Food research international (Ottawa, Ont.)",
+   "year": 2026,
+   "pmid": "41942184",
+   "n": 4,
+   "doi": "10.1016/j.foodres.2026.118879"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

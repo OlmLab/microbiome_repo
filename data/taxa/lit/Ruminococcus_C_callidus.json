@@ -1,0 +1,66 @@
+{
+ "slug": "Ruminococcus_C_callidus",
+ "taxon": "s__Ruminococcus_C callidus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Ruminococcus callidus",
+ "name_note": "GTDB places this species in the split genus Ruminococcus_C; the genomes carry the NCBI name Ruminococcus callidus.",
+ "sentences": [
+  {
+   "text": "Ruminococcus callidus occurs among human faecal bacteria; a species-specific 16S rRNA probe, Rcal 733, was designed to detect members of the species.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That probe was designed from 16S rRNA sequences isolated from faeces of five healthy adults and added to a panel used to describe faecal microbiota of healthy adults.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a study of African-origin women, lean Ghanaians had a significantly greater proportion of Ruminococcus callidus.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of gut microbiota reported reduced content of Ruminococcus callidus in patients with Parkinson's disease relative to healthy volunteers.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Lay C, Sutren M, et al.",
+   "title": "Design and validation of 16S rRNA probes to enumerate members of the Clostridium leptum subgroup in human faecal microbiota.",
+   "journal": "Environmental microbiology",
+   "year": 2005,
+   "pmid": "15946290",
+   "n": 1,
+   "doi": "10.1111/j.1462-2920.2005.00763.x"
+  },
+  {
+   "authors": "Dugas LR, Bernabé BP, et al.",
+   "title": "Decreased microbial co-occurrence network stability and SCFA receptor level correlates with obesity in African-origin women.",
+   "journal": "Scientific reports",
+   "year": 2018,
+   "pmid": "30459320",
+   "n": 2,
+   "doi": "10.1038/s41598-018-35230-9"
+  },
+  {
+   "authors": "Petrov VA, Saltykova IV, et al.",
+   "title": "Analysis of Gut Microbiota in Patients with Parkinson's Disease.",
+   "journal": "Bulletin of experimental biology and medicine",
+   "year": 2017,
+   "pmid": "28429209",
+   "n": 3,
+   "doi": "10.1007/s10517-017-3700-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

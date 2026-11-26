@@ -1,0 +1,77 @@
+{
+ "slug": "Rothia_dentocariosa",
+ "taxon": "s__Rothia dentocariosa",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Rothia dentocariosa",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Rothia dentocariosa is a Gram-positive actinobacterium counted as part of the physiological oral flora.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Isolates are catalase positive, reduce nitrate and nitrite, hydrolyse esculin and produce acid from glucose, sucrose, maltose, salicin and glycerol.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "It is frequently isolated from human clinical material and must be differentiated from morphologically similar organisms of the genera Actinomyces and Nocardia.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Published case reports describe it as a rare cause of infective endocarditis, usually in patients with prior heart conditions, and studies have associated it with periodontal inflammatory disease.",
+   "refs": [
+    3,
+    1,
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Greve D, Moter A, et al.",
+   "title": "Rothia aeria and Rothia dentocariosa as biofilm builders in infective endocarditis",
+   "journal": "International Journal of Medical Microbiology",
+   "year": 2021,
+   "pmid": "33581548",
+   "n": 1,
+   "doi": "10.1016/j.ijmm.2021.151478"
+  },
+  {
+   "authors": "Brown JM, Georg LK, et al.",
+   "title": "Laboratory identification of Rothia dentocariosa and its occurrence in human clinical materials",
+   "journal": "Applied Microbiology",
+   "year": 1969,
+   "pmid": "4886858",
+   "n": 2,
+   "doi": "10.1128/am.17.1.150-156.1969"
+  },
+  {
+   "authors": "Boudewijns M, Magerman K, et al.",
+   "title": "Rothia dentocariosa, endocarditis and mycotic aneurysms: case report and review of the literature",
+   "journal": "Clinical Microbiology and Infection",
+   "year": 2003,
+   "pmid": "12667255",
+   "n": 3,
+   "doi": "10.1046/j.1469-0691.2003.00503.x"
+  },
+  {
+   "authors": "Kataoka H, Taniguchi M, et al.",
+   "title": "Rothia dentocariosa induces TNF-alpha production in a TLR2-dependent manner",
+   "journal": "Pathogens and Disease",
+   "year": 2014,
+   "pmid": "24265267",
+   "n": 4,
+   "doi": "10.1111/2049-632x.12115"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

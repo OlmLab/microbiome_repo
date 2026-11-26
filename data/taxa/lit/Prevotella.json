@@ -1,0 +1,83 @@
+{
+ "slug": "Prevotella",
+ "taxon": "g__Prevotella",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Prevotella",
+ "name_note": "NCBI now assigns some of these genomes to Segatella or Xylanibacter, genera split from Prevotella in 2022, but GTDB R232 still groups them inside g__Prevotella.",
+ "sentences": [
+  {
+   "text": "Prevotella is a genus of anaerobic bacteria containing more than fifty characterised species, most of which live in association with humans rather than in other habitats.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A comparative genome study proposed reclassifying species previously assigned to the genus Prevotella into seven genera, so some of them carry different genus names in newer papers.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In people the genus is abundant at many body sites, including the mouth and other mucosal surfaces, where its members influence the balance between health and disease.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "Gut Prevotella are correlated with plant-rich diets high in carbohydrate and fibre, and diet, lifestyle and geography strongly shape which species and strains a person carries.",
+   "refs": [
+    3,
+    1
+   ]
+  },
+  {
+   "text": "Studies have associated higher Prevotella abundance at mucosal sites with periodontitis, bacterial vaginosis and rheumatoid arthritis, while lower abundance has been reported in asthma and COPD airways.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tett A, Pasolli E, Masetti G, Ercolini D, Segata N.",
+   "title": "Prevotella diversity, niches and interactions with the human host.",
+   "journal": "Nature reviews. Microbiology",
+   "year": 2021,
+   "pmid": "34050328",
+   "n": 1,
+   "doi": "10.1038/s41579-021-00559-y"
+  },
+  {
+   "authors": "Hitch TCA, Bisdorf K, Afrizal A, Riedel T, Overmann J, Strowig T, Clavel T.",
+   "title": "A taxonomic note on the genus Prevotella: Description of four novel genera and emended description of the genera Hallella and Xylanibacter.",
+   "journal": "Systematic and applied microbiology",
+   "year": 2022,
+   "pmid": "36067550",
+   "n": 2,
+   "doi": "10.1016/j.syapm.2022.126354"
+  },
+  {
+   "authors": "Precup G, Vodnar DC.",
+   "title": "Gut Prevotella as a possible biomarker of diet and its eubiotic versus dysbiotic roles: a comprehensive literature review.",
+   "journal": "The British journal of nutrition",
+   "year": 2019,
+   "pmid": "30924428",
+   "n": 3,
+   "doi": "10.1017/s0007114519000680"
+  },
+  {
+   "authors": "Larsen JM.",
+   "title": "The immune response to Prevotella bacteria in chronic inflammatory disease.",
+   "journal": "Immunology",
+   "year": 2017,
+   "pmid": "28542929",
+   "n": 4,
+   "doi": "10.1111/imm.12760"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

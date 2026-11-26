@@ -1,0 +1,75 @@
+{
+ "slug": "Enterococcus_B",
+ "taxon": "g__Enterococcus_B",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Enterococcus faecium species group",
+ "name_note": "GTDB's Enterococcus_B is narrower than the classical genus Enterococcus: it contains the Enterococcus faecium species group, including E. lactis, E. hirae, E. durans and E. mundtii, but not E. faecalis.",
+ "sentences": [
+  {
+   "text": "A review describes Enterococcus faecium as a healthcare-associated pathogen that evolved from a commensal gut inhabitant into a leading cause of multidrug-resistant nosocomial infections.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Enterococcus lactis, a species previously classified as Enterococcus faecium clade B, is described as a common commensal of human and animal intestines that is rarely associated with clinical infections.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review reports that Enterococcus faecium persists in both hospital and environmental contexts, with wastewater, animal farms and food products acting as reservoirs that facilitate interspecies gene exchange.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A prospective observational study in antibiotic-exposed preterm infants reported that early supplementation with a live combined preparation of Bacillus subtilis and Enterococcus faecium was associated with a lower incidence of feeding intolerance.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Vijayakumar K, Kannan S, Balakrishnan J.",
+   "title": "Molecular mechanisms of virulence in Enterococcus faecium: integrating Esp, Acm, regulatory RNA networks in multidrug resistant nosocomial infections",
+   "journal": "Archives of microbiology",
+   "year": 2026,
+   "pmid": "41848831",
+   "n": 1,
+   "doi": "10.1007/s00203-026-04829-2"
+  },
+  {
+   "authors": "Xu L, Yang X, Li X, Liu Y, Yin J, Dong G, Li C, Ni W, Zhang S, Ye B, Ma J, Zhang X.",
+   "title": "The Mannose Phosphotransferase System in Enterococcus lactis Is Essential for Gastrointestinal Colonization",
+   "journal": "Molecular microbiology",
+   "year": 2026,
+   "pmid": "41432198",
+   "n": 2,
+   "doi": "10.1111/mmi.70040"
+  },
+  {
+   "authors": "Al-Gallas N.",
+   "title": "Genomic insights into the emergence, adaptation, and environmental dissemination of Enterococcus faecium as a multidrug-resistant pathogen: a One Health perspective",
+   "journal": "FEMS microbiology letters",
+   "year": 2026,
+   "pmid": "42409359",
+   "n": 3,
+   "doi": "10.1093/femsle/fnag077"
+  },
+  {
+   "authors": "Ye C, Li L, Zhang H, Lyu Q, Xu Y, Li Y.",
+   "title": "Early supplementation with live combined Bacillus subtilis and Enterococcus faecium: association with feeding intolerance and gut microbiota composition in antibiotic-exposed preterm infants",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2026,
+   "pmid": "42239542",
+   "n": 4,
+   "doi": "10.3389/fcimb.2026.1826157"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "Akkermansia_muciniphila",
+ "taxon": "s__Akkermansia muciniphila",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Akkermansia muciniphila",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Akkermansia muciniphila is a mucin-degrading bacterium residing in the human gut, and a review reports it constitutes roughly three to five percent of the gut microbiota in healthy adults.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "Longitudinal metagenomic data from seven healthy individuals showed fluctuating relative abundance with short-term blooms, and detection rates of 56.9 percent by 16S sequencing and 33.3 percent by whole-genome sequencing.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "That study reported closely related strains shared between cohabiting individuals and across China, South Korea and the United States, which the authors read as human-mediated or environmental transmission.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A narrative review describes its abundance as linked to health with a reduction commonly observed in obesity, while noting concerns about potential pro-inflammatory effects at high concentrations.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Another review reports that depletion of Akkermansia muciniphila is associated with age-related diseases whereas its abundance is enriched in healthy centenarians.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Han N, Peng X, et al.",
+   "title": "Strain-level dynamics of Akkermansia muciniphila in the human gut microbiota.",
+   "journal": "AMB Express",
+   "year": 2025,
+   "pmid": "41364398",
+   "n": 1,
+   "doi": "10.1186/s13568-025-01982-7"
+  },
+  {
+   "authors": "Rojas OC, González GM.",
+   "title": "The Role of Akkermansia muciniphila in Obesity: Benefit or Harm?",
+   "journal": "Probiotics and antimicrobial proteins",
+   "year": 2026,
+   "pmid": "42635918",
+   "n": 2,
+   "doi": "10.1007/s12602-026-11144-1"
+  },
+  {
+   "authors": "Zhang T, Niu J, et al.",
+   "title": "Akkermansia muciniphila and Its Bioactive Derivatives: Emerging Regulators of Healthy Aging.",
+   "journal": "Aging cell",
+   "year": 2026,
+   "pmid": "42695484",
+   "n": 3,
+   "doi": "10.1111/acel.70702"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

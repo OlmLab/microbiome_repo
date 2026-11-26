@@ -1,0 +1,94 @@
+{
+ "slug": "Pseudomonas_aeruginosa",
+ "taxon": "s__Pseudomonas aeruginosa",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Pseudomonas aeruginosa",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Pseudomonas aeruginosa is a Gram-negative, metabolically versatile bacterium and an opportunistic pathogen of people with serious underlying conditions.",
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "text": "Reported infections include those in cystic fibrosis, burn wounds, immunodeficiency, chronic obstructive pulmonary disease and ventilated patients, and it is a leading cause of nosocomial infection.",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  {
+   "text": "It survives and persists in various environments and at different stages of pathogenesis through complex regulatory networks and genotypic-phenotypic variation responding to environmental cues and stresses.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Quorum sensing regulates virulence and biofilm formation, the biofilm matrix shields cells from stresses including antibiotics, and biofilm-mediated resistance with persister cells underlies relapse of infections.",
+   "refs": [
+    3,
+    5
+   ]
+  },
+  {
+   "text": "Its high intrinsic and acquired antibiotic resistance makes eradication increasingly difficult, and it is described as an emerging worldwide public health threat.",
+   "refs": [
+    3,
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Qin S, Xiao W, Zhou C, Pu Q, Deng X, Lan L, Liang H, Song X, Wu M.",
+   "title": "Pseudomonas aeruginosa: pathogenesis, virulence factors, antibiotic resistance, interaction with host, technology advances and emerging therapeutics.",
+   "journal": "Signal transduction and targeted therapy",
+   "year": 2022,
+   "pmid": "35752612",
+   "n": 1,
+   "doi": "10.1038/s41392-022-01056-1"
+  },
+  {
+   "authors": "Moradali MF, Ghods S, Rehm BH.",
+   "title": "Pseudomonas aeruginosa Lifestyle: A Paradigm for Adaptation, Survival, and Persistence.",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "year": 2017,
+   "pmid": "28261568",
+   "n": 2,
+   "doi": "10.3389/fcimb.2017.00039"
+  },
+  {
+   "authors": "Pang Z, Raudonis R, Glick BR, Lin TJ, Cheng Z.",
+   "title": "Antibiotic resistance in Pseudomonas aeruginosa: mechanisms and alternative therapeutic strategies.",
+   "journal": "Biotechnology advances",
+   "year": 2019,
+   "pmid": "30500353",
+   "n": 3,
+   "doi": "10.1016/j.biotechadv.2018.11.013"
+  },
+  {
+   "authors": "Gellatly SL, Hancock RE.",
+   "title": "Pseudomonas aeruginosa: new insights into pathogenesis and host defenses.",
+   "journal": "Pathogens and disease",
+   "year": 2013,
+   "pmid": "23620179",
+   "n": 4,
+   "doi": "10.1111/2049-632x.12033"
+  },
+  {
+   "authors": "Lee J, Zhang L.",
+   "title": "The hierarchy quorum sensing network in Pseudomonas aeruginosa.",
+   "journal": "Protein & cell",
+   "year": 2015,
+   "pmid": "25249263",
+   "n": 5,
+   "doi": "10.1007/s13238-014-0100-x"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "Eubacterium_G_ventriosum",
+ "taxon": "s__Eubacterium_G ventriosum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Eubacterium ventriosum",
+ "name_note": "The GTDB name carries the suffix _G because GTDB splits the classical genus Eubacterium; the organism is the species named Eubacterium ventriosum in the literature.",
+ "sentences": [
+  {
+   "text": "Eubacterium ventriosum is an anaerobic commensal bacterium of the Firmicutes, detected in human faecal samples by shotgun metagenomic sequencing.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A compact type II-A CRISPR-Cas9 system of 1107 residues from Eubacterium ventriosum has been characterised and used for genome editing in bacteria and human cells.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of 159 Chongqing residents split into young, middle-aged and elderly groups reported the Eubacterium ventriosum group enriched in the young adults.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A bidirectional two-sample Mendelian randomization study reported that higher genetically predicted abundance of the genus Eubacterium ventriosum group was associated with lower risk of irritable bowel syndrome.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tang N, Wu Z, et al.",
+   "title": "Molecular Basis and Genome Editing Applications of a Compact Eubacterium ventriosum CRISPR-Cas9 System.",
+   "journal": "ACS synthetic biology",
+   "year": 2024,
+   "pmid": "38061052",
+   "n": 1,
+   "doi": "10.1021/acssynbio.3c00501"
+  },
+  {
+   "authors": "Yang S, Sun S, et al.",
+   "title": "Exploratory associations of gut microbiota composition with HBeAg and HBsAg status in nucleos(t)ide analog-treated chronic hepatitis B.",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "42904653",
+   "n": 2,
+   "doi": "10.1128/spectrum.03896-25"
+  },
+  {
+   "authors": "Li S, Zhao X, et al.",
+   "title": "Age-Related and Lifestyle-Related Differences in Gut Microbiota Composition Among Community-Dwelling Adults.",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42655185",
+   "n": 3,
+   "doi": "10.3390/microorganisms14081841"
+  },
+  {
+   "authors": "Cheng Y, Shu Q, et al.",
+   "title": "Causal effects of gut microbiota on functional gastrointestinal disorders: a bidirectional Mendelian randomization study.",
+   "journal": "Experimental biology and medicine (Maywood, N.J.)",
+   "year": 2026,
+   "pmid": "42787224",
+   "n": 4,
+   "doi": "10.3389/ebm.2026.11023"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

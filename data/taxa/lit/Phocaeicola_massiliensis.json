@@ -1,0 +1,66 @@
+{
+ "slug": "Phocaeicola_massiliensis",
+ "taxon": "s__Phocaeicola massiliensis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Phocaeicola massiliensis",
+ "name_note": "The species was first described as Bacteroides massiliensis with type strain B84634, the strain GTDB uses as representative; later work uses the name Phocaeicola massiliensis.",
+ "sentences": [
+  {
+   "text": "The species was described from Gram-negative anaerobic rods isolated from a blood culture of a healthy baby born at term, and named Bacteroides massiliensis.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "It was characterised as a bile-resistant anaerobic species whose type strain is B84634, sharing 92.8 percent 16S rRNA similarity with Bacteroides vulgatus.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In tumour tissues from North Indian colorectal cancer patients profiled by 16S rRNA sequencing, Bacteroides massiliensis was among four species detected only in cancer tissue.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Choline-to-trimethylamine converting bacteria including Phocaeicola massiliensis were reported as enriched in men with abnormal semen parameters.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Fenner L, Roux V, Mallet MN, Raoult D.",
+   "title": "Bacteroides massiliensis sp. nov., isolated from blood culture of a newborn.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2005,
+   "pmid": "15879278",
+   "n": 1,
+   "doi": "10.1099/ijs.0.63350-0"
+  },
+  {
+   "authors": "Hasan R, Bose S, Roy R, Paul D, Rawat S, Nilwe P, Chauhan NK, Choudhury S.",
+   "title": "Tumor tissue-specific bacterial biomarker panel for colorectal cancer: Bacteroides massiliensis, Alistipes species, Alistipes onderdonkii, Bifidobacterium pseudocatenulatum, Corynebacterium appendicis.",
+   "journal": "Archives of microbiology",
+   "year": 2022,
+   "pmid": "35616767",
+   "n": 2,
+   "doi": "10.1007/s00203-022-02954-2"
+  },
+  {
+   "authors": "Wang S, Ma G, Qi C, Cheng S, Lai H, Zhou L, Wu G, Chen Z, Mao X, Jing T, He Y, Zhou H.",
+   "title": "Trimethylamine-N-oxide disrupts spermatogenesis by inducing mitochondrial oxidative stress injury through Hippo signaling.",
+   "journal": "Free radical biology & medicine",
+   "year": 2026,
+   "pmid": "41285255",
+   "n": 3,
+   "doi": "10.1016/j.freeradbiomed.2025.11.052"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

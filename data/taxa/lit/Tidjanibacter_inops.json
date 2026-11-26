@@ -1,0 +1,57 @@
+{
+ "slug": "Tidjanibacter_inops",
+ "taxon": "s__Tidjanibacter inops",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Alistipes inops",
+ "name_note": "GTDB places this species as s__Tidjanibacter inops (representative genome from NCBI organism Tidjanibacter massiliensis), while the overwhelming majority of genomes and the literature use the name Alistipes inops.",
+ "sentences": [
+  {
+   "text": "Alistipes inops is an obligately anaerobic, non-spore-forming, rod-shaped, non-motile, Gram-negative bacterium described from human faeces.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "The describing strain of Alistipes inops was reported as fastidious and slow-growing, indole-positive, with a non-fermentative metabolism producing acetic and succinic acids.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review lists Alistipes inops among Alistipes species typically isolated from the human gut microbiome, a genus whose members have also been recovered from clinical samples.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same review describes contrasting evidence for the genus Alistipes, with reported protective effects in some diseases and reported associations with colorectal cancer and depression.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Parker BJ, Wearsch PA, et al.",
+   "title": "The Genus Alistipes : Gut Bacteria With Emerging Implications to Inflammation, Cancer, and Mental Health.",
+   "journal": "Frontiers in immunology",
+   "year": 2020,
+   "pmid": "32582143",
+   "n": 1,
+   "doi": "10.3389/fimmu.2020.00906"
+  },
+  {
+   "authors": "Shkoporov AN, Chaplin AV, et al.",
+   "title": "Alistipes inops sp. nov. and Coprobacter secundus sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2015,
+   "pmid": "26377180",
+   "n": 2,
+   "doi": "10.1099/ijsem.0.000617"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

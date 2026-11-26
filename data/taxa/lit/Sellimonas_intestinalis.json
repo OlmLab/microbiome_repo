@@ -1,0 +1,60 @@
+{
+ "slug": "Sellimonas_intestinalis",
+ "taxon": "s__Sellimonas intestinalis",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Sellimonas intestinalis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Complete genome sequences were reported for Sellimonas intestinalis type strain JCM 30749 and three related Sellimonas genomes, each a single circular chromosome of about 2.8 to 3.8 million base pairs.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In 752 participants with type 2 diabetes, a study identified Sellimonas intestinalis as one of three gut species associated with albuminuria.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "In Malian children, a study reported that those susceptible to febrile malaria had a greater abundance of several bacteria including Sellimonas intestinalis.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Koike K, Murotomi K, Hamajima M, Tourlousse DM, Hisatomi A, Sakamoto M, Sekiguchi Y.",
+   "title": "Complete genome sequences of <i>Sellimonas intestinalis</i> JCM 30749<sup>T</sup>, <i>Sellimonas caecigallum</i> JCM 35759<sup>T</sup>, and <i>Sellimonas catena</i> JCM 35622<sup>T</sup> and JCM 35623.",
+   "journal": "Microbiology resource announcements",
+   "year": 2025,
+   "pmid": "39998194",
+   "n": 1,
+   "doi": "10.1128/mra.01282-24"
+  },
+  {
+   "authors": "Lin YT, Sayols-Baixeras S, Graells T, Dekkers KF, Baldanzi G, Nguyen D, Larsson A, Feldreich TR, Nielsen N, Eklund AC, Holm JB, Nielsen HB, Bergström G, Smith JG, Malinovschi A, Engström G, Orho-Melander M, Fall T, Ärnlöv J.",
+   "title": "Identification of Gut Microbiome Signatures and Metabolites Associated With Albuminuria in Type 2 Diabetes.",
+   "journal": "The Journal of clinical endocrinology and metabolism",
+   "year": 2026,
+   "pmid": "40810199",
+   "n": 2,
+   "doi": "10.1210/clinem/dgaf453"
+  },
+  {
+   "authors": "Schmidt N, Ham KVD, Bower L, Li S, Lorenzi H, Doumbo S, Doumtabe D, Kayentao K, Ongoiba A, Traore B, Crompton P.",
+   "title": "Susceptibility to febrile malaria is associated with an inflammatory gut microbiome",
+   "journal": null,
+   "year": 2024,
+   "pmid": null,
+   "n": 3,
+   "doi": "10.21203/rs.3.rs-3974068/v1"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

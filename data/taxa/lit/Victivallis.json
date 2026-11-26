@@ -1,0 +1,75 @@
+{
+ "slug": "Victivallis",
+ "taxon": "g__Victivallis",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Victivallis",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Victivallis vadensis is a strictly anaerobic, sugar-fermenting bacterium isolated from the human gastrointestinal tract, reported as the first cultured representative of the phylum Lentisphaerae.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study of the same strain described it as a Gram-negative anaerobic bacterium isolated from a human fecal sample, and cloned a gene from its genome annotated as an agarase.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A metagenomic study of patients with disorders of gut-brain interaction reported Victivallis vadensis among subtype-specific microbial signatures, in the subtype abbreviated FC.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "A Mendelian randomization study using MiBioGen consortium data reported the genus Victivallis as a risk factor among taxa causally linked to chronic rhinosinusitis.",
+   "refs": [
+    4
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "van Passel MW, Kant R, et al.",
+   "title": "Genome sequence of Victivallis vadensis ATCC BAA-548, an anaerobic bacterium from the phylum Lentisphaerae, isolated from the human gastrointestinal tract",
+   "journal": "Journal of bacteriology",
+   "year": 2011,
+   "pmid": "21398537",
+   "n": 1,
+   "doi": "10.1128/jb.00271-11"
+  },
+  {
+   "authors": "Temuujin U, Chi WJ, et al.",
+   "title": "Identification and characterization of a novel β-galactosidase from Victivallis vadensis ATCC BAA-548, an anaerobic fecal bacterium",
+   "journal": "Journal of microbiology (Seoul, Korea)",
+   "year": 2012,
+   "pmid": "23274992",
+   "n": 2,
+   "doi": "10.1007/s12275-012-2478-6"
+  },
+  {
+   "authors": "Tan W, Shi W, et al.",
+   "title": "Metagenomic characterization of gut microbiota in patients with Disorders of Gut-Brain Interaction",
+   "journal": "Frontiers in microbiology",
+   "year": 2026,
+   "pmid": "42991846",
+   "n": 3,
+   "doi": "10.3389/fmicb.2026.1890519"
+  },
+  {
+   "authors": "Liu Y, Meng C, et al.",
+   "title": "Identifying the causal relationship between gut microbiota and chronic sinusitis and the mediating effects of inflammatory cytokines: Insights from a Mendelian randomization study and mediation analysis",
+   "journal": "Microbial pathogenesis",
+   "year": 2026,
+   "pmid": "41422869",
+   "n": 4,
+   "doi": "10.1016/j.micpath.2025.108254"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-15",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

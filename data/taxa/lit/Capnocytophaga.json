@@ -1,0 +1,57 @@
+{
+ "slug": "Capnocytophaga",
+ "taxon": "g__Capnocytophaga",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Capnocytophaga",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Members of the Capnocytophaga genus are described as common residents of the oral cavity of humans and of some animals, notably dogs and cats.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A metapangenomic study of the human oral cavity reported a strong preference of most Capnocytophaga genomes for dental plaque, both supragingival and subgingival.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "That study identified strain-level variants of C. sputigena, C. gingivalis, C. granulosa and C. leadbetteri that were detected more often on the tongue.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A narrative review notes increasing reports linking certain human oral-associated Capnocytophaga species with systemic infections, while stating that clinical data are currently scanty.",
+   "refs": [
+    1
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Könönen E, Gürsoy M, et al.",
+   "title": "Human Oral-Associated <i>Capnocytophaga</i> Species and Their Clinical Relevance",
+   "journal": "Microorganisms",
+   "year": 2026,
+   "pmid": "42514017",
+   "n": 1,
+   "doi": "10.3390/microorganisms14071512"
+  },
+  {
+   "authors": "Giacomini JJ, Torres-Morales J, et al.",
+   "title": "Spatial ecology of the <i>Capnocytophaga</i> genus in the human oral cavity",
+   "journal": "Microbiology spectrum",
+   "year": 2026,
+   "pmid": "42059625",
+   "n": 2,
+   "doi": "10.1128/spectrum.03626-25"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "Acinetobacter",
+ "taxon": "g__Acinetobacter",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Acinetobacter",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Acinetobacter is a bacterial genus found widely in nature, including in soil, water, commercial food products, hospital environmental surfaces and medical devices.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In humans, members of the genus may transiently colonize the skin, the respiratory tract and the gastrointestinal tract, particularly in hospital settings.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The same source describes persistence under adverse conditions such as disinfection and desiccation, and generally low intrinsic virulence, with severe infections in immunodeficient, neutropenic or critically ill patients.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Published descriptions list pneumonia and wound, surgical site, bloodstream and urinary tract infections among reported diseases, often linked to invasive procedures and indwelling medical devices.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The genus has been described as a major reservoir of antimicrobial resistance, and Acinetobacter baumannii has been reported as the species most frequently responsible for human infections.",
+   "refs": [
+    2,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Bento D, Tobin EH.",
+   "title": "Acinetobacter",
+   "journal": "",
+   "year": 2026,
+   "pmid": "28613535",
+   "n": 1,
+   "doi": ""
+  },
+  {
+   "authors": "Bassetti M, Portunato F.",
+   "title": "State of the Art of Treatment of Acinetobacter baumannii Infections",
+   "journal": "Seminars in respiratory and critical care medicine",
+   "year": 2026,
+   "pmid": "43020132",
+   "n": 2,
+   "doi": "10.1055/a-2971-4336"
+  },
+  {
+   "authors": "Dahal U, Gautam A, et al.",
+   "title": "Isoelectric point stabilization and protein mass compression are associated with antimicrobial resistance in the genus Acinetobacter",
+   "journal": "World journal of microbiology & biotechnology",
+   "year": 2026,
+   "pmid": "42821028",
+   "n": 3,
+   "doi": "10.1007/s11274-026-05295-0"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

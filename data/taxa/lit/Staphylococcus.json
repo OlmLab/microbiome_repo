@@ -1,0 +1,67 @@
+{
+ "slug": "Staphylococcus",
+ "taxon": "g__Staphylococcus",
+ "level": "genus",
+ "status": "ok",
+ "literature_name": "Staphylococcus",
+ "name_note": "",
+ "sentences": [
+  {
+   "text": "Staphylococcus is a bacterial genus whose members include the coagulase-negative species Staphylococcus epidermidis, a member of the human skin microbiota.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Coagulase-negative staphylococci compete with invading bacteria directly, through antimicrobial molecules and signalling antagonism, and by priming skin immunity.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A review describes Staphylococcus aureus, also in this genus, as an opportunistic pathogen reported to be responsible for the majority of bacterial skin infections.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "Published work reports that Staphylococcus epidermidis is the commonest cause of implant-associated infection, forms biofilms, and that commensal staphylococci can shift towards opportunistic behaviour in skin dysbiosis.",
+   "refs": [
+    1,
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Severn MM, Horswill AR",
+   "title": "Staphylococcus epidermidis and its dual lifestyle in skin health and infection",
+   "journal": "Nature Reviews Microbiology",
+   "year": 2023,
+   "pmid": "36042296",
+   "n": 1,
+   "doi": "10.1038/s41579-022-00780-3"
+  },
+  {
+   "authors": "Parlet CP, Brown MM, et al.",
+   "title": "Commensal Staphylococci Influence Staphylococcus aureus Skin Colonization and Disease",
+   "journal": "Trends in Microbiology",
+   "year": 2019,
+   "pmid": "30846311",
+   "n": 2,
+   "doi": "10.1016/j.tim.2019.01.008"
+  },
+  {
+   "authors": "Fourniere M, Latire T, et al.",
+   "title": "Staphylococcus epidermidis and Cutibacterium acnes: Two Major Sentinels of Skin Microbiota and the Influence of Cosmetics",
+   "journal": "Microorganisms",
+   "year": 2020,
+   "pmid": "33171837",
+   "n": 3,
+   "doi": "10.3390/microorganisms8111752"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

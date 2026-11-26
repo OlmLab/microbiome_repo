@@ -1,0 +1,57 @@
+{
+ "slug": "Dorea_A_longicatena",
+ "taxon": "s__Dorea_A longicatena",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Dorea longicatena",
+ "name_note": "The suffix _A marks a GTDB split of the classical genus Dorea; the genomes GTDB places in this species carry the NCBI name Dorea longicatena.",
+ "sentences": [
+  {
+   "text": "Dorea longicatena was described from two strains of a gram-positively staining, obligately anaerobic, non-spore-forming, rod-shaped bacterium isolated from human faeces.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The describing study proposed those strains as a species of a novel genus, Dorea longicatena, and transferred Eubacterium formicigenerans to the same genus as Dorea formicigenerans.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Analysis of the 16S rRNA gene sequences indicated that these strains were members of the Clostridium coccoides rRNA group of organisms.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A study that analysed gut microbiota of patients with Parkinson's disease by high throughput 16S rRNA sequencing reported reduced content of Dorea longicatena in those patients.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Taras D, Simmering R, et al.",
+   "title": "Reclassification of Eubacterium formicigenerans Holdeman and Moore 1974 as Dorea formicigenerans gen. nov., comb. nov., and description of Dorea longicatena sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2002,
+   "pmid": "11931151",
+   "n": 1,
+   "doi": "10.1099/00207713-52-2-423"
+  },
+  {
+   "authors": "Petrov VA, Saltykova IV, et al.",
+   "title": "Analysis of Gut Microbiota in Patients with Parkinson's Disease.",
+   "journal": "Bulletin of experimental biology and medicine",
+   "year": 2017,
+   "pmid": "28429209",
+   "n": 2,
+   "doi": "10.1007/s10517-017-3700-7"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

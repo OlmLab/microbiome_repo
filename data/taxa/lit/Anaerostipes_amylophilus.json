@@ -1,0 +1,60 @@
+{
+ "slug": "Anaerostipes_amylophilus",
+ "taxon": "s__Anaerostipes amylophilus",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Anaerostipes amylophilus",
+ "name_note": "Most catalog genomes GTDB assigns to this species carry the NCBI name Anaerostipes hadrus, so literature using that name may include organisms GTDB places in Anaerostipes amylophilus.",
+ "sentences": [
+  {
+   "text": "Anaerostipes amylophilus belongs to the genus Anaerostipes, described as one of the major butyrate-producing genera in the gut microbiota of healthy human adults.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "A genomic comparison of 21 Anaerostipes strains from healthy human faeces and 105 public genomes found 12 species bins clustering into three functionally distinct groups correlating with host origin.",
+   "refs": [
+    3
+   ]
+  },
+  {
+   "text": "An integrative study comparing 36 obese and 36 healthy adults identified Anaerostipes amylophilus among 21 key species-level genome bins associated with obesity-related traits.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Tanabe T, Hisatomi A, et al.",
+   "title": "Anaerostipes stercorihominis sp. nov., isolated from human faeces.",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2026,
+   "pmid": "42704660",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.007276"
+  },
+  {
+   "authors": "Li L, Wang H, et al.",
+   "title": "Integrative profiling of gut microbiome, bacteriophagenome, and predicted metabolome in obese adults: novel insights into intervention targets.",
+   "journal": "BMC microbiology",
+   "year": 2026,
+   "pmid": "41612192",
+   "n": 2,
+   "doi": "10.1186/s12866-025-04682-1"
+  },
+  {
+   "authors": "Bhattacharjee D, Millman LC, et al.",
+   "title": "Genomic insights into the functional and metabolic versatility of gut microbiome Anaerostipes species.",
+   "journal": "Microbial genomics",
+   "year": 2026,
+   "pmid": "41661179",
+   "n": 3,
+   "doi": "10.1099/mgen.0.001617"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

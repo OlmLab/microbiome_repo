@@ -1,0 +1,60 @@
+{
+ "slug": "Ruminiclostridium_E_siraeum",
+ "taxon": "s__Ruminiclostridium_E siraeum",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Eubacterium siraeum",
+ "name_note": "The GTDB name Ruminiclostridium_E siraeum refers to the species published as Eubacterium siraeum, also written [Eubacterium] siraeum; the NCBI name of the GTDB representative genome is [Eubacterium] siraeum.",
+ "sentences": [
+  {
+   "text": "Eubacterium siraeum is a bacterium from which a miniature Cas12f endonuclease of 433 amino acids, named EsCas12f1, was characterised and engineered.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "One report describes Eubacterium siraeum as an asthma-associated species whose abundance in children could be predicted from the exhaled breath volatilome.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A study of two pig breeds identified Eubacterium siraeum as a strain linked to fat deposition, and reported that its metabolites curbed weight gain in mice.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Wang Y, Wang Y, Tang N, Wang Z, Pan D, Ji Q.",
+   "title": "Characterization and Engineering of a Novel Miniature <i>Eubacterium siraeum</i> CRISPR-Cas12f System.",
+   "journal": "ACS synthetic biology",
+   "year": 2024,
+   "pmid": "38941613",
+   "n": 1,
+   "doi": "10.1021/acssynbio.4c00154"
+  },
+  {
+   "authors": "Delzenne NM, Autuori M, Neyrinck AM.",
+   "title": "Breath volatilome as a non-invasive reflection of gut microbiota-driven health and disease.",
+   "journal": "Cell metabolism",
+   "year": 2026,
+   "pmid": "41950898",
+   "n": 2,
+   "doi": "10.1016/j.cmet.2026.03.007"
+  },
+  {
+   "authors": "Lai X, Liu S, Miao J, Shen R, Wang Z, Zhang Z, Gong H, Li M, Pan Y, Wang Q.",
+   "title": "Eubacterium siraeum suppresses fat deposition via decreasing the tyrosine-mediated PI3K/AKT signaling pathway in high-fat diet-induced obesity.",
+   "journal": "Microbiome",
+   "year": 2024,
+   "pmid": "39478562",
+   "n": 3,
+   "doi": "10.1186/s40168-024-01944-4"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

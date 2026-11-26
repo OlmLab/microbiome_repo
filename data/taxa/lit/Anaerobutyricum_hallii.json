@@ -1,0 +1,90 @@
+{
+ "slug": "Anaerobutyricum_hallii",
+ "taxon": "s__Anaerobutyricum hallii",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Anaerobutyricum hallii (formerly Eubacterium hallii)",
+ "name_note": "GTDB uses the current name Anaerobutyricum hallii; most published work calls the species Eubacterium hallii.",
+ "sentences": [
+  {
+   "text": "A strain related to Eubacterium hallii and isolated from infant faeces was separated as a new species when the genus Anaerobutyricum was created.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "The species uses glucose and the fermentation intermediates acetate and lactate to form butyrate and hydrogen, and converts 1,2-propanediol to propionate.",
+   "refs": [
+    2
+   ]
+  },
+  {
+   "text": "A cohort study identified it as one of the first butyrate producers in the infant gut; faecal libraries from four countries were screened for it.",
+   "refs": [
+    4
+   ]
+  },
+  {
+   "text": "It cannot break down complex oligosaccharides or polysaccharides itself, but grows on fermentation metabolites released by other gut bacteria.",
+   "refs": [
+    5
+   ]
+  },
+  {
+   "text": "Oral treatment of obese diabetic mice with the live bacterium improved insulin sensitivity and increased energy expenditure.",
+   "refs": [
+    3
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Shetty SA, Zuffa S, et al.",
+   "title": "Reclassification of Eubacterium hallii as Anaerobutyricum hallii gen. nov., comb. nov., and description of Anaerobutyricum soehngenii sp. nov., a butyrate and propionate-producing bacterium from infant faeces",
+   "journal": "International journal of systematic and evolutionary microbiology",
+   "year": 2018,
+   "pmid": "30351260",
+   "n": 1,
+   "doi": "10.1099/ijsem.0.003041"
+  },
+  {
+   "authors": "Engels C, Ruscheweyh HJ, et al.",
+   "title": "The Common Gut Microbe Eubacterium hallii also Contributes to Intestinal Propionate Formation",
+   "journal": "Frontiers in microbiology",
+   "year": 2016,
+   "pmid": "27242734",
+   "n": 2,
+   "doi": "10.3389/fmicb.2016.00713"
+  },
+  {
+   "authors": "Udayappan S, Manneras-Holm L, et al.",
+   "title": "Oral treatment with &lt;i&gt;Eubacterium hallii&lt;/i&gt; improves insulin sensitivity in &lt;i&gt;db/db&lt;/i&gt; mice",
+   "journal": "NPJ biofilms and microbiomes",
+   "year": 2016,
+   "pmid": "28721246",
+   "n": 3,
+   "doi": "10.1038/npjbiofilms.2016.9"
+  },
+  {
+   "authors": "Schwab C, Ruscheweyh HJ, et al.",
+   "title": "Trophic Interactions of Infant Bifidobacteria and &lt;i&gt;Eubacterium hallii&lt;/i&gt; during L-Fucose and Fucosyllactose Degradation",
+   "journal": "Frontiers in microbiology",
+   "year": 2017,
+   "pmid": "28194144",
+   "n": 4,
+   "doi": "10.3389/fmicb.2017.00095"
+  },
+  {
+   "authors": "Bunesova V, Lacroix C, et al.",
+   "title": "Mucin Cross-Feeding of Infant Bifidobacteria and Eubacterium hallii",
+   "journal": "Microbial ecology",
+   "year": 2018,
+   "pmid": "28721502",
+   "n": 5,
+   "doi": "10.1007/s00248-017-1037-4"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-13",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}

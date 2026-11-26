@@ -1,0 +1,51 @@
+{
+ "slug": "Anaerotignum_A_faecicola",
+ "taxon": "s__Anaerotignum_A faecicola",
+ "level": "species",
+ "status": "ok",
+ "literature_name": "Anaerotignum faecicola",
+ "name_note": "GTDB places this species in Anaerotignum_A, a split of the genus Anaerotignum under which it was described.",
+ "sentences": [
+  {
+   "text": "Anaerotignum faecicola was proposed as a novel species of the genus Anaerotignum for strain KGMB 03357, a strictly anaerobic bacterium isolated from the faeces of a healthy Korean.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "Cells of that strain are Gram-stain-positive, non-motile, non-spore-forming, straight or curved rods, and the isolate grew at 10 to 45 degrees Celsius with an optimum of 40 degrees.",
+   "refs": [
+    1
+   ]
+  },
+  {
+   "text": "In a randomized trial in healthy young men, oral prednisolone was reported to decrease Anaerotignum faecicola together with Dysosmobacter welbionis.",
+   "refs": [
+    2
+   ]
+  }
+ ],
+ "references": [
+  {
+   "authors": "Choi SH, Kim JS, et al.",
+   "title": "Anaerotignum faecicola sp. nov., isolated from human faeces.",
+   "journal": "Journal of microbiology (Seoul, Korea)",
+   "year": 2019,
+   "pmid": "31680219",
+   "n": 1,
+   "doi": "10.1007/s12275-019-9268-3"
+  },
+  {
+   "authors": "Lyu L, Fan Y, et al.",
+   "title": "Glucocorticoid-induced changes of the gut microbiota and metabolic markers in healthy young men: Outcome of a randomized controlled trial.",
+   "journal": "Cell reports. Medicine",
+   "year": 2025,
+   "pmid": "41218604",
+   "n": 2,
+   "doi": "10.1016/j.xcrm.2025.102426"
+  }
+ ],
+ "model": "claude-opus-5",
+ "written": "2026-11-14",
+ "verified": "every reference resolved at Crossref or Europe PMC with a matching title; every sentence has a quote found verbatim in the cited abstract and was judged supported by an independent reader (verify_lit.py)"
+}
